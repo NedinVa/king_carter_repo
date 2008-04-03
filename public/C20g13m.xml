@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C20g13m">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Micajah and Richard Perry, July 13, 1720</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 14 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">filename</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Micajah and Richard Perry, July 13, 1720</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date>unpublished</date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1720-07-13</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C20g13mT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>x p.</extent>
+<date value="1720-08-13"></date>
+<idno rend="suppress">C20g13m.xml</idno>
+<title>Letter from Robert Carter to Micajah and Richard Perry, July 13, 1720</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchants Micajah and Richard Perry, July 13, 1720, that he has distributed their letters which have come in a box via Maryland, and comments on what has been heard of the South Sea "Bubble," adding that he must depend on their judgements concerning his annuity and other investments. He informs the merchants of a bill of exchange for &pound;500 that he has drawn on them for "The part I am to hold in Bagwells Ship." Their recent sales of his tobacco have pleased him, but asks them to avoid "These late Sales" for his tobacco. He hopes that because the French and Spanish markets are now open that tobacco prices will hold and that there are fewer ships from the outports this year and about the usual number from London. The ships are loading to capacity which has depreciated prices in the colony, but which he hopes will not affect those at home. Because the Perrys have written that some of his tobacco was not of the best quality, he resolves "If please God I live I will endeavour to be nicer than Ever I have bin." He turns to his son John, then studying law in London, and John's desire that his father forgive his extravagant living of the past; he believes Joh's allowance of &pound;200 per year is a generous one. Colonial politics are calm, but Nathaniel Burwell has lost his place in the Assembly. John Bashford visits Carter frequently "to know his Doom," and Carter requests the Perrys to remember his "Debt from Hastewell" and to attempt to recover the money should opportunity arise. He concludes by noting that pirates have been "very bold &amp; rogueish upon our Coast this Year" and comments that he cannot understand why England does not offer more protection to the merchant fleets.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to Micajah and Richard Perry, July 13, 1720</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1720-08-13">July 13. 1720&mdash;</date><lb/>
+Messrs. Micajh. &amp; Richd.<lb/>Perry<lb/>
+</dateline>
+<salute>Gent&mdash;&mdash;</salute>
+
+</opener>
+
+<p>Yor. box of <abbr expan="letters">Lettrs.</abbr>
+ via Maryland was brought me from <lb/><note n="DM">McCartys</note> by a man of my own The begining of last week The <lb/>Same Day I <abbr expan="carried">carri'd</abbr>
+ them to <sic corr="Middlesex">Mieldlesex</sic> Court where I dispers'd most <lb/>of Them Mr. Pratt took care of those for James <abbr expan="river">rivr</abbr> &amp; York So that <lb/>I believe none of them will miscarry, in Yors. to me You Express a <lb/>Great deal of Concern <abbr expan="about">abt.</abbr> The <note target="n1">Stock Jobbing Trade</note>, and the <lb/>ruinous Consequences of It. We have since Accots. of May Date <lb/>that advise the Southsea Company had <sic corr="gotten">gott</sic> an Act of <lb/>Parliament in their favour and that their stock was then up <lb/>at 320 PerCt. If This be true You may well compare It to the <lb/><note target="n2"><sic corr="Mississippi">Missesscipy</sic> Company</note>. I have already told You as to my annuity <lb/>I must Submitt It to Yor. Prudence to Do by me as You should <lb/>think most advisable to do for Yor. self, In one of Yor. Letters <lb/>You say the bank buys all the annuitys they can how that <lb/>will Effect me I cant tell must Submitt It to Yor. Judgement <lb/>What money I Already have at Interest I am very willing <lb/>to keep there, but I have no <abbr expan="thoughts">Thots.</abbr>
+ of Contriving the laying out <lb/>anymore at present&mdash;&mdash;</p>
+
+<p>The part I am to hold in Bagwells Ship the &pound;500 I drew <lb/>on You <sic corr="the other">tother</sic> Day to <note n="EJ"><abbr expan="Colonel">Collo.</abbr> Jennings</note> &amp; some other large Tres<lb/>=passes I have still to make upon You wth. the fund necess<lb/>=ary for the Clearing my Tobo. will exhaust me low enough <lb/>The Tobo. You had sold of mine I was very well contented wth. <lb/>and shall be glad to find You held out to the end of the <lb/>Chapter These late Sales I am always <sic corr="afraid">affraid</sic> of &amp; am very <lb/>desirous you'l Avoid them in my Concern as much as reas-<lb/>=onably You can&mdash;&mdash;</p>
+
+<p>I would hope the <note target="n3">French &amp; The Spanish <sic corr="markets">Marketts</sic></note> <lb/>being both open you will be able to keep Tobo. up at The price <lb/>It is, We reckon we have considerably fewer Ships this year <lb/>than the last from the outports &amp; to London not more, Indeed <lb/><sic corr="they'll">theyl</sic> all return full and to Spare wch. hath Considerably <lb/><sic corr="depreciated">Depretiated</sic> the Commodity here but we flatter our selves will <lb/>have no Effect at home. You say some of my Tobo. was not <lb/>so agreeable as you could wish <sic corr="let">lett</sic> me come but well off wth. that <lb/>&amp; the crop now sent <lb/>If please God I live I will endeavour to be nicer than Ever <lb/>I have bin That I may keep pace with that Miscellaneous <lb/>Gent Mr. Pratt, who fluxes me egregiously</p>
+
+<p>You tell me my Son promises You to give me Sattisfaction <lb/>in rendring particular Accots. of his expenses but in this he hath <lb/>faild, he only Desires me to Draw a Line of oblivion upon what 
+
+
+<pb n="2"/><lb/><lb/>
+what [sic] is past &amp; promises he will Conform himself to my Allow=<lb/>=ance for the future and certainly 200 pound per Annum is a very <lb/>Genteel maintenance for him. he seems suspicious Mr. <lb/>Randolph hath done him some Disservice in his Character of him&mdash; <lb/>but in this he's Intirely Mistaken. he hath not lett fall any one <lb/>Expression That ever I heard of to his Disadvantage nor did I ever <lb/>Intend to make his Circumstances the measure of my Sons only as <lb/>to the <abbr expan="improvement">Improvemt.</abbr>
+ of his time, Yor Lettrs. upon Polliticks are not <lb/>at all Encouraging neither shall I give You any further Trouble <lb/>upon Those Themes, We are now under an Entire reconcili<lb/>=ation and all <sic corr="parties">partys</sic> seem <abbr expan="resolved">resolv'd</abbr>
+ to forgett <note target="n4">whts. Past</note>. Poor <note n="NB"><abbr expan="Nathaniel">Nath.</abbr>
+ <lb/>Burwell</note> hath left his place and is like to Stand Concluded for <lb/>wt. I see. <abbr expan="It is">Tis</abbr> well he can live wth.out It &amp; may all honest men <lb/>be able to Do So. You have already had a full accot. of the steps <lb/>of This reconciliation. I need give You no further trouble abt. It</p>
+
+<p>My Affair in Whitehaven You have finish'd and <lb/>Bassnetts business I shall Say no more of Poor Bashford is often <lb/>wth. me to know his Doom, My Debt from <note target="n6">Hastewell</note> one of the <lb/>owners of the Carter I can never forgett &amp; am unwilling You <lb/>Should not remember It If ever It should <sic corr="lie">lye</sic> in Yor. way to <lb/>Serve me&mdash; The privateers have bin very bold &amp; rogueish <lb/>upon our Coast this Year, all Yor. <abbr expan="captains">Captns.</abbr> will <sic corr="set">Sett</sic> this Story <lb/>in a better light than I can Surely all the Traders <abbr expan="concerned">Concernd</abbr><lb/>This way will Join in one Clamour wth. one voice to have more <lb/>care taken of us for the future, That such a Fleet of Ships <lb/>So very profitable to the Crown and such a Country Should <lb/><sic corr="lie">ly</sic> <add place="supralinear"> so </add> <abbr expan="exposed">Exposd</abbr> to Every Pickerune rogue is a most Egregious Shame <lb/>I'll release you at present &amp; am&mdash; </p>
+
+<closer><abbr expan="Gentlemen">Gent.</abbr>
+ <lb/>Yor. most humble Servt.</closer>
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+<note><hi rend="italics">Source copy consulted:</hi>  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. Printed: <cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> pp. 4-7.</bibl></cit>
+</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note><lb/>
+
+<note id="n1">[1] RC refers to the South Sea Company whose stock in June had been worth &pound;1060 for each £100 share; the crash of the "Bubble" was underway even as he wrote. (<cit><bibl>Goldwin Smith. <title>A History of England.</title> Chicago, <hi rend="italics">et al.</hi>: Scribner's, 1949. p. 424.</bibl></cit>)</note>
+
+<note id="n2">[2] RC refers to the Compagnie de l'Occident, often called the Mississippi Company, which was a speculative company formed in 1717 by John Law, a Scot with an excellent reputation in France as a banker and financier. The firm assumed control of Louisiana from the French government on January 1, 1718, and its stock sold well. But wild speculation ensued, and the company failed in 1720. (<cit><bibl><title>Dictionary of American History,</title> III, 421.</bibl></cit>)</note>
+
+<note id="n3">[3] Britain and France had been allies since the Quadruple Alliance was formed in 1718, and Britain's quarrels with Spain were to end with the Treaty of Madrid, signed in 1721. There would be peace for the remainder of RC's lifetime.</note>
+
+<note id="n4">[4] At a meeting of the Council on April 20, 1720, Lt. Gov. Spotswood and the Council agreed to end a controversy that had lasted for several years, involving questions of the power of appointment in the colony, and the power of the governor vs. that of the Coucil. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 3(1705-1721): 524.</bibl></cit>
+ and <cit><bibl n="B17">Morton. <title>Colonial Virginia.</title> II, 475.</bibl> </cit>)</note>
+
+<note id="n5">[5] John Bashford (d. 1735) may have had problems, but in 1726, he was to present affaidavits in Northumberland County court to prove his parentage and marriage because "he had fallen heir to an estate in England." (<cit><bibl>"The Heaths of Northumberland County, Virginia," <title>William and Mary Quarterly. </title> 1st. ser., 24[1915]: 109-115.</bibl></cit>)</note>
+
+<note id="n6">[6] This was probably Edward Hastewell, a London merchant who signed on November 23, 1699&mdash;as did Micajah Perry and John Goodwin&mdash;a memorial, on behalf of themselves and others trading to Virginia, to the Commissioners for Trade and Plantations. In a letter of July 13, 1720, to the Perrys, RC also referred to Hastewell as one of the owners of the <hi rend="italics">Carter</hi>. </note>
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

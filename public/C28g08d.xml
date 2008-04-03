@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C28g08d">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Micajah Perry, July 8, 1728</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca.9  kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C28g08d.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2004</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Micajah Perry, July 8, 1728</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1728-07-8</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C28g08dT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent> p.</extent>
+<date value="1728-07-8"></date>
+<idno rend="suppress">C28g08d.xml</idno>
+<title>Letter from Robert Carter to Micajah Perry, July 8, 1728</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant Micajah Perry, July 8, 1728, to report bills of exchange for Nathaniel Burwell's estate and how they are to be accounted for.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="MP2">Micajah Perry,</note> July 8, 1728</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Rappahannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1728-07-8">July the 8th:&mdash;1728</date><lb/>
+Micajh. Perry Esqr.<lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+<p>You have bin already advised that we <abbr expan="Should">Shd.</abbr> <lb/>quickly remit to you Some bills of Exchange for the Accot. of <note n="NB">Mr. Bur<lb/>wells Estate</note> herein are Enclosed the following bills drawn by <lb/>the <abbr expan="Executors">Execrs.</abbr> of <note n="RW">Mr. Wormeley</note> to wit upon your Self for &pound;150. On <lb/><note n="ET">Mr. Tucker</note> 123"13"&mdash; On <note target="n1">Mr. Stark</note> of Glasgow &pound;75"&mdash; and <lb/>I have another bill on <note n="WD">Mr. Dawkins</note> which I have promised 
+
+<pb n="2"/><lb/><lb/>
+not to Send away till the <note n="CS"><name type="ship">Carter</name></note> goes for &pound;55"4"6 in the whole &pound;<lb/>403"17:6 You are to observe that &pound;300 of this money is only to be <lb/>placed to the Credit of Mr. Burwells Accot. the &pound;103"17"6 is to be placed <lb/>to the Credit of <note target="n2"><abbr expan="Elizabeth">Eliz.</abbr> Burwells</note> Accot. being the Interest due for <del>the Currt</del> <lb/>this money let out according to the will of her father, I Shall add <lb/>no more here but remain </p>
+
+<closer>Sir<lb/>Your most humble Servt.
+<seg type="postscript"><lb/><lb/>Colonel Page and I have lately drawn <lb/>on you for &pound;100 payable to Colonel <sic corr="Braxton">Braxston</sic> being for <abbr expan="Negroes">Negs.</abbr> <sic corr="we">wee</sic> bought to Supply the Mortalitys of <lb/>that Estate
+<lb/>per <note target="n3">Wills</note>
+<lb/>Copy per <note target="n4">Trice</note></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. </note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. "Rappahannock," the county, and colony have been added for clarity to this unheaded draft.</note>
+
+<note>The word "Mr." was struck out in front of Perry's name in this letter's address but the software will not permit it to be shown as struck as is done in the body of the letter.</note>
+
+<note id="n1">[1] John Stark was a merchant, probably the one to whom Carter referred when he wrote to Micajah Perry on 1723 July 4 that he had drawn an order on "Mr. Stark of Glasgow." On that same day, he wrote to a John Stark, referring to Captain Bowman.</note>
+
+<note id="n2">[2]  Elizabeth Burwell (1718- ?) was Carter's grandaughter by his daughter, Elizabeth, and her first husband, Nathaniel Burwell. She married in 1738 William Nelson of Yorktown.(<cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 143.</bibl></cit>)</note>
+
+<note id="n3">[3] Captain Peter Wills commanded the  <hi rend="italics">Booth</hi> in 1723-1724, and the <hi rend="italics">Amity</hi> in 1727. He is mentioned in Carter's diary for June 1723.  (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194, Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n4">[4] The 140 ton <hi rend="italics">Welcome</hi> was owned by London merchant James Bradley to whom Carter would write about her on 1727 May 17.  John Trice (Frice) was her captain, 1723-1728. (<cit><bibl>Survey Report 6801 summarizing Adm 68/195, 154r, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

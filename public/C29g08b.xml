@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C29g08b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Captain Richard Kelsick, July 8, 1729</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 7 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C29g08b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2005</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Captain Richard Kelsick, July 8, 1729</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1728 August 8-1730 May 15,  Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1729-07-08</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C29g08bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent> p.</extent>
+<date value="1729-07-08"></date>
+<idno rend="suppress">C29g08b.xml</idno>
+<title>Letter from Robert Carter to Captain Richard Kelsick, July 8, 1729</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Captain Richard Kelsick of the <hi rend="italics">Mazareen</hi>, July 8, 1729, authorizing the captain to sell the 6 hogsheads of tobacco that Carter has on board, and ordering bottles and coal.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note target="n1">Captain Richard Kelsick,</note> July 8, 1729</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1729-07-08">July. 8. 1729</date><lb/>
+Capt Richard Kelsick<lb/>
+</dateline>
+<salute>Sir</salute>
+
+</opener>
+
+<p>My Old Correspondent in <note target="n2">your Port</note> hath for <lb/>
+many years been Mr <note target="n3">John Gale</note> whose Candour and integri-<lb/>
+ty I have a very great Opinion of However in regard you have <lb/>
+no freight <abbr expan="Tobacco">Tobo</abbr> on board your ship but what is <sic corr="Consigned">Consignd</sic> <lb/>
+to <abbr expan="your">yr</abbr>Self I am contented you should have the dispose of my 6 <lb/>
+hogsheads Also for which I herewith send you a bill of lading <lb/>
+desiring you will bring me in 4 or 6 <sic corr="gross">groce</sic> of yr best &amp; Stron-<lb/>
+gest <abbr expan="Quart">Qt</abbr> Bottles and a <sic corr="cauldron">Chaldron</sic> of your Coals I would have <abbr expan="them">`em</abbr> <lb/>
+brought in with as little Charge as Possible the coals may <lb/>
+come in loose and the bottles in Crates which is the Cheapest <lb/>
+way</p>
+
+<p>I Heartily wish you a good <sic corr="Voyage">Voiage</sic> and am <lb/>
+<abbr expan="your">yr</abbr> Humble Servt.</p>
+
+<closer></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. </note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
+
+<note id="n1">[1] Carter noted in his diary 1727 January 19 the arrival of the <hi rend="italics">Mazareen</hi> at his house and a visit from her captain, Richard Kelsick, four days earlier. </note>
+
+<note id="n2">[2] Glasgow</note>
+
+<note id="n3">[3] John Gale was a Glasgow merchant about whom has little been discovered. Carter would write him several times in the period 1727-1729.</note>
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+
+<TEI.2 id="C20g13a">
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Robert Burridge, July 13, 1720</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 5 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">filename</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Robert Burridge, 1720 July 13</title>
+     </titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date>unpublished</date>
+   <idno type="callNo"> Source copy consulted:   BR227, Huntington Library and Art Gallery, San Marino, California.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1720-07-13</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C20g13a.xmlT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 pp.</extent>
+<date value="July 13, 1720">1720-07-13</date>
+<idno rend="suppress">work id</idno>
+<title>Letter from Robert Carter to Robert Burridge</title>
+</bibl>
+</head>
+<p>Robert Carter sends copies of letters he had sent earlier by the Prince to London merchant Robert Burridge concerning 5 hogsheads of tobacco shipped by the Carter consigned to Burridge's partner, Joseph Paice, and enclosing accounts of Burridge's affairs in his hands.</p>
+</div1>                 
+</front>
+
+<body>
+
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="RB2">Robert Burridge,</note> July 13, 1720</head>
+
+<opener>
+
+<dateline>
+<pb n="1"/>
+<date value="1720-07-13">July 13th 1720.</date><name type="place">Rappahannock, [Lancaster County, Virginia]</name><lb/>
+Mr. Robt Burridge
+</dateline>
+<salute>Sir</salute>
+
+</opener>
+
+<p>
+This accompan<add resp="editor">[ies]</add>  Coppys of my Lettr <lb/>
+&amp; Accots by the <name type="ship">Prince,</name> <name type="person">James Wyatt</name> Commandr. who <lb/>
+I hope is safe wth You long before now, I have now Shipt <lb/>
+upon Yor. Accot. 5 heavy hogsheads more <add place="supralinear">tht net 4255 wth. cask</add> in The <note target="n1"><name type="ship">Carter</name></note> to Mr. <lb/>
+<name type="person">Joseph Paise</name> Yor Partner, If the master will lett me <lb/>
+But <sic corr="freight">Freit</sic> hath bin So <sic corr="plentiful">plenty</sic> the <sic corr="master">Masr</sic>. hath refusd <lb/>
+Abundance of Tobo. That would not be Shipd to his ownrs. <lb/>
+If he should refuse bills of Lading for Yors To Paise I<lb/>
+Shall Send them to Mr. <note n="WD">Wm. Dawkins</note> Mercht. of London&mdash;<lb/>
+I have herein Sent You a Stated Accot. of all Yor. Concerns <lb/>
+There remains Due to You upon The Tobo. accot. 456 <lb/>
+&amp; upon yr. money Accot. &pound;5"4/. There is outstanding <lb/>
+of Yor. Tobo. between 1500 &amp; 2000 all to This balla<add resp="editor">[nce]</add>. I <lb/>
+have answerd out of my own Tobo. The balla<add resp="editor">[nce]</add>. of The <lb/>
+Money Accot. You must pay Yor. Self. I heartily Wish <lb/>
+You health &amp; Prosperity &amp; remain Sir <lb/></p>
+<closer>Yor. humble Servt. </closer>
+
+
+</div1>
+</body>
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics">Source copy consulted: </hi>  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. Printed: <cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> pp. 14-15.</bibl></cit></note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence; the county and state were added for clarity.</note>
+
+<note id="n1">[1] A vessel named the <hi rend="italics">Carter</hi> traded to Virginia for many years; she is most often referred to as the <hi rend="italics">Carter Frigatt</hi>. The captain in 1706 was Thomas Graves who is mentioned in the Lancaster County Court Orders Book for judgements against him obtained by RC. Later, the <hi rend="italics">Carter</hi> would be commanded by Baily Kent, 1718-1721, Thomas Dove, and by Benjamin Graves. She was owned by RC and William Dawkins in 1720. (<cit><bibl>Survey report 6800 for Adm. 68/194-5, Virginia Colonial Records Project, Albert H. Small Special Collections Library, University of Virginia</bibl></cit>; and Lancaster County Court Orders Book 5, 1702-13, p. 187, as abstracted in <cit><bibl n="B28">Jones, <title>Orders Book Entries . . . Referring to "Robert Carter. . . . " </title></bibl></cit> )</note>
+</div1>
+</back>
+
+</text>
+
+
+</TEI.2>

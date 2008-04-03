@@ -1,0 +1,206 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C05e05e">
+ 
+<text id="C05e05eT"> 
+<pb n="30"/> 
+<body>               
+ 
+<div1 type="letter" n="1705-05-05"> 
+ 
+<head><sender>Robert Carter</sender>, <sender>John Lightfoot</sender>, and <sender>Philip 
+Ludwell</sender>to <addressee>Speaker and Gentlemen of the House of Burgesses</addressee> 
+</head> 
+
+
+
+<opener> 
+<dateline> 
+<name type="place"><add n="ed"> type='ed:'>[Wlliamsburg, Virginia] 
+<note target="34">[May 5, 1705]</note> [1]]</add></name> 
+ 
+<date n="1705-05-05"></date> 
+ 
+<address> 
+<addrLine></addrLine> 
+</address> 
+ 
+</dateline> 
+ 
+<salute></salute> 
+ 
+</opener> 
+ 
+<p>You have not thought fitt, to Admitt us Personally to give You our reasons agt. your 
+intermeddling 
+wth: the Complaints &amp;c, against his Excellcy: which he hath laid before you. We have put some 
+few of 
+them in Writing, wch: we here send You, and we desire your Serious Consideration of before 
+you 
+proceed to any determination in that Affair. 
+</p> 
+ 
+ 
+<closer> 
+<salute> We are Gent. Yor. most humble Servants </salute> 
+J LIGHTFOOT 
+ ROBERT CARTER 
+PHILL. LUDWELL 
+</closer> 
+ 
+</div1> 
+ 
+<div1 type="enclosure"> 
+<p>
+Reasons offered by John Lightfoot, Robert Carter &amp; Philip Ludwell Esqrs. agt. the makeing any 
+Determination by the House of Burgesses upon the Complaint &amp; Affidavits against his Excellcy. 
+</p> 
+<p>
+1st  That the Complaint was made by the Greater part of the Councill then in being who had 
+given 
+their attendance upon the publick affairs &amp; were both Eye &amp; Ear witnesses of the mismanagemts. 
+there, 
+&amp; therefore they were the most proper persons &amp; the most likely to make a true representation 
+thereof. &amp; 
+Since her Majesty hath been pleased to appoint them of the Councill, &amp; thereby hath made it 
+their proper 
+Province to give the best advice they can for preserving her Majestys Interest &amp; the peace &amp; 
+welfare of 
+her Subjects here; they take it to be a duty incumbent upon them in Case of the 
+Mal-Administration of a 
+Governr. to apply themselves to their Sovereign for Redress, &amp; this they think they have a right 
+to doe 
+without being lyable to any Censure but that of her Majesty. And they think that both her 
+Majestys 
+Service &amp; this Countries interest will be greatly promoted thereby. 
+</p>
+<p> 
+2d.  That the matters contained in the Complaint for the most part are Mal-Administrations in the 
+Councill in the Generall: Court &amp; in the Upper house of the Generll: Assembly; So that the 
+Councill are 
+not only the best acquainted with. the transactions there, but also they are most nearly concerned 
+in thm. 
+as relateing chiefly to their Libertys &amp; priviledges in wch. the House of Burgesses have no right 
+to 
+intermeddle. 
+</p><p> 
+3d.  That the Complaint consists of matters of fact wch. are provable by Evidences, &amp; the 
+Complainants are able to make Sufficient proof of them whenever they shall be lawfully 
+impowered so to 
+doe, but at present they cannot do it, because her Majesty hath not thought fitt to give any 
+directions 
+therein, and they cannot believe that the House of Burgeses will ever be guilty of so great an 
+absurdity as 
+to proceed to Judgement of the truth or falsehood of any matter of fact, wch. doth not ly wth.in 
+their own 
+knowledge, wth.out Examining such Evidence as can be given to make proof thereof. 
+</p><p> 
+4.   That (whatever hath been suggested) the Complainants have always been far from 
+endeavouring 
+to raise partys or factions or to disturb the peace of the Country; on the Contrary their great 
+moderation 
+hath appeared in the patience &amp; Submission they they have shewed notwithstanding the many 
+injuryes &amp; 
+indignityes (not to be mentioned) tht. have been put upon themselves &amp; others by the Governrs. 
+unjustifiable behaviour, &amp; in this particular Case they addressed themselves in the most 
+peaceable &amp; 
+humble manner to her Majesty the proper fountain of justice for their relief, &amp; she hath been 
+gratiously 
+pleased to take the same into her own Cognizance So that the House of Burgesses cannot 
+concerne 
+themselves in this matter without arrogateing to themselves a power to make a previous 
+determination to 
+tht. of her Majesty in an affair wch. she hath been pleased in an Especial manner to reserve for 
+her own 
+Consideration. 
+</p><p> 
+5th. That it appears plainly by her Majestys Order in Councill &amp; by the Letters from the Rt. 
+Honble: 
+the Lords Commissioners for Trade tht. the Complaint &amp; other papers were sent to the Govr. for 
+him to 
+make his answer; not that they should be brought to any tryall or determination here; it is so far 
+from that, 
+that he is commanded not to shew so much as any manner of resentment agt. the Complainants, 
+till her 
+Majestys pleasure be further known. And it is impossible the House of Burgesses should take 
+upon them 
+to make any Judgemt. in this matter wth.out going directly Contrary to her Majestys pleasure in 
+this 
+particular, &amp; to the very express Letter as well as intent of the command from the Lords 
+Commissioners 
+for Trade. 
+</p><p> 
+6th. That the House of Burgesses cannot take upon them to intermeddle in this affair without 
+making 
+themselves Judges of the Rights &amp; Priviledges of the Councill, wch. in Consequence may create 
+lasting 
+divisions &amp; misunderstandings between thm. &amp; the Burgesses; For whatever determination shall 
+be made 
+here it cannot be supposed tht. the Complainants will be so far wanting either in their duty to her 
+Majesty 
+or in their regard to their owne Characters or the Countrys interest as to Sitt Still patiently &amp; not 
+endeavour to Sett all persons &amp; their proceedings in a true light. And it is not improbable but the 
+misfortunes tht. may ensue to the Country upon such differences, may be what is chiefly aimed 
+at. 
+</p><p> 
+7th. That the Complainants have been very Cautious of Concerning themselves wth. the House 
+of 
+Burgesses tht. they might not give thm. the least umbrage of disatisfaction. And surely the House 
+of 
+Burgesses have great reason to be as Cautious tht. they do not themselves Sowe those seeds of 
+discord &amp; 
+Contention wch. may in a short time grow up to interrupt the peace &amp; happiness of the whole 
+Country. 
+</p>
+<p> 
+J LIGHTFOOT  
+ROBERT CARTER   
+PHILL: LUDWELL 
+<attestation>Copy Teste. William Randolph Junr. Clerk House Burgesses</attestation> 
+</p>
+
+</div1> 
+ </body> 
+<back> 
+<div1 type="notes"> 
+<head>Notes</head> 
+ 
+<sourcedesc>State Archives, New York State Education Department, Albany. Series #1894, 
+Colonial 
+Manuscripts, Vol. 51, p. 32a-b. This document was copied for Governor Francis  Nicholson's 
+private 
+papers, and was carried by him to New York when he later became governor of that colony. The 
+papers 
+remained in New York, passing into the custody of the State Library which burned around the 
+turn of the 
+twentieth century, causing some damage to this series of records. These records have been 
+transferred to 
+the State Archives, and there are several copies of this document in the series. The text was 
+transcribed 
+from one that seems to be most contemporary in its handwriting to the early eighteenth century, 
+and two 
+other copies in the series have been used to supply words in the copy text that were damaged in 
+the 
+fire.</sourcedesc><lb/><lb/> 
+ 
+<note id="34">. The date of the document was supplied from other records in the series 
+pertaining to 
+the actions of the House of Burgesses on this matter.</note> 
+ 
+</div1> 
+</back> 
+ 
+</text>
+
+
+</TEI.2>

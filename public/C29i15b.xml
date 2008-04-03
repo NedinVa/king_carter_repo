@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C29i15b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to John Randolph, September 15, 1729</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 9 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C29i15b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2005</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to John Randolph, September 15, 1729</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1728 August 8-1730 May 15,  Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1729-09-15</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C29i15bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1729-09-15"></date>
+<idno rend="suppress">C29i15b.xml</idno>
+<title>Letter from Robert Carter to John Randolph, September 15, 1729</title>
+</bibl>
+</head>
+<p>Robert Carter writes to his attorney, John Randolph, September 15, 1729, concerning a law suit over land, and agreeing to an offer by Randolph to purchase cash at a good percentage increase for Carter.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to John Randolph, September 15, 1729</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Corotoman, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1729-09-15">Sepr: 15. 1729</date><lb/>
+John Randolph Esqr<lb/>
+</dateline>
+<salute>Sir</salute>
+
+</opener>
+
+<p>I received your favour by the <note n="JC">Secretary </note> &amp; am <lb/>
+Sorry any Thing should fall out to deprive me of the Satisfaction <lb/>
+I should have taken in your Company however seeing your Affairs <lb/>
+would not Allow it I am <sic corr="pleased">pleasd</sic> that you take my Case so much <lb/>
+to heart to <sic corr="promise">promis</sic> that you will give it a deliberate Consideration <lb/>
+In my Observations I think I was short in some things which I <lb/>
+<sic corr="believe">beleive</sic> upon your Perusal of the papers you will hardly <lb/>
+Slip over one is that in the Depositions of <abbr expan="Thomas">Thos.</abbr> Carr and others <lb/>
+that Were jury men when the line was made from the Cedar <add place="supralinear">in the law suit between <note target="n1">Allerton</note></add> and <lb/>
+<add place="supralinear">Newton  <del>as</del></add> were so hardly brought to agree to that Verdict do <del>without deposition</del><lb/>
+declare that <add place="supralinear">there was</add> no old lines <sic corr="shown">shewed</sic> to them nor any old markd tree <add place="supralinear">by Allerton</add> and <lb/>
+that nothing Else <sic corr="Induced">Enduced</sic> them to agree to that Verdict at last but the <lb/>
+Surveys assuring them that Allerton by that Survey would have less <lb/>
+land than his <sic corr="patent">pattent</sic> gave him and this if I remember right <lb/>
+they all say</p>
+
+<p>you are <abbr expan="pleased">pleas'd</abbr> to desire my Custom for what Cash <lb/>
+I shall have Occasion to take up for bills of <abbr expan="Exchange">Excha.</abbr> at the Allowance <lb/>
+of 20 per <abbr expan="Cent">Ct</abbr> upon this <abbr expan="Encouragement">Encouragemt</abbr> I will have one two or Three <lb/>
+hundred pounds of you and I shall be willing to take the more if you <lb/>
+make no scruple to take some of the bills in <name type="city">Glasgow</name> I am 
+</p>
+
+<closer>Sir <lb/>
+<abbr expan="your">yr</abbr> most <abbr expan="oobedient">obt.</abbr> Humble Servant.
+<seg type="postscript"><lb/><lb/>If I should have Occasion to draw upon you before I see <corr resp="editor">[you]</corr> I hope <lb/>
+you will answer my <sic corr="note">noat</sic></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. </note>
+
+<note>The county and colony have been added for clarity to the  heading on the draft.</note>
+
+<note id="n1">[1] Willoughby Allerton (1664-1724) was a prominent citizen of Westmoreland County where he was burgess, sheriff, and militia officer.  (Allerton Genealogical Data at http://homepages.rootsweb.com/~edburton/fam03055.htm, 4/16/04; and <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 3[1705-1721]: 92,146,381,420. </bibl></cit>)</note>
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

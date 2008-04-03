@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C05h16a">
+
+<teiHeader type="aacr2"> 
+              
+<fileDesc> 
+<titleStmt> 
+     <title type="245">Letter from St. John Shropshire to Robert Carter, 1705 August 16</title> 
+   <title type="gmd">[electronic resource]</title> 
+     <author>Carter, Robert</author> 
+   <respStmt> 
+     <resp>Creation of machine-readable version: </resp> 
+     <name id="editor">Edmund Berkeley, Jr.</name> 
+     <resp>Conversion to TEI.2-conformant markup</resp> 
+     <name>Edmund Berkeley, Jr., and the University of Virginia Library Electronic Text Center</name> 
+   </respStmt> 
+</titleStmt> 
+ 
+<extent>ca. 6 kilobytes </extent> 
+ 
+<publicationStmt> 
+     <publisher>University of Virginia Library.</publisher> 
+     <pubPlace>Charlottesville, Va.</pubPlace> 
+     <idno type="ETC"></idno> 
+     <availability> 
+     <p>Publicly accessible</p> 
+     <p n="public">URL: http://etext.lib.virginia.edu/modeng.browse.html</p> 
+         </availability> 
+     <date>2001</date> 
+</publicationStmt> 
+ 
+<sourceDesc> 
+     <biblFull> 
+     <titleStmt> 
+     <title>Letter from St. John Shropshire to Robert Carter, 1705 August 16</title> 
+    
+
+     <author>Robert Carter</author> </titleStmt>
+
+    <extent>2 p.</extent> 
+<publicationStmt> 
+     <date>1705-08-16</date> 
+   <idno type="callNo">Source copy consulted: Carter Papers, Swem Library, College of William and Mary, Williamsburg, Virginia. This is the recipient's copy; Carter inverted the leaf, and used the blank space on the verso to draft the letter to William Robinson of ca. August 20, 1705. 
+</idno> 
+</publicationStmt> 
+</biblFull> 
+</sourceDesc> 
+ 
+</fileDesc> 
+     <encodingDesc> 
+     <projectDesc> 
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p> 
+     </projectDesc> 
+<editorialDecl> 
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in establishing 
+analytical groupings.</p> 
+</editorialDecl> 
+ 
+<classDecl> 
+     <taxonomy id="LCSH"> 
+     <bibl> 
+     <title>Library of Congress Subject Headings</title> 
+     </bibl> 
+     </taxonomy> 
+</classDecl> 
+</encodingDesc> 
+ 
+<profileDesc> 
+     <creation> 
+     <date>1705-08-16</date> 
+     </creation> 
+     <langUsage> 
+     <language id="eng"></language> 
+     </langUsage> 
+     <textClass> 
+     <keywords> 
+     <term>non-fiction</term> 
+   <term>prose</term> 
+     </keywords> 
+     <keywords scheme="LCSH"> 
+     <term type="Field650">LCSH</term> 
+     </keywords> 
+     </textClass> 
+</profileDesc> 
+ 
+</teiHeader> 
+ 
+<text id="C05h16aT"> 
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>2 pp.</extent>
+<date value="1705-08-16">August 16, 1705</date>
+<idno rend="suppress">C05h16a</idno>
+<title>Letter from St. John Shropshire to Robert Carter, August 16, 1705</title>
+</bibl>
+</head>
+<p>St. John Shropshire writes fromWestmoreland County to Robert Carter, August 16, 1705, to introduce "Richard Tankersly, . . .  the son of Dr. Geo: Tankersly" whom he introduces to Carter as a suitable person to rent a plantation belonging to the estate of Ralph Wormeley. He adds in a postscript that he has heard rumors of the arrival of a new governor which he hopes is true, and mentions that he has suffered under Lt. Gov. Nicholson because he could not sign all the addresses, etc., which too many of his fellow ministers have.</p>
+</div1>                 
+</front>
+
+
+<body> 
+ 
+<div1 type="letter" n="1705-08-16"> 
+ 
+<head>Letter from <note target="n1">St. John Shropshire</note> to Robert Carter, August 16, 1705</head> 
+ 
+<opener> 
+<dateline> 
+<name type="place">Washington <add  resp="editor">[Parish, Westmoreland County, Virginia]</add></name><lb/> 
+<date value="1705-08-16">Augt. 16th. 1705.<lb/></date> 
+</dateline> 
+ 
+                                             
+<salute>Coll: Carter</salute> 
+ 
+ </opener> 
+ 
+ 
+<p>The Bearer hereof Richard <lb/>Tankersly, is the son of Dr. Geo: Tankersly, <lb/>who is lately 
+married, &amp; if your honour <lb/>pleases is willing to take Mr. Ralph&mdash;<lb/>Wormlys plantation, 
+where Thomas&mdash;<lb/>Morris Shomaker lately Lived, he is <lb/>willing to pay you rent for it, or 
+if&mdash; <lb/>your honour thinks fit, is capable of <lb/>taking Charge of any hands under him, <lb/>he is 
+an honest civill young man, as&mdash; <lb/>farr as I ever hear, &amp; has nothing but <lb/>his Labour to 
+trust to, &amp; therefore I make <lb/>bold to recomend him to your honour, <lb/>I have nothing more to 
+add but my own, &amp; my <lb/>wives humble respects to your honour, &amp; <lb/>good Lady, remayn 
+yor. honours</p> 
+ 
+<closer> most <sic corr="?">humest</sic> humble &amp;<lb/> 
+obedient Servt.<lb/> 
+<signed>ST. JOHN SHROPSHIRE</signed> 
+ 
+ 
+<pb n="2"/> 
+<seg type="postscript"> 
+<add place="overleaf"><p>we have frequent rumors, &amp; reports about the Arrivall <lb/>of a <note 
+target="n2">New Governour</note> I should be very glad to heare <lb/>it confirmed; for my own part, I 
+have reason&mdash;<lb/> enough to wish it may be so, having been upon <lb/>Suffering under <note 
+n="FN">Governour Nichollson</note>, because I &mdash; <lb/>could not sign all a[d]dresses &amp;c 
+wch. I think in my &mdash; <lb/>Conscience too many of my Bretheren Have <lb/>done, but I ho[p]e the 
+<note target="n3">seden</note> will be allowed in <lb/>God's due tyme.</p></add> 
+</seg> 
+</closer> 
+</div1> 
+</body> 
+ 
+<back> 
+<div1 type="notes"> 
+<head>NOTES</head> 
+
+<note><hi rend="italics">Source copy consulted:</hi> Carter Papers, Swem Library, College of William and Mary, Williamsburg, Virginia. This is the recipient's copy; Carter inverted the leaf, and used the blank space on the verso to draft the letter to William Robinson of ca. August 20, 1705. </note>
+
+ 
+<note id="n1">[1] St. John Shropshire (1666-1718) was a minister in Westmoreland County; he 
+matriculated at Queens College, Oxford, in 1685 at age nineteen, and earned his B.A. in 1688. (<bibl n="A24">Glencross, "Va. Gleanings in England," <title>Virginia Magazine of History and Biography</title>, 32(1924): 351-359. </bibl> 
+<hi rend="italics">See also</hi>, <bibl n="A22">"Papers Relating to the Administration of Governor Nicholson . . . ."</bibl></note> 
+ 
+<note id="n2">[2] Sir Edward Nott had in fact landed in Virginia the day before Shropshire wrote, but was to be governor only until his death 23 August 1706.</note> 
+ 
+<note id="n3">[3] Shropshire seems to have written <q>seden</q> which means, according to the 
+<title>Oxford English Dictionary</title>, the action of sowing or the state of being sown. What he meant is not entirely clear.</note> 
+ 
+</div1> 
+</back> 
+</text> 
+ 
+
+</TEI.2>

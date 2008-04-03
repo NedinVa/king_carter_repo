@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C28i02d">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Nathaniel Gundry, September 2, 1728</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca.7  kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C28i02d.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2004</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Nathaniel Gundry, September 2, 1728</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1728-09-02</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C28i02dT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1728-09-02"></date>
+<idno rend="suppress">C28i02d.xml</idno>
+<title>Letter from Robert Carter to Nathaniel Gundry, September 2, 1728</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Llyme Regis merchant Nathaniel Gundry, September 2, 1728, to alert the merchant to a bill of exchange that he has drawn to John Tayloe. He notes that prices at Lyme were so low that he did not send any tobacco there last year.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note target="n1">Nathaniel Gundry,</note> September 2, 1728</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1728-09-02">Sepr: 2d. 1728</date><lb/>
+Mr. Nathl. Gundry<lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+
+
+<p><del>The first </del>I reckon you in my Debt upon your <lb/>two Accots. of Sales and the bill of Exchange I Sent you One hundred and <lb/>fourteen pounds odd money This is to advise you I have lately <lb/>drawn upon you for four Score pounds payable to Colonel <note target="n2">John <lb/>Tayloe</note> which I desire you to answer at time &amp; place to my <lb/>Accot. the Ship is not yet <sic corr="gone">gon</sic> that <sic corr="carries">carrys</sic> the bills however it is not <lb/>amiss to be Early with my Advice Your market was so low last <lb/>year I was discouraged from Sending any <abbr expan="Tobacco">Tobbo.</abbr> to yor. port <sic corr="we">wee</sic> had <lb/>the good fortune to meet with better prices at <name type="city">London</name> I Shall take <lb/>my leave at present </p>
+
+<closer><seg type="postscript">Sir&mdash;<lb/>Yor. very humble Servt.
+<lb/><lb/>per <note target="n3">Dunlop</note></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1] Nathaniel Gundry was a merchant in Lyme Regis, Dorset, and mayor of that town several times. His son was a member of Parliament and later a judge. (Notes made by Francis L. Berkeley, Jr., from  <cit><bibl>George Robert. <title>History and Antiquities of the Borough of Lyme Regis &amp; Charnmouth.</title> [London, 1834]. pp. 97, 383-4.</bibl></cit>; and <cit><bibl n="B6">Sedgwick. <title>The History of Parliament . . . Commons.</title> pp. 91-92.</bibl></cit>)</note>
+
+<note id="n2">[2] John Tayloe (1687-1747) of Mt. Airy, Richmond County, who served as justice, burgess, colonel of militia, and as a member of the Council after 1732. (<cit><bibl n="B31">Ryland. <title>Richmond County Virginia. . . . </title> pp. 115-16.</bibl></cit>)</note>
+
+<note id="n3">[3] The <hi rend="italics">Martha</hi>  was commanded by a Captain Dunlop; see Carter to Richard Oswald &amp; Company 1729 August 11.</note>
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

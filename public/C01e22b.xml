@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C01e22b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to John Purvis, 1701 May 22  </title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 6 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">filename</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to John Purvis, 1701 May 22</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date>unpublished</date>
+   <idno type="callNo"> Source copy consulted:  Christ Church Parish, Lancaster County, Processioners' Returns, 1711-1783, and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond, 141.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1701-05-22</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+
+<text id="C01e22b.xmlT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 pp.</extent>
+<date value="1701-05-22">May 22, 1701</date>
+<idno rend="suppress">C01e22b</idno>
+<title>Letter from Robert Carter to  John Purvis, May 22, 1701</title>
+</bibl>
+</head>
+<p>Robert Carter informs British merchant John Purvis of the death of Ralph Wormeley, that he is one of the guardians of Wormeley's sons, and that Purvis may make a payment due him from Wormeley from Carter's account.</p>
+</div1>                 
+</front>
+
+
+<body>
+
+<div1 type="letter" n="1">
+
+<head>Letter from Robert Carter to  <note n="JP1">John Purvis,</note> May 22, 1701</head> 
+ 
+<opener> 
+ <dateline> 
+<pb n="1"/>
+<date value="1701-05-01">May the. 22d. 1701.  In a Letter per the Industry</date> 
+<name type="place">[Rappahannock, Lancaster County, Virginia]<lb/>
+Capt. Jno. Purvis&mdash;
+</name>
+ </dateline> 
+<salute></salute>
+                            
+</opener>
+ 
+<p><lb/>
+Mr. Secretary Wormeley Died in March Last he left <add resp="editor">[m]</add>e O<add resp="editor">[ne of his]</add> <lb/>
+Executrs. Durante Minoritate his Children. I find in your Ac<add resp="editor">[count]</add> <lb/>
+due to you from that Estate of Four pounds Seven Shil<add resp="editor">[lings]</add> <lb/>
+penny which you may Debit my Accot. wth. if you p<add resp="editor">l[ease]</add></p>
+
+</div1>
+</body>
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics">Source copy consulted:</hi>  Christ Church Parish, Lancaster County, Processioners' Returns, 1711-1783, and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond, 141.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence.</note>
+
+
+<note>The <hi rend="italics">Industry</hi> was recorded in a <bibl n="M8">Collector's return, 1700 
+December 25-1701 March 29</bibl>, for the Rappahannock River as having been built at Hull in 1698, 
+180 tons, owned by <name type="person">John Purvis</name>, <name type="person">Isaac 
+Cocks</name>, <name type="person">Edmund Leigh</name>, <name type="person">Samuel 
+Lane</name>, <name type="person">Philip Wilkinson</name>, <name type="person">Richard 
+Phillips</name>, <name type="person">Mordecai Green</name>, and her captain, <name 
+type="person">John Blenkerne</name>. (<cit><bibl>Survey Report for CO5/1441, ff. 151, Virginia Colonial Records Project, Albert H. Small Special Collections Library, University of Virginia.</bibl></cit>)</note><lb/><lb/>
+
+
+</div1>
+</back>
+
+</text>
+
+
+</TEI.2>

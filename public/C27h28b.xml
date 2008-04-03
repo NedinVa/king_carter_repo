@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C27h28b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Colonel George Mason, August 28, 1727</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 9 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C27h28b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2003</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Colonel George Mason, August 28, 1727</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1727-08-28</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C27h28bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1727-08-28"></date>
+<idno rend="suppress">C27h28b.xml</idno>
+<title>Letter from Robert Carter to Colonel George Mason, August 28, 1727</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Colonel George Mason, August 28, 1727, concerning land that is to be divided between Mason and his sister who is  married to John Mercer; he complains of the poor description of the lands, but sends warrant to Mason.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to Colonel <note target="n1">George Mason,</note> August 28, 1727</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
+<date value="1727-08-28">Augst. the 28th. 1727</date><lb/>
+Colonel Geo: Mason<lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+
+
+<p>I find by your Letter of the 24th Instant you are <lb/>willing <del>to give</del> to give to <note target="n2">Mr. Mercer</note> the first choice of the <abbr expan="Land">Ld.</abbr> between <lb/>you and his Wife and also that you <add place="supralinear">are</add> willing to Enter into bond for <lb/>her <abbr expan="Acknowledgement">Acknowledgemt.</abbr> of the Land in form of Law after She comes <lb/>to the <add place="supralinear">undoubted</add> Age of one and Twenty but there are so many Considerat<add place="supralinear">ions</add> <lb/>further to be had before I shall think proper to part with any <lb/>money to Mr. Mercer that <del>fo</del> I <sic corr="believe">beleive</sic> it is his best way to Strike <lb/>up a bargain with <note target="n3">Mr. England</note></p>
+
+<p>As to the <abbr expan="warrants">warrts:</abbr> you desire your Entrys are so loose <lb/>and unintelligible that I cannot guess where the Land <sic corr="lies">lyes</sic> and I<lb/> am Altogether a Stranger to the place where <note target="n4">Lacewell</note> now lives <lb/>if I remember right he did live upon the <note target="n5">Goose Creek</note> upon Lands <lb/>that <note target="n6">Mr. Thomas</note> the Surveyor hath taken up for me however being <lb/><del>not</del> <add place="supralinear">un</add> willing you Should loose the Labour of your Messenger I have sent <lb/>you two warrants as near your discription as I could Collect if they <lb/>do not answer your  <del>[illegible]</del><add place="supralinear">Interest</add> you must return them to me again And <lb/>pray if you Send any other entrys <del>[illegible]</del> let the Lands be so particularly <lb/><sic corr="Described">Discribed</sic> by some known runs or places that I may be able to guess <lb/>at the Lands I give out Warrants for. I must own you have bin always 
+
+<pb n="2"/><lb/><lb/>
+punctual in your payments And therefore make no Scurple of <lb/>Sending these Warrants <del>upon your desire</del> <add place="supralinear">to you</add> but allow me to tell you <lb/>I am not yet paid for Colonel Bradfords <abbr expan="warrant">warrt.</abbr> nor for what I know a <lb/>hundred more that I have issued which hath almost brought <lb/>me to a resolution to Sign no more arrants <sic corr="until">untill</sic><del>Iam paid</del> the <lb/>fees <add place="supralinear">are paid</add> down for the Entrys and warrants I am </p>
+
+<closer>Sir<lb/>Yor: very humble Servt.&mdash;</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1727 May-1728 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>The name of Robert Carter's home, the county, and colony have been added for clarity to this unheaded draft.</note>
+
+<note id="n1">[1] George Mason III (c. 1690-1735), justice, sheriff, burgess, and
+county lieutenant of Stafford County, father of the constitutional theorist. (<cit><bibl n="B24">Copeland and MacMaster. <title>The Five George Masons.</title> pp. 50-86.</bibl></cit>; and <cit><bibl>George Harrison Sanford King, <title>The Register of Overwharton Parish Stafford County Virginia 1723-1758 And Sundry Historical and Genealogical Notes.</title> [Fredericksburg, VA: privately printed, 1961.]</bibl></cit>)</note>
+
+<note id="n2">[2] John Mercer (1704-1768) emigrated from Ireland where he had been
+trained as an attorney. "He settled at Marlboroughtown in 1726 as a practicing attorney and at once allowed a facile pen to get him into trouble with the government." He eventually lost his license to practice law, and turned to the land speculation that he had begun as soon as he reached Virginia. "He married first on June 10, 1725 Catherine Mason (June 21, 1707-June 15, 1750) only child of Colonel George Mason (16??-1716) and his second wife Elizabeth Waugh, daughter of the Reverend Mr. John Waugh."(<cit><bibl n="B4">Harrison. <title>Landmarks of Old Prince William</title> p. 315;</bibl></cit>  <cit><bibl n="B24">Copeland and MacMaster. <title>The Five George Masons.</title></bibl></cit>; and "John Mercer."  http://www.rootsweb.com/~vastaffo/johnmercer.htm  11/4/03)</note>
+
+<note id="n3">[3] This may be John England who directed "the Accakeek Iron Works
+in Stafford County for Augustine Washington and others beginning about 1726." (<cit><bibl>George Harrison Sanford King. <title>The Register of Overwharton Parish Stafford County Virginia 1723-1758 And Sundry Historical and Genealogical Notes.</title> [Fredericksburg, VA: privately printed, 1961], p.132.</bibl></cit>)</note>
+
+<note id="n4">[4] This probably was Isaac Lasswell who did own property on Goose Creek according to Fairfax Harrison. (<cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> p. 266.</bibl></cit>)</note>
+
+<note id="n5">[5] Goose Creek flows into the Potomac River just east of Leesburg in modern Loudoun County.</note>
+
+<note id="n6">[6] James Thomas was surveyor of Westmoreland County. In 1736, he would be one of the surveyors involved in the work of the commission to determine the bounds of the Northern Neck proprietary. (<cit><bibl n="B8">Brown. <title>Virginia Baron. . . .</title> pp. 83, 92.</bibl></cit>
+)</note>
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

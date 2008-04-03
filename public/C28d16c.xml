@@ -1,0 +1,208 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C28d16c">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Account of Negroes Belonging to the Lloyd Estate by Richard Meeks, April 16, 1728</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 11 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C28d16c.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2004</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Account of Negroes Belonging to the Lloyd Estate by Richard Meeks, April 16, 1728</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1728-04-16</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C28d16cT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AD</abbr>
+<extent>1 p.</extent>
+<date value="1728-04-16"></date>
+<idno rend="suppress">C28d16c.xml</idno>
+<title>Account of Negroes Belonging to the Lloyd Estate by Richard Meeks, April 16, 1728</title>
+</bibl>
+</head>
+<p>Account of Negroes Belonging to the Lloyd Estate by Richard Meeks, April 16, 1728, [abstract goes here]</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>An Accot of the Negroe's belonging to the LLs Estate <lb/>by <note n="RM">Mr. Meeks,</note> Aprill the 16th:, 1728</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"></name><lb/>
+<date value="1728-04-16">Aprill the 16th: 1728&mdash;</date><lb/>
+</dateline>
+
+
+</opener>
+
+<p>
+<table>
+	<row><cell></cell><cell>Men&mdash;&mdash;</cell><cell>Wom&mdash;&mdash;</cell><cell>Child&mdash;&mdash;</cell><cell>Old Negs</cell><cell><add resp="editor"><add resp="editor">[empty]</add></add></cell></row>
+
+<row><cell>At the <note n="FQ">falls&mdash;&mdash;</note>&mdash;&mdash;</cell><cell>1</cell><cell><add resp="editor">[empty]</add></cell><cell><add resp="editor">[empty]</add></cell><cell><add resp="editor">[empty]</add></cell><cell><add resp="editor">[empty]</add></cell></row>
+
+<row><cell>At head of the river&mdash;</cell><cell>1</cell><cell><add resp="editor">[empty]</add></cell><cell><add resp="editor">[empty]</add></cell><cell><add resp="editor">[empty]</add></cell><cell><add resp="editor">[empty]</add></cell></row>
+
+<row><cell>At the <note target="n1">bridge <abbr expan="Quarter">Qr:</abbr>&mdash;&mdash;</note></cell><cell>1</cell><cell><add resp="editor">[empty]</add></cell><cell><add resp="editor">[empty]</add></cell><cell><add resp="editor">[empty]</add></cell><cell><add resp="editor">[empty]</add></cell></row>
+
+<row><cell>At <note target="n2">Pantico&mdash;&mdash;</note></cell><cell>6&mdash;&mdash;</cell><cell>6&mdash;&mdash;</cell><cell>17</cell><cell><add resp="editor">[empty]</add></cell><cell><add resp="editor">[empty]</add></cell></row>
+
+<row><cell>At <note n="BHQ">Brick house&mdash;</note></cell><cell>1&mdash;&mdash;</cell><cell>2&mdash;&mdash;</cell><cell>8</cell><cell>M:</cell><cell>W</cell></row>
+
+<row><cell>At <note target="n3">Fork Quarter&mdash;</note></cell>	<cell><add resp="editor">[illegible]</add></cell><cell>7&mdash;</cell><cell>13&mdash;</cell><cell>1&mdash;</cell><cell>1&mdash;</cell></row>
+
+<row><cell>At <note target="n4">Gumfield&mdash;</note></cell><cell><add resp="editor">[illegible]</add>&mdash;</cell><cell>8&mdash;&mdash;</cell><cell><add resp="editor">[empty]</add></cell><cell>12&mdash;&mdash;</cell><cell>2</cell></row>
+
+<row><cell>At <note target="n5">Old house&mdash;&mdash;</note> </cell><cell>5&mdash;&mdash;</cell><cell>9&mdash;&mdash;</cell><cell>13&mdash;&mdash;</cell><cell><add resp="editor">[empty]</add></cell><cell>1</cell></row>
+
+<row><cell>At <note target="n6">Hinsons&mdash;&mdash;</note></cell><cell>4&mdash;&mdash;</cell><cell>4&mdash;&mdash;</cell><cell>3&mdash;</cell><cell>1"</cell><cell><add resp="editor">[illegible]</add></cell></row>
+
+<row><cell>At <note n="HT"><sic corr="Hickory Thicket">Hiccory Thickt.</sic></note></cell><cell>5&mdash;</cell><cell>5&mdash;</cell><cell>6&mdash;&mdash;</cell>	 <cell><add resp="editor">[illegible]</add></cell><cell>[...]</cell></row>
+
+<row><cell></cell><cell><hi rend="underline">          </hi></cell><cell><hi rend="underline">          </hi></cell><cell><hi rend="underline">          </hi></cell><cell></cell><cell><hi rend="underline">          </hi></cell></row>
+
+<row><cell></cell><cell>31&mdash;&mdash;</cell><cell>41</cell><cell>12</cell><cell></cell><cell></cell></row>
+
+<row><cell></cell><cell></cell><cell></cell><cell>41&mdash;&mdash;</cell><cell></cell><cell></cell></row>
+
+				<row>	<cell>M.W</cell> <cell></cell><cell><add resp="editor">[empty]</add></cell><cell>31</cell><cell></cell></row>
+
+<row><cell></cell><cell></cell><cell></cell><cell><hi rend="underline">          </hi></cell><cell></cell></row>
+
+	<row><cell>of these   2 : 7 very old</cell><cell></cell><cell></cell><cell>144</cell><cell></cell><cell></cell></row>
+
+<row> <cell>5 past their Labour</cell><cell><add resp="editor">[empty]</add></cell><cell><add resp="editor">[empty]</add></cell><cell><add resp="editor">[empty]</add></cell><cell><add resp="editor">[empty]</add></cell><cell><add resp="editor">[empty]</add></cell></row>
+
+		<row><cell><add resp="editor">[empty]</add></cell><cell>To be Sent to the Falls</cell><cell><add resp="editor">[empty]</add></cell><cell><add resp="editor">[empty]</add></cell><cell><add resp="editor">[empty]</add></cell></row>
+
+<row><cell><add resp="editor">[empty]</add></cell><cell>M</cell><cell>W</cell><cell><add resp="editor">[empty]</add></cell><cell><add resp="editor">[empty]</add></cell><cell><add resp="editor">[empty]</add></cell></row>
+
+<row><cell>From Pantico</cell><cell>2</cell><cell>1</cell><cell><add resp="editor">[empty]</add></cell><cell><add resp="editor">[empty]</add></cell><cell><add resp="editor">[empty]</add></cell></row>
+
+<row><cell>From the Fork</cell><cell>1</cell><cell>1</cell><cell><add resp="editor">[empty]</add></cell><cell><add resp="editor">[empty]</add></cell><cell><add resp="editor">[empty]</add></cell></row>
+
+<row><cell>Gumfields</cell><cell><add resp="editor">[empty]</add></cell><cell>1</cell><cell><add resp="editor">[empty]</add></cell><cell><add resp="editor">[empty]</add></cell><cell><add resp="editor">[empty]</add></cell></row>
+
+<row><cell>Old house</cell><cell>1</cell><cell>1</cell><cell><add resp="editor">[empty]</add></cell><cell><add resp="editor">[empty]</add></cell><cell><add resp="editor">[empty]</add></cell></row>
+
+<row><cell>Hinsons</cell><cell>1</cell><cell><add resp="editor">[empty]</add></cell><cell><add resp="editor">[empty]</add></cell><cell><add resp="editor">[empty]</add></cell><cell><add resp="editor">[empty]</add></cell></row>
+
+<row><cell>Hickory Thicket</cell><cell><add resp="editor">[empty]</add></cell><cell>1</cell><cell><add resp="editor">[empty]</add></cell><cell><add resp="editor">[empty]</add></cell><cell><add resp="editor">[empty]</add></cell></row>
+</table>
+</p>
+
+<closer><seg type="postscript"><lb/><lb/></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. </note>
+
+<note id="n1">[1] Bridge House Quarter was located in Richmond County and lay close to Hickory Thicket "northeast of Warsaw." In Carter's 1732 inventory, Charles Campbell was the overseer of 9 slaves, 8 horses, 41 hogs, and 31 cattle. (<cit><bibl n="B29">Miller. <title>Place-Names . . . . </title>p. 16;</bibl></cit> and <cit><bibl n="A26">"Carter Papers: An Inventory. . . ."</bibl></cit>)</note>
+
+<note id="n2">[2] Pantico was a farm in Westmoreland County where there is a stream of this name. George Byrd was its overseer in Carter's inventory in 1732, managing 22 slaves, 31 cattle, 18 hogs, and 3 horses. (<cit><bibl n="A26">Carter Papers: An Inventory. . . ."</bibl></cit>)</note>
+
+<note id="n3">[3] Fork Quarter was a farm in Richmond County that would become a part of the "Sabine Hall" estate as it was bequeated to Landon Carter. In 1732, William Galloway, the overseer, supervised 16 slaves, 42 hogs, and 54 cattle. (<cit><bibl n="A26">Carter Papers: An Inventory. . . ."</bibl></cit>)</note>
+
+<note id="n4">[4] Gumfield's Quarter was a farm in Richmond or Westmoreland County  In 1732, William Dryas, the overseer, supervised 21 slaves, 35 hogs, and 39 cattle, and had three horses to assist with the work. (<cit><bibl n="A26">Carter Papers: An Inventory. . . ."</bibl></cit>)</note>
+
+<note id="n5">[5] Old House Quarter was located in Christ Church Parish, Lancaster County, and was inherited by Carter from his brother. The name may refer to the original Carter settlement in the county. In Cater's 1732 inventory, George Conolly was the overseer there, managing 31 slaves, 116 sheep, 105 cattle, and "a horse calld Blackbird." (<cit><bibl n="A26">"Carter Papers: An Inventory. . . ."</bibl></cit>; <cit><bibl n="B40">Jones.  <title>John Carter II. . . .</title> p. 55.</bibl></cit>; and <cit><bibl n="B28">Jones.<title>"Orders Book Entries . . . Referring to "Robert Carter. . . ."</title> pp. 140-141.</bibl></cit>)</note>
+
+<note id="n6">[6] This farm lay either in Richmond or Westmoreland County. Mary Miller attributes it to Richmond. In Carter's 1732 inventory, William Crane was its overseer, supervising 12 slaves, 2 horses, 18 hogs, and 29 cattle.  (<cit><bibl n="B29">Miller. <title>Place-Names . . . . </title>p. 67;</bibl></cit> and <cit><bibl n="A26">"Carter Papers: An Inventory. . . ."</bibl></cit>)</note>
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

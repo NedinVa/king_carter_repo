@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C27b15a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to the Commissioners of Customs, February [15], 1727</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 7 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C27b15a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2005</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to the Commissioners of Customs, February [15], 1727</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  State Records, Colonial Government (RG-1), Colonial Papers, 1630-1778, Library of Virginia, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1727-02-15</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C27b15aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1727-02-15"></date>
+<idno rend="suppress">C27b15a.xml</idno>
+<title>Letter from Robert Carter to the Commissioners of Customs, February [15], 1727</title>
+</bibl>
+</head>
+<p>Letter from Robert Carter to the Commissioners of Customs, February [15], 1727, to inform them that he has appointed, with the approval of the Council, Robert Carter, Jr., as naval officer of the Rappahannock.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to the Commissioners of Customs, February [15], 1727</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Williamsburg, Virginia]</add></name><lb/>
+<date value="1727-02-15">Febry 1726/7</date><lb/>
+To the Comrs of the Customs<lb/>
+</dateline>
+<salute>Honbles</salute>
+
+</opener>
+
+
+
+<p>Since the death of the late <note n="HD"><abbr expan="Governor">Govr</abbr></note> and <sic corr="the">thee</sic> <lb/>administration devolving on me nothing has happened in relation to the <lb/>Customs to give me occasion of trouble <sic corr="Your">Yor</sic> Board: but now the <lb/>Naval officer of Rappa<corr resp="editor">[hannock]</corr> District becoming vacant by the death <lb/>of Mr Christ<corr resp="editor">[opher]</corr> Robinson I <del>take</del> lay hold of this opportunity to <lb/>notify to <sic corr="Your">Yor</sic> <sic corr="Honors">Honrs</sic> that I have <del>appointed
+</del>  (with the approbation <lb/>of the Council) appointed <note n="RC2">Robert Carter <abbr expan="junior">junr</abbr></note> to succeed in that office <lb/><del>with directions to give security as <abbr expan="your">yr</abbr> Board will as he has done <lb/>here and I doubt not the Bond <corr resp="editor">[...]</corr> offers will be acceptable <lb/>to you</del> he lives more convenient for the Trade &amp; for discharging <lb/><del>the duty</del> the <sic corr="waste">wast</sic><sic corr="than">then</sic> any other person <add place="supralinear">I could have found</add> capable of that <lb/><sic corr="employment">Imployment</sic> and I <del>should might</del> <sic corr="could">coud</sic> say more to recommend him to <sic corr="Your">Yor</sic> <lb/><del>Honrs approbation </del><add place="supralinear">Favour</add> if he was not my Son however as he will <lb/>forthwith offer very Substantial Security at <sic corr="Your">Yor</sic> Board and has <lb/>given the like here in the mean time I doubt not <del><sic corr="Your">Yor</sic> Honrs will</del> <lb/>this <del>recommendation ?</del> appointm<corr resp="editor">[en]</corr>t will <del>meet</del> deserve <sic corr="Your">Yor</sic> <sic corr="Honors">Honrs</sic> approbation I am </p>
+
+<closer></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> State Records, Colonial Government (RG-1), Colonial Papers, 1630-1778, Library of Virginia, Richmond.  This is a draft, with a number of changes and corrections. The date is taken from the endorsement, but as the Council did not consider the appointment of Robert Carter II to be naval officer until 1727 March 1 (see <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:128</bibl></cit>) the recipient's copy certainly was not sent until later in March, and may never have been sent. It does not appear in <title>Journal of the Commissioners for Trade and Plantations from January 1722-3 to December 1728.</title> (London: His Majesty's Stationery Office, 1928).</note>
+
+
+<note>It is endorsed: "President's ltr | to the Commissrs | of the Customs | Febry 1726/7 | Robt. Carter appd. | Naval Offr. Rappk Dist."</note> 
+
+<note>Published: Wm. P. Palmer. <title>Calendar of Virginia State Papers and Other Manuscripts, 1652-1875.</title> (Richmond, 1875). p. 210.
+</note>
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

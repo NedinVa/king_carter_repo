@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C23g06a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to John Carter, July 6, 1723</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 9 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C23g06a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2002</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to John Carter, July 6, 1723</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, VA</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1723-07-06</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C23g06aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>3 p.</extent>
+<date value="1723-07-06"></date>
+<idno rend="suppress">C23g06a.xml</idno>
+<title>Letter from Robert Carter to John Carter, July 6, 1723</title>
+</bibl>
+</head>
+<p>Robert Carter writes to his son John Carter, Secretary of State of the colony, July 6, 1723, concerning the collection of interest on debts owed both to Carter and to the  Proprietors. He asks John to take a letter that will be conveyed to him by a neighbor of his father's to Jenings, and demand payment. He informs John that tobacco he has collected on John's behalf in Essex and Middlesex counties amounted only to 7 hogsheads that he has shipped to Micajah Perry with  orders to credit the sales to John's account.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="JC1">John Carter,</note> July 6, 1723</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Corotoman, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1723-07-06">July 6th 1723</date><lb/>
+To Mr Sec' J John Carter<lb/>
+</dateline>
+
+
+</opener>
+
+<p>I hope this will find you in <lb/>good health a blessing thank <note target="n1">[God]</note> <add resp="editor"> [<hi rend="italics">sic</hi>]</add> I have enjoyed ever <lb/>since I saw you.</p>
+
+<p>There is due to me from <note n="RJ"><abbr expan="Colonel">Collo</abbr>
+ <sic corr="Jenings">Jennings</sic></note> <lb/>the sum of seventy five pounds now payable for <lb/>the interest of some money he owes me upon <lb/>bonds.  <abbr expan="Captain">Capt</abbr> <note target="n2">[Philip] Smith,</note> my neighbour coming <lb/>to <note target="n3">Town,</note> I have taken the opportunity by <lb/>him in a letter to make a demand of this <lb/>money; and if you are in town while <lb/><abbr expan="Captain">Capt</abbr> Smith is there, I have directed him to <lb/>deliver this letter to you that you may wait <lb/>upon <abbr expan="Colonel">Collo</abbr> <sic corr="Jenings">Jennings</sic> with it and receive my <lb/>bills. If he gives any of other mens' drawing <lb/>you must take care he endorses them. The <lb/>bills you receive I would have enclosed to me <lb/>by Capt Smith.</p>
+
+<p><abbr expan="Colonel">Collo</abbr> <sic corr="Jenings">Jennings</sic> upon settling an <lb/>Accot with the Proprietors owns to be in their <lb/>debt beyond exception under his hand above <lb/>Two Hundred Pounds Sterling. I give him to 
+
+<pb n="2"/><lb/><lb/>
+the 1st of September next to make payment <lb/>of this money. I will wait no longer: nor <lb/>shall I be just to the Proprietors to admit <lb/>of any longer delay: but if he doth not <lb/>comply by that time I must &amp; will <lb/>enter into a lawsuit with him, that <lb/>I may put them upon the best security <lb/>I can for their money which I am afraid <lb/>all I can do will be in some hazard. <lb/>If he should make any pretensions about <lb/>the sixty pounds that you received you <lb/>must let him know that I have already <lb/>argued that matter with him and con=<lb/>=vinced him, his son being by, that he <lb/>had no manner of right to that money, <lb/>but that it was justly due to the Pro=<lb/>-prietors; and that I should account <lb/>to them for it.</p>
+
+<p>Perhaps he may pretend I have <abbr expan="received">rec'd</abbr> <lb/>some of his <sic corr="arrears">arriers</sic> which I ought to dis-<lb/>=count with him. You may assure him <lb/>from me that all that my Coll<add resp="editor">[ecto]</add>rs have <lb/>received, that I know of, does not amount <lb/>to twenty pounds, and that not yet paid 
+
+<pb n="3"/><lb/><lb/>
+into my hands; so that this will be no <lb/>excuse at all.</p>
+
+<p>All the Tobo I have got for you out <lb/>of Essex &amp; Middlesex makes but 7 Hhds <lb/>after prizing, and they not very heavy.</p>
+
+<p>They are under your mark but I have <lb/>put them into my bill of lading and <lb/>ordered <note n="MP1">Perry</note> to Accot. to me for them, <lb/>allowing me the full discounts; and <lb/>after the sales are finished to carry the <lb/>proceeds to your credit&mdash;</p>
+
+<p>I heartily wish the continuance <lb/>of your health and commit you to <lb/>God's  holy keeping, begging his blessing <lb/>may accompany you and that you may <lb/>always live in his fear.</p>
+
+	<p>I am your affectionate Father.</p>
+
+
+
+<closer><seg type="postscript">P.S. I would be mighty glad to have the <lb/>assistance of my daughter in writing my <lb/>invoice for my girls. But I must do the <lb/>best I can in all these little difficulties.</seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:  </hi></hi>  Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia. These texts are all nineteenth-century copies. Apparently there was in existence a letter book of Robert Carter's&mdash;now lost&mdash;from which the unknown copyist recorded these texts. As they are the only texts, the punctuation and "corrections" obviously supplied by the copyist have been retained.</note>
+
+
+<note>The county and colony have been added to the return address for clarity.</note>
+
+<note>The 19th-century copyist composed the address. He added a footnote at the bottom of the page: "This letter has no address but there can be no doubt that it is to his son John Carter. See the next letter."</note>
+
+<note>See Carter's letter to Edmund Jenings, July 6, 1723.</note>
+
+<note id="n1">[1] Carter omitted a word here and the 19th-century copyist added this one in brackets.</note>
+
+<note id="n2">[2] Philip Smith was sheriff of Northumberland County in 1723-1724. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>,  4[1721-1739]: 34,67.</bibl></cit>) </note>
+
+
+<note id="n3">[3] Williamsburg.</note>
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C29f02b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to John Holloway, June 2, 1729</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 11 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C29f02b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2005</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to John Holloway, June 2, 1729</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1728 August 8-1730 May 15,  Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1729-06-02</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C29f02bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1729-06-02"></date>
+<idno rend="suppress">C29f02b.xml</idno>
+<title>Letter from Robert Carter to John Holloway, June 2, 1729</title>
+</bibl>
+</head>
+<p>Robert Carter writes to his attorney, John Holloway, June 2, 1729, concerning a recent decision of the Council that confirmed the proprietor's right to certain fees, and the attacks being made on the proprietorship. He wants Holloway's assistance in stirring Lord Fairfax to action to defend his estate.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="JH">John Holloway,</note> June 2, 1729</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Corotom[an], <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1729-06-02">June 2. 1729</date><lb/>
+Majr Holloway<lb/>
+</dateline>
+<salute>Sir</salute>
+
+</opener>
+
+<p>I received <abbr expan="your">yr</abbr> Packet After the Council at the <lb/>Oyer &amp; terminer <note n="MP1"><abbr expan="Colonel">Colo</abbr> Page</note> sent me <sic corr="Copies">Copys</sic> of the orders then <lb/>made Upon the <note target="n1">Caveat</note> you put in in the behalf of the <abbr expan="Proprietors">Proprs</abbr> <lb/>In <abbr expan="your">yr</abbr> Petition you have been so Considerate in laying your finger <lb/>upon All things necessary to be set forth that I cannot think <lb/>Any thing of importance more could have been added I still <lb/>want a Copy of the Order of Council about the fines &amp; forfeitures <lb/><add place="supralinear">to see </add>how <note n="WR">Mr Robertson</note> <sic corr="has">hath</sic> worded it it was directed by the <note n="WG"><abbr expan="governor">governr:</abbr></note> <lb/>if I remember right that notice should be given in the several <lb/><sic corr="Counties">Countys</sic> of the Northern neck <add place="supralinear"><abbr expan="that">tht</abbr> the fines &amp; forfeitures were the <abbr expan="Proprietors">Proprs:</abbr></add> <note n="JG2">Mr <sic corr="Receiver">Receivr</sic> General</note> made a <lb/>distinction upon the Forfeitures and would have it that the neg=<lb/>roes in <note target="n2"><sic corr="Glascocks">Glasicocks</sic> Estate</note> who was Convicted of the <sic corr="Murder">Murther</sic> of <lb/>one Forester if I do not mistake his right name belong to the <lb/>Crown but the whole board were Against him whether the <lb/>order may take notice of this Particular resolution may <lb/>be a question I have heard the <abbr expan="Receiver General">Recr: Genl</abbr> and the <corr resp="editor">[. . .]</corr> <lb/>too the Auditors Uncle gives it as their clear Opinion that the <lb/>lands above <sic corr="Shenandoah">Chenandoah</sic> Undoubtedly belong to the cro<corr resp="editor">[wn]</corr> <lb/>what their Arguments are is Above my Conjecture b<corr resp="editor">[ut there is ?]</corr> <lb/>warm Oppositions here little doubt is to be made the reven[ue] <lb/>Gentlemen with their Outmost force intend to Attack the grant <lb/>at home therefore <abbr expan="it is">'tis</abbr> my duty to Prepare <note n="TF">his Lordship</note> as <lb/>well as I can to rise up in the defence of his Estate I have 
+
+<pb n="2"/><lb/><lb/>
+heard it is <abbr expan="Colonel">Colo</abbr> Grymes's Opinion that <del>the Crown</del> <add place="supralinear">he</add> will be <lb/><abbr expan="compelled">compell'd</abbr> to sell his Estate &amp; vest it Again in the Crown <lb/>these <corr resp="editor">[. . . ]</corr> hasty forestalling opinions may be the effect <lb/><corr resp="editor">[. . .]</corr> and I do not desire they should be talk'd of <lb/>me but if you Can think of Any materials more than I have to <lb/>represent the case to his Lordship I should be very glad to recei=<lb/>ve them and shall Always have a great regard to <abbr expan="your">yr</abbr> Opinion <lb/>If his Lordship will not bestir himself towards the Asserting <lb/>of his boundaries and defending his Estate I shall however have <lb/>this satisfaction of having done my duty I am
+</p>
+
+<closer><sic corr="Sir">Sr</sic><lb/><abbr expan="your">yr</abbr> most humble Servt.<seg type="postscript"><lb/><lb/>It coming into my head this minute that I have right to An Order of Assembly <lb/>entitling me to the <abbr expan="Payment">Paymt</abbr> for a <sic corr="Negro">negroe</sic> <abbr expan="that">tht</abbr> was executed in Richmond some years <lb/>ago I conjecture you have Already given my Accot Credit for this money but am <lb/>not positive about it</seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. There is a 19th-century transcript of the letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia.
+</note>
+
+<note>The county and colony have been added for clarity to the heading on this draft. </note>
+
+<note id="n1">[1] A caveat is a  "formal notice filed with a court or officer to suspend a proceeding until filer is given a hearing . . .  a warning against certain acts." (<cit><bibl>"Meaning of CAVEAT." hyperdictionary. http://www.hyperdictionary.com/dictionary.</bibl></cit>)</note>
+
+<note id="n2">[2] "William Forrester had been murdered on November 5, 1723, by Thomas Glascock whose son Gregory was named as an accessory." Carter had noted Glascock's capture in his diary on November 13th: "Collo Barber acquaints me me he had Seizd Glascocks who had fled for Murther his Estate Coll Tarpley in the behalf of Glascocks Heir offers to Enter the Land as Escheat " The lands reverted to the proprietors, and Carter apparently managed them for some years for the benefit of Glascock's heirs; he later acquired title to the properties which are mentioned in his will. (<cit><bibl n="B31">Ryland. <title>Richmond County Virginia. . . . </title> p. 101.</bibl></cit></note>
+
+
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

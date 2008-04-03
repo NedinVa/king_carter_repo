@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C29k24a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to John Randolph, November 24, 1729</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 11 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C29k24a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2005</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to John Randolph, November 24, 1729</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1729-11-24</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C29k24aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1729-11-24"></date>
+<idno rend="suppress">C29k24a.xml</idno>
+<title>Letter from Robert Carter to John Randolph, November 24, 1729</title>
+</bibl>
+</head>
+<p>Robert Carter writes to attorney John Randolph, November 24, 1729, concerning the  purchase of lands owned by Samuel Hallows of England for whom Carter understands Randolph is agent.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="JR">John Randolph,</note> November 24, 1729</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Corotoman, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1729-11-24">Novembr 24th. 1729</date><lb/>
+John Randolph Esqr.<lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+
+
+<p>I writ to you from <note n="MP1"><abbr expan="Colonel">Colo.</abbr> Pages</note> with him to desire yo<corr resp="editor">[ur]</corr><lb/>
+<abbr expan="payment">paymt</abbr>. of some money to Ms Ravenscroft for nine thousand weight of <abbr expan="Tobacco">Tob</abbr> <lb/>
+we had bought of him in Gloucester and that our Bills should be ready for <lb/>
+you upon demand this affair I suppose may be accomodated by this time</p>
+
+<p>After my coming home my Son <note n="RC2">Robert</note> acquainted<lb/>
+me you had made him an Offer of <note target="n1">Hallowss</note> Land and <add place="supralinear">told him</add> that you were <lb/>
+fully impowerd to Sell it when I went from home I had it in my thought<corr resp="editor">[s]</corr> <lb/>
+to  <del>[illegible]</del> <add place="supralinear">have</add> treated with you very particularly about this <del>Business</del> <add place="supralinear">matter</add> but what <sic corr="through">thro</sic> <lb/>
+your <sic corr="multiplicty">multyplicty</sic> of Business the difficulty of having any conversatio<corr resp="editor">[n]</corr> <lb/>
+with you and to say truth my own forgetfulness it never came into my head <lb/>
+<sic corr="Until">Till</sic> Robins <del>[illegible]</del> discourse Mr. Hallows in a letter of the 16th: of <abbr expan="December">Decr:</abbr> <lb/>
+last (for you must know we have been in treaty about this Land for man<corr resp="editor">[y]</corr> <lb/>
+years) tells me <del>that illegible</del>  among other things that upon your return from <lb/>
+the Bath he had seen you and intended to Invest you with the property of the <lb/>
+lands to Enable to you to <del>grant</del> make good the title and therefore advised me to clo<corr resp="editor">[se]</corr> <lb/>
+with you upon your return that he had rather the Estate should fall <del>as</del> to my <lb/>
+share with whom he has <add place="supralinear">had</add> some Correspondence <del>rather</del> than to a Stranger and <lb/>
+that my Friend <note n="JP">Mr Pemberton</note> Will be ready to Observe my orders &amp; <lb/>
+<del>would pay the</del> that he might have his money upon the first return answ<corr resp="editor">[er]</corr><lb/>
+ing me that he will <sic corr="ratify">ratifye</sic> and Confirm the Title upon the receipt of the <lb/>
+Purchase money these are some of his Words and I cant but think he may <lb/>
+have said something like this to you however it Came to pass that not a <lb/>
+Word should arise Between you &amp; I Concerning this Letter I must own <lb/>
+the plaice is very <abbr expan="convenient">covt.</abbr> to some of my Sons Lands and he seems <sic corr="pretty">pritty</sic> fond of <lb/>
+having it and therefore If <add place="supralinear"><abbr expan="you">yo.</abbr></add> think it Proper to give me the refusal of it and <lb/>
+Will contrive a place of meeting (but that I would Willingly have at my house <lb/>
+which you may take in your Way up as my Son tells me you are <abbr expan="designed">design'd</abbr>) <lb/>
+if you are not too Stiff in your demands I shall be ready to Close the Barga<corr resp="editor">[in] </corr><lb/>
+According to Mr Hallows Phrase <abbr expan="Your">Yr</abbr> Answer hereto is desired by Sir <abbr expan="your">yr</abbr> most</p>
+
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note> The county and colony have been added for clarity to the heading on the draft.</note>
+
+<note id="n1">[1] Samuel Hallows (Hallowes) was a great nephew of John Hallowes, an early landholder in Northumberland and later, Westmoreland County, who was usually identified as of "Nomini" in Westmoreland County. Samuel Hallows lived in Ashworth, County Lancaster, England. The tract in which Carter was interested may have been that of 2400 acres acquired from Hallowes in 1733 by Thomas Lee. ("Major John Hallowes, 1615-1657" in <cit><bibl n="B38">Norris. <title>Westmoreland County, Virginia.</title> pp. 99-102.</bibl></cit>)</note>
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

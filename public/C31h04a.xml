@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C31h04a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letters from Robert Carter to John Pemberton &amp; Foster Cunliff, August 4, 1731</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca.  kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C31h04a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2006</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letters from Robert Carter to John Pemberton &amp; Foster Cunliff, August 4, 1731</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>3 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1731-08-04</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C31h04aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>3 p.</extent>
+<date value="1731-08-04"></date>
+<idno rend="suppress">C31h04a.xml</idno>
+<title>Letters from Robert Carter to John Pemberton &amp; Foster Cunliff, August 4, 1731</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Liverpool merchant John Pemberton enclosing a letter to Foster Cunliff, also a merchant of that city, August 4, 1731, reminding Pemberton of two bills of exchange, and alerting him that he has sent tobacco consigned to him even though Pemberton has written he will no longer handle such sales. He notes that if Pemberton will not handle the sale, then he is to turn it over to Foster Cunliff, and he encloses a letter to Cunliff to that effect that Pemberton may use as he sees fit.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letters from Robert Carter to <note n="JP">John Pemberton</note> &amp; <note target="n1">Foster Cunliff,</note> August 4, 1731</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1731-08-04">Augst. 4. 1731</date><lb/>
+Mr. John Pemberton<lb/>
+</dateline>
+<salute>Sir</salute>
+
+</opener>
+
+
+
+<p>My last bore date the 9th of July and <abbr expan="advised">advis'd</abbr> you of<lb/>
+two bills of Exchange I had drawn upon you one for fifty six<lb/>
+Pounds Seven Shillings &amp; Six pence payable to <note n="JR">John Randolph</note> <abbr expan="Esquire">Esqr.</abbr><lb/>
+the other for thirty seven Pounds thirteen &amp; Eleven Pence payable<lb/>
+to <abbr expan="Colonel">Colo</abbr> <note n="MCB">George Braxton,</note></p>
+
+<p>I have now on board the <name type="ship">Loyalty</name> <abbr expan="Captain">Capt</abbr> James<lb/>
+Tarleton 30 hogsheads of <abbr expan="tobacco">tobo</abbr> more As I have already <abbr expan="trespassed">trespass'd</abbr> upon your<lb/>
+Orders in sending the rest of my <abbr expan="tobacco">tobo</abbr> to you so I adventure to con=<lb/>
+tinue it to the End of this Years business in consigning it to you<lb/>
+but if you remain resolute and will not meddle with it I then con=<lb/>
+<sic corr="sign">signe</sic> it to Mr: Foster Cunliff my bill <add place="supralinear">of Lading</add> is drawn Accordingly, and herein<lb/>
+is a letter to Mr Cunliff to be made use of by you as you shall <sic corr="please">pleas</sic><lb/>
+to determine, I shall not give You further trouble only to renew my<lb/>
+Wishes for <abbr expan="your">yr.</abbr> <sic corr="Welfare">Welfair</sic> and remain, 
+</p>
+
+<closer>Sir,<lb/>
+Your most Humble Servt. 
+<seg type="postscript"><lb/><lb/>
+<pb n="2"/><lb/><lb/>
+Mr. Foster Cunliff&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rappahannock, <abbr expan="August">Augst.</abbr> 4. 1731 <lb/>
+Sir		<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have alredy told you of my attachement to Mr. Pem <lb/>
+berton and that upon the Accot of our long Acquaintance I had<lb/>
+<abbr expan="adventured">adventur'd</abbr> to break <abbr expan="through">thro'</abbr> his orders in Consigning my <abbr expan="tobacco">tobo</abbr> to him in<lb/>
+the first Place &amp; in case of his Absolute refusal to be <abbr expan="Concerned">Concern'd</abbr> with it<lb/>
+Upon his recommendation to Commit it to <abbr expan="your">yr.</abbr> disposal<lb/><lb/>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have now 30 hogsheads more in the Loyalty, <abbr expan="Captain">Capt</abbr> James <lb/>
+Tarleton, which I consign upon the Same terms if it Falls upon You 
+
+<pb n="3"/><lb/><lb/>
+ to sell them I am in no doubt of Your <sic corr="Utmost">Outmost</sic> Care and diligence<lb/>
+in making the most of them in such case my invoice for goods<lb/>
+will fall into Your hands and Desire you will follow the directions<lb/>
+I have given about them in sending them in to me And in hopes<lb/>
+of meeting with the same fair dealings from you as I have <abbr expan="through">thro</abbr> a<lb/>
+long Series of Years had the Experience of from my old friend Mr.<lb/>
+Pemberton so I <del>shall be encourag'd</del> propose to make you my Cores <lb/>
+pondent for my concerns in your Parts <abbr expan="through">thro</abbr> the rest of my days <lb/>
+which by the Course of Nature <add place="supralinear">&amp; under a crazy constituion</add> cannot be many I am, <lb/><lb/>
+Sir&mdash;<lb/>
+Your most Humble Servant.
+
+
+</seg>
+
+
+</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1] Foster Cunliffe (d. 1767) was a merchant and prominent citizen of Liverpool who worked to expand manufacturing and the capacity of the harbor; he served a number of terms as mayor.  He and Richard Gildart undertook "a major reorginization of business with Maryland and Virginia . . . beginning in the early 1720's [they] sent numerous factors to the region." They established stores in which retail goods were sold, purchased the produce of the region, had it ready for loading when ships arrived, and also moved into the sale of slaves. (<cit><bibl>James A. Picton, <hi rend="italics">ed.</hi> <title>Liverpool Municipal Archives and Records. . . .</title> [Liverpool, 1907.] pp. 27, 31, 79, 90, 96, etc.</bibl></cit> and <cit><bibl>Paul G. Clemens. "The Rise of Liverpool, 1665-1750." <title>Economic History Review.</title> 24[May 1976]:211-225.</bibl></cit></note>
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

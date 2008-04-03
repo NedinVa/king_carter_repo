@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C23h14a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">James Butler's Statement Concerning the Brent Town Lands, August 14, 1723</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Copedge, John</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 6 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C23h14a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2002</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>James Butler's Statement Concerning the Brent Town Lands, August 14, 1723</title>
+     <author>John Copedge</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1723-08-14</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C23h14aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AD</abbr>
+<extent>1 p.</extent>
+<date value="1723-08-14"></date>
+<idno rend="suppress">C23h14a.xml</idno>
+<title>James Butler's Statement Concerning the Brent Town Lands, August 14, 1723</title>
+</bibl>
+</head>
+<p>Robert Carter had his clerk record in the letter book a statement by James Butler, August 14, 1723,  taken by John Copedge at the Stafford County court  concerning the location of the corner of the Brent Town grant in the Northern Neck proprietary.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>James Butler's Statement Concerning the Brent Town Lands, August 14, 1723</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Stafford County<add resp="editor">[Virginia]</add></name><lb/>
+<date value="1723-08-14">Augst. 14th. Anno 1723.</date><lb/>
+</dateline>
+
+</opener>
+
+<p>A Memorandum taken at Stafford <lb/>Court of Mr. James Butler Vizt. That about 38 Years past <lb/>he was Waiting Man to <note target="n1"><abbr expan="Captain">Capt.</abbr> Brent,</note> and being with his <lb/>Said Master and his Company on the Point where Ceadar <lb/>Run &amp; Broad Run meets, and <abbr expan="Captain">Capt.</abbr>
+ Brent took a <lb/>Tomhauke &amp; <sic corr="marked">Markd</sic> a White Oak on the Point Standing <lb/>On a rock and bid them take notice that from thence he <lb/>Would have a Tract of Land of 20. or 30 <abbr expan="thousand">Thousd.</abbr> Acres <lb/>And That Tree Should be the begining &amp; Accordingly <lb/>the Year following Came in the <note n="BT">Brent Town Grant</note> at <lb/>first <sic corr="called">calld</sic> the New Town, upon this Information I told <lb/>Butler I heard the Corner Tree was down he <sic corr="answered">answerd</sic> <lb/>that if the Corner Tree was down all the Trees was <lb/>not down for he <abbr expan="marked several">markd Sevl</abbr> about it at the same time <lb/>Taken per me&mdash;the Date above&mdash;<note target="n2">John Copedge</note></p>
+
+
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1723 June 16-1724 April 23, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note id="n1">[1]  George Brent (d. 1699)  a "surveyor and lawyer," of "Woodstock," Stafford County,  was the "resident partner in Virginia" for the development of the Brent Town grant by Nicholas Hayward. (<cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> p. 178 ff.</bibl></cit>)</note>
+
+<note id="n2"> [2] John Copedge appears as a justice of the peace in Northumberland County in 1714, but was not listed in 1726 there when the name appears as the surveyor of Lancaster County.  (<cit><bibl>Louis des Cognets, Jr., <title>English Duplicates of Lost Virginia Records.</title> Baltimore: Genealogical Publishing Co., Inc. 1981, 27, 36.</bibl></cit>)</note>
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

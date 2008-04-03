@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C28d13c">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to John Pemberton, April 13, 1728</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+      <resp>Change of handwriting:</resp>
+     <name id="hand">unidentified clerk</name>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 7 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C28d13c.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2004</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to John Pemberton, April 13, 1728</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1728-04-13</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C28d13cT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1728-04-13"></date>
+<idno rend="suppress">C28d13c.xml</idno>
+<title>Letter from Robert Carter to John Pemberton, April 13, 1728</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Liverpool merchant John Pemberton, April 13, 1728, to send bills of lading for tobacco shipped in the Brigantine <hi rend="italics">Mary</hi> by several residents of Westmoreland and Northumberland counties.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="JP">John Pemberton,</note> April 13, 1728</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1728-04-13">Apl. the 13th: 1728</date><lb/>
+Mr. John Pemberton<lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+
+
+<p>This is only to Enclose to you some bills <lb/>of Lading for <abbr expan="Tobacco">Tobbo:</abbr> <sic corr="Shipped">Shipt</sic> in the <sic corr="Brigantine">Briggantine</sic> <note target="n1"><name type="ship">Mary</name></note> Thomas <lb/>Price <abbr expan="Master">Mr</abbr>. belonging to Some Gentlemen living in <abbr expan="Westmoreland">Westmd.</abbr> <lb/>and <abbr expan="Northumberland">Northd.</abbr> <sic corr="Counties">Countys</sic> and <sic corr="Consigned">Consignd</sic> to you on their Accounts <lb/>to wit Henry Ashton for 6 hogsheads <note target="n2">Thomas Lee</note> for 6 hogsheads <lb/><note target="n3">Henry Lee</note> for 2 hogsheads <note n="GT"><abbr expan="George">Geo:</abbr> <sic corr="Turberville">Tubervile</sic></note> for 8 hogsheads  <note n="RL">Richard Lee</note> <lb/>for 2 hogsheads all these <abbr expan="Gentlemmen">Gent.</abbr> Except Richard Lee lives in <lb/>Westmoreland he lives in Northumberland I am</p>
+
+<closer>Sir&mdash;<lb/>Yor. Humble Servt:
+<seg type="postscript"><lb/><lb/><add resp="hand"><note target="n4">per Capt: Price</note></add></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1727 May-1728 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1] The <hi rend="italics">Mary</hi> was a London ship owned by merchant Robert Cary and commanded by Thomas Price. (See Carter to Samuel Smith, January 22, 1728.)</note>
+
+<note id="n2">[2] Thomas Lee (1690-1750) was the son of Richard Lee II, and nephew of Edmund Jenings; he would build "Stratford," and succeed Carter on the Council. (<cit><bibl>Burton J. Hendrick. <title>The Lees of Virginia: Biography of a Family.</title> [Boston: Little Brown, 1935]. pp. 48, 51, etc.</bibl></cit>)</note>
+
+<note id="n3">[3] Henry Lee (1691-1747) was a son of Carter's old friend, Hancock Lee (1653-1709). He lived in Westmoreland County at "Lee Hall" and married Mary Bland. (<cit><bibl>Burton J. Hendrick. <title>The Lees of Virginia: Biography of a Family.</title> [Boston: Little Brown, 1935]. pp. 329-30.</bibl></cit>)</note>
+
+<note id="n4">[4] The words "per Capt: Price" were added in the hand of a different clerk than the one who wrote the body of the letter.</note>
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

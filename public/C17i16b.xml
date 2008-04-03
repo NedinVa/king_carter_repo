@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C17i16b">
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Edward Tucker, 1717 September 16</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr., and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 5 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">Modeng enter file ID</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/modeng.browse.html</p>
+         </availability>
+     <date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Edward Tucker, 1717 September 16</title>
+ 
+     <author>Robert Carter</author></titleStmt>
+
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date>1717-09-16 </date>
+   <idno type="callNo"> Source copy consulted: Minor-Blackford Papers, James Monroe Law Office
+and Museum, Fredericksburg, Virginia. </idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in establishing
+analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH">
+     <bibl>
+     <title>Library of Congress Subject Headings</title>
+     </bibl>
+     </taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation>
+     <date>1717-09-16</date>
+     </creation>
+     <langUsage>
+     <language id="eng"></language>
+     </langUsage>
+     <textClass>
+     <keywords>
+     <term>non-fiction</term>
+   <term>prose</term>
+     </keywords>
+     <keywords scheme="LCSH">
+     <term type="Field650">LCSH</term>
+     </keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C17i16bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 pp.</extent>
+<date value="1717-09-16">September 16, 1717</date>
+<idno rend="suppress">work id</idno>
+<title>Letter from Robert Carter to Edward Tucker, 1717 September 16</title>
+</bibl>
+</head>
+<p>Robert Carter to Weymouth, England, merchant Edward Tucker, September 16, 1717, reporting a bill of exchange he has drawn to Thomas Black, and the terrible storm that severely damaged the crops. He advises Tucker to send Captain Giles Russell on the Brimpton because there will be tobacco to be shipped.</p>
+</div1>                 
+</front>
+
+
+<body>
+
+<div1 type="letter" n="1717-09-16">
+
+<head>Letter from Robert Carter to <note n="ET">Edward Tucker</note>, September 16, 1717</head>
+
+<opener>
+
+<dateline>
+<pb n="1"/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+
+<date value="1717-09=16">Septr 16th 1717</date>
+</dateline>
+                                             
+<salute>Sr.</salute>
+
+</opener>
+
+<p>The cheif reason of this is to advise you of a <lb/>Bill I drew on you a few days agon to Thos. Blak
+<lb/>for six pounds, eight shill &amp; six pence which I <lb/>desire you to pay.</p>
+<p>I have alreadie acquainted you wth the storm w=<lb/>ee had on 24th of last month wch hath don
+<lb/>a great deal of damage to or. Corn &amp; Tobo and <lb/>hath bin genl thro' the country&mdash;  Yet
+<lb/>believe if you send <note target="n1">Capt. [Giles] Russel</note> he will <lb/>find Tobo enough,
+tho there is a mighty <lb/>cry amongst us.</p>
+
+<closer>I am, Sir, your humble servant</closer>
+
+</div1>
+</body>
+
+<back>
+<div1 type="notes">
+<head>Notes</head>
+
+<note><hi rend="italics">Source copy consulted: </hi>  Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia. These texts are all nineteenth-century copies. Apparently there was in existence a letter book of Robert Carter's&mdash;now lost&mdash;from which the unknown copiest recorded these texts. As they are the only texts, the punctuation and "corrections"
+obviously supplied by the copiest have been retained. The copist used rows of the letter "x" to indicate material that he did not copy from the letter book.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The return address, county, and state have been added for clarity to this unheaded letter.</note><lb/>
+
+
+
+<note id="n1">[1] Captain Giles Russell commanded the <name type="ship"><hi rend="italics">Brimpton</hi></name>, a
+vessel which sailed often from Weymouth to Virginia from at least as early as 1711. (Survey Report 9711, <bibl id="M11">Survey reports, Virginia Colonial Records Project.</bibl>)</note>
+
+</div1>
+</back>
+</text>
+
+
+</TEI.2>

@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C23c25a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Micajah Perry, March 25, 1723</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 11 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">filename</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2002</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Micajah Perry, March 25, 1723</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>5 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, VA</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1723-03-25</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C23c25aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>5 p.</extent>
+<date value="1723-03-25"></date>
+<idno rend="suppress">C23c25a.xml</idno>
+<title>Letter from Robert Carter to Micajah Perry, March 25, 1723</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant Micajah Perry, March 25, 1723, commenting briefly on whether laws recently passed by the Assembly will be allowed to stand by the Crown, and that he has noted in Perry's account current what has been paid to William Cage for the rent for the Northern Neck proprietary. He complains mildly that Perry has not responded to questions that he had sent concerning lands for which he is being sued by Cary. In stronger terms he takes Perry to task for smiling at Carter's proposal that he take the &pound;1,500 coming from Carter's annuity and pay Carter 5% interest, and for complaining that Carter expects interest when he had not paid Perry interest for the money Perry had advanced to obtain the post of secretary of state for Carter's son John. Carter points out that a check of the firm's books will show Perry that his firm has often had the use of large balances of &pound;3-5,000 in Carter's sccount over many years without being asked for interest. He chastises Perry for complaning that Carter has not complimented him enough for his "respects &amp; kindness" to John which Carter states emphatically is not so, and notes that Perry of all the London merchants is his "darling." He sends "fresh acknowledgements" for Perry's kindness to John. He concludes that the barber Perry had recently sent probably will not prove to be very good as he has been in the army, and reminds Perry of his requests for "other tradesmen." </p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="MP2">Micajah Perry,</note> March 25, 1723</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">[Rappahannock, Lancaster County, Virginia]</name><lb/>
+<date value="1723-03-25">March 25th 1723</date><lb/>
+Mr. Micajah Perry<lb/>
+Extract&mdash;<lb/>
+</dateline>
+
+
+</opener>
+
+<p>I am glad to find you acknowledge <lb/>yourself obliged to Virginia&mdash; that you <lb/>will always be <hi rend="underline">readie</hi> to stand <lb/>up in its service when there is <lb/>occasion. What is writ to me <lb/>about our laws I can't tell <lb/>how to form a judgement of. <lb/>Some say the imposition acts <lb/>will be allowed to us and the <lb/>Tobo. Law will not. The opinion <lb/>of others ++++++ them is just the re=<lb/>=verse.</p>
+
+	<p>In your account Currt I observe <lb/>what you <add place="supralinear">have</add> <note target="n1">paid</note> to <note n="WC"><abbr expan="Colonel">Collo.</abbr> Cage</note> and <lb/>you tell me he would take the rest <lb/>after <sic corr="Chistmas">Christmass</sic> and that 'tis his <lb/>fault if he hath not had it sooner, <lb/>so that there can be no blame at <lb/>my door, which hath <add place="supralinear">been</add> always my <lb/>desire to you to taken care to avoid.	</p>
+
+<p>As to Loyd's affair, I am sorry it 
+
+<pb n="2"/><lb/><lb/>proves so troublesome to you, but you <lb/>are strong enough to stand their ut=<lb/>=most shocks. I wish you had thought <lb/>of saying something about that tract <lb/>of Land belonging to that Estate <lb/>that I told you I was sued for by Cary. <lb/>There are a great many things I have <lb/>said to you in relation to that <lb/>concern that are yet unanswered.</p>
+
+	<p>I now come to the subject that <lb/>brought you to a smile. You had told <lb/>me my annuity of 1500 pound <sic corr="would">woud</sic> <lb/>be paid off at a certain time and <lb/>desired me to think of a way to dispose <lb/>of that money; upon which I made <lb/>you the offer of it at 5 PCt. I confess <lb/>I can't measure the reason how this <lb/>came to put you in so merry a hu=<lb/>=mour. You then grow angry that <lb/>I should expect interest for my money <lb/>and you should have none for the money <lb/>you advanced for <note target="n2">my son's place,</note> which <lb/>I shall now endeavour to set in <lb/>such a light that it may come within <lb/>the reach of your comprehension <lb/>and not appear so wonderful a <lb/>paradox; &amp; this I shall do by going into the 
+
+<pb n="3"/><lb/><lb/>
+virtue of reflection. If you will <lb/>please to <sic corr="overhaul">over=<hi rend="underline">hall</hi></sic> my accounts <lb/>current from your house for many <lb/>years past, you will find my bal=<lb/>=ances seldom less than three <lb/>thousand pounds in my favour&mdash;<lb/>sometimes four&mdash;I may say, some=<lb/>times five <abbr expan="thousand"><hi rend="underline">M</hi></abbr>&mdash;and the balance of <lb/>the Acct. now sent me is about <note target="n3">["a <lb/>blank is here"]</note> thousand pounds. I <lb/>cannot think that my Tobaccos yearly <lb/>ever wanted so much as as two thou=<lb/>=sand pounds to give me the advantage <lb/>of the discount; and especially the <lb/>other year when I sent you but 50 <lb/><abbr expan="hogsheads">Hhds</abbr>&mdash; and thereupon I may justly <lb/>reckon I have all this time had <lb/>considerable sums of money lyeing in <lb/>your hands which returned me no <lb/>benefit. Upon this reason I went, <lb/>when I told you I would pay you <lb/>no interest for the money you ad=<lb/>=vanced for my son's place: and I think <lb/>it unanswereable. If you can find a <lb/>convincing one you will do well to let me 
+
+<pb n="4"/><lb/><lb/>
+have it. And I must observe further <lb/>that half this money is charged to <lb/>me in a great deal less than a year <lb/>&amp; the other half you have had in your hands <lb/>all this time. +++++</p>
+
+	<p>You wrong me egregiously to charge <lb/>me with want of acknowledgement <lb/>for your respects &amp; kindness to my <lb/>son. I am sure I have often said &amp; I <lb/>believe it is to be seen in some of my <lb/>letters, that I took it as a lasting <lb/>obligation that I should not easily <lb/>forget; and I am sure I have not failed to <lb/>serve your interest since, where it has <lb/><sic corr="lain"><hi rend="underline">lyen</hi></sic> in my way. I take notice you have <lb/>a fling at my darlings, but if you would <lb/>look back you would find yourself <lb/>to have been the occasion of dividing my <lb/>concern and nobody else. If I have any <lb/>darling in the trade amongst the London <lb/>merchants it is Mr. Perry&mdash;and so I be=<lb/>=lieve he will continue to be if he <lb/>does not give me new occasions of <lb/>dissatisfaction; and I think this year <lb/>will sufficiently demonstrate it. As <lb/>to your fresh respects to my son in ap=
+
+<pb n="5"/><lb/><lb/>
+pearing so early his friend as you men=<lb/>=tion in your letter, I give you my <lb/>fresh acknowledgements.</p>
+ 
+	<p>The barber, by <note target="n4">Holladay,</note> is with <lb/>me&mdash;am afraid he smells too <lb/>much of the <note target="n5">Camp</note> to prove good. <lb/>As for those other tradesmen I writ <lb/>for, I hope you will exert yourself <lb/>to get <note target="n6">[them?]</note> when you have op=<lb/>=portunity. </p>
+
+<closer>I shall conclude &amp;c<lb/> Your Obt Humble servt<seg type="postscript"></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:  </hi>Source copy consulted: </hi>  Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia. These texts are all nineteenth-century copies. Apparently there was in existence a letter book of Robert Carter's&mdash;now lost&mdash;from which the unknown copyist recorded these texts. As they are the only texts, the punctuation and "corrections" obviously supplied by the copyist have been retained. The copyist used rows of the symbol "+" to indicate material that he did not copy from the letter book. This copy is headed "Appendix G."</note>
+<lb/>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The name of the river, and the county and state have been added for clarity to this unheaded draft.</note><lb/>
+
+<note id="n1">[1] The copyist added a footnote reading "The payment was on account of his Agency for Lord Fairfax," referring to Carter's lease of the Northern Neck proprietary.</note>
+
+<note id="n2">[2] Carter had obtained Perry's assistance in lobbying for and in making a payment to obtain for Carter's son John the office of secretary of state of the colony.</note>
+
+<note id="n3">[3] The quoted words are those of the copyist.</note>
+
+<note id="n4">[4] William Holladay commanded a ship named the <hi rend="italics">Princess Carolina.</hi> (<cit><bibl>Survey Report 6800, found in the microfilms of the Virginia Colonial Records Project, Albert H. Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n5">[5] Carter means that the barber had been in the army. </note>
+
+<note id="n6">[6] The copyist could not read this word and inserted his tentative reading, with a question mark, in brackets.</note>
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

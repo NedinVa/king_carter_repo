@@ -1,0 +1,221 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C27f28f">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Micajah Perry, June 28, July 26, and August 22,  1727</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 18 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C27f28f.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2003</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Micajah Perry, June 28, July 26, and August 22,  1727</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>4 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond, and Robert Carter letter book, 1727 May-1728 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1727-06-28</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C27f28fT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>4 p.</extent>
+<date value="1727-06-28"></date>
+<idno rend="suppress">C27f28f.xml</idno>
+<title>Letter from Robert Carter to Micajah Perry, June 28, July 26, and August 22,  1727</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant Micajah Perry, June 28, 1727, to order some goods for the late Nathaniel Burwell's family and to enclose several bills of exchange (not present). He comments that many merchant ships have sailed from the colony without waiting for the convoys, and the colony's government has accordingly established an embargo to force the ships into convoys. He mentions the needs of the Lloyd estate and that he had hoped to be able to send an invoice for goods but circumstances have prevented him. In a lengthy post script dated July 26, 1727, Carter repeats his notice of bills of exchange of which he had notified Perry in an earlier letter, and sends (not present) a statement of Edmund Jenings's account with the Proprietors of the Northern Neck which shows a balance due Carter which he hopes will be credited against his next rent payment. He also reports Jenings's death on July 5, 1727. In a second post script dated August 22, 1727, Carter reports a bill of exchange for his daughter, Elizabeth Burwell Nicholas, and sends a bill of lading (not present) for tobacco belonging to the Lloyd estates. He notifies Perry that his grandson, Lewis Burwell, has been given permission to remain at school one more year before going to university, and that he has drawn bills on Perry payable to John Falconar and John Pemberton.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="MP2">Micajah Perry,</note> June 28, July 26, and August 22,  1727</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1727-06-28">June the. 28th: 1727</date><lb/>
+Mr. Micajh: Perry<lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+<p>I have Said so much to you already little <lb/>remains now to be added herein comes an Invoice for Some goods <lb/>to be Sent for the Supply of <note n="NB">Mr. Burwells</note> familys.</p>
+
+<p>Here are also Enclosed two bills of Exchange drawn <lb/>upon your Self <add place="supralinear">of my own</add> <add resp="editor">[to]</add> <note target="n1">James Bradby</note> for Twenty four pounds &amp; <lb/>my own to <note n="JB"><abbr expan="Doctor">Docr:</abbr> <sic corr="Belfield">Belfeild</sic></note> for Fifteen pounds with Some Seconds to witt <lb/><note target="n2"><abbr expan="William">Wm:</abbr> <sic corr="Keiling">Keeling</sic></note> for &pound;33:7:&mdash; my own to <note n="RM">Richard Meeks</note> for &pound;35:-:- <lb/>Austin Smith for &pound;19:11:&mdash; <add place="supralinear">most</add> <del>All</del> of the Merchants <sic corr="wrote">writ</sic> in to their <lb/>Masters to come away in Fleets you particularly desire me to Exert <lb/>my Self in Affecting this and <add place="supralinear">proposed</add> that <note target="n3"><abbr expan="Captain">Capt:</abbr> Pearse</note> would Accompany <lb/>them off from this Coast <sic corr="We">Wee</sic> found that our Ships went away as <lb/><del>fast</del>as they <add place="supralinear">got</add> <del>[illegible]</del>  ready <abbr expan="Captain">Capt:</abbr> Pearse the last time he went out had <lb/>but Six Ships to accompany him the Government therefore came <lb/>to a resolution to lay a restraint the first Fleet to Sail the 30th: Instant <lb/>and the next the 25th: of July how many this Fleet will Consist of 
+
+<pb n="2"/><lb/><lb/>
+<add resp="editor">[I don]</add>t yet know am apt to <sic corr="believe">beleive</sic> there will be between 20 and 30 <lb/>Sail I hope in this wee have acted prudently and for the Service of the <lb/>Trade <abbr expan="Captain">Capt:</abbr> Pearse <del>Expresses to the ?  utmost to See of in Safety</del><add place="supralinear">now makes up his fleet at <note target="n4"><sic corr="Kecoughtan">Kiquoton</sic></note> </add><lb/>and promises to be ready if possible to accompany the next,</p>
+
+<p>The <note n="LL">LLs</note> Estate if it continues in the Circumstances it <lb/>now is will want a Supply for the next year Intend you an Invoice <lb/>by the <note n="CS"><name type="ship">Carter</name></note> I have not got in the <sic corr="Sheriffs">Sherrifs</sic> accots: and Cant tell at present <lb/>what the Levys and other Charges amount to therefore must refer the <lb/>Accot: of the Contingencies till another time I am 
+</p>
+
+<closer>Sir<lb/>Yor: most humble Servt:<seg type="postscript"><lb/><lb/>per <note target="n5">Watkinson</note>
+<lb/>Copy per <note target="n6">Trice</note>&mdash;</seg><lb/><lb/>
+
+<seg type="postscript">
+
+<pb n="3"/><lb/><lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Added to Mr. Perry Letter of the 28th. of June<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rappahannock, July 26th: 1727<lb/>
+Sir&mdash;<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In mine of the 3d: June I told you of <abbr expan="Several">Sevl.</abbr> drafts I had <lb/>made on you to <note n="MCB">Colonel <sic corr="Braxton">Braxston</sic></note> upon my own and Mr. Burwells Child <lb/>Accounts for negroes I bought to make up our mortalitys and gave you <lb/>advice thereof By the Bristol Ship that imported the Slaves, to witt on my <lb/>own Acct: for three hundred Pounds upon <abbr expan="your">yr.</abbr> Accot: of <abbr expan="Major">Majr.</abbr> Burwells <lb/>Estate for four negroes four Score pounds upon the Accot: of <note n="MH"><abbr expan="Merchants">Merchts.</abbr> <lb/>hundred</note> Estate for four negroes to be paid out of the money due upon <lb/>your Accot. <sic corr="Current">Currant</sic> in <note target="n7">Carter Burwells</note> name four Score pounds<lb/><lb/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have Since drawn on you on the Estates Accot: for <lb/>Two hundred and Fifty pounds to <note n="ECB">Dr. Nicholas,</note> <note n="MP1">Colonel Page</note> hath <lb/>Signd the bills also<lb/><lb/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You have already advice of two bills I Sent you <note target="n8"><abbr expan="James">Jas</abbr> <lb/>Bradby</note> on your Self for &pound;24"-"- my own to <note n="JB">Dr: <sic corr="Bellfield">Belfeild</sic></note> for &pound;15"- <lb/>on Accot: of the <note n="LL">LL Estate</note> The Seconds are under this Cover. Also a first <lb/>for &pound;3"10"- on your Self Colonel Tayloes draft,<lb/><lb/>
+
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;That you may not be at the trouble of looking of it <lb/>I Send you now a fresh Accot: of the State of <note n="EJ">Colonel Jennings's</note> accot. with the <lb/><abbr expan="proprietors">proprs:</abbr> and desire you will be <abbr expan="referred">referr'd</abbr> to my Letter of the 9th: of July 1725 <add place="supralinear">and to Some other Letters Since </add><lb/>and that <note n="WC">Colonel Cage </note>will please to turn to two Letters of mine the 1st: <lb/>of the 19th: of July 1725 The other of the 21st of July 17261 and that you <add place="supralinear">both</add> <lb/>will think it proper to discount this Thirty nine pounds Fourteen <lb/>Shillings out of the next payment of My rent I am <lb/><lb/>Sir&mdash;<lb/>Yor: most humble Servt:
+<lb/><lb/>Colonel Jennings departed this Life <lb/>the 5th: Instant&mdash;
+<lb/>herein is a bill of Exchange on your Self of <abbr expan="Richard">Richd:</abbr> <lb/>Chichester for &pound;2-- which I desire Credit for
+<lb/>per Capt: Trice
+<lb/>Copy per Carter
+</seg>
+
+<seg type="postscript">
+
+<pb n="4"/><lb/><lb/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Added to Mr. Perrys of the <note target="n9">27 July</note><lb/>
+Sir&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rappahannock, <abbr expan="August">Augst:</abbr> the 22d: 1727<lb/><lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;herein I Send you Scond bills for two of the Small Sums <lb/><abbr expan="mantioned">menton'd</abbr> above also a first bill for &pound;12 drawn by Edmund Bagg <lb/>on <note n="RC">Mr. Cary</note> money belonging to <note n="ECB"><abbr expan="Elizabeth">Eliz:</abbr> Burwell</note> and to be put into <lb/>her Accot: You have now a bill of Lading for 12 hogsheads for the <note n="LL">LLs</note> Tobacco <lb/>and I have drawn on you for 25/ to <abbr expan="Captain">Capt:</abbr> Dove for the <note target="n10">Impost</note> &amp; <lb/>have herein Sent an Invoice for some goods for the Supply of them <lb/>familys if you think fit to Send them. My own Accot: of Disbur<lb/>sements for that Estate <add place="supralinear">for the Year 1726</add> I have not yet got ready Shall prepare it to <lb/>come in some later Ship<lb/><lb/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have <sic corr="written">writ</sic> to my Grandson <note target="n11">Lewis Burwell</note> <sic corr="letting">leting</sic> <lb/>him know that his friends here <sic corr="complied">complyd</sic> with his desire in Continu<lb/>ing <add place="supralinear">him</add> a year longer at School to <sic corr="Qualify">Qualifye</sic> <add place="supralinear">him</add> the better for the University <lb/>upon his promises that he would make a diligent use of his Time <lb/>there, it will be a very great Comfort to all his relations to have <lb/>a better Accot. of him in our next then we have hitherto had,<lb/><lb/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am now to advise you that I have Sent a <sic corr="note">noat</sic> to <lb/>Mr. <note target="n12">John Falconar</note> Merchant to demand of you the Sum of  &pound;200 <lb/>upon my Accot. which I desire you to make payment of &amp; Charge <lb/>me with And I have now drawn upon you for Three hundred <lb/>Pounds more Payable to Mr. <note n="JP">John Pemberton</note> of <sic corr="Liverpool">Leverpool</sic> wch. <lb/>I desire you to answer here is a Small bill for 25/ <abbr expan="Endorsed">Endd.</abbr> by <abbr expan="Captain">Capt.</abbr> <lb/>Dove the Impost of these 12 hogsheads of <abbr expan="Tobacco">Tobbo:</abbr>
+ I have no further trouble <lb/>to give you at present but am Sir <lb/><lb/>Yor: most humble Servt:<lb/><lb/>
+<add resp="editor">[Per]</add>the Carter
+
+
+</seg>
+
+</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copies consulted:</hi></hi> Original letter and first post script (1727 July 26): Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond.  the same. Second post script (1727 August 22): Robert Carter letter book, 1727 May-1728 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
+
+<note id="n1">[1] Captain James Bradby commanded the <hi rend="italics">Micajah and Philip </hi>(<cit><bibl>P.R.O., Adm. 68/195, ff. 74v, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n2">[2] Captain William Keiling commanded the <hi rend="italics">Betty.
+</hi> (<cit><bibl>Survey Report 6800, Virginia Colonial Records Project, Albert and Shirley  Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n3">[3] Captain Vincent Pearse was the commander of the <hi rend="italics">Tartar,</hi> the British warship on station in the colony.  (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:136. </bibl></cit>)</note>
+
+<note id="n4">[4] Kecoughtan was the old name for the area later known as Elizabeth City; it is where the city of Hampton lies today. </note>
+
+
+<note id="n5">[5] Watkinson was captain of the <hi rend="italics">Vine,</hi> a ship that may have been owned by Micajah Perry. (Carter to Pemberton, 1724 March 25)</note>
+
+<note id="n6">[6] The 140 ton <hi rend="italics">Welcome</hi> was owned by London merchant James Bradley to whom Carter would write about her on 1727 May 17. John Trice (Frice) was her captain, 1723-1727. (<cit><bibl>Adm 68/195, 154r, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n7">[7]  Carter Burwell (1716-1756) was Robert Carter's grandson by his daughter Elizabeth (Carter) Burwell and her first husband, Nathaniel Burwell (1680-1721). Carter Burwell would live at "Carter's Grove," and would marry Lucy Grymes in 1738. (<cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 128.</bibl></cit>)</note>
+
+<note id="n8">[8] Captain James Bradby commanded the <hi rend="italics">Micajah and Philip.</hi>(<cit><bibl>P.R.O., Adm. 68/195, ff. 74v, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n9">[9] Carter's previous extant letter to Perry was dated 1727 July 28, not July 27th, but this post script has been added to it on the presumption that he made a mistake while dictating. </note>
+
+<note id="n10">[10]  The impost was the duty imposed by Britain on imported tobacco, and the cocket (for which a fee was charged) was the certified document issued that the impost had been paid.</note>
+
+<note id="n11">[11] Lewis Burwell (1711 or 1712-1756), Carter's grandson by Elizabeth Carter Burwell and her first husband, Nathaniel Burwell (1680-1721). He was educated at Eton and Cambridge, and inherited considerable property, living at "Fairfield," Gloucester County. He would be president of the Council in 1750-1751. (<cit><bibl n="B42">Kneebone <hi rend="italics">et al.</hi>,  <title>Dictionary of Virginia Biography.</title>  2:434-5.</bibl></cit> and <cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 114.</bibl></cit>)</note>
+
+<note id="n12">[12] John Falconar was a London merchant with whom Carter dealt. In 1728, Falconar and Henry Darnell formed an association of 29 London tobacco merchants to deal with the French tobacco purchasing agent as a group in order to keep the price as high as possible. The association lasted only lasted a year or two before dissolving because some of its members were dealing directly with the French agent and selling below the agreed-upon price. See Carter's letter to Falconar of 1727 August 22 for details about the payment of &pound;200 to him.(<cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> Newport News, VA: Mariners' Museum, 1953. p. 129</bibl></cit>)</note>
+
+
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

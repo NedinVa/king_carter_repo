@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C29b07b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to John Mercer, February 7, 1729</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 9 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C29b07b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2005</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to John Mercer, February 7, 1729</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1729-02-07</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C29b07bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1729-02-07"></date>
+<idno rend="suppress">C29b07b.xml</idno>
+<title>Letter from Robert Carter to John Mercer, February 7, 1729</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Stafford County resident John Mercer, February 7, 1729, concerning land that Mercer and William Hall both wish to acquire, and suggesting a meeting to resolve their differences.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note target="n1">John Mercer,</note> February 7, 1729</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Corotoman, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1729-02-07">Feb: 7. 1729</date><lb/>
+Mr John Mercer<lb/>
+</dateline>
+
+</opener>
+
+
+
+<p>According to the desire of your last letter I have discoursed <note target="n2">Mr. Warner</note> <lb/>at large upon your Affair having before us the several letters relating thereto <lb/>I find my not sending a <sic corr="Warrant">Warrt</sic> to Mr. Warner according to your first desire was <lb/><sic corr="Chiefly">Cheifly</sic> upon two reasons first upon the Looseness and uncertainty of your entry <lb/>mentioning no <sic corr="boundaries">boundarys</sic> only two <note target="n3">runs</note> in which Mr. Warner tells me <lb/>there cant be so Little as ten thousand acres as he reckons that are ungranted <lb/>A second reason was that from the information both of your self and others <lb/>the Land you are aiming at was within Joness <del>[illegible]</del> alias <add place="supralinear">Jeofferys</add> <sic corr="Patent">Pattent</sic> my <lb/>province is only to grant Lands that have not been granted before I am not a <lb/>Judge to determine upon the Validity of <sic corr="patents">pattents</sic> I have <abbr expan="received">receiv'd</abbr> <note target="n4">quitrents</note> once <lb/>for Jeofferys's <sic corr="Patent.">Pattent.</sic> and think I cannot fairly grant any of it away kno=<lb/>wingly <del>upon these reasons I sent you no Warrt</del></p>
+
+<p><note target="n5">Hall</note> when I was at <note target="n6">Occaquan</note> made his entry with me bounding it <lb/>on three sides with other mens Lines suggesting it as Land ungranted where <lb/>upon I sent him a Warrant in which I think no injustice was done to you</p>
+
+<p>It is my inclination to <sic corr="please">pleas</sic> as many as I can but among litigants <lb/>you know all sides cannot be pleased upon the whole I cannot see upon <lb/>what ground I can well stop Halls Deed however seeing you desire a <note target="n7">Caveat</note> <lb/>against it I Shall delay its issuing for sometime and now send notice to <lb/>Hall about it that if you think it worth your while I shall be ready to give yo<corr resp="editor">[u]</corr> <lb/>a hearing sometime between this and the Middle of <sic corr="April">april</sic> You and Hall must <lb/>agree the time of your coming. Connels Survey being within the purview of <lb/>your caveat I shall observe the same method in.</p>
+
+<p>But to please you if I can and to put this <sic corr="controversy">controversie</sic> <del>at</del> <add place="supralinear">to</add> an end <lb/>I have Sent a <sic corr="Warrant">Warrt</sic> by Mr. Warner for your taking up a thousand Acres of 
+
+<pb n="2"/><lb/><lb/>
+Land within your proposed bounds in which he says as I have already obs=<lb/><sic corr="erved">erv'd</sic> there are Several thousand acres of ungranted Lands or if you cannot <lb/><sic corr="please">pleas</sic> your self there if you can find another piece of Land more to your satis<lb/>faction let this <sic corr="Warrant">Warrt</sic> be <sic corr="returned">return'd</sic> and I will immediately Send up another <lb/>for you and thereby oblige you if it is in the power of </p>
+
+<closer>Your humble Servant</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>The county and colony have been added for clarity to the heading on this draft.</note>
+
+<note id="n1">[1] John Mercer (1704-1768) emigrated from Ireland where he had been trained as an attorney. "He settled at Marlboroughtown [in then Stafford County] in 1726 as a practicing attorney and at once allowed a facile pen to get him into trouble with the government." He eventually lost his license to practice law, and turned to the land speculation that he had begun as soon as he reached Virginia. "He married first on June 10, 1725 Catherine Mason (June 21, 1707-June 15, 1750) only child of Colonel George Mason (16??-1716) and his second wife Elizabeth Waugh, daughter of the Reverend Mr. John Waugh."(<cit><bibl n="B4">Harrison. <title>Landmarks of Old Prince William</title> p. 315;</bibl></cit>  <cit><bibl n="B24">Copeland and MacMaster. <title>The Five George Masons.</title></bibl></cit>; and "John Mercer."  http://www.rootsweb.com/~vastaffo/johnmercer.htm  11/4/03)</note>
+
+<note id="n2">[2] John Warner was the surveyor of King George County in 1727; he laid off the town of Falmouth in 1728. Later he worked for Lord Fairfax, and prepared an important map of his holdings. (<cit><bibl n="B4">Harrison,  <title>Landmarks of Old Prince William</title>, 626-628.</bibl></cit>)</note>
+
+<note id="n3">[3] streams</note>
+
+<note id="n4">[4] Quit rent was the term used for the payment due from the holder of land to the "lord of the manor," in this case, to the proprietors of the Northern Neck. Carter as the proprietor's agent, collected these payments. No services were required of the landholder as had been true in mediaeval times.</note>
+
+<note id="n5">[5] William Hall, a resident of Stafford County to whom <xref doc="C29b07a">Carter wrote the same day.</xref></note>
+
+<note id="n6">[6] The Occaquan River is a major tributary of  the Potomac River that lay in Stafford County in Carter's day. Much of the river today is known as the Bull Run, and forms the boundary between Fairfax and Prince William counties, and to the west, between Loudoun and Prince William  counties.</note>
+
+<note id="n7">[7] A caveat is a  "formal notice filed with a court or officer to suspend a proceeding until filer is given a hearing . . .  a warning against certain acts." (<cit><bibl>"Meaning of CAVEAT." hyperdictionary. http://www.hyperdictionary.com/dictionary.</bibl></cit>)</note>
+ 
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

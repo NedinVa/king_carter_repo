@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C28d12a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Micajah Perry, April 12, 1728</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 7 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C28d12a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2004</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Micajah Perry, April 12, 1728</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1728-04-12</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C28d12aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent> p.</extent>
+<date value="1728-04-12"></date>
+<idno rend="suppress">C28d12a.xml</idno>
+<title>Letter from Robert Carter to Micajah Perry, April 12, 1728</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant Micajah Perry, April 12, 1728, concerning the affairs and expenses of the Lloyd estate which he manages, including the head overseer's salary, tobacco being shipped, etc., and his insistence on payment for his work with the estate.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="MP2">Micajah Perry,</note> April 12, 1728</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1728-04-12">Apl. the 12th: 1728</date><lb/>
+Micajh: Perry Esqr.<lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+<p>I am now taking my leave of <note target="n1"><abbr expan="Captain">Capt:</abbr> Keeling</note> <lb/>I have drawn upon you Payable to him for &pound;4"1"&mdash; the <note target="n2">Impost and <lb/><hi rend="underline"><sic corr="cocket">Cocquet</sic></hi></note> for the <note n="LL">LL</note> <abbr expan="Tobacco">Tobbo:</abbr> and to be placed to that Accot. herein Send you <lb/>a bill of Exchange of his for &pound;6:19:&mdash; my own money and to be Carried to <lb/>my Credit,</p>
+
+<p>Since my Coming home I have <sic corr="Considered">Considerd</sic> my <abbr expan="Letters">Letts:</abbr> <lb/>of <abbr expan="December">Decr.</abbr> last Via <abbr expan="Liverpool">Leverpl.</abbr> (which I duplicated) and find I was so full <lb/>in them relating to the LL's Concern that I have the less to add here, I am <lb/>Suddenly to draw for &pound;35 to <note n="RM">Meeks</note> the head Overseer which is his Ann<lb/>nual Salary for the care of that Estate, all the under Overseers Shares <lb/>are <sic corr="packed">packt</sic> up in the <abbr expan="Tobaccoes">Tobbos:</abbr> now coming to you which I must charge wth. <lb/>the other disbursements for the Year 1727. The Levys. The <note target="n3">Quit rents,</note> The <lb/><sic corr="Clothes">Cloaths</sic> making. The rent. for <del>f...</del> two <abbr expan="plantations">plans:</abbr> for working Twenty odd <lb/>of the hands &amp;ca: Also I am to draw to <note n="JB"><abbr expan="Doctor">Doctr:</abbr> <sic corr="Belfield">Belfeild</sic></note> &pound;15 his <abbr expan="Year's">Yrs.</abbr> Salary</p>
+
+<p>My Demand of &pound;30 a year for the care of this Estate for 
+
+<pb n="2"/><lb/><lb/>
+14 or 15 Years together I do insist upon and Claim as my due Loyd <lb/>to <del>[illegible]</del> <add place="supralinear">my</add> knowledge paid a hundred a year, and I have heard but how true <lb/>it is I cant tell that in the Chancery Cause between your family &amp; him <lb/>there was an Article charged of &pound;100 per Annum for the management <lb/>of the Estate. how much of this was allowd or how the decree ended I <lb/>dont know. my Confidence is in you that you will take care to See <lb/>that I have right done me my former Letters will inform you wt. <lb/>a great deal of Trouble I have had and the personal care I have taken <lb/>from year to year in the <abbr expan="Government">Governmt.</abbr> of this Estate Since it hath bin in <lb/>my hands Shall therefore Conclude here </p>
+
+<closer>Sir <lb/>Yor. most humble Servt.
+<seg type="postscript"><lb/><lb/></seg>per <abbr expan="Captain">Capt:</abbr> <sic corr="Keiling">Kelling</sic></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. </note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
+
+<note id="n1">[1] Captain William Keiling commanded the <hi rend="italics">Betty.
+</hi> (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194, Virginia Colonial Records Project, Albert and Shirley  Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n2">[2]  The impost was the duty imposed by Britain on imported tobacco, and the cocket (for which a fee was charged) was the certified document issued that the impost had been paid.</note>
+
+<note id="n3">[3] Quit rent was the term used for the payment due from the holder of land to the "lord of the manor," in this case, to the proprietors of the Northern Neck. Carter as the proprietor's agent, collected these payments. No services were required of the landholder as had been true in mediaeval times.</note>
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

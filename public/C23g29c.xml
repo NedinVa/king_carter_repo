@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C23g29c">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Captain Benjamin Graves, July 29, 1723</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca.9  kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C23g29c.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2002</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Captain Benjamin Graves, July 29, 1723</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1723 July 4 -1724 June 11, Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1723-07-29</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C23g29cT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1723-07-29"></date>
+<idno rend="suppress">C23g29c.xml</idno>
+<title>Letter from Robert Carter to Captain Benjamin Graves, July 29, 1723</title>
+</bibl>
+</head>
+<p>Robert Carter writes to his old friend, Captain Benjamin Graves, July 29, 1723, whose ship was anchored in one of the colony's rivers, with general news. He states that the news from England confirms the amendment to the tobacco bill in Parliament will  prohibit the importation of stemmed tobacco into England, and suggests that if English merchants could only be adept as Scots in avoiding dutys, they would maintain the trade. He adds that there is wet weather that may, should it continue, help the planters by limiting the crop. He wishes his friend health and success, and hopes he will write when he can. In a post script, he requests Graves bring him in a cauldron of coal on his next voyage.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to Captain <note target="n1">Benjamin Graves,</note> July 29, 1723</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1723-07-29">July 29. <hi rend="underline">1723</hi></date><lb/>
+Capt. Benja. Graves<lb/>
+</dateline>
+
+
+</opener>
+
+<p>I hope this will find You in health as I thank <lb/>God It leaves me, This Encloses to You a Second bill of <abbr expan="exchange">Exche.</abbr> <lb/>of Gwain Thacker on Mr. Evans payable to <note target="n2">Yor. Brother</note> <lb/>for Five pound Nine <abbr expan="shillings">Shills.</abbr> &amp; three pence which I believe <lb/>was the Desire of Your Sending It to Me,</p>
+
+<p>I have begun Saving the Plank, for the <note n="CS"><name type="ship">Carter</name></note> <lb/>According to the Direcs. You left <del>wth me</del></p>
+
+<p>I do not Yet hear whether You had the luck to Join the James <lb/>River Ships,</p>
+
+<p><note target="n3">Hopkins</note> is <sic corr="arrived">arrivd</sic> My Lettrs. are not come up, <lb/><abbr expan="Several">Sevl.</abbr> <del>illegible</del> <add place="supralinear">Letters</add> at <sic corr="Gloucester">Gloster</sic> Court on Thursday last, confirme the Re=<lb/>=port, we had, that the Scotch had got a clause into the Tobo. Act <lb/>for a Prohibition of the Importation of all <sic corr="stemmed">Stemd</sic> Tobo. how <lb/>pleasing this is to us here You may Easily Imagine, We <lb/>Are now only to look for our Mercys from heaven, our fellow <lb/>Subjects It seems have none for us, If the English <abbr expan="merchants">Merchts.</abbr> <lb/>can be but as Arch in finding out ways of fraud as the North=<lb/>=Brittains are, they will be able to keep way with them, but <lb/>We that are the Planters, are <sic corr="tied">tyed</sic> down to the full payment of <lb/>the Dutys, I will not pretend to forsee the consequences of <lb/>this fatal Streak, It looks like a very black cloud at present</p>
+
+<p>The heavens have bin Somewhat propicious to us of <lb/>late, The General Report of the Country is that Tobo. is but Mean <lb/>We have now a very wet spell over us, If it <sic corr="does">dos</sic> but Continue <lb/>three or four days longer It may be a help to Us, Since the <lb/>Parliament has bin so severe We have little reason to Expect <lb/><add resp="editor">[the]</add> Ministry will show any Countenace to Our Stint Act
+
+<pb n="2"/><lb/><lb/>
+nothing but the Destruction of our Labour from the kind hand <lb/>of Providence will then be our relief, I wish <add resp="editor">[you]</add> Success <lb/>In Your Undertakings and health in Your Constitution &amp; <lb/>If You would allow Yourself the leizure to give me a free <lb/>line of News by Every opportunity You meet with, It <lb/>will be very acceptable to, </p>
+
+<closer>Your <del>very </del><abbr expan="affectionate">affect.</abbr> Friend &amp; Servt.<seg type="postscript"><lb/><lb/>
+I would Desire You to bring me in a <lb/><sic corr="cauldron">Chaldron</sic> of coals I know you can <lb/>do it without putting me to the Charge <lb/>of any thing to bring them in,</seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1723 July 4 -1724 June 11, Carter Family Papers, Virginia Historical Society, Richmond. </note>
+
+<note>It is surprising to find the return address of "Rappahannock" (for the river on which he lived) rather than "Corotoman," (the name of his home) on this letter as he generally used it on letters sent out of the colony. His county and the colony have been added for clarity to the brief heading on the draft.</note><lb/>
+
+<note id="n1">[1] Benjamin Graves was the son of Captain Thomas Graves (d. <hi rend="italics">ante</hi> 1720), long a captain of vessels trading to Virginia, and a special friend of Carter. Benjamin also commanded vessels in the trade, especially the <hi rend="italics">Carter</hi>.  (<cit><bibl>Adm. 68/194-196, ff. 33r, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n2">[2] Adam Graves was a son of Captain Thomas Graves [d. <hi rend="italics">ante</hi> 1720], long a captain of vessels trading to Virginia, and a special friend of Robert Carter's. Adam Graves commanded the <hi rend="italics">Bailey</hi> in 1725-1727, a ship that belonged to London merchant William Dawkins. (<cit><bibl>Survey Report 6800, and Adm. 68/194-196 found in the microfilms of the Virginia Colonial Records Project, Albert  and Shirley Small Special Collections Library, University of Virginia</bibl></cit>)</note>
+
+
+<note id="n3">[3] Captain James Hopkins would be in command of the <hi rend="italics">Mary</hi> in 1727-1728. He was then working for London merchant Robert Cary. He is mentioned several times in Carter's diary. (<cit><bibl>Adm. 68/194, ff 77v, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

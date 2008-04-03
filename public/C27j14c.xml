@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C27j14c">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to [Governor William Gooch,] October 14, 1727</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 5 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C27j14c.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2004</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to [Governor William Gooch,] October 14, 1727</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1727-10-14</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C27j14cT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1727-10-14"></date>
+<idno rend="suppress">C27j14c.xml</idno>
+<title>Letter from Robert Carter to [Governor William Gooch,] October 14, 1727</title>
+</bibl>
+</head>
+<p>Robert Carter writes to [Governor William Gooch,] October 14, 1727, to inform him that severe illness has prevented his coming to Williamsburg for the meeting of the General Court. He also forwards a packet sent to him by Peter Leheup, the colony's agent in England.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to [Governor <note n="WG">William Gooch</note>,] October 14, 1727</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Corotom<add resp="editor">[a]</add>n, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1727-10-14">Octbr: 14h. 1727</date><lb/>
+</dateline>
+<salute>May it please your Honour</salute>
+
+</opener>
+
+
+
+<p>I had fix'd my resolution to wait upon Your <lb/>honour on the first day of the General Court but it <add place="supralinear">hath</add> pleased God to vi=<lb/>sit me with a severe affliction in my bowels &amp; side that pursues me <lb/>night &amp; day with intolerable pains &amp; hath kept me <sic corr="Confined">Confin'd</sic> to my <lb/>house all this week &amp; this last night was as violent as ever I know <abbr expan="your">yr:</abbr> <lb/>honours innate goodness will incline you to <del>pitty</del> <add place="supralinear">Compassion</add> rather than resen=<lb/>tment for my Absence</p>
+
+<p>My Own affairs to be at town are so very <lb/>pressing that nothing less than an insuperable incapacity will <lb/>delay my attendance in paying my duty to your honour &amp; to the <lb/>court</p>
+
+<p>Sir the enclosed packet came to me late=<lb/>ly under a <abbr expan="Merchant's">Merchts:</abbr> Cover by the direction of <note target="n1">Mr Leheup</note> who <lb/>tells me <sic corr="it is">`tis</sic> from the <note target="n2">Lords of trade</note> I <sic corr="transmit">transmitt</sic> it to your honor <lb/>with out <sic corr="opening">op'ning</sic> I heartily pray for your honours health &amp; <lb/>prosperity being with the Greatest truth </p>
+
+<closer>yours honours <lb/>Most obedient <lb/>obliged <lb/>&amp; Most humble servt</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1727 May-1728 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>The county and colony have been added for clarity to Corotoman, the name of Carter's home.</note>
+
+<note id="n1">[1] Peter Leheup, an English Treasury clerk, was Virginia's  and other colonies' agent in England for some years. He was related by marriage to the Prime Minister's brother who was secretary of the Treasury. His influence would be greater near the end of Carter's life.(<cit><bibl n="B22">Price. <title>Perry of London. . . . </title> pp. 75-77, 80, 83.</bibl></cit>)</note>
+
+
+<note id="n2">[2] Established in 1696 as successor to a similar body, the Lords Commissioners of Trade and Plantations was "an advisory group, subordinate to king and Privy Council, and with no executive, financial, or penalizing powers, the Board of Trade was nevertheless able . . . to exert a far reaching and often determining influence in colonial matters. . . . It prepared the royal instructions for the governors overseas. . . ." (<cit><bibl>Henry Hartwell, James Blair, and Edward Chilton. Hunter Dickinson Farish, <hi rend="italics">ed.</hi> <title>The Present State of Virginia, and the College.</title> [First published, 1940, by Colonial Williamsburg, Inc., and reprinted Charlottesville: University Press of Virginia, 1964.] pp. xvi-xvii.</bibl></cit>)</note>
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C31g26b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to William Dawkins and Edward Athawes, July 26, 1731</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 11 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C31g26b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2006</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to William Dawkins and Edward Athawes, July 26, 1731</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1731-07-26</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C31g26bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1731-07-26"></date>
+<idno rend="suppress">C31g26b.xml</idno>
+<title>Letter from Robert Carter to William Dawkins and Edward Athawes, July 26, 1731</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchants  William Dawkins and Edward Athawes, July 26, 1731,to report on the feverish activity of Captain Thomas Dove of the <hi rend="italics">Bailey</hi> to make up his cargo before the implementation of the tobacco inspection act, and to send an invoice (not present) for goods to be sent by an early ship. He adds some notes about the disappointing progress of the work at the Frying Pan copper mine, and encloses two small bills of exchange (not present).</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="WD">William Dawkins</note> and <note n="EA">Edward Athawes,</note> July 26, 1731</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1731-07-26">July 26. 1731</date><lb/>
+Mr. William Dawkins &amp;<lb/>
+Mr. Edward Athawes<lb/>
+</dateline>
+<salute>Gentlemen</salute>
+
+</opener>
+
+
+
+<p><note target="n1"><abbr expan="Captain">Capt</abbr> Dove</note> I suppose writes his own story he is riding <lb/>
+about to all our courts and <sic corr="public">publick</sic> places life a fury and takes <lb/>
+mortal pains to get his men to double their diligence that he may get <lb/>
+a ful <add resp="editor"> [<hi rend="italics">sic</hi>]</add> ship before the <note target="n2">law takes Place</note> but I doubt they are too much <lb/>
+like Packhorses to move out of their old Jadish pace to help him <lb/>
+Foward my sloop <abbr expan="carried">carry'd</abbr> on board him above 80 hogsheads</p>
+ 
+<p>The <name type="ship">Bailey</name> being a Backward Ship I have thought <lb/>
+it necessary to send you my invoice now that I may have it in some <lb/>
+forward ship pray let me not wait for the Coming away of <abbr expan="that">yt.</abbr> Ship any <lb/>
+more <sic corr="it was">twas</sic> a Considerable disappointment to me the late Coming in of <lb/>
+my goods this year I send for no goods to <note n="MP2">Mr. Perry</note> I am well satis <lb/>
+<sic corr="fied">fyed</sic> he will let any of his ships Accommodate <abbr expan="you">yo.</abbr> And in Point of <lb/>
+<sic corr="convenience">conveniency</sic> there is little difference between York River and <note target="n3">Ours</note></p>
+ 
+<p>I will crowd in here a line to Mr. Athawes about our <lb/>
+<note target="n4">Frying pan</note> it <sic corr="carries">carrys</sic> so Poor a prospect does not afford Agreeable <lb/>
+matter for a letter of itself Our work <add place="supralinear">men</add> prove such idle lazy fellows <lb/>
+they do Very little service but to eat our Victuals &amp; drink &amp; to Cash our <lb/>
+money feeding us up with empty hopes this one time or other we <lb/>
+are to <add place="supralinear">do</add> wonders getting up Very small quantities of Ore and yet every <lb/>
+day a little blowing up the rocks persuade us they shall be at <lb/>
+a body of very good Ore Ere long Loney <abbr expan="carried">carry'd</abbr> off 4 Barrels all that <lb/>
+these miners have <abbr expan="raised">rais'd</abbr> no more they have <abbr expan="barrelled">barrel'd</abbr> as yet nor do I <lb/>
+Expect we shall get any more ready for this Shipping there are 67 <lb/>
+Barrels of our old Ore shot loose into the run of the Bailey We shall <sic corr="before">ere</sic> <lb/>
+long give Mr. Athawes the Entertainment of a <note target="n5"><sic corr="joint">joynt</sic> letter</note> from us. <lb/>
+He will <sic corr="please">pleas</sic> us very much to miss no Opportunity to Advise what we are <lb/>
+to Expect from our last years ore</p>
+
+<p>Herein are two small bills of Exchange <note n="GT">George <lb/>
+<sic corr="Turberville">Turbervile</sic></note> on <note target="n6">Nat Gundry</note> for 8"5.11. &amp; John Robinson on <note n="RC">Robert Cary <lb/>
+&amp; Company</note> 4"16.11.</p>
+
+<closer><seg type="postscript"><lb/><lb/></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia. There is a 19th-century transcript of the letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1] The <hi rend="italics">Bailey</hi> was a London ship owned by William Dawkins and commanded at various times by Adam Graves (1725-1730) and by Thomas Dove (1731-1732). She was a vessel of some 250 tons and carried 15-17 crew members. (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, 156v, and other data in Adm. 68/194 and /196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> A letter of Carter's executors to Dawkins 1738 May 10 refers to "your ship Bailey.")</note>
+
+<note id="n2">[2] Carter refers to the date of implementation of the tobacco inspection act that had passed the Assembly the previous year, proposed and implemented by Governor Gooch. (<cit><bibl n="B27">Billings. <hi rend="italics">et al. </hi> <title>Colonial Virginia: A History.</title> pp. 236-40</bibl></cit>
+)</note>
+
+<note id="n3">[3] the Rappahannock</note>
+
+<note id="n4">[4]  In 1728, Carter, his sons Robert and Charles, and his son-in-law Mann Page,  organized a company to mine for copper on a tract of some 27,000 acres that Louis Morton describes as lying "near the present boundary of Fairfax and Loudoun counties." Fairfax Harrison wrote that the tract was "on the  Horsepen of Broad." Today, there is a Frying Pan Park just east of the border of the Dulles Airport reservation, and there are other things with the name in the area. The company was not successful. (<cit><bibl n="B32">Morton. <title>Robert Robert Carter of Nomini Hall.</title> pp. 18-19;</bibl></cit> and <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> p. 342. </bibl></cit>)</note>
+
+<note id="n5">[5] See the letter from Robert Carter, John Carter, Robert Carter, Jr., and Charles Carter to Athawes, July 22, 1731.</note>
+
+<note id="n6">[6] Nathaniel Gundry was a merchant in Lyme Regis, Dorset, and mayor of that town several times. His son was a member of Parliament and later a judge. (Notes made by Francis L. Berkeley, Jr., from  <cit><bibl>George Robert. <title>History and Antiquities of the Borough of Lyme Regis &amp; Charnmouth.</title> [London, 1834]. pp. 97, 383-4.</bibl></cit>; and        <cit><bibl n="B6">Sedgwick. <title>The History of Parliament . . . Commons.</title> pp. 91-92.</bibl></cit>)</note>
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

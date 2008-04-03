@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C29i09a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to James Bradley, September 9, 1729</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 9 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C29i09a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2005</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to James Bradley, September 9, 1729</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1728 August 8-1730 May 15,  Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1729-09-09</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C29i09aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1729-09-09"></date>
+<idno rend="suppress">C29i09a.xml</idno>
+<title>Letter from Robert Carter to James Bradley, September 9, 1729</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant James Bradley, September 9, 1729, to request his assistance in obtaining a proper estimate of the value of copper ore that he sends.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note target="n1">James Bradley,</note> September 9, 1729</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1729-09-09">Sepr: 9th. 1729</date><lb/>
+Mr. Jas. Bradley<lb/>
+</dateline>
+<salute>Sir</salute>
+
+</opener>
+
+<p><note n="MP1"><abbr expan="Colonel">Colo</abbr> Page</note> my self and two of my Sons have <lb/>
+lately taken up a <note target="n2">Mountanous piece of Land</note> on which there <lb/>
+is some <sic corr="Show">Shew</sic> of a Copper Ore what quantity there may be we <lb/>
+have not yet discovered by the <sic corr="Show">Shew</sic> we have makes us resolve to be <lb/>
+at some Charge in a futher <sic corr="Trial">Tryal</sic> some of the Ore that we <lb/>
+first found we sent <sic corr="off">of</sic> both to <name type="city">London</name> and <name type="city">Bristol</name> from <lb/>
+whence we have but short Accots of the Value of it and indeed <lb/>
+the Quantity we sent was but small We have this year sent some <lb/>
+more for a larger <sic corr="Trial">Tryal</sic> and <sic corr="Believing">beleiving</sic> you may be acquain<lb/>
+ted in things of this Nature makes us give you this trouble of <lb/>
+a Small Barrel of it Containing Gross 106 pounds <note target="n3">tares</note> 10 pound <abbr expan="shipped">ship'd</abbr> <lb/>
+in the <note target="n4"><name type="ship">Sarah</name></note> requesting you will oblige us so far as to make <lb/>
+the Nicest <sic corr="Trial">Tryal</sic> of what Value this ore may be and w<corr resp="editor">[het]</corr>her <lb/>
+it may be worth <abbr expan="our">or</abbr>. While to prosecute the design a small p<corr resp="editor">[ar]</corr>t of <lb/>
+it in a <sic corr="bag">bagg</sic> hath been <sic corr="beaten">beatin</sic> and <sic corr="Washed">Washt</sic> here whether that or the <lb/>
+Lumps may afford the most <sic corr="Metal">Mettal</sic> we cant tell you will hear fur<lb/>
+ther from us upon this Affair when we meet the <sic corr="Earliest ">Earlyest </sic>inte<lb/>
+lligence you can give us will be Accptable to 
+ </p>
+
+<closer>Sir <lb/>
+yor: most Humble <corr resp="editor">[Servant]</corr></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. There is a nineteenth-century copy of this letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia.
+</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
+
+<note id="n1">[1] James Bradley was a London merchant with whom Carter dealt from at least 1723 until his death. As noted in his letter to Bradley of 1727 May 17, Bradley owned the <hi rend="italics">Welcome,</hi> but little information about Bradley has been located. (There is a listing of the firm of Bradly &amp; Griffin, Merchants, Fenchurch-street, opposite the Mitre Tavern, on page 13 of <cit><bibl><title>Kent's Directory For the Year 1740 Containing An Alphabetical List of the Names and Places of Abode of the Directors of Companies, Persons in Publick Business, Merchants, and other Eminent Traders in the Cities of London and Westminster, and the Borough of Southwark.</title>  London: Printed and Sold by Henry Kent in Finch-Lane, near the Royal Exchange: and by the Booksellers and Pamphlets Shops of London and Westminster, 1740. p. 39. http://freepages.history.rootsweb.com/~frpayments/KD1740/AB.htm. 8/12/2005. </bibl></cit>)</note>
+
+<note id="n2">[2]  In 1728, Carter, his sons Robert and Charles, and his son-in-law Mann Page,  organized a company to mine for copper on a tract of some 27,000 acres that Louis Morton describes as lying "near the present boundary of Fairfax and Loudoun counties." Fairfax Harrison wrote that the tract was "on the  Horsepen of Broad." Horsepen Run joins Broad Run on the northern border of Dulles airport. The company was not successful. (<cit><bibl n="B32">Morton. <title>Robert Robert Carter of Nomini Hall.</title> pp. 18-19;</bibl></cit> and <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> p. 342. </bibl></cit>)</note>
+
+<note id="n3">[3] The tares are the weights of the containers.</note>
+
+<note id="n4">[4] The <hi rend="italics">Sarah</hi> was a 120 ton London vessel with a crew of 13 commanded by John Reynolds in 1728 and 1729.  (<cit><bibl>Adm 68/194 and 195,  found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

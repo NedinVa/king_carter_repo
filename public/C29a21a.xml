@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C29a21a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Unidentified Correspondent, January 21, 1729</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 8 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C29a21a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2005</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Unidentified Correspondent, January 21, 1729</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1729-01-21</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C29a21aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1729-01-21"></date>
+<idno rend="suppress">C29a21a.xml</idno>
+<title>Letter from Robert Carter to Unidentified Correspondent, January 21, 1729</title>
+</bibl>
+</head>
+<p>Robert Carter writes a concilatory letter to an unidentified correspondent, January 21, 1729, who apparently has complained about abuses by Carter's employees on lands owned by him.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to an Unidentified Correspondent, January 21, 1729</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
+<date value="1729-01-21">Janry. the 21st. 1728/9</date><lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+
+
+<p><abbr expan="Your">Yor.</abbr> Letter by my Son <note n="RC2">Robert</note> I <sic corr="designed">designd</sic> an anwer <lb/><sic corr="to">too</sic> tomorrow when he <sic corr="designs">designes</sic> his Journy to <note n="NH2">Nomini</note> I Sent <sic corr="you">yu.</sic> word <lb/>by <note n="GE"><abbr expan="Major">Majr.</abbr> Eskridge</note> if you have Seen him that I had Sent repeated orders <lb/>both to Ines and <note target="n1">Mr. Burwells Overseer</note> that Should not meddle with <lb/>any thing on the other Side of the line that was run by <note target="n2">Warner</note> for you <lb/>neither Timber nor any thing Else and I must <sic corr="believe">beleive</sic> that you have <lb/>bin under a misinformation My Son <note n="CC1"><abbr expan="Charles">Chs:</abbr></note> tells me he was by when <lb/>I gave my verbal orders to the Overseer and he told you as much when <lb/>you know me better you will not think I give promises with design to <lb/>deceive any Person and if that <sic corr="piece">peice</sic> of Land be fairly <abbr expan="yours">yors.</abbr> I have no <lb/>design to Contest it nor on the other hand I am to give up the right of <note n="NB">Mr. <lb/>Burwells</note> heir to what properly belongs to him it is very apparent the <lb/><sic corr="Patent">Pattent</sic> you claim under is the Eldest and will be first <sic corr="Served">Servd</sic> in its lands <lb/>but whether you have run the right line according to <abbr expan="your">yor.</abbr> <sic corr="Patent">Pattent</sic> I am <lb/>an Absolute Stranger <sic corr="to">too</sic> however if you are not <sic corr="disturbed">disturbd</sic> within <lb/>the line you have made I See no reason you have to be <sic corr="uneasy">uneasie</sic> nor to <lb/>be so forward to take up <sic corr="designs">designes</sic> of Law which when you have lived <lb/>as long as I have <sic corr="you'll">you'l</sic> love as little as I do If you had given me the <lb/>favour of <sic corr="your">yor.</sic> Company I Should have found you a passage over the <lb/>river for <sic corr="your">yor.</sic><sic corr=" horses"> hors's</sic> I am </p>
+
+<closer>Sir<lb/>Yor. most humble Servt:</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>The name of Carter's home, "Corotoman," the county, and colony have been added for clarity to this unheaded draft.</note>
+
+<note id="n1">[1] William Camp (Kemp) was described by Carter as "the General Overseer of Mr Burwell's Affairs" but as  Camp was a resident of Gloucester County where most of the Burwell estates lay, the overseer Carter refers to here must have been the local one for  the specific Burwell property. (Carter to George Braxton, 1729 November 20, and Carter to William Dawkins,1732  July 11. <cit><bibl><title>Virginia Tax Records.</title> [Baltimore: Genealogical Publishing Company, Inc., 1983.] p. 539.</bibl></cit>)</note> 
+
+<note id="n2">[2] John Warner was the surveyor of King George County in 1727; he laid off the town of Falmouth in 1728. Later he worked for Lord Fairfax, and prepared an important map of his holdings. (<cit><bibl n="B4">Harrison,  <title>Landmarks of Old Prince William</title>, 626-628.</bibl></cit>)</note>
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

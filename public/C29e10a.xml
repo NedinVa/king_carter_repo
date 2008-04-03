@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C29e10a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Colonel Thomas Lee, May 10, 1729</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 11 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C29e10a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2005</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Colonel Thomas Lee, May 10, 1729</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1728 August 8-1730 May 15,  Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1729-05-10</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C29e10aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent> p.</extent>
+<date value="1729-05-10"></date>
+<idno rend="suppress">C29e10a.xml</idno>
+<title>Letter from Robert Carter to Colonel Thomas Lee, May 10, 1729</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Colonel Thomas Lee of Westmoreland County, May 10, 1729, concerning land that Lee wishes to acquire "at the falls of Petowmack," noting difficulties with the surveys and the warrants, and hoping that 11 acres can be set aside for his son Charles. He reminds Lee that his quitrents have not been paid for 4 years, and he includes an accouint of what Lee owes.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to Colonel <note target="n1">Thomas Lee,</note> May 10, 1729</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Corotoman, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1729-05-10">May the 10th. 1729</date><lb/>
+Colonel Thos: Lee<lb/>
+</dateline>
+<salute>Esteemed Sir&mdash;</salute>
+
+</opener>
+
+<p>I have now the <sic corr="Leisure">Leizure</sic> to answer yor. <abbr expan="Favor">Favr.</abbr> of the 2d. of <lb/><sic corr="April.">Aprill.</sic> The Errors of yor. Surveyer and yor. guide you cannot Expect I am <lb/>to be <del>answerable</del> <add place="supralinear">Accountable</add> for.</p>
+
+<p>I now Send my Accot. stated I think according to your <lb/>Expectation, which upon Payment of to <note n="RM">Mr. Meeks</note> I order him to deliver <lb/>your Deed to whom I now Send it,</p>
+
+<p>Please to allow me to Say the force of yor. reasoning <lb/>about yor. Entry of Land at the falls of <sic corr="Potomac">Petowmack</sic> is beyond my <del>under=</del> <add place="supralinear">Compre=</add><lb/><del>standing</del> <add place="supralinear">hension</add> You had a <abbr expan="warrant">warrt.</abbr> for 150 Acs: Circumscribed be=<lb/><corr resp="editor">[t]</corr>wee<corr resp="editor">[n]</corr> yor. own two tracts the very words of yor. warrant, there is a 150 <abbr expan="Acres">Acs:</abbr> <lb/><corr resp="editor">[. . .]</corr> if you resolve to <del>s</del> Insist upon it and there is 11 <abbr expan="Acres">Acs:</abbr> lying upon <lb/><note n="GT"><corr resp="editor">[Major Tu]</corr>bervile's</note> Land, to Supply a Small part of my Sons <abbr expan="warrant">warrt.</abbr> that bears <lb/><corr resp="editor">[the same]</corr> date with yours, Certainly no reasoning can be convincing that <lb/>in your Grant these 11 <abbr expan="Acres">Acs:</abbr> Should be Acq<corr resp="editor">[. . .]</corr> Included and my Sons&mdash; <lb/><abbr expan="Warrant">Warrt.</abbr> <sic corr="Entirely">Intirely</sic> fruitless. As I must do you Justice I am Sure you have <lb/>quantity Enough to think I Should be very blameworthy to deny it to my <lb/>own Son,</p>
+
+<p>The <abbr expan="warrants">warrts.</abbr> you write for are of a very loose nature and not to <lb/>be understood where they are to <sic corr="lie">lye</sic> <note target="n2">Mr. Thomas</note> tells me Pearson <sic corr="has">hath</sic> <abbr expan="Several">Sevl.<lb/></abbr> Ps<corr resp="editor">[Parcells]</corr> of Land upon the <abbr expan="North">N.</abbr> run, upon which of these and upon which Side of the <lb/><del>side</del> of the <add resp="editor"> [<hi rend="italics">sic</hi>]</add> Tract is not Intelligible and there are <abbr expan="Several">Sevl.</abbr> <abbr expan="warrants">warrts.</abbr> already out <sic corr="Join">Joyn</sic><lb/>ing upon Pearsons lines, Reads Entry is but little <del>better . . . understand</del> <add place="supralinear">Plainer </add> &amp; I <lb/>can tell you <note target="n3">Mr. Warner</note> <sic corr="has">hath</sic> <abbr expan="warrants">warrs</abbr> in his hands <add place="supralinear">upon the [...] of <note n="MP1">Colonel Page</note> and my Sons</add> for the taking up all the Lands <lb/>that are ungranted upon the branches of <note target="n4">Difficult run</note> <note target="n5">Horsepen run</note> and 
+
+<pb n="2"/><lb/><lb/>
+toward <note n="DM">McCartys</note> <note target="n6">Sugarland Tracts,</note> which would have bin <sic corr="Surveyed">Surveyd</sic> <lb/>before now if Warner had not bin out of the way when my <note n="CC1">Son Charles</note> <lb/>was last up, and will have a place before any younger warrants, how=<lb/>ever I Send you the 2 <abbr expan="warrants">warrts.</abbr> you desire <add place="supralinear">to take their fate </add>My fees for every Entry and warrant <lb/>are 15/ which you <del>[illegible]</del> <add place="supralinear">order me</add> Should be charged to your Accot,</p>
+
+<p>You will please to pardon me when I put you in mind tht. <lb/>you hold 3184 <abbr expan="Acres">Acs:</abbr> of Land that you owe <note target="n7">Quitrents</note> for for 4 <abbr expan="Years">Yrs</abbr> that doth not <add place="supralinear">at least for these </add><lb/>appear to me to be paid for ever Since the Grant, I am</p>
+ 
+<p>I Enclose to you 2 Commissions for <abbr expan="Captain">Capt.</abbr> McCarty and <lb/><note target="n8"><abbr expan="Captain">Capt.</abbr> Allerton</note> with blanks for the Subalterns, I am<lb/><del>Yor. most</del> <lb/>Sir <lb/>Yor. most Obedient humble Servt.</p>
+
+<closer>
+
+<seg type="postscript"><lb/><lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Colonel Thomas Lee&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dr.&mdash;<lb/><lb/>
+To Compo: of 7520 <abbr expan="Acres">Acs:</abbr> of <abbr expan="Land">Ld.</abbr> at 10/Sterling per 100 <add place="supralinear"><abbr expan="Acres">Acs,</abbr></add>&mdash;&mdash;&mdash;&mdash;39:12"&mdash;<lb/>
+To Office fees&mdash;275 at 1d&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="underline">1" 2"11</hi><lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="underline">               </hi><lb/>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;38:14:11<lb/><lb/>
+
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;now if you please to pay the money in bills of Exchange I am <lb/>willing to allow you 3 <sic corr="bits">bitts</sic> upon the Pound&mdash;<lb/><lb/>
+
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If you pay in Cash Guineas must go at 21/ other Go<corr resp="editor">[ld at . . .]</corr>/ <lb/>the penny <abbr expan="weight">wt.</abbr> cut Gold I must have none. if you pay in Silver every <corr resp="editor">[. . .]</corr><lb/> must be 19 penny <abbr expan="weight">wt.</abbr> <sic corr="milled">mild</sic> money at the <sic corr="British">Brittish</sic> value. 3 <sic corr="bits">bitts</sic> <corr resp="editor">[. . .]</corr> <lb/>to be deducted and then you will answer yor. own proposal <corr resp="editor">[. . .]</corr> <lb/>Satisfactory to me<lb/><lb/>
+
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To his Land in Stafford&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;2862<lb/>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To <abbr expan="Ditto">Do:</abbr> in <abbr expan="Ditto">Do:</abbr> County&mdash;&mdash;&mdash;&mdash;<hi rend="underline">&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;800</hi><lb/>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This Land paid for in Westmoreland&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;3662<lb/>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Granted in Stafford by me <abbr expan="January">Janry.</abbr> 15th. 1724/5&mdash;&mdash;&mdash;3184<lb/>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This Land <sic corr="has">hath</sic> never paid Quitrents yet&mdash;&mdash;
+
+</seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. </note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
+
+<note id="n1">[1] Thomas Lee (1690-1750) of Westmoreland County was the son of Richard Lee II, and nephew of Edmund Jenings; he would build "Stratford," and succeed Carter on the Council. For a good article on Thomas Lee, see  that <A HREF="http://www.stratfordhall.org/thomas.html?RESEARCH">by Jeanne A. Calhoun </A>on Stratford plantation's website  . (<cit><bibl>Burton J. Hendrick. <title>The Lees of Virginia: Biography of a Family.</title> [Boston: Little Brown, 1935]. pp. 48, 51, etc.</bibl></cit>)</note>
+
+<note id="n2">[2] James Thomas was surveyor of Lancaster County, and after 1727, of Westmoreland County. In 1736, he would be one of the surveyors involved in the work of the commission to determine the bounds of the Northern Neck proprietary. (<cit><bibl n="B8">Brown. <title>Virginia Baron. . . .</title> pp. 83, 92. See Carter to Peter Beverley, 1727 December 14.</bibl></cit>)</note>
+
+<note id="n3">[3] John Warner was the surveyor of King George County in 1727; he laid off the town of Falmouth in 1728. Later he worked for Lord Fairfax, and prepared an important map of his holdings. (<cit><bibl n="B4">Harrison,  <title>Landmarks of Old Prince William</title>, 626-628.</bibl></cit>)</note>
+
+<note id="n4">[4] Difficult Run is a stream located in today's Fairfax County flowing into the Potomac River southeast of  Bear Island, and running roughly south and southwest from that point. (<cit><bibl>Alexandria Drafting Company. <title>Regional Northern Virginia.</title> [Alexandria, VA: Alexandria Drafting Company, 2002.]  pp. 15, 18, 19.</bibl></cit>)</note>
+
+<note id="n5">[5] Horsepen Run is a branch of Broad Run and lies partly in today's Fairfax County, and also  in Loudoun County running along the eastern and northern sides of Dulles Airport. (<cit><bibl>Alexandria Drafting Company. <title>Regional Northern Virginia.</title> [Alexandria, VA: Alexandria Drafting Company, 2002.]  pp. 12, 16-17, 151.</bibl></cit>)</note>
+
+<note id="n6">[6] Sugarland Run flows north into the Potomac River in modern Loudoun County north of the town of Herndon.  (<cit><bibl>Alexandria Drafting Company. <title>Regional Northern Virginia.</title> [Alexandria, VA: Alexandria Drafting Company, 2002.]  pp. 136, 145.</bibl></cit>)</note>
+
+
+<note id="n7">[7] Quit rent was the term used for the payment due from the holder of land to the "lord of the manor," in this case, to the proprietors of the Northern Neck. Carter as the proprietor's agent, collected these payments. No services were required of the landholder as had been true in mediaeval times.</note>
+
+<note id="n8">[8] Willoughby Allerton (1664-1724) was a prominent citizen of Westmoreland County where he was burgess, sheriff, and militia officer.  (Allerton Genealogical Data at http://homepages.rootsweb.com/~edburton/fam03055.htm, 4/16/04; and <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 3[1705-1721]: 92,146,381,420. </bibl></cit>)</note>
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

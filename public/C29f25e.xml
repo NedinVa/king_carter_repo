@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C29f25e">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Alderman [Micajah] Perry, June 25, 1729</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 9 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C29f25e.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2005</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Alderman [Micajah] Perry, June 25, 1729</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1729-06-25</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C29f25eT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent> p.</extent>
+<date value="1729-06-25"></date>
+<idno rend="suppress">C29f25e.xml</idno>
+<title>Letter from Robert Carter to Alderman [Micajah] Perry, June 25, 1729</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant Alderman [Micajah] Perry, June 25, 1729, to send some bills of lading and  of exchange (not present).</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to Alderman <note n="MP2">[Micajah] Perry</note>, June 25, 1729</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1729-06-25">June the 25th.1729</date><lb/>
+Alderman Perry&mdash;<lb/>
+</dateline>
+
+</opener>
+
+
+
+<p>This is a line by the <note target="n1">Spotswood</note> <abbr expan="Captain">Capt.</abbr> Bradby who is now at<lb/>
+my house and Encloses 2 bills of Lading one for 18 hogsheads of my own Crop<lb/>
+<abbr expan="Tobacco">Tobbo:</abbr> the other for 16 hogsheads belonging to <note n="NB">Mr. Burwells</note> Estate. I have alre<lb/>
+ady sent away an Invoice for the Supply of <sic corr="those">them</sic> familys and have<lb/>
+already advised <add place="supralinear">you</add> of the bills of Exchange drawn by <note n="MP1">Colonel Page</note> and my Self upon<lb/>
+the Accot. of the Childrens Estates. and upon <note n="ECB"><abbr expan="Elizabeth">Eliza.</abbr> Burwells</note> Accot. This day<lb/>
+I have drawn upon <corr resp="editor">[you]</corr> for &pound;11"14"- to <abbr expan="Captain">Capt.</abbr> Bradby on my own Accot.<lb/>
+and for &pound;1"13"- to him on Accot. of the Estate.</p>
+
+<p>herein are Some Small bills of Exchange to wit. <note target="n2"><abbr expan="Captain">Capt.</abbr><lb/>
+Keeling</note> on yourself for &pound;2"10"- <abbr expan="Charles">Chas:</abbr> <sic corr="Grymes">Grimes</sic> on <abbr expan="Ditto">Do:</abbr> for &pound;8"11"-<lb/>
+I have 2 upon yourself Emanuel Jones on Mr. James Yeats for<lb/>
+&pound;6"12"- <abbr expan="William">Wm.</abbr> Falis on Joshua Gee for &pound;10"-"- <abbr expan="Captain">Capt.</abbr> Smith on Berry<lb/>
+&amp; Company for &pound;19"4"- Thos: Dyer on G. Randal of Carrie for &pound;3"15"-<lb/>
+John Fitzhugh on Lyonel Lyde Bristol for &pound;11"1"8 <abbr expan="Thomas">Thos:</abbr> Barber on<lb/>
+Lyonel Lyde for &pound;5"2"- Peter Tourin on Edward Greenings <sic corr="Bidde">Biddie</sic><lb/>
+ford for &pound;13"5"- Amounting to &pound;80"00"8 which desire <abbr expan="your">yor.</abbr> managemt.<lb/>
+of. Shall Conclude here</p>
+
+
+<closer><abbr expan="Your">Yor.</abbr> most humble Servt.<seg type="postscript"><lb/><lb/>Also a Small bill of Richd. Chichesters<lb/>
+on yor. self for &pound;2"06"7<lb/><lb/>
+per <abbr expan="Captain">Capt.</abbr> Bradby</seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1] This London ship was commanded by James Bradby, 1727-1732.  (<cit><bibl>Adm 68/195, 70r ff., found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n2">[2] Captain William Keiling commanded the <hi rend="italics">Betty.
+</hi> (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194, Virginia Colonial Records Project, Albert and Shirley  Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

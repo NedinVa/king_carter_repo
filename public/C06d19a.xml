@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C06d19a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Petition from Robert Carter to the Governor and General Court, April 19, 1706</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 5 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">filename</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Petition from Robert Carter to the Governor and General Court, April 19, 1706</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date>unpublished</date>
+   <idno type="callNo">Source copy consulted:  Colonial Papers, Miscellaneous Reel 610, folder 17, no. 8. Archives Research Services, Library of Virginia, Richmond. Published in Calendar of State Papers, I, 101.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1706-04-19</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C06d19aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AD</abbr>
+<extent>1 pp.</extent>
+<date value="1706-04-19">April 19,1706</date>
+<idno rend="suppress">C06d19a</idno>
+<title>Petition from Robert Carter to the Governor and General Court, April 19, 1706</title>
+</bibl>
+</head>
+<p>Robert Carter petitons the governor and General Court, April 19, 1706, for an injunction to prevent Maurice Jones of Wicocomoco Parish, Northumberland County,  from cutting the timber, and planting crops on 50 acres in that parish belonging to Carter. A docket notes the petition was granted in part.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="petiton" n="1">
+<head>Petition from Robert Carter to the <note target="n1">Governor</note> and General Court, [April 19, 1706]</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Rappahannock, Lancaster County, Virginia]</add><lb/></name>
+<date value="1706-04-19">[April 19, 1706]</date>
+
+</dateline>
+</opener>
+
+<salute>To his Excellency Edward Nott <abbr expan="Esquire">Esqr</abbr> her <abbr expan="Majesties">Maties</abbr>&mdash; <abbr expan="Lieutenant">Leiuten.</abbr> and <abbr expan="Governor">Governr</abbr><lb/> <sic corr="General">Generall</sic> of <abbr expan="Virginia">Virga: </abbr>and the <abbr expan="honorable">honrble</abbr>&mdash; the <sic corr="General">Generall </sic>Court in Chancery&mdash;<lb/>
+The petition of Robert Carter <abbr expan="Esquire">Esqr</abbr> Sheweth<lb/><lb/></salute>
+
+<p>That one <name type="person">Maurice Jones</name> of <name type="place">Northumberland County</name> in this Colony hath <lb/>wrongfully possessed himself of a <sic corr="certain">certaine</sic> tract <add place="supralinear">or <sic corr="parcel">parcell</sic></add> of Land in <name type="place">Wicocomoco <lb/>parish </name>in the said County containing about fifty Acres in w[hich] Land <lb/>yor petitioner hath an Estate in Fee and that the said Jones hath <sic corr="committed">comitted</sic> <lb/>diverse great Wastes and doth continue <sic corr="so">soe</sic> to <sic corr="do">doe</sic> upon the said Land by <lb/>falling of Timber grubbing up of Trees and <sic corr="hoeing">howeing</sic> up <add place="supralinear">planting and tending </add>the <sic corr="Soil">Soile</sic> to the <lb/>great prejudice of Your Petitioner nothwithstanding Yor petitioner hath <lb/>given the said Jones <add place="supralinear">notices</add> not to proceed in his comitting Waste upon the said  <lb/>Land and notwithstanding yor petitioner hath Endeavoured to prevent <lb/>and hinder the said Jones 
+from comitting such Waste </p>
+ 
+<p>Wherefore Yor petitioner <sic corr="prays">praies</sic> that This Court will <lb/>be pleased to grant her <sic corr="Majesty's">Majties </sic><sic corr="writ">writt</sic> of Injunction to <lb/><sic corr="restrain">restraine</sic> him the said Jones from Comitting any farther <lb/>Waste Upon the said Land by falling Timber grubbing <lb/>Trees or <sic corr="hoeing">howeing</sic> up the Land or otherwise </p>
+
+<salute>And Your petitioner shall pray &amp;c </salute> 
+ 
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+<note><hi rend="italics">Source copy consulted:</hi>  State Records, Colonial Government (RG1), Colonial Papers, 1630-1778, on Miscellaneous Reel 610, folder 17, no. 8. Archives Research Services, Library of Virginia, Richmond. Published in <cit><bibl n="B18">Headlam. <title>Calendar of State Papers Colonial Series.</title> I, 101.</bibl></cit></note>
+
+<note>The petiton was docketed on the back in a later hand: Coln. Carter |Petn. |1705 or 6, and in a contemporary hand: Collo Carter 5th day | Motion | Ented. Apr. 
+19th. 1706. | Granted in part.</note>
+
+<note><hi rend="italics">This text revised 9 April 2004.</hi></note>
+
+<note id="n1">[1] Edward Nott (1652-1706) was the governor of the colony from 1705 to 1706, dying in office.</note>
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

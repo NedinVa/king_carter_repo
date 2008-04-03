@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C21b13b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Lord Fairfax and William Cage, February 13, 1721</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 9 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">filename</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Lord Fairfax and William Cage, February 13, 1721</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>3 p.</extent>
+<publicationStmt>
+     <date>1940</date>
+   <idno type="callNo">Source copy consulted:  Recipient's copy and Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1721-02-13</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C21b13bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>3 p.</extent>
+<date value="1721-02-13"></date>
+<idno rend="suppress">C21b13b.xml</idno>
+<title>Letter from Robert Carter to Lord Fairfax and William Cage, February 13, 1721</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Lord Fairfax, the under-age owner, and William Cage, trustee for the proprietary, in England, February 13, 1721, concerning his assumption of the lease of the Northern Neck proprietary and his attempts to get Edmund Jenings, the former agent, to settle his accounts. He requests a stronger power of attorney concerning the granting of lands as agent, and informs them that he has sent for their review a copy of the power he had held when he formerly was agent and hopes they will send him an equally strong one. He also needs the power to deal with escheats which he does not presently have. He intends to communicate often, which he hopes they will, but notes he will send the more tedious details through Micajah Perry and his son John.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to Lord Fairfax and William Cage, February 13, 1721</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1721-02-13">Febr. 13th. 1720/21</date><lb/>
+Right Honble. Lord Fairffax<lb/>and Wm. Cage Esqr.<lb/>
+</dateline>
+<salute>My Lord and Sir</salute>
+
+</opener>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The <abbr expan="honor">Honr.</abbr>
+ of Yor. Lettr. of the 18th of <abbr expan="September">Sepr</abbr>
+ <lb/>reacht my hands but two days ago with one to <abbr expan="Colonel">Collo.</abbr>
+ Jennings <lb/>which I shall take care to lett him have in a Short time. <lb/>The Lease You Executed with <note n="MP">Mr. Perry</note> with Yor. power <lb/>of Atturney hath bin with me some months, I immediatly <lb/>made a demand upon <abbr expan="Colonel">Collo.</abbr> Jennings of what Arrears <lb/>were due to You he Assured me more than once that he <lb/>gave Effectual <abbr expan="orders">ordrs.</abbr> to his Son at his Departure to settle <lb/>that matter to <note target="n1">Yor.</note> Sattisfaction and I hope he will <lb/>have so much Regard to his own <abbr expan="honor">honr.</abbr> not to want <lb/>any Compulsory means to oblige him to do You Justice, <lb/>if there should be a necessity for it, You must Arm me <lb/>with an Attested Accot. of Yor. <note target="n2">Claim</note> Sworne to before <lb/>a proper officer in the presence of Witnesses coming <lb/>here, and Yor. clear direc<add resp="editor">[tion]</add>s I would have what Steps I <lb/>am to take, I have hinted all this to Mr. Perry Our <lb/>Courts of Law are dilatory and if he will be obstinate <lb/>you may be kept out of Yor. money a Considerable time <lb/>but sure his own Reputation will be more dear to him <lb/>than to carry me into any of that sort of Trouble&mdash;&mdash;</p>
+
+	<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Both the Lease and Yor. power lye unprov'd <lb/>till the Witnesses Arrive. however I have appointed 
+
+<pb n="2"/><lb/><lb/>
+Receivers of the Rents for the <abbr expan="several">sevl.</abbr>
+ Countys but am <lb/>unwilling to open an office For Granting of Lands &amp; <lb/>Disposeing of Escheats &amp;c. till the Latter part of the <lb/>Summer being desirous of a Fuller power from You <lb/>and to have Yor. Direc<add resp="editor">[tion]</add>s. whose name I must pass <lb/>the Grants in, I have sent a Copy of the last <abbr expan="power">Powr.</abbr>
+ I <lb/><abbr expan="received">Rec'd</abbr> from my Lady Fairfax to Mr. Perry such a=<lb/>=nother I ought to have with only the Alteration of <lb/>the Circumstances of the Case as it is at present, there <lb/>are several other things I write to Mr. Perry about that <lb/>are so absolutely conducive to the Interest of the Estate <lb/>as well as mine that I cannot doubt but you will <lb/>readily come into my proposals, The particulars of what <lb/>I have to Say I shall from time to time communicate <lb/>to him, I begg Yor. Lordship &amp;c will <abbr expan="honor">honr.</abbr> me with a <lb/>Frequent Correspondence.</p>
+
+	<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I Do Assure Yor. Lordship I am like to have <lb/>a very hard bargain of It, It was always Bruited <lb/>here <abbr expan="Colonel">Collo.</abbr> Jennings paid but &pound;250 per Annum he <lb/>hath had the greatest luck of any man alive Tobo. hath <lb/>held up all his time and now Its become very mean <lb/>The Commodity that most of Yor. Rents are paid in <lb/>I remember two or three of the last Years I was in the <lb/>business before I was not able to make of the Estate <lb/>&pound;300 per Annum <sic corr="salary">Sallary</sic> and all and I fear we are very <lb/>near Such bad times again I shall not take upon me <lb/>to discant upon <abbr expan="Colonel">Collo.</abbr> Jennings's proceedings Any further <lb/>than to Claim what is my Due from the Expiration of <lb/>his Lease but I may be fairly Justifyed in this General 
+
+<pb n="3"/><lb/><lb/>
+Observation that things appear to me under more Confusion <lb/>than when I went out of the business</p>
+
+	<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am inform'd That the Yearly Rent due to the Crown <lb/>of &pound;6"13"4 is in Arrear since my last payment if it be so <lb/>I shall desire direc<add resp="editor">[tion]</add>s. who shall be answerable for this <lb/>money &amp; certainly Its highly necessary It should be paid <lb/>by somebody being the Reserv'd Consideration of my Lord <lb/>Culpeper's Grant.</p>
+
+	<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Another thing 'tis proper to Inform Yor. Lordship <lb/>of the Legal way of passing <note n="ES">Escheats</note> is first by finding an <lb/>office by an Escheat Master and twelve men now <lb/>this power I have not as Yor. Atturney, I cannot order a <lb/><sic corr="sheriff">Sherrif</sic> to Summon a Jury for this purpose unless I had <lb/>a Commission from the <abbr expan="governor">Govr:</abbr> here or a proper qualification <lb/>from home with Liberty to appoint Deputy Escheaters <lb/>Yor. Direc<add resp="editor">[tion]</add>s. Assistance &amp; Advice upon a proper Method <lb/><lb/>for this Affair I strongly desire as I shall always Yor. <lb/>Deliberate answers to the Entertainments I shall have <lb/>Repeated occasions to trouble You with however the more <lb/>tedious Storeys Shall come through the hands of Mr. <lb/>Perry and my Son with whom I request You will <lb/>hold a Communication, I shall Study to approve <lb/>my self, </p>
+
+<closer>Sirs <lb/>Yor. Lordships &amp; <abbr expan="Colonel">Collo.</abbr>
+ Cage's <lb/>most faithfull &amp; most humble Servt. <lb/>
+<signed>ROBERT CARTER</signed></closer>
+
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi>  Recipient's copies and Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. The text was transcribed from the recipient's copies of which there are two at the Huntington; one is marked "Copy" at its foot, and is endorsed "Febr. the 13 1720 Coll Carter." [BR 227, folder 11] The text was compared with the letterbook draft, also in CSmH, and found to have only a few differnces, chiefly in capital letters.  The recipoient's copies are signed by Robert Carter. Printed: <cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> pp. 68-70.</bibl></cit></note><lb/>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note><lb/>
+
+<note id="n1">[1] The draft inserts the word "full" after "Yor."</note>
+
+<note id="n2">[2] The words "Demands to be" were struck in the draft, and "Claim" substituted.</note>
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

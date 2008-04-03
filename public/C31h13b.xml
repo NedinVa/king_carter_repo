@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C31h13b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Alderman [Micajah] Perry, August 13, 1731</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 5 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C31h13b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2006</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Alderman [Micajah] Perry, August 13, 1731</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1731-08-13</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C31h13bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1731-08-13"></date>
+<idno rend="suppress">C31h13b.xml</idno>
+<title>Letter from Robert Carter to Alderman [Micajah] Perry, August 13, 1731</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant Alderman [Micajah] Perry, August 13, 1731, to cover a bill of lading (not present) for tobacco, and also to cover documents (not present) for Thomas Lord Fairfax (not present) concerning the Virginia government's actions in"granting away" lands in the "Upper parts of the Northern Neck."</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to Alderman <note n="MP2">[Micajah] Perry,</note> August 13, 1731</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rap<add resp="editor">[pahannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1731-08-13">August 13. 1731</date><lb/>
+Alderman Perry <lb/>
+</dateline>
+<salute>Sir</salute>
+
+</opener>
+
+
+
+<p>This covers a bill of lading for 4 hogsheads of my crop <lb/>
+<sic corr="Stemmed">Stemm'd</sic> tobo on board the Mary <abbr expan="Captain">Capt</abbr> Waff I expect they will rise <lb/>
+Well and clean <sic corr="Striptped">Stript </sic>free from those faults you <abbr expan="complained">complain'd</abbr> of <lb/>
+last year and that all the rest of that sort that I have sent you <lb/>
+will Escape any harsh character from you</p>
+
+<p>I have already told you for want of having any <lb/>
+thing from my <note n="TF">Lord Fairfax</note> I had not foundation to ground a <lb/>
+letter to him upon however I have thought it may be for his ser= <lb/>
+vice to <sic corr="enclose">inclose</sic> to you some <sic corr="copies">copys</sic> of the proceedings of this govern<lb/>
+ment in granting away the mountainous lands in the Upper part <lb/>
+of the Northern neck You will <sic corr="please">pleas</sic> to let his Lordship have them whe= <lb/>
+ther he will think them worth his Notice I must submit to his own thou= <lb/>
+ghts I am 
+</p>
+
+<closer>Sir <lb/>
+Your most humble Servant</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

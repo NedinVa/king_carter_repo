@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C23i30c">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Micajah Perry, September 30, 1723</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 9 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C23i30c.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2002</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Micajah Perry, September 30, 1723</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1723-09-30</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="CT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent> p.</extent>
+<date value="1723-09-30"></date>
+<idno rend="suppress">C</idno>
+<title>Letter from Robert Carter to Micajah Perry, September 30, 1723</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant Micajah Perry, September 30, 1723, to notify the merchant of six bills of exchange he is sending. He continues with a discussion of land that he has wished to buy for many years from Robert Cary of London. He reminds Perry that this Hull property had formerly belonged to his deceased niece, and that the dispute over the ownership had been appealed to the Virginia Council where Carter lost. He had then negotiated with Cary through his son John (when John was studying law in London) but Cary wanted &pound;2,000 which Carter thought too much. He understands from John that Cary might be willing to sell lfor &pound;1,000. If so, he instructs Perry to buy the property if Cary can give him a clear title.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="MP2">Micajah Perry,</note> September 30, 1723</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1723-09-30">Septr: the 30th: <hi rend="underline">1723</hi></date><lb/>
+Mr. Micaja Perry<lb/>
+</dateline>
+<salute><hi rend="underline">Sr</hi></salute>
+
+</opener>
+
+<p>Herewith I send you Six first Bills of Ex<add resp="editor">[c]</add>hange <lb/><abbr expan="William">Wm.</abbr> Makdougall on <abbr expan="William">Wm.</abbr> Anderson and Company for &pound;41 pounds <lb/><note target="n1"><abbr expan="Colonel">Colln.</abbr> Spotswood</note> on <abbr expan="John">Jno:</abbr> Cary for &pound;77:14<abbr expan=" shillings">s</abbr>
+:0: <note target="n2">Henry Fitzhugh</note> <lb/>on <note target="n3">Arthur Lee </note>for &pound;24:18<abbr expan=" shillings">s</abbr>
+:6<abbr expan=" pence">d</abbr> <abbr expan="John">Jno:</abbr> Sharp on <abbr expan="John">Jno:</abbr> Sharp for <lb/>&pound;4:0<abbr expan=" shillings">s</abbr>:0<abbr expan=" pence">d</abbr>: James Makine on Henry McCall for &pound;3:6:0: <lb/><abbr expan="Robert">Robt.</abbr> Carter on Mr: Perry for &pound;15:0:0 Amounting in <lb/>the whole to One hundred Sixty five pound Eighteen Shillings and <lb/>Sixpence of which desire your Management</p>
+
+<p>And if any of them will not be paid pray let me have <lb/>them Exeditiously returned <del>to me</del><lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Turn Over</p>
+
+<pb n="2"/><lb/><lb/>
+<p><add resp="editor"></add>If you will please to give yourself the trouble <lb/>to <sic corr="overhaul">overhall</sic> some of my late Lettrs. you will find for Some Years <lb/>I have been In treaty with <note target="n4">Mr. Cary</note> for the Land he recovered <lb/>under the Title of Hull the Great Uncle of my Brothers Daughter <lb/><note n="ECL"><sic corr="Elizabeth Lloyd">Eliza: Loyd</sic></note> who last died <sic corr="seized">Seas'd</sic> from these Lands in the <sic corr="trial">Tryal </sic><lb/>a great dispute arose <sic corr="whether">wether</sic> <abbr expan="Robert">Robt.</abbr> Hull under whom Mr. <lb/>Cary claims was Brother to the whole Blood to <abbr expan="John">Jno.</abbr> Hull the <lb/>Grandfather of my Niece the point was so nice the Court was <lb/>equally divided <sic corr="until">till</sic> it came to <abbr expan="Colonel">Colln:</abbr>Spotswood who gave his <lb/>judgment in favour of Mr. Cary, there are some that are in <lb/>possession of some of this Land yet hold out tis now said Mr. <lb/>Cary hath got fuller proofs for his title under <abbr expan="Robert">Robt</abbr> Hull, I <lb/><sic corr="employed">Imployed</sic> <note n="JC1">my Son</note> in this Affair to whom Mr. Cary promised the <lb/><sic corr="refusal">refusall</sic> of this Land but after his Demands were nothing less <lb/><sic corr="than">then</sic> Two Thousand pounds whereupon I declined all further <lb/>thoughts about the Matter, My Son Acquaints me by the last <lb/>discourse he had with Mr. Cary he believes he would part wth: <lb/>them for one Thousand Pounds My request to you  is you <del>woud</del> <add place="supralinear">will</add> <lb/>renew this Treaty again and to let me know how he stands Incli<lb/>ned if he can make out a clear Title I <sic corr="believe">beleive</sic> I may adventure <lb/>at the purchase at a Thousand pounds If you think it proper <lb/>to give yourself the Trouble of this Affair you will oblige </p>
+
+<closer><hi rend="underline">Sr </hi>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your most humble Servt:
+<seg type="postscript"><lb/><lb/>My Son is <sic corr="entering">entring</sic> upon the State of Matrimony <lb/>the 3d of next Month is the day set I have <lb/>already said Enough to you about the <lb/>Shortness of our Crops</seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1723 June 16-1724 April 23, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia. There is a nineteenth-century transcript of this letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia. </note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1] Alexander Spotswood (1646-1740) had been the governor from 1710 to 1722.</note>
+
+<note id="n2">[2]  Henry Fitzhugh (1706-1742) of "Eagle's Nest," Stafford County, was educated at Oxford, and married Lucy Carter (1715-1763), Robert Carter's fourteenth child, in 1730. They had  four children; after Fitzhugh's death, she married Nathaniel Harrison (1713-1791).  He was a burgess and militia officer. (<cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 451 </bibl></cit>;  <cit><bibl>Robert A. Rutland, <title>The Papers of George Mason, 1725-1792.</title> [Chapel Hill: University of North Carolina Press, 1970]. I:lii</bibl></cit>; and extensive generalogical notes, "Fitzhugh Family," in volumes 7 and 8 of <title>Virginia Magazine of History and Biography.</title>)</note>
+
+<note id="n3">[3] This Arthur Lee may be a son of Francis Lee (1648-1724), third son of Richard Lee the emigrant; Francis had returned to England to become a merchant in London.</note>
+
+<note id="n4"> [4] Robert Cary (1685-1751), a London merchant and member of a family  of which many members were involved in colonial trade. Carter purchased lands from him in King George, Richmond, and Westmoreland counties; he is mentioned in Carter's will. (<cit><bibl>Jacob M. Price. "Who Was John Norton? A Note on the Historical Character of Some Eighteenth-Century Virginia Firms."  <title>William and Mary Quarterly. </title> 3rd. ser. 19[July 1962]:401.</bibl></cit>)</note>
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

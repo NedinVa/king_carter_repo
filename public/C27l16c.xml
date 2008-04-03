@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C27l16c">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to William Dawkins, December 16, 1727, and February 20, 1728</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 14 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C27l16c.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2004</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to William Dawkins, December 16, 1727, and February 20, 1728</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>4 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1727-12-16</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C27l16cT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>4 p.</extent>
+<date value="1727-12-16"></date>
+<idno rend="suppress">C27l16c.xml</idno>
+<title>Letter from Robert Carter to William Dawkins, December 16, 1727, and February 20, 1728</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant William Dawkins, December 16, 1727, to alert him that the governor has renewed his son Robert's appointment as naval officer, and that he wishes Dawkins once again to join with merchant Robert Cary in being Robert's security in England. He notifies Dawkins that the Surveyor General of Customs in the southern colonies, Richard Fitzwilliams, desires to have the naval officer located at Urbanna where the collector of customs is located, and asks Dawkins to oppose this move if Fitzwilliams pushes it at home. In a lengthy post script dated February 20, 1728, Carter comments on Isaac Lee's debt to Dawkins and his attempts to collect it for the merchant, recommends Dawkins forget about collecting other debts, notes that the <hi rend="italics">Carter </hi> will once again be late in reaching the colony which will affect the business she can expect, and complains that Dawkins has not sold his tobacco.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="WD">William Dawkins,</note> December 16, 1727, and February 20, 1728</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1727-12-16">Decr. 16th 1727</date><lb/>
+Mr Wm Dawkins<lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+
+
+<p>Our <abbr expan="Governor">Govr:</abbr> hath been so kind to renew my <lb/>son <note n="RC2">Roberts</note> Commission for the Naval Officers place of this river <lb/>his Securitys here are the same they were <note n="MP1"><abbr expan="Colonel">Collo:</abbr> Page</note> &amp; the <note n="JC11">Se=<lb/>cretary</note> we conclude he must give securitys to the commissioners of the <lb/>customs again this will <sic corr="Create">Creat</sic> a new charge but I doubt there's <lb/>no help for it</p>
+
+<p><note target="n1">Mr Fitzwilliams</note> <hi rend="italics"><add place="supralinear"><abbr expan="Surveyor General">Surv Genl</abbr> I suppose with design <add place="supralinear">to get the place for another if he could</add></add></hi> <del>hath</del> made <del>out</del> some oppos=<lb/>ition as to the place my son lives at that the two officers ought to be <lb/>kept together at <note target="n2"><sic corr="Urbanna">Urbana</sic></note> where the collector lives &amp; that <note n="HD"><abbr expan="Colonel">Collo</abbr> <lb/>Drysdale</note> with his consent had Agreed to that place my Answer was <lb/>this had never been the practice in relation to the Naval Officers <lb/>nor was it so <sic corr="through">thro</sic> the Country now; that my son lived as convenient <lb/>&amp; more convenient for the trade than <sic corr="Urbanna">Urbana</sic> that it wore <lb/>the name of a town but besides the Collector's had but two or three <lb/><add place="supralinear">small</add> <sic corr="families">familys</sic> in it &amp; an ordinary to the truth of these <sic corr="Allegations">Alligations</sic> <lb/>all your Masters that Use this river will <del>testify</del> <add place="supralinear">bear testimony</add> upon occasion <lb/>I am Suspicious Mr. Fitzwilliams who is a very pushing Gentle=<lb/>man will make some representation of this matter to the Commissioners 
+
+<pb n="2"/><lb/><lb/>
+I desire you will be upon your Guard to make a strenuous oppo=<lb/>sition to any Attempt He shall make I suppose your frequent Attendance at the Customs house <lb/>&amp; the large sums of money you yearly pay to the Crown hath <abbr expan="gained">gain'd</abbr> <lb/>you so much interest with the Comissioners to procure <del>for you</del> a fair <lb/>&amp; a favorable hearing against any information that may be <lb/>made to the prejudice of your friends I write to Mr. Cary to <sic corr="join">joyn </sic><lb/>with you as my sons security to the Commisioners</p>
+
+<closer>I am <lb/>Sir<seg type="postscript"><lb/><lb/>to be copyed<lb/><lb/><pb n="3"/><lb/><lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A Postscript to Mr. <abbr expan="William">Wm:</abbr> Dawkins added to his last Letter<lb/>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;R[appahannock] <abbr expan="February">Febr.</abbr> the 20th: 1727/8<lb/><lb/>
+Sir,<lb/>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have lately <abbr expan="received">rec'd</abbr> yours by <note n="AG"><sic corr="Adam">Addam</sic> Graves</note> &amp;ca: <lb/>among the rest of your packets poor <note target="n3">Isaac Lee's</note> will who<add resp="editor">[se]</add> Strange <lb/>Inclination <del>Itho</del> to travel the remote parts of the world I thought portended <lb/>a more favourable faith it will be hard upon us to raise money for <lb/>your Debt you Should Send in your bond to us or at least a Copy, You <lb/>must be <sic corr="Satisfied">Satisfyed</sic> to be Sure a good Security taken before any division <lb/>is made. You write to me about your affair with Mr. Lee as If I had <sic corr="forgotten"><lb/>forgot</sic> you but do assure <add place="supralinear">you</add> I have Seldom an Opportunity that I do not <lb/>not <add resp="editor"> [<hi rend="italics">sic</hi>]</add>make use of to <sic corr="dun">dunn</sic> him upon your Accot. he hath had a loss of <lb/>your Letter long Since, he now promises <del>me</del> he will take Effectual <lb/>care in a Short time to make a Considerable advance towards retr=<lb/>enching his Debt he Affirms he writ largely to you by <note target="n4"> Trice</note> as for <lb/>your other Debts I have long Since told you few of them would ever <lb/>be got I cant think it worth while to put you to the Charge to Send a M=<lb/>essenger after them they have bin so often demanded already to so little purpose,<lb/><lb/>
+
+<pb n="4"/><lb/><lb/>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The <note n="CS">Carter</note> it Seems is to be a <sic corr="lag">lagg</sic> Ship again what her <lb/>fate will be I <abbr expan="shall not">shant</abbr> pretend to <sic corr="guess">ghess</sic> if you take so little care of her <lb/>your Self when She comes here what reason have you to Expect the <lb/>name of so large a Ship <sic corr="should">Shold</sic> carry so much weight to do her <sic corr="business">bisness</sic> <lb/>She hath never wanted my Quota of her Loading, often to my great <lb/>loss,<lb/><lb/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You tell me you disposed of none of my <abbr expan="Tobacco">Tobbo:</abbr>
+ that <lb/>by <note target="n5">Keeling</note> was time Enough with you. 9<abbr expan=" pence">d</abbr> from others have bin <lb/>a Common Price among Several of my Acquaintance, &amp; but a <lb/>few days ago a Certain person Assured me he heard a <add place="supralinear">Considerable</add> <abbr expan="Gentleman">Gent</abbr> of your <lb/>walks Say he Should have no old <abbr expan="Tobacco">Tobbo:</abbr>
+ upon hand by that time <lb/>the new got there. We have had a bitter hard winter which makes <lb/>the forward Ships very backward, I am <lb/><lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. very humble Servt.
+<lb/><lb/>per the <note target="n6"><name type="ship">Leopard
+</name></note></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1727 May-1728 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia. Carter inserted in his hand a long addition to the draft at the beginning of the second paragraph as is indicated by the use of italics.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1] As Surveyor General of the Customs in the colonies in "South America," Richard Fitzwilliams was a member of the councils of Virginia, South Carolina, and Jamaica. He had come to Virginia in 1717, and "powerful political friends quickly brought him the post of collector of customs in the lower James River district and then his . . . position as surveyor general and elevation to the Council in 1725." He served with William Byrd on  the commission to survey the boundary between Virginia and North Carolina in 1728. (<cit><bibl n="B27">Billings. <hi rend="italics">et al. </hi> <title>Colonial Virginia: A History.</title> p. 239; and </bibl></cit><cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:93-4; 155-56. </bibl></cit>)</note>
+
+<note id="n2">[2] Urbanna was a town in Middlesex County built on lands orginally owned by Ralph Wormeley who resisted the idea after the town was  authorized by the act of 1680. But development began after his death in 1701 and the passage of the third town act in 1706. (<cit><bibl>John W. Reps, <title>Tidewater Towns: City Planning in Colonial Virginia and Maryland.</title> Williamsburg,VA: The Colonial Williamsburg Foundation, 1972. pp . 78-9.</bibl></cit>)</note>
+
+<note id="n3">[3] Isaac Lee (1700-1727) was a son of Hancock Lee and his second wife, Sarah Allerton. Isaac was a resident of Westmoreland County but died in England.  (Descendants of John Lee , http://homepages.rootsweb.com/~kenzie/GenLEE.htm, 5/11/04)</note>
+
+<note id="n4">[4] The 140 ton <hi rend="italics">Welcome</hi> was owned by London merchant James Bradley to whom Carter would write about her on 1727 May 17.  John Trice (Frice) was her captain, 1723-1727. (<cit><bibl>Adm 68/195, 154r, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n5">[5] Captain William Keiling commanded the <hi rend="italics">Betty.
+</hi> (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194, Virginia Colonial Records Project, Albert and Shirley  Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n6">[6]  The <hi rend="italics">Leopard</hi> was a Liverpool ship commanded by Matthew Hayes in 1727-1728. (See Carter to Pemberton 1727 December 19 and 1728 February 21.)</note>
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

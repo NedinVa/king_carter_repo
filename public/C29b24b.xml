@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C29b24b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Colonel Nicholas Smith, February 24, 1729</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 8 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C29b24b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2005</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Colonel Nicholas Smith, February 24, 1729</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1729-02-24</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C29b24bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1729-02-24"></date>
+<idno rend="suppress">C29b24b.xml</idno>
+<title>Letter from Robert Carter to Colonel Nicholas Smith, February 24, 1729</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Colonel Nicholas Smith of Richmond County, February 24, 1729, about militia commissions and to thank him for his sympathy on Carter's recent loss of his new house at Corotoman.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to Colonel <note n="NS">Nicholas Smith,</note> February 24, 1729</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
+<date value="1729-02-24">Febry: 24th. 1728/9</date><lb/>
+Colo: Nicholas Smith<lb/>
+</dateline>
+
+</opener>
+
+
+
+<p>I receiv'd yours of the Twelfth not <sic corr="until">till</sic> Saturday <lb/>last <note target="n1"><abbr expan="major">maj:</abbr> Thornton</note> is Certainly mistaken to think that the <lb/>practice has been to send the Commissions Blank to the Command<lb/>ing <abbr expan="Officers">Offrs</abbr> residing in the County to be <sic corr="filled">filld</sic> up by them at their <lb/>pleasure and to be distributed at a general muster at least I am <lb/>sure I never was Acquainted with such a practice the <abbr expan="Governors">Govrs:</abbr> I <lb/>have been Acquainted with have never entrusted me with the blank <lb/>commissions before this <del>and</del> <add place="supralinear">but</add> have Always had them <sic corr="filled">filld</sic> up them<lb/>selves upon the return of my Lists however being well assured o<corr resp="editor">[f]</corr> <lb/><abbr expan="your">yr.</abbr> Sincerity I now send them to you not doubting you will pitch i<corr resp="editor">[n]</corr> <lb/>the best and fittest men for <abbr expan="Captains">Capts:</abbr> that your County will afford it <corr resp="editor">[is]</corr> <lb/>highly necessary there be a <abbr expan="Captain">Capt</abbr> Appointed somewhere about the ma<corr resp="editor">[. . .]</corr> <lb/>for the Upper Company Russel now lives in <abbr expan="Stafford">Staffd:</abbr> and who to <lb/>recommend as a fit person in those parts for his place I am to<corr resp="editor">[o]</corr> <lb/>much a Stranger to <del>do</del> offer at</p>
+
+<p><note n="WS"><abbr expan="Captain">Capt</abbr> Strother</note> is as fit a person in my Opinion a<corr resp="editor">[s]</corr> <lb/>any that lives near him and I should not be for leaving him <lb/>out but if he absolutely refuses to Serve I dont know how tht 
+
+<pb n="2"/><lb/><lb/>
+is to be <sic corr="helped">helpd</sic> <del>I am</del> </p>
+
+<closer>Sir <lb/><abbr expan="Your">Yr</abbr> most humble Servt.
+<seg type="postscript"><lb/><lb/>were I master of a vein to <lb/>match your wit a<corr resp="editor">[s]</corr> well as your Lady is &amp;ca: you might expect some th<corr resp="editor">[i]</corr><lb/>ng of that nature from me but you  know my Talent is too flat f<corr resp="editor">[or]</corr> <lb/>such Excursions I thank you kindly for the tenderness you express of <lb/>my <note target="n2">late Suffering</note> &amp; am</seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>The name of Carter's home, "Corotoman," the county, and colony have been added for clarity to this unheaded draft.</note>
+
+<note id="n1">[1] Major William Thornton (d. 1742/43) of King George County. (<cit><bibl><title>King George County Virginia Will Book A-1 1721-1752 And Miscellaneous Notes.</title> [Fredericksburg, VA: Privately Printed, 1978], p. 277.</bibl></cit>)</note>
+
+<note id="n2">[2] Carter had built a fine house at Corotoman in the mid 1720s, but it burned at the end of January 1729.  See the <hi rend="italics">Maryland Gazette</hi> for 1728/29 February 4-11 for information about Carter's loss.</note>
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

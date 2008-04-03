@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C29f30c">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Richard Meeks, June 30, 1729</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 9 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C29f30c.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2005</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Richard Meeks, June 30, 1729</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>3 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1729-06-30</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C29f30cT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>3 p.</extent>
+<date value="1729-06-30"></date>
+<idno rend="suppress">C29f30c.xml</idno>
+<title>Letter from Robert Carter to Richard Meeks, June 30, 1729</title>
+</bibl>
+</head>
+<p>Robert Carter writes to his manager, Richard Meeks, June 30, 1729, to give him instructions concerning the tobacco that is to be loaded on a sloop that is coming up the river, and to alert him that Joseph Belfield has cast many aspersions on him in his letter to Carter protesting his firing as the doctor for Carter's plantations under Meeks direction.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="RM">Richard Meeks,</note> June 30, 1729</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Corotom<add resp="editor">[an, Lancaster County, Virginia]</add></name><lb/>
+<date value="1729-06-30">June 30. 1729</date><lb/>
+Richard Meeks<lb/>
+</dateline>
+
+</opener>
+
+
+
+<p>My Sloop <sic corr="sailed">saild</sic> yesterday morning I gave<lb/>
+<del>her</del> <add place="supralinear"><note target="n1">Dick <sic corr="Haynes">Haines</sic></note></add> the best orders I could for all Baxters <abbr expan="Tobacco">Tobo.</abbr> for the hogshead<lb/>
+of <note n="WB"><abbr expan="Colonel">Colo.</abbr> Balls</note> which I sent you the <sic corr="note">noat</sic> for For another hogshead<lb/>
+that Baxter promised to have ready for me for 6 hogsheads of the <lb/>
+<note n="JC1">Secretarys</note> <sic corr="Ordered">Orderd</sic> me by <note n="GT"><abbr expan="Captain">Capt</abbr> <sic corr="Turberville">Turbervil</sic></note> for the 3 hogsheads of<lb/>
+the <corr resp="editor">[tobacco mark]</corr> for a hogshead Minor Promised me for All the <abbr expan="Tobacco">Tobo</abbr><lb/>
+you have for me both in the Upper and lower Parts of the Coun<lb/>
+ty and also for a hogshead I have at Mr <sic corr="Hewletts">Huletts</sic> in Northumber:<lb/>
+land that rolls to Cone Besides these my Orders I have <abbr expan="Ordered">Order'd</abbr> him<lb/>
+to you to give him the Clearest Orders Possible you Can to prevent<lb/>
+his blunders and that he may leave none of my <abbr expan="Tobacco">Tobo</abbr> behind</p>
+
+<pb n="2"/><lb/><lb/>
+<p><del>I have further</del></p>
+
+<p>If he gets all these <abbr expan="Tobacco">Tobo</abbr> he will not be above<lb/>
+half loaded I have <sic corr="Ordered">Orderd</sic> him if you Can find <del>him</del> <add place="supralinear">it</add> 1/2 a <abbr expan="dozen">dozn</abbr><lb/>
+or half a Score hogsheads of Corn that will be <sic corr="tolerable">tollerable</sic> <add place="supralinear">convenient</add> for his <abbr expan="taking">takg.</abbr><lb/>
+in that he brings it with him</p>
+
+<p>I have <sic corr="received">receivd</sic> A letter from <note n="JP">Doctor Belfield</note> where<lb/>
+in he Expresses Abundance of wrath at his being dischargd<lb/>
+of my business he is <sic corr="tolerably">tollerably</sic> good <abbr expan="Mannered">Manner'd</abbr> to me but gives<lb/>
+you a great many <sic corr="Scurilous">Scurrilous</sic> contemptible Characters <del>I</del> <del>[illegible]</del><lb/>
+<del>[illegible]</del> And that his reputation seems so high that he will call<lb/>
+you to An Accot for your Aspersions of him I dare him to be:<lb/>
+gin As soon as he will I let you know this that you may prepare<lb/>
+All the Evidences that you can get <sic corr="Among">Amongst</sic> my Overseers and others<lb/>
+of his great Negligence in not Visiting my sick people when<lb/>
+sent for and giving them Pokes and other unwarrantable potions<lb/>
+of his Own Contrivance that Cost him Nothing in good and lauda:<lb/>
+ble <sic corr="medicines">medicins</sic> that come out <corr resp="editor">[of]</corr> England</p>
+
+<p>I hope your Crops are All standing and your<lb/>
+corn fields laid by</p>
+
+<p><abbr expan="You">Yo.</abbr> know a great Part of my dependence for hogs<lb/>
+flesh is Upon my Plantations Under your care and brave <lb/>
+places they are for raising of hogs in Plenty I must put<lb/>
+you in mind that you take Effectual care that large num:<lb/>
+bers of <sic corr="Pigs">Piggs</sic> be raised at Every Quarter that the breeding<lb/>
+sows are well fed and kept in good heart for the doing of <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;which there                                                      
+
+<pb n="3"/><lb/><lb/>
+wants not Plenty of Corn I am.
+</p>
+
+<closer>Your Friend</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note> The county and colony have been added for clarity to the heading on this draft.</note>
+
+<note id="n1">[1] Richard Haynes was master of one of Carter's sloops.</note> 
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

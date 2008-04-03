@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C29ii06b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to John King, [September 6, 1729]</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca.7  kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C29ii06b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2005</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to John King, [September 6, 1729]</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1729-09-06</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C29ii06bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent> p.</extent>
+<date value="1729-09-06"></date>
+<idno rend="suppress">C29ii06b.xml</idno>
+<title>Letter from Robert Carter to John King, [September 6, 1729]</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Bristol merchant John King, [September 6, 1729], to notify him that Carter has received goods, and to order more.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="JK">John King,</note> [September 6, 1729]</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1729-09-06"></date><lb/>
+John King Esqr<lb/>
+</dateline>
+<salute>Sir</salute>
+
+</opener>
+
+
+
+<p>your market is so miserable Low there is no man:<lb/>
+ner of <abbr expan="Encouragement">Encouragemt</abbr> to give you the trouble of any <abbr expan="Tobacco">Tobo</abbr></p>
+
+<p>I <abbr expan="received">receiv'd</abbr> your goods by <abbr expan="Captain">Capn:</abbr> Sweet in good order <lb/>
+and I now desire you by the first opporty to send me <add place="supralinear">in</add> the <del>same</del> <lb/>
+<add place="supralinear">following</add> <del>over again</del> goods Vizt 20,000 8<abbr expan=" penny">d</abbr> Nails 20,000 10<abbr expan=" penny">d</abbr> nails. five <lb/>
+hundred <abbr expan="weight">wt</abbr> of Iron for Weeding hoes. 2 <abbr expan="dozen">dozo</abbr> mens Fall Shoes <lb/>
+one <abbr expan="dozen">dozo</abbr> Womens <abbr expan="Ditto">Do:</abbr> with three <abbr expan="dozen">dozo</abbr> Bottles of <abbr expan="your">yr</abbr> Bristol <abbr expan="water">watr</abbr> <lb/>
+I must add no more that I may keep within my ballance I am 
+Sir <lb/>
+your most Humble Servt:</p>
+
+<closer>Sir <lb/>
+your most Humble Servt:</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia. This letter was written on a letterbook page bearing a letter of 1730 April 15, but that letter is in the hand of a different clerk. This letter seems to be in the hand of the clerk who wrote the two previous letters dated September 5th and 6th, 1729. Because it follows the one of the later date, and because it orders supplies normally written for in the late summer or earcly fall, it has been assigned that date.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C29f27b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to John Falconar, June 27, 1729</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 7 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C29f27b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2005</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to John Falconar, June 27, 1729</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1728 August 8-1730 May 15,  Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1729-06-27</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C29f27bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1729-06-27"></date>
+<idno rend="suppress">C29f27b.xml</idno>
+<title>Letter from Robert Carter to John Falconar, June 27, 1729</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant John Falconar, June 27, 1729, to alert him that an invoice and bills of lading for tobacco have been sent and to order German spa water. He notes a bill of exchange on the merchant, and that he may have Mr. Pratt buy some goods for which Falconar can reimburse Pratt.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note target="n1">John Falconar,</note> June 27, 1729</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1729-06-27">June the 27th. 1729</date><lb/>
+Mr. John Falconar<lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+<p>Yesterday I sent away my Invoice by <note target="n2"><abbr expan="Captain">Capt.</abbr> Wills</note><lb/>
+the bills of Lading for my <abbr expan="Tobacco">Tobbo.</abbr> and <note n="NB">Mr. Burwells</note> comes in the <abbr expan="several">sevl.</abbr> Ships<lb/>
+I omitted sending for Some German <sic corr="Spa">Spaw</sic> water I now desire you to<lb/>
+Send me in the same Quantity you did the last year. I have desired <note target="n3">Mr.<lb/>
+Pratt</note> to put you in mind of it.</p>
+
+	<p>Herein is a bill of Exchange for &pound;5 drawn by Ben<lb/>
+Berryman on your self which desire Credit for or to be protested</p>
+
+	<p>I <sic corr="believe">beleive</sic> hereafter I shall desire my good friend Mr. Pratt<lb/>
+to lay out a little money for me if I do believe I Shall direct him to call up-<lb/>
+on you for it I am
+</p>
+
+<closer>Sir<lb/>Yor. <sic corr="Esteemed">Esteemd</sic> Friend &amp; humble Servt.</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. </note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
+
+<note id="n1">[1] John Falconar (d. <hi rend="italics">ca.</hi> 1729) was a London merchant with whom Carter dealt. In 1728, Falconar and Henry Darnell formed an association of 29 London tobacco merchants to deal with the French tobacco purchasing agent as a group in order to keep the price as high as possible. The association lasted only lasted a year or two before dissolving because some of its members were dealing directly with the French agent and selling below the agreed-upon price. (See Carter to William Dawkins, and Carter to Falconar's executors, both 1730 April 16, for Falconar's death date. <cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> Newport News, VA: Mariners' Museum, 1953. p. 129</bibl></cit>)</note>
+
+<note id="n2">[2] Captain Peter Wills commanded the  <hi rend="italics">Booth</hi> in 1723-1724, and the <hi rend="italics">Amity,</hi> a vessel of 500 tons and 21 men,  in 1727-1729. He is mentioned in Carter's diary for June 1723.  (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194, and Survey Report 6801 summarizing Adm. 68/195,Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n3">[3] John Pratt was a London merchant and an old friend of Carter's who usually referred to him as "Daddy."</note>
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

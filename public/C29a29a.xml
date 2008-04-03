@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C29a29a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Colonel John Tayloe, January 29, 1729</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 11 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C29a29a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2005</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Colonel John Tayloe, January 29, 1729</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>3 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1728 August 8-1730 May 15,  Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1729-01-29</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C29a29aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>3 p.</extent>
+<date value="1729-01-29"></date>
+<idno rend="suppress">C29a29a.xml</idno>
+<title>Letter from Robert Carter to Colonel John Tayloe, January 29, 1729</title>
+</bibl>
+</head>
+<p>Robert Carter responds to proposals from Colonel John Tayloe, January 29, 1729, concerning mining operations that Tayloe is undertaking with the suggestion that they meet for discussion because there are practical problems that would have to be worked out.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to Colonel <note target="n1">John Tayloe,</note> January 29, 1729</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
+<date value="1729-01-29">Janry. 29. 1728/9</date><lb/>
+Colo. John Tayloe<lb/>
+</dateline>
+<salute>Sir</salute>
+
+</opener>
+
+<p>Your favour of the 24th came to me last night <lb/>Your subjects are so weighty and require so much depth of thought <lb/>that I cannot return you an Ultimate answer in so short a time <lb/>I am too Old and Infirm to begin projects at this time of day the <lb/>Irons I have already in the fire are so many one half of them <lb/>burn for want of a vigorous Application and yet there seems to <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;be a 
+
+<pb n="2"/><lb/><lb/>
+necessity upon us to find some Other ways to imploy our people <lb/>or else in a few years to become beggars</p>
+
+<p>I am glad to find so many considerable gentlemen <lb/>are <abbr expan="engaged">engag'd</abbr> in designs of <note target="n2">digging Treaure</note> out of the Earth and <lb/>do heartily wish them Success in their Undertakings I can't exp=<lb/>ect to see much good from these beginnings in my day but the ris=<lb/>ing generation I hope will to the great benefit of <sic corr="thier">thier</sic> poor Country</p>
+
+<p>At this time I am under no inclination to put myself <lb/>to Charge upon the enquirys you are about to make nor am I willing <lb/>to be a <sic corr="joint">joynt</sic> Undertaker with your Society <sic corr="until">untill</sic> I am better ac-<lb/>quainted with the progress you are like to make and in case of <lb/>Success <sic corr="believe">beleive</sic> should rather entertain thoughts of receiving my <lb/>proportion at the pits mouth which I have heard Lawyers say as <lb/>the way or at least to have it <abbr expan="Shipped">Ship'd</abbr> Seperately and be under the <lb/>Liberty of consining it to who I please but I talk of these things <lb/>under a great deal of ignorance</p>
+
+<p>You are certainly in the right that all the grants tht: <lb/>have been <abbr expan="passed">pass'd</abbr> by any of the proprietors Agents one third of all <lb/>Copper and Iron <sic corr="Ore">Oar</sic> are excepted so that you have as much reason <lb/>to Expect a demand for the Iron <sic corr="Ore">Oar</sic> which you are Carrying <lb/>away daily as for the Other but I have given you no troubles <lb/>hitherto and would be thought rather an <sic corr="encourager">incourager</sic> of these <lb/>good works than an Obstacle to them</p>
+
+<p>Your Scond proposal has really a great deal of <lb/>te<corr resp="editor">[m]</corr>ptation in it the <sic corr="Ore">Oar</sic> is just by one of my <abbr expan="quarters">qrs:</abbr> and I flatter <lb/>my Self the vein continues into my Land and there is no doubt <lb/>my conveniences are so large that I might make a Considera=<lb/>ble Advantage by delivering your <sic corr="Ore">Oar</sic> at the Landing could <lb/>I be well and faithfully <abbr expan="served">serv'd</abbr> but this must be a work of time <lb/>not less than thirty for <sic corr="forty">fourty</sic> good Horses would be wanting prop=<lb/>er Carriages will be very Chargeable and hard to be got I believe <lb/>yours Come out of England and then proper drivers I doubt <lb/>will be harder to get that will be <sic corr="faithful">faithfull</sic> and diligent 
+
+<pb n="3"/><lb/><lb/>
+Withers is an Industrious fellow and on the Spot sees <lb/>his creatures fed and every thing under his eye its very <lb/>difficult for me at this Distance to get my plantations <sic corr="tol=">toll=</sic><lb/>erably managed, I may say too truly but poorly This is all <lb/>I shall say to you at present Upon these Affairs perhaps you <lb/>and I may at some place or other meet together when we <lb/>may be <add place="supralinear">better <del>[illegible]</del> prepared</add> to talk these matters over to a greater length I hope <lb/>as Soon as you can you will send me your returns of your militia <lb/>Officers I am </p>
+
+<closer>Sir <lb/>your most humble Servt: &amp;ca:</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. </note>
+
+<note>The name of Carter's home, "Corotoman," the county, and colony have been added for clarity to this unheaded draft.</note>
+
+<note id="n1">[1] John Tayloe (1687-1747) of Mt. Airy, Richmond County, who served as justice, burgess, colonel of militia, and as a member of the Council after 1732. (<cit><bibl n="B31">Ryland. <title>Richmond County Virginia. . . . </title> pp. 115-16.</bibl></cit>)</note>
+
+<note id="n2">[2] There had been interest in mining in Virginia for a long time, and Alexander Spotswood was the leader in developing this industry. He had imported German miners and founded Germanna in 1714, and remained active in the work. Carter and his sons were digging copper, and Edward Athawes reported to Charles Carter on 1728 October 30 that he had had ore tested by Peter Shaw whose report he enclosed; "I have assayed the matter you left me and find it to be copper ore, somewhat stubborn in the fire and not very rich, as affording but an eighth. The mettel seems to be exceeding soft and ductile the best properties copper can have. . . . I believe much poorer ore has been worked to advantage." (<cit><bibl>The Athawes letter is in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia.</bibl></cit> <hi rend="italics">See also </hi> <cit><bibl>Elizabeth Chapman Denny Vann and Margaret Collins Denny Vann, <title>Virginia's First German Colony.</title>[Richmond: 1961]</bibl></cit> and <cit><bibl n="B21">Dodson. <title>Alexander Spotswood.</title></bibl></cit>)
+</note>
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C20k08c">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Micajah Perry Senior and Junior, November 8, 1720</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 8 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">filename</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Micajah Perry Senior and Junior, November 8, 1720</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date>1940</date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1720-11-08</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C20k08cT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1720-11-08"></date>
+<idno rend="suppress">C20k08c.xml</idno>
+<title>Letter from Robert Carter to Micajah Perry Senior and Junior, November 8, 1720</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchants Micajah Perry Senior and Junior, November 8, 1720, sending them information about the recent session of the Assembly from which he has just returned, noting that there were disagreements, but "both partys seem to incline to the Govrs. Measures as farr as will be Consistent with the Countrys ability." He turns to Edmund Jenings who has made promises, and Carter states that "If he will not I'll endeavour to make him when I am full Impowerd." He adds that there are rumors that Jenings is to be Secretary [of the colony] but that his commission has not been produced. He comments bitterly "he will be a mighty fortunate man If nobody Else is to come in for a place of Profitt while he lives." In a post script, he requests that the enclosed papers be forwarded to "Col Blackestone." </p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to Micajah Perry Senior and Junior, November 8, 1720</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1720-11-08">Novr. 8 1720</date><lb/>
+Micj. Perry<lb/>Senr. &amp; Junr.<lb/>
+</dateline>
+
+</opener>
+
+<p>I am <note target="n1">Just gott home</note> &amp; have <abbr expan="this">ths.</abbr>
+ <lb/>opportunity to send You Copys of the first steps <lb/>of our Assembly. The <abbr expan="burgesses">Burgs.</abbr> are full of quarrels <lb/>among themselves both partys seem to incline <lb/>to the <abbr expan="governors">Govrs.</abbr> Measures as farr as will <lb/>be Consistent with the Countrys ability how their <lb/>Jarrs will Issue must be left to time I <lb/>hope for the best&mdash;</p>
+
+<p><note n="EJ">Collo. Jennings</note> promises to be <unclear>[ . . . ]</unclear> for <lb/>If he will not I'll endeavour to make <lb/>him when I am full <abbr expan="empowered">Impowerd</abbr>, Im told <lb/>he took measures by his Son to pay off his <lb/>arrears, of which I shall be glad to hear <lb/><sic corr="It is">Tis</sic> said he is appointed Secretary Pro Tempore <lb/>his Commission hath not bin <abbr expan="produced">produc'd</abbr>
+ to us 
+
+<pb n="2"/><lb/><lb/>
+Yett Some Secrett bargains are talked <lb/>of that I shall not care to mention <sic corr="until">till</sic> I <lb/>know better he will be a mighty fortunate <lb/>man If nobody Else is to come in for a place <lb/>of Profitt while he lives <sic corr="You are">Yor.</sic> acquainted <lb/>with his great Merrit as well as any body <lb/>but there I leave him at present hoping some <lb/>other person may be able to come in for a Share in <lb/>the favour of the Crown as well as he, I am </p>
+
+<closer>Gent <lb/>Yor. most humb. Servt.<lb/><lb/><seg type="postscript">Please to give my <lb/>most obedient service <lb/>to Col Blackestone to <lb/>whom I expect you will <lb/>communicate the Enclosed <lb/>papers, which I believe <lb/>will <unclear>[ . . . ]</unclear> arrive to Yor. Shore.</seg></closer>
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+<note><hi rend="italics">Source copy consulted:</hi>  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. Printed: <cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> pp. 58-59.</bibl></cit>
+</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note><lb/>
+
+<note id="n1">[1] Carter had attended meetings of the Council on November 2-5, but apparently had left for home on Saturday, November 6, because he was not present for the meetings the following week. (<cit><bibl>H. R. McIlwaine. <title>Legislative Journals of the Council of Colonial Virginia.</title> [Richmond:  Virginia State Library, 1938-39]. II, 637-640.)</bibl></cit></note>
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

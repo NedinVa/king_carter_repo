@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C31k15a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Edward Athawes, November 16, 1731</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 11 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C31k15a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2006</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Edward Athawes, November 16, 1731</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1731-11-15</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C31k15aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1731-11-15"></date>
+<idno rend="suppress">C31k15a.xml</idno>
+<title>Letter from Robert Carter to Edward Athawes, November 16, 1731</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant Edward Athawes, November 16, 1731, to summarize the discouraging position that the principals of the Frying Pan mining company find themselves in because the rich vein of ore has run out and there are no new signs. Their miners have proposed sinking new shafts at other places, but they have been made to sink the present shaft deeper. He wonders if the merchant can find some Swedish copper miners.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to Edward Athawes, November 16, 1731</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1731-11-15">Novr. 15. 1731</date><lb/>
+Mr. Edward Athawes<lb/>
+</dateline>
+<salute>Sir.</salute>
+
+</opener>
+
+
+
+<p>My last to you was by Your <sic corr="Brig">Brigg</sic> <abbr expan="Captain">Capt</abbr> Belcher<lb/>
+by whom I sent you 16 Barrels of <note target="n1">Copper ore</note> which we had a great<lb/>
+deal of reason to <sic corr="believe">beleive</sic> would prove very Valuable I then told you our<lb/>
+vein was quite gone out All Our attempts since have been to no purpose<lb/>
+and our Expectations now are at an absolute Stand we drive<lb/>
+deeper into the Earth and carry our drifts to all points of the Compass<lb/>
+without the appearance of the least Vein of Ore and our miners<lb/>
+are at an <sic corr="entire">intire</sic> Loss how to proceed thus the great hopes taken up on<lb/>
+our little success are altogether <sic corr="Vanished">Vanisht</sic> and what to do next is the<lb/>
+puzzle I have already said a great deal to you of the Villany of<lb/>
+these miners their idleness and their unruelyness. In some Conversa&mdash;<lb/>
+tion I have been in I have been <abbr expan="advised">advis'd</abbr> that the best men to be <abbr expan="employed">imploy'd</abbr><lb/>
+in such an Affair are from <sic corr="Sweden">Sweedland</sic> who <abbr expan="it is">'tis</abbr> said have the greatest<lb/>
+experience in Copper works of any people in the World and that the<lb/>
+Miners there work for very low Wages and in their natures are of a<lb/>
+more ductile <sic corr="malleable">malliable</sic> temper than our Cornish men or any other<lb/>
+English miners but whether you may be able to procure us a <sic corr="Swede">Sweed</sic> or two<lb/>
+properly <abbr expan="qualified">qualify'd</abbr> for this Work that will be willing to leave their<lb/>
+own <sic corr="Countries">Countrys</sic> and transport themselves into such a remote part of the<lb/>
+World upon such a design for such low Wages as we are able to give upon<lb/>
+the Small appearance we have of Success may be a great question I<lb/>
+know you will do every thing in your power to serve us in this design</p>
+
+<p>One year of our Miners time from our Contracts with them is alre<lb/>
+ady run out and the discouragements they meet with it is very<lb/>
+much to be <abbr expan="feared">fear'd</abbr> will pall their endeavours and make them continue<lb/>
+all the ways they can to idle away their time and get their wages of us 
+
+<pb n="2"/><lb/><lb/>
+for nothing and the Consequence must be when their time is out<lb/>
+to break up our undertaking unless we can get other men of skill<lb/>
+to persist in the discovery What I want to be <abbr expan="satisfied">satisfy'd</abbr> in is whether<lb/>
+in any of the English mines where such fair hopes of Ore has app=<lb/>
+eard they fail to meet with a body of Ore in some parts<lb/>
+of the bowels of the Earth adjacent and are <abbr expan="forced">forc'd</abbr> to give up their undertakings<lb/>
+Our Miners are <sic corr="persuading">perswading</sic> us to make new Shafts <add place="supralinear">some distance</add> from the works<lb/>
+already made some are for trying in one place &amp; some another no two<lb/>
+of them agree in the same Opinion some are for the Northward some<lb/>
+for the Southward &amp; indeed for all Points of the Compass but we<lb/>
+continue resolute hitherto in sinking deeper into the earth in those<lb/>
+Shafts where the veins of the rich Ore were met with the Water<lb/>
+Annoys us Very much which the miners do not at all like this<lb/>
+winter wether. I hear the Bristol Works are at the same stand &amp;<lb/>
+Under the same discouragements <add place="supralinear">as we</add> are thus You have this affair<lb/>
+in the best light I can set it</p>
+
+<p>	Now by the <note target="n2">Thistle</note> I send you 11 Barrels of Ore which<lb/>
+by our Assays we hope will prove valuable enough to encourage the<lb/>
+Shipping of it I am for self &amp; Company 
+</p>
+
+<closer><abbr expan="Your">Yr. </abbr>most humble Servant</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia. There is a 19th-century transcript of the letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1]  In 1728, Carter, his sons Robert and Charles, and his son-in-law Mann Page,  organized a company to mine for copper on a tract of some 27,000 acres that Louis Morton describes as lying "near the present boundary of Fairfax and Loudoun counties." Fairfax Harrison wrote that the tract was "on the  Horsepen of Broad." Today, there is a Frying Pan Park just east of the border of the Dulles Airport reservation, and there are other things with the name in the area. The company was not successful. (<cit><bibl n="B32">Morton. <title>Robert Robert Carter of Nomini Hall.</title> pp. 18-19;</bibl></cit> and <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> p. 342. </bibl></cit>)</note>
+
+
+<note id="n2">[2] The <hi rend="italics">Thistle</hi> was a London ship commanded by a Captain Reid and owned by merchant James Buchanan. (See <cit><bibl>Carter to Edward Athawes, 1731 September 10, and Carter to James Buchanan, 1731 November 19.</bibl></cit>)</note>
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

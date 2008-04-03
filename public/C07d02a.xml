@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C07d02a">
+
+
+<teiHeader type="aacr2">             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Thomas Corbin, April 2, 1707</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 7 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">filename</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Thomas Corbin, April 2, 1707</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date>unpublished</date>
+   <idno type="callNo">Source copy consulted:  Christ Church Parish, Lancaster County, Processioners' Returns, 1711-1783, and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond, p. 176.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1707-04-02</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C07d02aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 pp.</extent>
+<date value="1707-04-02">April 2, 1707</date>
+<idno rend="suppress">C07d02a</idno>
+<title>Letter from Robert Carter to Thomas Corbin, April 2, 1707</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant Thomas Corbin, April 2, 1707, that the executors of Ralph Wormeley, of which he is one, have drawn a bill of exchange on Corbin to his cousin, Chicheley Corbin Thacker, which will not be sent before the next fleet. He gloomily writes further that Virginia has learned of the disasters that overtook the last fleet with many ships lost and some taken; he has suffered greatly. Because they have not heard bad news of the ships commanded by Burford and Graves, they hope the ships escaped. In a postscript, he notes that Wormeley's sons are expected by the next fleet but they do not expect that fleet before fall.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="TC">Thomas Corbin,</note> April 2, 1707</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1707-04-02">Ap: 2d: 1707</date><lb/>
+[Mr. Thomas Cor]bin<lb/>
+</dateline>
+</opener>
+
+<p>My last to you was of the 6th of Febry:, The Excrs. of Esqr Wormely <lb/><add  resp="editor">[hav]</add>e since drawn on you for &pound;19.6.7 payable to yor Cozen <note target="n1">Chisley <lb/>[Tha]cker</note> he will not Send the Bills till next fleet however think it <lb/><add  resp="editor">[not]</add> amiss to give you this early advice of them.</p> 
+ 
+<p>We have now by some Whitehaven Ships the dismal Story of the <lb/>Rueful condition of our last fleet, above 30 of them lost some foundred &amp; <lb/>some taken <note target="n2">Ellis</note> being one of the former in whom I Suffered Greatly <lb/>they give us hopes of <note target="n3">Graves</note> &amp; <note n="JB2">Burford</note> I cannot hear anything <lb/>particularly of the rest of our Rappa. Ships I Suppose yor. Brother now <lb/>writes particularly to you I therefore conclude Sr<lb/><lb/>
+ 
+ Yor affectionate Countryman <lb/>&amp; humble Servant<lb/><lb/> 
+
+<seg type="postscript">We all expect the young Wormeleys <lb/>in the next fleet, wch we begin to <lb/><add resp="editor">[think]</add> will hardly be wth us till next fall.</seg> </p> 
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+<note><hi rend="italics">Source copy consulted:</hi>  Christ Church Parish, Lancaster County, Processioners' Returns, 1711-1783, and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond, p. 176.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note><lb/>
+
+
+<note id="n1">[1] Chicheley Corbin Thacker was a long-term clerk in the office of the Secretary of State of the colony, and also was clerk to the General Court. </note> 
+ 
+<note id="n2">[2] Probably Edward Ellis, captain of the <name type="ship">Gloster</name>.</note> 
+
+<note id="n3">[3] A vessel named the <hi rend="italics">Carter</hi> traded to Virginia for many years; she is most often referred to as the <hi rend="italics">Carter Frigatt</hi>. The captain in 1706 was Thomas Graves who is mentioned in the Lancaster County Court Orders Book for judgements against him obtained by RC. Later, the <hi rend="italics">Carter</hi> would be commanded by Baily Kent, 1718-1721, Thomas Dove, and by Benjamin Graves. She was owned by RC and William Dawkins in 1720. (<cit><bibl>Survey report 6800 for Adm. 68/194-5, Virginia Colonial Records Project, Albert H. Small Special Collections Library, University of Virginia</bibl></cit>; and Lancaster County Court Orders Book 5, 1702-13, p. 187, as abstracted in <cit><bibl n="B28">Jones, <title>Orders Book Entries . . . Referring to "Robert Carter. . . . " </title></bibl></cit> )</note>
+ 
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

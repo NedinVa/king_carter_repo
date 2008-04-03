@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2  SYSTEM  'teixlite.dtd' [ 
+<!NOTATION jpg  SYSTEM  "jpeg"> 
+<!ENTITY filename  SYSTEM  "filename.jpg" NDATA jpg> 
+<!ENTITY % ISOlat1 SYSTEM  "ISOlat1.pen"> %ISOlat1; 
+<!ENTITY % ISOlat2 SYSTEM  "ISOlat2.pen"> %ISOlat2; 
+<!ENTITY % ISOnum SYSTEM  "ISOnum.pen"> %ISOnum; 
+<!ENTITY % ISOpub SYSTEM  "ISOpub.pen"> %ISOpub; 
+<!ENTITY % ISOtech SYSTEM  "ISOtech.pen"> %ISOtech; 
+]> 
+ 
+<TEI.2 id="C03g22a"> 
+<teiHeader type="aacr2"> 
+              
+<fileDesc> 
+<titleStmt> 
+     <title type="245">Letter from Robert Carter to Thomas, Lord Fairfax, 1703 July 22</title> 
+   <title type="gmd">[electronic resource]</title> 
+     <author>Carter, Robert</author> 
+   <respStmt> 
+     <resp>Creation of machine-readable version: </resp> 
+     <name id="editor">Edmund Berkeley, Jr.</name> 
+     <resp>Conversion to TEI.2-conformant markup</resp> 
+     <name>Edmund Berkeley, Jr., and the University of Virginia Library Electronic Text Center</name> 
+   </respStmt> 
+</titleStmt> 
+ 
+<extent>ca. 5 kilobytes </extent> 
+ 
+<publicationStmt> 
+     <publisher>University of Virginia Library.</publisher> 
+     <pubPlace>Charlottesville, Va.</pubPlace> 
+     <idno type="ETC"></idno> 
+     <availability> 
+     <p>Publicly accessible</p> 
+     <p n="public">URL: http://etext.lib.virginia.edu/modeng.browse.html</p> 
+         </availability> 
+     <date>2001</date> 
+</publicationStmt> 
+ 
+<sourceDesc> 
+     <biblFull> 
+     <titleStmt> 
+     <title>Letter from Robert Carter to Thomas, Lord Fairfax, 1703 July 22</title> 
+    
+
+     <author>Robert Carter</author> </titleStmt>
+
+    <extent>2 p.</extent> 
+<publicationStmt> 
+     <date>1703-07-22</date> 
+   <idno type="callNo"> Source copy consulted: British Library, London. Additional Manuscripts 
+30316, ff. 1, found in the microfilmsof the Virginia Colonial Records Project, Special Collections 
+Department, University of Vrginia Library. This a recipient's copy signed by Robert Carter, marked in the 
+margin, "Copy." </idno>
+</publicationStmt> 
+</biblFull> 
+</sourceDesc> 
+ 
+</fileDesc> 
+     <encodingDesc> 
+     <projectDesc> 
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p> 
+     </projectDesc> 
+<editorialDecl> 
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in establishing 
+analytical groupings.</p> 
+</editorialDecl> 
+ 
+<classDecl> 
+     <taxonomy id="LCSH"> 
+     <bibl> 
+     <title>Library of Congress Subject Headings</title> 
+     </bibl> 
+     </taxonomy> 
+</classDecl> 
+</encodingDesc> 
+ 
+<profileDesc> 
+     <creation> 
+     <date>1703-07-22</date> 
+     </creation> 
+     <langUsage> 
+     <language id="eng"></language> 
+     </langUsage> 
+     <textClass> 
+     <keywords> 
+     <term>non-fiction</term> 
+   <term>prose</term> 
+     </keywords> 
+     <keywords scheme="LCSH"> 
+     <term type="Field650">LCSH</term> 
+     </keywords> 
+     </textClass> 
+</profileDesc> 
+ 
+</teiHeader> 
+ 
+<text id="C03g22aT">
+
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>LS</abbr>
+<extent>2 pp.</extent>
+<date value="1703-07-22">July 22, 1703</date>
+<idno rend="suppress">C03g22a</idno>
+<title>Letter from Robert Carter to Thomas, Lord Fairfax, 1703 July 22</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Thomas, Lord Fairfax, concerning the Northern Neck Proprietary which Fairfax would inherit on the death of his mother in 1719. Carter reports that he has been prevented from sending rents rolls and accounts, but will send them soon. Carter states that he is sure that Micajah Perry has reported to Fairfax Carter's opinions about the business of the Proprietary which he believes can best be advanced by someone like himself with connections in the government of the colony.</p>
+</div1>                 
+</front>
+
+
+
+
+<body> 
+ 
+<div1 type="letter" n="1703-07-22"> 
+<head>Letter from Robert Carter to <note n="TF">Thomas, Lord Fairfax,</note> <lb/>July 22, 1703</head> 
+ 
+<opener> 
+ <pb n="1"/>
+<dateline> 
+Rappaha[nnock, Lancaster County, Virginia]<lb/> 
+ 
+<date value="1703-07-22">July 22, 1703</date> 
+</dateline> 
+                                              
+<salute>Right Honble.</salute> 
+ 
+</opener> 
+ 
+<p>As often as Opportunity hath <lb/>presented, have given an Accot. to <note n="MP">Mr. 
+Perry</note> of the <lb/>Progress I have made in your Affairs, I have <lb/>by this Fleet sent him Bills of 
+Exchange for your <lb/>Account Amounting to &pound;191:19:11 I Once hoped to <lb/>be Ready by this 
+Time to have sent your LdShipp <lb/>both the Rent Rolls &amp; Stated Accounts of my <lb/>Receivings, 
+but One of the Collectrs: hath faild in <lb/>his Time of Accounting, by the next Oppertunity <lb/>Shall 
+give you that Satisfaction,</p> 
+ 
+<p>Mr. Perry <lb/>I Doubt not hath Comunicated to yor. Ld.Shipp <lb/>my Thoughts of your Business, I 
+shall be very <lb/>glad if I may be Able to bring things to a full <lb/>settlement, Which if your LdShipp 
+Concede to my <lb/>Proposalls I Believe may in Time be <lb/>effected, <note target="n1">Major. Fitz- 
+Hugh</note> now one of the greatest Sticklers <lb/>in the <sic corr="proprietary"><note 
+target="n2">propriety</note></sic>; and hath Influenced a great many <lb/>more to yor. Prejudice, I 
+Cannot Tell whether he <lb/>hath any secrett Incouragers; I find by Experience <lb/>tis Absolutely 
+necessary for the Vigorous carrying  
+ 
+<pb n="2"/> 
+on <sic corr="of">of the</sic> Your Affairs to have the Countenance of <lb/>the Government, Which `tis 
+my Fortune at this <lb/>Time to have a very small share of, I shall <lb/>Returne some more Bills of 
+Exchange for yor. <lb/>Ld.Shipps Account, Perhapps between a hundr. <lb/>&amp; Two hundred pounds, 
+I am wth. great Respect</p> 
+ 
+<closer>Your LdShipps most humble <lb/>Servant <lb/><lb/> 
+<signed>ROBERT CARTER</signed>
+</closer> 
+ 
+</div1> 
+</body> 
+ 
+<back> 
+<div1 type="notes"> 
+<head>NOTES</head> 
+ <note><hi rend="italics">Source copy consulted:</hi> British Library, London. Additional Manuscripts 30316, ff. 1, found in the microfilms of the Virginia Colonial Records Project, Albert H. Small Special Collections Library, University of Virginia. This a recipient's copy signed by Robert Carter, marked in the margin, "Copy." </note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note>
+
+<note id="n1">[1] William Fitzhugh (1651-1701) preceded Carter as agent for the Proprietors. See <bibl n="B5">Davis,  <title>William Fitzhugh. . . . </title>pp. 39-42, and other references in the index.</bibl></note> 
+ 
+<note id="n2">[2] See the discussion of Robert Carter's admininstering of the Northern Neck Proprietary linked from the home page screen.</note> 
+
+ 
+</div1> 
+</back> 
+</text> 
+ 
+
+</TEI.2>

@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C23h01a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to William Dawkins, August 1, 1723</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca.11  kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C23h01a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2002</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to William Dawkins, August 1, 1723</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia. Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1723-08-01</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C23h01aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1723-08-01"></date>
+<idno rend="suppress">C23h01a.xml</idno>
+<title>Letter from Robert Carter to William Dawkins, August 1, 1723</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant William Dawkins, August 1, 1723, to inform the merchant that he has received his packets by Captain Hopkins. He issues orders that his sons Robert and Charles, then in England at school, be returned to the colony so as to arrive by April if possible. The new act of Parliament (that will prohibit the importion of stemmed tobacco into England) will greatly affect his operations as he does not have servants who know how to pack leaf tobacco for shipment. He also believes that the Scots merchants will enter the sweet scented tobacco trade which they have avoided heretofore. His letter closes with comments on what he and other planters will need to do in the months before the act goes into effect.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="WD">William Dawkins,</note> August 1, 1723</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1723-08-01">Augst. 1st. 1723</date><lb/>
+Dawkins<lb/>Mr. Wm. Dawkins&mdash;&mdash;<lb/>
+</dateline>
+
+
+</opener>
+
+<p>Since the Sealing <del>the Sealing</del> up of my <lb/>Lettrs. Your <sic corr="packets">Packetts</sic> by <note target="n1">Hopkins</note> are come to hand, You may <lb/>believe they bring a great deal of Mortification with them <lb/>but afflictions make wise, I Shall Endeavour to make that use <lb/>of them,&mdash; I shall only Observe that whenever Mr. Levitt <lb/>buys, tis at an Underrate,</p>
+  
+<p>My Sons Expences I shall not complan of, but <lb/>You must be <sic corr="sensible">Sencible</sic> that the Prices we are brot, to will but <lb/>Very Illy keep pace with these things, however I shall <lb/>not be long under them, My <sic corr="positive">Possitive</sic> <abbr expan="ordcers">ordrs.</abbr> are That my Sons <lb/><note target="n2">Robin</note> and <note target="n3">Charles,</note> be Sent in to me According to the <lb/>Limitations I have <sic corr="set">Sett</sic> them, That is Robin to come <lb/>Away with the first Ships &amp; Charles with one of the <sic corr="later">Latter</sic> <lb/>part of the Fleet unless he has a mind to come away wth. 
+
+<pb n="2"/><lb/><lb/>
+his Brother, <note target="n4"><abbr expan="Captain">Capt.</abbr> Richardson</note> is <abbr expan="generally">genly.</abbr> a lag Ship <add resp="editor">[and will ?]</add> <lb/>be as well <sic corr="pleased">pleasd</sic> to have Charles come with  him <add resp="editor">[as]</add> <lb/>any person but In Some Ship to be here about Apr<add resp="editor">[il next?]</add> <lb/>Sure I will have him Sent, if You will be guided by <lb/>My Orders,</p>
+ 
+<p>It is to no purpose  to complain of the Act of Pa<add resp="editor">[rl]</add><lb/>=iament tis a very great Shock to me, I have hardly a <lb/>Servt. that knows how neatly to <add place="supralinear">pack</add> a hhd of Leaf Tobo., My <lb/>Crops have bin wholly <sic corr="stemmed">Stemd</sic> for these thirty Years &amp; <lb/>More, The Encreasing of the Kings Revenue by It I be=<lb/>=lieve wll be found to be a Great Mistake, I Apprehend <lb/>a New Door of Fraud will be now open for the Scotch they <lb/>will drive furiously into the Sweat <sic corr="scented">Sented</sic> Trade which <lb/>they were pretty much kept from by the <sic corr="stemming">Steming</sic> Tobo. <lb/>A Commodity they did not care to be <sic corr="concerned">concernd</sic> in, Cer=<lb/>=tainly these things will  never hold long, nor will the <lb/><abbr expan="English merchants">Eng. Merchts. </abbr> <sic corr="sit">Sett</sic> down Contented, &amp; Suffer the  Whole <lb/>Trade to be Wrested out of their hands, Our Way must <lb/>be while we are under <sic corr="this">ths.</sic> prohibition, to heave away <lb/>as much as our Stems amounted to, which I believe <lb/>Will be found to bring us pretty near a Par in Respect <lb/>to the Quantity.</p>
+
+<p>You Encourage the getting home as much <sic corr="stemmed">Stemd</sic> <lb/>Tobo. as Is possible before the Act takes place, and that the <lb/>Smoakers when they know they are to have no more <lb/>will be fond of it, My thinks <del>tat</del> this very Consideration <lb/>Should raise the Price of that, thats now <abbr expan="gone">gon.</abbr>  Should we <lb/>Stem the forwardest of our Crops, &amp; no Ships  come Early <lb/>Enough to return in time, or any Accident happen to <lb/>delay them,  all will be lost, but we Shall better know <lb/>how to govern ourselves, by the  Measures You take wth. <lb/>Your Shipping, I remember the time when I have had <lb/>All my Crop Floating in <abbr expan="November,">Novr.,</abbr> and we planted very for=<lb/>=ward this Year and Shall house betimes, I shall leave <lb/>the rest to Your Consideration, <abbr expan="Captain">Capt.</abbr> Richardson will <lb/>best Inform You of the Damages we have sustaind in <lb/>Our Crops, by a pretty smart Storme not many days <lb/>ago, I am&mdash; </p>
+
+<closer>Yor. very humble Servt</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1723 June 16-1724 April 23, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia. There is a nineteenth-century transcript of this letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia. </note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1] Captain James Hopkins would be in command of the <hi rend="italics">Mary</hi> in 1727-1728. He was then working for London merchant Robert Cary. He is mentioned in Carter's diary. (<cit><bibl>Adm. 68/194, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n2">[2] Robert Carter (1704-1732) was Carter's seventh child by his
+second wife, Elizabeth Landon (Willis) Carter. Robert was sent to England to school in 1718; see Carter's letter to William Dawkins, July 9, 1718. Robert married Priscilla Churchill in 1725 and had two children, one of whom, Robert Carter III, would be known as "Councillor" Carter of "Nomini Hall." Robert Carter II died a few months before his father. (<cit><bibl n="B32">Morton. <title>Robert Robert Carter of Nomini Hall.</title></bibl></cit></note>
+
+<note id="n3">[3] Charles Carter (1707-1764), Robert Carter's tenth child with his second wife, Elizabeth (Landon) Willis Carter. He would live at "Cleve," King George County, and inherit a number of properties in that area from his father.</note>
+
+<note id="n4">[4] Captain [James?] Richardson commanded the <hi rend="italics">Sarah</hi> and was based in Weymouth.</note>
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

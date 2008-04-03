@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C18a27a">
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Robert Carter's Copy of an Account kept by Edmund Jenings of his payments to Lady Fairfax,1716-1718</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+          <resp>Conversion to TEI.2-conformant markup</resp>
+     <resp>Change of handwriting: </resp>
+     <name id="hand">Robert Carter</name>
+     <name>Edmund Berkeley, Jr., and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 7 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C18a27a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/modeng.browse.html</p>
+         </availability>
+     <date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Robert Carter's Copy of an Account kept by Edmund Jenings of his payments to Lady Fairfax,
+1716-1718</title>
+   
+     <title level="u"></title>
+     <author>Robert Carter</author></titleStmt>
+
+    <extent> 1 p.</extent>
+<publicationStmt>
+     <date>1718-01-27</date>
+   <idno type="callNo"> Source copy consulted: BR 227, Fairfax Papers, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. </idno>
+</publicationStmt>
+</biblFull>                                  
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in establishing
+analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH">
+     <bibl>
+     <title>Library of Congress Subject Headings</title>
+     </bibl>
+     </taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation>
+     <date>1718-01-27</date>
+     </creation>
+     <langUsage>
+     <language id="eng"></language>
+     </langUsage>
+     <textClass>
+     <keywords>
+     <term>non-fiction</term>
+   <term>prose</term>
+     </keywords>
+     <keywords scheme="LCSH">
+     <term type="Field650">LCSH</term>
+     </keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C18a27aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AD</abbr>
+<extent>1 pp.</extent>
+<date value="1718-01-27">[Jabuary 27, 1718]</date>
+<idno rend="suppress">C18a27a</idno>
+<title>Robert Carter's Copy of an Account kept by Edmund Jenings of his payments to Lady Fairfax,
+1716-1718</title>
+</bibl>
+</head>
+<p>Robert Carter has had prepared a copy of an account of payments made by Edmund Jenings as proprietor's agent to Lady Fairfax in England.</p>
+</div1>                 
+</front>
+
+
+<body>
+
+<div1 type="document" n="1">
+
+<head>Robert Carter's Copy of an Account kept by <lb/><note n="EJ">Edmund Jenings</note> of his payments to <lb/>Lady Fairfax,
+1716-1718</head>
+
+<opener>
+
+<dateline>
+<pb n="1"/>
+<date value="1718-01-27">[January 27, 1718]</date>
+</dateline>
+                                             
+
+</opener>
+<p>
+<table rows="18" cols="4">
+<row><cell>1716.</cell><cell>*</cell><cell>*</cell><cell>*</cell></row>
+<row><cell>Oct. &mdash;</cell> <cell>29 &mdash; &mdash; </cell><cell>Paid my Lady Fairfax
+&mdash; </cell><cell>  2<add resp="editor">00:0:0</add></cell></row>
+<row><cell>Dec &mdash;</cell> <cell>6 &mdash; &mdash; </cell><cell>Paid Lady Fairfax bills to Geo.
+Curtis</cell><cell>100:0:0</cell></row>
+<row><cell>*</cell><cell>*</cell><cell>Ditto paid Wm. Dixon &mdash; &mdash;
+</cell><cell>100:0:0</cell></row>
+<row><cell>*</cell><cell>14 &mdash; &mdash; &mdash; </cell><cell>Ditto to Chas. Brown &mdash;
+&mdash; </cell><cell> 34:0:0</cell></row>
+<row><cell>Jan.</cell><cell>19 &mdash; &mdash; </cell><cell>Ditto to Lord Fairfax &mdash;
+&mdash; </cell><cell>100:0:0</cell></row>
+<row><cell>Feb.</cell><cell>7 &mdash; &mdash; </cell><cell>Ditto to Geo. Curtis &mdash; &mdash;
+</cell><cell>58:0:0</cell></row>
+<row><cell>*</cell><cell>14 &mdash; &mdash; </cell><cell>Ditto to Do. &mdash; &mdash; &mdash;
+&mdash;</cell><cell> 58:0:0</cell></row>
+<row><cell>Mar:</cell><cell>1st. &mdash; </cell><cell>Ditto to Jno. Grenall &mdash; &mdash;</cell>
+<cell>100:0:0</cell></row>
+<row><cell>*</cell><cell>11.&mdash; </cell><cell>Ditto to Walter Wray &mdash; &mdash;
+</cell><cell>50:0:0</cell></row>
+<row><cell>1717.</cell><cell>*</cell><cell>*</cell><cell>*</cell></row>
+<row><cell>May</cell><cell>27.</cell><cell>Paid the Lady Fairfax &mdash; &mdash;
+</cell><cell>100:0:0</cell></row>
+<row><cell>July</cell><cell>20 &mdash; </cell><cell>Paid ditto Ld Fairfax &mdash; &mdash;
+&mdash; </cell><cell>50:0:0</cell></row>
+<row><cell>Oct.</cell><cell>14 &mdash; </cell><cell>Pd. Lady Fairfax &mdash; &mdash;
+</cell><cell>100:0:0</cell></row>
+<row><cell>Novr.</cell><cell>16 &mdash; </cell><cell>Lady Fairfax Exche. To Tho.
+Allen..</cell><cell>100:0:0</cell></row>
+<row><cell>December</cell><cell>10 &mdash; </cell><cell>Ditto George Curtis &mdash;
+</cell><cell>100:0:0</cell></row>
+<row><cell>December</cell><cell>23 &mdash; </cell><cell>Ditto to Ditto &mdash; &mdash;
+</cell><cell>100:0:0</cell></row>
+<row><cell>Janr.</cell><cell>27 &mdash; </cell><cell>Ditto to Plaisted &mdash;
+</cell><cell>17:13:0</cell></row>
+
+</table><lb/><lb/>
+
+<add resp="hand">A true Copy of a Paper recd <sic corr="from">from<lb/>from</sic> Coll Jennings
+per<lb/><lb/>
+ROBERT CARTER</add></p>
+
+</div1>
+</body>
+
+<back>
+<div1 type="notes">
+<head>NOTES</head>
+
+<note><hi rend="italics">Source copy consulted: </hi>BR 227, Fairfax Papers,   Huntington Library, Art Collections, and Botanical Gardens, San Marino, California.</note>
+
+All cells in the table above containing an "*" are empty in the original. The asterisk was inserted to force all the lines of the cell to appear because browsers do not properly display empty cells. A slip has been pasted to the lower right corner of the document with the following in a later handwriting, "Attest. Only in | R. Carter's hand."
+
+
+</div1>
+</back>
+
+
+</text>
+
+
+</TEI.2>

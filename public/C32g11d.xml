@@ -1,0 +1,218 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C32g11d">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Alderman [Micajah] Perry, July 11, 1732</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 12 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C32g11d.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2006</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Alderman [Micajah] Perry, July 11, 1732</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>3 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1732-07-11</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C32g11dT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>3 p.</extent>
+<date value="1732-07-11"></date>
+<idno rend="suppress">C32g11d.xml</idno>
+<title>Letter from Robert Carter to Alderman [Micajah] Perry, July 11, 1732</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant Alderman [Micajah] Perry, July 11, 1732, reiterating  his  often expressed complaints about the low prices realized by his tobacco, and to ask that Perry consider giving him a discount because of the large amounts of cash Carter has had in his hands. He notes some problems with the Merchants Hundred account, and reports bills of exchange.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to Alderman <note n="MP2">[Micajah] Perry,</note> July 11, 1732</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1732-07-11">July 11. 1732</date><lb/>
+Alderman Perry &amp; Compa<lb/>
+</dateline>
+<salute>Gentlemen</salute>
+
+</opener>
+
+
+
+<p>The <name type="ship">Winchelsea</name> man of <sic corr="War">Warr</sic> <abbr expan="Captain">Capt.</abbr> Pearce <lb/>
+is lately <abbr expan="arrived">arriv'd</abbr> Your Sundry packets with several accots of sales <lb/>
+and Accounts Current both <note n="MP1"><abbr expan="Colonel">Colol</abbr> Pages</note> <note n="NB">Mr. Burwells</note> and my own <lb/>
+I have received how pleasing they are you may easily guess without <lb/>
+my entering into Complaints about them Miserable are our Circum <lb/>
+stances when the Labour of our People will not maintain us and our <lb/>
+familys in Respect to my own affairs I sent you in a former ship <lb/>
+A State of my Account in the best manner I could make it up <lb/>
+there are some heavy Articles fallen on Since that I was not them app: <lb/>
+<abbr expan="rized">riz'd</abbr> of I told you then that I was in hopes upon a review of my <lb/>
+business in some years past you would think it but reasonable to all= <lb/> 
+owe me the discount <del>of</del> <add place="supralinear">upon</add> my last years Consignment the Argument I 
+
+<pb n="2"/><lb/><lb/>
+went upon that having had in your hands for several Years Successively <lb/>
+a <sic corr="balance">ballance</sic> of between three and four thousand pounds without any or at <lb/>
+best but a small Advantage to me that it would be a <abbr expan="piece">ps</abbr> of Commutative <lb/>
+justice to let me have the benefit of a little of your money <sic corr="until">untill</sic> I could <lb/>
+recruit myself after that great <sic corr="draft">drafft</sic> upon my Cash that was made <lb/>
+to Consummate the purchase of <note n="LL">Lloyds Estate</note> and I will not Yet be out of <lb/>
+hopes but you will be so good <abbr expan="humoured">humour'd</abbr> to make this Reciprocal return <lb/>
+to me and I daresay you will not scruple <add place="supralinear">to think</add> your money as safe in my hands <lb/>
+as mine is in yours</p>
+
+<p>Respecting the <note n="MH"><abbr expan="Merchants">Merchts</abbr> Hundred</note> affair I cannot doubt <lb/>
+you will own yourself in an Error in not allowing the discount <lb/>
+on that tobacco If you will <sic corr="please">pleas</sic> to look back into your Account Currt of the <lb/>
+25 of March 1728 under the Nominal title of Carter Burwell which I <lb/>
+have already told you was a mistake and not According to my direction, <lb/>
+and which you have since set to rights you will find a <sic corr="balance">ballance</sic> then <lb/>
+due from you of &pound;41"2"2 in your accot of sales of 10 hogsheads in the year <lb/>
+1730 You give the full discounts but now in your account of the <del>[illegible]</del> <add place="supralinear">13</add> <abbr expan="hogsheads">hhds</abbr> <lb/>
+ sent you by the <name type="ship">micajah</name> in 1731 you allow only 15 <abbr expan="percent">perCt.</abbr> the accot of <lb/>
+sales is <abbr expan="signed">sign'd</abbr> by one James Johnston one of your clerks as I suppose who <sic corr="has">hath</sic> <lb/>
+committed this Error unknowingly to you and I am in hopes you will take <lb/>
+care to have Credit given <del>upon</del> <add place="supralinear">for</add> the prompt payment to this Estate the profits <lb/>
+whereof I never intend to apply any part of it to my own benefit but to the <lb/>
+<sic corr="Relief">Releif</sic> of <note n="ECB">Mrs. Burwell</note> alias Nicholas and after her decease to rest upon one <lb/>
+of Mr. Burwells sons Out of the profits making good only the mortalitys</p>
+
+<p>I shall now say a word in relation to <abbr expan="Colonel">Colol</abbr> Pages affairs The <sic corr="bal=">ball=</sic> <lb/>
+ance of your account is a very great sum and yet there is a necessity to make <lb/>
+our draft this year so many that the load will be Still encreased</p>
+
+<pb n="3"/><lb/><lb/>
+<p>The bills <note n="JC1">the Secretary</note> and I have already drawn upon you <lb/>
+are to <note n="JB1">Dr. Blair</note> for-----------&pound;120 which was for Cash to answer debts <lb/>
+		to <abbr expan="Colonel">Colo</abbr> <note n="JG2">John Grymes</note>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;19"-"4  for the quit rents of the Land<lb/>
+to <abbr expan="Major">Majo.</abbr> <note target="n1">Peter Whiting</note>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;34"5"7 1/2 
+&amp; <lb/>
+to <note n="JR">John Randolph</note> <abbr expan="Esquire">Esqr</abbr>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;232"2"2 in discharge of the debts and incident <lb/>
+incumberances on the Estate this last bill Mr. Randolph <sic corr="has">hath</sic> promised to wait for <lb/>
+<sic corr="until">till</sic> the Latter end of the year thus far we have already gone there is <note target="n2">Colonel Willis's</note> <lb/>
+claim and <note target="n3">Colonel <sic corr="Bassetts">Bassets</sic></note> for a part of his Wifes fortune that was paid into <lb/>
+Colonel Pages hands yet behind most of the Crops will be consigned to you <lb/>
+We entertain hopes we shall see better times for <abbr expan="tobacco">tobo</abbr></p>
+
+<p>I have drawn upon you the following bills upon the Accot of <lb/>
+Mr. Burwells Estate to colonel <add resp="editor"> [<hi rend="italics">sic</hi>]</add> John Grymes for &pound;14"-"2" &amp; to John Carter <abbr expan="Esquire">Esqr.</abbr> <lb/>
+&pound;18"10"- to John Randolph <abbr expan="Esquire">Esqr.</abbr> for &pound;25"5"- I am 
+
+</p>
+
+<closer>Gentlemen <lb/>
+Your most Humble Servant.
+<seg type="postscript"><lb/><lb/>via <name type="city"><sic corr="Liverpool">Leverpoole</sic></name> <note target="n4">Loxum</note></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1] Peter Whiting was a justice and sheriff in Gloucester County. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]: 119, 134, 173. </bibl></cit>)</note>
+
+<note id="n2">[2] This is probably Francis Willis (1690-<hi rend="italics">post</hi> 1749) of "'White Hall," Gloucester Co., VA. He was a member of the House of Burgesses in 1748. ("Willis Family Genealogy"  (http://homepages.rootsweb.com/~marshall/esmd73.htm as of 5/21/02; and <cit><bibl>"Willis Family." <title>William and Mary Quarterly.</title> 1st ser. 5(1896): 24-27, 171-176; 6(1897): 27-29, 206-214.)</bibl></cit>)</note>
+
+<note id="n3">[3] William Bassett (1671-1723) of Eltham, New Kent County was a member of the Assembly, militia officer, and member of t he Council. His first wife was Joanna Burwell, daughter of Lewis Burwell, which would have connected him to the Carter family and may explain Carter's reference. (<cit><bibl>"Featured Bassett: TheBassetts of Eltham, Virginia" in the Bassett Family Association Newsletter, May 2005. http://www.bassettbranches.org/newsletters/2005/20050515/20050515.shtml. 9/1/2006;</bibl></cit> and numerous references in <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]. </bibl></cit>)</note>
+
+
+<note id="n4">[4] Captain Loxom commanded  a vessel named the <hi rend="italics"> Loyalty</hi>in 1729-1730. (Survey Report 9727, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. See Carter's letters to John Pemberton 1730 April 15 and 1731 August 4.)</note>
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

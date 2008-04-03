@@ -1,0 +1,169 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C31f24b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Colonel Thomas Lee, June 24, 1731</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca.7  kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C31f24b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2005</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Colonel Thomas Lee, June 24, 1731</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1731-06-24</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C31f24bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1731-06-24"></date>
+<idno rend="suppress">C31f24b.xml</idno>
+<title>Letter from Robert Carter to Colonel Thomas Lee, June 24, 1731</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Colonel Thomas Lee of Westmoreland County, June 24, 1731, concerning a settlement of quit rents collections.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to Colonel <note target="n1">Thomas Lee,</note> June 24, 1731</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Coro<add resp="editor">[toman, Lancaster County, Virginia]</add></name><lb/>
+<date value="1731-06-24">June 24, 1731</date><lb/>
+Col. Thomas Lee<lb/>
+</dateline>
+<salute>Sir</salute>
+
+</opener>
+
+
+
+<p>It is an old proverb &amp; a very good one that often <lb/>
+reckoning makes long friends. The Accot. of <note target="n2">Quitrents</note> <add resp="editor"> [<hi rend="italics">sic</hi>]</add> for the land you <lb/>
+hold being under no right settlement According to my thoughts as yet,<lb/> 
+<del>[illegible]</del>I have thought fit herein to send you an Accot If I have Committed <lb/>
+any errors you will please to make <abbr expan="your">yr. </abbr> observations. Mr. Earl hath <abbr expan="accounted">Accotd</abbr> <lb/>
+to me for <abbr expan="your">yr. </abbr> lands in Westmoreland only He demanded of you rents <lb/>
+for King George lands, but you denied payment of them to him <lb/>
+as he tells me.</p>
+
+<pb n="2"/><lb/><lb/>
+<p>In this Account I have given credit for the three black Hogsheads <lb/>
+of tobacco James Carters Receiver took from <abbr expan="your">yr. </abbr> Overseer last year <lb/>
+the most <abbr expan="Abused">Abus'd</abbr> and despicable stuff that ever I saw in my life <lb/>
+but I must believe you <add place="supralinear">knew</add> nothing of this and that it <corr resp="editor">[was]</corr> wholly owing <lb/>
+to the Villany of the Overseer and the baseness of the <abbr expan="Receiver">Recr.</abbr> that would <lb/>
+take such tobacco
+</p>
+
+<p>You will please take a proper time to let me know how <lb/>
+you reckon this matter stands between us, in which you will oblige </p>
+
+<closer>Sir<lb/>
+<abbr expan="Your">Yr.</abbr> most humble Servant</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.There is a nineteenth-century copy of this letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia.</note>
+
+<note>The county and colony have been added for clarity to the heading on this draft.</note>
+
+<note id="n1">[1] Thomas Lee (1690-1750) of Westmoreland County was the son of Richard Lee II, and nephew of Edmund Jenings; he would build "Stratford," and succeed Carter on the Council. For a good article on Thomas Lee, see  that <A HREF="http://www.stratfordhall.org/thomas.html?RESEARCH"> by Jeanne A. Calhoun </A>on Stratford plantation's website. (<cit><bibl>Burton J. Hendrick. <title>The Lees of Virginia: Biography of a Family.</title> [Boston: Little Brown, 1935]. pp. 48, 51, etc.</bibl></cit>)</note>
+
+<note id="n2">[2] Quit rent was the term used for the payment due from the holder of land to the "lord of the manor," in this case, to the proprietors of the Northern Neck. Carter as the proprietor's agent, collected these payments. No services were required of the landholder as had been true in mediaeval times.</note>
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

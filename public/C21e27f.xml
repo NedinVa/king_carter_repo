@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+
+<!NOTATION xml SYSTEM "xml">   
+<!ENTITY C20g26a   SYSTEM "C20g26a"  NDATA xml>
+<!ENTITY C20g27a   SYSTEM "C20g27a"  NDATA xml>
+<!ENTITY C20i27c SYSTEM "C20i27c" NDATA xml> 
+
+
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C21e27f">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Micajah Perry, Senior, and Junior, May 27, 1721</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 9 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">filename</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Micajah Perry, Senior, and Junior, May 27, 1721</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date>1940</date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1721-05-27</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="T">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1721-05-27"></date>
+<idno rend="suppress">C21e27f</idno>
+<title>Letter from Robert Carter to Micajah Perry, Senior, and Junior, May 27, 1721</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant, Micajah Perry, Senior, and his grandson of the same name, May 27, 1721, complaining about the low sales of several hogsheads of tobacco, and stating that he expects his crops will be sold at as good prices as other gentlemen in the colony are receiving for large lots of tobacco. He hopes that a verbal message he recceived the day before about action in Parliament to remedy the effects of the South Sea Company scandals will prove to be true. Freight rates for ships in the York River have fallen to &pound;8 which he attributes to the merchants' custom of forcing planters to pay the freight. Captain Wharton maintains he won't accept below &pound;10 and Carter has sent aboard 90 hogsheads, transporting them to the ship in his own sloops; the ship has gone up the Rappahannock to Hobb's Hole. Slave sales are brisk at Tindall's Point, and Carter is relieved that he has not as yet had any bills protested for his work as agent for the sale of slaves imported on the <hi rend="italics">Mercury</hi>. There are about 40 ships presently in the Rappahannock and as many in other rivers. He tells the Perrys that they will learn about the threats to these ships from pirates from those reaching England. He looks forward to an account current they have promised.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="MP">Micajah Perry,</note> Senior, and <note n="MP2">Junior,</note> May 27, 1721</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1721-05-27">May the 27th. 1721</date><lb/>
+Messrs. Micajh. Perry<lb/>Senr. and Junr.<lb/>
+</dateline>
+<salute>Gent&mdash;</salute>
+
+</opener>
+
+<p>The last Lettr. I have from You bears date the 16th of <abbr expan="February">febr.</abbr> <lb/>It mentions only the Sale of four or five hogsheads more of my Tobo., in discourse with <lb/><note n="WB1"><abbr expan="Colonel">Collo.</abbr> Byrd</note>. <note n="HA">Mr. Armistead</note> and a great many others I understand You had <lb/>Sold Their <abbr expan="tobaccos">Tobos.</abbr> in round parcells and at good rates, I cannot allow my self to come <lb/>behind any of these Gent in the Planters Trade, by all the Lettrs. I have received <lb/>from You <add resp="editor">[I] </add>do not remember You mention of above seven or Eight hogsheads of <add place="supralinear">all</add> my <lb/>last years Tobo. sold, I will hope my reputation is not quite Sinking at Your <lb/>house, thank God I can boast of as high prices from other men and as much <lb/>Sold as any of them,</p>
+
+<p>	Last night a verbal message was sent me from York as a <abbr expan="piece">ps.</abbr>
+ of good <lb/>News. That the Parliament had put all the annuitants upon the Same foot <lb/>they were before the Act of Parliament that <abbr expan="passed">passd</abbr> in favour of the <note target="n2">South sea <lb/>Company,</note> That is as I understand It our claim is again upon the bank of England <lb/>I believe this comes from <note target="n1">Frank Willis,</note> Shall be glad to find he's not mistaken&mdash;<lb/>The York Masters two Days ago were <sic corr="forced">forst</sic> to Strike their freight to &pound;8, Capt. Turner <lb/>was at my house yesterday and told me the Storey with a great deal of regret <lb/>It Seems Your bringing up the custome of making us pay <sic corr="freight">freit</sic> for our goods <lb/>hath occasion'd this Stifness in the <abbr expan="gentlemen">Gent.</abbr> of the Country.</p>
+
+	<p>Wharton hath blusterd mightily he will not go under &pound;10 per Tun&mdash; <lb/>I have 90 hogsheads on board him which to give him life I carry to his Side in my <lb/>own Sloops, but there <sic corr="I will">Ile</sic> Stop till I see whether his Stomack will come <lb/>down, I believe if he hath <sic corr="got">gott</sic> fifty or Sixty hogsheads more in at this Day Tis <lb/>the most, for the rest, I reckon he may lye and cool his fingers, he is gon <lb/>up to <note target="n3">hobb's hole</note> with his Ship.&mdash; I have not one line yett concerning <lb/>the <note target="n4">Mercury's affairs</note> nor do I see one protest, I cannot Expect to Escape <lb/>So clear when they are to come I dont know, hope It will be timely enough <lb/>to gett them renewed by this fleet, much good may It do The <sic corr="Guinea">Ginnea</sic> <lb/>company's Agents with their business I would not Transact another <lb/>concern of that nature at this Day in the manner I did before for <lb/>&pound;15 perCt. The Choice of Negroes at <note target="n5">Tindell's Point</note> as fine Slaves <lb/>they tell me as ever was Seen have bin Sold at 16.17 &amp; 18 pound per head <lb/>the worser Sort a great deal Lower, We have forty odd Sail of Ships 
+
+<pb n="2"/><lb/><lb/>
+in <note target="n6">our river,</note> and there is <abbr expan="about">abt.</abbr> the same Number in York The other Rivers <lb/>are also full Its hard that Such a fleet Should be under no better guard <lb/>The Storey of The Pyrates threatning of us. You will have at large, for <lb/>other things I shall refer you to my former Lettrs.</p>
+
+	<p>Yor. last promisies me an accot. in a Short time I Suppose you <lb/>Mean an Acct. Currt. It will be very welcome if It proves to be a <lb/>pleasing one when It comes.</p>
+
+	<p>This salutes you by the way of <sic corr="Liverpool">Leverpool</sic> I am Gent 
+</p>
+
+<closer>Yor. most humble Servt.<lb/><lb/><seg type="postscript">Two <sic corr="Liverpool">Leverpool</sic> Ships in our river take a <sic corr="freight">freit</sic> for London</seg></closer>
+
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi>  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. Printed: <cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> pp. .</bibl></cit></note><lb/>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note><lb/>
+
+<note id="n1">[1] Francis Willis (d. <hi rend="italics">post</hi> 1749) of Ware Parish, Gloucester County, who served as burgess. (<cit><bibl>"Willis Family." <title>William and Mary Quarterly.</title> 1st ser. 5(1896): 24-27, 171-176; 6(1897): 27-29, 206-214.)</bibl></cit></note>
+
+<note id="n2">[2] Carter refers to the scandal of the value of the stock of the South Sea and other companies which wild speculation had driven enormously high in June 1720, and which was nearly worthless several months later. Many fortunes were made and lost. Perhaps the most succesful speculator was Sir Robert Walpole who made a fortune, retired, and then was called to save the nation as prime minister, a post he held from 1721 until 1742. (<cit><bibl>Goldwin Smith. <title>A History of England.</title> Chicago, etc.: Scribner's, 1949.  pp. 422-424.</bibl></cit>)</note>
+
+<note id="n3">[3] Hobb's Hole in Essex County is today called Tappahannock.</note>
+
+<note id="n4">[4] The year before Carter had acted as one of two agents for the sale of a cargo of slaves sent into the colony on the <hi rend="italics">Mercury</hi> by the slave traders Francis Chamberlayne and Francis Sitwell. See his letters to them of <xref doc="C20g26a">July 26</xref> and <xref doc="C20g27a">27,</xref> and <xref doc="C20i27c">September 27, 1720,</xref> and July 2, 1723. Carter was concerned that some of the bills of exchange that he had accepted might not be good (protested).</note>
+
+<note id="n5">[5] Tindall's Point, now known as Gloucester Point, is in Gloucester County on the York River.</note>
+
+<note id="n6">[6] The Rappahannock on which Carter lived.</note>
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C31h13a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to William Dawkins &amp; Company, August 13, 1731</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 7 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C31h13a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2006</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to William Dawkins &amp; Company, August 13, 1731</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1731-08-13</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C31h13aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1731-08-13"></date>
+<idno rend="suppress">C31h13a.xml</idno>
+<title>Letter from Robert Carter to William Dawkins &amp; Company, August 13, 1731</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchants William Dawkins &amp; Company, August 13, 1731, to enclose a bill of lading (not present) for a small shipment of tobacco, and to  order several books.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="WD">William Dawkins</note> &amp; Company, August 13, 1731</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1731-08-13">August 13, 1731</date><lb/>
+Mr. William Dawkins &amp; Com:<lb/>
+</dateline>
+<salute>Gentlemen</salute>
+
+</opener>
+
+
+
+<p>This by <abbr expan="Captain">Capt</abbr> Waff in the <name type="ship">Mary</name> incloses a <lb/>
+bill of lading for 6 hogsheads of tobacco 3 of them <abbr expan="stemmed">stemm'd</abbr> of my<lb/>
+crop one of them <abbr expan="tobacco">tobo</abbr> I <sic corr="fetched">fetcht</sic> from abroad and <abbr expan="stemmed">stemm'd</abbr> at home<lb/>
+the other two leaf tobacco from abroad I have already <sic corr="dispatched">dispatcht</sic><lb/>
+all my business to you</p>
+
+<p>At the house of a Friend of mine I had the<lb/>
+sight of some books that I would Willingly have the perusal of vizt<lb/>
+the <note target="n1">independent Whigg,</note> <note target="n2">the Spirit of the Ecclesiasticks of all<lb/>
+Sects and Ages,</note> by Monsieur Barbeyrac 
+
+<pb n="2"/><lb/><lb/>
+translated from the French with a preface by the Author of the<lb/>
+independent Whigg. The late <note target="n3">Earl of Shaftsburys letters</note> to the late<lb/>
+Lord Molsworth concerning the love of ones country &amp;c. An historical<lb/>
+&amp; Critical Accot of the life and Writings of <note target="n4">Mr. William Chillingsworth</note><lb/>
+Chancellor of Sarum&mdash;.  I am far from liking the liberties these free thin.<lb/>
+kers take in their Writings however I have some inclination to read<lb/>
+them &amp; I desire you will send them to me I am 
+</p>
+
+<closer>Gentlemen<lb/> 
+Your most humble Servt
+</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1] <title>The Independent Whig</title> was a "a weekly political sheet" first published in January 1720 and continued for a year by Thomas Gordon and John Trenchard. This material was later gathered together with other writings and published by Gordon as a book, and it may be that book that Carter wanted. ("Significant Scots Thomas Gordon." http://www.electricscotland.com/history/other/gordon_thomas.htm. 5/12/2006.</note>
+
+<note id="n2">[2] Thomas Gordon, <hi rend="italics">ed.</hi> Jean Barbeyrac. <title>The Spirit of the Ecclesiasticks of all Sects and Ages, as to the Doctrines of Morality, and More Particularly the Spirit of the Ancient Fathers of the Church</title> London: J. Peele, 1722. (Library of Congress Online Catalog, 5/12/2006.)</note>
+
+<note id="n3">[3] Anthony Ashley Cooper, Earl of Shaftesbury, <title>Letters from the Right Honourable the late Earl of Shaftesbury, to Robert Molesworth, Esq.</title> This book was first published in London in 1721.</note>
+
+<note id="n4">[4] This probably is Francis Cheynell's <title>Chillingworthi Novissima; or, The Sickness, Heresy, Death and Bural of William Chillingworth</title> (1644) See <cit><bibl n="A28">Wright. "The Literary Interests of the First Carters." </bibl></cit> p. 53. </note>
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C06h20c">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to John Goodwin, August 20, 1706</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 6 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">filename</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to John Goodwin, August 20, 1706</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date>unpublished</date>
+   <idno type="callNo">Source copy consulted:  Christ Church Parish, Lancaster County, Processioners' Returns, 1711-1783, and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond, 174.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1706-08-20</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C06h20cT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 pp.</extent>
+<date value="1706-08-20">August 20, 1706</date>
+<idno rend="suppress">C06h20c</idno>
+<title>Letter from Robert Carter to John Goodwin, August 20, 1706</title>
+</bibl>
+</head>
+<p>Robert Carter advises London merchant John Goodwin, August 20, 1706, of a previous letter concerning the affairs of the estate of Ralph Wormeley, and that he has received an account of sales and an account current. He reports that the estate trustees have drawn bills of exchange on the estate's accounts for overseer Jeptha Edmunds' wages, and for William Churchill's construction of a mill.  He adds that a balance due the estate will be paid to Goodwin, and that he encloses an invoice for goods for the estate which has instructions both for the purchase and shipping.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="JG">John Goodwin,</note> August 20, 1706</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add><lb/></name>
+<date value="1706-08-20">Augt. 20th: 1706<lb/></date>
+Mr. John Goodwin</dateline>
+<salute>Sr.</salute>
+</opener>
+
+<p>I have already writt to you concerning the Estate of <lb/>the young Wormelys, yor Accot. of Sales of the 20 hhds <lb/>per <add  resp="editor">[John]</add> Burford likewise an Account Current came to hand of  <lb/>wch I think I have not advised you before We have lately <lb/>drawn on you for 40 Shillings paya<add n="ed">[ble]</add> to <name type="person">Jeptha <lb/>Edmunds</name> being part of his wages 
+as an overseer to <lb/>one of their plantations, also for 26:13:4 payable to  <lb/><note n="WC1">Collo. Churchill</note> being 2/3 of the charge for building a mill of <lb/>theirs both wch. Bills must desire you to pay accor=<lb/>=ding to time &amp;  place to the Accot. of the Estate I have  <lb/>not else to add here but that I am <lb/> <lb/>
+ Your humble Servt:<lb/><lb/>
+
+<seg type="postscript"><add  resp="editor">[There]</add> will<lb/> <add  resp="editor">[be a 
+ba</add>]la<add  resp="editor">[nce]</add> due <lb/>to the Wormelys Estate wch I have desired  
+<lb/><add  resp="editor">[at a conv</add>]enient time to pay into <add place="supralinear">yor</add> hands <lb/><add n="ed">[Here</add>]in inclosed an Invoice for some Goods for the use of Esqr. Wormelys Estate <lb/><add n="ed">[which desire</add>] you both in buying &amp; shipping to follow the Directions therein given</seg></p><lb/>
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+<note><hi rend="italics">Source copy consulted:</hi>  Christ Church Parish, Lancaster County, Processioners' Returns, 1711-1783, and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond, 174.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note><lb/>
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

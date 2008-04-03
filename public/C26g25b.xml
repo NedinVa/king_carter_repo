@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C26g25b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to the [Board of Trade and Plantations], July 25, 1726</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca.9  kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C26g25b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2003</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to the [Board of Trade and Plantations], July 25, 1726</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  CO5 1320, Public Record Office, London</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1726-07-25</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C26g25bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1726-07-25"></date>
+<idno rend="suppress">C26g25b.xml</idno>
+<title>Letter from Robert Carter to the Board of Trade and Plantations, July 25, 1726</title>
+</bibl>
+</head>
+<p>Robert Carter writes to the [Board of Trade and Plantations], July 25, 1726, to report the death of the colony's lieutenant governor, Hugh Drysdale, and that the governing of the colony has fallen to him because of the suspension of Edmund Jenings from the Council.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to the [<note target="n1">Board of Trade and Plantations</note>], July 25, 1726</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Virginia</name><lb/>
+<date value="1726-07-25">July 25th 1726</date><lb/>
+
+</dateline>
+<salute>My Lords</salute>
+
+</opener>
+
+
+
+<p>Tis with very great concern that I here notify to Yor. <abbr expan="Lordships">Lordps</abbr> <lb/>the death of <note n="HD"><abbr expan="Colonel">Colo. </abbr> Drysdale</note> Lieutenant Governor of this Colony, wch <lb/>happened on the 22d instant; he had so far got over an indisposition <lb/>with which he had been <sic corr="near">neer</sic> two years afflicted, as gave hope of this <lb/>Country's being much longer happy under his administration, when <lb/>a more acute distemper, put a period to his life and our expectations <lb/>a loss greatly lamented by all Ranks of persons.</p>
+
+<p>By this accident, and the Suspension of <note n="EJ">Mr. Jenings</note> (of which <lb/>Yor <abbr expan="Lordships">Lordps</abbr> have had from <abbr expan="Colonel">Colo. </abbr> Drysdale a full Relation in the Council&mdash; <lb/>Journal of the 24th and 25th of last month) it falls to my Lott&mdash;&mdash; to <lb/>succeed
+
+<pb n="2"/><lb/><lb/>
+succeed him in the administration of the Government; and I am <lb/>now preparing, as much as an ill state of health will <sic corr="permit me">permittme </sic><lb/>to meet the Council, in order to take the Oaths required for that important <lb/>Trust,</p>
+
+<p>I <sic corr="shall">shal</sic> by another Opportunity forward toYor <abbr expan="Lordships">Lordps</abbr> the Duplicates <lb/>of such <sic corr="public">publick</sic> Papers, as the late Governor has left behind him: and <lb/>having now no other business of moment to trouble Yor <abbr expan="Lordships">Lordps</abbr>; I begg <lb/>Leave to offer the most sincere assurances of my constant endeavours to <lb/>promote his Majesty's Service and the publick Service, while I have the <lb/>honr. to continue in this Station, and that I am with the greatest <lb/>respect </p>
+
+<closer>My Lords <lb/>Yor. <abbr expan="Lordships">Lordps</abbr> <lb/>Most dutiful &amp;<lb/>Most obedient <lb/>humble Servant <lb/><hi rend="italics"><hi rend="bold">ROBERT CARTER</hi></hi></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi>  CO5 1320, ff. 82, Public Record Office, London. This is the recipient's copy, signed by Carter. It is endorsed: Recd Septem: 10: |Read Do: 14: | 1726. </note>
+
+<note id="n1">[1] Established in 1696 as successor to a similar body, the Lords Commissioners of Trade and Plantations was "an advisory group, subordinate to king and Privy Council, and with no executive, financial, or penalizing powers, the Board of Trade was nevertheless able . . . to exert a far reaching and often determining influence in colonial matters. . . . It prepared the royal instructions for the governors overseas. . . ." (<cit><bibl>Henry Hartwell, James Blair, and Edward Chilton. Hunter Dickinson Farish, <hi rend="italics">ed.</hi> <title>The Present State of Virginia, and the College.</title> [First published, 1940, by Colonial Williamsburg, Inc., and reprinted Charlottesville: University Press of Virginia, 1964.] pp. xvi-xvii.</bibl></cit>)</note>
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

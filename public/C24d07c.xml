@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C24d07c">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to [John Clayton], April 7, 1724</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 5 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C24d07c.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2002</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to [John Clayton], April 7, 1724</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1724-04-07</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C24d07cT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1724-04-07"></date>
+<idno rend="suppress">C24d07c.xml</idno>
+<title>Letter from Robert Carter to [John Clayton], April 7, 1724</title>
+</bibl>
+</head>
+<p>Robert Carter writes to the colony's attorney general, [John Clayton], April 7, 1724, concerning his intention to bring an action in the General Court, as Clayton had recommended, to have the murderer, Thomas Glascock, declared an outlaw so that his lands may be granted as an escheat. He reminds Clayton that "Mr. Holloway and Mr Randall" are his attornies and will assist in the procedure for which he expects to pay Clayton as well.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to [<note n="JC3">John Clayton</note>], April 7, 1724</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
+<date value="1724-04-07">April the 7th: 1723<hi rend="underline">4</hi></date><lb/>
+
+</dateline>
+<salute><hi rend="underline">Sr</hi></salute>
+
+</opener>
+
+<p>When I was at the Oyer and Terminer I was discourse<lb/>ing you about your prosecuting an out Lawry against <note target="n1"><abbr expan="Thomas">Thos:</abbr> <lb/>Glasscock</note> for the <sic corr="murder">Murther</sic> he had committed in order to his <lb/>Conviction and Attainting which According to the best In<lb/>formation I can get from my Books is absolutely Necessary <lb/>to be done before his Lands can be granted as <note n="ES">Escheat</note> In ans<lb/>wer you told me the Oyer and Terminer was not a proper court <lb/>to begin the prosecution in it must be done in the <abbr expan="General">Genll:</abbr> Court <lb/>which drawing now very near I think it proper to put you in mind <lb/>of it that you may be prepared, <note n="JH">Mr. Holloway</note> and Mr Randall <lb/>you know are my Lawyers for the proprietors <sic corr="affairs">Affaires</sic> they <lb/>will be Assisting to you. for your trouble in this Matter I shall <lb/>think it but Justice to give you a fee who am Sr&mdash;</p>
+
+<closer>Your most humble Servt.</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1723 June 16-1724 April 23, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>The name of Carter's home, "Corotoman," the county, and colony have been added for clarity to this unheaded draft.</note>
+
+<note id="n1">[1] "William Forrester had been murdered on November 5, 1723, by Thomas Glascock whose son Gregory was named as an accessory." Carter had noted Glascock's capture in his diary on November 13th: "Collo Barber acquaints me me he had Seizd Glascocks who had fled for Murther his Estate Coll Tarpley in the behalf of Glascocks Heir offers to Enter the Land as Escheat " The lands reverted to the proprietors, and Carter apparently managed them for some years for the benefit of Glascock's heirs; he later acquired title to the properties which are mentioned in his will. (<cit><bibl n="B31">Ryland. <title>Richmond County Virginia. . . . </title> p. 101.</bibl></cit></note>
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

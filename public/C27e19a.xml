@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C27e19a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to John Stark, May 19, 1727</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 7 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C27e19a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2003</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to John Stark, May 19, 1727</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1727-05-19</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C27e19aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1727-05-19"></date>
+<idno rend="suppress">C27e19a.xml</idno>
+<title>Letter from Robert Carter to John Stark, May 19, 1727</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Glasgow merchant John Stark, May 19, 1727, reporting the arrival of Captain Bowman and his accounts with Stark. He reminds Stark that he wants these accounts regularly, and notes that he has paid John Pemberton the 2 1/2 per cent Pemberton was charged for a bill of exchange he had written on Stark. He has suffered great losses among his slaves, and will have to write bills on Stark to pay for the new ones. He complains that Stark has not reported to him that the <hi rend="italics">Ann &amp; Eliza,</hi> on which he had shipped tobacco to Stark, had been driven ashore in a storm, but the cargo saved. Thirty hogsheads of tobacco will be sent Stark by Captain Bowman.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note target="n1">John Stark,</note> May 19, 1727</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1727-05-19">May 19th: 1727</date><lb/>
+Mr. John Stark<lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+
+
+<p><note target="n2"><abbr expan="Captain">Capt:</abbr> Bowman</note> after a tedious passage found <lb/>the way in at last. Your Several Letters and Accots: with my Accot: <lb/>Currt: I have now got and hope you will never let me be without <lb/>one so long again <note n="JP">Mr. Pemberton</note> complains bitterly to me for <lb/>Sending him a bill upon you tells me it cost him 2 1/2 perCent to <lb/>make his money good to him in London You know I have your <lb/>promise to pay my money in London without damge to me <lb/>This loss to make the old Gentleman Easie I have undertaken to <del>pay</del> bear,</p>
+
+<p>It is Something Strange you could not get <sic corr="off">of</sic> my 5 hhds: <lb/>of <abbr expan="tobacco">Tobbo:</abbr> to Close that Accot: when your market as is agreed by all <lb/>was so Empty, I hope it will prove to the best,</p>
+
+<p>I have had a prodigious loss in my Slaves this winter <lb/>and have bin forced to recruit by Purchasing a large number of <lb/>new Negroes, which will bring me under the necessity of <sic corr="valuing">valueing</sic> <lb/>my Self upon you for at least Three hundred pounds, which I must 
+
+<pb n="2"/><lb/><lb/>
+pay in London not doubting but you will take care to do it with<lb/>out any loss to me,</p>
+
+<p>I Sent you in a James River Ship the <name type="ship">Ann &amp; Eliza.</name> <lb/>Mc:Clean Master 13 hhds: of <abbr expan="tobacco">Tobbo:</abbr>
+ 10 of my own and 3 of <note n="NB">Mr. <lb/>Burwells</note> Estate. I hear the Ship was driven a Shoar in a Storm <lb/>The Cargoe all Saved and the Ship like to be got <sic corr="off">of</sic>. of this I have <lb/>yet no Accot: from you.</p>
+
+<p>Capt: Bowman writes his own Storey I have prom<lb/>ised him 30 hhds: whether I Shall be able to do more I cannot <lb/>yet tell he pretends to wants freight mightily I shall say no <lb/>more at present but remain </p>
+
+<closer><hi rend="underline">Sir</hi> <lb/>Yor. very humble Servt:<seg type="postscript"><lb/><lb/>per Kelsick</seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1727 May-1728 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1] John Stark was a merchant, probably the one to whom Carter referred when he wrote to Micajah Perry on1723 July 4 that he had drawn an order on "Mr. Stark of Glasgow." On that same day, he wrote to a John Stark, referring to Captain Bowman.</note>
+
+<note id="n2">[2] Captain Samuel Bowman commanded the <hi rend="italics">Lucia.</hi> Carter mentioned this vessel in his diary in June 1724, and again on 1726 March 4 when he wrote that she "came in had 20 Weeks Passage."</note>
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

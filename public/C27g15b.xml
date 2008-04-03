@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C27g15b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to William Robertson, July 15, 1727</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 11 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C27g15b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2003</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to William Robertson, July 15, 1727</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1727-07-15</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C27g15bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1727-07-15"></date>
+<idno rend="suppress">C27g15b.xml</idno>
+<title>Letter from Robert Carter to William Robertson, July 15, 1727</title>
+</bibl>
+</head>
+<p>Robert Carter writes to William Robertson, clerk of the Council, July 15, 1727, directing him to send the militia commissions for Brunswick and Northumberland counties. He reports news of the raising of the siege of Gibralter, and the arrival of a slave ship. He asks for information about a minister named Thomas Bayley from North Carolina who has applied for a post in Northumberland County, but Carter has been alerted that he is the Bayley who was forced to leave Virginia several years earlier because of misconduct.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="WR">William Robertson,</note> July 15, 1727</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
+<date value="1727-07-15">July the 15th. 1727</date><lb/>
+Mr: Wm: Robertson<lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+
+
+<p>Having this Opportunity by the <note target="n1">Doctor </note><lb/>think it not amiss to put you in mind of the Military <abbr expan="Commission">Commissn. </abbr><lb/><note n="NH">Colonel Harrison</note> gave you directions about for Brunswick <lb/>Which you were to Send to me with the Public Papers he gave <lb/>you the names of the men he appointed for Captains and <sic corr="desired">desird</sic> <lb/>Blanks for the <sic corr="Subalterns">Subal-Ternnes</sic>.</p>
+
+<p>In Northumberland county in the <sic corr="upper">uper</sic> parts <lb/>the name of the Canton I do not at Present call to mind there is a <lb/>Captain of a foot company Dead and I want blank <abbr expan="Commisssion">Commis:</abbr> <lb/>to put another in his room I desire you will take care that this <lb/>Commissions are Sent me, It is but dry work however Mr. Crew <lb/>desired the Office If he be out of the way or declines the work Mr. <lb/>Frances must do it,</p>
+
+<p><sic corr="We">Wee</sic> have the news of the Seige of Gibralter <lb/>being raised brought by Dr. McKensys Sloop from <sic corr="Barbados">Barbadoes</sic> wch: <lb/>to be Sure you have more at large. on Sunday night last <abbr expan="Arrived">Arrivd</abbr> <lb/>a <sic corr="Negro">Negroe</sic> Ship to <note target="n2">Colonel Tayloe</note> with one hundred and Thirty odd <lb/>Slaves.</p>
+
+<p>A Clergy man named <note target="n3">Thomas Bayley</note> came <lb/>to me this week for a reccommendation to a parsh in <abbr expan="Northumberland">Northumd.</abbr> <lb/>he is gone to apply himself to the Vestry he came from North Carolina <lb/>hath his wife with him he hath left his orders behind hime other<lb/>wise had <sic corr="gone">gon</sic> near to have Surprized me into a Letter talking <lb/>with Dr. Nicholas Yesterday about him very-ly <sic corr="believe">beleive</sic> tis the Bayley <lb/>that <note n="HD">Colonel Drysdale</note> Sent out of the <abbr expan="Government">Governmt.</abbr> for his gross misde=<lb/>meanors when you write this way I desire you will Send a detail <lb/>of the Crimes he was charged with he brought me a paper of long <lb/><sic corr="Enconiums">Inconiums</sic> with abundance of Subscriptions and <add place="supralinear">had</add> the Cunning to <lb/>personate a very meek humble behaviour</p>
+
+<p><note target="n4">Mr. Hickman</note> is very dilatory with his <sic corr="probated">probatted</sic> <lb/>Administrations I wish I had them to sign at my <sic corr="Leisure">Leizure</sic> I am </p>
+
+<closer>Yor. most humble Servt:</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1727 May-1728 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>The name of Carter's home, the county, and colony have been added for clarity to this unheaded draft.</note>
+
+<note id="n1">[1] Carter refers to his son-in-law, Dr. George Nicholas, who was traveling to Williamsburg where Robertson lived.</note>
+
+<note id="n2">[2] John Tayloe (1687-1747) of Mt. Airy, Richmond County, who served as justice, burgess, colonel of militia, and as a member of the Council after 1732. (<cit><bibl n="B31">Ryland. <title>Richmond County Virginia. . . . </title> pp. 115-16.</bibl></cit>)</note>
+
+<note id="n3">[3] Thomas Baylie (Bayley, Bailey, b. 1683?) was one of the most notorious colonial Virginia clergymen.Commissary Blair had written to the bishop of London in 1724, "We have at present two Ministers (Mr. Thomas Baylie and . . . ) so very scandalous for drunkenness and fighting and Quarreling in their drink that many grevious complaints are brought to me against them, and indeed the Country rings of the scandal given by them." Baylie was the minister at that time of Newport Parish, Isle of Wight County. The parish determined to get rid of Baylie, and in 1725, brought an agreement to the Governor and Council by which Baylie agreed to relinquish his ministry and leave the colony; he disputed the amount of salary he was to receive and was awarded the full year. (<cit><bibl>John K. Nelson. <title>A Blessed Company: Parishes, Parsons, and Parishoners in Anglican Virginia, 1690-1776.</title> [Chapel Hill and London: University of North Carolina Press, 2001]. pp. 153, 304, 401;</bibl></cit> and, <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:89-90. </bibl></cit>)</note>
+
+<note id="n4"> [4]  After Governor Hugh Drysdale's death, the Council appointed Richard Hickman to manage the Governor's house and its gardens. His name appears a number of times in the Council minutes as he took out land patents. From Carter's referecne in this letter complaining that "Mr. Hickman is very dilatory with his probatted Administrations," it seems that Hickman must have done some other work for the colonial government. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:114. </bibl></cit>)</note>
+
+
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

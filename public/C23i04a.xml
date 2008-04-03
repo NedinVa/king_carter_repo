@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C23i04a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to John Starke, September 4, 1723</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 9 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C23i04a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2002</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to John Starke, September 4, 1723</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1723-09-04</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C23i04aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1723-09-04"></date>
+<idno rend="suppress">C23i04a.xml</idno>
+<title>Letter from Robert Carter to John Starke, September 4, 1723</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Glasgow merchant John Starke, September 4, 1723, reminding the merchant that he shipped 51 hogsheads on board Capt. Bowman's ship and that he hopes for a better price for it than last year's. He orders cloth, sugar, and boots, and will add claret, burgundy, and champagne provided his tobacco sells at a price that he specifies.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note target="n1">John Starke,</note> September 4, 1723</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1723-09-04">Sepr, 4th. 1723&mdash;</date><lb/>
+Mr. Jno. Starke<lb/>
+</dateline>
+<salute>Sir&mdash;&mdash;</salute>
+
+</opener>
+
+<p>My last went by <note target="n2"><abbr expan="Captain">Capt.</abbr> Bowman</note> <abbr expan="accompanied">Accompd.</abbr> <lb/>a Bill of Lading for Fifty one hogsheads of Tobo. This by <abbr expan="Captain">Capt.</abbr> <lb/>Ben with <note target="n3">Mr. Read</note> Covers A Bill of Lading for 23 hogsheads <lb/>More, I carried It to the Ship Side &amp; chose rather to send In Your <lb/>Ship than any other purely to Oblige You, I hope <sic corr="you'll">You'l</sic> be able <lb/>to Advance It to a much higher price than You did last Year <lb/>that We may be <sic corr="encouraged">Encouragd</sic> to Continue our business Yor. way <lb/>I have now 40 hogsheads more that I design to Your port, here are <lb/><abbr expan="several">Sevl.</abbr> Ships that Yet want Freight, but I'm Almost come to <lb/>A resolution that I will Ship no more this Year, being Morally <lb/><sic corr="assured">Assurd</sic> Tobo. must Advance here the next, Mr. Reid hath a <lb/>very good knowledge of the Country &amp; will give You the best <lb/>Accot. of the Poor Crops we are like to make</p>
+
+<p>I have Already writ to You for a <abbr expan="hogshead">hhd</abbr>
+ of Clarret &amp; a <lb/><abbr expan="quarter">Qr.</abbr> Cask of <add place="supralinear">French</add> Brandy For <note n="ECB">Mrs. Burwell,</note> I now desire You <lb/>to Send me in Two hundred <abbr expan="yards">yds.</abbr> of Yor. <sic corr="coarse">Cource</sic> <note target="n4">Gallow shields</note> <lb/><abbr expan="yard">Yd.</abbr> Wide Cloth wch. You say costs from 14 to 15<abbr expan=" pence">d.</abbr> per Yd. one hundred <lb/><abbr expan="weight">Wte.</abbr> of Your best double <sic corr="refined sugar">refind Sugr.</sic> &amp; two <abbr expan="pair">pr</abbr> of Boots for my <lb/>Own Wear to be between 12s. &amp; 13s. Size one <abbr expan="pair">pr</abbr> to be h<note target="n5">alf <lb/>Jacks </note>for Winter. the Other pair to be <abbr expan="summer">Sumr.</abbr> Boots I have <lb/>spoke to Mr Reid to Assist in buying these Boots Who I <lb/>believe will best know how to please me&mdash;</p>
+
+<p>And now I will be so Prodigall upon Condition You can <lb/>make of my
+Tobo. round &pound;5/20<abbr expan=" shillings">s</abbr> per hogshead <del>[illegible]</del> to Order You to <lb/>Send me in a hogshead of the best Clarret <del>upon</del> <add place="supralinear">for</add> My own <del>Accot.</del> <add place="supralinear">use</add> &amp; <lb/>Six <abbr expan="dozen quarts">Doz. Qts.</abbr> of Burgundy &amp; as much Champaigne but upon <lb/>no less termes will I spend any money upon these <add place="supralinear"><sic corr="easy">easie</sic></add> wanted <abbr expan="liquors">Liqrs.</abbr> <lb/>I drank both of <note n="MP1"><abbr expan="Colonel">Collo.</abbr> Page's</note> Champaigne &amp; Burgundy which <lb/><sic corr="proved">provd</sic> Extraordinary good, I am </p>
+
+<closer>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. very humble Servt  
+<seg type="postscript"><lb/><lb/>per the <name type="ship">Charles</name> of Glasgow. </seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1723 June 16-1724 April 23, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1] John Stark was a merchant, probably the one to whom Carter referred when he wrote to Micajah Perry on1723 July 4 that he had drawn an order on "Mr. Stark of Glasgow." On that same day, he wrote to a John Stark, referring to Captain Bowman.</note>
+
+<note id="n2">[2] Captain Samuel Bowman commanded the <hi rend="italics">Lucia.</hi> Carter mentioned this vessel in his diary in June 1724, and again on 1726 March 4 when he wrote that she "came in had 20 Weeks Passage."</note>
+
+
+<note id="n3">[3] James Read (Reid) is not referred to as "captain" which means he was an official of John Stark's firm on a trading vessel who was empowered to do its business in Virginia. He was aboard the <hi rend="italics">Charles,</hi> a Glasgow ship that was owned by Stark, by which this letter was sent. </note>
+
+<note id="n4">[4] It has not been determined at this time (5/16/02) what type of cloth Carter is ordering.</note>
+
+<note id="n5">[5] A half-jack was a boot ending below the knee with turned down top of a softer and lighter colored leather, pulled on by leather or string loops on each side. (William W. Burke, "Dictionary of 18th Century Clothing Terms" [www.nwta.com/patterns/pdfs/111dict.pdf, found on line 5/9/02])</note>
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

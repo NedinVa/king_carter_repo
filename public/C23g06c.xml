@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C23g06c">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to [Edmund Jenings], July 6, 1723</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 7 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C23g06c.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2002</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to [Edmund Jenings], July 6, 1723</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1723 July 4 -1724 June 11, Carter Family Papers, Virginia Historical Society, Richmond, and Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia. </idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1723-07-06</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C23g06cT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1723-07-06"></date>
+<idno rend="suppress">C23g06c</idno>
+<title>Letter from Robert Carter to [Edmund Jenings], July 6, 1723</title>
+</bibl>
+</head>
+<p>Robert Carter writes to [Edmund Jenings] of York County, July 6, 1723, to remind Jenings of the interest payments now due Carter. He tells Jenings that his neighbor, Philip Smith, will carry the letter to Williamsburg, but knows nothing of the contents. Carter's son, John, will deliver the letter if he should be in town. He also reminds Jenings of sums due to the proprietors, and writes that he cannot wait later than September first for this money. </p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to [<note n="EJ">Edmund Jenings</note>], July 6, 1723</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Corotom<add resp="editor">[an Lancaster County, Virginia]</add></name><lb/>
+<date value="1723-07-06">July the <hi rend="underline">6th. 1723</hi></date><lb/>
+<lb/>
+</dateline>
+<salute>Honorable Sir,</salute>
+
+</opener>
+
+<p>Having now this good <lb/>opportunity by my neighbour Capt. <note target="n1">Phil=<lb/>=lip Smith</note> I think it proper to desire <lb/>you to send me your bills of Exchange for <lb/>the interest money that is now due me; <lb/>to wit, for the fifteen <hi rend="underline">pound</hi> due me upon <lb/>the 5th of <hi rend="underline"><sic corr="April">Aprill</sic></hi> last and for the sixty <lb/>pounds due upon the 1st of this instant: <lb/>and if you send me any other bills I <lb/>expect your endorsement upon them. <lb/>Upon receipt of your bills as aforesaid <lb/>I do hereby promise to send or give you a <lb/>discharge for them as soon as you shall desire.</p>
+
+<p>Capt. Smith knows nothing of the <lb/>contents of this letter. I have <sic corr="written">writt</sic> <lb/>to my son about it; and if he is in <lb/>town, have directed him to wait upon <lb/>you with this letter.</p>
+
+<pb n="2"/><lb/><lb/>
+<p>The Proprietor's money that is yet unpaid at least <lb/>so much of it as you own to be due in the Accot: you settled <lb/>under your hands when I came out of Town, I press you <lb/>very earnestly to be Expetitions in paying to me That I <lb/>may be able to transmit <del>to them</del> their Bills to them by some <lb/>of our later ships, I am very desirous to do you all the <lb/>Service I can and as this matter has been <del>carried on</del><lb/>thus far carried on Amicably, so I should be glad it may <lb/>be finished so, and I am willing to wait till the first <lb/>of September for your payment but longer I cannot <lb/>Stay, I shall not be just to the <abbr expan="propirietors">Propritrs:</abbr> nor Escape <lb/>their Censure if I <sic corr="omit">omitt</sic> of any longer delay, please <lb/>to give my Service to your Lady and Son and believe <lb/>me to be <hi rend="underline">Sr</hi> </p>
+
+<closer>Your most Faithfull humble Servt.</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1723 July 4 -1724 June 11, Carter Family Papers, Virginia Historical Society, Richmond, and Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia. </note><lb/>
+
+<note>This letter was begun on what was the first page of the letter book where the nineteenth-century copyist found and recorded it; since his time, the first page has disappeared leaving only the final paragraph and the date line (which was at the foot of the original) extant in the letter book at the Virginia Historical Society.</note><lb/>
+
+<note>The county and colony have been added for clarity to the return address of the  draft.</note><lb/>
+
+<note>See Carter's letter to his son John, July 6, 1723, concerning the latter's delivery of this letter.</note><lb/>
+
+<note id="n1">[1] Philip Smith was sheriff of Northumberland County in 1723-1724. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>,  4[1721-1739]: 34,67.</bibl></cit>) </note>
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C23g05g">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Solomon Low, July 5, 1723</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 5 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C23g05g.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2002</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Solomon Low, July 5, 1723</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1723 July 4 -1724 June 11, Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1723-07-05</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C23g05gT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1723-07-05"></date>
+<idno rend="suppress">C23g05g</idno>
+<title>Letter from Robert Carter to Solomon Low, July 5, 1723</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Solomon Low, his sons' schoolmaster in England, July 5, 1723, chiding Low for not having written last year, and asking him to be sure to do so this year. He particularly wants Low's advice about Landon's future. He reminds Low that he had sent him a gift of a pig last year which was delivered, and sends another with the current ship.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to Solomon Low, July 5, 1723</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Rappahannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1723-07-05">July the 5th <hi rend="underline">1723</hi></date><lb/>
+Mr&mdash; Solom. Low<lb/>
+</dateline>
+<salute><hi rend="underline">Sr</hi>&mdash;&mdash;</salute>
+
+</opener>
+
+<p>You are not so kind to let me receive a Lettr. <lb/>from you per the <note n="CS">Carter</note> last Year, It would have been <lb/>very welcome to have had an Accot. from you of my <lb/>Children while under your care and particularly of <note target="n1">Landon</note> <lb/>who still continues with you, and pray omitt not giving <lb/>yourself this Trouble the next Year, and let me have <lb/>your <sic corr="advice">advise</sic> candidly what you think may be the best <lb/>Imployment to Suit his Genious, I sent you a Virginia <lb/><note target="n2">Shoat</note> last year per <abbr expan="Captain">Capt</abbr> <note target="n3">Ben Graves</note> he tells me you had <lb/>it, I send you another this Year per him wishing you all <lb/>happiness I Conclude Sr, </p>
+
+<closer>Your very humble. Servt.</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1723 July 4 -1724 June 11, Carter Family Papers, Virginia Historical Society, Richmond. There is a 19th-century copy of the letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia.</note><lb/>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. His usual return address, the county, and colony have been added for clarity to this unheaded draft.</note><lb/>
+
+<note id="n1">[1] Landon Carter (1710-1778) was Carter's seventh child by his second wife, Elizabeth (Landon) Willis, and was the second child to bear the name Landon, the first having died shortly after his birth in 1708. Landon would live at "Sabine Hall," Richmond County, and marry three times, leaving many descendants, some of whom own "Sabine Hall" today. As an adult, he would keep a very interesting and useful diary. (<cit><bibl n="B30">Greene. <title>The Diary of Colonel Landon Carter. . . .</title></bibl></cit>)</note>
+
+<note id="n2">[2] A shoat is a young pig.</note>
+
+<note id="n3">[3] Benjamin Graves was the son of Captain Thomas Graves (d. <hi rend="italics">ante</hi> 1720), long a captain of vessels trading to Virginia, and a special friend of Carter. Benjamin also commanded vessels in the trade, especially the <hi rend="italics">Carter</hi>.  (<cit><bibl>Adm. 68/194-196, ff. 33r, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

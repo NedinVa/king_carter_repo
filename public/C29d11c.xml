@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C29d11c">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to the Earl of Orkney, April 11, 1729</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 8 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C29d11c.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2005</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to the Earl of Orkney, April 11, 1729</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1728 August 8-1730 May 15,  Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1729-04-11</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C29d11cT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1729-04-11"></date>
+<idno rend="suppress">C29d11c.xml</idno>
+<title>Letter from Robert Carter to the Earl of Orkney, April 11, 1729</title>
+</bibl>
+</head>
+<p>Robert Carter writes to the Earl of Orkney, the titular governor of Virginia, April 11, 1729, concerning the situation in the colony over his son Charles's succeeding his brother Robert as naval officer of the Rappahannock and efforts of the Grymes family to obtain the post for Charles Grymes.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to the <note n="GH">Earl of Orkney,</note> April 11, 1729</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1729-04-11">Apl. 11th: 1729</date><lb/>
+The Rt: Honble. George<lb/>
+Earl of Orkney&mdash;&mdash;<lb/>
+</dateline>
+<salute>My Lord&mdash;</salute>
+
+</opener>
+
+<p>This is the first Opportunity I have had since <lb/>the <abbr expan="receipt">rect.</abbr> of your Lordships kind favour of the 7th day of <add place="supralinear"><abbr expan="November">Novr.</abbr></add> last wherein it is no <lb/>Small pleasure to me to find yor. Lordship satisfied of my Integrity in rela-<lb/>tion to yor Lordships Salary.</p>
+
+<p>I Esteem my self highly Indebted to your <abbr expan="LordShip">LdShip</abbr> for yor <lb/><sic corr="obliging">oblidgeing</sic> recommendation to our <note n="WG"><abbr expan="Governor">Govr.</abbr></note> in behalf of my Son <note n="CC1">Charles's</note> <lb/>Succeeding to the Naval Office <add place="supralinear">of</add> this river upon the removal of his Brother <note n="RC2">Robert</note> <lb/>he is removed and the <abbr expan="Governor">Govr.</abbr> is pleased this far to Continue the Place to him, but <lb/>does not think it proper either to give a Deputation to h<corr resp="editor">[is br]</corr>other Charles <lb/>or to give him a Commission for the Place <sic corr="Alleg">Alledge</sic><corr resp="editor">[ing . . .]</corr>ized into 
+
+<pb n="2"/><lb/><lb/>
+a promise at his first coming in to Colonel <abbr expan="Charles">Chas:</abbr> <sic corr="Grymes">Grimes</sic> Brother to <abbr expan="our">or.</abbr> <abbr expan="receiver General">recr. Genl.</abbr> <lb/><del>to give him the Place when</del> when he Should take it away from my sont Robert, <abbr expan="Charles">Chs.</abbr> <lb/><sic corr="Grymes">Grimes</sic>  is now put into the Collectors Place of <note target="n1">this river</note> if he can hold it, the <abbr expan="Governor">Govr.</abbr> <lb/>would be altogether discharged from his word but if another be put in England <lb/>then I can hardly Say how it will go. <sic corr="Although">Altho</sic> the <abbr expan="Governor">Govr.</abbr> <sic corr="has">hath</sic> bin so kind to <del>[illegible]</del> <add place="supralinear">give</add> <lb/>me <add place="supralinear">his</add> repeated <del>promise</del> word that he will not turn out my Son Robert, but that the <lb/>Place Shall remain in my family, As long as it Shall <sic corr="Lie">Lye</sic> in his power to <lb/>Continue it With a due regard to his word Thus I have Presumed to acquaint <lb/>your <abbr expan="LordShip">Ld.Ship</abbr> with the naked truth of this Story, whether your <abbr expan="LordShip">LdShip</abbr> will think <lb/>it proper to Concern <abbr expan="your">yor.</abbr>Self any further in this matter I must Submit to your <lb/>goodness <sic corr="Desiring">Desireing</sic> however a Continuance of yor. remembrance when your <add place="supralinear"><abbr expan="LordShip">Ld.Ship</abbr></add> <lb/>Shall think <sic corr="fit">fitt</sic> to give your self the trouble I am in all Duty </p>
+
+<closer>My Lord <lb/>Yor. Lordships <lb/>Most Obedient <lb/>Most Obliged <lb/>&amp; most humble Servt.</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. </note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence when writing to persons abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
+
+<note id="n1">[1] The Rappahannock</note>
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

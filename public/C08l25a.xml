@@ -1,0 +1,138 @@
+<!DOCTYPE TEI.2  SYSTEM  'teixlite.dtd' [ 
+<!NOTATION jpg  SYSTEM  "jpeg"> 
+<!ENTITY filename  SYSTEM  "filename.jpg" NDATA jpg> 
+<!ENTITY % ISOlat1 SYSTEM  "ISOlat1.pen"> %ISOlat1; 
+<!ENTITY % ISOlat2 SYSTEM  "ISOlat2.pen"> %ISOlat2; 
+<!ENTITY % ISOnum SYSTEM  "ISOnum.pen"> %ISOnum; 
+<!ENTITY % ISOpub SYSTEM  "ISOpub.pen"> %ISOpub; 
+<!ENTITY % ISOtech SYSTEM  "ISOtech.pen"> %ISOtech; 
+]> 
+ 
+<TEI.2 id="C08l25a"> 
+<teiHeader type="aacr2"> 
+              
+<fileDesc> 
+<titleStmt> 
+     <title type="245">Letter from Robert Carter to Thomas Corbin, 1708 September 25  </title> 
+   <title type="gmd">[electronic resource]</title> 
+     <author>Robert Carter</author> 
+   <respStmt> 
+     <resp>Creation of machine-readable version: </resp> 
+     <name>Edmund Berkeley, Jr.</name> 
+     <resp>Conversion to TEI.2-conformant markup</resp> 
+     <name>University of Virginia Library Electronic Text Center</name> 
+   </respStmt> 
+</titleStmt> 
+ 
+<extent>ca. 5 kilobytes </extent> 
+ 
+<publicationStmt> 
+     <publisher>University of Virginia Library.</publisher> 
+     <pubPlace>Charlottesville, Va.</pubPlace> 
+     <idno type="ETC"></idno> 
+     <availability> 
+     <p>Publicly accessible</p> 
+     <p n="public">URL: http://etext.lib.virginia.edu/modeng.browse.html</p> 
+         </availability> 
+     <date>2000</date> 
+</publicationStmt> 
+ 
+<sourceDesc> 
+     <biblFull> 
+     <titleStmt> 
+     <title>Letter from Robert Carter to Thomas Corbin, 1708 September 25 </title> 
+
+     <author>Robert Carter</author> </titleStmt>
+
+    <extent> 1 p.</extent> 
+<publicationStmt> 
+     <date> 1708-09-25</date> 
+   <idno type="callNo"> Source copy consulted: Christ Church Parish, Lancaster County, 
+Processioners' Returns, 1711-1783,and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, 
+Archives Research Services, Library of Virginia, Richmond, 179.. Extract printed <title><hi>William and 
+Mary Quarterly</hi></title>, 1st. ser., 17(1909)264.</idno> 
+</publicationStmt> 
+</biblFull> 
+</sourceDesc> 
+ 
+</fileDesc> 
+     <encodingDesc> 
+     <projectDesc> 
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p> 
+     </projectDesc> 
+<editorialDecl> 
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in establishing 
+analytical groupings.</p> 
+</editorialDecl> 
+ 
+<classDecl> 
+     <taxonomy id="LCSH"> 
+     <bibl> 
+     <title>Library of Congress Subject Headings</title> 
+     </bibl> 
+     </taxonomy> 
+</classDecl> 
+</encodingDesc> 
+ 
+<profileDesc> 
+     <creation> 
+     <date>1708-09-25</date> 
+     </creation> 
+     <langUsage> 
+     <language id="eng"></language> 
+     </langUsage> 
+     <textClass> 
+     <keywords> 
+     <term>non-fiction</term> 
+   <term>prose</term> 
+     </keywords> 
+     <keywords scheme="LCSH"> 
+     <term type="Field650">LCSH</term> 
+     </keywords> 
+     </textClass> 
+</profileDesc> 
+ 
+</teiHeader> 
+ 
+<text id="C0l25a"> 
+<body> 
+ 
+<div1 type="letter" n="1708-09-25"> 
+ 
+<head>Robert Carter to Thomas Corbin, September 25, 1708</head> 
+ 
+<opener> 
+<name type="sender">Robert Carter</name> 
+<name type="addressee">Thomas Corbin</name> 
+ 
+<dateline> 
+<name type="place"><add n="ed">[Rappahannock, Lancaster County, Virginia]</add></name><lb/> 
+ 
+<date value="1708-09-25"><add n="ed"><note target="n1">[September 25, 
+1708]</note></add></date> 
+</dateline> 
+ 
+<salute><name type="person">Thomas Corbin</name></salute> 
+ 
+</opener> 
+ 
+<p>I have done Concerning my Self with Young Wormeleys affairs, their Estate is 
+e<add n="ed">[ntire]</add><lb/>ly under their own Govermt. &amp; indeed `tis time they addict 
+themselves to business &amp; so I take <lb/>my leave of it &amp; <del rend="overstrike">You too</del> 
+from any further writing to You on their Accot: remaining</p> 
+ 
+<closer>Yor affectiont Countryman & <lb/>humble Servant </closer> 
+ 
+</div1> 
+</body> 
+ 
+<back> 
+<div1 type="notes"> 
+<head>Notes</head> 
+ 
+<note id="n1">This letter precedes another of this date in the letter book on the same theme.</note> 
+ 
+</div1> 
+</back> 
+</text> 
+ 

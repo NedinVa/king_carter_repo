@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C29h26b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Robert Cary, August 26, 1729</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 9 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C29h26b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2005</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Robert Cary, August 26, 1729</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1729-08-26</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C29h26bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1729-08-26"></date>
+<idno rend="suppress">C29h26b.xml</idno>
+<title>Letter from Robert Carter to Robert Cary, August 26, 1729</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant Robert Cary, August 26, 1729, to inform him of the reduced crops in the colony due to the heavy rains during the summer, and that he is not shipping tobacco because the merchant has not had a ship in the colony. He notes arrangements for financial security for his son Charles's work as naval officer of the Rappahannock.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="RC">Robert Cary,</note> August 26, 1729</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1729-08-26">Augst. 26th. 1729</date><lb/>
+Mr Robert Cary<lb/>
+</dateline>
+<salute>Sir</salute>
+
+</opener>
+
+
+
+<p>This is a Short line per the <note target="n1">Williamsburgh</note> there is no <lb/>
+doubt from other hands you will sufficiently hear of of the great <lb/>
+diminution of our Crops by the Violent and <abbr expan="incessant">incessnt.</abbr> rains we have <lb/>
+had this Summer this with the <note target="n2">Liberty of <abbr expan="Stemming">Stemm'g</abbr></note> makes <lb/>
+us hope for better markets for the tobacco gone home <sic corr="than">then</sic> we have <lb/>
+met with for some years past Your not having a ship here I <lb/>
+have sent you no <abbr expan="toabcco">tobo</abbr> this year not that I intend totaly to dis<lb/>
+continue my business to you if you will but find a way to <lb/>
+make your Sales Equal to what other men give me for the same <lb/>
+goods.</p>
+
+<p>You were so kind to be one of my <note n="RC2">Son Robert's</note> securitys <lb/>
+to the Commissioners of the Customs for the due discharge of his <lb/>
+Naval <abbr expan="Officer's">Offrs</abbr>: place he with his family being <abbr expan="removed">remov'd</abbr> into <sic corr="Potomac">Potomack</sic> river <lb/>
+Our <abbr expan="Governor">Gover:</abbr> <sic corr="has">hath</sic> been so favourable to give the place to my <lb/>
+<note n="CC1">Son Charles</note> in his brothers room and he <sic corr="has">hath</sic> his Commission <lb/>
+for it and hath given Security here however new Security must 
+
+<pb n="2"/><lb/><lb/>
+be given at home and I have <sic corr="written">writ</sic> to <note n="WD">Mr. Dawkins</note> and <note n="EA">Mr. <lb/>
+Athawes</note> to be his bondsmen at the Customs house and I <lb/>
+have <sic corr="written">writ</sic> to Some others of the <abbr expan="Merchants">Merchts</abbr> also My business to <lb/>
+you being So Small I have not thought it decent to request <lb/>
+this favour a Second time from you <sic corr="although">altho</sic> I <sic corr="believe">beleive</sic> If I did <lb/>
+ask you would not decline it I shall take my leave of you at <lb/>
+<abbr expan="Present">Prest</abbr> Subscribing myself 
+</p>
+
+<closer>Sir <lb/>
+Your most humble Servt:</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1] The London ship  <hi rend="italics">Williamsburgh</hi> was a large vessel of 550 tons and carried a crew of 26 men. Charles Rogers commanded her in 1727-29. (<cit><bibl>Admiralty 68/194, and 68/195, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n2">[2] Parliament had passed an act forbidding the importation of stemmed tobacco in 1722. John Randolph was sent to England in 1729 as agent for Virginia to try to have the act overturned; his mission would be successful.<corr resp="editor"></corr> (<cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> [Newport News, VA: Mariners' Museum, 1953.] p. 116.</bibl></cit>)</note>
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C23i17b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Micajah Perry, September 17, 1723</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 7 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C23i17b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2002</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Micajah Perry, September 17, 1723</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1723-09-17</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C23i17bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1723-09-17"></date>
+<idno rend="suppress">C23i17b.xml</idno>
+<title>Letter from Robert Carter to Micajah Perry, September 17, 1723</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant Micajah Perry, September 17, 1723, requesting that he find tradesmen for Carter including a carpenter, bricklayer, and barber surgeon. He reminds Perry that his grandfather had often found such men for him,  discusses the wages he is willing to pay, and hopes they will sign five-year indentures. He sends copies (not present) of some letters received by Scots merchants that describe changes in the customs officers in Scotland which have depressed the merchants. Carter hopes that these reports are true and that the merchants will have to become "honest Men in spiite of their Teeths." He closes with a report of the poor crop in the colony, and in a post script, urges Perry to find a barber surgeon who will not require wages.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to Micajah Perry, September 17, 1723</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1723-09-17">Sepr. 17th 1723</date><lb/>
+[M]icajh. Perry<lb/>
+</dateline>
+<salute>Sir</salute>
+
+</opener>
+
+<p>I write to You by Every opportunity this comes <lb/>by a Glasgow Man &amp; is Earnestly to desire Yor. favour in pro=<lb/>=<sic corr="curing">cureing</sic> me Some Tradesmen, I want a good Carpenter that is <lb/>Capable of frameing a large building, I also want a Bricklayer <lb/>&amp; a Barber Surgeon a Young fellow just out of his time tht. <lb/>Can Bleed &amp; Shave &amp; Dress Sores a sober towardly Young fellow <lb/>Will be very <sic corr="useful">Usefull</sic> in my family, Your Grandfather always <lb/><sic corr="helped">helpd</sic> me with Tradesmen when I wanted, he sent me a very <lb/>good Workman of a carpenter his Name was Norris at &pound;20 <lb/>a Year Salary he sent me several good Joyners at &pound;18 per <abbr expan="annum">ann.</abbr> <lb/>As for the Barber Surgeon I can't give above 8 or 10 &pound; a year <lb/>to him, I am desirous If It can be so done that they Engage for <lb/>five Years,</p>
+
+<p>here is some Lettrs lately <sic corr="arrived">arrivd</sic> to Our Scotch <abbr expan="merchants">Merchts </abbr><lb/>tht. give thm. An Accot. of a thorough change in their <sic corr="customs">custome</sic> house <lb/>Oficers which makes them a little down in the Mouth &amp; they seem <lb/>Afraid their rogueries will be <sic corr="looked">lookt</sic> <sic corr="stricter">strictlyer</sic> to than they <lb/>have been I heartily wish such ways may be found Out to <lb/>Make thm. honest Men in spite of their Teeths, Else we that are the <lb/>Fair Traders shall never be able to live.</p>
+
+<p>I think You may depend upon it we have a very poor <lb/>Crop both for Quantity &amp; Quality the Prohibition upon <sic corr="stemming">steming</sic> <lb/>Tobo. Carrys the face of the harshest usage that Ever a poor <lb/>people Met with, but I will give You no further Trouble <lb/>at present </p>
+
+<closer>Sir &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your most humble Servt  .
+<seg type="postscript"><lb/><lb/>Im in hopes You may be able <lb/>to procure me a Young Barber <lb/>Surgeon without any Wages but If not <lb/>&pound;5 a <abbr expan="year">Yr.</abbr> I think full enough for Such a fellow </seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1723 June 16-1724 April 23, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia. There is a nineteenth-century transcript of this letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia. </note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

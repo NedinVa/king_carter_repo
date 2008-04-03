@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C27f29a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to the Board of Trade, June 29, 1727</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca.  kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C27.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2003</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to the Board of Trade, June 29, 1727</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  CO5/1320, Public Record Office, London.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1727-06-29</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C27f29aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>2 p.</extent>
+<date value="1727-06-29"></date>
+<idno rend="suppress">C27f29a.xml</idno>
+<title>Letter from Robert Carter to the Board of Trade, June 29, 1727</title>
+</bibl>
+</head>
+<p>Robert Carter as acting governor of the colony writes to the Board of Trade, June 29, 1727, to send lists of the approximately 1200 Negroes imported since "Lady day 1718 to Lady day 1727." He reports that restitution has been made to the owners of the ship <hi rend="italics">John &amp; Betty</hi> for duties on its rum collected that were proved not due. He cannot send the latest Council minutes because they have not been read and approved. He informs the board of the Council order that merchant ships leave the colony in fleets, and hopes that the new governor will take steps, when he arrives, to strengthen the defences in the colony if the war with Spain continues.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to the Board of Trade, June 29, 1727</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Lancaster County, ]</add>Virginia</name><lb/>
+<date value="1727-06-29">June the 29th 1727</date><lb/>
+</dateline>
+<salute>My Lords</salute>
+
+</opener>
+
+
+
+<p>In obedience to Yor <abbr expan="Lordships">Lordps</abbr> commands, I here <sic corr="enclose">inclose</sic> <lb/>Lists of all the Negros imported into this Colony from <note target="n1">Lady day</note> 1718 <lb/>to Lady day 1727: there have been upwards of twelve hundred imported since <lb/>and more daily expected, but none from the <note target="n2">African company.</note></p>
+
+<p>Since my last to Yor <abbr expan="Lordships">Lordps</abbr> (whereof a Duplicate is inclosed) <lb/>the Owners of the Ship <name type="ship">John &amp; Betty</name> of Bristol have made proof <lb/>of that ships arrival on the 10th of June 1726 and being then at <lb/>anchor in Rappahannock River, and orders are given conformable <lb/>to Yor <abbr expan="Lordships">Lordps</abbr> commands for restoring the money received for the duty <lb/>of the Rum imported therein.</p>
+
+<p>Herewith Yor <abbr expan="Lordships">Lordps</abbr> will receive the Duplicates of the Council <lb/>Journals sent in my last dispatch, since which there has been one <lb/>Meeting of the Council as the Court of Oyer &amp; Terminer held this month <lb/>but as the Minutes have not yet been read &amp; approved I cannot send them <lb/>by this conveyance. The most <sic corr="Material">matereal</sic> point then under consideration <lb/>was the safety of the Trade, now that a War is begun with Spain <lb/>whose Settlement at St Augustine is like to prove dangerous to the 
+
+<pb n="2"/><lb/><lb/>
+Navigation of these Plantations. to prevent this it has been <lb/>judged necessary to order the Merchant Ships to Sail hence in Fleets <lb/>under the Convoy of the Man of war on this Station, which will <lb/>go in company with them a convenient distance off this Coast <lb/>and tis hoped the two Fleets directed to be formed (according to the <lb/>inclosed Resolution of the Council) will include all the Ships now <lb/>here, two or three only excepted.</p>
+
+<p>I hope this precaution will not be disapproved by Your <abbr expan="Lordships">Lordps</abbr> <lb/><sic corr="although">tho</sic> I have received no <sic corr="public">publick</sic> notification of the <sic corr="war,">warr,</sic> nor any <lb/>directions either in relation to the Security of the Trade of the defense <lb/>of the Country: but as tis probable a Governor is now on his way <lb/>hither, who being a Military may may be better acquainted wth those <lb/>matters <sic corr="than">then</sic> I am, I shal fobear troubling Yor <abbr expan="Lordships">Lordps</abbr> with such <lb/>things as occurr to me as highly necessary to the Service of both if this <lb/>war is like to draw out into any considerable length. I am with <lb/>all possible duty and respect </p>
+
+<closer>My Lords <lb/>Your <abbr expan="Lordships">Lordps</abbr> <lb/>Most obedient <lb/>humble Servant <lb/><lb/><hi rend="italics"><hi rend="bold">ROBERT CARTER</hi></hi></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> CO5/1320, Public Record Office, London, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.. This is the recipients' copy signed by RC, and is endorsed: "Recd Aug 21st | Read Sept. 28 } | 1727 with two papers not copied." Marginal summaries have been placed to the left of each paragraph by the Board's clerk. There is a draft in Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond., 83-84, and a nineteenth-century transcript of the  draft in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Virginia" for the colony in which he lived rather than "Corotoman," the name of his home, on his correspondence to officials abroad. The county has been added for clarity.</note>
+
+<note id="n1">[1]  Lady Day, or Annunciation Day, is March 25th, the date on which many Christians believe that the announcement of Christ's incarnation was made to the Virgin Mary.</note>
+
+<note id="n2">[2] The Royal African Company, founded in 1672, grew out of earlier slave-trading companies that had been founded in the middle of the  seventeenth century, and that held monopolies on the English trade in slaves. The trade proved so  profitable that Parliament was lobbied successfully to rescind the monopoly and open the trade to anyone which happened in 1698.  (<cit><bibl>http://www.pbs.org/wgbh/aia/home.html</bibl></cit>; and <cit><bibl n="B27">Billings. <hi rend="italics">et al. </hi> <title>Colonial Virginia: A History.</title> p. 232.</bibl></cit>)</note>
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C27f27b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to John Stark, June 27 and July 22, 1727
+</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 12 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C27f27b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2003</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to John Stark, June 27 and July 22, 1727</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1727-06-27</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C27f27bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1727-06-27"></date>
+<idno rend="suppress">C27f27b.xml</idno>
+<title>Letter from Robert Carter to John Stark, June 27 and July 22, 1727
+</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Glasgow merchant John Stark, June 27, 1727, concerning tobacco that he had shipped to Stark on the <hi rend="italics">Ann &amp; Elizabeth,</hi> a ship that went aground but whose cargo was saved. He reports a bill of exchange drawn on Stark, encloses a bill of lading (not present) for 34 hogsheads shipped on the <hi rend="italics">Lucia,</hi> and reminds Stark that he expects his tobacco to be sold promptly because he dislikes "Dribling lagg Sales." In a post script, he requests Stark find him several tradesmen. In a post script dated July 22, 1727, he reports others bills of exchange.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note target="n1">John Stark,</note> June 27 and July 22, 1727</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Rappahannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1727-06-27">June the 27th: 1<hi rend="underline">727</hi></date><lb/>
+Mr. John Stark<lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+
+
+<p>Since the above I have <abbr expan="yours">yors:</abbr> of the 27th of March <lb/>in which your <del>tell</del> opinion is that I ought not to <sic corr="Salkvage">Salvidge</sic> for my <lb/><abbr expan="tobacco">Tobbo:</abbr>
+ in the <note target="n2"><name type="ship">Ann and Elizabeth</name></note> and Certainly you are in the right <lb/>doubt not you will See Justice done me I hope <abbr expan="tobacco">Tobbo:</abbr> being so Scarce <lb/>my 2 <abbr expan="hogsheads">hhds:</abbr> met with no bad market when I See the Sale of 23 <abbr expan="hogsheads">hhds</abbr> <lb/>I Shall be able to say whether I am pleased or no</p>
+
+<p>Besides the <del>above</del> bills of <abbr expan="exchange">Exche:</abbr><add place="supralinear">to </add> <note n="MCB">Braxton</note> I have drawn on you <lb/>to <note n="JB">Joseph <sic corr="Belfield">Belfeild</sic></note> for Thirty one pounds Thirteen Shillings which <lb/>request your payment of also.</p>
+
+<p>This Covers a bill of Lading for 34 <abbr expan="hogsheads">hhds:</abbr> of <abbr expan="tobacco">Tobbo:</abbr> <lb/>on board the <name type="ship">Lucia </name><note target="n3"><abbr expan="Captain">Capt:</abbr> Bowman</note> which I wish to <add place="supralinear">a</add> good market <lb/>You have abundance of Ships here this year I reckon not many <lb/>of them will go out with this Fleet and therefore for your taking <lb/>the forward market which generally proves the best and those <lb/><sic corr="Dribbling">Dribling</sic> <sic corr="lag">lagg</sic> Sales I desire may always be avoided in my Concern <lb/>Hope my <abbr expan="tobacco">Tobbo:</abbr> will rise well I am Sure I had most of it from good <lb/>Planters and not a <abbr expan="hogshead">hhd:</abbr> <del>fit</del> is of my <note target="n4">Quit rent </note><abbr expan="tobacco">Tobbo:</abbr> <note target="n5">Mr. Read</note> <lb/>was here two days ago and tells me he doubts he Shall not be able <lb/>to get Nickalson loaded by a hundred <abbr expan="hogsheads">hhds:</abbr> whether I can help him <lb/>any thing I cant yet <del>foretell</del> Promise <sic corr="until">untill</sic> I have got all my <lb/><abbr expan="tobacco">Tobbo:</abbr> home</p>
+
+<p>	I intend to have Some particular goods from you <lb/>but have not Time now to write an Invoice Wishing you health <lb/>and prospertity I am </p>
+
+<closer>Sir&mdash;<lb/>Yor: very humble Servt:<seg type="postscript"><lb/><lb/>It may fall in your way to procure <lb/>for me the following Tradesmen. <lb/>A <sic corr="Gardener,">Gardner,</sic> a good <sic corr="Taylor,">Tayler,</sic> a Bricklayer <lb/>and a Barber Surgeon which if cannot meet with these Servants <lb/>at Glasgow I will have hope you may at Edinburgh or at least at <lb/>Dublin <sic corr="Although">Altho</sic> I have the worst Opinion of the Irish of any Country <lb/><lb/>per <note target="n6">Bowman</note><lb/>Copy per Dunlap<lb/><lb/>
+
+</seg><seg type="postscript">Added to Mr. Starks last Letter by Bowman<lb/><lb/>
+Mr. John Stark<lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rappahannock, July 22d: 1727<lb/>
+Sir&mdash;<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The above Entertains you with a repetition of <lb/>mine by <abbr expan="Captain">Capt:</abbr>Bowman I have little now to Say advise you of <abbr expan="another">anr.</abbr> <lb/>Bill Since drawn on you payable to Charles Burgess for &pound;6/--/-- <lb/>which desire your Acceptance of
+
+<lb/><lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Herein Send you three Small bills of <abbr expan="exchange">Exch.</abbr> to witt <lb/><abbr expan="Thomas">Thos:</abbr> Berry on John Zuil for &pound;9:19:5. <note target="n7">Henry Lee</note> on Neil <lb/>Buchannan for &pound;5"6"&mdash; <abbr expan="Alexander">Alexr:</abbr> Chrystils on <abbr expan="Charles">Chas:</abbr> Miller &amp; Company <lb/>for &pound;5"--"-- desire your receipt of this money for my Accot. or <lb/>returns of protest I have not lately heard how Nicholson goes for=<lb/>ward Shall give you no further at present I remain <lb/><lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir,<lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor: very humble Servt:<lb/><lb/>
+My Bill to <note n="MCB">Colonel Braxton</note> was <lb/>for &pound;300
+<lb/>per Dunlop</seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1727 May-1728 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>This text revised to add the post script 8/4/03.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. Rappahannock, the county, and colony have been added for clarity to this unheaded draft.</note>
+
+<note id="n1">[1] John Stark was a merchant, probably the one to whom Carter referred when he wrote to Micajah Perry on 1723 July 4 that he had drawn an order on "Mr. Stark of Glasgow." On that same day, he wrote to a John Stark, referring to Captain Bowman.</note>
+
+<note id="n2">[2] Carter had written Stark 1727 May 19, "I Sent you in a James River Ship the Ann &amp; Eliza. Mc:Clean Master 13 hhds: of Tobbo: 10 of my own and 3 of Mr. Burwells Estate. I hear the Ship was driven a Shoar in a Storm The Cargoe all Saved and the Ship like to be got of. of this I have yet no Accot: from you."</note>
+
+<note id="n3">[3] Captain Samuel Bowman commanded the <hi rend="italics">Lucia.</hi> Carter mentioned this vessel in his diary in June 1724, and again on 1726 March 4 when he wrote that she "came in had 20 Weeks Passage."</note>
+
+<note id="n4">[4] Quit rent was the term used for the payment due from the holder of land to the "lord of the manor," in this case, to the proprietors of the Northern Neck. Carter as the proprietor's agent collected these payments. No services were required of the landholder as had been true in mediaeval times.</note>
+
+<note id="n5">[5] James Read (Reid) is not referred to as "captain" which means he was an official or factor of John Stark's firm  who was empowered to do its business in Virginia. Carter had noted that Read was aboard the <hi rend="italics">Charles,</hi> a Glasgow ship that was owned by Stark, in a letter to Stark of 1723 September 4. </note>
+
+<note id="n6">[6] Captain Samuel Bowman commanded the <hi rend="italics">Lucia.</hi> Carter mentioned this vessel in his diary in June 1724, and again on 1726 March 4 when he wrote that she "came in had 20 Weeks Passage."</note>
+
+<note id="n7">[7] Henry Lee (1691-1747) was a son of Carter's old friend, Hancock Kee (1653-1709). He lived in Westmoreland County at "Lee Hall" and married Mary Bland. (<cit><bibl>Burton J. Hendrick. <title>The Lees of Virginia: Biography of a Family.</title> [Boston: Little Brown, 1935]. pp. 329-30.</bibl></cit>)</note>
+
+
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C20i27a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to John Carter, September 27, 1720</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 9 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">filename</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to John Carter, September 27, 1720</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date>unpublished</date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1720-09-27</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C20i27aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1720-09-27"></date>
+<idno rend="suppress">C20i27a.xml</idno>
+<title>Letter from Robert Carter to John Carter, September 27, 1720</title>
+</bibl>
+</head>
+<p>Letter from Robert Carter writes to his son, John Carter, then in London studying law, September 27, 1720, "to acquaint You of the present Circumstances of Yor. relations," reporting that John's sister, Elizabeth Burwell, has lost "her second Son Nathaniel." He adds that the rest of the family has been in good health although he has "had frequent fitts of that pityless distemper the tooth=Ake." Commenting that the Virginia trade has suffered a great loss with the death of Richard Perry, and that "The 
+Old Gent. [Micajah Perry] holds on to a wonder," he does not believe that the grandsons will be as good businessmen. He reports the good crop of tobacco but notes that it will lower prices, and also report the death of [John] Baylor, "the greatest Mercht: in our Country." He concludes with wishes that John and his brothers, also then in England at school, are enjoying good health, and that John will work hard during his remaining time in England.</p>
+
+
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to John Carter, September 27, 1720</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1720-09-27">Sepr. 27. 1720.</date><lb/>
+</dateline>
+<salute>Dear Son John</salute>
+
+</opener>
+
+<p>By the <note n="CS">Carter</note> (whose arrival <lb/>with you I hope to hear of before this Day) I <sic corr="wrote">writ</sic> <lb/>in full in <abbr expan="answer">ansr.</abbr>
+ to Yor. several <abbr expan="letters">Lettrs.</abbr>
+ This is to acquaint <lb/>You of the present Circumstances of Yor. relations <lb/>Yor. Poor <note target="n1">Sister Burwell</note> is in Mourning for the <lb/>Death of her second Son Nathaniel a hopefull toward<lb/>=ly Child, wch. is an <sic corr="aggravation">agravation</sic> to the loss God grant she <lb/>may bear It with a Christian courage. She hath had <lb/>many tryals of this Nature. The rest of Yor. friends <lb/>at York are in health for anything that I know <lb/>I thank God in this Family we have had a large mea-<lb/>=sure of health this Summer. I have had frequent <sic corr="fits">fitts</sic> <lb/>of that pityless distemper the tooth=Ake The almost <lb/>Inseparable Companion of old age The <add resp="editor">[gou]</add>t hath <lb/>not attacked me since my first <sic corr="fits">fitts</sic></p> 
+
+<p>The death of Mr. <note target="n2">Richd. Perry</note> we have had an <lb/>Account of long ago, a great loss in the <abbr expan="Virginia">Virga.</abbr>
+ Trade, The <lb/>Old <abbr expan="gentleman">Gent.</abbr>
+ holds on to a wonder, whenever he goes It is <lb/>much to be feared. The Young men will never come up <lb/>to his Spirit in business but these things must be left <lb/>to Providence,</p>
+
+<p>We have made a <sic corr="plentiful">plentifull</sic> Crop this Year <lb/>The Consequence of wch. <sic corr="it is">tis</sic> <add resp="editor">[not]</add> to be doubted will be <lb/>a depression to our Markett, &amp; that must of necessity <lb/>make us <abbr expan="lower">low'r</abbr> our Topsails&mdash;</p>
+
+<p><note target="n3">Mr. Baylor</note> the greatest <abbr expan="merchant">Mercht:</abbr>
+ in our Country <lb/>how great an estate will now be known&mdash;is lately <lb/>dead, I pray God Send this may find you &amp; Your <lb/><note target="n4"><abbr expan="brothers">Brors.</abbr>
+</note> in health, &amp; that you may make the best use of the <lb/>time You have to stay in England
+</p>
+
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+<note><hi rend="italics">Source copy consulted:</hi>  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. Printed: <cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> pp. 54-55.</bibl></cit>
+</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note><lb/>
+
+<note id="n1">[1] Elizabeth Carter (1692-1734) married in 1709 Nathaniel Burwell (1680-1721) of "Carter's Creek," Gloucester County, and, in 1722, Dr. George Nicholas.</note>
+
+<note id="n2">[2] Richard Perry, son of and partner with his father Michajah, in the great London firm of Perry &amp; Lane, had died in April 1720.</note>
+
+<note id="n3">[3] John Baylor (d. 1720) lived first in Gloucester, and was burgess in 1692.  He subsequently moved to King and Queen County (which he represented in the Assembly in 1718), and became a prominent merchant with stores in Gloucester, King and Queen, and New Kent counties.  "His principal warehouses were at Baylor's on the Mattaponai between Walkerton and King &amp; Queen Court House." (<cit><bibl>"The Baylor Family." <title>Virginia Magazine of History and Biography.</title> 6[1898-1899]: 197-199.</bibl></cit>)</note>
+
+<note id="n4">[4] John Carter's younger brothers, Robert (1704-1732), Charles (1707-1764), and Landon (1710-1778), were then in England for their education. (<cit><bibl n="B30">Greene. <title>The Diary of Colonel Landon Carter. . . .</title>, 3.</bibl></cit>) </note>
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

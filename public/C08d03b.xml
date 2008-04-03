@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C08d03b">
+
+<teiHeader type="aacr2"> 
+              
+<fileDesc> 
+<titleStmt> 
+     <title type="245">Letter from Robert Carter to John Goodwin, 1708 April 3 </title> 
+   <title type="gmd">[electronic resource]</title> 
+     <author>Carter, Robert</author> 
+   <respStmt> 
+     <resp>Creation of machine-readable version: </resp> 
+     <name id="editor">Edmund Berkeley, Jr.</name> 
+     <resp>Conversion to TEI.2-conformant markup</resp> 
+     <name>Edmund Berkeley, Jr., and the University of Virginia Library Electronic Text Center</name> 
+   </respStmt> 
+</titleStmt> 
+ 
+<extent>ca. 5 kilobytes </extent> 
+ 
+<publicationStmt> 
+     <publisher>University of Virginia Library.</publisher> 
+     <pubPlace>Charlottesville, Va.</pubPlace> 
+     <idno type="ETC"></idno> 
+     <availability> 
+     <p>Publicly accessible</p> 
+     <p n="public">URL: http://etext.lib.virginia.edu/modeng.browse.html</p> 
+         </availability> 
+     <date>2001</date> 
+</publicationStmt> 
+ 
+<sourceDesc> 
+     <biblFull> 
+     <titleStmt> 
+     <title>Letter from Robert Carter to John Goodwin, 1708 April 3 </title> 
+        
+     <author>Robert Carter</author>
+      </titleStmt> 
+    <extent>1 p.</extent> 
+<publicationStmt> 
+     <date>1708-04-03</date> 
+   <idno type="callNo">Source copy consulted: Christ Church Parish, Lancaster County, Processioners' Returns, 1711-1783,and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond, 178.</idno> 
+</publicationStmt> 
+</biblFull> 
+</sourceDesc> 
+ 
+</fileDesc> 
+     <encodingDesc> 
+     <projectDesc> 
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p> 
+     </projectDesc> 
+<editorialDecl> 
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in establishing 
+analytical groupings.</p> 
+</editorialDecl> 
+ 
+<classDecl> 
+     <taxonomy id="LCSH"> 
+     <bibl> 
+     <title>Library of Congress Subject Headings</title> 
+     </bibl> 
+     </taxonomy> 
+</classDecl> 
+</encodingDesc> 
+ 
+<profileDesc> 
+     <creation> 
+     <date>1708-04-03</date> 
+     </creation> 
+     <langUsage> 
+     <language id="eng"></language> 
+     </langUsage> 
+     <textClass> 
+     <keywords> 
+     <term>non-fiction</term> 
+   <term>prose</term> 
+     </keywords> 
+     <keywords scheme="LCSH"> 
+     <term type="Field650">LCSH</term> 
+     </keywords> 
+     </textClass> 
+</profileDesc> 
+ 
+</teiHeader> 
+ 
+<text id="C08d03bT">
+
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 pp.</extent>
+<date value="1708-04-03">April 3, 1708</date>
+<idno rend="suppress">C08d03b</idno>
+<title>Letter from Robert Carter to John Goodwin, 1708 April 3</title>
+</bibl>
+</head>
+<p>Robert Carter complains to London merchant John Goodwin, 1708 April 3, that Goodwin so seldom writes that he must "have done wonders with the Tobo. you had on your hands,"  and reports that he is enclosing a bill of lading for 9 hogsheads of tobacco belonging to the estate of Ralph Wormeley. He also notes that the warship Garland and some merchant ships from Bristol arrived a couple of days earlier.</p>
+</div1>                 
+</front>
+
+ 
+<body> 
+ 
+<div1 type="letter" n="1708-04-03"> 
+ 
+<head>Robert Carter to <note n="JG">John Goodwin,</note> April 3, 1708</head> 
+ 
+<opener> 
+
+<dateline>
+<pb n="1"/> 
+<name type="place">Rappa<add  resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/> 
+ 
+<date value="1708-04-03">April 3d. 1708</date> 
+ 
+ 
+<name type="person">Mr. John Goodwin</name><lb/>Sr.
+ </dateline>
+</opener> 
+ 
+<p>You so seldom favour me with writing that I have none of yors wch. at <lb/>this time call for answer, 
+you have such a vacancy <add place="supralinear">of Talk</add> that there's <lb/>no doubt but you have 
+done wonders with the Tobo. you had on your <lb/>hands, The business of this is to cover a Bill of 
+Lading for nine hds. of <lb/>Tobo belonging to Esqr. Wormelyes Estate I have drawn on you for <lb/>the 
+Impost being 19S, we have yet no Accot of the <name type="place">London</name> Fleet, <lb/>The 
+<note target="n1"><name type="ship">Garland <add place="supralinear"> man of 
+war</add></name></note> &amp; some of the <name type="place">Bristol</name> men are arrived within this 2 
+or 3 <lb/>d<add  resp="editor">[ays]</add><lb/><lb/> 
+I am Yor Humble Servt:<lb/>
+ </p> 
+</div1> 
+</body> 
+ 
+<back> 
+<div1 type="notes"> 
+<head>NOTES</head>
+
+<note><hi rend="italics">Source copy consulted: </hi>Christ Church Parish, Lancaster County, Processioners' Returns, 1711-1783, and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond, 178. </note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note><lb/>
+
+
+<note id="n1">[1] H.M.S. <hi>Garland</hi> was commanded by <name type="person">Charles Stewart</name>; when she returned the following year under the command of a Captain Cook, she was wrecked November 29, 1709, on the North Carolina coast. (<cit><bibl n="B10"><title>Executive Journals 
+of the Council. . . . </title> 3(1721-1739): 169, 219, 228, etc.</bibl></cit>)</note> 
+ 
+</div1> 
+</back> 
+</text> 
+ 
+
+</TEI.2>

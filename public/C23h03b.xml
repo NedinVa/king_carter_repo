@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C23h03b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Micajah Perry, August [3-8] , 1723</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 7 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C23h03b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2002</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Micajah Perry, August [3-8] , 1723</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1723-08-03</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C23h03bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1723-08-03"></date>
+<idno rend="suppress">C23h03b.xml</idno>
+<title>Letter from Robert Carter to Micajah Perry, August [3-8] , 1723</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant Micajah Perry, August [3-8], 1723,  about a bill of exchange payable to John Bagg he has drawn on the account of his late son-in-law, Nathaniel Burwell, in which his other son-in-law, Mann Page, will join him in signing. He refers to an annuity he has offered the merchant, and notes that if Perry will not accept it, he thinks he will write to soon to direct Perry to use the cash to buy bank stock. </p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="MP2">Micajah Perry,</note> August [3-8] , 1723</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1723-08-03">Aug.[ust, 3-8, 1723]</date><lb/>
+Mr. Micajh Perry<lb/>
+</dateline>
+
+
+</opener>
+
+<p>This is a Short line Via Glasgow to Advi<add resp="editor">[se]</add> <lb/>You of a Bill of <abbr expan="exchange">Exche.</abbr> that I drew on You Yesterday <add place="supralinear">for One hundred P<add resp="editor">[ounds]</add></add> payab<add resp="editor">[le]</add> <lb/>to Mr <abbr expan="John">Jno</abbr> Bagge to be <sic corr="answered">Answerd</sic> out of <note n="NB">Mr Burwells</note> Mon<add resp="editor">[ey]</add> <lb/>Which We have <sic corr="placed">placd</sic> Out to Interest According to the Tenor of <lb/>his Will, I conclude the Bills in the plural Number Mr Bagg <lb/>is to  carry them to <note n="MP1"><abbr expan="Colonel">Collo.</abbr> Page</note> for his Signing also.</p>
+
+<p>I Observe in the prints An Act  is passd for paying off the <lb/>Unsubscribed redeemable Annuitys, under which denomination I <lb/>take mine to be, I am in great hopes when You are under the Necessity <lb/>of receiving my Annuity, That You will take it upon the proposal  I <lb/>have made to You, but if no Consideration will move You to It, I believe  <lb/>my next will bring You possitive Orders to Turn it Into Bank-Stock <lb/>and I shall be desirous to Add as much Money to It as will make <lb/>It fifteen hundred pound Bank Stock, which now I Observe runs <lb/>At One hundred &amp; Seventeen &amp; Sometimes lower I am  </p>
+
+<closer><hi rend="italics">Sir Yor. humble Servt.</hi><seg type="postscript"><lb/><lb/>Per the <name type="ship">Mazereen </name> <abbr expan="Captain">Capt.</abbr><note target="n1"><add resp="editor">[Richard]</add></note> Kelsick <lb/>Copy per the <name type="ship">Lucy </name> <note target="n2"><abbr expan="Captain">Capt.</abbr> <add resp="editor">[Samuel]</add>
+ Bowman</note></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1723 June 16-1724 April 23, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.  The corner of the letter book page has been torn off after the month, and the date 3-8 has been supplied as this letter stands between letters dated the 3rd and the 8th.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note>Carter added the closing in his hand  to the clerk's draft as the use of italics indicates.</note>
+
+
+
+<note id="n1">[1] Carter gave the captain's first name in his diary on 1727 January 19,</note>
+
+<note id="n2">[2] Captain Samuel Bowman commanded the <hi rend="italics">Lucia.</hi> Carter mentioned this vessel in his diary in June 1724, and again on 1726 March 4 when he wrote that she "came in had 20 Weeks Passage."</note>
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

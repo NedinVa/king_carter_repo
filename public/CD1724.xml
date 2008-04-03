@@ -1,0 +1,1146 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="CD1724">
+
+
+<teiHeader type="aacr2">
+					
+<fileDesc>
+<titleStmt>
+     <title type="245">Robert Carter Diary, 1724</title>
+	<title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+	<respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr., and the University of Virginia Library Electronic Text Center</name>
+	</respStmt>
+</titleStmt>
+
+<extent>ca. 77 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">Modeng enter file ID</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/modeng.browse.html</p>
+         </availability>
+     <date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Robert Carter Diary, 1724</title>
+    <author>Robert Carter</author>
+     </titleStmt>
+        <extent>24 ff.</extent>
+    <publicationStmt>
+     <date>unpublished</date>
+	<idno type="callNo"> Source copy consulted: Robert Carter Diary, 1722-1728, Robert Carter Papers, Acc. No. 3807, Albert H. Small Special Collections Library, University of Virginia. Charlottesville.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH">
+     <bibl><title>Library of Congress Subject Headings</title></bibl>
+     </taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation>
+     <date>1724</date>
+     </creation>
+     <langUsage>
+     <language id="eng"></language>
+     </langUsage>
+     <textClass>
+     <keywords>
+     <term>non-fiction</term>
+	<term>prose</term>
+     </keywords>
+     <keywords scheme="LCSH">
+     <term type="Field650">LCSH</term>
+     </keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="CD1724T">
+
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AD</abbr>
+<extent>21 ff.</extent>
+<date value="1724">1724</date>
+<idno rend="suppress">CD1724.xml</idno>
+<title>Robert Carter Diary, 1724</title>
+</bibl>
+</head>
+<p>Robert Carter records the work being done on his plantations, the prevailing winds and a hurricane, visitors he received including members of his family, trips to Williamsburg and the sums he  spent while there, arrival of ships with goods from Britain, movement of tobacco from outlying farms on his sloops and its placement on ships bound for Britain, and details of his bouts with gout.</p>
+</div1>                 
+</front>
+
+<body>
+<div1 type="diary" n="1">
+
+<head>Robert Carter Diary, 1724</head>
+<opener>
+
+<dateline>
+<pb n="ff19r"/><lb/>
+<date value="1724">1724</date>
+
+<name type="place">[Kept at "Corotoman" on the Rappahannock River, Lancaster County, Virginia]</name>
+
+</dateline>
+</opener>
+<p>
+
+
+<add resp="editor">[January 1, 1724] </add><lb/><lb/>
+New Years day   W<add resp="editor">[ind]</add> fresh at NW  a clear<lb/>  
+day  gave a Crown to <note n="AC1">Amy Cosby</note>  2/6 to Isbel <lb/> 
+a mild Shilling a <abbr expan="piece">ps</abbr>
+ to <note n="MCB">Mary</note>  <note n="LCF">Lucy</note>  <note n="GC">George</note> <lb/>
+ 
+<pb n="ff 19v"/><lb/><lb/> 
+Janr 2 1723/4 
+<note n="JG3">Jo Gregory</note> arrivd last night from the <note n="FQ">falls</note><lb/>  
+<abbr expan="brought">brot</abbr> 37 <abbr expan="hogsheads">hds</abbr> my own Tobo  5 <note n="NB">mr Burwells</note><lb/> 
+2 Grasons  1 <note target="n1"><abbr expan="Colonel">Coll</abbr> Spotswoods</note>, a <abbr expan="hogshead">hd</abbr>
+ beans <lb/>
+27 hogs<lb/>  
+a fair day   W<add resp="editor">[ind]</add> at <abbr expan="south">So.</abbr>
+ <lb/>
+5   Gregory went away for Woodwd <lb/>
+&amp; the <note n="LL">LL</note> Tobo  a NE W<add resp="editor">[ind]</add>  held 2 days <lb/>
+7   <note n="NB">my daughter <note n="ECB">Burwell</note></note> came <lb/>
+here <lb/>
+9   <note n="MP1"><abbr expan="Colonel">Coll</abbr> Page</note> came here &amp; his Family<lb/> 
+<abbr expan="Henry">Hen</abbr>
+ Bell here <lb/>
+10   Thomas &amp; Ashley here<lb/>  
+11   did their Business <lb/>
+13   monday   first day I got on my<lb/> 
+Shoos	 <sic corr="wrote">writ</sic> to <note n="BH1">mr Harrison</note>  <note n="JH">mr<lb/> 
+Holloway</note><lb/>  
+my Daughter Burwell had  <lb/>
+a <abbr expan="piece">ps</abbr> <note target="n30"> Canting</note>  Pins  Laces for my <lb/> 
+Girls<lb/>  
+<note target="n2">Keeling</note> sloop here  6 <abbr expan="pound">l[b]</abbr>
+ w<add resp="editor">[hi]</add>t<add resp="editor">[e]</add> <sic corr="sugar">Sugr</sic><lb/> 
+to the house 3 days ago<lb/> 
+A Guinea to my <note n="JCP">Daughter Page</note>  her <lb/>
+Nurs a Guinea for a <abbr expan="New Year's">N yeres</abbr> Gift<lb/>  
+A Guinea for <abbr expan="ditto">do</abbr>
+ to my Daughter <abbr expan="Burwell">Burl:</abbr>
+<lb/>  
+13   <note n="WR1"><sic corr="Major">Mayr</sic>  Robinson</note> came here<lb/>  
+16   my Sloop came from <sic corr="Potomac">Petomack</sic><lb/>  
+my Overseers came down with 14 hogs<lb/>  
+2 Beeves   <abbr expan="brought">brot</abbr> ten Negros with them<lb/> 
+17   <note n="MP1"><abbr expan="Colonel">Coll</abbr> Page</note> &amp; my Daughters &amp;c went<lb/> 
+away   <note n="MCB">Mary</note> &amp; <note n="LCF">Lucy</note> staid behind<lb/> 
+my boat <abbr expan="brought">brot</abbr> me my Lettrs from <note target="n3">Cole</note>  <note n="JH2">mr<lb/>  
+Hyde</note><lb/>  
+19   my Sloop from <note target="n4"><abbr expan="Captain">Captn</abbr>
+ Woodward</note> was <abbr expan="brought">brot</abbr><lb/> 
+into the Creek	 I would not receive her til<lb/> 
+monday<lb/> 
+20   I fetcht my <sic corr="cider">Sydr </sic> <sic corr="ashore">ashoar</sic><lb/>  
+22   my Sloop went away with 46 <abbr expan="hogsheads">hds</abbr> Tobo on<lb/>  
+board the <name type="ship">Betty</name>  <abbr expan="Captain">Captn</abbr>
+ Keiling<lb/> 
+24   I lent <note target="n60">Henry Lawson</note> 41<abbr expan="shillings">S</abbr> &amp; 5d <lb/> 
+29   my Sloop came home <lb/> 
+Febr 1	 Jo Gregory came home  <abbr expan="brought">brot</abbr> 17 <abbr expan="hogsheads">hds</abbr> <sic corr="freight"> Frit</sic> <lb/>
+for <abbr expan="Captain">Captn</abbr> Woodwd, 11 my own from <note n="PE">Peumds End</note><lb/> 
+3 from Scrine  4 <note n="CP">Coles Point</note>  2 from Mattox<lb/>
+of <note n="LL">LL</note> 37 Stript  2 leaf in all 66 <abbr expan="hogsheads">hds</abbr>  <lb/>
+my Sloop carried <abbr expan="aboard">abd </abbr> <abbr expan="Captain">Captn</abbr>
+ Woodwd 20 <abbr expan="hogsheads">hds</abbr>   came  <lb/>
+the 2d Febry raind hard all Night <lb/><lb/> 
+ 
+
+<pb n="ff 20r"/><lb/><lb/>
+1723 <add resp="editor">[1724]</add><lb/> 
+Febr 3d   a rainy day	W<add resp="editor">[ind]</add> at <damage></damage> <add resp="editor">[fres]</add>h in the Night<lb/> 
+4   It snowd all the morning  in the Evening <lb/> 
+W<add resp="editor">[ind]</add> at NW  froze hard  mr Dove came here<lb/> 
+spoke to me for my sloop<lb/>  
+5   a cold clear morning   W<add resp="editor">[ind]</add> at NW  Coachman<lb/> 
+goes for Corn to <note n="IT">Indian Town</note><lb/> 
+Jo Gregory goes away with 30 <abbr expan="hogsheads">hds</abbr> for <abbr expan="Captain">Captn</abbr>
+<lb/>  
+Keiling <lb/> 
+6   a cloudy morning   W<add resp="editor">[ind]</add> at S.E. a fresh Gale<lb/>  
+Yesterday Ben from mrs Burwell came <lb/>
+here wth a Lettr abt Nell&mdash;&mdash;<lb/>  
+12   Jo Gregory returnd from <sic corr="Piankatank">Peanketank</sic> <add resp="editor"> [River]</add><lb/> 
+Burwells Sloop came here for 30 <abbr expan="hogsheads">hds</abbr> of my<lb/> 
+<sic corr="tobacco">Tob</sic>  12 from my own house took in that day<lb/> 
+went away that Night to <note n="FB">Fleets bay</note> for <lb/> 
+the rest<lb/>  
+13   I went to <note target="n6">mr Wormeleys</note> <abbr expan="christening">Xtning</abbr>   stood<lb/> 
+Godfather  Mat Walker with me  <note n="EAW">Betty<lb/> 
+Churchill</note>  mrs Kemp  Godmothers   Child <lb/>
+named John  Gave to the Midwife &amp; a Cisedr <add resp="editor">[?]</add><lb/>
+to the Woman that Suckled the Child for the<lb/>  
+Present 2 <sic corr="milled">mild</sic> 1/2 Crowns<lb/> 
+<abbr expan="received">Recd</abbr> my Daughters Packet<lb/> 
+14   at Night got home <lb/> 
+15   answerd my Daughters 1/2 Sheet lettere <lb/> 
+Ben kept here till the 17th before I could <lb/>
+get him over the river.<lb/>  
+17   Load <sic corr="aboard">abord</sic> my Sloop 14 <abbr expan="hogsheads">hds</abbr> to go abd <lb/> 
+the <note target="n7"><name type="ship">Bailey</name> </note><lb/>
+<note target="n59">Adam Graves</note> lay here last Night.<lb/>
+Carried my Lettrs with him to Machins <lb/> 
+for Keiling  Ben went wth him <lb/> 
+18   <abbr expan="Captain">Captn</abbr>
+ Woodward Sailed wth a N W<add resp="editor">[ind]</add><lb/> 
+Jo Gregory Sailes aboard the <name type="ship">Carter</name> <lb/> 
+N W<add resp="editor">[ind]</add> hath blown hard 3 daies &amp; Nights<lb/>
+19   W<add resp="editor">[ind]</add> continues NW  hard  very cold <lb/>
+gave 6 <abbr expan="pound">lb</abbr> Sugr to Isbel   2 <abbr expan="pound">lb</abbr> t[o] Martha for Chocolate<lb/>  
+my Sloops lyes before house   W<add resp="editor">[ind]</add> too hard to go of.<lb/> 
+20   My Sloop got aboard Graves<lb/> 
+21   <abbr expan="Robert">Rob</abbr> &amp; his Sisters got home  <abbr expan="Captain">Captn</abbr>
+ White<lb/>  
+came wth them  <abbr expan="Captain">Captn</abbr>
+ Escridge here <lb/> 
+I sent mr Wormeley a Carboy Jam<add resp="editor">[aican]</add> Rum <lb/>
+a <abbr expan="pair">pr</abbr> Shoos for Ralph <lb/>
+<note n="CS1">Stag</note> came here <note n="RM">mr Meeks</note> here <lb/>
+22   I set mrs Burwels Ben over the river <lb/> 
+mr Thomas  <note n="WB"><abbr expan="Colonel">Coll</abbr> Ball</note> here <lb/>
+mr Harrison &amp; my daughter came <lb/>
+Peter Smith had a bottle rum   <abbr expan="Garland">Garld</abbr> here <lb/><lb/>
+
+<pb n="ff 20v"/><lb/><lb/>
+
+Febr <unclear>[ . . . ]</unclear> 1723/4<lb/>  
+24th   I sent for Trunk from <abbr expan="Captain">Captn</abbr>
+ Carters  <lb/>
+28   my Son &amp; his wife &amp; my Daughter Burwel<lb/> 
+came here  <lb/>
+Mar 2d	 Mr Harrison &amp; his wife went away <lb/> 
+abundance of rain &amp; wind the beginning of <lb/>
+this month  <lb/>
+9   <note n="GT">Geo Turbervile</note> here  <abbr expan="brought">brot</abbr> me Evans Lettrs <lb/>
+12   <abbr expan="our">or</abbr> Court had a dispute wth Sydnor abt the <note target="n8">way</note> <lb/>
+my Son	mrs Burwell &amp;c went away <lb/>
+13   <note target="n9">Tho Edwds</note> &amp;c here <abbr expan="paid">pd</abbr>
+ me some Bills <lb/>
+I <sic corr="wrote">writ</sic> to <note target="n10"><abbr expan="Colonel">Coll</abbr> Mason</note> &amp;c  <lb/>
+14  my Flatt went <note target="n11">aboard [. . .]</note> with 5 <abbr expan="hogsheads">hds</abbr> 10 <abbr expan="hogsheads">hds</abbr><lb/>  
+went in 2 flatts before  14 in my Sloop. <lb/> 
+first fair day a great while   W<add resp="editor">[ind]</add> NW   a Thun <lb/> 
+der Showr last Night. <lb/>
+my Sloop with Gregory came home  <lb/>
+Gregory had a bottle rum  <lb/>
+16   Harry Thomson <abbr expan="brought">brot</abbr> home my boat  I paid  <lb/>
+him 4"10"--Sterling  had the Anchor &amp; Cable  <lb/>
+a fair day  W<add resp="editor">[ind]</add> SW  my flat goes for Eli Edmd <abbr expan="hogshead">hd</abbr> <lb/> 
+18   <abbr expan="Robert">Robt</abbr> Bisco <abbr expan="debtor">Dr</abbr> Sterling <lb/>
+<table>
+<row><cell>to 96 Gall rum at 2/9 per Gall</cell><cell>12.14.&mdash; </cell></row>
+<row><cell>To 166 Sugr at 5d per <abbr expan="pound">lb</abbr></cell><cell><hi rend="underline">3. 9</hi> </cell></row>
+<row><cell></cell><cell> 16. 3.2 </cell> </row> 
+</table>
+18   My Son <note n="GC">Georg</note> &amp; the two boys went <lb/>
+to mr Scot this day <lb/>
+20   Capt Hollad<add resp="editor">[a]</add>y arrived  came ashore wth my<lb/> 
+Son <note target="n12">Charles</note> before the Ship gott up  <lb/>
+Stagg was here	 came here abt 3 Clock<lb/> 
+<abbr expan="Colonel">Coll</abbr> Pages man Sawney came here<lb/> 
+23   the <note target="n13"><abbr expan="Captain">Captn</abbr>
+ Wattson</note> came in  <lb/>
+23   at Night my Sloop went in to <note target="n14"><abbr expan="Captain">Captn</abbr>
+ <lb/>
+Holladays</note> Employ at 12&pound; Sterl per month <lb/>
+had a new Suit of Sailes  my best Cove  <lb/>
+ring  an Anchor &amp; Cable out of <sic corr="the other">tother</sic>  
+Sloop  <lb/>
+24   Adam Graves bro ground  Anchord <lb/>
+a little above my house <lb/>
+25th   Sent my Lettrs aboard  Ship saild down <lb/>
+the river  Anchord agst <note n="AC">mr Churchils</note>  <lb/>
+weighd from thence  W<add resp="editor">[ind]</add> blew hard at SW <lb/>
+very Squawley	I sent Graves a barl Tarr  <lb/>
+Sent to <abbr expan="Richard">Rd</abbr>
+ Meeks 40 <abbr expan="pound">lb</abbr> Sugr &amp; 10 <abbr expan="pound">lb</abbr> before  <lb/>
+I sent my Lettrs away to <abbr expan="Colonel">Coll</abbr> Page  mrs Bur<add resp="editor">[we]</add>l<add resp="editor">[l]</add>  <lb/>
+27  Bisco had Linnen for 2 Shirts <lb/>
+a barrel Corn to Walter Heard <lb/>
+
+
+<pb n="ff 21 r"/><lb/><lb/> 
+March 27th 1724  <lb/>
+I bottle a Cask <note n="NH2">Nomini</note> <sic corr="cider">Cydr</sic>  2 <damage></damage> <lb/>
+kild Tho Wests Steer <lb/>
+anothr Cask Nomini Cydr toda<add resp="editor">[y bottled?]</add>  <lb/>
+Apl 1 W<add resp="editor">[ind]</add> at NW  blew fresh all <damage> day?</damage> <lb/> 
+2d  my Sons went for York 4 hor[ses . . .?]  <lb/>
+I gave <abbr expan="Robert">Robt</abbr> 10<abbr expan=" shillings">S</abbr> Cash  Charles had a Pistol w<add resp="editor">[eigh]</add>t <lb/> 
+1"1"8 &amp; 20<abbr expan=" shillings">S</abbr> Cash <sic corr="silver">Sylver</sic> <lb/> 
+Settled Accots with Joseph Gregory <lb/>
+Apl 4	 I recd the Accot of Daughter Burwells <lb/>
+Marriage to Doctor <add resp="editor">[George]</add> Nicholas  <abbr expan="Colonel">Coll</abbr> Pages <lb/>
+Lettr on good fryday Tells the perticulars <lb/>
+My Weymoth <sic corr="beer">bear</sic> &amp; <sic corr="cider">Cydr</sic> came home <lb/>
+I gave <note n="JO">Odar</note> 5 <abbr expan="quarts">qts</abbr> rum <lb/> 
+1st <note target="n15">borrowing day</note>  blew hard at NW  pretty <lb/>
+cold  2 borrowing day	W<add resp="editor">[ind]</add> the same  blew  <lb/>
+easie	3d good fryday a fine day <lb/>
+this day a fine day <lb/>
+13  To Peter Smith a <abbr expan="pair">pr</abbr> worsted Stockins  a <abbr expan="pair">pr</abbr> Plain <lb/>
+to the brickmaker a <abbr expan="quart">qt</abbr> rum  he began mould <lb/>ing today <lb/>
+14  <abbr expan="Captain">Captn</abbr>
+ Phil Smith  2 bottles Clarett <lb/>
+Peter Smith <sic corr="owes">Ows</sic> me wth Capt Carter neer &pound;4"&mdash;"&mdash; <lb/>  
+I gave directions to <note n="JC2"><abbr expan="Captain">Captn</abbr>
+ Carter</note> to give 10<abbr expan=" shillings">S</abbr> <lb/>
+for common Tobo  light <abbr expan="hogsheads">hds</abbr> 12<abbr expan=" shillings">S</abbr> for heavy  <lb/>
+Arranoke <abbr expan="weight"> wt</abbr> 800 Nett 14<abbr expan=" shillings">S</abbr> for heavy <note target="n16">StStf</note><add resp="editor"> [<hi rend="italics">sic</hi>]</add> <lb/>
+Jo Gregory had 25 fathoms rope for <lb/>
+main halliards	a new Cable &amp; Anchor <lb/>
+a drap box  2 dead Eyes.  <lb/>
+fryday 17 Apl 	I went to <abbr expan="Colonel">Coll</abbr> Pages  Saturday I went <lb/>
+to mr Burwells	 found no body at home  mrs  <lb/>
+Nicholas went [to] <abbr expan="Captain">Captn</abbr>
+ Willis  <lb/>
+Monday morn 20th went to Town  saturday <lb/>
+returned to <abbr expan="Colonel">Coll</abbr> Pages	 Monday 27 went to mr  <lb/>
+Burwells   mrs Nicolas did not appear  <lb/>
+Thursday 30th	Carter Burwell went to the  <lb/>
+<note target="n17"><sic corr="college">Colledg</sic></note>  I gave mr Griffin a guinea for him  <lb/>
+I gave Govrs man Kitt a Guinea  20<abbr expan=" shillings"><abbr expan=" shillings">S</abbr></abbr> for my <abbr expan="escheaters">Eschrs</abbr> <lb/>
+Commission  6<abbr expan=" shillings">S</abbr> to himself   to the Governrs  <lb/>
+Coachman 2/6  to the Lanthorn boys 2/6  a Pis  <lb/>
+tol I left wth mr Hickman for the Govrs Servts  <lb/>
+1/2 Pistol I gave Mrs Countes  5 Shillings to her  <lb/>
+maid  4 <abbr expan=" shillings">Shill</abbr> to the Servts at <note target="n18">mrs Sullivants</note> 15<abbr expan=" pence">d</abbr> <lb/>
+to Tom at Bocock   7/6 to mr Holloway Coachman  <lb/><lb/>
+ 
+
+
+<pb n="ff 21 v"/><lb/><lb/>
+<damage> May</damage> 1724<lb/> 
+<damage>While in To</damage>wn pd barbar &amp; man 7/6<lb/>  
+<damage> At my daughter Wo</damage>rmleys  I gave Joiles 5 <abbr expan=" shillings">Shill</abbr><lb/>  
+<damage> . . .</damage>t wth my Daughter Page  30<abbr expan=" shillings">S</abbr>
+ for <lb/>
+Sarah <damage>. . . </damage>her Accot for my Girls <lb/>
+I <damage> was at</damage> Our Court  took the <note target="n19">Oaths</note>  <lb/>
+gave mr heal his Sheriffs Commission  <lb/>
+he gave me a Pistol for It.  <lb/>
+Brickmaker told me 12 May he had <abbr expan="50,000">56M</abbr> brick  <lb/>
+13   Gregory came home from the falls <abbr expan="brought"><abbr expan="brought">brot</abbr></abbr>
+ 48 <abbr expan="hogsheads">hds</abbr> <abbr expan="tobacco">Tobb</abbr> <lb/>
+I gave mr George Heal his Sheriffs Commission  he pd <lb/>
+me a Pistol  <lb/>
+18   I wash my Sheep 135 olds  36 Lambs  <lb/>
+Jo: Gregory goes for dividing Creeks <lb/>
+I gave <abbr expan="Captain">Captn</abbr>
+ Smith his Sherifs Commission  <lb/>
+he promises 20<abbr expan=" shillings">S</abbr> <lb/>
+I bought of mr <note target="n20">Austin Moor</note> 41 Negros  to wit <lb/>
+6 men &amp; 4 women mr Harrison had for Seating <lb/>
+the Land I bot of Tho Randolph <add place="supralinear">6 men 4 women</add> a girl I gave  <lb/>
+to his daughter Betty Harrison  6 <abbr expan="Negroes">Negrs </abbr><lb/>
+4 men 2 women I bot for mr Burwells Estate <lb/>
+6 Negros  4 men 2 women <abbr expan="Colonel">Coll</abbr> Page had  <lb/>
+for Seating the Land I bot of Major<note n="JH"> Hol  <lb/>
+oway</note> 1 Girl I gave to <note target="n21">Carter Page</note> &mdash;&mdash;<lb/>
+10 men 7 women I sent home <lb/>
+I <abbr expan="bought">bot</abbr> of mr Pratt 28 Negros  <abbr expan="Colonel">Coll</abbr> Page had <lb/>
+for the <abbr expan="aforesaid">aforesd</abbr> Settlemt Geo &amp; his Family  <lb/>
+Simon his Son	Scipio his Son	Robin &amp; <lb/>
+his Family  Montross his wife hannah <add place="supralinear">his daughtr</add>  <lb/>
+Old Jack  Beck his wife  Jemmy his Son <lb/>
+Row his Child  Nero a boy   all Valued by  <lb/>
+my <add resp="editor">[<hi rend="italics">sic</hi> mr?]</add> Prat at 148 Pound &amp; Ebo  Natt  <abbr expan="Colonel">Collo </abbr> <lb/>
+Page had on the aforesd Accot at 18M <lb/>
+all <add resp="editor">[&pound;]</add>180:10S  <lb/>
+May 23th  mr Hooper went away  mr Barber <lb/>
+went away  my Son Robin went to <abbr expan="Colonel">Collo </abbr> Page <lb/>
+Jo Gregory <abbr expan="brought">brot</abbr> home 17 <abbr expan="hogsheads">hds</abbr> from Dividing <lb/>
+Creeks &amp; fleets bay &amp;c   I gave <note target="n22">Enoch Innis a</note><lb/>
+Pistol	 mrs Hooper 10 bitts for her ferriage&mdash;  <lb/>
+25   <abbr expan="Captain">Captn </abbr> <abbr expan="Holladay">Hollady</abbr><lb/>
+came here  had Noats for <lb/>
+my <note target="n23">fork </note><abbr expan="tobacco">Tobbo.</abbr> Rowland went wth Holladay  <lb/>
+Jos Gregory went away for Stafford <lb/>
+I recd a Letter from mrs Young. <lb/><lb/>
+
+ 
+<pb n="ff 22r"/><lb/><lb/>
+May 28th 1724  <lb/>
+my son Charles &amp; Gumby Catcht 4 dru<add resp="editor">[m]</add> <lb/>
+2 Bonetoes at the Locust  <lb/>
+29   I was out till 10 Clock  had never a B<add resp="editor">[ite?] </add> <lb/>
+gave <sic corr="John">Jno</sic> Harvy 1 <abbr expan="pair">pr</abbr>
+ worsted 1 <abbr expan="pair">pr</abbr> Yarn Stoc<add resp="editor">[kings]</add> <lb/>
+1 <abbr expan="pair">pr</abbr> plain  1 <abbr expan="pair">pr</abbr>
+ fall Shoos <lb/>
+<abbr expan="memorandum">memd</abbr>   I lent Cha Coachman at Town 5<abbr expan="shillings">S</abbr> <lb/>
+30  I gave a Noat to Peter Skelton for a barrel Corn <lb/>
+my Mill spindle was mended by <abbr expan="James">Ja</abbr> Keys <lb/>
+Cha Coachman fetcht Corn from the Hills  2 <abbr expan="hogsheads">hds</abbr> <lb/>
+<note n="CS1">mr Stagg</note> here  <abbr expan="Colonel">Coll</abbr> Balls Family  Alec Bell <lb/>
+Wm Kemp was here Yesterday  <lb/>
+Carried aboard the <name type="ship">Carolina </name>Yesterday 12 <abbr expan="hogsheads">hds</abbr>  <lb/>
+this day 18 <abbr expan="hogsheads">hds</abbr>  in all 30 <abbr expan="hogsheads">hds</abbr>  <lb/>
+June 1 monday	I settled an Accot with <note target="n24"><abbr expan="Colonel">Collo</abbr> <lb/>
+Tarpley</note>  I lent him Seventy Pounds  <lb/>
+I <abbr expan="paid">pd</abbr> mr Bertram for Capt Fowler 11 <abbr expan="hogsheads">hds</abbr> Tobo <lb/>
+last Night very cool  a hard N W<add resp="editor">[ind]</add>  little rain <lb/>
+2d   I went to Court middlesex	 Aldin promist me my money	<lb/>
+Austin Smith promist me to Ship me a  <lb/>
+<abbr expan="hogsheads">hd</abbr> Tobo I had at his house   I agreed wth mrs Young  <lb/>
+she is to come on the 20th Instant   is to Serve me as <lb/>
+a housekeeper for a 12 month   I am to pay her 12&pound;  <lb/>
+Sterl  6&pound; Currency at the End of the time <lb/>
+I recd from mr Boin the military Commissions <lb/>
+for the Northern Neck  also 3 Sherifs <abbr expan="commissions">Commns</abbr><lb/>  
+I came home in the Night <lb/>
+&mdash;&mdash; <lb/>
+3d   I <sic corr="wrote">writ</sic> to <abbr expan="Colonel">Colls</abbr>s Mason  <note n="RL">Lee</note>, <note n="NS">Smith</note> also <note target="n25">C Lee</note> <lb/>
+<abbr expan="about">abt</abbr> the military Commissions <lb/>
+my Son Robin <abbr expan="brought">brot</abbr> me a Letter from Coll Page <lb/>
+4   <abbr expan="Captain">Captn</abbr> <abbr expan="Charles"> Cha</abbr> Lee had the <abbr expan="Northumberland">Northumbd</abbr> Commission  <lb/>
+<note n="WB"><abbr expan="Colonel">Coll</abbr> Ball</note> had those for White Chapple	<abbr expan="Captain">Captn</abbr>
+ <lb/>
+Carter <abbr expan="our">or</abbr> Parish <lb/>
+mr <abbr expan="John">Jno</abbr> Turbervile had rum  Sugr &amp; Molasses  <lb/>
+sonday 7th  <note target="n26"><abbr expan="Captain">Captn</abbr>
+ Bowman</note> arrivd  <abbr expan="brought"><abbr expan="brought">brot</abbr></abbr> me  <lb/> 
+Lettrs from <note target="n27">Stark</note>, an Accot of mrs Burwels <lb/>
+<abbr expan="hogshead">hd</abbr> of wine sent per the <name type="ship">Littlepage</name> cost  <lb/>
+11"14<abbr expan="shillings">S</abbr>"   I recd per the <name type="ship">Lucia</name> Sam Bowman <lb/>
+13 1/2 <abbr expan="dozen">doz</abbr> bottles Claret  3 <abbr expan="dozen">doz</abbr> Burgundy  3 <abbr expan="dozen">doz</abbr> <lb/>
+bottle<add resp="editor">[s]</add> Champaign  I took 50 <abbr expan="hogsheads">hds</abbr> freight cer  <lb/>
+tain on him  10 or 20 incertain  <lb/>
+Sent by Bowman the Military Commissions  <lb/>
+for King <abbr expan="George County">Geo</abbr> to <note n="NS"><abbr expan="Colonel">Coll</abbr> Smith</note>  for Stafford to <note target="n28"><abbr expan="Major">Maj </abbr><lb/>
+Fitshugh</note>  <sic corr="wrote">writ</sic> to both of them  they had the  <lb/>
+sheriffs Commissions Sent to them <lb/><lb/>
+ 
+
+<pb n="ff 22v"/><lb/><lb/>
+ 
+<damage> June</add></damage> 1724 <lb/>
+<damage> ... I</damage> <sic corr="wrote">writ</sic> to <abbr expan="Colonel">Coll</abbr> Lee with the military <abbr expan="commissions">Comns</abbr> <lb/>
+<damage>for</damage> <abbr expan="Westmoreland">Westmd County</abbr> <lb/>
+<damage>Wri</damage>t to <abbr expan="Captain">Captn</abbr>
+Russel had 4 <abbr expan="hogsheads">hds</abbr> at 5&pound; per Tunn  <lb/>
+I send six bushels of Wheat to Mill <lb/>
+send for Indian  <lb/>
+I was at <note target="n29">Mill</note> 13th June  mett Purtel &amp; Garl<add resp="editor">[an]</add>d  <lb/>
+16   <abbr expan="Captain">Captn</abbr> Russel carries away my Lettrs to <abbr expan="Captain">Captn</abbr> <lb/>
+Bowman 	<abbr expan="Captain">Captn</abbr> Fontleroy  <abbr expan="Colonel">Coll</abbr> Barber <lb/>
+ &mdash;&mdash;<lb/>
+18   <abbr expan="Major Escridge">Maj Escridg</abbr> came here  I came from <abbr expan="Captain">Captn</abbr> <lb/>
+Smith at Night <lb/>
+Eskridg had a <abbr expan="pair">pr</abbr>
+ of my Daughter <note n="MCB">Marys</note> Shoos <lb/>
+2 <abbr expan="ounces">Oz</abbr> of Nuns <abbr expan="thread">thred</abbr>
+  2 gro<add resp="editor">[ss]</add> Corks  carried away <lb/>
+on 20th  6 Lettrs  the Rent Rolls   <abbr expan="brought">brot</abbr> me two <lb/>
+Plats for <abbr expan="Colonel">Coll</abbr> Page &amp; I <add resp="editor">[<hi rend="italics">sic</hi>]</add> sevl other Platts  <lb/>
+from <note target="n48">Savage </note><lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20th <lb/>
+Jos Gregory arrivd in the Creek this day <lb/>
+I gave out the Coachman a Curricomb &amp;  <lb/>
+brush	mr Stagg now at <note n="WB"><abbr expan="Colonel">Coll</abbr> Balls</note>   my <lb/>
+Children there	5 of them  <lb/>
+3 daies ago I sent mr Moore my Bills of <abbr expan="exchange">Exc</abbr>  <lb/>
+to make up mr Bells money  I lent him <lb/> 
+seven Pounds  five <abbr expan="shillings">Shill </abbr>&amp; six Pence Ster <lb/>
+Jo Gregory <abbr expan="brought">bro</abbr> 76 <abbr expan="hogsheads">hds</abbr> <sic corr="tobacco">Tob</sic>  All were got into  <lb/>
+the house that Night in a tatterd Condition  <lb/>
+21   my Sloop came home from the falls <lb/>
+wth Holladays men  <lb/>
+22   they Landed 29 <abbr expan="hogsheads">hhds</abbr> Tobo here  my <lb/>
+fork Crops <add place="supralinear">except 3</add> belonging to the <note n="JC1">Secretary </note><lb/>
+his 3 <abbr expan="hogsheads">hds</abbr> makes two, <sic corr="mine">myne</sic> will make  <lb/>
+just 20 prizd <abbr expan="hogsheads">hhds</abbr>&mdash;&mdash;&mdash;&mdash;&mdash;  <lb/>
+23   we have a Vestry this day to <abbr expan="appoint">appt</abbr>  <lb/>
+Veiwers. <lb/>
+25   deliverd mrs Young the following things  <lb/>
+2 fanns  a <abbr expan="piece">ps </abbr> Narrow Tape  a <abbr expan="piece">ps </abbr> <abbr expan="broad">brod</abbr> Gar <lb/> 
+lix  a <abbr expan="piece">ps </abbr> <note target="n30">Kenting</note>  2 brushes  1 <abbr expan="pound">lb</abbr> Sweet Powdr  <lb/>
+1/4 <abbr expan="pound">lb</abbr> fine w[eigh]t <abbr expan="brown">bro</abbr>
+ thred <lb/>
+Isbel had a <abbr expan="pair">pr</abbr> my Shoos  2 <abbr expan="pair">pr</abbr> Slipers  sevl  <lb/>
+<abbr expan="pair">pr</abbr> thred stockins for <abbr expan="George">Geo</abbr>
+ w<add resp="editor">[hi]</add>t<add resp="editor">[e]</add> &amp; <sic corr="mixed">mixt</sic> Color. <lb/>
+Isbel had 2 <abbr expan="pair">pr</abbr> Gloves  came in for her&mdash; <lb/>  
+Taylor had <note target="n31">drugget</note> for a frock ine <add resp="editor">[<hi rend="italics">sic</hi>] </add> Check <lb/>
+for 2 <abbr expan="pair">pr</abbr> Breeches  a <abbr expan="jacket">Jackt</abbr>
+ for <abbr expan="George">Geo</abbr>.  
+
+
+<pb n="ff23r"/><lb/><lb/>
+
+June 26 1724 <lb/>
+Jo Gregory went for Peto<add resp="editor">[mak on Wed]</add> <lb/>
+nesday the 24th   Cha Coachman wen<add resp="editor">[t for Coroto?]</add> <lb/>
+man 25th  <lb/>
+July 2	 begun of my new Coffee   Martha had <damage>. . .</damage> <lb/>
+29 <abbr expan="hogsheads">hds</abbr> of my <sic corr="tobacco">Tob</sic> went aboard the Carolina <lb/>
+my Sloop hove down <lb/>
+48 <abbr expan="hogsheads">hds</abbr> went aboard the <abbr expan="Forward">Forwd</abbr>  <abbr expan="Captain"> Capt</abbr> Russel  <lb/>
+5   <abbr expan="Captain">Capt</abbr> Holladay &amp; Russel Turnd as low as Law <lb/>
+sons   W<add resp="editor">[ind]</add> at NE  <abbr expan="Captain">Captn</abbr>
+ Escridge kept here <lb/>
+by Rain &amp; wind  <lb/>
+gave Doctor Man 2 <abbr expan="dozen">doz</abbr> Madera  5 <abbr expan="gallons">Gall</abbr> <lb/> 
+rum  3 <abbr expan="gallons">gall</abbr> Jamaca rum  20 <abbr expan="pound">lb</abbr> <abbr expan="brown">bro </abbr> Sugr  a loaf <lb/>
+4 <abbr expan="dozen">doz</abbr> Cydr  <abbr expan="French">fre</abbr> brandy 1 <abbr expan="gallon">gall</abbr> <lb/>
+&mdash;&mdash;<lb/>
+9   <abbr expan="James Webb">Ja Web</abbr> has 2 peck Salt for the people <lb/>
+I gave <abbr expan="Captain">Captn</abbr> Halladay 6 <note target="n32">Gamons</note> 3 hogs 2 barrels Corn <lb/>
+1 <abbr expan="dozen">doz</abbr> Chickens <note target="n33"><add resp="editor"> [. . . ]</add></note> Gees  <lb/>
+10   I began to Still  Doctr Edgar came here <lb/>
+Ben went away wth my Lettrs for <note target="n34">Bagwell</note> <lb/>
+&mdash;&mdash;<lb/>
+the 8th my Sloop went away wth 37 <abbr expan="hogsheads">hds</abbr> Tobo for  <lb/>
+<abbr expan="Captain">Captn</abbr> Bowman  the Lucia  <lb/>
+Yesterday Holladay &amp; Russel went out  <lb/>
+14   went over to <abbr expan="Colonel">Coll</abbr> Wormeleys so to <note n="JG2">Mr Grymes</note> by <lb/>
+Coach in the Execution of a Commission from the  <lb/>
+Chancery  staid there all Night  finisht the <lb/>
+Business by 2 Clock  came away  went to <note n="RP">Rose <lb/>
+gill</note> in mr Grymes <note target="n35">Chariot</note> dined at mr Worm<add resp="editor">[ley's]</add>  <lb/>
+reacht home by Sun Sett  Examind 4 Wit <lb/>
+nesses in the Cause  mr Needler <abbr expan="our">or</abbr> Clerk  <lb/>
+&mdash;&mdash;<lb/>
+16   Cha Coachm carried 6 Bushels Wheat to Mill <lb/>
+17   <abbr expan="Captain">Captn</abbr> Russel came here   <abbr expan="Colonel">Coll</abbr> Ball  his wife &amp;  <lb/>
+Family here sunday morn   went away came <lb/>
+a munday morn <lb/>
+19   Sunday  3 Clock my Son Robin not well   was <lb/>
+taken in the Night wth the <note target="n36">Gripes</note>  held him <lb/>
+till Wedensday <add resp="editor">[<hi rend="italics">sic</hi>]</add> noon  then had a plentifull dis  <lb/>
+charge by <abbr expan="several">sevl</abbr> Stools  his <del>feav</del> <add place="supralinear">pain</add> left him  Slept <lb/>
+the latter part of the Night very easie  has  <lb/>
+taken first a <abbr expan="purge">purg</abbr> pil duobus  then <note target="n37">Manna</note> <lb/>
+&amp; <note target="n38">Senna</note>  abundance of <note target="n39">Glysters</note>  frequently  <lb/>
+<note target="n40">Lawdan</note> in the Extremitie of his pain <lb/>
+23   yesterday last Night &amp; too day very rainey <lb/>
+the 18 it raind plentifully, W<add resp="editor">[ind]</add> at NE all today  <lb/>
+Doctor Bell has bin with my Son 3 daies now  <lb/>
+now he &amp; Russel stopt by the rain  <lb/><lb/>
+
+
+<pb n="ff23v"/><lb/><lb/> 
+<damage>July</damage> 1724 <lb/>
+<damage>Gave to </damage> Doctor Bell the following medicines <lb/>
+<damage>. . . d</damage>uobus   2 <abbr expan="ounces">oz</abbr> Cawtharides, 2 <abbr expan="ounces">Oz </abbr> <abbr expan="some">som</abbr> <note target="n41">Vitrio</note> <lb/>
+ <damage>... o</damage>z wt Vitriol  Docto Edgar came here Thurs <lb/>
+<damage>da</damage>y in the rain   stayd with my Son til sond<add resp="editor">[ay]</add> <lb/>
+morning 26th  <lb/>
+<abbr expan="Colonel">Coll</abbr> Barbar &amp; his Son came here 25th  <lb/>
+Capt Bowman was here 24  my Sloop wth <lb/>
+his man came home 24th  <abbr expan="brought">brot</abbr> me 26 <abbr expan="hogsheads">hds</abbr>  from <note n="RF1">Ric<add resp="editor">[h]</add>land</note> <lb/>
+27   my Gardiner mows the rest of my <abbr expan="yard">yd</abbr><lb/>
+fryday 24   began to Still brandy <lb/>
+mr Lee	 <add resp="editor">[Captain]</add>Zuil &amp; Turbervile came from Church  <lb/>
+with me  went away on monday  <lb/>
+28   <abbr expan="Colonel">Coll</abbr>o Page &amp; his wife  my Sonn &amp; his wife came  
+here <lb/>
+30th   <abbr expan="Colonel">Coll</abbr> Page began to Complain next day <abbr expan="seized">seizd</abbr>  <lb/>
+with the Gout in one hand <lb/>
+Dick Lee came here Thursday   staid till wedn<add place="supralinear">day</add> <lb/> 
+following   <abbr expan="Captain">Captn</abbr>  Pinkard came here Tuesday <lb/>
+4 July	 went away fryday the 7th   my Sloop wth <lb/>
+Gregory 2d of July <abbr expan="brought">brot</abbr> 68 <abbr expan="hogsheads">hds</abbr> Tobo  4 <abbr expan="hogsheads">hds</abbr> Corn  <lb/>
+35 out of Stafford  15 out of <abbr expan="Westmoreland">Westmorld</abbr>  18 out  <lb/>
+of <abbr expan="Northumberland">North<add place="supralinear">d</add></abbr> damagd the 6 prizd <abbr expan="hogsheads">hds</abbr> came from <lb/>
+Newtons greatly  <sic corr="we">wee</sic> threw away 1/2 the Tobo  <lb/>
+<note target="n42">James Whaley</note> came down wth Negro Jack <lb/>
+the 5th of July Complaind he wanted rain <lb/>
+had a <abbr expan="quart">qt</abbr> rum &amp; bottle	1 <abbr expan="pound">lb</abbr> powder  a hair Bagg  <lb/>
+for Syd<add resp="editor">[no]</add>r <lb/>
+7th  raind all night long  W<add resp="editor">[ind]</add> NE  blew hard  <lb/>
+Stagg came here abt one Clock  <lb/>
+8   raind &amp; blewd hard	the same W<add resp="editor">[ind]</add> <lb/>  
+I sent to my Mill this morning	 my Coachman  <lb/>
+<abbr expan="brought">brot</abbr> me an Accot there was a hole in the <lb/>
+<sic corr="flood">floud</sic> Gate  Price &amp; his People  W <sic corr="Waugh">Waught</sic> &amp; <lb/>
+his People gon to mend It  <lb/>
+Charles <abbr expan="brought">brot</abbr> home a bagg of Mill Wheat	9  <lb/>
+busells <add resp="editor">[<hi rend="italics">sic</hi>]</add> of Indian 6th <lb/>
+8 <add resp="editor">[<hi rend="italics">sic</hi>]</add>   I sent Billy to the home Quartrs wth Order to the <lb/>
+Overseers to Trench their Tobo Ground &amp; draw <lb/>
+of all the Water they possibly Could.  <lb/>
+I pumpt out of my Sellar this morning abu<add resp="editor">[n]</add> <lb/>
+dence of Water  <lb/>
+10   came my Letteres from <note n="MP">Perry</note> &amp; <note n="WD">Dawkins </note>wth <lb/>
+my Accots Sales from Perry  <lb/>
+11  W<add resp="editor">[ind]</add> at NE at Night  blew fresh  raind  W<add resp="editor">[ind]</add>
+by fitts <lb/><lb/>
+
+<pb n="ff24r"/><lb/><lb/>
+Augst 12 1724  <lb/>
+W<add resp="editor">[ind]</add> NE all last night  very stormy &amp; rainy  <lb/>
+the morning continued a hard storm at NE  <lb/>
+till past one 	then the W<add resp="editor">[ind]</add> flew abt to WW <add resp="editor">[<hi rend="italics">sic</hi>]</add>   blew <lb/>
+hard &amp; continued raining  my houses all  <lb/>
+full of Water	my <sic corr="cellar">Sellar</sic> has <sic corr="near">neer</sic> 2 foot Water  <lb/>
+my boats all swimming in the house.  <lb/>
+my <abbr expan="cider">Cydr</abbr> house blew down  abt 9 Clock a pro <lb/>
+digious Tide  my boat was fetchd cross the <lb/>
+pond   Swam over the Marsh <lb/>
+<abbr expan="towards">twds</abbr> 3 Clouds begin to thin  W<add resp="editor">[ind]</add> westardly  blows  <lb/>
+violent hard  <abbr expan="several">sevl</abbr> trees blow down  both Cherrys  <lb/>
+&amp; Apples  at 4 Clock rain but little  W<add resp="editor">[ind]</add> at W &amp; hard  <lb/>
+still Cloudy &amp; small rain   then the W<add resp="editor">[ind]</add> shifte[d]  <lb/>
+to SW	blew very hard	<abbr expan="about">abot</abbr> 9 at Night my  <lb/>
+flood Gates blew up &amp; my dam went <lb/>
+away <lb/>
+13   a calm hott day  a very low Tide  <lb/>
+<abbr expan="Colonel">Coll</abbr> Smith came here this day  <abbr expan="Colonel">Coll</abbr><lb/>
+Wormeley in the Night Curling came <lb/>
+here <lb/>
+14   Curling took in 12 <abbr expan="hogsheads">hds</abbr> of my <sic corr="tobacco">Tob</sic> <lb/>
+15   Curling Saild down to Lawsons <lb/>
+Zuel went clear out of the river  <lb/>
+Suttle came down to give me an Acc <lb/>
+ot of <note n="DM">Dickesons Mill</note> being gon <lb/>
+16   Sunday  went to Church  had rain <lb/>
+in the afternoon <lb/>
+17   Calm  hot	very rainey  launchd my  <lb/>
+Pinnace  <lb/>
+18   W<add resp="editor">[ind]</add> at East in the morning  shifted  <lb/>
+to SE	blew violt hard  a very high  <lb/>
+Tide  abundance of Rain in the Night  <lb/>
+W<add resp="editor">[ind]</add> came to NW <lb/>
+my Sloop with <abbr expan="Captain">Captn</abbr><lb/>
+ Lotheringtons men went out <lb/>
+of the Creek Sonday last the 16th <lb/>
+18   Tuesday   made 3 <note target="n43">Buts</note> Sydr  began to beat <lb/>
+19   beat 3 Butts Sydr  <lb/>
+20   <abbr expan="Colonel">Coll</abbr> Page my Son  their wives went away gav<add resp="editor">[e]</add> <lb/>
+them 2 potts Sweatmeats  my Son has lent to him <lb/>
+2 Negros I bot of mr Pratt  Cain &amp; Jack  I have his <abbr expan="receipt">Rect</abbr>  <lb/>
+made three Butts Cydr  all in the brick Cellar <lb/><lb/>
+
+
+<pb n="ff24v"/><lb/><lb/>
+<damage>Aug</damage>st 21  1724 <lb/>
+made 3 butts Cydr   22th  made 3 buts Cydr <lb/>
+<abbr expan="Captain">Captn</abbr>
+ Bowman Saild out of the river  <lb/>
+gave him a barrel of Corn &amp; a hog &amp; a <add place="infralinear">barrel wheat </add> <lb/>
+24   gave mrs Young some Needles  <lb/>
+Wm Morris finisht my hand Mill on  <lb/>
+Saturday   <sic corr="we">wee</sic> ground 4 bushels Indian <lb/>
+25   I went to See the ruines of my Mill   found  <lb/>
+John Shaw drunk at Prices  had not bin at <lb/>
+work that day <lb/>
+26   I went to the School  to W Waughs  <lb/>
+make 3 Butts of Sydr every day  <lb/>
+mr W Jones is indebted to me for  <lb/>
+106 Gall rum at 20 <abbr expan="pound">lb</abbr> <sic corr="tobacco">Tob</sic> per gall  <lb/>
+224 <abbr expan="pound">lb</abbr> Sugr at 4 <abbr expan="pound">lb</abbr> Tobo per <abbr expan="pound">lb</abbr> <lb/>
+28   I was at the Mill yesterday  I sent to the Capentrs  <lb/>
+Crofts a vomit	1 <abbr expan="ounce">oz</abbr> Bark  a <abbr expan="pint">pt</abbr>
+ madera  <lb/>
+29   this day we make 33 Butts Sydr   <note n="CJ"><abbr expan="Charles">Cha</abbr> Jones</note>  <lb/>
+tells me Harrison Threatens to fetch away a Colt  <lb/>
+of mine wch he can swear to  hath a brand Iron  <lb/>
+to Brand It &amp; another at <note n="WH">Wolf house</note>   I go to the <lb/>
+Mill   came home in the Night  <lb/>
+Meeks came down the 25  went away 26th   carried  <lb/>
+two new spades  2 Shirts for the German  On<add resp="editor">[e]</add> for  hims<add place="supralinear">lf</add> <lb/>
+29   measured in my Mill 34 Barrels Corn <lb/>
+<sic corr="rainy">rainey</sic> moist  giving weather ever since  <lb/>
+the Gust &amp; so Continues  <lb/>
+31   W<add resp="editor">[ind]</add> SW  clear cool morning Gardiner mows <lb/>
+one of Platts  <lb/>
+<sic corr="at">Att</sic> the <note n="OF">Office</note> 4 <abbr expan="hogsheads">hds</abbr> <sic corr="shelled"> Sheld</sic> Corn  abt 4 bushells over <lb/>
+<abbr expan="paid">pd</abbr> to <abbr expan="Captain">Captn</abbr>
+ Bellandine on Accot of Jo Gregory &amp; by his  <lb/>
+desire 	20 <abbr expan="shillings">S</abbr> currt money  <lb/>
+at the Indian Town this day 7 h<abbr expan="hogsheads">hds</abbr> Sheld Corn <lb/>
+<abbr expan="September">Septr</abbr> 2   my Son Robert went to <abbr expan="Colonel">Coll</abbr> Pages   I lett him <lb/>
+have 2 Pistols	30<abbr expan="shillings">S </abbr>in Cash <lb/>
+<abbr expan="Captain">Captn</abbr> G Turbervile here  went away  Brickmaker <lb/>
+came here  Sent two Cask Sydr to the Mill <lb/>
+<sic corr="wrote">writ</sic> by Bellandine to the 4 upper <abbr expan="Colonel">Collnl</abbr> <add resp="editor"> [<hi rend="italics">sic</hi>]</add> <lb/>
+mr G Turbervile agreed wth me to Saw me 6<abbr expan=" thousand">M</abbr> <lb/>
+foot of Oak Plank  4M 1 3/4 <sic corr="thick">prick </sic> <add resp="editor">[<hi rend="italics">sic</hi>]</add> 2M 2 1/4 pr<add resp="editor">[ick]</add>  <lb/>
+at <note n="DM">Dickeson Mill</note>  what is wanting there <lb/>
+at Nomini Mill the remaindr if I  <lb/>
+want any more he undertakes to saw <lb/>
+I am to give him at the rate of 3&pound; per M  <lb/>
+I am his people diet   he is to begin on <lb/>
+Monday next.  I went to my Mill, <lb/>
+
+<pb n="ff25r"/><lb/><lb/>
+Sepr 3  1724 <lb/>
+mr H Lawson pays me 2 pistols &amp; <abbr expan="ballances">ballce</abbr> Accots <lb/>
+4   I was at Mill  <note n="CS1">mr Stag</note> hath <sic corr="missed">mist</sic> twice  <lb/>
+7   <abbr expan="Margaret">Margt</abbr> Carter had 10 <abbr expan="pound">lb</abbr> wool  5 <abbr expan="pound">lb</abbr> Sugr   she <abbr expan="paid">pd</abbr> 5 bitts <lb/>
+my sloop was <abbr expan="brought">brot</abbr> home this morning <lb/>
+<abbr expan="Charles">Cha</abbr> Jones has bin at my Mill a week they had 30 <lb/>
+hands last week they have 40 hands this week <lb/>
+a cloudy day W<add resp="editor">[ind]</add> NE  threatens rain  G &amp; Frank <lb/>
+goes to Mill  carry a Crow <add resp="editor">[bar]</add> a great Claw hammer  <lb/>
+<abbr expan="several">sevl</abbr> bolts &amp; hook pins  McClean carrys the <lb/>
+Mophradie and smoker Cooper brings my  <lb/>
+Mare  <lb/>
+9   Sent in my Sloop to mr Tho Berry the followg <lb/>
+Barbados Goods  <lb/>
+
+<table>
+<row><cell>rum 8 Cask alias Teirce,</cell> <cell>4 Teirce Sugr</cell><cell> 6 Teirce Mole <add resp="editor">[molasses?]</add> </cell></row>
+<row><cell> No 9--80 1/2 </cell><cell>N1.552"30</cell><cell>N1&mdash;86 </cell></row>
+<row><cell>10&mdash;69</cell><cell>5.536"31</cell><cell>2&mdash;79 1/2 </cell></row>
+<row><cell>11&mdash;64</cell><cell>8.560.30</cell><cell>3&mdash;63</cell></row> 
+<row><cell>12&mdash;64</cell><cell>9.<hi rend="underline">532.30</hi></cell><cell> 4&mdash;72 1/2</cell></row>
+<row><cell>13&mdash;63</cell><cell>2|80:|121</cell><cell>5&mdash;83</cell> </row> 
+<row><cell>14&mdash;49 1/2</cell><cell><hi rend="underline">121</hi></cell>	<cell><hi rend="underline">8&mdash;</hi><hi rend="underline">89</hi></cell></row>
+ <row><cell>15&mdash;66 1/2</cell><cell>2059</cell><cell>473</cell></row> 
+ <row><cell>16&mdash;<hi rend="underline">78</hi></cell><cell></cell><cell></cell> </row>
+<row><cell>	534</cell><cell></cell><cell></cell></row>  
+</table>
+23 <abbr expan="gallons">gall</abbr> rum went to fill these Cask <lb/>
+
+<table>
+<row><cell>10</cell><cell><abbr expan="paid">pd</abbr> the Glasier for my own work </cell><cell> 3"&mdash;"&mdash;</cell></row>
+<row><cell></cell><cell>for the Church &amp; Glebe</cell><cell>1" 7"&mdash;</cell></row>  
+</table>
+
+a Snaffle bridle a <abbr expan="pound">lb</abbr> pepper for the <abbr expan="odd">od</abbr> money <lb/>
+12   I was at Mill removd the Barrows to the hither  <lb/>
+End of the Damm  <lb/>
+14  I agreed with <abbr expan="William">Wm</abbr> Nugent  I go to Mill  we have <lb/>
+48 hands there now Shaw begun hewing a Saturday <lb/>
+fine weather all last week &amp; Continues we begin <lb/>
+<abbr expan="our">or</abbr> fodder every where	I finished Sydr making the 9th <lb/>
+We have made in all 61 Butts <lb/>
+18   <abbr expan="paid">pd</abbr> Gregory Hinch blicklayer <add resp="editor">[<hi rend="italics">sic</hi>]</add> 42 <abbr expan="shillings">S</abbr> for the Jobs <lb/>
+he did <abbr expan="about">abt</abbr> my house <lb/>
+My people at the Mill began to have mea<add resp="editor">[t]</add> <lb/>
+<abbr expan="Captain">Captn</abbr> Pankard &amp; mr Eustace people stole 2 Sheep <lb/>
+from Camel  we began to Level the Wast <lb/>
+mr Stag came here had <sic corr="missed">mist</sic> 6 weeks  <lb/>
+19  Coachman &amp; the Gardiner sick this week <lb/>
+21  <abbr expan="Colonel">Coll</abbr> Balls <add resp="editor">[<hi rend="italics">sic</hi>]</add> had 1 <abbr expan="dozen">doz</abbr> best Madera  1 <abbr expan="dozen">doz</abbr> ditto w<add resp="editor">[hi]</add>t<add resp="editor">[e]</add>  1<abbr expan="dozen">doz</abbr>  <lb/>
+ditto red  6 wine Glasse<add resp="editor">[s]</add>  6 <sic corr="cider">Sydr</sic> Glasses  1 <sic corr="cruet">Cruit</sic>  6 <abbr expan="quart">qt</abbr>s fre<add resp="editor">[nch]</add><lb/>
+brandy 	2 dram Glasses 1 fine Search  1 <add resp="editor">pr</add> Girls Shoo<add resp="editor">[s]</add> <lb/>
+of Lycys <add resp="editor"> [<hi rend="italics">sic</hi>]</add><lb/>
+my <note target="n44">Tumbrells</note> &amp; Billy went to the Milly <add resp="editor">[<hi rend="italics">sic</hi>]</add>   carried  <lb/>
+100 <abbr expan="pound">lb</abbr> Bacon for this weeks Provision  <lb/>
+mr Hen Lawson had 25 <abbr expan="pound">lb</abbr> Sugr  <abbr expan="paid">pd</abbr> 12/6 <lb/>
+22   prepare for my Journey to Nomini  yesterday got <lb/>
+all my <sic corr="pieces">peices</sic> in place for my peerhead except 3  they  <lb/>
+got to the Mill Cou<add resp="editor">[...]</add>  <lb/>
+
+<pb n="ff25v"/><lb/><lb/>
+Sepr 29 1724  <lb/>
+Was at <note n="LL">LL </note> <note n="MF">Magorite</note> Quarters all that Estate  <lb/>
+wants Corn except <note target="n45">Childs Quarter</note>  <lb/>
+30   took a view Nomini Plantation  went <lb/>
+to Asburys Mill  gave <abbr expan="several">sevl</abbr> Instructions <lb/>
+See a little book of memorandums of the <lb/>
+Expence of my time at Petomak  <lb/>
+Octor first  came from Nomini 1/2 an hour past 9  <lb/>
+Clock	got to my Mill befor <add resp="editor">[<hi rend="italics">sic</hi>]</add> 4 Clock   staid a <add resp="editor">[...]</add>   g<add resp="editor">[o]</add>t <lb/>
+home a little after daylight shut in <lb/>
+2   sent a <abbr expan="piece">ps</abbr> Cotton to Maj Eskridg  <abbr expan="quart">qt</abbr> 86 1/2 yds  <lb/>
+sent 6 heavie grubbing hoes to Nomini <lb/>
+<abbr expan="Colonel">Collo</abbr>o CLee <abbr expan="paid">pd</abbr> 4 Guineas &amp; a half guiney for  <lb/>
+the <note target="n46">Quit rent</note> 14 hundred Acres Land he hold <add resp="editor">[<hi rend="italics">sic</hi>]</add> <lb/> 
+in Stafford &amp; 2800 in King Georg<add resp="editor">[e counties]</add> <lb/>
+for the Year 1724 &amp; for 100 Acres more <lb/>
+in King George for 5 Years wch he saies <lb/>
+is more then his deed in <abbr expan="King George">KG</abbr> contains my <abbr expan="receipt">Rect</abbr> <lb/>
+obliges me if it appears to be so to allow it <lb/>
+2   was at Mill  3  at Mill again  a Cow kild at Indian <add place="supralinear">Town</add> <lb/>   
+I sent to mr Wm Strother the following Bar<add resp="editor">[bados?]</add>  <lb/>
+Goods  <lb/>
+
+	<table>
+<row><cell>Rum</cell><cell>Sugr</cell><cell>	Molass<add resp="editor">[es]</add> </cell></row> 
+ <row><cell>N2:  110 1/2 <abbr expan="gallons">gall</abbr></cell><cell>3.1442.90. </cell>  <cell>[tobacco mark] 6.61 <abbr expan="gallons">gall</abbr> 
+</cell> <cell> RC3:  104 <abbr expan="gallons">gallo</abbr></cell><cell> [tobacco mark]  7.65 <abbr expan="gallons">gall</abbr></cell> 
+</row>
+</table>
+
+Sent to Mill wth C<add resp="editor">[harles]</add> C<add resp="editor">[oachman]</add> 100 <abbr expan="pound">lb</abbr> Bacon <lb/>
+&mdash;&mdash;&mdash;<lb/>
+5th  <add resp="editor">[<hi rend="italics">sic</hi>]</add> <abbr expan="stopped">stopt</abbr> the water at my Mill  met <lb/>
+Capt Carter &amp; his Son  came home in the Night <lb/>
+It rained all the way  <lb/>
+6   a fair morning  W<add resp="editor">[ind]</add> at West  staid at home to <lb/>
+send away my Sloop wth my Negros to the <note n="FQ">falls</note>  <lb/>
+7th  W<add resp="editor">[ind]</add> at Norwest  my Sloop Sets out for the <lb/>
+falls	 carrys twelve New Negros with her <lb/>
+8 men  4 women &amp; also the Girl Rose   all  <lb/>
+well Clothed &amp; bedded  all the things Gregory <lb/>
+carried for the <abbr expan="several">Sevl</abbr> <abbr expan="quarters"> Qrs</abbr>
+ are sett down in <note target="n47">Bis<lb/>
+cos</note> book  <lb/>
+The 3 sloop men had each a <abbr expan="gallon">gall</abbr> rum <lb/>
+mr Savage here  <abbr expan="brought">brot</abbr> down the <note target="n49">Bull runn</note>  <lb/>
+Survey &amp; <abbr expan="John">Jno</abbr> Russells  <lb/>
+mr Meeks came down for Nomini &amp; <note n="LL">LL</note> Cloths <lb/>
+I was att <add resp="editor">[<hi rend="italics">sic</hi>]</add> Mill there parted wth Savage.  by  <lb/>
+him <sic corr="wrote">writ</sic> again to Strother  <lb/>
+I answerd <note target="n50">Doctor Nicholas</note> <abbr expan="letter">Lettr</abbr>
+ by Peter  <lb/><lb/>
+
+<pb n="ff26r"/><lb/><lb/>
+1724 
+Octor 10  <lb/>
+parted wth Meeks at my Mill  wee <add resp="editor">[<hi rend="italics">sic</hi>]</add> join <lb/>
+the 2 Dams this day  <sic corr="rode">rid</sic> over went to <sic corr="widening">wid  <lb/>
+ning</sic> the dam <lb/>
+<del>Mdum</del> 12.  monday   widened the Dam  <lb/>
+all day  25 foot of the wast cutt  mr Bucknr <lb/>
+and Micou went away   <abbr expan="Charles">Ch</abbr> Jones sick  <lb/>
+<abbr expan="John">Jno</abbr> Rhodes took his place Wm Waugh took  <lb/>
+his place  the Cart carried <sic corr="cider">Sydr</sic> &amp; Meat fresh <lb/>
+13  W<add resp="editor">[ind]</add> at NW  Cloudy &amp; rainey morning Gibson <lb/>
+carried away the Cloths for <note n="CP">Coles Point</note>  <lb/>
+14   I was taken wth a violent Loosness  held me  <lb/>
+for 24 hours then stopt  <lb/>
+16   I went to Mill  <abbr expan="Charles">Cha</abbr> Jones came that day  <lb/>
+John Rodes was pretty drunk   I turnd aw<add resp="editor">[ay]</add> <lb/>
+Shaw he would alwaises be running from  <lb/>
+his work, my loosness returnd	 held me <lb/>
+all night  mr Robinson lay here <lb/>
+17   I <sic corr="paid">pad</sic> mr Hen Lawson 48<abbr expan=" shillings">S</abbr>
+ for Peter Skelton  <lb/>
+My Water at the Mill was up in the Pier  <lb/>
+head &amp; run in the Conduit  <lb/>
+18   Sunday   in the afternoon my Loosness <lb/>
+<abbr expan="returned">returnd</abbr> had 4 or 5 Stools before I went <lb/>
+to bed	 slept well till 5 Clock without  <lb/>
+disturbance  mr Turbervile lay here &mdash;&mdash;<lb/> 
+Begun upon my new <abbr expan="thread">thred</abbr>  <lb/>
+Monday 19th <abbr expan="October">Octor</abbr>   My Mill ground 1 1/2 bushels of Mea<add resp="editor">[l]</add>  <lb/>
+20  she ground 2 barrels Indian  1 of wheat <lb/>
+21  I sett out for Town carry with me 29"5<abbr expan=" shillings">S</abbr> <abbr expan="Spanish"> spa</abbr> Gold  2  <add resp="editor">ddn [doubloons?]</add><lb/>
+6 <note target="n51"><sic corr="moidores">moydrs</sic></note>  8 guineas  7 &pound; Spanish money 5 of English <lb/>
+Novr 9	 I got home   gave away at <abbr expan="Colonel">Collo</abbr> Pages 12/6   Agreed  <lb/>
+with Doctor Nicholas the 7th his wife signd the writing <lb/>
+I gave to Joiles 2 1/2 Crowns  <lb/>
+11   I prepared for my Sloop going to the falls  <note target="n52">Biscos  <lb/>
+Time was out</note>  my sloop went away on <sic corr="Friday">fryday</sic> the <lb/> 
+13   a fair wind  Saturday I dischargd my people <lb/>
+from the Mill 10th 11  begun woodcutting  14 <abbr expan="agreed">agd</abbr> <lb/>
+wth Demarrat  <sic corr="wrote">writ</sic> to Meeks   sent away <abbr expan="George">Geo</abbr> &amp; Brown <lb/>
+14   a fair wind for my Sloop Sunday a fair wind <lb/>
+16   <abbr expan="Colonel">Coll</abbr> C Grimes here   gave him a Power to <sic corr="receive">reiceive</sic> <add resp="editor">[<hi rend="italics">sic</hi>]</add> <lb/>  
+<abbr expan="Richmond County">Richmd</abbr> Rents  he had mr Downmans Rent rolls  <lb/>
+for 1722  <lb/>
+Monday morning Robin went over the river <lb/>
+16.17th   <sic corr="wrote">writ</sic> my Lettrs via <name type="city">Weymoth</name> <lb/>
+18 rainey 19   wee had a Vestry at Night  Sawney <lb/>
+came  <abbr expan="brought">brot</abbr> me <note target="n53">Secretarys</note> Paquet met Robin in the way <lb/>
+fryday 20th   I <sic corr="wrote">writ</sic> to <abbr expan="Colonel">Coll</abbr> Page   sent to mr C Robinson <lb/>
+<note target="n63">Secretarys Accots</note>  <lb/><lb/>
+
+<pb n="ff26v"/><lb/><lb/>
+fryday 20 <abbr expan="November">Novr</abbr> 1724 <lb/>
+<sic corr="wrote">writ</sic> to the Sherif of Spotsylvania  sent him  <lb/>
+a Copy <abbr expan="orders">Ordrs</abbr> for the Secretarys dues  <lb/>
+sent the Secretarys Accot &amp; Copy <abbr expan="orders">Ordrs</abbr> for them  <lb/>
+to <abbr expan="Captain">Captn</abbr>  Newton  Sherif of <abbr expan="Westmoreland County">Westmd</abbr> by Rogr  <lb/>
+Oxford to mr Meeks  <lb/>
+Sent the same to Townson  Dade by Saml <lb/>
+Wilson	 also Copy of the Marriage <abbr expan="license">Lycens </abbr><lb/>
+<abbr expan="orders">Ordrs </abbr>also sent to <note target="n61"><abbr expan="French">Fre</abbr> Mason</note><lb/>
+	late Sherif of <abbr expan="Stafford County">Staffd</abbr> <lb/>
+ the <abbr expan="Governor's">Goverr </abbr> <abbr expan="orders">Ordrs</abbr> on him for the <sic corr="marriage">Marrag </sic><abbr expan="license">Lycen </abbr> <lb/>
+the <abbr expan="said">sd</abbr> Wilson had 4 <abbr expan="warrants">Warrts</abbr>
+  Awbrey had 2  <lb/>
+<abbr expan="warrants">Warrts</abbr> for taking up Land  Oxford agreed wth <add resp="editor">[me]</add>  <lb/>
+to be my Overseer at <note n="RF1">Richland</note>, wth James  <lb/>
+Connor to be my Overseer at the <note n="OF">Office</note>.  <lb/>
+21 Saturday  I was at the race  had the News <lb/>
+there of mrs Bells death   I was at my Mill <lb/>
+this day  <lb/>
+22 Sunday  mrs Young went to mr Bells  mrs  <lb/>
+Bell buried on Wednesday  mr Yeats preacht  <lb/>
+lay here that Night  26th Thursday  mrs Young <lb/>
+came home  <lb/>
+23   <abbr expan="Captain">Captn</abbr> Daracoat  <abbr expan="Captain">Captn</abbr>
+ Hull came in the <sic corr="later">lat  <lb/>
+tr </sic>   <abbr expan="brought">brot</abbr> me some Goods from <note n="JK">King</note> <lb/>
+24   hard N W<add resp="editor">[ind]</add>  25   blew fresh at Night  got  <lb/>
+my Goods on <sic corr="shore">shoar</sic> <lb/>
+26   agreed with Jon Read to be Overseer at  <lb/>
+<note target="n54">Pantico</note>  sent by him the Secretarys Accots  <lb/>
+to <abbr expan="Colonel">Coll </abbr> <note n="JG3">Grimes </note> <sic corr="wrote">writ</sic> to <abbr expan="Colonel">Coll</abbr> Barbar also mrs Colston  <lb/>
+Deeds <add resp="editor">[?] </add> <lb/>
+27   Stagg came here in the afternoon 3 Clock <lb/>
+28  I was at the Race  <lb/>
+29 Sunday morn  Stag went away  <lb/>
+30   Let the Coachman have 10S  hath leave to  <lb/>
+go abroad  G Eves here  had two <abbr expan="warrants">Warrts</abbr> <lb/>
+I agreed wth Ja Murphy to be Overseer at <note target="n55">Met <lb/>
+calfs</note> in the room of <abbr expan="Robert">Rt</abbr> Thomas <lb/>
+Decr  I went to the Mills &amp;c <lb/>
+2   <sic corr="wrote">writ</sic> to Strother by G Henry  by him sent <lb/>
+away the Secretarys Accots to <abbr expan="Spotsylvania County">Spotsylva</abbr> <lb/>
+&amp; King <abbr expan="George County">Georg</abbr> Sherifs &amp;c. <lb/>
+3d  Cold weather  hard frosts these 3 last <lb/>
+daies	 W<add resp="editor">[ind]</add> from N to NW  <lb/>
+I set my <note target="n62"><sic corr="kiln">kill</sic></note>  on fire Monday evening  <lb/>
+Gumby <abbr expan="fetched">fetcht</abbr> Meal the 2d Decembr  9 bushels  <lb/>
+4 bushels malt for Ale	1 bushel out of the new <abbr expan="hogshead">hd</abbr>  <lb/>
+4   Gumby carrys to Mill 6 bus<add resp="editor">[he]</add>l<add resp="editor">[s]</add> old wheat <lb/>
+Robin kills 4 hogs at <note target="n56">Old House</note>  4 do at  <lb/>
+<note n="IT">Indian Town</note>  <lb/><lb/>
+
+<pb n="ff27r"/><lb/><lb/>
+<abbr expan="December">Decemr</abbr> 4th 1724 <lb/>
+3 daies ago my Son Charles drew <sic corr="off">of</sic> out of my pip<add resp="editor">[e]</add> <lb/>
+of wine 30 <abbr expan="dozen">doz</abbr> bottles  5 <abbr expan="dozen">doz</abbr> more drew <abbr expan="afterwards">afterwds</abbr> <lb/>
+To Hen Bell 8<abbr expan=" shillings">S</abbr> for ferriage  signd Conditions  <lb/>
+5   put up the Ale   put out my kill <add resp="editor">[kiln]</add>  <lb/>
+<abbr expan="Captain">Captn</abbr> Kennr here  Gumby fetches <sic corr="flour">flower</sic> <lb/>
+Collier a bottle rum  6 bushel Indian came  <lb/>
+lost 5 bits to C Kenner  <abbr expan="received">recd</abbr> 10<abbr expan=" shillings">S</abbr> of him <note n="ES"><abbr expan="escheat">Escht</abbr></note> <lb/>
+At Night came my Sloop  we got out the  <lb/>
+6 Beeves  Tallow weighs here wth the Bagg  <lb/>
+94 <abbr expan="pound">lb</abbr>	Strothers weight is 108 <abbr expan="pound">lb</abbr>  343 old iron  <lb/>
+5 <abbr expan="hogsheads">hhds</abbr> Corn  1 <abbr expan="hogshead">hd</abbr>
+ Wheat  a Buck  2 Tubs Buttr  <lb/>
+15 bushls Wheat at Strothers allowance &amp; the <abbr expan="doctors">Doctrs </abbr><lb/>
+&mdash;&mdash;&mdash;<lb/>
+6th   W<add resp="editor">[ind]</add> at North  Cold the Buck weighs 101 <abbr expan="pound">lb</abbr> <lb/> 
+the Corn came from <note n="PE"><sic corr="Pewmonds End">Peumds Inn</sic></note>  312 old <lb/>
+iron from the <note n="FQ">falls</note> by my Scales  <lb/>
+I agreed wth Wm Campbel for NB <add resp="editor">[Nathaniel Burwell]</add> Plantation  <lb/>
+15   all this week very sharp  Tho Berry was <add resp="editor">[here]</add>  <lb/>
+had 5 Deeds <lb/>
+I <abbr expan="paid">pd</abbr> the Collier all to <gap><add resp="editor">[. . .]</add></gap> he had 13/8 Cash <lb/>
+I agreed wth H Kelly   I <abbr expan="paid">pd</abbr> D Haines and  <lb/>
+Brooks	 I <abbr expan="killed">kild</abbr> the old house  Indian Town &amp; <lb/>
+Changlins hogs in all now &amp; what <abbr expan="killed">kild</abbr> before <lb/>
+33 hoggs  from <note n="HQ">hills</note> Seven hoggs  from <note n="WH">Wolf  <lb/>
+house</note> 5 hoggs  <lb/>
+The Two Tradesmen  mr Perry by <abbr expan="Captain">Captn</abbr> Ho <lb/>
+laday  Frost &amp; Birch  came home from  <lb/>
+<abbr expan="Colonel">Coll</abbr> Pages 9th Decembr  <lb/>
+Coachman carried 6 bushels best Wheat <lb/>
+to Mill   <abbr expan="brought">brot</abbr> home 9 bushels Indian  <lb/>
+16   goes for 9 <abbr expan="bushels">busls </abbr>Indian more <lb/>
+I <abbr expan="paid">pd</abbr> the <abbr expan="weaver">Weavr</abbr> for all his Cloth <lb/>
+Ten hogs came from <note target="n57"><abbr expan="Thomas">Tho</abbr> Wests</note>   Coopr 4 hogs  <lb/>
+17   Charles goes for 9 bushels Indian	carries 6 <abbr expan="bushels">busl</abbr><lb/>newheat <add resp="editor">[<hi rend="italics">sic</hi>]</add> <lb/> 
+4 hogs from <note target="n58">Old Plantation</note>  Nassaw <abbr expan="brought">brot</abbr> my <sic corr="cider">Sydr</sic>  <lb/>
+from Waugh   I agreed with <abbr expan="Thomas">Tho</abbr> Glascock <lb/>
+18   a fine moderate day.  <abbr expan="Charles">Cha</abbr> brings a hogshead Salt to <lb/>
+the Pantry, goes to Mill  carrys from Sloop land <lb/>
+ing six bushells old Wheat  <lb/>
+<abbr expan="received">recd</abbr> of Wm Camp two <sic corr="notes">Noats</sic> of Ed Newgents <abbr expan="paid">pd</abbr> <lb/>
+by him	one of 18<abbr expan=" shillings">S</abbr>  the other of 21<abbr expan=" shillings">S</abbr> <lb/>
+84 hogs in all <abbr expan="brought">brot</abbr> down  this day the 22th <abbr expan="December">Xr</abbr> <lb/>  
+moderate foggy weather <lb/>
+23  a fogg  24  at Night my Son Robin came home  <lb/>
+2 pipes of Wine Came from <abbr expan="Captain">Captn</abbr><lb/> Woodward begining  <lb/>
+of this week <lb/><lb/>
+
+<pb n="ff27v"/><lb/><lb/>
+<abbr expan="December">Decemr</abbr> 26 1724  <lb/>
+Came home my Smith &amp; Bricklayr  <lb/>
+in the <name type="ship">Burwell</name>	 she arrivd 21th into York river <lb/>
+28th   I agreed wth <abbr expan="John">Jno</abbr> <lb/>
+ Smith to be miller at Nomini <lb/>
+29   I <abbr expan="paid">pd</abbr> to Monsieur Harman Arigo in Cash 3<abbr expan=" shillings">S</abbr>10 <lb/>
+wonderfull fine Weather ever since <abbr expan="Christmas">Xmas</abbr> day <lb/>
+Calm &amp; warm these 2 last daies&mdash;&mdash;  <lb/>
+
+
+</p>
+</div1>
+</body>
+
+<back>
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics">Source copy consulted:</hi> Robert Carter Diary, 1722-1727, Robert Carter Papers, Acc. No. 3807, Albert H. Small Special Collections Library, University of Virginia. Charlottesville.</note><lb/>
+
+<note id="n1">[1] Alexander Spotswood (1646-1740) had been the governor from 1710 to 1722.</note>
+
+<note id="n2">[2] Captain William Keeling (Keiling) commanded the <name type="ship">Betty</name>; see Carter's reference to him on January 22nd. (<cit><bibl>Survey Report 6800, Virginia Colonial Records Project, Albert H. Small Special Collections Library, University of Virginia.)</bibl></cit></note>
+
+<note id="n3">[3] Carter had both an overseer and a "joyner" named Cole.</note>
+
+<note id="n4">[4] Thomas Woodward commanded the <hi rend="italics">Providence</hi>, a London vessel of about 90 tons owned by John Hyde and Company. (<cit><bibl>There are a number of records concerning this vessel in Adm. 68/194 [ff. 27r, 77r, and 130r] and /195 [ff. 152v] which may be consulted in the records of the Virginia Colonial Records Project, Albert H. Small Special Collections Library, University of Virginia.)</bibl></cit></note>
+
+
+<note id="n6">[6] John Wormeley (1689-1727), one of Ralph Wormeley's (d.
+1701) sons for whom RC had been a trustee before he came of age.</note>
+
+<note id="n7">[7] The <hi rend="italics">Bailey</hi> apparently belonged to William Dawkins and had various captains over the years including Adam Graves, John Graves, and Thomas Dove. (<cit><bibl>The vessel is mentioned a number of times in Adm. 63/194, /195, and /196. See the survey reports and microfilms found in the microfilms of the Virginia Colonial Records Project, Albert H. Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n8">[8] Carter did not complete this entry but he was referring to a dispute with William Sydnor over the route of roads leading to Christ Church. (<cit><bibl n="B28">Jones, <title>Orders Book Entries . . . Referring to "Robert Carter. . . ."</title> p. 118.) </bibl></cit></note>
+
+<note id="n9">[9] "Thos. Edwards, a little petty Fogging Lawyer the Clark of our County that hath as much Mettle and more cunning for Contention then his predecessor had" RC wrote
+to Landon Jones, July 23, 1723. Edwards was clerk from 1720-1746. (<cit><bibl><title>Within the Court House at Lancaster.</title> Lively, VA: Lively Printing Services, [1976], 15.)</bibl></cit></note>
+
+
+<note id="n10">[10] George Mason III (c. 1690-1735), justice, sheriff, burgess, and
+county lieutenant of Stafford County, father of the constitutional theorist. (<cit><bibl n="B24">Copeland and MacMaster, <title>The Five George Masons.</title> pp. 50-86;</bibl></cit> and <cit><bibl>George Harrison Sanford King, <title>The Register of Overwharton Parish Stafford County Virginia 1723-1758 And Sundry Historical and Genealogical Notes</title>. [Fredericksburg, VA: privately printed, 1961].)</bibl></cit></note>
+
+<note id="n11">[11] Carter did not complete this thought.</note>
+
+<note id="n12">[12] Charles Carter (1707-1764), Robert Carter's tenth child with his second wife, Elizabeth (Landon) Willis Carter. He would live at "Cleve," King George County, and inherit a number of proporties in that area from his father.</note>
+
+<note id="n13">[13] Carter omitted the name of the ship.</note>
+
+<note id="n14">[14] William Holladay commanded a ship named the <hi rend="italics">Princess Carolina.</hi> (<cit><bibl>Survey Report 6800, found in the microfilms of the Virginia Colonial Records Project, Albert H. Small Special Collections Library, University of Virginia.)</bibl></cit></note>
+
+<note id="n15">[15] Carter uses an old Scots expression for the last three days of March.</note>
+
+<note id="n16">[16] Carter's abbreviation "St Stf" may mean "Stripped Stuff."</note>
+
+<note id="n17">[17] The College of William and Mary in Williamsburg.</note>
+
+<note id="n18">[18] Mrs. Sullivan ran the boarding house where Carter stayed while in Williamsburg.</note>
+
+<note id="n19">[19] "The <hi rend="underline">Honorable Robert Carter Esq</hi> In pursuance to the act for settling the  militia took the oaths appointed by Act of Parliament. . . ." (<cit><bibl n="B28">Jones, <title>Orders Book Entries . . . Referring to "Robert Carter. . . ."</title> p. 118.)</bibl></cit></note>
+
+<note id="n20">[20] Augustine Moore (c. 1685-c.1734) of "Chelsea," King
+William County, a justice and prominent leader. (<cit><bibl>J.H.P., "The Gorsuch and Lovelace
+Families," <title>Virginia Magazine of History and Biography.</title> 25(1917):
+431-444.)</bibl></cit></note>
+
+<note id="n21">[21] Carter Page, son of Mann and Judith (Carter) Page was born about 1724 and died unmarried. (<cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 252.)</bibl></cit></note>
+
+<note id="n22">[22] Carter would buy from Innis a Richmond County property toward the end of 1728. Enoch Innis inherited it from his father, James, who died in 1709. (<cit><bibl>Lucy Jane Brent Palmer, "Charles Brent of Stafford County and Some of His Descendants," <title>Virginia Magazine of History and Biography</title>, 34(1926): 280-85 and 378-84;</bibl></cit> and <cit><bibl>"Abstracts From Records of Richmond County, Virginia," <title>William and Mary Quarterly</title>, (1)17(1908-09): 176-177, which cites records of Richmond County concerning this will, probated 25 December 1709, as from Will Book 3.)</bibl></cit></note>
+
+<note id="n23">[23] Fork Quarter was a farm in Richmond County that would become a part of the "Sabine Hall" estate as it was bequeated to Landon Carter. In 1732, William Galloway, the overseer, supervised 16 slaves, 42 hogs, and 54 cattle. (<cit><bibl n="A26">"Carter Papers: An Inventory. . . .")</bibl></cit></note>
+
+<note id="n24">[24] The Tarpley family was a prominent one in Richmond County; a John Tarpley was a justice of the county court for many years and served as sheriff several times. (<cit><bibl n="B31">Ryland. <title>Richmond County Virginia. . . . </title> pp. 500, 504.)</bibl></cit></note>
+
+<note id="n25">[25] Probably Charles Lee of Wicocomoco Parish, Northumberland County.</note>
+
+<note id="n26">[26] Samuel Bowman commanded the <hi rend="italics">Lucia.</hi></note>
+
+<note id="n27">[27] John Stark was a merchant, probably the one to whom Carter referred when he wrote to Micajah Perry on 4 July 1723 that he had drawn an order on "Mr. Stark of Glasgow." On that same day, he wrote to a John Stark, referring to Captain Bowman.</note>
+
+<note id="n28">[28]  Henry Fitzhugh (1706-1742) of "Eagle's Nest," Stafford County, married Lucy Carter (1715-1763), Robert Carter's fourteenth child, in 1730. They had  four children; after Fitzhugh's death, she married Nathaniel Harrison (1713-1791). (<cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 451.)</bibl></cit></note>
+
+<note id="n29">[29] While Carter owned several mills, this is probably the one he sometimes called the "Small Mill." It was located in Lancaster County "on the Eastern branch of [the] Corotoman" River." The property of 40 acres had been purchased by John Carter II in 1670 from Thomas and Elizabeth Haynes. (<cit><bibl>Christine A. Jones. <hi rend="italics">John Carter II of "Corotoman" Lancaster County, Virginia.</hi> [Irvington, VA: Foundation for Historic Christ Church, 1978.], p. 73.)</bibl></cit></note>
+
+<note id="n30">[30] "I believe the reference is to 'kenting,' a fine, closely woven linen made in Kent, Britain. It was used for table linens, aprons, etc." (<cit><bibl>Email to the editor, 27 October 2001, from Linda Baumgarten, Curator of Textiles and Costumes, Colonial Williamsburg Foundation, to whom I am most grateful for the useful advice.)</bibl></cit></note>
+
+<note id="n31">[31] Drugget was a coarse  cloth, usually wool, but often a mix of wool with linen, cotton, jute, or other material.</note>
+
+<note id="n32">[32] A gammon was a ham  of cured hog meat.</note>
+
+<note id="n33">[33] Carter failed to add the number of geese.</note>
+
+<note id="n34">[33] Carter probably is referring to Captain Thomas Bagwell of the <hi rend="italics">Levett,</hi> a ship that apparently sailed for the Perrys from London. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 3[1705-1721]: 15.)</bibl>
+</cit></note>
+
+<note id="n35">[35] At this time, a chariot was a light, four-wheeled open carriage.</note>
+
+<note id="n36">[36] The gripes were an intestnal disorder marked by pain and cramps. William Byrd in his <hi rend="italics">Secret Diary</hi> refers to an outbreak of them in February 1709, and comments that some had died from the disorder. (<cit><bibl>Louis B. Wright and Marion Tinling. <hi rend="italics">The Secret Diary of William Byrd of Westover 1709-1712.</hi> Richmond, VA: Dietz Press, 1941. pp. 9-10.)</bibl></cit></note>
+
+<note id="n37">[37] According to the <hi rend="italics">OED,</hi> manna is "a sweet pale yellow or whitish concrete juice obtained from incisions in the bark of the Manna-ash, Fraxinus Ornus, chiefly in Calabria and Sicily; used in medicine as a gentle laxative." </note>
+
+<note id="n38">[38] Senna is defined in the  <hi rend="italics">OED,</hi> as "the dried leaflets of various species of Cassia, used as a cathartic and emetic."</note>
+
+<note id="n39">[39] Carter should have written "clysters" rathen than "glysters." They are, according to the <hi rend="italics">OED,</hi>  "a medicine injected into the rectum, to empty or cleanse the bowels, to afford nutrition, etc.; an injection, enema; sometimes, a suppository."
+</note>
+
+<note id="n40">[40] Carter probably refers to laudanum which, the <hi rend="italics">OED</hi> states, was "a name for various preparations in which opium was the main ingredient."</note>
+
+<note id="n41">[41] Vitriol is "one or other of various native or artificial sulphates of metals . . .  used in the arts or medicinally, esp. sulphate of iron," according to the <hi rend="italics">OED.</hi></note>
+
+<note id="n42">[42] In 1732, James Whaley was the overseer at "Old Ordinary" and "Moon's Plantation."</note>
+
+<note id="n43">[43] A butt was a large storage cask.</note>
+
+<note id="n44">[44] A tumbrel as Carter uses the term means a farm cart capable of dumping its load.</note>
+
+<note id="n45">[45] From the context, Child's Quarter may be part of Mangorite in Richmond County, but it has not been identified. It is not included in Carter's inventory.</note>
+
+<note id="n46">[46] Quit rent was the term used for the payment due from the holder of land to the "lord of the manor," in this case, to the proprietors of the Northern Neck. Carter as the proprietor's agent collected these payments. No services were required of the landholder as had been true in mediaeval times.</note>
+
+<note id="n47">[47] Robert Biscoe, an indentured servant, was one of RC's clerks who wrote his letters and kept the accounts for the business. See fn 52.</note>
+
+<note id="n48">[48] John Savage was a surveyor later (1734) to be employed by Lord Fairfax while attempting to establish the boundaries of the proprietary. (<cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> p. 619.)</bibl></cit></note>
+
+<note id="n49">[49] Bull Run is a branch of the Occoquan River, and today forms the boundary between Fairfax and Prince William counties.</note>
+
+<note id="n50">[50] Carter's widowed daughter, Elizabeth (Carter) Burwell had married Dr. George Nicholas around the first of April, a marriage of which Carter apparently did not approve as he did not attend the ceremony. Apparently Carter and Nicholas were agreeing on terms of a marriage settlement.</note>
+
+<note id="n51">[51] A moidore was a gold coin from Portugal or Brazil in use at Carter's time.</note>
+
+<note id="n52">[52] Robert Bisco was an indentured servant who had finished his term of obligated service to Carter.</note>
+
+<note id="n53">[53] Carter refers to his son John, then secretary of state of the colony.</note>
+
+<note id="n54">[54] Pantico was a farm in Westmoreland County where there is a stream of this name. George Byrd was its overseer in Carter's inventory in 1732, managing 22 slaves, 31 cattle, 18 hogs, and 3 horses. (<cit><bibl n="A26">"Carter Papers: An Inventory. . . .")</bibl></cit></note>
+
+<note id="n55">[55] Metcalfs was another farm in Westmoreland County. In 1732, John Ordra was the overseer of 5 slaves, 3 horses, 10 sheep, 40 hogs, and 47 cattle. The property descended to Robert Carter III. (<cit><bibl n="A26">"Carter Papers: An Inventory. . . ."</bibl></cit> and <cit><bibl n="B32">Morton. <title>Robert Robert Carter of Nomini Hall.</title> p. 70.)</bibl></cit></note>
+
+<note id="n56">[56] Old House Quarter was located in Christ Church Parish, Lancaster County, and was inherited by Carter from his brother. It may refer to the original Carter settlement in the county. In Cater's 1732 inventory, George Conolly was the overseer there, managing 31 slaves, 116 sheep, 105 cattle, and "a horse calld Blackbird." (<cit><bibl n="A26">"Carter Papers: An Inventory. . . ."</bibl></cit>; <cit><bibl n="B40">Jones, <title>John Carter II. . . .</title> p. 55.</bibl></cit>; and <cit><bibl n="B28">Jones, <title>Orders Book Entries . . . Referring to "Robert Carter. . . ."</title> pp. 140-141.)</bibl></cit></note>
+
+<note id="n57">[57] Thomas West was the overseer at Blough Point Quarter in
+Northumberland County when RC's inventory was prepared in 1732. (<cit><bibl n="A26">"Carter Papers: An Inventory. . . .")</bibl></cit></note>
+
+<note id="n58">[58] In his will, Carter refers to the old plantation "bought of Mr. Robert Jones" in Northumberland County. In his inventory, Dennis Sullivant was the property's overseer of 8 slaves, 36 sheep, 75 hogs, 66 cattle, and "a Mare called Mopsy 10 yers old," etc. The property was bequeathed to Carter's son Landon. (<cit><bibl n="A26">"Carter Papers: An Inventory. . . ."</bibl></cit>; and <cit><bibl n="B30">Greene. <title>The Diary of Colonel Landon Carter. . . .</title>p. 4.)</bibl></cit></note>
+
+<note id="n59">[59] Benjamin and Adam (d. 1726) Graves were the sons of
+Captain Thomas Graves, long a captain of vessels trading to Virginia, and a special friend of Carter's; they also commanded vessels in the trade. </note>
+
+<note id="n60">[60] This probably was Henry Lawson (1675-1725) of Lancaster County although his son (1696-1752) of the same name lived in Lancaster as well. A Henry Lawson was listed with 7 titheables in St. Mary's White Chapel Parish in a Lancaster County census in 1716.(<cit><bibl>http://home.rica.net/jharsh/Lawson1.htm</bibl></cit>; and <cit><bibl>"Titheables in Lancaster Co., 1716." <title>William and Mary Quarterly.</title> 1st ser., 21 (July 1912): 106-112.)</bibl></cit></note>
+
+<note id="n61">[61] French Mason (1695-1748) was the son of George Mason II. (<cit><bibl n="B24">Copeland and MacMaster. <title>The Five George Masons. . . .</title> Genealogical Table 1 following p. 265.)</bibl></cit></note>
+
+<note id="n62">[62] This was a kiln used for the production of charcoal needed for blacksmith's and other work about Carter's farms. He mentions earlier that he had begun "woodcutting," and later (Dec. 15) that he paid the "collier," a tradesman who would have supervised the operation of the kiln.</note>
+
+<note id="n63">[63] The office of secretary of state of the colony, formerly a perquisite of the colony's governors, had been purchased for John Carter by his father's working through Micajah Perry to influence the government in England. With a payment of &pound;1500, "a patent under the great seal from the king" appointing John Carter to the post for life, was obtained. "The Secretaries business is to keep the public Records of the Country, and to take care that they be regularly and fairly made up; namely all Judgments of the General Court, as likewise all Deeds, and other Writings there proved; and further, to issue all Writs. . . . To make out and record all patents for Land. . . ." The office of the Secretary appointed all the clerks of the county court and received fees from these officials as well as from those conducting business with his office. (<cit><bibl>Louis B. Wright, <hi rend="italics">ed. </hi> <title>The History and Present State of Virginia By Robert Beverley.</title> Chapel Hill: University of North Carolina Press for the Institute for Early American History and Culture, 1947. pp. 245-46.</bibl></cit> <cit><bibl n="B41">Morton. <hi rend="italics">ed.</hi>  <title>The Present State of Virginia. . . by Hugh Jones.</title> p. 187, fn. 75.</bibl></cit> Lettter from Robert Carter to Micajah Perry, 4 July 1723, Virginia Historical Society.)</note>
+
+
+
+</div1>
+</back>
+
+</text>
+</TEI.2>

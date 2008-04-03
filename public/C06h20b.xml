@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C06h20b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Thomas Corbin, August 20, 1706</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 12 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">filename</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Thomas Corbin, August 20, 1706</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>3 p.</extent>
+<publicationStmt>
+     <date>unpublished</date>
+   <idno type="callNo">Source copy consulted:  Christ Church Parish, Lancaster County, Processioners' Returns, 1711-1783, and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond, 170-72. Extract printed William and Mary Quarterly, 2d. ser., 17 (1909), 260- 62</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1706-08-20</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C06h20bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>3 pp.</extent>
+<date value="1706-08-20">August 20, 1706</date>
+<idno rend="suppress">C06h20b</idno>
+<title>Letter from Robert Carter to Thomas Corbin, August 20, 1706</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant Thomas Corbin, August 20, 1706, that he has written before by an earlier fleet to send bills of lading for tobacco sent on consignment for the benefit of Ralph Wormeley's estate, and noting that he regrets that Wormeley's son Ralph is angry with the estate's trustees who have limited his expenses but that limits are necessary. He complains that Corbin has joined other merchants in opposing the Virginia practice of prizing tobacco, and suggests that Corbin and others must help planters find a way to make money that will do more than pay the duties. Virginia has received news of victories in the war, and the political conflicts in the colony are subsiding thanks to the work of the new governor, Edward Nott, but will continue if the former governor, Francis Nicholson, is allowed to continue to stir trouble in England. He closes by admonishing Corbin that he should not have joined his brother-in-law, Edmund Jenings, in a memorial against the colonial Council because the Council in the presence of the governor had repudiated it. Carter adds that he writes this only as a friend and that he will not be active in political affairs again.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="TC">Thomas Corbin,</note> August 20, 1706</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add><lb/></name>
+<date value="1706-08-20">Augt: 20th: 1706.</date>
+
+</dateline>
+</opener>
+
+<p><add resp="editor">[I]</add> have writt to you by the Fleet wherewth sent you <lb/><add resp="editor">[Bill]</add>s of Lading for the Tobaccoes I had shipt to you on  
+<add resp="editor">[the]</add> <lb/>Accot of Esqr Wormelys Estate &amp; advised you of the <lb/>Bills then 
+drawn on that Accot., Yours per the <name type="ship">Corbin</name> <lb/>of the 29th of Novr. &amp; 2d of Febry came to me but yesterday <lb/>I am Sorry Monsr. Ralph 
+<add resp="editor">[Wormeley]</add> is angry with us if it be for <lb/>ordering his keeping to be within Suitable limits We <lb/>must take no notice of it he will in time see his own folly. </p>
+ 
+<p>I find you are got into the Strain of Complaints agt the <lb/>prizing of Tobo. as well as the rest of the Merchts &amp; let the <lb/>Tobo. be light or heavy or what it will you are all in <lb/>the Same tune, the design I almost think is to discour=<lb/>=age the practice of prizing Tobo. Your next <lb/>work will 
+necessarily be to find out ways for 
+
+<pb n="2"/><lb/>
+us to relieve our necessities in respect to cloathing of us &amp; in  <lb/>answering the other calls of nature for if we must follow yor <lb/>directions &amp; make such Tobo. as you will think fitt to <lb/>give a Character to twill do little more then pay the <lb/>Queen her Customs &amp; the Merchts. their Commission <lb/>I heartily wish among yor other memorials &amp; it seems to  <lb/>be as well for yor own Interest as ours tht you will join <lb/>in a memorial to the Lords or where its proper to let <lb/>them know the necessitous Circumstances we poor p<add resp="editor">[lan=]</add> <lb/>=ters labour under &amp; how absolutely for the 
+<add resp="editor">[Qu]</add>ee<add resp="editor">[n's]</add> <lb/>Service it is to Support our Trade tht we m<add resp="editor">[ay not need]</add> <lb/>to fall upon manufactories for Cloathing <add resp="editor">[ourselves?]</add> <lb/>&amp; I cannot but think all who really desig<add resp="editor">[n 
+the Queen's]</add> <lb/>Service will think this the best way to keep us upon G<add resp="editor">[enerally follo]</add><lb/>=wing the Trade of Tobacco as now we do  <add resp="editor">[if]</add><lb/>it comes to pass any of Esqr Wormelys Tobo. sh<add resp="editor">[ould be]</add><lb/>over priz'd they Seldom used 
+to take overmuch <unclear>[ . . . ] </unclear><lb/>it its blessed news tht there is so good an Agreement <add resp="editor">[between]</add> <lb/>the Queen &amp; her people I have now a postman from <note n="MP"><lb/>Perry</note> of the 18 of May tht gives the <note 
+target="n2">Accot. of a great Victory</note> obtained <add resp="editor">[by]</add> <lb/>the Duke of 
+Marlborough in Brabant &amp; he writes <lb/>by private Letters they understood the Seige of 
+Bar<add resp="editor">[celona]</add> <lb/>was raised These things we hope will contribute 
+<add resp="editor">[to]</add> <lb/>that long peace you speak of &amp; which we All 
+ha<add resp="editor">[ve]</add> <lb/>reason to desire thank God the Division here 
+gr<add resp="editor">[ows]</add> <lb/>less &amp; less every day, <add place="supralinear">by the mild &amp; prudent conduct of 
+our <note target="n3">good Govr</note></add> &amp; will be quite <del>forgot</del> at an End in a 
+li<add resp="editor">[ttle]</add> 
+
+<pb n="3"/><lb/>
+
+time if <note n="FN">Collo. 
+N<add resp="editor">[icholso]</add>n</note> be not allowed to perplex things <lb/>at home, <note target="n4">Collo Quarry</note> &amp; Collo Cox hath brought in so <lb/>many Stories of his Grandure, his great intrest <add place="supralinear">wth the great men</add> <lb/>&amp; the terrible threats he daily vents against those  <lb/>tht were concerned in the Complaints agt him <del>which</del><lb/>hath put a great many Mens Spirits upon a Fresh <lb/>Ferment that before began to grow quiet &amp; calm but<lb/>I shall not say more of this Subject. </p>
+ 
+ 
+<p>It appears you have bin active in a memorial on <lb/>behalf of yor brother Jennings agt the Council it  <lb/>had bin well you had taken care before hand that you <lb/>had truth for yor foundation, <note target="n5">Mr Secretary</note> was <lb/>told by the Council <add place="supralinear">in the Presence of the Govr</add> when 'twas read he had wronged thm <lb/>&amp; charged them wth a falsehood to which he did not <lb/>know how to make any Answer, how far such a <lb/>proceeding may tend to yor Intrest its not my business <lb/>to consider for my part I shall endeavour to be <lb/>easy &amp; rather than be ingaged in new quarrels <lb/>be  content to Set down a private man &amp; be no <lb/>more concerned wth the publick while I live I  
+<lb/>write thus freely to you as a friend not intending you <lb/>should make use of my name upon any of these Accots <lb/>only for yor own Information &amp; I hope you will not <lb/>make any other Construction I give you my humble <lb/>Service &amp; remain <lb/><lb/> 
+ 
+Yor affectionate Countryman &amp; <lb/>most humble Servt. <lb/><lb/>
+ 
+<seg type="postscript"><add place="marginleft">I almost forgot to take notice of the young Wormelys coming in next fleet its agreed by all concerned tht Capt. <lb/>Graves shall have the care of them. </add> </seg><lb/><lb/> 
+
+<seg type="postscript"><add place="marginleft">Sr. herein is an Invoice for some g<add resp="editor">[oods for the use of that estate I de]</add>sire may be sent in per some good Ship <sic corr="to">to <lb/>to</sic> our River </add> 
+</seg> 
+</p>
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+<note><hi rend="italics">Source copy consulted:</hi>  Christ Church Parish, Lancaster County, Processioners' Returns, 1711-1783,and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond, 170-72. Extract printed <title>William and Mary Quarterly</title>, 2d. ser., 17 (1909), 260- 62.</note><lb/><lb/>
+ 
+<note id="n1">[1] It is clear from internal evidence that this letter was addressed to 
+Corbin.</note> 
+ 
+<note id="n2">[2] Carter refers to campaigns in Europe of the War of the Spanish 
+Succession.</note> 
+ 
+<note id="n3">[3] Edward Nott (1657-1706) was the governor; he was to die three days after Carter wrote this letter, and Edmund Jenings as president of the Council would become acting govenor until Alexander Spotswood reached Virginia June 23, 1710. </note> 
+
+<note id="n4">[4] Robert Quarry served as surveyor general of customs for the colonies, and, although he was made a member of the Council of Virginia in 1702, he was frequently away in England or another of the colonies. (<cit><bibl n="B9">Tyler. <title>Encyclopedia of Virginia Biography.</title> I, 148.</bibl> </cit>)</note>
+ 
+<note id="n5">[5] Edmund Jenings held the post of Secretary of State of the colony; he was Corbin's brother-in-law.</note> 
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

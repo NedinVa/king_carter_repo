@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C05f27a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from  William Robertson to Robert Carter and John Lightfoot, June 27, 1705</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Robertson,William</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 6 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">filename</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from William Robertson to Robert Carter and John Lightfoot, June 27, 1705</title>
+     <author>William Robertson</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date>unpublished</date>
+   <idno type="callNo"> Source copy consulted:  State Archives, New York State Education Department, Albany. New York Colonial Administrative Records, Series #A1894, Vol. 51, 41a-c.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1705-06-27</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+ 
+
+<text id="C05f27aT">
+
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 pp.</extent>
+<date value="1705-06-27">June 27, 1705</date>
+<idno rend="suppress">C05f27a</idno>
+<title>Letter from William Robertson to Robert Carter and John Lightfoot, June 27, 1705</title>
+</bibl>
+</head>
+<p>William Robertson writes to Robert Carter and John Lightfoot, June 27, 1705, to convey the governor's order to attend a meeting of the Council on June 30th, 1705, as the governor has received news from the captain of an English warship.</p>
+</div1>                 
+</front>
+
+
+<body> 
+ 
+<div1 type="letter" n="1705-06-27"> 
+ <head>Letter from <note n="WR">William Robertson</note> to 
+Robert Carter and <note target="n1">John Lightfoot</note></head> 
+ 
+<opener> 
+<dateline>
+<pb n="1"/>
+<name type="place">Williamsburgh<add resp="editor">[, Virginia]</add></name><lb/> 
+<date n="1705-06-27">June the 27th 1705</date> 
+ 
+</dateline> 
+ 
+<salute>Sr.</salute> 
+ 
+</opener> 
+ 
+<p><note n="FN">His Excellency</note> haveing just now received advice from<lb/>
+Capt. <name type="person">Josiah Moon</name> of Her Majestys Ship the <name type="ship">Oxford</name> that he<lb/>
+and another man of war arrived last night at<lb/>
+<name type="place">Kiquotan</name> finds it necessary for Her Majestys Service <lb/>
+to have a meeting of the Councill here on <lb/>
+Saturday the 30th Instant at which he expects <lb/>
+Yor. Honors will not fail to give Yor. attendance <lb/>
+which by His Excellencys Command is all from <lb/>
+</p> 
+<closer> 
+<salute>Yor. Honrs. <lb/>most obedient humble<lb/>
+Servt. </salute> 
+WIL ROBERTSON 
+</closer> 
+ 
+</div1> 
+ </body> 
+<back> 
+<div1 type="notes"> 
+<head>NOTES</head> 
+ 
+<note><hi rend="italics">Source copy consulted:</hi>  State Archives, New York State Education Department, Albany. New York Colonial Administrative Records, Series #A1894, Vol. 51, 41a-c. This document was copied for Governor Francis Nicholson's private papers, and was carried by him to New York when he later became governor of that colony. The papers remained in New York, passing into the custody of the State Library which burned around the turn of the twentieth century, causing some damage to this series of records. These records have been transferred to the state archives, and there are several copies of this document in the series. </note>
+
+<note id="n1">[1] John Lightfoot (d. 1707) of New Kent County had been born in England, and was appointed to the Council in 1692. <bibl n="B7">Tinling. <title>The Correspondence of the Three William Byrds. . . .</title> p. 129.</bibl></note>
+
+</div1> 
+</back> 
+ 
+
+</text> 
+</TEI.2> 

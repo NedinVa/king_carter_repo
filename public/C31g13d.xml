@@ -1,0 +1,207 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C31g13d">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Nicholas Nicholas, July 13, 1731</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 11 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C31g13d.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2006</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Nicholas Nicholas, July 13, 1731</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1731-07-13</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C31g13dT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1731-07-13"></date>
+<idno rend="suppress">C31g13d.xml</idno>
+<title>Letter from Robert Carter to Nicholas Nicholas, July 13, 1731</title>
+</bibl>
+</head>
+<p>Robert Carter as the representative of the Frying Pan (copper mining) Company writes to Nicholas Nicholas, July 13, 1731, to inform the on-site supervisor of work at the mine that his "articles" of employment require him to perform labor as well as to teach those put under him, and do not permit him to travel about. Carter answers complaints about food and Nicholas's salary.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note target="n1">Nicholas Nicholas,</note> July 13, 1731</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Corotomon, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1731-07-13">13 July 1731</date><lb/>
+Nicholas Nicholas,<lb/>
+</dateline>
+
+</opener>
+
+
+
+<p>Yo<corr resp="editor">[ur]</corr>s of the thirtieth of June I have. You tell a long Story about <lb/>
+your Drivings, which it seems have produced nothing of Ore valuable yet<lb/>
+You give us some hopes off finding better as you sink deeper. You are mistaken <lb/>
+when you think we have not proper Fluxes. We have as good as any England <lb/>
+Affords. You tell Us, you had some Mixture of Green in the <sic corr="Bottom">Botom</sic> of your <lb/>
+Drift. I have sent an Accot of the provision you carried away with you &amp; <add place="supralinear">was</add> sent to <lb/>
+you since. You say That the Miners have never been one Day without Meat <lb/>
+sufficient. You tell me a bad Story of Haweis; that he is a discontented, wicked,<lb/>
+cursing, swearing Rascal. I have <sic corr="written">writ</sic> to Mr Grayson fully about him to <lb/>
+treat him as a Common Servant by Indenture, as he &amp; Brunton both are &mdash; <lb/>
+I <note target="n2">admire</note> Honey should go away with them Fellows, who I have heard a Good <lb/>
+Character of. If you had been Good Husbands of your Meat, it would not <lb/>
+have been gone so soon. You have had half a dozen Deer for Fresh Pro&mdash; <lb/>
+vision &amp; I believe have had some more before now. You have now &mdash; <lb/>
+Plenty of Milk. It is admirable you should not be well contented: Good<lb/>
+Milk &amp; <note target="n3">Homony</note> &amp; Milk &amp; Mush, &amp; plenty of it, is what the Greatest Part of <lb/>
+the Country live upon at this time <sic corr="of">'a</sic> year, &amp; what you must be satisfied <lb/>
+with <del>when</del> <add place="supralinear"><sic corr="until">'till</sic></add> the <sic corr="Schooner">Scooner</sic> comes up, which perhaps may be within this Fortnight<lb/>
+I have sent to Mr. Grayson yours Honey's &amp; Whitford's Articles signed by the <lb/>
+<note target="n4">Company.</note> You flatter your Self that you are not obliged to work: If I <abbr expan="understand">understd</abbr> <lb/>
+Your Articles, you are mistaken. You are not only to work your Self; but<lb/>
+to use your Endeavour to teach those that We shall think fit to put under <lb/>
+you. You are very urgent for your Wages. When the accot. is made up, I reckon <lb/>
+there will not be Abundance due to you; &amp; although we should fall be= <lb/>
+hind hand with you &amp; be a Quarter's Wages in your Debt, you have no &mdash; <lb/>
+Reason to be uneasy at it. You will be sure of having your full Due in the<lb/>
+End
+
+<pb n="2"/><lb/><lb/>
+End. You tell me, that for the <sic corr="Holidays">Holidayes</sic> &amp; other times tht you <sic corr="misspend">mispend</sic> it is no<lb/>
+more than customary in England. Your Indentures mention no such custom,<lb/>
+nor do I believe there is any such But whatever you &amp; Whitford &amp; Honey may <lb/>
+pretend to, I am sure Burton &amp; Haweis have no such Custom to plead.<lb/>
+They are bound to us by a Common Indenture &amp; are to serve us four years from<lb/>
+their Arrival, &amp; I have ordered Mr Grayson to use thm accordingly. Haweis need <lb/>
+not trouble himself to write to <note n="EA">Mr Athawes;</note> I shall give him a full character <lb/>
+of him.</p>
+
+<p>When the Scooner comes I shall remember some Linen for you &amp; a little <lb/>
+Money. I shall conclude with wishing you would make it your utmost <lb/>
+Endeavour to let us get something by your Labour to answer the vast charge <lb/>
+you stand us in; &amp; expect, that, as you are our <abbr expan="Servants">Servts.</abbr> upon wages, we <lb/>
+shall be obliged to make you do your Duty, &amp; We shall do all things that <lb/>
+is reasonable on our parts; but, if otherwise, we must take the proper <lb/>
+Measures to compel you to it. It will be best tht both Sides do their parts; you <lb/>
+in letting us have your utmost Labour &amp; Indstry, &amp; we in providing you <lb/>
+what is fit for such Men to have; which I am sure hitherto we have very <lb/>
+liberally <add place="supralinear">done,</add> which is all at present from Your Friend &amp; Master<lb/>
+___
+</p>
+
+<closer><seg type="postscript"><lb/><lb/>PS. I observe you write to my Son for a Saddle &amp; Bridle &amp; have writ to me for a fine <note target="n5"><abbr expan="holland">holld</abbr></note> shirt &amp; have <lb/>
+provided yourself with a Horse. I suppose these are preparations for yor taking yor Pleasure  abroad. If you<lb/>
+look into your articles I believe you will find no such Liberties <abbr expan="reserved">reserv'd</abbr> to you. I do assure you every day you are<lb/>
+from yor business, you shall have so much of your
+wages cut <sic corr="off">of</sic>
+</seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>The county and colony have been added for clarity to the heading on this draft. </note>
+
+<note id="n1">[1] From this letter, it is apparent that Nicholas Nicholas is the on-site supervisor of the miners at the Frying Pan mine.</note>
+
+<note id="n2">[2] Carter uses the word "admire" in a sense that is no longer current. The <hi rend="italics">Oxford English Dictionary </hi> defines what he means as "to feel or express surprise, or astonishment; to wonder, to marvel, to be surprised."</note>
+
+<note id="n3">[3] Hominy is made from corn by drying and treating it to remove the husk and germ. The remainder can be cooked.</note>
+
+<note id="n4">[4]  In 1728, Carter, his sons Robert and Charles, and his son-in-law Mann Page,  organized a company to mine for copper on a tract of some 27,000 acres that Louis Morton describes as lying "near the present boundary of Fairfax and Loudoun counties." Fairfax Harrison wrote that the tract was "on the  Horsepen of Broad." Today, there is a Frying Pan Park just east of the border of the Dulles Airport reservation, and there are other things with the name in the area. The company was not successful. (<cit><bibl n="B32">Morton. <title>Robert Robert Carter of Nomini Hall.</title> pp. 18-19;</bibl></cit> and <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> p. 342. </bibl></cit>)</note>
+
+<note id="n5">[5] Holland was a closely woven white linen used especially for shirts and bed linen. (<cit><bibl>"Of Silk, Cotton, Linen and Wool."  18c New England Life: Clothing &amp; Accoutrements. http://www.18cnewenglandlife.org/18cNEL/ofsilk.htm. 1/8/04</bibl></cit></note>
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

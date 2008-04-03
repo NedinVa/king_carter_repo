@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C27g24e">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Peter Leheup, July 24, 1727</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca.7  kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C27g24e.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2003</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Peter Leheup, July 24, 1727</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1727-07-24</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C27g24eT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1727-07-24"></date>
+<idno rend="suppress">C27g24e.xml</idno>
+<title>Letter from Robert Carter to Peter Leheup, July 24, 1727</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Peter Leheup, the colony's agent in London, July 24, 1727, to infoirm him that he is sending to the Board of Trade the naval officer's returns for the Accomac district which had not been sent with the earlier group of "Publick Papers" because the district lies across Chesapeake Bay. He also advises Leheup of the death of Edmund Jenings on July 5, 1727.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note target="n1">Peter Leheup,</note> July 24, 1727</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1727-07-24">July the 24th 1727</date><lb/>
+Peter Leheup Esqr.<lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+<p>Allow me to acquaint you that after Sending <lb/>away the above The <sic corr="public">publick</sic> papers came to my hands and were <lb/>disptachd away to go by the last Fleet I am <sic corr="informed">informd</sic> the packets were <lb/>put on board the <note target="n2"><name type="ship"><abbr expan="Williamsburgh">Wms:burgh</abbr></name></note> All the Lists of the Entrys and Clearings <lb/>of ships for the last year were then Sent only the lists for Accomack <lb/>District which is <sic corr="Separated">Seperated</sic> from the rest of the colony by the main Bay <lb/>which making <add place="supralinear">it difficult for</add> the Officers there <del>not</del> <add place="supralinear">to be</add> as Exact in their returns as the rest <lb/>I now <sic corr="transmit">transmitt</sic> them to <note target="n3">their <abbr expan="Lordships">Lordps</abbr></note> As also advise of the Death <lb/>of <note n="EJ">Colonel <sic corr="Jenings">Jennings</sic></note> who department this life the 5th: Instant I am </p>
+
+<closer>Sir, Yor: most Obedient <lb/>humble Servant&mdash;
+<seg type="postscript"><lb/><lb/>per <note target="n4">Buckeridge</note></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. </note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to persons abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
+
+<note id="n1">[1] Peter Leheup, an English Treasury clerk, was Virginia's  and other colonies' agent in England for some years. He was related by marriage to the Prime Minister's brother who was secretary of the Treasury. His influence would be greater near the end of Carter's life.(<cit><bibl n="B22">Price. <title>Perry of London. . . . </title> pp. 75-77, 80, 83.</bibl></cit>)</note>
+
+<note id="n2">[2] Isham Randolph was captain of the <hi rend="italics">Williamsburgh</hi> in 1725-26. (<cit><bibl>Admiralty 68/194, ff. 39v, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n3">[3] Established in 1696 as successor to a similar body, the Lords Commissioners of Trade and Plantations was "an advisory group, subordinate to king and Privy Council, and with no executive, financial, or penalizing powers, the Board of Trade was nevertheless able . . . to exert a far reaching and often determining influence in colonial matters. . . . It prepared the royal instructions for the governors overseas. . . ." (<cit><bibl>Henry Hartwell, James Blair, and Edward Chilton. Hunter Dickinson Farish, <hi rend="italics">ed.</hi> <title>The Present State of Virginia, and the College.</title> [First published, 1940, by Colonial Williamsburg, Inc., and reprinted Charlottesville: University Press of Virginia, 1964.] pp. xvi-xvii.</bibl></cit>)</note>
+
+<note id="n4">[4] The <hi rend="italics">Marlborough</hi> was a vessel of 100 tons and 14 men, commanded by George Buckeridge (Buckbridge). In a letter to London merchant John Falconar 1727 July 24, Carter refers to this vessel as "yor. Marlborrough." (<cit><bibl>Admiralty 68/195, abstracted in Survey Report 6801, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C29k20b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to William Camp, November 20, 1729</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 9 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C29k20b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2005</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to William Camp, November 20, 1729</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1729-11-20</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C29k20bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1729-11-20"></date>
+<idno rend="suppress">C29k20b.xml</idno>
+<title>Letter from Robert Carter to William Camp, November 20, 1729</title>
+</bibl>
+</head>
+<p>Robert Carter writes to William Camp, the manager of the Burwell estate's and his own properties in the Gloucester and York counties area, November 20, 1729, to examine land at Arnold's Ferry that he is to purchase from Major Robinson and that is to  be divided between Mrs. Robinson and her sister.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note target="n1">William Camp,</note> November 20, 1729</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Corotoman, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1729-11-20">Novr. the 20th. 1729</date><lb/>
+Wm Camp&mdash;<lb/>
+</dateline>
+
+
+</opener>
+
+
+
+<p>This Day I <abbr expan="received">recd</abbr> a letter from <note target="n2"><abbr expan="Major">Majr.</abbr> Kemp</note> fixing the time for <lb/>
+Dividing the Land at <note target="n3">Arnolds ferry</note> between the two Sisters <note target="n4">Mrs. Wormeley</note> <lb/>
+&amp; Mrs. Robinson Mr. Kemp is to Act in behalf of Mrs. Wormeley <note target="n5">Mr Robin<corr resp="editor">[son]</corr></note> <lb/>
+hath promised to be there &amp; to take as much care of his wifes interest in the <lb/>
+Division as if he was to keep the Land. a <abbr expan="Surveyor">Surveyr.</abbr> is to run Round the bound<corr resp="editor">[s]</corr> <lb/>
+of it &amp; then to run a Dividing line the choice after the Division is to be deter<lb/>
+-mined by lot I have <sic corr="written">writ</sic> to <note target="n6"><abbr expan="Colonel">Col</abbr> Braxton</note> to appear as my friend in this <lb/>
+Matter however by all means I would have you there &amp; to go up a Day or two bef<corr resp="editor">[ore]</corr><lb/>
+hand and take a Strict Narrow View of all the Land &amp; the Circumstances of it that <lb/>
+You may be able fully to advise <abbr expan="Colonel">Col.</abbr> Braxton you know I shall want a good <lb/>
+River Landing an equal share of the best of the Land an equal Share of the <lb/>
+Timber &amp; an equal share of the uncleared Grounds with an equal Share of <lb/>
+The buildings, the pasture grounds the Marshes &amp; the other valuable convenien<lb/>
+-ces The patent is for a thousand Acres <abbr expan="Major">Majr.</abbr> Robinson undertakes it shall <lb/>
+hold out tht. at least he reckons there is a hundred or two hundred Acres more <lb/>
+its highly Necessary the dividing line tht. is made Should be well &amp; plainly <lb/>
+Marked but tht. I suppose everybody will be for</p>
+
+<p>I doubt not you will use your utmost diligence &amp; dexterity <lb/>
+in this affair in which you will much oblige 
+</p>
+
+<closer>Your friend</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>The county and colony have been added for clarity to the heading on this draft.</note>
+
+<note id="n1">[1] William Camp (Kemp) was described by Carter as "the General Overseer of Mr Burwell's Affairs" and he wrote that Camp earned a salary "&pound;50 . . . for the year 1731." Carter and his son-in-law, Mann Page, were the trustees of Nathaniel Burwell's children after Burwell's death in 1721. Camp was a resident of Gloucester County where most of the Burwell estates lay, and he must also have supervised "Rippon Hall" in nearby York County. (Carter to George Braxton, 1729 November 20, and Carter to William Dawkins,1732  July 11. <cit><bibl><title>Virginia Tax Records.</title> [Baltimore: Genealogical Publishing Company, Inc., 1983.] p. 539.</bibl></cit>)</note>
+
+<note id="n2">[2] Matthew Kemp was a successful merchant in Middlesex County where he was also a justice, militia officer, and sheriff. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]: lv, 12, 107, 200, 205. </bibl></cit> See also numerous references in <cit><bibl n="B39">Rutman and Rutman, <title>A Place in Time: Middlesex. . . . </title></bibl></cit>)</note>
+
+<note id="n3">[3] On the Fry-Jefferson map, Arnold's Ferry crosses the Mattaponi River between King William and King and Queen counties.</note>
+
+<note id="n4">[4] This may be Elizabeth Wormeley, widow of John Wormeley (1689-1727) whose maiden name is unknown.</note>
+
+<note id="n5">[5] A Benjamin Robinson was sheriff of Essex County in 17724 and 1725. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]: 66, 86, 117. </bibl></cit>)</note>
+
+<note id="n6">[6] George Braxton I (c.1677-1746) of Newington, King and Queen County, successful merchant, justice, militia officer, and burgess. (<cit><bibl n="B42">Kneebone <hi rend="italics"> et al.</hi>  <title> Dictionary of Virginia Biography.</title> 2: 204-5.</bibl></cit>)</note>
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

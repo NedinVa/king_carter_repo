@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C27e13g">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to the Earl of Orkney, May 13, 1727</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 5 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C27e13g.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2003</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to the Earl of Orkney, May 13, 1727</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1727-05-13</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C27e13gT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1727-05-13"></date>
+<idno rend="suppress">C27e13g.xml</idno>
+<title>Letter from Robert Carter to the Earl of Orkney, May 13, 1727</title>
+</bibl>
+</head>
+<p>Robert Carter writes to the colony's governor, the Earl of Orkney, May 13, 1727, to report on payment of his salary and a portion of other monies due him, and to enclose bills of exchange (not present) for what is due.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to the <note n="GH">Earl of Orkney,</note> May 13, 1727</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Lancaster County, ]</add>Virginia</name><lb/>
+<date value="1727-05-13">May 13th: 1727</date><lb/>
+The Rt: honble: Earl of Orkney<lb/>
+</dateline>
+<salute>My Lord&mdash;</salute>
+
+</opener>
+
+<p>I have had the honour Several times <lb/>to address my Self to your Lordship am in no doubt yor: Lord<lb/>ship has long Since <abbr expan="received">rec'd</abbr> your bills of <abbr expan="exchange">Exche:</abbr> for yor: Salary <lb/>from the Death of <note n="HD"><abbr expan="Colonel">Collo:</abbr> Drysdale</note> to the 25th: of <abbr expan="October">Octor:</abbr> This Acc<lb/>ompanys bills of <abbr expan="exchange">Exche:</abbr> for Six hundred pounds <add place="supralinear">five hundred pounds thereof drawn by the receiver General on <note n="MP2">Mr. Perry</note> &amp; Endorsed</add> <lb/><add place="marginleft">by mee the other hundred pound my own Draught on <abbr expan="ditto">Do:</abbr></add> <lb/><del>My own Draught on Mr.</del> The five hundred pounds <del>thereof
+</del> being <lb/>your Lordships Salary to the 25th: of Aprill <add place="supralinear"><hi rend="italics"><hi rend="bold">the</hi></hi></add> One hundred <lb/>Pounds for the better half of the perquisites that have yet bin <lb/>paid to me The Marriage and Ordinary <sic corr="licenses">Lycences</sic> are <add resp="editor">[A]</add><lb/>ccounted for but once a year in October. Mrs. Drysdale <abbr expan="received">recd</abbr> <lb/>them all to our late <abbr expan="governor's">Govrs:</abbr> Death as She did the Shipping <lb/>fees It is not the Custom of the Naval Officers to make up their <lb/>Accots: oftener <sic corr="than">then</sic> every half year and then they account only <lb/>for the <sic corr="vessels">Vessells</sic> that have <sic corr="cleared">cleard</sic> out These methods Occasion <lb/>my being in Possession of no more of the prequisites at 
+
+<pb n="2"/><lb/><lb/>
+this Time Wee have bin in Expectation of <lb/><abbr expan="Lieutenant">Leiut.</abbr> <abbr expan="Governor">Govr:</abbr> <note target="n1">Colonel Gooch</note> for some Time to whose Arrival I <lb/>shall think it my Duty to be accountable to your Lordship</p>
+
+<p>The publick Affairs <add place="supralinear">for his Majestys Service</add> have bin transmitted ac<lb/>cording to the Instructions and practice of former <abbr expan="governors">Govrs:</abbr> and <lb/>nothing I hope hath bin neglected within the Compass of my Duty <lb/><sic corr="Although">Altho</sic> a Crazy health doth Still Attend me I am with the utmost <lb/>Duty </p>
+
+<closer>My Lord <lb/>Yor: Lordships <lb/>Most Oblidged <lb/>Most Obedient <lb/>&amp; most humble Servt. 
+<seg type="postscript"><lb/><lb/>per <note target="n2">Hopkins</note> 
+<lb/>Copy per <note target="n3">Woodward</note></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. </note>
+
+<note id="n1">[1] Sir William Gooch (1681-1751), lieutenant governor of the colony under the govenor, George Hamilton, Earl of Orkney, would reach Williamsburg in September 1727. He would serve during Carter's lifetime (and until August 1749). (<cit><bibl>Emily J. Salmon and Edward D. C. Campbell, Jr. <title>The Hornbook of Virginia History.</title>Richmond: The Library of Virginia, 1994. p. 106.</bibl></cit>)</note>
+
+<note id="n2">[2] Captain James Hopkins commanded the <hi rend="italics">Mary</hi> in 1727-1728. He was then working for London merchant Robert Cary. He is mentioned in Carter's diary. (<cit><bibl>Adm. 68/194, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n3">[3] Thomas Woodward commanded the <hi rend="italics">Providence</hi> during a number of voyages to the colony, 1723-1727. (<cit><bibl>Adm. 68/194 and 195, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

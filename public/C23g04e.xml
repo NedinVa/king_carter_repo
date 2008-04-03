@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C23g04e">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Micajah Perry, July 4 and 26, 1723</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 8 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C23g04e.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2002</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Micajah Perry, July 4 and 26, 1723</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1723 July 4 -1724 June 11, Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1723-07-04</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C23g04eT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1723-07-04"></date>
+<idno rend="suppress">C23g04e.xml</idno>
+<title>Letter from Robert Carter to Micajah Perry, July 4 and 26, 1723</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant Micajah Perry, July 4 and 26, 1723, to give him the details of how he intends to pay his current obligation of one-half of Perry's advancement of &pound;1,500 for the purchase of the post of secretary of state of the colony for Carter's son John.<lb/><lb/>
+<hi rend="italics">This letter was revised 3 April 2002 to add the post script.</hi>
+</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="MP2">Micajah Perry,</note> July 4 and 26, 1723</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Rappahannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1723-07-04">July the 4th 1<hi rend="underline">723</hi></date><lb/>
+Mr Micaja Perry<lb/><lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To be writ<lb/>
+</dateline>
+<salute>Sr&mdash;&mdash;</salute>
+
+</opener>
+
+<p>In a former letter I promised <add place="supralinear">you</add> to be <note n="JC1">my <lb/>Sons</note> Security for the fifteen hundred pounds you advanced <lb/>in his behalf for his Secretarys Commission and undertook <lb/>to pay you the Money in Two Years, the one half by this <lb/>Shipping the other half per the next, I now come to f<add resp="editor">[ill]</add> <lb/>that Engagement in order thereto<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Turn Over</p>
+
+<pb n="2"/><lb/><lb/>
+<p>Herein I send you a bill of Exchange upon <note n="WD">Mr. <lb/>Dawkins</note> for 200&pound; one <abbr expan="ditto">Do</abbr> upon Mr. Stark of <sic corr="Glasgow">Glassgow</sic> <lb/>for 100&pound; These my own bills Mr. <note target="n1">Charles Grimes</note> bill on <lb/>yourself for 78&pound; and Mr. <note n="JG2">John Grimes</note> Ditto for 30&pound; 17<abbr expan="shillings">S</abbr>: 2<abbr expan="pence">d,</abbr> <lb/>The 4th of <sic corr="April">Aprill</sic> last I sent you a bill of <abbr expan="John">Jno</abbr> Tarpley on <lb/>William Western of <name type="place">Pool</name> for 110&pound;: 1s: 11d, Amounting in all to <lb/>Five hundred Eighteen pound Nineteen Shillings and one <lb/>penny what of this money will not be paid and what <lb/>remains after to make up the Entire sum of Seven hundred <lb/>and fifty pounds you are to make me  <sic corr="debtor">debter</sic> for in my <lb/>Accot: <sic corr="current">Currant</sic> I have already told you I wll pay no <lb/>Interest for this Money nor shall my Son either for reasons <lb/>I know you will not pretend to answer</p>
+
+<p>Mr Stark hath promised to pay my Money in <lb/>London without any <sic corr="discount">discompt</sic> for Exchange the Inclosed <lb/>Lettr to him is to that purpose however I undertake <lb/>to bear the charge of making <add place="supralinear">it</add> <abbr expan="London">Londo.</abbr>
+ Money I shall mix <lb/>no other Affair with this but Conclude <abbr expan="Sir">Sr</abbr>
+  
+</p>
+
+<closer>Your humble Servt.<lb/><lb/>
+<seg type="postscript">A Clause to be added to the Lettr. <lb/>9 Leaves forward<lb/><lb/><add place="marginleft">A Clause to be added to the Lettr. 10 <abbr expan="leaves">Leavs.</abbr> forward</add><lb/><lb/>
+
+A clause to be added to Mr. Perrys Lettr. <abbr expan="about">abt.</abbr> bills of <abbr expan="exchange">Exche.</abbr><lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;July 26. 1723&mdash;<lb/><lb/>
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Herein are second bills of <abbr expan="exchange">Exche.</abbr> of those went <lb/>by the <name type="ship">Carter</name> as above Also two firsts one for &pound;35 on Yor. <lb/>Self By <abbr expan="Robert ">Robt.</abbr> Carter, <add place="supralinear"><abbr expan="Esquire">Esq</abbr></add>, the other for &pound;6"1"0" on <abbr expan="William">Wm.</abbr> Anderson <lb/>of Glasgow by James Buchanan, which I desire <abbr expan="credit">Credt. </abbr><lb/>for,
+
+</seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1723 July 4 -1724 June 11, Carter Family Papers, Virginia Historical Society, Richmond. There is a 19th-century transcript in the Minor Papers in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, VA.</note><lb/>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. His usual return address, the county, and state have been added for clarity to this unheaded draft.</note><lb/>
+
+<note id="n1">[1] Charles Grymes (c. 1692-1743) was the son of John Grymes of Middlesex County, but lived at "Morratico," Richmond County where he was sheriff, burgess, etc. (<cit><bibl>"The Grymes Family." <title>Virginia Magazine of History and Biography</title>. 28[1920]: 90-96, 187-94, 283-85, 374-75.</bibl></cit> and <bibl n="B31">Ryland. <title>Richmond County Virginia. . . . </title> pp. 500, 504, 514.</bibl></note>
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

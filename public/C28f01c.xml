@@ -1,0 +1,182 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C28f01c">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to John Pemberton and Company, June 1, 1728</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 11 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C28f01c.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2004</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to John Pemberton and Company, June 1, 1728</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1728-06-01</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C28f01cT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent> p.</extent>
+<date value="1728-06-01"></date>
+<idno rend="suppress">C28f01c.xml</idno>
+<title>Letter from Robert Carter to John Pemberton and Company, June 1, 1728</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Liverpool merchant John Pemberton and Company, June 1, 1728, about the shipment of tobacco belonging to the firm and the arrangements he has made, and reporting several bills of exchange.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="JP">John Pemberton</note> and Company, June 1, 1728</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1728-06-01">June the 1st: 1728</date><lb/>
+Mr. John Pemberton &amp; Company<lb/>
+Freirs: of the Ship Rose<lb/>
+</dateline>
+<salute>Gent&mdash;</salute>
+
+</opener>
+
+<p>	This Encloses to you a bill of lading <lb/>for 35 hogsheads of <abbr expan="Tobacco"><abbr expan="Tobacco">Tobbo:</abbr></abbr> on board the <note target="n1"><name type="ship">John and Betty</name></note> under the <lb/><corr resp="editor">[tobacco mark]</corr>'s mark, The weights whereof and of the 33 hogsheads by the <note target="n2"><name type="ship">rose </name></note><lb/>with the 30 <sic corr="Shipped">Shipt</sic> on the <note target="n3"><name type="ship">Mary</name></note> <del>[illegible]</del> <add place="supralinear">are</add> likewise herein Sent Together <lb/>with a Stated Accot. of the money Concern as far as it is <sic corr="gone">gon</sic> <lb/>I have drawn upon You to <abbr expan="Captain"><abbr expan="Captain">Capt:</abbr></abbr> Denton for the <note target="n4">Impost</note> of <lb/>these 35 hogsheads  &pound;3"11"&mdash; to be placed to the Sales of the <abbr expan="Tobacco">Tobbo:</abbr></p>
+
+
+<p>On the 10th of <sic corr="April">Aprill</sic> I gave <sic corr="notes">noats</sic> to <note target="n5"><abbr expan="Captain">Capt.</abbr> <lb/>Brackhill</note> for 30 add <add resp="editor"> [<hi rend="italics">sic</hi>]</add> hogsheads of yor. <abbr expan="Tobacco">Tobbo:</abbr> lying in <sic corr="Potomac">Patowmack</sic> <lb/>upon his promises of Send<add place="supralinear">ing</add> for them <del>[illegible]</del>ing a Short time after, My <lb/>Occasions Soon <sic corr="Called">Calld</sic> me from home he meeting with <abbr expan="Tobacco">Tobbo:</abbr> <lb/>for his business a little more Convenient never Sends for yo<add place="supralinear">rs</add>: keeps <lb/>my <sic corr="note">noat</sic> <sic corr="until">till</sic> the 8th. of May and then <sic corr="returned">returnd</sic> it leting me know <lb/>he Should not Send for the <abbr expan="Tobacco">Tobbo:</abbr> <add place="supralinear">This <sic corr="Story">Storey</sic> Capt. Denton very well knows&mdash;</add><sic corr="having">haveing</sic> no prospect of <sic corr="Shipping">Shiping</sic> it <lb/>for your Port have Sent for it round in a Sloop of my own Intend<lb/>ing to Ship it in the <note n="CS"><name type="ship">Carter</name></note> for London <sic corr="believing">beleiving</sic> you will rather <lb/>have it any where <sic corr="than">then</sic> to let it <sic corr="lie">lye</sic> in the Country all the year <lb/>and having often heard Mr. Pemberton when he could not get <lb/>his <abbr expan="Tobacco">Tobbo:</abbr> to his own Port <sic corr="choose">chose</sic> to have it to London before any <lb/>other place, When it is <del>all</del> got together I reckon there will be near 
+
+
+<pb n="2"/><lb/><lb/>
+about 40 hogsheads , I shall take care to Consign this <abbr expan="Tobacco">Tobbo:</abbr> to Mr. <lb/>Pemberton that he may choose his own <abbr expan="Merchant">Mercht.</abbr> in London for <lb/>the Sale of it,</p>
+
+<p>It will not be amiss to observe <add place="supralinear">to</add> you that <sic corr="although">altho</sic> <lb/><abbr expan="Captain">Capt:</abbr> Denton <sic corr="has">hath</sic> <sic corr="Signed">Synd</sic>  <del>the</del> bills of Lading for 35 hogsheads of this <lb/>mark he Says both <add place="supralinear">his</add> Mate and Boatman assures him there <lb/>are so many I am very <sic corr="doubtful">doubtfull</sic> there is but 34 for Certain <lb/>I am 3 of the lightest hogsheads were Sent <sic corr="ashore">ashoar</sic> to my Prize house <lb/>and were there put into 2</p>
+
+<p>The day of <abbr expan="payment">paymt.</abbr> for <note target="n6">Awbrys</note> <add place="supralinear">Debt</add> is already <lb/>past he lives 150 Miles from me have heard nothing <lb/>from him hope I shall be able to recurit you a part at least <lb/>if not the whole of his money by<del>t</del> some of the latest Ships</p>
+
+<p>herewith I Send you the following bills of <lb/>Exchange to wit, <note n="GE"><abbr expan="George">G.</abbr> Eskridge</note> on Mr. Pemberton for &pound;70"-"- <lb/><note target="n7">Hugh Brent</note> on <note n="ET"><abbr expan="Edward">Edwd.</abbr> Tucker</note> <abbr expan="Esquire">Esqr.</abbr> Weymouth for &pound;34"-"- <lb/><abbr expan="Robert">Robt:</abbr> Mitchell on Bryan Blundell for &pound;65"-"- &pound;169 in <lb/>in <add resp="editor"> [<hi rend="italics">sic</hi>]</add> the whole and have given directions to Mr. Pember<lb/>ton to pay you &pound;18 Dr. Edgars Debt You will take notice <lb/>that the receiving the <abbr expan="Tobacco">Tobbo:</abbr> yet <sic corr="unshipped">unshipt</sic> and the Nails for the <lb/>lining is to be charged hereafter This I think I have given <lb/>you as full an Accot. of yor. Concern as I am at present able </p>
+
+
+<closer>
+<seg type="postscript">Remain <lb/>Gent <lb/>Yor. very humble Servt.&mdash;<lb/><lb/>per Denton
+<lb/>herein is the Mark <abbr expan="Numbers">Numrs.</abbr> and <lb/>weights of the 29 hogsheads went by <lb/>the Rose&mdash;
+<lb/>per Denton
+<lb/>per <del>Brackhill</del> Trice</seg>
+
+
+</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. </note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
+
+<note id="n1">[1] The <hi rend="italics">John &amp; Betty</hi> was a Liverpool ship owned by merchant John Pemberton; she often carryied slaves into the colony. In 1726 the captain was John Gale, and in the next year, she was commanded by a Captain William Denton. The ship would be lost in 1729. (<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> p. 18, n. 23</bibl></cit>; Carter to Pemberton, 1730 April 15; and Carter to William Dawkins, June 28, July 26, and August 22, 1727, for Denton's first name.)</note>
+
+<note id="n2">[2] James Christian was captain of the <hi rend="italics">Rose,</hi> a vessel owned by merchant John Pemberton of Liverpool. (See Carter to Pemberton, 1730 April 15.) </note>
+
+<note id="n3">[3] The <hi rend="italics">Mary</hi> was a London ship of 130 tons commanded by James Hopkins, and owned by merchant Robert Cary. (<cit><bibl>Admiralty 68/194,ff. 82r, abstracted in Survey Report 6801, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n4">[4]  The impost was the duty imposed by Britain on imported tobacco, and the cocket (for which a fee was charged) was the certified document issued that the impost had been paid.</note>
+
+<note id="n5">[5] There  were several vessels with the name <hi rend="italics">Rappahannock</hi>.  One was based in Liverpool and was commanded by a Captain Francis Etheridge in 1725; she was a 90 ton ship with 13 men. Another of which Charles Whate was captain was of 60 tons with 11 men in 1726 and 1727. Carter's letters mention a Captain Brackhill in 1728, and Captain Loxum in 1733. (<cit><bibl>Adm. 68/194, ff.30, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n6">[6] Frank Awbrey (1690?- 1741) was an active land speculator in the area that became Loudoun County, and was one of the first justices when Prince William County was organized in 1731. He was sheriff of that county in 1739. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:239, 439;</bibl></cit> and <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title>pp. 148, 150, 153-54 ff. </bibl></cit>)</note>
+
+<note id="n7">[7] Hugh Brent was a resident of Christ Church parish in the 1716 survey of tithables of Lancaster County, and he would be sheriff in 1734. (<cit><bibl>"Tithables in Lancaster Co., 1716." <title>William and Mary Quarterly</title> 1st. ser., 21[July 1912]: 106-11,</bibl></cit> and <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:319. </bibl></cit>)</note>
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

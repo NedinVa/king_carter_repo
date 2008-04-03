@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C27j14b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to John Carter, October 14, 1727</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <resp>Change of handwriting: </resp>
+     <name id="hand">unidentified clerk</name>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 9 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C27j14b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2004</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to John Carter, October 14, 1727</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1727-10-14</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C27j14bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1727-10-14"></date>
+<idno rend="suppress">C27j14b.xml</idno>
+<title>Letter from Robert Carter to John Carter, October 14, 1727</title>
+</bibl>
+</head>
+<p>Robert Carter writes to his son John Carter, October 14, 1727, secretary of state of the colony, to inform John that illness will prevent his coming to Williamsburg for the opening session of the general court. He gives John instructions about dealing with the "perquisites" or salary due him as acting govenor before Hugh Drysdale arrived, and for dealing with a small debt.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="JC1">John Carter,</note> October 14, 1727</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Corotom<add resp="editor">[a]</add>n: <add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1727-10-14">Octobr 14th. 1727</date><lb/>
+To the Secretary<lb/>
+</dateline>
+<salute>Dear Sir</salute>
+
+</opener>
+
+
+
+<p>I had <abbr expan="resolved">resolv'd</abbr> to be at the General court <lb/>the first day &amp; had laid Matters accordingly but on monday <lb/>last early in the Morning I was siezed with a violent disease in <lb/>My bowels &amp; left side &amp; night &amp; day especially in the nights have <lb/>been pursued ever since with very tormenting pains &amp; the last <lb/>night as bad as any which puts me out of hopes of being able to <lb/>attend the Court at least in the fore part of it you know the reasons <lb/>I have to be there are so pressing that I <add place="supralinear">shall</add> delay no time in coming so soon <lb/>as it shall please God to allow me health with safety to venture a<lb/>broad however expecting the Naval Officers &amp; Clerks will be early <lb/>at the Court to make up their accots: of the <sic corr="governor's">governours</sic> perqui<lb/>sites <del>which is</del>  <add place="supralinear">this</add> work I must desire you to Manage as far as there 
+
+<pb n="2"/><lb/><lb/>
+is Occasion before my Coming to town &amp; to set all matters in a <lb/>Clear light to you I send you the Naval Officers &amp; Clerks Accots <lb/>of the <sic corr="perquisites">perquisits</sic> <add place="supralinear">to April last</add>I likewise what I reckon is to be <abbr expan="paid">pd:</abbr> to me out <lb/>of the <sic corr="Governor's">Governours</sic> Salary upon the <note n="GH">Lord Orkneys</note> Accot. &amp; my own <lb/>if it happens I am not able to be there when the receiver passes his Accots <lb/>I would have the Salary <abbr expan="paid">pd:</abbr> in two sets of bills of exchange in <sic corr="equal">equall</sic> <lb/>Sums whether the <note n="HD"><sic corr="governor">governour</sic></note> will reckon his government <sic corr="commences">commence</sic> from <lb/>his Arrival or publication of his commission I am not certain former <lb/>precedents will rule in this case <note n="WR">Mr. Robertson</note> is the fittest person to <lb/>be consulted in this affair &amp; in respect to the Naval Officers Accots Mr. <lb/><note target="n1">Hickman</note> will be the Manager of the other <sic corr="perquisites">perquisits</sic> the Naval Officers <lb/>you know pay sterling &amp; if they pay Outport bills they allow 1/2 per<lb/><abbr expan="Cent">Ct.</abbr> &amp; for Scotch bills 2 &amp; 1/2 <abbr expan="percent">perCt:</abbr> Mr. Wilson Cary <sic corr="paid">pay'd</sic> off his <lb/><abbr expan="account">Acct.</abbr> in cash at 18 <abbr expan="percent">perct</abbr> but I don't care to take Cash at any rate <lb/><sic corr="it is">tis</sic> not long since I was allowed 20 <abbr expan="percent">perct:</abbr> for my own bills I don't <lb/>know what is proper further to be said to you</p>
+
+<p><add resp="hand"><del>Mr. Grimes</del>there is a Small Accot. between Mr. <lb/><note n="JG2"><sic corr="Grymes">Grimes</sic></note> and I. I have his Obligation for &pound;7 odd money and I am to pay <lb/>him or <note n="MP1">Colonel Page</note> on Accot. of Harry Willis &pound;12 if it be to him I will <lb/>give him my own bills for the balance I would not have this Accot <sic corr="mixed">mixt</sic> <lb/>in the Salary Accot. Pray give my respects to <abbr expan="Doctor">Doctr:</abbr> Nicholas and <lb/><note n="ECB">my Daughter</note> to whom I should write but have <lb/>neither time nor Ease at present My Duty to the <abbr expan="Governor">Govr.</abbr> you <lb/>will not forget God Grant you health and Prosperity and may your <lb/>Latter days be <sic corr="Accompanied">Accompanyd</sic> with more Comfort than falls to my Lot. I am</add></p>
+
+<closer><seg type="postscript"><lb/><lb/></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1727 May-1728 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note> The county and colony have been added for clarity to "Corotoman," the name of Carter's home.</note>
+
+<note>The last paragraph of the letter is in a different hand than the first paragraph. It was added to the letterbook after the letter to William Camp of the same date as it was written around the date and address of that draft letter.</note>
+
+<note id="n1"> [1]  Richard Hickman (d. 1732) had been deputy clerk of Middlesex County in 1709. After Governor Hugh Drysdale's death, the Council appointed him to manage the Governor's house and its gardens.  His name appears a number of times in the Council minutes as he was the doorkeeper, and as he took out land patents. From Carter's letter to William Robertson 1727 July 15, in which he complains that "Mr. Hickman is very dilatory with his probatted Administrations," it seems that Hickman must have done other work for the colonial government. (Edward W. James.  "Libraries in Colonial Virginia."   <title>William and Mary Quarterly.</title> 3[1,#4, Apr. 1895]:248-51 for Hickman's inventory recorded 1732 May 15  listing many books; "Notes from the Journal of the House of Burgesses, 1712-1726." <title>William and Mary Quarterly.</title> 21[1,#4, April 1913]:257 mentions his being Council doorkeeper; "Notes from the Journal of the House of Burgesses, 1727-1734, <title>William and Mary Quarterly.</title>22[1, #1, July 1913]:54,56-58, mentions his being clerk of the Committee of Propositions and Grievances; and <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:114. </bibl></cit>)</note>
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

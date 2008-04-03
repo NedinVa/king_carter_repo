@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2  SYSTEM  'teixlite.dtd' [
+<!NOTATION jpg  SYSTEM  "jpeg">
+<!ENTITY filename  SYSTEM  "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM  "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM  "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM  "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM  "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM  "ISOtech.pen"> %ISOtech;
+]>
+
+<TEI.2 id="C02g21a">
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Robert Carter to Jonathan Mathews and John Goodwin, 1702 July 21</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr., and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 6 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">Modeng enter file ID</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/modeng.browse.html</p>
+         </availability>
+     <date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Jonathan Mathews and John Goodwin, 1702 July 21</title>
+<author>Robert Carter</author>
+</titleStmt>
+         <extent>2 p.</extent>
+<publicationStmt>
+     <date> 1702-07-21</date>
+   <idno type="callNo"> Source copy consulted: Christ Church Parish, Lancaster County,
+Processioners' Returns, 1711-1783,and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126,
+Archives Research Services, Library of Virginia, Richmond, 155-156.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in establishing
+analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH">
+     <bibl>
+     <title>Library of Congress Subject Headings</title>
+     </bibl>
+     </taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation>
+     <date>1702-07-21</date>
+     </creation>
+     <langUsage>
+     <language id="eng"></language>
+     </langUsage>
+     <textClass>
+     <keywords>
+     <term>non-fiction</term>
+   <term>prose</term>
+     </keywords>
+     <keywords scheme="LCSH">
+     <term type="Field650">LCSH</term>
+     </keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C02g21aT">
+
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 pp.</extent>
+<date value="1702-07-21">July 21, 1702</date>
+<idno rend="suppress">C02g21a</idno>
+<title>Letter from Robert Carter to Jonathan Mathews and John Goodwin, 1702 July 21</title>
+</bibl>
+</head>
+<p>Robert Carter responds to a letter from the London merchants, Jonathan Mathews and John Goodwin, noting that the sales of the Wormeley estate tobacco were acceptable, and that he is sending 11 hogsheads more of good tobacco. He encloses an invoice for goods for the Wormeley family including some items not strictly necessary, arguing that the estate should assist in paying for the widow's expenses. He states that one-fifth of the previous year's tobacco belongs to his sister-in-law, Elizabeth Wormeley, the widow, who will ship her share to Mathews and Goodwin herself in the future.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+
+<div1 type="letter" n="1702-07-21">
+<head>Letter from Robert Carter to <note n="JM">Jonathan
+Mathews</note> and <note n="JG">John
+Goodwin,</note> July 21, 1702</head>
+
+<opener>
+<pb n="1"/>
+
+<dateline>
+Rappa[hannock, Lancaster County, Virginia]<lb/>
+
+<date value="1702-07-21">July the. 21st. 1702.</date><lb/>
+Mr. Jona. Mathews<lb/>
+Jno. Goodwin&mdash;
+</dateline>                 
+                                             
+</opener>
+
+<p>I Recd. yor. Lettrs. Invoice &amp;c. Relating to <note n="RW">Esqr. Wormeleys</note>
+es<lb/>-tate, but the Goods you know wch. Way the <add resp="editor">[y]</add> went, Wee
+ha<add resp="editor">[ve]</add> <lb/>bin hard putt to it, to gett Necessarys for the familys,
+T<add resp="editor">[he]</add> <lb/>sale of the Tobo. as you promist it, Wee Cannot Complain
+<add resp="editor">[of]</add></p>
+
+<p>This Encloses a Bill of Lading for 11 hogsheads of Tobo. of that <add resp="editor">[Con]</add><lb/>-
+cern Consign'd you, by the <note target="n1">Gloster</note>, I had
+Design'd you <add resp="editor">[more]</add> <lb/>but when the Cropps Came to be Concluded, fell short in
+m<add resp="editor">[y]</add> <lb/>Reckoning. I saw the Tobo. myself, it Appear'd to me ex<lb/>-
+traordinary Good.</p>
+
+<pb n="2"/><lb/><lb/>
+<p>Herein is Another Invoice for the <note target="n2">familys</note>  <del>[use]</del> I
+pray God it <lb/>meets wth bettr. Success than the last did. There are some <lb/>things in't, not Absolutely
+Necessary for the <del>familys</del> <note target="n3">servts.</note> use, as the <lb/>Spice, the Wine &amp;ca. but in
+regard the house is kept there, <lb/>and Wee are forc'd often to Trouble my Sistr. Wormeley when
+<lb/>Wee do any business about the Childrens Estate; I think it <lb/>but Reasonable, they Should
+Contribute Something to her house <lb/>keeping, I wish you take Care to lett the Wine be good wch.
+thing you <lb/>are but seldom Guilty of.</p>
+
+<p>A fifth part of the Last Cropp that went home belong'd <lb/>to my Sister Wormeley, of wch. she hath
+Desir'd me to give you <lb/>Notice, This Year She hath her Own Tobaccoe herself, And <lb/>hath sent the
+Chief part O'nt to you, Not Else to Add att <lb/>present but am Sr.</p>
+
+<closer> yor. humble Servt.</closer>
+
+</div1>
+</body>
+
+<back>
+<div1 type="notes">
+<head>NOTES</head>
+
+<note><hi rend="italics">Source copy consulted:</hi> Christ Church Parish, Lancaster County, Processioners' Returns, 1711-1783, and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond, 155-156.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note>
+
+<note id="n1">[1] The <name type="ship"><hi rend="italics">Gloster</hi></name> was built in Hampshire, England, in 1680, and was 300 tons in size; her owners were <name type="person">Charles Morgan</name> and <name type="person">Thomas Perry</name> of London. She carried 23 men and 12 guns in 1700. (<cit><bibl n="M8">Collector's return for Rappahannock River, 1701 December 25-1702 March 25, CO5/1441. . . .</bibl></cit>; and <cit><bibl n="A19">Middleton. "The Chesapeake Convoy System, 1662-1763."</bibl></cit>>)</note>
+
+<note id="n2">[2] The clerk struck the word "use" that follows "familys" but it is necessary for the meaning of the sentence.</note>
+
+<note id="n3">[3] The word "familys" has been struck by the clerk and "servts." substituted. Apparently
+the children's estate could support the sevants, but not the widow who was, of course, provided for by
+her husband.</note>
+
+</div1>
+</back>
+</text>
+
+
+</TEI.2>

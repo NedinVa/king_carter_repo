@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C27e11a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Edward Tucker, May 11, 1727</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 7 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C27e11a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2003</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Edward Tucker, May 11, 1727</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1727-05-11</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C27e11aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent> p.</extent>
+<date value="1727-05-11"></date>
+<idno rend="suppress">C27e11a.xml</idno>
+<title>Letter from Robert Carter to Edward Tucker, May 11, 1727</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Weymouth merchant Edward Tucker, May 11, 1727, to  enclose bills of exchange and lading (not present) and that he expects to send the tobacco and letter on Tucker's ship, the <hi rend="italics">Princess Amelia.</hi> He reports the arrival of the <hi rend="italics">Portland,</hi> another of Tucker's ships, and thanks him for the accounts of sales. He notes reports in the colony of fighting because of the seige of Gibralter. He adds in a post script that he has lost many slaves recently, has had to buy new ones, and has drawn on Tucker in payment.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="ET">Edward Tucker,</note> May 11, 1727</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1727-05-11">May 11, 1727</date><lb/>
+Mr. Edward Tucker<lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+
+
+<p>The foregoing is a Copy I now send you the several <lb/>bills of <abbr expan="exchange">Exch:</abbr> and also a bill of <abbr expan="exchange">Exch:</abbr> of <note target="n1"><abbr expan="Captain">Capt:</abbr> Bretts</note> upon you for &pound;10:<lb/>12:1 which I desire Credit for herein Send you a bill of Lading for <lb/>8 hhds tobacco on board your <name type="ship">Princess Amelia</name> which I hope will <lb/><add resp="editor">[...]</add>  Your <name type="ship">Portland,</name> <note target="n2">Captain Russell,</note> is arrived and my packet by <lb/><add resp="editor">[...]</add> the sales of my 20 hhds by <note target="n1">Lawrence</note> of their <add resp="editor"><lb/>[sales I will]</add>  not complain believing you have made the most <lb/>of them <add resp="editor">[I am]</add> in hopes your next market may prove better,  These <lb/><add resp="editor">[...]</add> the Southam Cyder home The ship is now in the In<add resp="editor">[dian <lb/>Creek]</add>. Brett will best inform you of her Circumstances a <add resp="editor">[...]</add> <lb/><add resp="editor">[...]</add> from hence. Wee have many private letters of the <lb/><add resp="editor">[fighti]</add>ng begun by the <note target="n3">seige of Gibralter</note> but no publick Accot: <lb/><add resp="editor">[...]</add> we do what we can that the ships may go out in fleets <lb/><add resp="editor">[We have?]</add> not thought it proper to lay an embargo till Som<add resp="editor">[e]</add> <lb/><add resp="editor">[instructio]</add>ns come from home Pray give a happy Issue to this <lb/><add resp="editor">[...]</add> in the end.  I am,  
+</p>
+
+<closer>Sir, <lb/>Yor: most humble: Servt:<seg type="postscript"><lb/><lb/><add resp="editor">[I have]</add> had a griveous mortality <lb/><add resp="editor">[among]</add> my familys hath Swept away <lb/>abundance of my people have bin <lb/><sic corr="forced">forcd</sic> to buy a large parcell of new Negroes <lb/>in a short time Shall be under the Obligation <lb/>of drawing upon your good Self for I <sic corr="believe">beleive</sic> <lb/>about three hundred pounds.<lb/><lb/> 
+herein is also a bill of Lading for 13 hhds: <sic corr="shipped">Shipt</sic> by Colonel Page and <abbr expan="consigned">cons'd</abbr> <lb/>to you to whom you are to <abbr expan="account">acco:</abbr> for them and from whom no doubt you <lb/>will receive directions.<lb/><lb/>
+per the Princess Amelia </seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1727 May-1728 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia. The draft is damaged along its left margin.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1] John Brett commanded Tucker's ship, the <hi rend="italics">Princess Amelia</hi> which had been commanded by a Captain Lawrence until he was drowned. (Survey Report 9729 detailing the Weymouth Port Books, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.)</note>
+
+<note id="n2">[2] John Russell commanded the <hi rend="italics">Portland, a vessel owned by Weymouth merchant Edward Tucker. (Survey Report 9729 detailing the Weymouth Port Books, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.)</hi></note>
+
+<note id="n3">[3] At this time, Britain was allied with France and Prussia against Spain and Austria, and the Spanish had laid siege to Gibralter; it was not successful. The conflict would end in 1729 with the treaty of Seville by which Britain obtained Gibralter. (<cit><bibl>J. H. Plumb. <title>England in the Eighteenth Century (1714-1815).</title> Hammersmith, Middlesex: Penguin Books, 1953. pp. 64-65.</bibl></cit>
+
+)</note>
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

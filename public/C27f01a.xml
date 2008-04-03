@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C27f01a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Robert Cary, June 1, 1727</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca.9  kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C27f01a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2003</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Robert Cary, June 1, 1727</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1727-06-01</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C27f01aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1727-06-01"></date>
+<idno rend="suppress">C27f01a.xml</idno>
+<title>Letter from Robert Carter to Robert Cary, June 1, 1727</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant Robert Cary, June 1, 1727, concerning the failure of merchant Thomas Evans with whom he has had "very friendly Correspondance for more then 20 Years." Because, as he adds, "charity begins at home," he sends Cary an account of his debt due from Evans, and asks Cary to attempt to collect it, noting that he will send a power of attorney by a London ship as soon as he can. He regrets the damage to his tobacco shipped by the <hi rend="italics">Mansel</hi> but hopes Cary will find an "Advantageous Sale" for it.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="RC">Robert Cary,</note> June 1, 1727</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1727-06-01">June the 1st: 1727</date><lb/>
+Mr. Robert Cary<lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+<p><sic corr="Yours">Yors:</sic> of the. 10th: of March came to my hands two days <lb/>ago. It brings me very bad news upon Several Accots: I take this <lb/>first Opportunity to answer it I heartily <sic corr="pity">pitty</sic> the hard fate of <lb/><note n="TE">Mr. Evans</note> with whom I have had <add place="supralinear">very</add> friendly Correspondance for <lb/>more <sic corr="than">then</sic> 20 Years but charity begins at home herewith I hand <lb/>you my Accot: against him as well as I can State it, Giving him <lb/>all the Credit that I know of in which the ballance due to me is <lb/>Three hundred Ninety three pounds Sixteen Shillings and a penny, <lb/>as you have bin so kind to take into your hands my 10 hhds: <lb/>of <abbr expan="tobacco">Tobbo:</abbr> per the <note target="n1"><name type="ship">Mansale</name></note> so I hope and Earnestly press you to take <lb/>the best measures you can to Secure for me as much of this Debt <lb/>as is to be got. Mr. Evans I ever took to be an honest man how<lb/>ever this ruinous misfortune comes to fall upon him and I <lb/>dare Say will readily own the truth of my Accot: and will do his <lb/>utmost to discharge it: I believe it will be necessary to Send you <lb/>a Power of Attorney which I cannot do <sic corr="until">untill</sic> the <note n="CS">Carter</note> or Some <lb/>other London Ship goes that I may have living witnesses to it</p>
+
+<p>It is another misfortune that my <abbr expan="tobacco">Tobbo:</abbr>
+<lb/>in the Mansel was so much damaged it was some of the first <lb/>of my home Crops and I think I can answer for the goodness of it <lb/>Our great Expectations from an Empty market and the forward<lb/>ness of its <sic corr="getting">geting</sic> home I hope will Enable you to put it <sic corr="off">of</sic> to an <lb/>Advantageous Sale, By the <name type="ship">Mary</name> who left us about a fortnight <lb/><sic corr="ago">agon</sic> I writ to you at large and Duplicated by the <name type="ship">Providence</name> <lb/>I shall not repeat here only that I am </p>
+
+<closer><hi rend="italics">Sir <lb/>Yor: most humble Servt:
+</hi><seg type="postscript"><lb/><lb/>Per the John &amp; David of Glasgow
+<lb/><abbr expan="Captain">Capt:</abbr> Smillie&mdash;</seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. </note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft. Carter has added the complimentary close to the clerk's draft as is indicated by the italics.</note>
+
+<note id="n1">[1] Carter mentioned in his diary on 1726 July 29 the arrival of the <hi rend="italics">Mansel,</hi> Captain Trevisa.</note>
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

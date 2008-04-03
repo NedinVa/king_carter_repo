@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+
+<TEI.2 id="C05f07a">
+
+<pb n="31"/> 
+ 
+<text id="C05f07a"> 
+<body> 
+ 
+<div1 type="letter" n="1705-06-7> 
+ 
+<head><sender><note id="WR">William Robertson</note></sender> to 
+<addressee><person>Robert 
+Carter</person></addressee> and <addressee><person>John Lightfoot</person></addressee> 
+</head> 
+ 
+<opener> 
+<dateline> 
+<name type="place">Williamsburgh<add n="ed">[, Virginia]</add></name> 
+June the 27th 1705<date n="1705-06-27"></date> 
+ 
+<address> 
+<addrLine></addrLine> 
+</address> 
+ 
+</dateline> 
+ 
+<salute>Sr.</salute> 
+ 
+</opener> 
+ 
+His Excellency haveing just now received advice from <rolename>Capt.</rolename> 
+<person>Josiah 
+Moon</person> of Her Majestys Ship the <ship>Oxford</ship> that he and another man of war 
+arrived 
+last night at <place>Kiquotan</place> finds it necessary for Her Majestys Service to have a 
+meeting of the 
+Councill here on Saturday the 30th Instant at which he expects Yor. Honors will not fail to give 
+Yor. 
+attendance which by <rolename>His Excellencys</rolename> Command is all from 
+ 
+<closer> 
+<salute>Yor. Honrs. most obedient humble Servt. 
+</salute> 
+WIL ROBERTSON 
+</closer> 
+ 
+</div1> 
+ </body> 
+<back> 
+<div1 type="notes"> 
+<head>Notes</head> 
+ 
+<sourcedesc>sourcedesc>State Archives, New York State Education Department, Albany. Series 
+#A1894, Series #A1894, New York Colonial Administrative Records, Vol. 51, 41a- 
+c.</sourcedesc><lb/><lb/> 
+</div1> 
+</back> 
+ 
+
+</text> 
+</TEI.2> 

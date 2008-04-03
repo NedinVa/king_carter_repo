@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C29f02d">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Colonel [Mann] Page, June 2, 1729</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 9 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C29f02d.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2005</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Colonel [Mann] Page, June 2, 1729</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1728 August 8-1730 May 15,  Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1729-06-02</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C29f02dT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1729-06-02"></date>
+<idno rend="suppress">C29f02d.xml</idno>
+<title>Letter from Robert Carter to Colonel [Mann] Page, June 2, 1729</title>
+</bibl>
+</head>
+<p>Robert Carter writes to his son-in-law Colonel [Mann] Page, June 2, 1729, to cover letters that he hopes can reach some London-bound ships before they sail, and to give him family news.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to Colonel <note n="MP1">[Mann] Page,</note> June 2, 1729</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Corotom[an], <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1729-06-02">June 2d. 1729</date><lb/>
+Colo Page Honble<lb/>
+</dateline>
+<salute>Sir</salute>
+
+</opener>
+
+<p><note n="AG">Adam Graves</note> went out of our river yesderday mor<lb/>ning he <sic corr="has">hath</sic> some letters for <note target="n1">Bradby</note> and <note target="n2">Wills</note> which he <lb/><corr resp="editor">[prom]</corr>ised Carefully to deliver he was to Call at York for Bread &amp; <lb/><sic corr="flour"><corr resp="editor">[flo]</corr>wer</sic> and intended if possible to wait On you</p>
+
+<p>I writ to <note target="n3">Camp</note> to let Wills &amp; Bradby have <lb/><corr resp="editor">[so]</corr>me Shoats &amp; Corn they have both been very Obliging to me <lb/>Also I sent to Camp to contrive my boys <note n="GC">George</note> &amp; <note target="n4">Carter</note> home to <lb/><corr resp="editor">[me n]</corr>ext week being desirous to have the Comfort of their <abbr expan="Company">Compa:</abbr></p>
+
+<p>Now I send two letters for England upon busi<lb/>ness that <sic corr="has">hath</sic> happened since Adam Graves departure hope they 
+
+<pb n="2"/><lb/><lb/>
+will come time Enough to go in some of the London Ships</p>
+
+<p>My Sons <note n="RC2">Robin</note> &amp; <note n="CC1">Charles</note> took their dep<lb/>artures yesterday the latter full of resolve for carrying <lb/>on the <note target="n5">Frying Pan</note> business <add place="supralinear">Pray god continue his health to him</add> I Expect my slo<corr resp="editor">[op wi]</corr>th <lb/>their Provision and my Gang of Sawyers for the cl<corr resp="editor">[ear]</corr>in<corr resp="editor">[g]</corr> <lb/>the road will be there before him</p>
+
+<p>This Family salutes you as they ought <lb/>My daughter <note n="MCB">Mary</note> <sic corr="has">hath</sic> been very ill for several days <add place="supralinear">but is now pretty well</add> I <lb/>heartily pray for the continuance of All <abbr expan="your">yr</abbr> healths &amp; a happy <lb/>delivery to my dear <note n="JCP">Daughter</note> &amp; Am</p>
+
+<closer><seg type="postscript"><lb/><lb/></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. </note>
+
+<note>The county and colony have been added for clarity to the heading on this draft. </note>
+
+<note id="n1">[1] Captain James Bradby commanded the <hi rend="italics">Micajah and Philip. </hi>(<cit><bibl>Survey report 6801 summarizing Adm. 68/195, ff. 74v, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n2">[2] Captain Peter Wills commanded the  <hi rend="italics">Booth</hi> in 1723-1724, and the <hi rend="italics">Amity,</hi> a vessel of 500 tons and 21 men,  in 1727-1729. He is mentioned in Carter's diary for June 1723.  (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194, and Survey Report 6801 summarizing Adm. 68/195,Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n3">[3] William Camp (Kemp) was described by Carter as "the General Overseer of Mr Burwell's Affairs" and he wrote that Camp earned a salary "&pound;50 . . . for the year 1731." Carter and his son-in-law, Mann Page, were the trustees of Nathaniel Burwell's children after Burwell's death in 1721. Camp was a resident of Gloucester County where most of the Burwell estates lay, and he must also have supervised "Rippon Hall" in nearby York County. (Carter to George Braxton, 1729 November 20, and Carter to William Dawkins,1732  July 11. <cit><bibl><title>Virginia Tax Records.</title> [Baltimore: Genealogical Publishing Company, Inc., 1983.] p. 539.</bibl></cit>)</note>
+
+<note id="n4">[4]  Carter Burwell (1716-1756) was Robert Carter's grandson by his daughter Elizabeth (Carter) Burwell and her first husband, Nathaniel Burwell (1680-1721). Carter Burwell would live at "Carter's Grove," and would marry Lucy Grymes in 1738. (<cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 128.</bibl></cit>)</note>
+
+<note id="n5">[5]  In 1728, Carter, his sons Robert and Charles, and his son-in-law Mann Page,  organized a company to mine for copper on a tract of some 27,000 acres that Louis Morton describes as lying "near the present boundary of Fairfax and Loudoun counties." Fairfax Harrison wrote that the tract was "on the  Horsepen of Broad." Horsepen Run joins Broad Run on the northern border of Dulles airport. The company was not successful. (<cit><bibl n="B32">Morton. <title>Robert Robert Carter of Nomini Hall.</title> pp. 18-19;</bibl></cit> and <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> p. 342. </bibl></cit>)</note>
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

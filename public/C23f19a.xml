@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C23f19a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to William Dawkins, June 19, 1723</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca.7  kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C23f19a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2002</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to William Dawkins, June 19, 1723</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent> p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert H. Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1729-06-19</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C23f19aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1729-06-19"></date>
+<idno rend="suppress">C23d19a.xml</idno>
+<title>Letter from Robert Carter to William Dawkins, June 19, 1723</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London  merchant William Dawkins, June 19, 1723, advising him of several bills of exchange drawn on the account of the estate of Nathaniel Burwell by Mann Page and himself. He reports a shipment of 19 hogsheads of the estate's tobacco on board Adam Graves' ship, the <hi rend="italics">Bailey</hi> as well as a shipment of 20 hogsheads of his own tobacco on the <hi rend="italics">Bailey</hi> sent as a favor to  help Graves fill his ship. He concludes with  a snipe at Dawkins' complaints about the quality of his tobacco.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="WD">William Dawkins,</note> June 19, 1723</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Wmsburgh. <add resp="editor">[James City County, Virginia]</add></name><lb/>
+<date value="1729-06-19">June. 19th. 1723</date><lb/>
+Wm. Dawkins<lb/>
+</dateline>
+
+
+</opener>
+
+<p>My last advised you <note n="MP1"><abbr expan="Colonel">Coll</abbr> Page </note> &amp; myself had <lb/>drawn upon you for &pound;70 to John Sutton to be paid on Acct of that <lb/><note target="n1">Estate </note>we have since drawn on you upon the Same <abbr expan="account">acct</abbr> for &pound;50 to <lb/><note target="n2">John Lewis</note> <abbr expan="Esquire">Esqr</abbr> for &pound;6 to <note n="JH">John Holloway</note> for &pound;5 to <note n="JC3">John Clayton</note> <lb/>which we desire you to pay also there is Nineteen <abbr expan="hogsheads">hhds</abbr> of Tobo <lb/>of that Estates on board of <note target="n3">Adam Graves</note> the <name type="ship">baily</name> committed to <lb/>your care <abbr expan="Colonel">Coll</abbr> Page hath sent the bill of <sic corr="lading">ladeing</sic></p>
+
+<p>I have drawn upon you for &pound;3:10<abbr expan="shillings">S</abbr>
+ upon my own <lb/><abbr expan="account">acct</abbr> payable to  the aforesaid Clayton</p> 
+
+	<p>herein I send you a bill of lading for 20 <abbr expan="hogsheads">hhds</abbr>
+ of <lb/>my own  Tobo on board the baily which I <sic corr="shipped">shipt</sic> in Service to <abbr expan="your">yr.</abbr> <lb/>concern when Adam <add resp="editor">[Graves]</add> was out of all hopes of getting his load <lb/>it is all <abbr expan="stemmed">stemd</abbr> &amp; Straight laid made at some of my best <lb/>plantations &amp; managed with nicest care &amp; yet perhaps you are <lb/>got into such a road of complaining you will Exercise your <lb/>bileing still in giveing it a mean Character I am leaving <lb/>this place in a few days shall say no more at Present 
+</p>
+
+<closer><seg type="postscript">Per the Baily </seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1723 June 16-1724 April 23, Robert Carter Papers, (acc. no. 3807), Albert H. Small Special Collections Library, University of Virginia.  </note><lb/>
+
+<note>Robert Carter writes from Williamsburg, the colonial capital of Virginia, where he has been attending a meeting of the Assembly. The county and state have been added for clarity.</note><lb/>
+
+<note id="n1">[1] Carter refers to the estate of his deceased so-in-law, Nathaniel Burwell (d. 1721).</note>
+
+<note id="n2">[2] John Lewis (1669-1725) of "Warner Hall," Gloucester County, had been a member of the Council since 1704. (<cit><bibl>Louis B. Wright and Marion Tinling, <title>William Byrd of Virginia: The London Diary 1717-1721 and Other Writings. [New York: Oxford University Pres, 1958]. p. 458 </title></bibl></cit>)</note>
+
+<note id="n3">[3] Adam Graves, was a son of Captain Thomas Graves, long a captain of vessels trading to Virginia, and a special friend of Robert Carter's. Adam Graves commanded the Bailey in 1725-1727, a ship that belonged to London merchant William Dawkins. (<cit><bibl>Survey Report 6800, and Adm. 68/194-196 found in the microfilms of the Virginia Colonial Records Project, Albert H. Small Special Collections Library, University of Virginia</bibl></cit>)</note>
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

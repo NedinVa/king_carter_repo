@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C28e21c">
+
+
+<teiHeader type="aacr2">             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to [Mann Page, May 21, 1728]</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca.11  kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C28e21c.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2004</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to [Mann Page, May 21, 1728]</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1728-05-21</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C28e21cT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1728-05-21"></date>
+<idno rend="suppress">C28e21c.xml</idno>
+<title>Letter from Robert Carter to [Mann Page, May 21, 1728]</title>
+</bibl>
+</head>
+<p>Robert Carter writes to his son-in-law [Mann Page, May 21, 1728], to inform him that George Braxton's slave ship has arrived, and that he has written Braxton that he and Page may take as many as 30 of the slaves if Braxton will anchor the ship at Page's home, and give good credit and prices. He gives Page instructions to handle the purchases for him, specifies the working slaves that he wishes, and 3 young ones for his grandchildren.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to [<note n="MP1">Mann Page</note>, May 21, 1728]</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"> <add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
+<date value="1728-05-21"></date><lb/>
+
+</dateline>
+<salute>Honble: Sir&mdash;</salute>
+
+</opener>
+<p>You are <sic corr="blessed">blest</sic> with so Steady a head and so tena=<lb/>cious a memory that I never doubt your punctual Performance of all <lb/>particulars that you are at any time pleased to take into yor. Command</p>
+
+<p>Yor. <sic corr="British">Brittish</sic> news <add place="supralinear">is</add> of a most Extraordinary nature <lb/>Glagow Toryfied and Whitehaven abounding with Whiggism <lb/><sic corr="we">wee</sic> must wait for the truth of these fluctuattions <sic corr="until">till</sic> a more Certain <lb/>Accot. comes May Heaven bless us with the Acceptable news of a <lb/>good price at last. Crowns and Scepters must have their periods <lb/>and so must the great <note target="n1"><abbr expan="Sir">Sr.</abbr> Robert</note> in one <add place="supralinear">way</add> or other</p>
+
+
+
+<p>Last night the Enclosed Express of <note n="MCB">Colonel Braxton</note> <lb/>came to me his Ship Arrives in a most nicking time for the <lb/>Negroes to be put in for Crops I have <sic corr="ordered">orderd</sic> his Boy to call at your <lb/>house for your directions to his Master I propose his coming before <lb/>your house before his Sale of any that I <sic corr="believe">beleive</sic> you intend to <lb/>buy for your self and that amongst us if he will please us <lb/>in price and Choice we Shall take at least 30 from him <lb/>and that I lodge the direction of the whole affair under yor. man=<lb/>agement both <note n="NB">Mr. Burwells</note> and my accot. I would have bought <lb/>for Mr. Burwells Estate nine men <add place="supralinear">&amp;</add> three <add place="supralinear">women or at most but 4 women</add> for my Self <lb/>five men and one <sic corr="woman">women</sic> <add place="supralinear">or at most but 2 women</add> My Son <note n="Rc2">Robin</note> wants three men <lb/>and if you can make a good bargain for three Girls for my three <lb/>Grand Children. <note target="n2">Robert Page.</note> <del>and</del> <note target="n3">Robert Carter</note> &amp; <note target="n4">Betty Burwell</note> <lb/>or if the two for my namesakes be boys it will <corr resp="editor">[be] </corr> <sic corr="indifferent">indiferent</sic> to me <lb/>for the men and women to be sure I will not Exceed &pound;20 as much <lb/>under as you can <sic corr="I'll">Il</sic> know you'l get them, The Small ones for <lb/>your son and Betty Burwell I would have left with their <abbr expan="Owners">Ownrs.</abbr> <lb/>the other to come along with those that are for Rappahannock,</p>
+
+<p>My son <note n="CC1">Charles</note> waits upon you wth. our <abbr expan="Compliments">Complimts.</abbr> <lb/>I am&mdash;
+	</p>
+
+<closer><seg type="postscript"><lb/><lb/>I tell Braxton I have two or three hundred pounds <lb/>Cash that I would have him take of me in payment at the <abbr expan="Discounts">Discots:</abbr> <lb/>of &pound;15 <abbr expan="per cent">perCt.</abbr> <add place="supralinear">&amp; request you</add> to urge this as Strongly as Is proper yet not to break <lb/>with him in that Accot.<lb/><lb/>
+	<add place="left">I have promised to buy 2 men for my <note n="ACH">Daughter Harrisons</note> <abbr expan="Settlement">Settlemt.</abbr> Charles may Choose and mark them <lb/>and Send them to new Quarters till Mr. Harrison may have <lb/>an Accot. of them</add></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. </note>
+
+<note>The name of Carter's home, "Corotoman," the county, and colony have been added for clarity to this unheaded draft.  This letter appears in the letter book with others of this date.</note>
+
+<note>See Carter's <xref doc="C28e21a">letter to George Braxton</xref> also written 1728 May 21.</note>
+
+<note id="n1">[1]  Sir Robert Walpole, (1676-1745) was the Whig prime minister of Great Britain 1721-1742, a post to which he came after holding various government posts. He was the brother of Horace Walpole. (<cit><bibl>"Sir Robert Walpole," at "British Prime Ministers," Brittania.com at http://www.britannia.com/gov/primes/prime1.html, July 21, 2004.</bibl></cit>) </note>
+
+<note id="n2">[2] Robert Page (<hi rend="italics">ca.</hi> 1722-1768)  was Robert Carter's grandson by his daughter Judith (Carter) Page and her husband Mann Page (1691-1730). He would live at "Broadneck," Hanover County, and marry Sarah Walker in 1750. (<cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 241.</bibl></cit>)</note>
+
+<note id="n3">[3] Robert Carter (1728-1804) was Carter's grandson by his son Robert  (1704-1732) and his wife Priscilla (Churchill) Carter. The grandson would inherit his father's home at Nomini, and would be known as "Councillor" Carter. He would marry Frances A. Tasker of Maryland in 1754. (<cit><bibl n="B32">Morton. <title>Robert Robert Carter of Nomini Hall;</title></bibl></cit> and <cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 332.</bibl></cit>)</note>
+
+<note id="n4">[4]  Elizabeth Burwell (1718- ?) was Carter's grandaughter by his daughter, Elizabeth, and her first husband, Nathaniel Burwell. She married in 1738 William Nelson of Yorktown.(<cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 143.</bibl></cit>)</note>
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

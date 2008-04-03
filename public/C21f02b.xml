@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C21f02b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to John Pemberton, June 2, 1721</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 7 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">filename</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to John Pemberton, June 2, 1721</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date>1940</date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1721-06-02</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C21f02bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1721-06-02"></date>
+<idno rend="suppress">C21f02b</idno>
+<title>Letter from Robert Carter to John Pemberton, June 2, 1721</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Liverpool merchant John Pemberton, June 2, 1721, that the London ships in the colony have dropped their freight rates to &pound;8, and even so, many will not obtain cargoes. The prospects for a crop of tobacco this year are poor as the young plants are being cut off in the beds by worms. The loss of the crop may not be a bad thing.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="JP">John Pemberton,</note> June 2, 1721</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1721-06-02">June the 2d. 1721</date><lb/>
+Mr. Jno. Pemberton<lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+<p>Tis but a few days <sic corr="ago">agon</sic> I <sic corr="wrote">writ</sic> to You by the <name type="ship">Content</name> Capt. <lb/>Stephenson, however a line of our present Circumstances may not <lb/>be amiss, All our London Ships are now fallen to &pound;8 and the Cry is that <lb/>few of them will be full, Mackmullion was with me Yesterday and <lb/>Courted me very much for freight. he's <sic corr="afraid">affraid</sic> he shall not be able to <lb/>Do his business. Pickering is much in the Same case they both go for <lb/>London.</p>
+
+<p>	We have a very Indifferent appearance for a Crop this <lb/>Year what we have planted is eat up by the worme and they have <lb/><abbr expan="destroyed">destroy'd</abbr>
+ a great part of our plants in the beds, so that we are in doub<add resp="editor">[t]</add> <lb/><del>that </del>we Shall not have Enough left to pitch our Crops, a months <lb/>time will Inform us better if It be but General the loss of a Crop will <lb/>be of Service to us all, this comes by the way of London from 
+</p>
+
+<closer>Yor. humble Servant<lb/><lb/>
+<seg type="postscript">40 hogsheads of my Crop Tobo. the Content <lb/>has in her for You.
+</seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi>  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. Printed: <cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> p. 102.</bibl></cit></note><lb/>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note><lb/>
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

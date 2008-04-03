@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C28b10a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to the Governor [William Gooch], February 10, 1728</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 6 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C28b10a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2004</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to the Governor [William Gooch], February 10, 1728</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1728-02-10</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C28b10aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent> p.</extent>
+<date value="1728-02-10"></date>
+<idno rend="suppress">C28b10a.xml</idno>
+<title>Letter from Robert Carter to the Governor [William Gooch], February 10, 1728</title>
+</bibl>
+</head>
+<p>Robert Carter writes to the Governor [William Gooch], February 10, 1728, to explain that gout and eye problems will prevent his coming to Williamsburg for the meeting of the Assembly.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to the Governor [<note n="WG">William Gooch</note>], February 10, 1728</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Coroto<add resp="editor">[ma]</add>n: <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1728-02-10">Feby: the 10th: 1727/8</date><lb/>
+To the Govr:<lb/>
+</dateline>
+<salute>May it please your Honr:&mdash;</salute>
+
+</opener>
+
+<p>Last week I <sic corr="flattered">flatterd</sic> my Self according to the <lb/>usual Course of the Gout by this Time to have bin in a Condition to ad=<lb/>venture to <note target="n1">Town</note> but whether through the <del>Occasion</del> the <add resp="editor"> [<hi rend="italics">sic</hi>]</add>Sharp weather <lb/>or that the distemper hath taken a deeper hold of me my feet are more <lb/><sic corr="Swelled">Swelld</sic> my lameness greater and my pain more Continual, then they <lb/>were ten days ago and as an Additional Affliction the defluxion of my <lb/>Eyes Still follows me I Should not give your honour the <del>trouble</del> <add place="supralinear">Entertainment</add> of so <lb/>full a <sic corr="Story">Storey</sic> were it not my duty to Excuse my Absence from the Assem<lb/>bly,</p>
+
+<p>I heartily wish your <abbr expan="honor">honr.</abbr> happy in a good <abbr expan="Agreement">Agreemt.</abbr> <lb/>with our representatives Suitable to the great End of Calling them to=<lb/>gether I am with <del>great truth</del> <add place="supralinear">all <sic corr="Dutiiful">Dutifull</sic> respect</add> </p>
+
+<closer>Sir <lb/>Yor: Honours <lb/>Most Obedient <lb/>Obliged &amp; most <lb/>Humble Servt.</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. </note>
+
+<note>The county and colony have been added for clarity to this draft.</note>
+
+<note id="n1">[1] Williamsburg</note>
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

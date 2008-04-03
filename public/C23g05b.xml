@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C23g05b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Robert Burridge, Jr., July 5, 1723</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 5 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C23g05b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2002</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Robert Burridge, Jr., July 5, 1723</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1723 July 4 -1724 June 11, Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1723-07-05</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C23g05bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1723-07-05"></date>
+<idno rend="suppress">C23g05b</idno>
+<title>Letter from Robert Carter to Robert Burridge, Jr., July 5, 1723</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Lyme Regis merchant Robert Burridge, Jr., July 5, 1723, alerting him to a consignment of 20 hogsheads of tobacco on board a ship belonging to merchant Edward Tucker. He reports the wreck of a Bideford ship that was able to save only about 50 hogsheads.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="RB3">Robert Burridge, Jr.,</note> July 5, 1723</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Rappahannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1723-07-05">July the <hi rend="underline">5th. 1723</hi></date><lb/>
+Mr: Robt Burridge Junr:<lb/>
+</dateline>
+<salute>Sr&mdash;&mdash;</salute>
+
+</opener>
+
+<p>I have already told you of my freighting <lb/>a vessell of <note n="ET">Mr. <sic corr="Tucker's">Tukers</sic></note> to your port she is now either gon<add resp="editor">[e]</add> <lb/>or near going I have <sic corr="Ordered">orderd</sic> 20 hhds of my leaf <abbr expan="tobacco">Tobbo</abbr> to be <lb/>Consigned to you, hoping you will be able to do better <lb/>withit <add resp="editor"> [<hi rend="italics">sic</hi>]</add> <sic corr="than">then</sic> you did with the last, I can hear but of little <lb/><abbr expan="tobacco">Tobbo</abbr> coming to your place, A <name type="place"><sic corr="Bideford">Biddiford</sic></name> man the other <lb/>Day was cast away in our Bay bound out she saved but <lb/>50 hhds: I thought it necessary to give you this line <lb/>via <abbr expan="London">Lond</abbr> Remaining as</p>
+
+<closer>Your humble Servant</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1723 July 4 -1724 June 11, Carter Family Papers, Virginia Historical Society, Richmond. </note><lb/>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. His usual return address, the county, and state have been added for clarity to this unheaded draft.</note><lb/>
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

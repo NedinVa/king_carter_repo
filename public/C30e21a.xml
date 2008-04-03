@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C30e21a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Thomas, Lord Fairfax, May 21, 1730</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 15 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C30e21a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2004</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Thomas, Lord Fairfax, May 21, 1730</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>4 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Additional Manuscripts, 30316, British Library, London.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1730-05-21</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C30e21aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent> p.</extent>
+<date value="1730-05-21"></date>
+<idno rend="suppress">C30e21a.xml</idno>
+<title>Letter from Robert Carter to Thomas, Lord Fairfax, May 21, 1730</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Thomas, Lord Fairfax, proprietor of the Northern Neck, May 21, 1730, concerning a lease Fairfax has given Bristol merchants, noting that he had encouraged them but told them it would be some time before Fairfax would receive any profits from their venture. He turns to the attempt he and his family are mking to exploit signs of copper, but notes their discouragement. He understands that Fairfax will consult with Michajah Perry about defending the boundaries of the proprietary, and a new lease of it for Carter. The reports of iron mining are not to be relied upon because the cost of transporting the ore is very high. He turns to attacks  in the colony upon the proprietary, noting that there may be action when the Assembly meets soon since there have already been attempts to change the boundaries.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="TF">Thomas, Lord Fairfax,</note> May 21, 1730</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1730-05-21">May 21, 1730</date><lb/>
+The Rt.. Honorable<lb/>
+the Lord Fairfax&mdash;
+</dateline>
+<salute>My Lord</salute>
+
+</opener>
+
+
+
+<p>The honour you did me in a letter of the 9th of <abbr expan="November">Novr</abbr><lb/>last did not reach my hands <abbr expan="until">'till</abbr> the 9th of March. in it you are<lb/><abbr expan="pleased">pleas'd</abbr> to acquaint me with the <sic corr="Lease">Leas</sic> you had transacted with some<lb/>Bristol <abbr expan="Merchants">Merchts</abbr> and to desire me to permit them to work unmolested from<lb/>whence I conjecture they had given <abbr expan="your">yr</abbr> Lordship information of some<lb/><sic corr="disturbance">desturbance</sic> I had <sic corr="threatened">threatned</sic> them with if they have said any thing of<lb/>this nature to your Lordship <abbr expan="it is">'tis</abbr> a very wrong charge I was so far<lb/>from discouraging that I <abbr expan="encouraged">encourag'd</abbr> them all I could in their design. One<lb/>of their partners here <abbr expan="Offered">Offer'd</abbr> to compound with me for your Lordship<add resp="editor">['s]</add><lb/>share to whom I <abbr expan="answered">answer'd</abbr> their Adventures would be <abbr expan="carried">carry'd</abbr> on to so<lb/>little purpose in my time that I should not concern myself about it any<lb/>further than to wish them a great deal of success and when I saw your<lb/>Lordships <sic corr="lease">leas</sic> which was <abbr expan="shown to">shew'd</abbr> me by <note target="n1"><abbr expan="Colonel">Colo</abbr> Tayloe</note> one of their part=<lb/>ners I told him I was glad that your Lordship had made such a<lb/>favourable step to their design but I believe <abbr expan="it will">twill</abbr> be a great While before<lb/>any benefit by this <sic corr="lease">leas</sic> will arise to your Lordship the Undertakers<lb/>have made very little progress yet and have not sent in <add resp="editor">[in] </add>this Shipp<lb/><add resp="editor">[i]</add>ng any people <sic corr="skilled">skilld </sic>in the Affair to carry on their business and as<lb/>I am told are under a great deal of discouragements and have sent for<lb/>home their chief Workman whom they sent in on purpose for this design<lb/>to give them an Accot of his <sic corr="discoveries">discoverys</sic> which have <abbr expan="turned">turn'd</abbr> to very little<lb/>yet.</p>
+
+<p>In my letter to your Lordship of the 24th of June<lb/>last <sic corr="among">amongst </sic>many other things I gave you an Account of this place<lb/>where the Bristol men are upon and also of another that had some<lb/><sic corr="shows">shews</sic> of Copper this other place <sic corr="lies">lyes</sic> high up Potomack and far from<lb/>water some others of my family with myself have been at considerable<lb/>charge already to find out what this place will <sic corr="yield">yeild</sic> but to little purpose<lb/>hitherto in our first searches we met with some veins of ore amounting to<lb/>some few <sic corr="tons">tonnes</sic> which we are now Sending, for<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&mdash;&mdash;<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;England
+
+<pb n="2"/><lb/><lb/>
+to make a <sic corr="trial">tryal</sic> of what Value they are but as we went deeper the<lb/>veins grew less and instead of increasing our hopes we are very doubt=<lb/><sic corr="ful">full</sic> we may never find out any Considerable body of ore Worth our<lb/>While however we intend to push on our <sic corr="Trials">Tryals</sic> a Little further what<lb/>I tell this Story to your Lordship for is that we are in hopes as your<lb/><abbr expan="Lordhip">Ldship</abbr> hath gone into a <sic corr="lease">leas</sic> with the Bristol Men to give encourag=<lb/>ement to these designs so you will <sic corr="Please">Pleas</sic>  to come into the same measures<lb/>with us in favour of our design if ever We Can bring it to Anything</p>
+
+<p>In the latter part of your <sic corr="Lordship's">Lordships</sic> letter you Acquaint<lb/>me that When <note n="MP2">Mr. Perry</note> <abbr expan="returned">return'd</abbr> to London you should pursue such<lb/>Measures in relation to your boundaries as Should Appear most  prope<add resp="editor">[r]</add><lb/>Mr Perry writes to me to the same purpose and as to the renewing of my<lb/><sic corr="lease">leas</sic> you had <abbr expan="promised">promis'd</abbr> to do it after his return from the Bath from whence<lb/>I have reason to Conclude these matters are effected before  this time</p>
+
+<p>Your Lordship tells me you expected  some proposals abo<add resp="editor">[u]</add>t<lb/>the Iron Works I cannot see how any Advantage can be made to<lb/><abbr expan="your">yr.</abbr> Lordship from them Works the ore <sic corr="lies">lyes</sic> near the Surface of the earth<lb/>they buy it for little or nothing from the Owners of the Land I have been<lb/>Several times at the place my self they <sic corr="raise">rais</sic> it with very little  trouble<lb/>or Charge their great chuarge is in Carting it down about 9 miles to<lb/>a landing and from thence Water bearing it about 40 more to their<lb/>furnace now what advantage it will be to <sic corr="your">yr</sic> Lordship or anybody<lb/>under you to demand apart <add resp="editor"> [<hi rend="italics">sic</hi>]</add> of this ore where <abbr expan="it is">'tis</abbr> <sic corr="dug">dugg</sic> I <sic corr="can't">cant</sic> con=<lb/>jecture</p>
+
+<p>I am now to acquaint your <abbr expan="Lordship">Ldship</abbr> of a fresh Attack<lb/>is lately made against <abbr expan="your">yr</abbr> Grant who have been the Springs of it<lb/>I shall not take upon me to Say but there are now grievances sent<lb/>from the inhabitants of most of the <sic corr="Counties">Countys</sic> within your grant com<lb/>plaining of the hardships they are under by it and desiring that the<lb/>King may be <sic corr="addressed">addresst</sic> either to purchase or reassume the Grant that<lb/>they may be under the same circumstances that the rest of the Country<lb/>are
+
+<pb n="3"/><lb/><lb/>
+
+What these complaints may be <sic corr="Worked">Workt</sic> up to in our Assembly which  sits<lb/>down to day I <sic corr="can't">cant</sic> pretend to tell I have already told <abbr expan="your">yr</abbr> Lordship what<lb/>potent enemies our revenue gentlemen were against the boundaries<lb/>&amp;ca. and there's no Doubt to be made but their utmost strength will be<lb/><abbr expan="employed">imploy'd</abbr> in Carrying this Complaint to the highest Pitch their<lb/>fingers itch to have this grant added to their places and I have rea=<lb/>son to think that these disturbances have much <abbr expan="encouraged">encourag'd</abbr> the inha<lb/>bitants to be very backward in paying their rents <sic corr="although">altho</sic> I am <abbr expan="forced">forc'd</abbr><lb/>to take them in <abbr expan="tobacco">tobo </abbr>and that not to be sold now for 3 <abbr expan=" Shillings">S</abbr> per <abbr expan="hundred">hundr'd</abbr><lb/>for I never had so few of the rents receiv'd at this time of year before<lb/>Since I have been in the business</p>
+
+<p>For my own part in my justification I can say<lb/>I have made no Alteration in anything relating to the Execution<lb/>of the Grant nor is anything done but What is Very <sic corr="justififiable">justifyable </sic><sic corr="under">undr</sic><lb/>it I observe the same measures in all my demands as I have done<lb/>ever since I was <abbr expan="concerned">concern'd</abbr> and as the <sic corr="rest">rist</sic> of the agents before me did</p>
+
+<p>I remember about the year 1695. (as I think) such<lb/>a <add resp="editor">[hole in leaf]</add> Struggle was made by greivances to an Assembly <add resp="editor">[ag=]</add><lb/>ainst the grant and the then house of Burgesses <abbr expan="joined">joyn'd</abbr> in a<add resp="editor">[n]</add><lb/>Address to the king, to purchase or reassume, it was <abbr expan="carried">carry'd</abbr> to the<lb/> Council where it was <sic corr="Stopped">Stopt</sic> and went no further Sir Edmund Andros<lb/>was then our governour. I have thought it necessary to lay these things<lb/>before <abbr expan="your">yr.</abbr> Lordship that your Lordship may be 'fore <sic corr="Apprised">Apprized</sic> and enter<lb/>upon such measures <abbr expan="your Lordship">yr Ldship</abbr> may think most proper for your secu=<lb/>
+rity to Extricate yourself and those that are <abbr expan="employed">imploy'd</abbr> under you here out<lb/>of the <abbr expan="said">sd.</abbr> difficulties I am
+
+</p>
+
+
+
+<closer>My Lord Yr Lordships<lb/>Most Obt &amp; most humble Servant<lb/><hi rend="italics"><hi rend="bold">ROBERT CARTER</hi></hi></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Additional Manuscripts, 30316, British Library, London, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. This is the recipient's copy signed by Carter (as is indicated by the use of bold italics). The address leaf reads:  The Rt Honble | Thomas Lord Fairfax | Baron of Cameron | at | Leeds Castle | under Alderman Perrys | Cover.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence to persons abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1] John Tayloe (1687-1747) of Mt. Airy, Richmond County, who served as justice, burgess, colonel of militia, and as a member of the Council after 1732. (<cit><bibl n="B31">Ryland. <title>Richmond County Virginia. . . . </title> pp. 115-16.</bibl></cit>)</note>
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

@@ -1,0 +1,154 @@
+<!DOCTYPE TEI.2  SYSTEM  'teixlite.dtd' [ 
+<!NOTATION jpg  SYSTEM  "jpeg"> 
+<!ENTITY filename  SYSTEM  "filename.jpg" NDATA jpg> 
+<!ENTITY % ISOlat1 SYSTEM  "ISOlat1.pen"> %ISOlat1; 
+<!ENTITY % ISOlat2 SYSTEM  "ISOlat2.pen"> %ISOlat2; 
+<!ENTITY % ISOnum SYSTEM  "ISOnum.pen"> %ISOnum; 
+<!ENTITY % ISOpub SYSTEM  "ISOpub.pen"> %ISOpub; 
+<!ENTITY % ISOtech SYSTEM  "ISOtech.pen"> %ISOtech; 
+]> 
+ 
+<TEI.2 id="C18c18a"> 
+<teiHeader type="aacr2"> 
+              
+<fileDesc> 
+<titleStmt> 
+     <title type="245">Letter from Robert Carter to Alexander Spotswood, 1718 March 11</title> 
+   <title type="gmd">[electronic resource]</title> 
+     <author>Robert Carter</author> 
+   <respStmt> 
+     <resp>Creation of machine-readable version: </resp> 
+     <name>Edmund Berkeley, Jr.</name> 
+     <resp>Conversion to TEI.2-conformant markup</resp> 
+     <name>University of Virginia Library Electronic Text Center</name> 
+   </respStmt> 
+</titleStmt> 
+ 
+<extent>ca. 5 kilobytes </extent> 
+ 
+<publicationStmt> 
+     <publisher>University of Virginia Library.</publisher> 
+     <pubPlace>Charlottesville, Va.</pubPlace> 
+     <idno type="ETC"></idno> 
+     <availability> 
+     <p>Publicly accessible</p> 
+     <p n="public">URL: http://etext.lib.virginia.edu/modeng.browse.html</p> 
+         </availability> 
+     <date>2000</date> 
+</publicationStmt> 
+ 
+<sourceDesc> 
+     <biblFull> 
+     <titleStmt> 
+     <title>Letter from Robert Carter to Alexander Spotswood, 1718 March 11</title> 
+
+     <author>Robert Carter</author> </titleStmt>
+
+    <extent>2 pp.</extent> 
+<publicationStmt> 
+     <date>1718-03-18</date> 
+   <idno type="callNo"> Source copy consulted: Minor-Blackford Papers, James Monroe Law Office 
+and Museum, Fredericksburg, Virginia. These texts are all nineteenth-century copies. Apparently there 
+was in existence a letter book of Robert Carter's&mdash;now lost&mdash;from which the unknown 
+copiest recorded these texts. As they are the only texts, the punctuation and <q>corrections</q> 
+obviously supplied by the copiest have been retained.</idno> 
+</publicationStmt> 
+</biblFull> 
+</sourceDesc> 
+ 
+</fileDesc> 
+     <encodingDesc> 
+     <projectDesc> 
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p> 
+     </projectDesc> 
+<editorialDecl> 
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in establishing 
+analytical groupings.</p> 
+</editorialDecl> 
+ 
+<classDecl> 
+     <taxonomy id="LCSH"> 
+     <bibl> 
+     <title>Library of Congress Subject Headings</title> 
+     </bibl> 
+     </taxonomy> 
+</classDecl> 
+</encodingDesc> 
+ 
+<profileDesc> 
+     <creation> 
+     <date>1718-03-18</date> 
+     </creation> 
+     <langUsage> 
+     <language id="eng"></language> 
+     </langUsage> 
+     <textClass> 
+     <keywords> 
+     <term>non-fiction</term> 
+   <term>prose</term> 
+     </keywords> 
+     <keywords scheme="LCSH"> 
+     <term type="Field650">LCSH</term> 
+     </keywords> 
+     </textClass> 
+</profileDesc> 
+ 
+</teiHeader> 
+ 
+<text id="C18c18a"> 
+<body> 
+ 
+<div1 type="letter" n="1718-03-18"> 
+ 
+<head>Letter from Robert Carter to <note target="n1">Alexander Spotswood</note>, March 11, 
+1718</head> 
+ 
+<opener> 
+ 
+<dateline> 
+<name type="place"><add n="ed">[Corotoman, Lancaster County, Virginia]</add></name><lb/> 
+ 
+<date value="1718-03-18">March 18, 1718</date> 
+</dateline> 
+                                              
+<salute>May it please your Honr</salute> 
+ 
+</opener> 
+ 
+<pb n="1"/> 
+<p>It being now the time that <lb/>the Governors of the College have <lb/>determined a yearly meeting 
+for <lb/>the choice of a new <note target="n2">Rector</note>, I <lb/>think it my duty to acquaint 
+<lb/>your Honour that I remain very <lb/>incapable of giving my attend<lb/>=ance at this time. My arm 
+<lb/>continues very useless to me &amp; <lb/>the least sudden motion racks <lb/>me with pain  up to my 
+shoul<lb/>=der-blade that I have been a<lb/>=fraid to mount a hourse ever <lb/>since  I rec'd my hurt: so 
+that <lb/>if the affairs of the College are <lb/>in any degree urgent for a meet<lb/>=ing I am very 
+<add n="ed">[. . .]</add></p> 
+ 
+<p>please to think it pro<lb/>=per to choose another Rector in <lb/>my place <add n="ed">[. . .]</add> 
+the Genl. Court  
+ 
+<pb n="2"/> 
+with the help of the warm weather <lb/>and my  friends coaches I hope to be <lb/>able to attend my duty 
+there.</p> 
+ 
+<closer>I am &amp;c</closer> 
+ 
+</div1> 
+</body> 
+ 
+<back> 
+<div1 type="notes"> 
+<head>Notes</head> 
+ 
+<note id="n1">[1] The nineteenth-century copyist mistakenly added <q>Wm. Gooch</q> to the heading 
+of a letter obviously entered in the original letter book as addressed to the governor, then Spotswood, not 
+Gooch.</note> 
+ 
+<note id="n2">[2] The trustees of the College of William and Mary elected a Rector from among their 
+own number. RC first became a visitor of the College about 1716, and held the post of Rector for many 
+years, from   </note> 
+ 
+</div1> 
+</back> 
+</text> 
+ 

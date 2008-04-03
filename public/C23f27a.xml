@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C23f27a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Thomas Colmore, June 27, 1723</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 7 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C23f27a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2002</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Thomas Colmore, June 27, 1723</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert H. Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1723-06-27</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C23f27aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1723-06-27"></date>
+<idno rend="suppress">C23f27a.xml</idno>
+<title>Letter from Robert Carter to Thomas Colmore, June 27, 1723</title>
+</bibl>
+</head>
+<p>Letter from Robert Carter to London merchant Thomas Colmore, June 27, 1723, to cover a shipment of 20 hogsheads of tobacco on board the <hi rend="italics">Booth</hi> commanded by Captain Wills. He asserts that it was grown and carefully handled on his home plantations, is good as any produced on York River, and will, he hopes, fetch a good price. He had intended 50 hogsheads for Captain Wills, but his sloop called for them while Carter was in Williamsburg, and without orders, the tobacco was not loaded.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to Thomas Colmore, June 27, 1723</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1723-06-27">June 27th. 1723</date><lb/>
+Mr. Thos. Colmore Colemore [sic]<lb/>
+</dateline>
+<salute>Sir&mdash;&mdash;</salute>
+
+</opener>
+
+<p>This comes by the <name type="ship">Booth</name> Capt Wills &amp; Encloses a <lb/>Bill of Lading for 20 <abbr expan="hogsheads">hhds</abbr> of <sic corr="stemmed ">Stemd.</sic>Strait laid Tobo my own Crop <lb/>as neatly bundled as I am able to do It. made at my home <abbr expan="plantations">plans.</abbr> <lb/>under as much care as any <abbr expan="gentleman">Gentn.</abbr> In Virginia takes, &amp; I hope <lb/>will Answer my Pains in the price, I <sic corr="used">us'd</sic> to have as much for my <abbr expan="tobacco">Tob.</abbr> <lb/>as the finest Crops of York river, how it comes to be other ways now, I <lb/>can't Imagine the reason, two <abbr expan="hogsheads">hhds</abbr> of Mr Burwells Tobo. are of his <lb/>home Crops, Your prices Surely will keep pace with other mens <lb/>that we may be <sic corr="encouraged">Encouragd</sic> to continue &amp; <sic corr="increase">Encrease</sic> our business to <lb/>You, <abbr expan="Captain">Capt.</abbr> Wills hath met wth. a good Dispatch I had designd him <lb/>50 <abbr expan="hogsheads">hhds</abbr> and they lay ready, his Sloop <sic corr="called">calld</sic> a Day before my <lb/>return from the Assembly, &amp; for want of <sic corr="orders">Ordrs.</sic> they were not <sic corr="delivered">deliver'd</sic> <lb/>to them, I cannot blame <abbr expan="Captain">Capt.</abbr> Wills, who is indeed a very Obligeing <lb/>Diligent person, and I dare say will <sic corr="merit">Merrit</sic> as good an Esteem <lb/>here as any of his Fraternity, he hath done his business with=<lb/>=out my last Tobo. and It is no disappointment to me, You <lb/>will hear further from me by some other Ships I am&mdash;&mdash;
+</p>
+
+<closer>Sir  Your most hum<add place="supralinear">ble</add> Servt<seg type="postscript"><lb/><lb/>Per the Booth</seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1723 June 16-1724 April 23, Robert Carter Papers, (acc. no. 3807), Albert H. Small Special Collections Library, University of Virginia.  </note><lb/>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note><lb/>
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C27h05b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to John Randolph, August 5, 1727</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 7 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C27h05b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2003</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to John Randolph, August 5, 1727</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1727-08-05</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C27h05bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1727-08-05"></date>
+<idno rend="suppress">C27h05b.xml</idno>
+<title>Letter from Robert Carter to John Randolph, August 5, 1727</title>
+</bibl>
+</head>
+<p>Robert Carter writes to John Randolph, August 5, 1727, to direct the attorney general to act for the clerk of the Council, William Robertson, who had broken his leg, in handling the matters related to the trial of pirates in the Vice Admiralty Court.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="JR">John Randolph,</note> August 5, 1727</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1727-08-05">Augst: the 5th: 1727</date><lb/>
+John Randolph Esqr.<lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+
+
+<p>Yors: of the 3d: reachd me this morning at <note n="RP"><add place="supralinear">Rosegill</add></note> <del>Middle<lb/>sex Court</del>  I <sic corr="met">mett</sic> with the unhappy account of Poor <note n="WR">William Robertsons</note> <lb/><note target="n1">Deplorable disaster</note> as he is desirous <note target="n2">you Should act</note> in his behalf <lb/>in this affair of the <sic corr="pirates">pyrates</sic> so am I too and do now Send you direct<add resp="editor">[ions]</add> <lb/>to dispatch away proper Letters for Summoning the Judges <abbr expan="Colonel">Coll.</abbr> Page <lb/>and <note n="JG2">Mr. Grimes</note> will need none having already promised me to be <lb/>there from Middlesex <add place="supralinear">Court</add> I writ to <note n="WR1">Colonel Robinson</note> and Shall give notice <lb/>Speedily to our <abbr expan="Collector">Collr:</abbr> and the <abbr expan="Collector">Collr:</abbr> of <sic corr="Potomac">Patowmack</sic> however if you think <lb/>Summons <del>necessary</del> to these three <abbr expan="Gentlemen">Gent.</abbr> <del>absolutely</del> necessary you <lb/> may do in it in respect to them as you think <sic corr="fit.">fitt.</sic> The Captains <lb/>of the men of <sic corr="War">Warr</sic> if any in place are in the Commission, If it <lb/>not be <add place="supralinear">im</add>proper in your Summons to <del>let</del> the <abbr expan="Gentlemen">Gent</abbr> of the Council <add place="supralinear">you <del>to let</del> may let them</add> know <lb/>that the Day after the <sic corr="trial">tryal</sic> I have appointed a Council, <sic corr="Although">Altho</sic> I <lb/><sic corr="Believe">beleive</sic> there will be little occasion for this I am with <del>a</del> great <lb/><del>deal of</del> Sincerity </p>
+
+<closer>Sir&mdash;<lb/>Yor: most <add place="supralinear"><sic corr="Faithful">Faithfull </sic></add>humble Servt&mdash;</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1727 May-1728 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia. There is a nineteenth-century copy of this letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia.</note>
+
+<note>Robert Carter generally did not use the return address  "Rappahannock" (for the river on which he lived) for letters sent to persons within the colony, but the clerk has written it here. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1] Robertson had broken his leg. See Carter's letter to Nathaniel Harrison 1727 August 7.</note>
+
+<note id="n2">[2] William Robertson was clerk of the Council and apparently also of the Vice Admiralty Court in which the pirates' trial was to be held. Randolph was attorney general, and could readily substitute for Robertson.</note>
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

@@ -1,0 +1,188 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C27j10a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Robert Jones, October 10 and 14, 1727</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 9 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C27j10a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2004</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Robert Jones, October 10 and 14, 1727</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>3 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1727-10-10</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C27j10aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>3 p.</extent>
+<date value="1727-10-10"></date>
+<idno rend="suppress">C27j10a.xml</idno>
+<title>Letter from Robert Carter to Robert Jones, October 10 and 14, 1727</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Robert Jones, the chief manager of his properties in the northern part of the colony, October 10 and 14, 1727, to give him extensive instructions about the care and control of the slaves on the properties, the use of the horses and oxen, and the need to get the tobacco prized and rolled before bad winter weather. He is insistent that the houses have lofts where corn, beans, and other crops may be stored, and is pleased with <abbr expan="Colonel">Collo</abbr>the naming of his farms in the area. </p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="RJ">Robert Jones,</note> October 10 and 14, 1727</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Corotom<add resp="editor">[a]</add>n <add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1727-10-10">Octor: 10th. 1727</date><lb/>
+Mr: Robert Jones<lb/>
+</dateline>
+
+
+</opener>
+
+
+
+<p>Yours of the 30th ultimo I shall now consider <lb/>as far as it wants an answer your sending but a small quantity <lb/>of the wheat now will make the work the heavier hereafter it's a <lb/>strange story to hear you complain for want of bags I am sending <lb/>up there bags every year I live whatever becomes of them you may <lb/>provide sives against another year if you can get them for corn <lb/>there is nothing like sowing wheat early my son tells me I sent up <lb/>six sack bags last year I have sent for England for <sic corr="pads">padds</sic> to save <lb/>the horses backs I will endeavour to make three or four to come by <lb/>the next sloop to serve for the presant Your design of breaking <lb/>more Oxen I like very well and if I forget not will send you some <lb/>ropes to manage them</p>
+
+<p><note target="n1">Mercer</note> is certainly run away if he comes in play <lb/>&amp; we can agree I'll buy his land</p>
+
+<p>You may kill a <sic corr="beef">beaf</sic> any where but at the <note n="FQ">falls</note> &amp; <note n="RF1">Rich<lb/>land</note> those two stocks I reserve for myself</p>
+
+<p>I don't know your meaning when you ask me to <lb/>Spare the wheat made at the falls Quarter when you come to spend thir<lb/>ty or forty bushels of when a year you will be above my keeping <lb/>ten or a dozen bushels will be the most that ever I shall agree to let <lb/>you have per annum <note n="WS">Strother</note> had less <note target="n2">Johnson</note> &amp; Hedgeman <lb/>none at all as for <note target="n3">Madagascar Jack</note> I will by no means have <lb/>him go to the new design I have many reasons against it if he <lb/>be gone order him down toYour quarter and keep him to work <lb/>there <sic corr="until">till</sic> you have further orders from me I have better hopes <lb/>of the new negro woman than you think for now she hath tasted <lb/>of the hardship of the woods she will go near to stay at home whe<add resp="editor">[re]</add> <lb/>she can have her belly full Ballazore is an incorrigeable <lb/>rogue nothing less than <sic corr="dismembering">dismembring</sic> will reclaim him I wo=<lb/>uld have you outlaw him and get an order of court for tak-<lb/>ing off his toes I have cured many a negro of running away by <lb/>this means You may have Comings down to your assistance if <lb/>you think fit as for Mooney I don't know when he's free nor <lb/>what bargain I made with him but I beleive he is to stay <sic corr="until">till</sic> <lb/>Christmas you forget to mention what old steers there is to 
+
+<pb n="2"/><lb/><lb/>
+kill my next Sloop must bring down both the wheat &amp; the <sic corr="beefs">beafs
+</sic></p>
+
+<p>I would have you by all means possible get the toba<lb/>cco into hogsheads as soon as you can I cannot tell the reason why we <lb/>cannot get the <note n="MF2">Mountain</note> &amp; <note n="NF1">[Normans] <sic corr="Ford">Foard</sic></note> crops prized &amp; rolled before <lb/>Christmas &amp; before the dead of the winter comes I need not tell you <lb/>what a vast Damage it is to me to have my crops under your <lb/>care to roll in the spring of the year I am sure were I in your <lb/>place I would not doubt the doing it you have your hogsheads ready <lb/>before hand</p>
+
+<p>When you write your next I expect you will let me <lb/>know whats done at the new design if I remember right I order'd the <lb/>quarter &amp; the Overseers house to be lofted it is very necessary not only <lb/>for the warmth of the houses but to lay the peoples corn up in 'twill <lb/>be very necessary that corn be got thither as fast as you can that <lb/>they may not be at a pinch when the bad weather comes &amp; the runs are <lb/>high I am <sic corr="doubtful">doubtfull</sic> in a wet winter the <note target="n4">cedar run</note> will be diffi=<lb/>cult to pass I would also have beans carried up thither that the peop<lb/>le may live as comfortable as they can and salt to be sure they must <lb/>have a good stock laid up the Overseer must have some hogs flesh <lb/>&amp; if he has some <sic corr="beef">beaf</sic> too from the <note n="PQ">Park quarter</note> I shall not gru=<lb/>dge it him it if he minds his business &amp; I would willingly let the <lb/>people have some hogs flesh either from the <note n="RO">red Oak</note> or from <lb/>the Park that they may have a bit now &amp; then &amp; the fat to gre<lb/>ase their <sic corr="Homini">Homony</sic> I know you will say to do all these things <lb/>will be very hard upon your horses especially when the bringing <lb/>wheat is to be so soon upon your hands I hope your Oxen will <lb/>be very <sic corr="helpful">helpfull</sic>  in getting down your wheat I have a horse at <lb/>Mr. <note n="JC2"><abbr expan="James">Jas:</abbr> Carters </note>that is young &amp; large he tells me he's in very good <lb/>heart &amp; will make a good plantation horse I am apt to think <lb/>there may be large hollow gums upon that land that will serve <lb/>instead of hogsheads for corn &amp; salt &amp; other things however if you <lb/>think it proper you may <add place="supralinear">order</add> <note target="n5">Hurst</note> &amp; his gang to set up half a <lb/>dozen or half a score hogsheads for the use of tht plantation &amp; to be <lb/>sure you must provide them well with piggins &amp; pales by what <lb/>you write to me of Johnson I conclude you have agreed with <lb/>him to be my Overseer at that place I have already ordered 
+
+<pb n="3"/><lb/><lb/>
+very good Cabbins to be made for my people that their beds may <lb/><sic corr="lie">lye</sic> a foot and a half from the ground if this is not yet done pray <lb/>let it be done out of hand there is such large timber there that the <lb/>Carpenters may very well by <note target="n6">riving</note> thick boards and hewing them <lb/>make them answer the place of <sic corr="plank">planck</sic> be sure never forget to <lb/>Order Johnson to be kind to all the negros but especially to the <lb/>new ones &amp; this do every time you go up especially that they <sic corr="lie">lye </sic><lb/>warm you know what a sufferer I was last Year the Burnt <lb/>child dreads the fire I would have this plantation go by the name <lb/>of <note target="n7">CARTERS RANGE</note> and now I am about Names I hope <lb/>you will take care that the negros both men &amp; women I sent yo<add resp="editor">[u]</add> <lb/>up always go by the names we gave them for this reason I <lb/><sic corr="named">nam'd</sic> them here &amp; by their names we can always know what <lb/>sizes they are of &amp; I am sure we repeated them so often to the<add resp="editor">[m]</add> <lb/>that every one knew their names &amp; would <sic corr="readily">readyly</sic> answer to them <lb/>the horse at <abbr expan="James">Jas:</abbr> Carters will be delivered <del>at</del> <add place="supralinear">upon</add> your sending &amp; <lb/>I would have him made a plantation horse for this quarter &amp; <lb/>to be very well fed if you can but save his back '<sic corr="until">'till</sic> the new <lb/>Slooop comes up I purpose then there shall come to you Three <lb/>or four or half a dozen pads as good as I can make them <lb/>if you could light of two or three strong good <sic corr="drudge">druge</sic> horses <lb/>that are not too old &amp; pay for them in Corn I should not be <lb/>against it</p>
+
+<p>There is one William Duff a liver in King George County <lb/>that is going to seat pretty near <sic corr="Normans">Normands</sic> ford he proposes to me to take <lb/>ten or a dozen barrels of Corn from that quarter &amp; to deliver me <lb/>the Same quantity at <note target="n8">Jonathan Gipsons</note> at the river side I would not <lb/>make him any <sic corr="positive">possitive</sic> promise not knowing how far you may <lb/><add place="supralinear">have</add> engaged your self to England if you think you Can spare it you <lb/>may let him have it</p>
+
+<closer><seg type="postscript">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="October">Octobr.</abbr> 14th <add resp="editor">[1727]</add>The Sloop <lb/>arrived here yesterday I shall <lb/>answer your letter by the next sloop <lb/>I find you call the new plantation <lb/>Carters lodge I beleive that is the name <lb/>I gave it wch: pleases <add place="supralinear">me</add> full as well as the <lb/>name I have now given to it therefore keep to <lb/>that<lb/><lb/></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1727 May-1728 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.  Published in <cit><bibl n="A8">Berkeley. "Robert Carter as Agricultural Administrator: . . .", 273-295.</bibl></cit>
+</note>
+
+<note id="n1">[1] John Mercer (1704-1768) emigrated from Ireland where he had been
+trained as an attorney. "He settled at Marlboroughtown in 1726 as a practicing attorney and at once allowed a facile pen to get him into trouble with the government." He eventually lost his license to practice law, and turned to the land speculation that he had begun as soon as he reached Virginia. "He married first on June 10, 1725 Catherine Mason (June 21, 1707-June 15, 1750) only child of Colonel George Mason (16??-1716) and his second wife Elizabeth Waugh, daughter of the Reverend Mr. John Waugh."(<cit><bibl n="B4">Harrison. <title>Landmarks of Old Prince William</title> p. 315;</bibl></cit>  <cit><bibl n="B24">Copeland and MacMaster. <title>The Five George Masons.</title></bibl></cit>; and "John Mercer."  http://www.rootsweb.com/~vastaffo/johnmercer.htm  11/4/03)</note>
+
+<note id="n2">[2] John Johnson replaced Nathaniel Hedgeman as Carter's "general
+overseer" in late spring 1721 after Nathaniel Hedgeman's accidental death. Johnson, Carter wrote Captain Thomas Hooper on June 22, 1721, "hath lived under me for several Years and I hope will prove a diligent honest man . . . although he is unlettered." (<bibl n="B12">Wright, <title>Letters of Robert Carter 1720-1727.</title>, 103.</bibl>)</note>
+
+<note id="n3">[3] Madagascar Jack was a slave who "hath for some time past
+Lain &amp; hid and lurked in swamps and Woods &amp; other obscure places both here and in Maryland killing hogs and Committing other Injurys to his Majestys good Subjects." Carter obtained permission from the Lancaster County Court on September 12, 1722, "to Cut off all his toes on one of the sd negroes feet in order to the reclaiming him &amp; Terrifying others from the like practice." (<cit><bibl>Lancaster County Order Book 7 1721-1729, p. 59; microfilm copy in Archives Research Services, Library of Virginia, Richmond.</bibl></cit>)</note>
+
+<note id="n4"> [4] Cedar Run wanders through today's counties of Fauquier and Prince William along the northern border of the Quantico Marine Base joining the Broad Run to form the Occoquan River just southwest of the community of Lake Jackson in Prince William County. (<cit><bibl>Alexandria Drafting Company. In Carter's time, the area was Stafford County.  <title>Regional Northern Virginia.</title> Alexandria, VA: Alexandria Drafting Company, 2002. </bibl></cit>)</note>
+
+<note id="n5">[5] John Hust (or Hurst) was the overseer of "Hamstead Quarter," Stafford
+County, in the 1732 inventory, supervising  sixteen slaves with the assistance of one horse. Hust apparently was a carpenter because Carter mentions his doing carpentry work in various letters. (<cit><bibl n="A26">Carter Papers: An Inventory. . . ."</bibl></cit>)</note>
+
+<note id="n6">[6] By "riving," Carter means that planks could be split out of large timber.</note>
+
+<note id="n7">[7] Carter's Range probably is the farm in Prince William County
+called Range Quarter in the 1732 inventory. <cit><bibl n="A26">"Carter Papers: An Inventory. . . .</bibl></cit></note>
+
+<note id="n8">[8] Jonathan Gipson (d. 1729) "established Gibson's Tobacco Warehouse on the Rappahannock river on the dower land of his wife, Elizabeth (Thornton) Conway Gibson"; it was located "immediately opposite Port Royal in Caroline County. (<cit><bibl><title>King George County Virginia Will Book A-1 1721-1752 And Miscellaneous Notes</title>. [Fredericksburg, Va.: Privately Printed, 1978], 237.</bibl></cit>.)</note>
+
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C32g30a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Account of [Robert Carter] with James Bradley, 1729-1732</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 12 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C32g30a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2006</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Account of [Robert Carter] with James Bradley, 1729-1732</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1732-07-30</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C32g30aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1732-07-30"></date>
+<idno rend="suppress">C32g30a.xml</idno>
+<title>Account of [Robert Carter] with James Bradley, 1729-1732</title>
+</bibl>
+</head>
+<p>Account of [Robert Carter] with  London merchant James Bradley, 1729-1732, compiled possibly because of rumors that Carter had heard in the spring of 1732 concerning Bradley's financial difficulties. </p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Account of [Robert Carter] with <note target="n1">James Bradley,</note> 1729-1732</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"> <add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
+<date value="1732-07-30">[1729-1732]</date><lb/>
+
+</dateline>
+
+
+</opener>
+
+
+
+<p>
+<table>
+<row><cell>1732  </cell><cell>Mr. James Bradley <abbr expan="Merchant">Merch</abbr> of London </cell><cell><abbr expan="Debtor">Dr.</abbr></cell><cell>Per Contra</cell><cell><abbr expan="Creditor">Cr. </abbr></cell></row>
+
+<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>To the <sic corr="balance">ballance</sic> of his Accot Currt dated }</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>By my Exchange to Fitzhugh paid by him&mdash;     </cell><cell>&mdash;&mdash;&pound;  150"</cell></row>
+
+<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell> <abbr expan="February">Febr. </abbr>12"1730&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash; }</cell><cell>&pound; 567"12"8 </cell><cell>By goods in the <name type="ship">Hopewell</name>&mdash;&mdash;1731&mdash;&mdash;&mdash;</cell><cell>&mdash;&mdash;&mdash;109"10"9 </cell></row>
+
+<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>To his Accot of Sales of 6 hogsheads <abbr expan="tobacco">tobo</abbr> Per  }</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>By <sic corr="Balance">Ballance</sic>&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;</cell><cell>&mdash;&mdash;&mdash;599" 9"8</cell></row>
+
+<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>the <note target="n2"><name type="ship">Foward</name></note> Captain Loney in 1729&mdash;&mdash;&mdash;&mdash;&mdash; }</cell><cell>15" 2"8</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;859"0"5</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>To his Sales of 14 hogsheads by the <note target="n3"><name type="ship">Welcome</name></note> in } </cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>1729 &mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash; }</cell><cell>50"2"4</cell><cell>By my further exchange on him }</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>To Sales of 18 hogsheads pr. <abbr expan="ditto">do</abbr> in 1729&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</cell><cell>117" 4"6 </cell><cell>to <note target="n4"><abbr expan="Colonel">Colol.</abbr> Fitzhugh</note> when <abbr expan="paid">pd</abbr> }</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;100" 0"0 </cell></row>
+
+<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>To his sale of 4 hogsheads by the Forward in } </cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>1729&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;} </cell><cell>30" 9"3 </cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell> To Henry Fitzhugh exchange on him</cell><cell>66"--"-- </cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>To Lunsford Lomax on <abbr expan="ditto">do.</abbr>&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;</cell><cell>9"--"-- </cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>To <abbr expan="Samuel">Saml</abbr> Barnes's on <abbr expan="ditto">do.</abbr>&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash; </cell><cell>3"-9"-- </cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 859"0"5 </cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>To 23 <abbr expan="hogsheads">hhds</abbr> of <abbr expan="Stemmed">Stemm'd</abbr> tobacco <sic corr="Shipped">Shipt</sic> in the <name type="ship">Welcome</name> </cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; in 1730 </cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>To 30 <abbr expan="hogsheads">hhds</abbr> of <abbr expan="Stemmed">Stemd</abbr> <abbr expan="tobacco">tobo</abbr> by the <sic corr="Welcome">Wellcome</sic> in 1731 </cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+
+</table>
+
+</p>
+
+<closer><seg type="postscript"><lb/><lb/></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>The name of Carter's home, "Corotoman," the county, and colony have been added for clarity to this unheaded draft.</note>
+
+<note id="n1">[1] James Bradley was a London merchant with whom Carter dealt from at least 1723 until his death. As noted in his letter to Bradley of 1727 May 17, Bradley owned the <hi rend="italics">Welcome,</hi> but little information about Bradley has been located. (There is a listing of the firm of Bradly &amp; Griffin, Merchants, Fenchurch-street, opposite the Mitre Tavern, on page 13 of <cit><bibl><title>Kent's Directory For the Year 1740 Containing An Alphabetical List of the Names and Places of Abode of the Directors of Companies, Persons in Publick Business, Merchants, and other Eminent Traders in the Cities of London and Westminster, and the Borough of Southwark.</title>  London: Printed and Sold by Henry Kent in Finch-Lane, near the Royal Exchange: and by the Booksellers and Pamphlets Shops of London and Westminster, 1740. p. 39. http://freepages.history.rootsweb.com/~frpayments/KD1740/AB.htm. 8/12/2005. </bibl></cit>)</note>
+
+<note id="n2">[2] The <hi rend="italics">Forward</hi> was a London ship of 150-200 tons  commanded in1728-29 by William Loney, and in 1731 by George Buckridge. (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194 and Survey Report 6801 summarizing Adm 68/195, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit> )</note>
+
+<note id="n3">[3] The 140 ton <hi rend="italics">Welcome</hi> was owned by London merchant James Bradley to whom Carter would write about her on 1727 May 17.  John Trice (Frice) was her captain, 1723-1729. (<cit><bibl>Survey Report 6801 summarizing Adm 68/195, 154r, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n4">[4]  Henry Fitzhugh (1706-1742) of "Eagle's Nest," Stafford County, was educated at Oxford, and married Lucy Carter (1715-1763), Robert Carter's fourteenth child, in 1730. They had  four children; after Fitzhugh's death, she married Nathaniel Harrison (1713-1791).  He was a burgess and militia officer. (<cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 451 </bibl></cit>;  <cit><bibl>Robert A. Rutland, <title>The Papers of George Mason, 1725-1792.</title> [Chapel Hill: University of North Carolina Press, 1970]. I:lii</bibl></cit>; and extensive generalogical notes, "Fitzhugh Family," in volumes 7 and 8 of <title>Virginia Magazine of History and Biography.</title>)</note>
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

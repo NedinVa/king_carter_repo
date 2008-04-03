@@ -1,0 +1,240 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C31g27a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Benjamin Grayson, July 27, 1731</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 13 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C31g27a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2006</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Benjamin Grayson, July 27, 1731</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>3 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1731-07-27</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C31g27aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>3 p.</extent>
+<date value="1731-07-27"></date>
+<idno rend="suppress">C31g27a.xml</idno>
+<title>Letter from Robert Carter to Benjamin Grayson, July 27, 1731</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Benjamin Grayson, manager of the Frying Pan copper mine, July 27, 1731, expressing his pleasure at the stories he has heard of the discovery of a rich vein of ore, urging diligence in pursuing the vein, and giving Grayson information about money and supplies that will be sent by the schooner. His sons Robert and Charles will visit the mine, and he expects to do so in September.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note target="n1">Benjamin Grayson,</note> July 27, 1731</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
+<date value="1731-07-27">July 27th. 1731</date><lb/>
+Mr. Benj. Grayson<lb/>
+</dateline>
+
+
+</opener>
+
+
+
+<p>By William Manuel I gave you all the necessary <lb/>
+directions for the Government of self in relation to the <sic corr="Miners">Minors</sic>s according <lb/>
+to the circumstances of their Case as it then stood, &amp; I hope you have fol= <lb/>
+lowed my orders exactly since which yours of the 14th. Instant by Pockely <lb/>
+came to the hands of my son <note n="RC2">Robert</note> &amp; from him to me it brought the <lb/>
+most promising hopes that ever we have yet had the samples you sent <lb/>
+are very rich not inferior to the best of Skilers Ore since that my son <lb/>
+<note n="CC1">Charles</note> met with a random story that the vein grew larger rather than <lb/>
+less &amp; now from Warner in a letter dated the 23d. Instant he tells me that <lb/>
+on the Wednesday before at Prince William Court Shaw told him of a fine <lb/>
+vein you had discovered that in the week before you had <abbr expan="mined">min'd</abbr> three Tons <lb/>
+of this Ore that it <sic corr="Yields">Yeilds</sic> above half Copper, that he would give 
+
+<pb n="2"/><lb/><lb/>
+fifty pounds Per Ton for it here in the County; These are flushing <lb/>
+hopes &amp; if they are true we hope &amp; earnestly desire you will use <lb/>
+your utmost industry &amp; Courage to make Hay while the sun shines <lb/>
+&amp; let the <sic corr="Miners">Minors</sic> want no assistance you can give them with your <lb/>
+people &amp; now your Corn is laid aside you have it in your power <lb/>
+to make use of as many of the Hands as you can fairly employ in rais=<lb/>
+ing as much of this Ore as possibly you can between this and the<lb/>
+last of September two or three hundred Ton of this Ore would <lb/>
+lick all old sores <sic corr="pretty">pritty</sic> whole &amp; make the wheels of Action <lb/>
+run so smooth that we should be enabled to support all our <lb/>
+Charges with pleasure, My Son Charles purposes to be up with <lb/>
+you next month &amp; I am not without hop9es of seeing you in Sepr. <lb/>
+My self</p>
+
+<p>This comes by the <sic corr="Schooner">Scooner</sic> &amp; brings you a supply to <abbr expan="your">yor.</abbr> <lb/>
+Wants an Invoice of the things sent is here <abbr expan="enclosed">enclos'd</abbr> every thing <lb/>
+comes that you sent for except the Corn which I could not now <lb/>
+send without hindering the <sic corr="Schooner">Scooner</sic> three or four days at least <abbr expan="which">wch.</abbr> <lb/>
+I was very unwilling to do &amp; there is no reason to doubt of your  <lb/>
+wanting of it soon &amp; my son Robert assures me there is thirty or <lb/>
+forty barrls. of Corn to spare at his <note target="n2">bull run Quarter</note> which <lb/>
+you may have recourse to in Case of necessity but that is impos= <lb/>
+sible to be your Case before we can send you a supply from hence</p>
+
+<p>Surely you are very brisk in <note target="n3">Spawling</note> &amp; barreling of this <lb/>
+ore &amp; that <abbr expan="your">yr.</abbr> <sic corr="Team">Teem</sic> is daily employd in Carting it down to the <lb/>
+Landing It would be very pleasing to us to have the <sic corr="Schooner">Scooner</sic> turn <lb/>
+back with a full Load &amp; I have orderd her if you think It proper to <lb/>
+to <add resp="editor"> [<hi rend="italics">sic</hi>]</add> stop her to <sic corr="lie">ly</sic> at <note target="n4">Occoquan</note> Eight or ten days, I have sent you <lb/>
+two thousand twenty penny nails wch. Is all that I can possibly <lb/>
+spare at present &amp; with these you may lay down the floors <lb/>
+&amp; have enough to spare for the other business there is no necessity for <lb/>
+for <add resp="editor"> [<hi rend="italics">sic</hi>]</add> your <sic corr="thorough">thorugh</sic> nailing of it at present, that may be done <lb/>
+when you have a fresh supply of nails</p>
+
+<pb n="3"/><lb/><lb/>
+<p>My son Robert is now with me he carrys up with him &pound;12: <lb/>
+Currt money which you are to dispose of as our head <sic corr="miners">minors</sic> I <lb/>
+mean Nicholas Honey &amp; Whitford earns it &amp; are urgent <lb/>
+with you for it, You are to hold an Accot. with them they <lb/>
+will be so honest as to tell you what money we advanced to <lb/>
+them before they came out of England &amp; you know what they<lb/>
+owe for Rum, This Money My son will deliver to our skip= <lb/>
+per Evans we do not care to venture more at once every <lb/>
+three &amp; twenty Currt. is twenty <abbr expan="shillings">shill</abbr> <abbr expan="sterling">sterl.</abbr> My son Charles <lb/>
+when he come up is to bring more money with him &amp; <lb/>
+when I come it will hardly be with empty Pockets, You <lb/>
+may assure the three fore named <sic corr="Miners">Minors</sic> if their be= <lb/>
+havior is suitable shall have their wages <sic corr="paid">pay'd</sic> to them <lb/>
+with all imaginable punctuality as fast as it become due <lb/>
+&amp; if they want any goods we will let them have them as <lb/>
+reasonable as they can buy them any where &amp; will take <lb/>
+care to have a supply of such goods as they shall let us <lb/>
+know will be most suitable for them</p>
+
+<p>In one of your letters you say you had stuff for a hundred <lb/>
+Barrels I hope you will remember my orders to have these Barrels made <lb/>
+So Large that none of them should contain less but rather More than 400 lbs <lb/>
+of ore besides the <note target="n5">tare</note> 5 Barrels should contain 21 lbs of Neat ore <lb/>
+which they always reckon a <sic corr="Ton.">Tonn.</sic></p>
+
+<p>I have sent you 12 <note target="n6">Pistoles</note> they Weigh thirteen <lb/>
+pounds &amp; five pence Currt money the cask of Rum I now send <abbr expan="you">yo.</abbr> <lb/>
+holds thirty one Gallons Exactly you must by al<corr resp="editor">[l]</corr> means send me down <lb/>
+the Rum Cask you had before and what <note target="n7">rundlets</note> you have empty <lb/>
+and likewise powder Barrels we are mighty Put to it to find <lb/>
+things to send liquors and powder to <abbr expan="you">yo.</abbr> must also send me down the <lb/>
+Molasses cask that You have had
+</p>
+
+<closer><seg type="postscript"><lb/><lb/></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia. There is a 19th-century transcript of the letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia.</note>
+
+<note>The name of Carter's home, "Corotoman," the county, and colony have been added for clarity to this unheaded draft.</note>
+
+<note id="n1">[1] Benjamin Grayson was, according to Fairfax Harrison, "one of the earliest of the Scots merchants to be established on Quantico, where Dumfries was to arise." He was appointed a justice of Prince William County in November 1731. (<cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> pp. 156</bibl></cit>and <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]: 256.</bibl></cit>)</note>
+
+<note id="n2">[2] This was a  farm on bull Run Creek in Prince William County which was listed in Carter's will as belonging to the Estate [of] Robt Carter Junr Esq. . . ." There were then 19 cattle on the property.</note>
+
+<note id="n3">[3]  According to  the <title>Oxford English Dictionary,</title> spawling has to do with spittle or expectoration. However, a web search reveals that the term is used today in mining and civil engineering to mean breaking fragments from a face of stone or ore. Perhaps the term was used in Carter's day, and he had learned it from his miners. ("Webster's Online Dictionary, " http://www.websters-online-dictionary.org/definition/spall, 4/29/2006.)</note>
+
+<note id="n4">[4] The Occaquan River is a major tributary of  the Potomac River that lay in Stafford County in Carter's day. Much of the river today is known as the Bull Run, and forms the boundary between Fairfax and Prince William counties, and to the west, between Loudoun and Prince William  counties.</note>
+
+<note id="n5">[5] The tare is the weight of the container.</note>
+
+<note id="n6">[6] A pistole was a Spanish gold coin in use in Carter's time.</note>
+
+<note id="n7">[7] <title>Webster's Revised Unabridged Dictionary,</title> 1913 states that a rundlet is "a small barrel of no certain dimensions. It may contain from 3 to 20 gallons, but it usually holds about 141/2 gallons."</note>
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

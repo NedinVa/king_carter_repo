@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C27e17b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Captain John Hyde &amp; Company, May 17, 1727</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca.5  kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C27e17b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2003</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Captain John Hyde &amp; Company, May 17, 1727</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1727-05-17</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C27e17bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1727-05-17"></date>
+<idno rend="suppress">C27e17b.xml</idno>
+<title>Letter from Robert Carter to Captain John Hyde &amp; Company, May 17, 1727, </title>
+</bibl>
+</head>
+<p>Robert Carter writes to Captain John Hyde &amp; Company, May 17, 1727, reporting the arrival of letters and goods from the London merchant, and complaining that "your sales of my Tobbo: were the lowest of any that I had met." He gives details of the stay of the  company's ship, the <hi rend="italics">Providence,</hi> in the colony, sends a bill  of lading for 20 hogsheads of tobacco on board the ship, and reports a bill of exchange that he has drawn on Captain Woodward.</p>
+
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to Captain <note n="JH2">John Hyde</note> &amp; Company, May 17, 1727</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1727-05-17">May 17th. 1727.</date><lb/>
+Capt: John Hyde &amp; Company<lb/>
+</dateline>
+<salute>Gent:&mdash;</salute>
+
+</opener>
+
+
+
+<p>I have <abbr expan="received">rec'd</abbr> your Several Letters &amp; goods <lb/>your sales of my <abbr expan="tobacco">Tobbo:</abbr> were the lowest of any that I had met<lb/>Indeed it hath bin my Misfortune all along to have but low <lb/>Sales from you <add place="supralinear">what ever hath bin the reason of it</add> <note target="n1">Mr. Levitt</note> is a Safe man but he always gives <lb/>the lowest prices You give me hopes of your doing better hereaf<lb/>ter. Your ship hath made a long Stay here Your master is to accot: <lb/>for it My <abbr expan="tobacco">Tobbo:</abbr> hath bin ready for him ever Since he came in <lb/>I only waited till his <note target="n2"><add place="supralinear">ground</add> Tire</note> was laid and then he had it,</p>
+
+<p>herein Send you a bill of Lading for 20 hhds of <lb/>my own Crop <abbr expan="tobacco">Tobbo:</abbr> made at my home plantations prized <lb/>under my Eye Sweet Scented <abbr expan="tobacco">Tobbo:</abbr> I make no other and I <lb/>promise my Self is very good I hope will merit an Inland <lb/>Sale and give me the Advantage of the Discounts,</p>
+
+<p>I have now drawn upon you a bill of <abbr expan="exchange">Exche:</abbr> <lb/>payable to <note target="n3"><abbr expan="Captain">Capt:</abbr> Woodward</note> for &pound;34:15:- which I desire you <lb/>to answer on my Accot: he wanted two hhds. to full him up <lb/>I let him have them I ask him what freight he would want <lb/>of me His answer was 30 would do He might have had more <lb/>if he had wanted it I heartily wish your Ship Safe to you &amp; am, <lb/><abbr expan="Gentlemen">Gent. </abbr><lb/>Yor: most humble Servt. 
+</p>
+
+<closer><seg type="postscript"><lb/><lb/>per Woodward </seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1727 May-1728 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1] Mr. Levitt has not been identified.</note>
+
+<note id="n2">[2] Carter probably means the ship's mooring for her time in Virginia.</note>
+
+<note id="n3">[3] Thomas Woodward commanded the <hi rend="italics">Providence,</hi> a ship owned by Captain John Hyde &amp; Company, during a number of voyages to the colony, 1723-1727. (<cit><bibl>Adm. 68/194 and 195, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia,</bibl></cit> and Carter's letter to the firm, 1723 September 17.)</note>
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

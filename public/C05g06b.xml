@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C05g06b">
+
+<teiHeader type="aacr2"> 
+              
+<fileDesc> 
+<titleStmt> 
+     <title type="245">Letter from Robert Carter to Francis Lee, 1705 July 5</title> 
+   <title type="gmd">[electronic resource]</title> 
+     <author>Carter, Robert</author> 
+   <respStmt> 
+     <resp>Creation of machine-readable version: </resp> 
+     <name id="editor">Edmund Berkeley, Jr.</name> 
+     <resp>Conversion to TEI.2-conformant markup</resp> 
+     <name>Edmund Berkeley, Jr., and the University of Virginia Library Electronic Text Center</name> 
+   </respStmt> 
+</titleStmt> 
+ 
+<extent>ca. 7 kilobytes </extent> 
+ 
+<publicationStmt> 
+     <publisher>University of Virginia Library.</publisher> 
+     <pubPlace>Charlottesville, Va.</pubPlace> 
+     <idno type="ETC"></idno> 
+     <availability> 
+     <p>Publicly accessible</p> 
+     <p n="public">URL: http://etext.lib.virginia.edu/modeng.browse.html</p> 
+         </availability> 
+     <date>2001</date> 
+</publicationStmt> 
+ 
+<sourceDesc> 
+     <biblFull> 
+     <titleStmt> 
+     <title>Letter from Robert Carter to Francis Lee, 1705 July 5</title> 
+    
+
+     <author>Robert Carter</author> </titleStmt>
+
+    <extent>1 p.</extent> 
+<publicationStmt> 
+     <date>1705-07-06</date> 
+   <idno type="callNo"> Source copy consulted: Christ Church Parish, Lancaster County, Processioners' Returns, 1711-1783,and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond, 165. Extract printed William and Mary Quarterly, 1st. ser., 17(1909)258-259. </idno> 
+</publicationStmt> 
+</biblFull> 
+</sourceDesc> 
+ 
+</fileDesc> 
+     <encodingDesc> 
+     <projectDesc> 
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p> 
+     </projectDesc> 
+<editorialDecl> 
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in establishing 
+analytical groupings.</p> 
+</editorialDecl> 
+ 
+<classDecl> 
+     <taxonomy id="LCSH"> 
+     <bibl> 
+     <title>Library of Congress Subject Headings</title> 
+     </bibl> 
+     </taxonomy> 
+</classDecl> 
+</encodingDesc> 
+ 
+<profileDesc> 
+     <creation> 
+     <date>1705-07-06</date> 
+     </creation> 
+     <langUsage> 
+     <language id="eng"></language> 
+     </langUsage> 
+     <textClass> 
+     <keywords> 
+     <term>non-fiction</term> 
+   <term>prose</term> 
+     </keywords> 
+     <keywords scheme="LCSH"> 
+     <term type="Field650">LCSH</term> 
+     </keywords> 
+     </textClass> 
+</profileDesc> 
+ 
+</teiHeader> 
+ 
+<text id="C05g06bT"> 
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 pp.</extent>
+<date value="1705-07-05">July 6, 1705</date>
+<idno rend="suppress">C05g06b</idno>
+<title>Letter from Robert Carter to Francis Lee, July 6, 1705</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant Francis Lee, July 6, 1705, that he has received a letter from Lee in which Lee had written that the late Ralph Wormeley's sons, then in England at school, want to return to Virginia. Their mother favors their return, Carter reports, but add that he wants to be sure that all of the trustees of Wormeley's sons agree to this step that will so profoundly affect their futures. He states that Lee should send them home if all agree, and that it probably will be best for them because the estates that will come to them will allow only a living in Virginia business which will not satisfy them if they remain in England until they are men. Lee should equip them properly, but not too richly, for their station in Virginia when sending them.</p>
+</div1>                 
+</front>
+
+
+<body> 
+ 
+<div1 type="letter" n="1706-07-06"> 
+ 
+<head>Robert Carter to <note n="FL">Francis Lee,</note> July 6, 1705</head> 
+ 
+<opener> 
+ 
+<dateline>
+<pb n="1"/> 
+<name type="place">Rappahannock, <add resp ="editor">[Lancaster County, Virginia]</add></name><lb/> 
+ 
+<date value="1705-07-06">July 6th. 1705</date><lb/> 
+ Mr. Fra: Lee<lb/> 
+
+</dateline> 
+                                              
+<salute>Sr.</salute> 
+                   
+</opener> 
+ 
+ 
+<p>My Last to you went by the <name type="ship">Eagle Galley</name> Acknowledging the receit of 
+<lb/>your Letters &amp; Accounts to that time I have Since recd a letter from <lb/>you wch. have mislaid 
+&amp; cannot at present possibly find the dat<add resp="editor">[e I]</add> <lb/>have forgott but in the 
+Close remember you tell me the <note target="n1">Youths</note> have a <lb/>desire to come home 
+&amp; seem to give your opinion `twould be be<add resp="editor">[st]</add> <lb/>for them <note target="n2">Their Mother</note> urges Strongly to have thm. sent for, ha<add resp="editor">[s]</add>
+<lb/>undertaken to put her <note n="HA">Brother <add resp="editor">[Henry]</add> Armistead</note> and mr. <add resp="editor">[Gawin]</add><lb/><note 
+n="GC1">Corbin</note> upon writing for them I have writt to <note n="TC">mr. <add resp="editor">[Thomas]</add> Corbin</note> in <lb/>England &amp; I would have all 
+consenting to a thing tht will soe <add resp="editor">[con]</add><lb/>siderably affect their future welfare If others 
+agr<add resp="editor">[ee]</add> <lb/>it very advisable &amp; accordingly direct you to sen<add resp="editor">[d them]</add> <lb/>by 
+the first good Shipp after the receit hereof for <unclear>[ . . . ]</unclear> <lb/>their fortune promises thm no other 
+but a Virga. L<add resp="editor">[ife &amp; therefore]</add> <lb/>an Insight into Virga. Business will be of 
+consi<add resp="editor">[derable value to]</add> <lb/>thm. when they come to be men on the other Side <add resp="editor">[keeping them 
+too]</add> <lb/>long in Engld. will give thm. a disrelish to their <add resp="editor">[positions]</add> <lb/>all their 
+Lifes after &amp; make the Drudgery of Vi<add resp="editor">[rginia]</add> <lb/>a trade too mean for their thoughts 
+&amp; the rem<add resp="editor">[embrance of]</add> <lb/>pleasures they have left behind them lye too 
+<add resp="editor">[heavily]</add> <lb/>ever after This what I have allways observe<add resp="editor">[d of]</add> <lb/>those have 
+been kept in England till their manhood <unclear>[ . . . ]</unclear> <lb/>when you send them Let thm. be Equipt 
+Suitable to their <add resp="editor">[station]</add> <lb/>&amp; Circumstances not too gaudy or rich yet Genteel &amp; 
+<add place="supralinear">in such a manner</add> <add resp="editor">[you]</add> <lb/>think they may fairly be 
+maintained in without deb<add resp="editor">[it]</add> <lb/>to their Estates pray give my kind Love &amp; Service to 
+<add resp="editor">[them]</add> <lb/>&amp; accept the Same Yor. Self as from one tht is Sr<lb/><lb/> 
+Your hearty well wisher<lb/> 
+Affectionate Countryman <lb/> 
+and humble Servant<lb/><lb/> 
+ 
+<add place="marginleft">per the Corbin<lb/>2</add><lb/><lb/></p> 
+
+ 
+</div1> 
+</body> 
+ 
+<back> 
+<div1 type="notes"> 
+<head>NOTES</head> 
+
+<note><hi rend="italics">Source copy consulted:</hi> Christ Church Parish, Lancaster County, Processioners' Returns, 1711-1783, and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond, 165. Extract printed <title>William and Mary Quarterly</title>, 1st. ser., 17(1909): 258-259.</note> <lb/>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note><lb/>
+
+<note id="n1">[1] RC was among the trustees for the young sons, Ralph (ca. 1681-1714) and John (1689-1727), of Ralph Wormeley after their father's death. They were at school in England when this letter was written.</note> 
+ 
+<note id="n2">[2] Their mother was Elizabeth Armistead Wormeley, RC's sister-in-law through his first wife, Judith Armistead. She was the widow of Ralph Wormeley, and mother of Ralph (ca. 1681-1714) and John (1689-1727).</note> 
+ 
+</div1> 
+</back> 
+</text> 
+ 
+
+</TEI.2>

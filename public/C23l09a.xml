@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C23l09a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Captain Francis Willis, December 9, 1723</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 7 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C23l09a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2002</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Captain Francis Willis, December 9, 1723</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1723-12-09</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C23l09aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1723-12-09"></date>
+<idno rend="suppress">C23l09a.xml</idno>
+<title>Letter from Robert Carter to Captain Francis Willis, December 9, 1723</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Gloucester County resident Captain Francis Willis, December 9, 1723, concerning the estate of Carter's  deceased niece's husband, John Lloyd, who left Virginia for England after her death, and whose Virginia estate Carter has managed. Willis's son Francis has told Carter that the Lloyd estate is indebted to his father, and that the latter might be interested in selling his interest. Carter assures Willis that he would like  to acquire that interest if Willis can give him good title.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note target="n1">Captain Francis Willis,</note> December 9, 1723</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1723-12-09">Decemr 9th. 1723</date><lb/>
+Capt: Fran: Willis<lb/>
+</dateline>
+
+
+</opener>
+
+<p>I remember Some years ago you writ to me about <del>Lo</del><lb/><note n="LL"><sic corr="Lloyd's">Loyds</sic></note> affair that as you were in the Mortgage you had a <lb/>right to have some of the <abbr expan="tobaccos">Toba:s</abbr> sent you, as I remember I sent <lb/>a <sic corr="copy">Coppy</sic> of that Letter to <note n="MP">old Mr Perry</note> and there that matter <lb/>rested, how Mr Perry's Debt against that Estate Stands is <lb/>no business of mine I have not yet had a penny Salary <lb/>for all my Trouble, I have <add place="supralinear">had</add> repeated promises both from the Gr.<lb/>father and the present Gentleman that I should not be for=<lb/>got</p>
+
+<p>Upon Discourse with <abbr expan="your">yr</abbr> Son <note target="n2"><abbr expan="Francis">Franc:</abbr></note> the other Day <lb/>he asur'd me that <sic corr="Lloyd's">Loyds</sic> Estate was indebted to you between <lb/>two and three thousand Pounds that you was one of his <lb/><abbr expan="executors">executrs:</abbr> and had power from the Will to Continue<del>ably</del> <lb/>the Mortgage upon this Estate or else to make a Lease of <lb/>it for 99 years for the security and repayment of <abbr expan="your">yr</abbr> money <lb/>If you think proper to enter into a treaty with me and to <lb/>make your <sic corr="proposals">propo'sal's</sic> if you can invest me with a secure title 
+
+<pb n="2"/><lb/><lb/>
+<add resp="editor">[perha]</add>ps you will find no person forwarder to go into measures <lb/><add resp="editor">[fo]</add>r the reimbursing you <abbr expan="your Money">yr Mony</abbr>  than my Self, I have given <lb/><note n="MP2">Mr Perry</note> a full account of the particulars of that Estate again <lb/>and again both of the value of the Land and the Negroes and <lb/>of every thing <sic corr="else">els</sic> and how impossible it is to work all those <lb/>Slaves <del>[illegible]</del> to any advantage upon so small a quantity of <lb/>Land that is so terribly mangled and so entirely worn out</p>
+
+<p><abbr expan="your">Yr</abbr> Son <note target="n3"><abbr expan="John">Jno:</abbr></note> hath writ to <note n="JC1">my son</note> that this Estate would come <lb/>to be sold and to know whether I have any thoughts that way, I <lb/>have had intimations to the same purpose from others,<lb/> all these things put together give the occasion of this trouble <lb/>to you, If you shall think it proper to give <del>[illegible]</del> <add place="supralinear">me</add> an answer <lb/>I shall <del>be oblidged to you</del> take it kindly if not <del>I shall [illegible]</del><add place="supralinear"><hi rend="italics">I shall however</hi></add> remain <sic corr="Sir">Sr</sic> </p>
+
+<closer><abbr expan="your">Yr</abbr> Most Humble Servt:</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1723 June 16-1724 April 23, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia. There is a nineteenth-century transcript of this letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia. </note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad but his clerk has entered that return address for this letter to another resident of Virginia. The county and colony have been added for clarity.</note>
+
+<note>Carter has added three words of the complimentary close in his own hand as the use of italics shows. </note>
+
+<note id="n1">[1] Francis Willis, the son of Henry Willis, resided in Ware River Parish, Gloucester Co., Virginia.  ("Willis Family Genealogy"  (http://homepages.rootsweb.com/~marshall/esmd73.htm as of 5/21/02; and <cit><bibl>"Willis Family." <title>William and Mary Quarterly.</title> 1st ser. 5(1896): 24-27, 171-176; 6(1897): 27-29, 206-214.)</bibl></cit>)</note>
+
+<note id="n2">[2] Francis Willis (1690-<hi rend="italics">post</hi> 1749) of  "White Hall," Gloucester Co., Virginia. Carter mentioned a visit from him in his diary on 1723 October 17. He was a member of the House of Burgesses in 1748. ("Willis Family Genealogy"  (http://homepages.rootsweb.com/~marshall/esmd73.htm as of 5/21/02; and <cit><bibl>"Willis Family." <title>William and Mary Quarterly.</title> 1st ser. 5(1896): 24-27, 171-176; 6(1897): 27-29, 206-214.)</bibl></cit>)</note>
+
+<note id="n3">[3] John Willis was a London merchant who had debts from Carter's son-in-law, Mann Page, who died in 1722. Carter's executors, John and Landon Carter, wrote to Willis about the Page estate debts to him in May 1734. (Carter letter book, 1732-1781, Albert and Shirley Small Special Collections Library, University of Virginia.)</note>
+
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

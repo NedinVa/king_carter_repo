@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C27l16e">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Micajah Perry, December 16, 1727</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 11 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C27l16e.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2004</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Micajah Perry, December 16, 1727</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1727-12-16</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C27l16eT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1727-12-16"></date>
+<idno rend="suppress">C27l16e.xml</idno>
+<title>Letter from Robert Carter to Micajah Perry, December 16, 1727</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant Micajah Perry, December 16, 1727, to stress that his rent for the Northern Neck proprietary must be paid for 1726, and for a portion of 1727 if necessary. He is willing to pay no more than &pound;3000 for the Lloyd estates. Lewis Burwell, his grandson, is to be sent to Cambridge in the spring and Perry must find a "a discreet sober Tutor" to keep Burwell at his studies, and the expences must be kept low.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="MP2">Micajah Perry</note>, December 16, 172</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Rappahannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1727-12-16">[December 16, 1727]</date><lb/>
+Mr Micajah Perry<lb/>
+</dateline>
+<salute>Sir</salute>
+
+</opener>
+
+
+
+<p>By my letters from time to time you ma<add resp="editor">[y]</add> <lb/>conclude I was under Expectation you would pay my rent to the <abbr expan="proprietors">propr<add resp="editor">[s]</add></abbr> <lb/>of the northern Neck for the year 1726 and in mine <del>two</del> <add place="supralinear">four</add> days <sic corr="ago">agoe</sic> <lb/>I told you if you had paid the rent for the year 27 also that is to <lb/><note target="n1"><sic corr="Michaelmas">Michallmass</sic></note> last Deducting only <abbr expan="Colonel">Collo</abbr> <sic corr="Jenings">Jennings</sic> debt for &pound;<lb/>thirty odd pound I should not be uneasy however lest you should <lb/>not look upon what I have already <sic corr="written">writ</sic> as a peremptory order <lb/>I do now give you positive directions forthwith to make paymen<add resp="editor">[t]</add> <lb/>for the <abbr expan="said">sd</abbr> year 1726 and if the <abbr expan="proprietors">proprs</abbr> strongly in=<lb/>sist upon it to pay for the last years rent also that there <add place="supralinear">be</add> no foun<lb/>dation left for complaint Against me</p>
+
+<p>I have said something to you alread<add resp="editor">[y]</add> a=<lb/>bout the <note n="LL">LL</note> affair upon your information of the little <sic corr="likelihood">likelyhood</sic> <lb/>there was of a speedy disposal of it <sic corr="I am">Im</sic> of the same opinion <sic corr="men">min</sic><lb/><abbr expan="tioned">tion'd</abbr> to you in some former letters that I cannot reckon it <del>in va<lb/>lue</del> to be worth above three <abbr expan="thousand">thousd</abbr> pounds and if you <add place="supralinear">are <sic corr="pleased">pleasd</sic> to</add> continue <lb/>a bidder for me <add place="supralinear">I will give no more than that sum for the Estate lands &amp;ca.</add> &amp; I must be indulged in point of time as I have <lb/>already noted and care must be taken that a good title to the Lands be made to me</p>
+
+<p><note n="MP1"><abbr expan="Colonel">Collo</abbr> Page</note> and my <note n="JC1">son John</note> still cont<lb/>inue in the Opinion of sending <note target="n2">Lewis Burwell</note> to Cambridge and we <sic corr="proposed">proposd</sic> 
+
+<pb n="2"/><lb/><lb/>
+to write a <sic corr="joint">joynt</sic> letter to you about him but our meetings are so seldom <lb/>and when we are together so much other business hath intervened that <lb/>this letter hath still been forgot It will be high time to remove him <lb/>thither next Spring If he hath the good fortune to be under the care of <lb/>a discreet sober Tutor that will keep him under a good discipline and <lb/>out of the way of Expences and in the improvement of his <sic corr="studies">studys</sic> is <lb/><add place="supralinear">what is</add> mostly to be aimed at for my part I must leave the choice of a Tutor to <lb/>you what the other Gentlemen advise in the matter I shall let you know <lb/>hereafter you are very sensible our <sic corr="commodity">comodity</sic> is at a very low ebb at this <lb/>time a Sufficient reason to <sic corr="induce">enduce</sic> us to a frugality as  <lb/>much as possible in his Education and to allow him <lb/>only a decent maintenance which I hope you will endeavour with all <lb/>the power you have over him I am
+</p>
+
+<closer><seg type="postscript"><lb/><lb/>to be copyed</seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1727 May-1728 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia. There is a 19th-century transcript of the letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia.
+</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note>This letter appears in the letter book with others of this date. Carter refers in the first sentence to a letter written to Perry "four days agoe," which was December 12th.</note>
+
+<note id="n1">[1] Michaelmas is a Christian church holiday (feast of St. Michael) celebrated on September 29th.</note>
+
+<note id="n2">[2] Lewis Burwell (1711 or 1712-1756), Carter's grandson by Elizabeth Carter Burwell and her first husband, Nathaniel Burwell (1680-1721) for whom Carter was guardian. He was educated at Eton and Cambridge, and inherited considerable property, living at "Fairfield," Gloucester County. He would be president of the Council in 1750-1751. (<cit><bibl n="B42">Kneebone <hi rend="italics">et al.</hi>,  <title>Dictionary of Virginia Biography.</title>  2:434-5.</bibl></cit> and <cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 114.</bibl></cit>)</note>
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

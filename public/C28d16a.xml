@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C28d16a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to James Carter, April 16, 1728</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca.7  kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C28d16a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2004</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to James Carter, April 16, 1728</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1728-04-16</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C28d16aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1728-04-16"></date>
+<idno rend="suppress">C28d16a.xml</idno>
+<title>Letter from Robert Carter to James Carter, April 16, 1728</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Stafford County resident James Carter, one of his senior managers, April 16, 1728, to inform Carter that a sloop is coming for his and Ponton's tobacco, and wants to know from Carter how much tobacco he will be sending. He reports a protested bill of exchange  against Henry Fitzhugh, and two that he has drawn on Carter.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note target="n1">James Carter,</note> April 16, 1728</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
+<date value="1728-04-16">April 16th. 1728</date><lb/>
+Mr Jas. Carter<lb/>
+</dateline>
+
+
+</opener>
+
+
+
+<p>I writ to you a few days ago acquainted you that <lb/>a Sloop was coming for yours And Pontons tobacco desired you 
+
+
+<pb n="2"/><lb/><lb/>
+will let me hear from you Specially that I may know how much <lb/><abbr expan="tobacco">tobo</abbr> I may <sic corr="reckon">reackon</sic> upon this year from you I told you Mr <note n="LCF">Henry <lb/>Fitzhughs</note> bills of <abbr expan="Exchange ">Exch</abbr> that you took for &pound;14:8 were <abbr expan="returned">return'd</abbr> <lb/>me protested and that I would send them to you by the first safe Opp-<lb/>ortunity I had this is to let you know that I have this day drawn on you <lb/>for 800 pounds of tobacco payable to John Ashley and for 900 pounds of tobacco payable <lb/>to Owen Greenan which I desire you to Answer I should be mighty glad <lb/>to hear from you and <note target="n2">Charles Brent</note> too As soon as possible which is <lb/>the Needfull at present from your friend &amp;ca</p>
+
+
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1727 May-1728 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>The name of Carter's home, "Corotoman," the county, and colony have been added for clarity to this unheaded draft.</note>
+
+<note id="n1">[1] James Carter (1684-1743), of Stafford County, was the younger brother of Carter's dear friend and associate, Captain Thomas Carter of Lancaster County, and was one of Carter's chief managers. (<cit><bibl>Joseph Lyon Miller, "Captain Thomas Carter and His Descendants," <title>William and Mary Quarterly.</title> 1st ser., 17(1908-09): 275-285.</bibl></cit>)</note>
+
+<note id="n2">[2] Charles Brent (d. 13 January 1756) of Overwharton Parish,
+Stafford County, married to Hannah Innes. He acted as collector of quit rents for Carter in the county.</note>
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

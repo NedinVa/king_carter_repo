@@ -1,0 +1,239 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C29h27a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to [William Camp,] August 27, 1729</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca.12 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C29h27a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2005</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to [William Camp,] August 27, 1729</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>3 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1728 August 8-1730 May 15,  Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1729-08-27</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C29h27aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>3 p.</extent>
+<date value="1729-08-27"></date>
+<idno rend="suppress">C29h27a.xml</idno>
+<title>Letter from Robert Carter to [William Camp,] August 27, 1729</title>
+</bibl>
+</head>
+<p>Robert Carter writes to [William Camp,] August 27, 1729, the manager of his and the Burwell estate properties in York and nearby counties, concerning the stemming of tobacco and the construction of a mill.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note target="n1">[William Camp,]</note> August 27, 1729</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Corotomon, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1729-08-27">Augt. 27th. 1729</date><lb/>
+</dateline>
+<salute>Sir</salute>
+
+</opener>
+
+<p>Sending a messenger on purpose with Some lettrs. to go by <lb/>
+<corr resp="editor">[t]</corr>he <note target="n2"><corr resp="editor">[Will]</corr>iamsburg,</note> I [t]hought it proper to give you this line, I have not <lb/>
+<corr resp="editor">[y]</corr>et determined whether to have you Stem all your <abbr expan="Tobacco">Tobo.</abbr> or no, at <lb/>
+<corr resp="editor">[th]</corr>ose Quarters wch. bears a high Character, the other <abbr expan="Quarters">Qrs.</abbr> <corr resp="editor">[. . .]</corr> va<lb/>
+<corr resp="editor">[...]</corr>as Skedgye Creek &amp; <note target="n3">Lyons Creek,</note> I beleve it will be prop<corr resp="editor">[er]</corr>est <lb/>
+<corr resp="editor">[ . . .]</corr> small, laying the lop <sic corr="leaf">lefe</sic> Straight &amp; binding it into bundles <lb/>
+the under <abbr expan="Tobacco">Tobo.</abbr> to be Carefully &amp; Neatly picked, and all <abbr expan="manner">manr.</abbr> of <lb/>
+T<corr resp="editor">[rash]</corr> to be hove away, I am in Some doubt about the Lyon's Creek <lb/>
+<corr resp="editor">[ . . .]</corr>, perhaps it will be best to make the top fair <sic corr="unspotted">unspoted</sic> <abbr expan="Tobacco">Tobo.</abbr> <lb/>
+<corr resp="editor">[ . . .]</corr>es, for we have many times had as much for that Crop <lb/>
+<corr resp="editor">[ . . .]</corr> of them, The Same way I intend to have <note n="MH">Merchants hundred</note> <lb/>
+<corr resp="editor">[ . . .]</corr> all ordered, making none but the very prime of <lb/>
+<corr resp="editor">[ . . .]</corr> into bundles, Clean Steming all the rest <corr resp="editor">[ . . .]</corr><lb/>
+<corr resp="editor">[ . . .]</corr>ear it, to lay Straight &amp; <sic corr="tie">tye</sic> up. I would have <abbr expan="you">yu.</abbr> Consult <corr resp="editor">[<note n="MP1">Colonel Page</note> about the ?]</corr> <abbr expan="management"><lb/>
+managemt.</abbr> of <note n="NB">Burwells Crops</note></p>
+
+<p>The lying of my <note target="n4">Rippon Mill</note> this long unto <corr resp="editor">[ . . . sticks]</corr><lb/>
+<corr resp="editor">[v]</corr>ery much in my <sic corr="Gizzard">Gissard,</sic> I am now with all my Streng<corr resp="editor">[th working]</corr><lb/>
+<corr resp="editor">[o]</corr>n my dam that was <sic corr="Carried">Carryed</sic> away, Rawson my Mill<corr resp="editor">[er hath]</corr> <lb/>
+<corr resp="editor">[be]</corr>en imployed a Considerable time about repairing <corr resp="editor">[ . . .]</corr> <lb/>
+all of which wanted a great deal of work, And he is either gone <lb/>
+or going to <note n="EAW">Mrs. Wormleys</note> to <del>Mend</del><add place="supralinear">build</add> her Mill, &amp; is engaged to do <lb/>
+it before he can touch mine I have alalong <add resp="editor"> [<hi rend="italics">sic</hi>]</add> designed &amp; do Still <lb/>
+to have the most of my Mill framed at home where I think <lb/>
+<corr resp="editor">[I C]</corr>an get all my Sills &amp; timbers tht. are to <sic corr="lie">lye</sic> Exp<corr resp="editor">[ose]</corr>d to be <corr resp="editor">[out] </corr><lb/>
+<corr resp="editor">[o]</corr>f Locust, <sic corr="ugh">altho</sic> I am Still in hopes of getting <corr resp="editor">[ . . .]</corr> <lb/>
+that may be wanting of Sound <sic corr="Cedar">Ceder</sic> Some where about <corr resp="editor">[ . . .]</corr> <lb/>
+<corr resp="editor">[ . . .]</corr> now to bring Roson with <corr resp="editor">[ . . .]</corr> <lb/>
+<corr resp="editor">[ . . .]</corr> Mill must Stand, &amp; how <corr resp="editor">[ . . .]</corr><lb/>
+<corr resp="editor">[...plea]</corr>sed god to <sic corr="disappoint">disapoint</sic> me <corr resp="editor">[ . . .]</corr> <lb/>
+<corr resp="editor">[ . . .]</corr> ever Considering how well hands <corr resp="editor">[ . . .]</corr> <lb/>
+<corr resp="editor">[ . . .]</corr> out the Rippon Gang to go about <corr resp="editor">[ . . .]</corr><lb/>
+<corr resp="editor">[ . . .]</corr>ast half a <abbr expan="Dozen">Dozn.</abbr> of the <corr resp="editor">[ . . .]</corr><lb/>
+<corr resp="editor">[ . . .]</corr> nt the work with all expeditio<corr resp="editor">[n ...] </corr>
+
+
+<pb n="2"/><lb/><lb/>
+The Rest of the gang may very well get the Fodder <corr resp="editor">[ . . .]</corr> <lb/>
+and I think if 3 or 4 of the best of mill hands <corr resp="editor">[ . . .]</corr> <lb/>
+went to Assit them, for Six weeks or two months, <corr resp="editor">[ . . .]</corr> <lb/>
+there would be no great damage done to that plantation <corr resp="editor">[th]</corr>e <lb/>
+<sic corr="Difficulties">Difficultyes</sic> Seem to <sic corr="lie">lye</sic> in your way, one how to get <add place="supralinear"><corr resp="editor">[whe]</corr>el</add> barrow<corr resp="editor">[s]</corr> <lb/>
+I am in hopes your dam is so near finished that we may <lb/>
+get some from thence, or at least that there is Stuff enough <lb/>
+at your house to make Some, &amp; that the Carpenters may be <lb/>
+Spared to make as many as we Shall want, they may be made <lb/>
+at home &amp; Sent over in a <sic corr="Flat">Flatt</sic> &amp; this to be done with all Expedition</p>
+
+<p>The other Difficulty is to have a person always to be with these <lb/>
+people to keep them to their Work, it will be very hard as well as not Conve<lb/>
+-nient for Pasquet always to be there, &amp; it will be Necessary tht. he be wth. <lb/>
+his other people often, in Carrying on the plantation Work, to remedy <lb/>
+this I propose that each of the other overseers Wright Madeson &amp; O<corr resp="editor">[li]</corr>ver <lb/>
+each take his day to be there one day in the Week, &amp; that they take <lb/>
+turns one of them to be there two days, &amp; Pasquet to attend two days <lb/>
+in every week, This I am Sure none of the overseers will Grumble at <lb/>
+they li<corr resp="editor">[ving]</corr> within half an hours ride the furthest of them, you must <lb/>
+provid<corr resp="editor">[e t]</corr>hem some Meat by killing either at Rippon or Merchants <lb/>
+hundred a <sic corr="Middling">Middleing</sic> <sic corr="Hog,">Hogg,</sic> or a Cow, Bull, or Steer, as <abbr expan="you">yu.</abbr> Shall thing <add resp="editor"> [<hi rend="italics">sic</hi>]</add><lb/>
+<sic corr="proper,">properest,</sic> Indeed I would all the people (it is hard work if they follow <lb/>
+it Close) a pound of Meat a man,  one day if not two <sic corr="days">dayes</sic> in a week <lb/>
+thus I have laid the method of Carrying on my Dam, &amp; it may be <lb/>
+made a noble one between this and <abbr expan="December">Decemr.</abbr> <sic corr="big">bigg</sic> &amp; high enough I <lb/>
+recken to have nothing to do when the mill is built but Just to Stop <lb/>
+the water, I carry on my Dam here in the Same <abbr expan="manner">manr.</abbr> My Overseers <lb/>
+two &amp; two take their day round &amp; so fill up the week.</p>
+
+<p>If I remember right the earth at both end of the dam is <lb/>
+very good Clay; I must leave it to your <abbr expan="Judgment">Judgmt.</abbr> from wt. place they <lb/>
+S<corr resp="editor">[hould]</corr> <sic corr="Carry">Cary</sic> the earth, if both Sides are alike the Quickest way will <corr resp="editor">[be to]</corr> <lb/>
+have half <abbr expan="only">on'l</abbr> from one Side &amp; half from the Other &amp; the <corr resp="editor">[ . . .]</corr> <lb/>
+into the Middle of the dam where it is now to be <sic corr="Stopped">Stoped</sic> <corr resp="editor">[ . . .]</corr> <lb/>
+to build the Mill on the first land on the lower or Nearer side <corr resp="editor">[ . . .]</corr> <lb/>
+and by <sic corr="taking">takeing</sic> away the land <sic corr="therefore">therefor</sic> the Dam 
+
+<pb n="3"/><lb/><lb/>
+<corr resp="editor">[ . . .]</corr> the larger wch. will be of service in the other <lb/>
+<corr resp="editor">[ . . .]</corr> I intend to cut my <note target="n5">Weast,</note> but all these things <lb/>
+<corr resp="editor">[I mus]</corr>t leave to your Consideration as you are upon the Spot*<lb/>
+<corr resp="editor">[ . . .]</corr> I <corr resp="editor">[ho]</corr>pe you will drive on this work with all the vigour &amp; <lb/>
+Industry you can, &amp; be as often there as you can be Spared <lb/>
+without damage to your other business, In which you <lb/>
+will very much oblige your friend
+</p>
+
+<closer><seg type="postscript"><lb/><lb/>P.S. <lb/>
+*I intend my Dam Shall be large &amp;<lb/> 
+high enough to pen water for a <sic corr="breast">brest</sic><lb/> 
+Mill  </seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. The first page of this letter has suffered considerable damage including large sections missing along both margins. There is some damage to the second and third pages as well.</note>
+
+<note>The county and colony have been added for clarity to the  heading on the draft.</note>
+
+<note>The addresse's name, if present on the draft, has been lost due to damage to the sheet. The editor believes that internal evidence indicates that the letter was addressed to William Camp; see footnote #1.</note>
+
+<note id="n1">[1] William Camp (Kemp) was described by Carter as "the General Overseer of Mr Burwell's Affairs" and he wrote that Camp earned a salary "&amp;pound;50 . . . for the year 1731." Carter and his son-in-law, Mann Page, were the trustees of Nathaniel Burwell's children after Burwell's death in 1721. Camp was a resident of Gloucester County where most of the Burwell estates lay, and he must also have supervised "Rippon Hall" in nearby York County. (Carter to George Braxton, 1729 November 20, and Carter to William Dawkins,1732  July 11. <cit><bibl><title>Virginia Tax Records.</title> [Baltimore: Genealogical Publishing Company, Inc., 1983.] p. 539.</bibl></cit>)</note>
+
+<note id="n2">[2y] The London ship  <hi rend="italics">Williamsburgh</hi> was a large vessel of 550 tons and carried a crew of 26 men. Charles Rogers commanded her in 1727-29.  (<cit><bibl>Adm 68/195, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n3">[3] There is a Lyons Creek in York County and Carter probably refers to farms there that were under Camp's direction.</note>
+
+<note id="n4">[4] Rippon Hall had been Edmund Jening's estate in York County which he had acquired in 1687 from John and Unity West when it was named "Poplar Neck." Jenings's bad financial circumstances forced him to mortgage the property to Carter who eventually acquired title to it. (<cit><bibl>"Notes and Queries." <title>William and Mary Quarterly.</title> 2[Apr. 1894]: 270-278.</bibl></cit>)</note>
+
+<note id="n5">[5] According to the <hi rend="italics">Oxford English Dictionary,</hi> "weast" is an obsolete meaning of "west." Accordingly, what Carter meant by the use of this word is unclear.</note>
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

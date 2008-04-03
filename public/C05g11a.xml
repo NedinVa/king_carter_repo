@@ -1,0 +1,218 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C05g11a">
+
+<teiHeader type="aacr2"> 
+              
+<fileDesc> 
+<titleStmt> 
+     <title type="245">Letter from Robert Carter to Philip Ludwell, 1705 July 11</title> 
+   <title type="gmd">[electronic resource]</title> 
+     <author>Carter, Robert</author> 
+   <respStmt> 
+     <resp>Creation of machine-readable version: </resp> 
+     <name id="editor">Edmund Berkeley, Jr.</name> 
+     <resp>Conversion to TEI.2-conformant markup</resp> 
+     <name>Edmund Berkeley, Jr., and the University of Virginia Library Electronic Text Center</name> 
+   </respStmt> 
+</titleStmt> 
+ 
+<extent>ca. 9 kilobytes </extent> 
+ 
+<publicationStmt> 
+     <publisher>University of Virginia Library.</publisher> 
+     <pubPlace>Charlottesville, Va.</pubPlace> 
+     <idno type="ETC"></idno> 
+     <availability> 
+     <p>Publicly accessible</p> 
+     <p n="public">URL: http://etext.lib.virginia.edu/modeng.browse.html</p> 
+         </availability> 
+     <date>2001</date> 
+</publicationStmt> 
+ 
+<sourceDesc> 
+     <biblFull> 
+     <titleStmt> 
+     <title>Letter from Robert Carter to Philip Ludwell, 1705 July 11</title> 
+    
+     <title level="u"></title> 
+     <author>Robert Carter</author> </titleStmt>
+
+    <extent>2 p.</extent> 
+<publicationStmt> 
+     <date>1705-07-11</date> 
+   <idno type="callNo">Source copy consulted: Carter Papers, Virginia Historical Society, Richmond, Mss1L51f62. Printed Virginia Magazine of History and Biography, 1(1892)42-43. This is the recipient's copy signed by RC and is in very bad condition with stains and portions of the paper missing along the folds.</idno> 
+</publicationStmt> 
+</biblFull> 
+</sourceDesc> 
+ 
+</fileDesc> 
+     <encodingDesc> 
+     <projectDesc> 
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p> 
+     </projectDesc> 
+<editorialDecl> 
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in establishing 
+analytical groupings.</p> 
+</editorialDecl> 
+ 
+<classDecl> 
+     <taxonomy id="LCSH"> 
+     <bibl> 
+     <title>Library of Congress Subject Headings</title> 
+     </bibl> 
+     </taxonomy> 
+</classDecl> 
+</encodingDesc> 
+ 
+<profileDesc> 
+     <creation> 
+     <date>1705-07-11</date> 
+     </creation> 
+     <langUsage> 
+     <language id="eng"></language> 
+     </langUsage> 
+     <textClass> 
+     <keywords> 
+     <term>non-fiction</term> 
+   <term>prose</term> 
+     </keywords> 
+     <keywords scheme="LCSH"> 
+     <term type="Field650">LCSH</term> 
+     </keywords> 
+     </textClass> 
+</profileDesc> 
+ 
+</teiHeader> 
+ 
+<text id="C05g11aT"> 
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>2 pp.</extent>
+<date value="1705-07-11">July 11, 1705</date>
+<idno rend="suppress">C05g11a</idno>
+<title>Letter from Robert Carter to Philip Ludwell, July 11, 1705</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Philip Ludwell of Green Springs, James City County, July 11, 1705, that he cannot attend either of two scheduled meetings. He informs Ludwell that Joshua Moore, captain of H.M.S. Oxford, plans to sail on the 20th, and that their letters may safely be sent by him. He assures Ludwell that "my Lord Orkney is Govr. of Virginia" because he has learned it from a letter brought in by a Scot named Chartres who arrived two days earlier, and who had told Carter that he saw the news in the press in London which he left in April; Carter sends Ludwell a copy (not present) of the letter. Chartres also has told Carter that Commissary Blair was coming to the colony in a naval vessel that would soon arrive. Carter counsels Ludwell to be patient because it appears that their problems (referring to their strife with Lt. Gov. Francis Nicholson) will soon be over.</p>
+</div1>                 
+</front>
+
+
+<body> 
+ 
+<div1 type="letter" n="1705-07-11"> 
+ 
+<head>Letter from Robert Carter to <note n="PL">Philip Ludwell</note>, July 11, 1705</head> 
+ 
+<opener> 
+ 
+<dateline>
+<pb n="1"/> 
+<name type="place">Rappa<add resp ="editor">[hannock, Lancaster County, Virginia]</add></name><lb/> 
+ 
+<date value="1705-07-11">July the 11th: 1705</date> 
+</dateline> 
+ 
+                                              
+<salute>Hond. Sr.</salute> 
+ 
+</opener> 
+ 
+ 
+<p>Last Thursday as I remember I acknowledged the receit of <lb/>yours &amp; thn upon your proposall 
+appointed to meet you &amp; the rest <lb/>of the Gentlemen at <note n="LB">Major 
+Burwells</note> on the 20th wch. suppose before <lb/>now you have for I have since heard it went to 
+<note target="n1">Carters Creek</note> <lb/>by <note n="EB">Mr. Berkeley's</note> Overseer on 
+Sunday last. Two hours ago I <lb/>received yours of Yesterday's date inviting me to a meeting on 
+<lb/>Tuesday next at <note target="n2">Green Spring</note>, for the reasons you give, I would 
+<lb/>undergo the tediousness of the Jorney, but I have others so pressing <lb/>(wch. tis not proper here to 
+give the Detail of) forces me to hurry <lb/>this away to let you know, `tis near an impossibility for me, 
+<lb/>to comply with either time or place. <note target="n3">Captn. Moore</note> lay at my <lb/>house 
+last Fryday night, he would indeed hear of no longer <lb/>stay thn. the 20th Yett am I well Satisfied upon 
+severall accotts. if our <lb/>Letters are ready by the 25th. we shall have time enough to gett <lb/>thm. on board 
+him, he hath promised me all the Security imagi=<lb/>=nable &amp; I believe we may confide in him (as 
+for <note target="n4">Quarry</note> he <lb/>says shall not go in him), I am still Strongly of the opinion 
+<lb/><add resp ="editor">[fo]</add>r a meeting if tis to be r<unclear>[ . . .] </unclear> at the time &amp; 
+place I've before sett <lb/><add resp ="editor">[If that]</add> Commission cant come there, I shall be glad to 
+see you &amp; <lb/><add resp ="editor">[ . . .  mu]</add>st be I shall readily <lb/><add resp ="editor">[join]</add> 
+&amp; give my <add resp ="editor">[n]</add>ame to what y<add resp ="editor">[o]</add>u do, I have herein sent 
+my <lb/>thoughts of the points most necessary to be insisted on, if we <lb/>must not meet together nor 
+write j<add resp ="editor">[oi]</add>nt, let everyone do his <lb/>part single, tho know beforehand tht. will be 
+but a lame way.</p>  
+ 
+<p>I remember out of the Apocalyps we are told tht Beelzebub <lb/>near the end of his Reign will arm 
+himself with double furies <lb/>for the destruction of his enemies, &amp; just such I take the violences 
+<lb/>of our Devils to be, for I'me now near as well satisfied (what ever <lb/>they are) tht. my Lord Orkney 
+is Govr. of Virginia as tht you are <lb/>master of Green Spring, tht you may be so too, I herewith send 
+you <lb/>a copy of a written Letter of News brot in by one Cha<add resp="editor">[r]</add>tres, a <lb/>Scot, 
+who arrived here the day before <add resp="editor">[yeste]</add>rday, &amp; left <add resp="editor">[London the 
+?]</add><lb/>th of Aprill he affirms he saw the <add resp="editor">[news? i]</add>n print 
+<unclear>[ . . . ]</unclear> <lb/><add resp="editor">[ou]</add>r Navall officer &amp; Collector. I was not 
+<unclear>[ . . . ]</unclear><lb/><unclear>[ . . . ]</unclear>n, but had the Story from one I sent 
+abo<add resp="editor">[ard . . . ]</add> <lb/><unclear>[ . . . ]</unclear> the Originall Letter I had sent me a 
+Shoar, &amp; could <add resp="editor">[have?]</add> <lb/>kept it, but dont know how soon an Express may 
+be sent <add resp="editor">[for?]</add> <lb/>it, The said Chartres further says he was Credibly 
+inf<add resp="editor">[ormed that]</add> <lb/><note n="JB1">Commissary Blair</note> was coming in 
+the men of Warr, so tht <unclear>[ . . . ]</unclear> <lb/>all concerned have reason to bear their present 
+suffer<add resp="editor">[ing]</add> 
+ 
+<pb n="2"/><lb/><lb/>
+with patience seeing they are like to be but for a moment &amp; <lb/>lett the fiends grate their teeth if 
+they will, tw<add resp="editor">[il]</add>l be but like a <lb/>dog in a Chain Notwithstanding all this I 
+<add resp="editor">[do]</add> <sic corr="mightily">mighty</sic> desire <lb/>of a meeting to give the 
+finishing Stroke to <add resp="editor">[ . . . I]</add> have sent the <lb/>bearer on purpose to know your 
+resu<add resp="editor">[ . . . will]</add> shape <add resp="editor">[our?]</add> <lb/>course accordingly; 
+Methinks it will <add resp="editor">[matter no]</add>t much <lb/>when you have gott the Gentlemen 
+togethe<add resp="editor">[r at y]</add>our house to <lb/>perswade thm. to spend a day extraordinary 
+<add resp="editor">[in Co]</add>ming a little <lb/>further especially when we have it in  tht our 
+troubl<add resp="editor">[es]</add> <lb/>of this nature are near at an end, I wish you all the 
+blessing<add resp="editor">[s]</add> <lb/>of this life &amp; those of a more peacefull 
+regi<add resp="editor">[g]</add>n being real<add resp="editor">[l]</add>y</p> 
+ 
+<closer>Sr. <lb/> 
+Your most humble Servant.<lb/> 
+<signed>ROBERT CARTER</signed></closer> 
+ 
+</div1> 
+</body> 
+ 
+<back> 
+<div1 type="notes"> 
+<head>NOTES</head> 
+
+<note><hi rend="italics">Source copy consulted:</hi> Carter Papers, Virginia Historical Society, Richmond, Mss1L51f62. Printed <title>Virginia Magazine of History and Biography</title>, 5(1897): 42-43. This is the recipient's copy signed by RC and is in very bad condition with stains and portions of the paper missing along the folds.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note><lb/>
+ 
+
+<note id="n1">[1] "Carter's Creek," the Burwell home, was in Gloucester County about two miles up the stream of this name from "Rosewell."</note> 
+ 
+<note id="n2">[2] "Green Springs" was located in James City County about eight miles from Williamsburg, and five from Jamestown. Originally, it was the home of Sir William Berkeley, and passed into the Ludwell family when Philip Ludwell (1638-1717) married Berkeley's widow.</note> 
+ 
+<note id="n3">[3] Joshua Moore, captain of H.M.S. <hi rend="italics">Oxford</hi> in 1705. (<cit><bibl n="B10"><title>Executive Journals of the Council. . . .</title> 3(1721-1739): 20, and <title>Virginia Magazine of 
+History and Biography,</title> 9(1901): 262.</bibl></cit>)</note> 
+ 
+<note id="n4">[4] Robert Quarry served as surveyor general of customs for the colonies, and, although he was made a member of the Council of Virginia in 1702, he was frequently away in England or another of the colonies. (<cit><bibl n="B9">Tyler. <title>Encyclopedia of Virginia Biography.</title> I, 148.</bibl></cit>)</note> 
+ 
+</div1> 
+</back> 
+</text> 
+ 
+
+</TEI.2>

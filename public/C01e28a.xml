@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2  SYSTEM  'teixlite.dtd' [ 
+<!NOTATION jpg  SYSTEM  "jpeg"> 
+<!ENTITY filename  SYSTEM  "filename.jpg" NDATA jpg> 
+<!ENTITY % ISOlat1 SYSTEM  "ISOlat1.pen"> %ISOlat1; 
+<!ENTITY % ISOlat2 SYSTEM  "ISOlat2.pen"> %ISOlat2; 
+<!ENTITY % ISOnum SYSTEM  "ISOnum.pen"> %ISOnum; 
+<!ENTITY % ISOpub SYSTEM  "ISOpub.pen"> %ISOpub; 
+<!ENTITY % ISOtech SYSTEM  "ISOtech.pen"> %ISOtech;]> 
+ 
+<TEI.2 id="C01e28a">
+
+<teiHeader type="aacr2"> 
+              
+<fileDesc> 
+<titleStmt> 
+     <title type="245">Letter from Robert Carter to Francis Lee, 1701 May 28</title> 
+   <title type="gmd">[electronic resource]</title> 
+     <author>Carter, Robert</author> 
+   <respStmt> 
+     <resp>Creation of machine-readable version: </resp> 
+     <name id="editor">Edmund Berkeley, Jr.</name> 
+     <resp>Conversion to TEI.2-conformant markup</resp> 
+     <name>Edmund Berkeley, Jr., and the University of Virginia Library Electronic Text Center</name> 
+   </respStmt> 
+</titleStmt> 
+ 
+ 
+<publicationStmt> 
+     <publisher>University of Virginia Library.</publisher> 
+     <pubPlace>Charlottesville, Va.</pubPlace> 
+     <idno type="ETC"></idno> 
+     <availability> 
+     <p>Publicly accessible</p> 
+     <p n="public">URL: http://etext.lib.virginia.edu/modeng.browse.html</p> 
+         </availability> 
+     <date>2001</date> 
+</publicationStmt> 
+ 
+<sourceDesc> 
+     <biblFull> 
+     <titleStmt> 
+     <title>Letter from Robert Carter to Francis Lee, 1701 May 28</title> 
+
+     <author>Robert Carter</author> 
+     </titleStmt> 
+<publicationStmt> 
+     <date>unpublished</date> 
+   <idno type="callNo"> Source copy consulted: Christ Church Parish, Lancaster County, Processioners' Returns, 1711-1783,and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond, 141-142. At the head of the letter, following the date, "Per Graves."</idno> 
+</publicationStmt>    
+
+</biblFull> 
+</sourceDesc> 
+ 
+</fileDesc> 
+     <encodingDesc> 
+     <projectDesc> 
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p> 
+     </projectDesc> 
+<editorialDecl> 
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in establishing 
+analytical groupings.</p> 
+</editorialDecl> 
+ 
+<classDecl> 
+     <taxonomy id="LCSH"> 
+     <bibl> 
+     <title>Library of Congress Subject Headings</title> 
+     </bibl> 
+     </taxonomy> 
+</classDecl> 
+</encodingDesc> 
+ 
+<profileDesc> 
+     <creation> 
+     <date>1701-05-28 </date> 
+     </creation> 
+     <langUsage> 
+     <language id="eng"></language> 
+     </langUsage> 
+     <textClass> 
+     <keywords> 
+     <term>non-fiction</term> 
+   <term>prose</term> 
+     </keywords> 
+     <keywords scheme="LCSH"> 
+     <term type="Field650">LCSH</term> 
+     </keywords> 
+     </textClass> 
+</profileDesc> 
+ 
+</teiHeader> 
+
+<text id="C01e28a">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 pp.</extent>
+<date value="1701-05-28">May 28, 1701</date>
+<idno rend="suppress">C01e28a.xml</idno>
+<title>Letter from Robert Carter to Francis Lee, May 28, 1701</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant Francis Lee concerning the death of Secretary of State Ralph Wormeley, Wormeley's unhappiness with Lee's handling of his affairs and Lee's need to do better on behalf of his estate, a consignment of 16 hogsheads of tobacco, and that Lee's supervision of Wormeley's sons, then in England for their education, should be stringent. </p>
+</div1>                 
+</front>
+
+
+
+<body> 
+
+<div1 type="letter" n="1701-05-28"> 
+ <head>Letter from Robert Carter to <note n="FL">Francis Lee,</note> May 28, 1701</head> 
+ <opener>
+<dateline>
+<pb n="1"/>
+<date value="1701-05-28">May the 28th. 1701. Per Graves.</date>
+<name type="place">[Rappahannock, Lancaster County, Virginia]</name><lb/>
+Mr. Francis Lee
+</dateline>
+
+</opener>
+ 
+           
+<p>
+Take it to be no News to tell you Mr. Secretary Wormeley <lb/>made me, one of the Executors of his 
+Will during the Min<add resp="editor">[ority]</add> <lb/>`Twas his Death Bed Orders that you should have 
+no more of his <add resp="editor">[until]</add> <lb/>you had given Satisfaction as to Fryers Accot. he 
+thought him<add resp="editor">[self great]</add><lb/>-ly Abus'd in it, and Indeed 'tis very hard the whole 
+Loss should <add resp="editor">[be on]</add> <lb/>him, when you allow him not the Advantages the Readies 
+<lb/>had at the Custom-house, besides soe long after you had gi<add resp="editor">[ven]</add> <lb/>Creditt 
+for that Tobaccoe, to bring him in for his snacks, is som<add resp="editor">[ething]</add> <lb/>Strange, I 
+have heard him further Say for many Yeares t<add resp="editor">[hat]</add> <lb/>it hath bin his positive 
+Orders to you, not to Sell but to Men of <lb/>Abilities without Substantiall Security for that he had 
+Rat<add resp="editor">[her be]</add> <lb/>Short in Price, then Run any hazard, You will do well 
+<add resp="editor">[on?]</add> <lb/>that Accot. in Our Testators. Favour what you Can, that 
+W<add resp="editor">[e are]</add> <lb/>Justified in Continuing a part of his Consignments to 
+you<add resp="editor">[. In]</add> <lb/>his own Orders he hath left no Directions about the 
+Rema<add resp="editor">[ining]</add> <lb/>Children, some desire they may be wth. Mrs. Corbin one of his 
+<add resp="editor">[executors]</add> <lb/>wch. Wee have not yett Yeilded to, waiting till wee know the 
+<add resp="editor">[...]</add> <lb/>you Intend to Abide by, herein is a Bill of Lading for Sixteen 
+<add resp="editor">[hogsheads]</add> <lb/>Laded on the <note target="n1"><name 
+type="ship">America</name></note> &amp; sent to you they are the Cropp Tobo. w<add resp="editor">[ch. 
+they]</add> <lb/>say is very Good &amp; Weighty. I have Drawn on you for <add resp="editor">[...]</add> 
+<lb/>no Doubt Long before now you are in possession of the Money Du<add resp="editor">[e]</add> 
+<lb/>from <note n="JM">Mr. Mathews</note></p> 
+ 
+<pb n="2"/> 
+<p><add resp="editor">[Give my]</add> kind Respects to my Cozens Ralph &amp; John Wormeley whom <lb/>if 
+you keep Short in point of pockett Money, &amp; not Extraordnary in fineness <lb/>neither, i'tis my Opinion 
+twill be no Diservice to them, I hope if the times <lb/>hold as they have bin for some yeares past, Wee 
+may be Able to lay up <lb/>a Little Money for them, before they Come to manage. for your fuller 
+<lb/>Satisfaction, I have herein sent a Coppy of Mr. Secretarys Will I am Sr</p> 
+ 
+<closer>Your humble Servant. </closer> 
+ 
+</div1> 
+</body> 
+ 
+<back> 
+<div1 type="notes"> 
+<head>NOTES </head>
+<note><hi rend="italics">Source copy consulted:</hi> Christ Church Parish, Lancaster County, Processioners' Returns, 1711-1783,and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond, 141-142. </note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence.</note>
+
+<note id="n1">[1] The <hi rend="italics">America</hi>, according to the "1700 Convoy List," was a London vessel of eighteen men and eighteen guns, commanded by Thomas Graves. A naval officer's return, 1700 February 19-June 24, shows that she had been built at Ipswich in 1691, was 250 tons in size, and was owned by Sir Richard 
+Levett, Robert Bristow, Esq., Arthur Bailey, John Cary, Micajah Perry, Thomas Lane, Anthony [. . .] Hope for Bendall and Mary Johnson. (<cit><bibl n="A19">Middleton,  "The Chesapeake Convoy System, 1662-1763."</bibl></cit> and <cit><bibl n="M4">Naval Officer's Return, 1700 February 19-June 24.</bibl></cit>)</note>
+ 
+</div1> 
+</back>
+ 
+</text> 
+ 
+
+</TEI.2>
+

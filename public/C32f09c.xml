@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C32f09c">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Edward Tucker, June 9, 1732</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 9 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C32f09c.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2006</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Edward Tucker, June 9, 1732</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1732-06-09</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C32f09cT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1732-06-09"></date>
+<idno rend="suppress">C32f09c.xml</idno>
+<title>Letter from Robert Carter to Edward Tucker, June 9, 1732</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Weymouth merchant Edward Tucker, June 9, 1732, to report the arrival of a ship,  <hi rend="italics">George &amp; Mary,</hi> Tucker has chartered, and the arrangements that he and George Eskridge have made concerning her. He adds comments about the small tobacco crop that will prevent many ships obtaining large cargoes, but hopes this will send the market up.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="ET">Edward Tucker,</note> June 9, 1732</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1732-06-09">June 9th. 1732</date><lb/>
+Edward Tucker Esqr.<lb/>
+</dateline>
+<salute>Sr.</salute>
+
+</opener>
+
+
+
+<p>It will not be unagreeable to you to be <abbr expan="advised">advis'd</abbr> of the Arri <lb/>
+val of your Chartered Snow the <name type="ship">George &amp; Mary</name> <abbr expan="Captain">Capt</abbr> Bird she came into the <note target="n1">Indian <lb/>
+Creek</note> the <note target="n2">last <abbr expan="Ultimo">Ulto.</abbr></note> I was <abbr expan="forced">forc'd</abbr> to send your Packet by Express to <sic corr="Williamsburg,">Williamsburgh,</sic> <lb/>
+to <note n="GE">Colonel Eskridge</note> who is now upon an Assembly with the ferryages it will Cost <abbr expan="you">yo.</abbr> <lb/>
+20<abbr expan=" Shillings"> /</abbr>. we agreed <abbr expan="it would">twould</abbr> be the best way for <abbr expan="Captain">Capt.</abbr> Bird to enter his ship here and first <lb/>
+to take in the <abbr expan="tobacco">tobo</abbr> in these parts before he goes up to <sic corr="Potomac">Potomack</sic> Colonel Eskridge <lb/>
+thought this the best way <abbr expan="it is">tis</abbr> computed there would be here near 40 hogsheads <abbr expan="Captain">Capt</abbr>Bird <lb/>
+is cleaning his vessel and then will set to work Colonel Eskridge writes me <lb/>
+he <sic corr="has">hath</sic> 70 hogsheads ready <del>[illegible]</del> that he can have on board in a Weeks time <lb/>
+<del>It hath pleased God</del> I have already <sic corr="advised">advisd</sic> you of the death of my dear Son, <lb/>
+<note n="RC2">Robert</note> how much of the rum <add place="supralinear">&amp;a</add> <note target="n3"><sic corr="Russell">Russel</sic></note> <abbr expan="received">receiv'd</abbr> from him I know not but I be <lb/>
+leive he had the most of it </p>
+
+<p><sic corr="Russell">Russel</sic> I <sic corr="reckoned">reckond</sic> <sic corr="Sailed">Saild</sic> the 13th of May <sic corr="carried">carryed</sic> away <lb/>
+with him 44 hogsheads of my own &amp; 15 <abbr expan="hogsheads">hhds</abbr> of <note n="MP1"><abbr expan="Colonel">Colo</abbr> Pages</note> <abbr expan="tobacco">tobo</abbr> all <abbr expan="stemmed">stemm'd</abbr> I spent my <lb/> whole shot to give him a dispatch and have now no <abbr expan="tobacco">tobo</abbr> left to put into this ship <lb/>
+what more assitance she may get from from <abbr expan="Colonel">Colo</abbr> Eskridge I know not it <abbr expan="cannot">can't</abbr> <lb/>
+be much if she wants any to fill her. The report now among us is that many of <lb/>
+our ships will not get near <sic corr="Loaded,">Loaden,</sic> and we have not many Bristolmen in yet from <lb/>
+whence we entertain hopes the markets will rise I have already <sic corr="Advised">Advisd</sic> my draft <lb/>
+on you to <note n="JR">John Randolph</note> <abbr expan="Esquire">Esqr.</abbr> for one hundred pounds which I desire you to an= <lb/>
+swer at time. I heartily wish your health and Am 
+</p>
+
+<closer><abbr expan="Sir">Sr. </abbr><lb/>
+Your most humble Servant</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1] Indian Creek lies at the eastern tip of Lancaster County at the northern side of Fleets Bay, and runs inland roughly northwest towards today's Kilmarnock. It probably was 6 or 7 miles from "Corotoman" by the roads of Carter's time.</note>
+
+<note id="n2">[2] Carter means the last day of the previous month.</note>
+
+<note id="n3">[3] John Russell commanded the <hi rend="italics">Portland,</hi> a vessel owned by Weymouth merchant Edward Tucker. (<cit><bibl>Survey Report 9729 detailing the Weymouth Port Books, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

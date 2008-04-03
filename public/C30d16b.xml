@@ -1,0 +1,316 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C30d16b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to William Dawkins, April 16, 1730</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 23 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C30d16b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2005</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to William Dawkins, April 16, 1730</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>7 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1730-04-16</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C30d16bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>7 p.</extent>
+<date value="1730-04-16"></date>
+<idno rend="suppress">C30d16b.xml</idno>
+<title>Letter from Robert Carter to William Dawkins, April 16, 1730</title>
+</bibl>
+</head>
+<p>Robert Carter writes to  London merchant William Dawkins, April 16, 1730, to report that he has received the accounts of sales of his tobacco and that the goods have arrived in good condition. He complains about the extremely low prices received for his tobacco, and comments on the small crops presently in Virginia and Maryland. Most of the letter is devoted to his business in the hands of merchant John Falconar who had died, and his instructions to Dawkins in representing Carter to Falconar's executors. He encloses a letter that Dawkins is to present to the executors.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="WD">William Dawkins,</note> April 16, 1730</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1730-04-16">April 16.. 1730</date><lb/>
+Mr: William Dawkins<lb/>
+</dateline>
+<salute>Sir</salute>
+
+</opener>
+
+
+
+<p>I have <abbr expan="received">receiv'd</abbr> your several letters this year your<lb/>
+accounts of sales and your Account Currt. your sales indeed are the lowest<lb/>
+as you observe I think that ever you gave me however to be inginious take<lb/>
+them round they are the best has fallen to my <sic corr="Lot">Lott</sic> for that years Crop <unclear>[ . . . ]</unclear></p>
+
+<p>	I have <abbr expan="received">receiv'd</abbr> my goods in good condition the <note target="n1"><name type="ship">Bailey</name></note><lb/>
+<abbr expan="arrived">arriv'd</abbr> this day three Weeks all that I shall be able to load upon her this year<lb/>
+will be between 50 and 70 <abbr expan="hogsheads">hhds</abbr> how he will come off himself does not yet<lb/>
+Know We have little outport trade yet the Scotch talk of a great many<lb/>
+fewer ships to come from thence than Usual this probably will very<lb/>
+much help the Londoners the masters are driving about after freight 
+
+<pb n="2"/><lb/><lb/>
+all the Country over if there be any regard to report<corr resp="editor">[s]</corr> from all parts both<lb/>
+of Virginia and Maryland you may depend upon a Very short crop<lb/>
+I cannot reckon there will be so much by at least 10,000 <abbr expan="hogsheads">hhds</abbr> as went<lb/>
+out <add place="supralinear">from Virginia</add> Last year for my own part I have Concerns in all our rivers &amp;<lb/>
+<sic corr="pretty">pritty</sic> large ones at the Falls of this I am sure I shall fall short of<lb/>
+500 <add place="supralinear"><abbr expan="weight">wt</abbr></add> of <abbr expan="tobacco">tobo</abbr> per share considerably less than I made in the <note target="n2"><sic corr="last">gust</sic></note> year</p>
+
+<p>In yours of the 24th of <abbr expan="January">Janry</abbr> by the <name type="ship">Haswell,</name> you tell me you<lb/>
+had sold some of my <abbr expan="tobacco">tobo</abbr> at 8 1/2 my letters by that ship advise me<lb/>
+that the market was rising I am in hopes you will be able to advance<lb/>
+the price for what of my tobacco remains unsold you are not<lb/>
+<sic corr="unsensible">unsencible</sic> of the Vast Expence we live at Small crops poor <sic corr="pric=">priz=</sic><lb/>
+es great <sic corr="Salaries">Salarys</sic> and great <sic corr="mortailities">mortailitys</sic> and less for the maintainan<add place="supralinear">ce </add><lb/>
+of my <sic corr="Families">Familys</sic> I cannot Subsist with I can too truely say I grow poorer<lb/>
+and poorer Every Year I live</p>
+
+<p>The death of <note target="n3">Mr Falconar</note> fills me full of doubts what is to be=<lb/>
+come of my Affairs in his hands his Son here tells me himself and 2<lb/>
+very Substantial honest men in <name type="city">London</name> are his fathers Executors<lb/>
+and promises me all imaginable justice Pressing me Strongly to con <lb/>
+tinue my business to him he seems to be an ingenious man for his years<lb/>
+but old heads are not to be found upon young Shoulders I cannot think it<lb/>
+prudent to continue my Correspondence with that house <sic corr="until">till</sic> I see what<lb/>
+Course the young man will steer and I cannot think of any friend I<lb/>
+have in London so proper to intrust this Affair to as yourself &amp;<lb/>
+hope you will serve me in it both strenuously and with diligence<lb/>
+Accordingly I send you inclosed a letter to Mr Falconars Executors<lb/>
+Whereby to demand of them an Accot of my Concerns and to receive<lb/>
+of them the money that is due to me from Mr Falconar upon his<lb/>
+accot <sic corr="Current">Currant</sic> and also the produce of certain quantities <add place="supralinear">of <abbr expan="tobacco">tobo</abbr></add> that were 
+
+<pb n="3"/><lb/><lb/>
+<add place="supralinear">just sold &amp;</add> to sell at the writing of his last letter he hath sent me two Accounts<lb/>
+<abbr expan="Currents">Curtts</abbr> of late the first of them Bears date June 10th.. 1728. In this<lb/>
+account his ballance in my favour is &pound;1121"9"8 herein he gives<lb/>
+me Credit for 13 hogsheads by <note target="n4">James Hopkins</note> 20 hogsheads  by <note target="n5">George Buckr=<lb/>
+idge</note> and 17 hogsheads by <note n="CS">Thomas Dove</note> this <abbr expan="tobacco">tobo</abbr> was sold the 16th<lb/>
+of April 1728. He sends me another account Currt date June<lb/>
+14th 1729 the ballance due to me in that Accot is &pound;1099"12"1<lb/>
+In that accot he gives me Credit for 8 <abbr expan="hogsheads">hhds</abbr> by <note target="n6">James Bradby</note> for<lb/>
+20 by <note target="n7">Peter Wills</note> and for 10 hogsheads by Ditto</p>
+
+<p>In his letter of the 29th of September 1729 is this follow <lb/>
+in<corr resp="editor">[g]</corr> clause "The 11th of April 1728 I sold 29 <abbr expan="hogsheads">hhds</abbr> of tobacco to Alderm<lb/>
+"an Levett 20 of which were <sic corr="yours">thine</sic> amounting to &pound;535"16"2 that<lb/>
+"was the first time I ever dealt with the Alderman and I <abbr expan="believed">believ'd</abbr> him<lb/>
+"to be a Safe man but he has <sic corr="Stopped">Stopt</sic> payment and is to meet his credit <lb/>
+"ors in a few days he owes I am told about &pound;5000" for Tobacco what<lb/>
+"his propositions will be I know not but the loss I hope will not be grea<add place="supralinear">t</add><lb/>
+"for I have <abbr expan="received">receiv'd</abbr> two thirds of the money, more I am told than he<lb/>
+"has paid to all the trade since the time I dealt with him it is a<lb/>
+"Sign the <abbr expan="tobacco">tobo</abbr> trade is very bad when an Alderman and Sheriff of<lb/>
+"London shall br<add place="supralinear">e</add>ak. <add place="supralinear">thus far Mr. Falconar</add> I shall not make any Observation upon  this<lb/>
+proceeding only to <sic corr="note">noat</sic> that I am <abbr expan="advised">advis'd</abbr> according to the Circumstances<lb/>
+of this transaction I am not <sic corr="liable">lyable</sic> to bear any loss by the Breaking<lb/>
+of Mr Levett, Last Year I sent to Mr. Falconar 30 hogsheads of <abbr expan="tobacco">tobo</abbr><lb/>
+by Peter Wills and 11 by Bradby also 2 <note target="n8"><sic corr="Lugs">Luggs</sic></note> by Bells Ship of the<lb/>
+30 by Wills he gives me an Accot <del>of the sales of</del> <add place="supralinear">he had sold</add> 27 <abbr expan="hogsheads">hhds</abbr> those<lb/>
+by Bradby as choice a Crop as any upon York River; likewise<lb/>
+17 hogsheads a Crop I sent him out of James River <sic corr="marked">markt</sic> <corr resp="editor">[tobacco mark]</corr> a choice<lb/>
+Crop also <del>[illegible]</del> <add place="supralinear">were</add> unsold these <corr resp="editor">[tobacco mark]</corr> were the produce<lb/>
+of a plantation of mine the profits whereof however I <abbr expan="designed">design'd</abbr> for <note n="NB">Mr Burwells</note><lb/>
+remains and Mr Falconar Accots for them in a particular<lb/>
+manner under the denomination of <note n="MH">Merchants hundreds</note> esta[<corr resp="editor">te]</corr>
+
+<pb n="4"/><lb/><lb/>
+The crop that went by Bradby in 1728 the same Crop sold at 9<abbr expan=" pence">d</abbr><lb/>
+<sic corr="cleared">cleard</sic> me above &pound;10" per hogshead equal to any of Mr Burwells <abbr expan="tobacco">tobo</abbr>=<lb/>
+and I expect these 11 hogsheads will <sic corr="yield">yeild</sic> at least as much He hath<lb/>
+also been a large manager of Mr Burwells affairs and stands<lb/>
+considerably in debt to that Estate to be Accounted for to me</p>
+
+<p>Now how <add place="supralinear">is best for</add> you to Proceed in this Affair I am at<lb/>
+a loss to give you instructions if you find there is no danger<lb/>
+of a fair and punctual proceeding with me you will Act the<lb/>
+more Calmly but if otherwise I hope your <sic corr="Zeal">Zeall</sic> will be the<lb/>
+warmer to see that I have right done me I think you are<lb/>
+already <abbr expan="qualified">qualify'd</abbr> as my attorney in London as I remember I sent<lb/>
+you a general power of Attorney in the <note target="n9">Case of Wise</note> I am<lb/>
+</p>
+
+<closer>Sir<lb/>
+Your very humble Servant.
+<seg type="postscript"><lb/><lb/>I have thoughts to send you a<lb/>
+new power of Attorney by Adam Graves <lb/><lb/>
+by <note target="n10">Loxam</note> <lb/>
+n. p Copy by <note target="n11">Malbon</note> <lb/>
+<del>[illegible]</del></seg>
+
+<seg type="postscript"><lb/><lb/>
+<pb n="5"/><lb/><lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="memorandum">mmd:</abbr> to be added to Dawkinss letter <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<del>the following illegible</del><lb/>
+I herein send you Williams Downmans <abbr expan="exchange">Exch:</abbr> on <abbr expan="YourSelf">Yr Self</abbr> for &pound;15"6.0 <lb/>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="William">Wm.</abbr> Thorntons on ditto---------------- &pound; 5"1"1 <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<note n="NS"><abbr expan="Nicholas">Nic:</abbr> Smith</note> on <note n="JK">John King</note> of Bristol----   7"2"2 <lb/>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="Samuel">Sam:</abbr> Skinker on Tom Longman Bristol      3"0"0 <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="underline">                                     </hi><lb/>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&pound;30"9"3<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="underline">                                     </hi><lb/>
+</seg>
+
+<seg type="postscript"><lb/><lb/>
+<pb n="6"/><lb/><lb/>
+<corr resp="editor">[LETTER ENCLOSED IN THE ABOVE]</corr><lb/><lb/>
+To the <abbr expan="Executors">Exrs</abbr> of Mr John Falconar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="Rappahannock">Rappa.</abbr> <abbr expan="April">Apl:</abbr> 16" 1730<lb/>
+Gentlemen<lb/>	
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr John Falconar of London whose <abbr expan="Executor">Exr</abbr> (his son <lb/>
+ Mr. John Falconar here <add place="supralinear">tells me</add> you two Gentlemen (Your names I do<lb/>
+not at Present remember) are appointed with himself) had consider <lb/>
+able concerns of mine and of Mr. Burwells Estate by my con <lb/>
+signment in his hands which no doubt Mr Falconars books<lb/>
+will Sufficiently demonstrate to you <add place="supralinear">to</add> Mr. William Dawkins my<lb/>
+very good friend and Corrispondent Merchant in London. I have<lb/>
+now Sent a full Accot of my Affairs in Mr Falconars hands<lb/>
+as they stood when Mr Falconar sent his last Accots and letters to<lb/>
+me and I have desired and impowred the said Mr Dawkins 
+
+<pb n="7"/><lb/><lb/>
+to make a demand of you of all my concerns as well my own as those <lb/>
+belonging to Mr Burwells Estate and to receive all the Effects that are<lb/>
+due from Mr Falconars Estate not at all doubting according to the promises<lb/>
+made to me by Mr Falconar here but that I shall <add place="supralinear">meet with all</add> imaginable justice and<lb/>
+punctual dealing from his executors if <sic corr="there">their</sic> be any <abbr expan="tobacco">tobo</abbr>s unsold at the<lb/>
+time this gets to you it will be very acceptable to me if you deliver it<lb/>
+over to Mr Dawkins who perhaps may be most better Acquaninted with<lb/>
+the trade than you are I am<lb/> 
+Gentlemen<lb/> 
+Your very humble Servant<lb/><lb/>
+<del>[illegible]</del> by Loxam <lb/>
+Copy by <abbr expan="Captain">Cap.</abbr> Malbon <lb/>
+<del>[illegible]</del><lb/>
+To Messrs.<lb/>
+<abbr expan="David">Dav'd</abbr> Barclay living in cheapside &amp; Daniel Phillips living in Liebard <lb/>
+Street
+</seg>
+
+
+</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1] The <hi rend="italics">Bailey</hi> was a London ship owned by William Dawkins and commanded at various times by Adam Graves (1725-1730) and by Thomas Dove (1731-1732). She was a vessel of some 250 tons and carried 15-17 crew members. (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, 156v, and other data in Adm. 68/194 and /196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> A letter of Carter's executors to Dawkins 1738 May 10 refers to "your ship Bailey.")</note>
+
+<note id="n2">[2] While the clerk clearly wrote down "gust," either his or Carter's attention must have been straying. In the context of the letter, "last" was what was intended. No use of "gust" for "last" appears in the <hi rend="italics">Oxford English Dictionary.</hi></note>
+
+<note id="n3">[3] John Falconar (d. <hi rend="italics">ca.</hi> 1729) was a London merchant with whom Carter dealt. In 1728, Falconar and Henry Darnell formed an association of 29 London tobacco merchants to deal with the French tobacco purchasing agent as a group in order to keep the price as high as possible. The association lasted only lasted a year or two before dissolving because some of its members were dealing directly with the French agent and selling below the agreed-upon price. (See Carter to William Dawkins, and Carter to Falconar's executors, both 1730 April 16, for Falconar's death date. <cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> Newport News, VA: Mariners' Museum, 1953. p. 129</bibl></cit>)</note>
+
+<note id="n4">[4] Captain James Hopkins commanded the <hi rend="italics">Mary</hi> in 1727-1728. He was then working for London merchant Robert Cary. He is mentioned in Carter's diary. (<cit><bibl>Adm. 68/194, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n5">[5] The <hi rend="italics">Marlborough</hi> was a vessel of 100 tons and 14 men, commanded by George Buckeridge (Buckbridge). In a letter to London merchant John Falconar 1727 July 24, Carter refers to this vessel as "yor. Marlborrough." (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n6">[6] Captain James Bradby commanded the <hi rend="italics">Micajah and Philip. </hi>(<cit><bibl>Survey report 6801 summarizing Adm. 68/195, ff. 74v, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n7">[7] Captain Peter Wills commanded the  <hi rend="italics">Booth</hi> in 1723-1724, and the <hi rend="italics">Amity,</hi> a vessel of 500 tons and 21 men,  in 1727-1729. He is mentioned in Carter's diary for June 1723.  (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194, and Survey Report 6801 summarizing Adm. 68/195,Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n8">[8]  "The lowest grade [of tobacco] was known as lugs as early as 1686. . . ." (Philip A. Bruce. <title>Economic History of Virginia in the Seventeenth Century: An Inquiry into the Material Condition of the People, Based on Original and Contemporaneous Records.</title> [New York: MacMillan and Co., 1896]. p. 422 online at "Classics of American Colonial History." http://www.dinsdoc.com/bruce-1-1.htm) </note>
+  
+<note id="n9">[9] Carter and Thomas Wise had "traded with each other in tobacco and bills of exchange between 1707 and 1717," but Wise "neglected his duty in returning those bills that were protested." Carter sued Wise in England to recover his money, and he won &pound;180. (<cit><bibl>Survey Report 10147 describing C24/1398 part 1, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia;</bibl></cit> and letter of 1723 August 19, Carter to Micajah Perry</note>
+
+<note id="n10">[10] Captain Loxom commanded  a vessel named the <hi rend="italics"> Loyalty</hi>in 1729-1730. (Survey Report 9727, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. See Carter's letters to John Pemberton 1730 April 15 and 1731 August 4.)</note>
+
+<note id="n11">[11] The <hi rend="italics">Rebecca </hi> was probably a London Ship; she was of 300 tons, had a crew of 11, and was commanded by Samuel Malbon in 1731. (<cit><bibl>Adm. 65/195, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

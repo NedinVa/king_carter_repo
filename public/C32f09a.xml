@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C32f09a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to John King, June 9, 1732</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 7 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C32f09a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2006</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to John King, June 9, 1732</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1732-06-09</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C32f09aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1732-06-09"></date>
+<idno rend="suppress">C32f09a.xml</idno>
+<title>Letter from Robert Carter to John King, June 9, 1732</title>
+</bibl>
+</head>
+<p>Robert Carter writes briefly to Bristol mechant John King, June 9, 1732, to report the arrival of a letter from him and complain about the "wretched" price his tobacco realized. The shortage of tobacco in the colony means some ships will not find complete cargoes and, he hopes, will raise the price.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to John King, June 9, 1732</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1732-06-09">June 9 1732</date><lb/>
+John King Esqr.<lb/>
+</dateline>
+<salute>Sr&mdash;&mdash;</salute>
+
+</opener>
+
+
+
+<p><abbr expan="Captain">Capt.</abbr> Sweet <sic corr="has">hath</sic> been arrived for some time as he went <lb/>
+Sent his boat on shore to me with your Letter and invoice, <abbr expan="promised">promis'd</abbr> <lb/>
+to let me have the Goods, but I see none of them yet, the price you tell <lb/>
+me you had Sold 3 hogsheads of my tobacco for is a wretched one, it was good <lb/>
+Clean <abbr expan="Tobacco">Tobo.</abbr> and well done, such <sic corr="prices">prizes</sic> will make us think of no <lb/>
+more troubling your Market <sic corr="until">till</sic> better times, which we are now in <lb/>
+hopes of from the Scarceness the Shipping find of <abbr expan="Tobacco">Tobo.</abbr> several of <lb/>
+them <abbr expan="it is">tis</abbr> reported will not get near <sic corr="Loaded,">Loaden,</sic> you say you intend to <lb/>
+leave off the Trade, I am sure we <abbr expan="can not">can't</abbr> get <sic corr="clothing">cloathing</sic> for our <sic corr="familyies">familys </sic><lb/>
+by it. I am 
+</p>
+
+<closer>Your most humble Servant</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

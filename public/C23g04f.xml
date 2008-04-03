@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C23g04f">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Micajah Perry, July 4 and 26, 1723</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 7 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C23g04f.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2002</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Micajah Perry, July 4and 26, 1723</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>4 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1723 July 4 -1724 June 11, Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1723-07-04</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C23g04fT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>4 p.</extent>
+<date value="1723-07-04"></date>
+<idno rend="suppress">C23g04f.xml</idno>
+<title>Letter from Robert Carter to Micajah Perry, July 4and 26, 1723</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant Micajah Perry, July 4, 1723, concerning the proprietors' affairs, noting that Perry's account current does not record payments of the rent due to them. He urges Perry to be prompt in payment so that there will be no damage to his reputation. Although he has not had any letters from either William Cage, the trustee, or from Lord Fairfax, to state their reaction to his handling of their affairs in the colony, he will continue to write them yearly. In his concluding paragraph, he informs Perry of his difficulty in obtaining money from Edmund Jenings that is due the proprietors, noting Jenings probably has more debts than resources. He was lucky to obtain some money from Jenings through a mortgage to Mann Page and John Wormeley,  but expects that he will have to file a lawsuit.</p>
+
+<p>In a lengthy post script on July 26, 1723, Carter discusses the Jenings' affair further, and then turns the law suit he is carrying on on the proprietors' behalf regarding their right to certain items set out in the grant itself. The case is before the colony's General Court and his case would be strengthened by specific instructions from Lord Fairfax and Colonel Cage, especially if they would obtain opinions from both the English Attorney General and Solicitor General. He also expects a suit concerning the Brent Town grant. He closes by describing grants made in an area he believes is within the proprietary by then governor Alexander Spotswood that he called to the proprietors' attention during his former period as agent to which they have never responded.</p>
+
+<hi rend="italics">This letter was revised 3 April 2002 to add the post script.</hi>
+
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="MP2">Micajah Perry,</note> July 4, 1723</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Rappahannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1723-07-04">July the 4th. <hi rend="underline">1723</hi></date><lb/>
+Mr Micaja Perry&mdash;&mdash;<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to be writ<lb/>
+</dateline>
+
+
+</opener>
+
+<p>In the Sketch of an Accot. Currt. you sent <lb/>me bearing date the 31st. of <abbr expan="January">Janry.</abbr> last you do not charge <lb/>me with any Money paid to the proprietors, In <abbr expan="severall">Sevll.</abbr> of your <lb/>Lettrs: <del>[illegible] </del><add place="supralinear">you say</add> their Money was ready for them, I beg of <lb/>you to be punctual with them that they may have no <lb/>just reason to Complain of my Delay</p>
+
+	<p>I greatly admire at the Silence of <note n="TF">my Lord</note> <lb/>and <note n="WC"><abbr expan="Colonel">Colln.</abbr> Cage</note> I cannot get one line from either of them <lb/>to let me know whether they are Satisfied or <sic corr="dissatisfied">dissatisfid</sic> <lb/><abbr expan="although">altho</abbr>
+ they have <abbr expan="severall">Sevll.</abbr> Lettrs. of mine before them however <lb/>I shall not decline writing to them every Year&mdash;</p>
+
+<pb n="2"/><lb/><lb/>
+	<p>And I desire you to be as punctual in paying them <lb/>taking proper discharges from time to time, that I may be <sic corr="secured">securd</sic> <lb/>from any after  claps, Tis a very untoward bargain however <lb/>I must Support it as well as I can and must do it without <lb/>giving <add place="supralinear">occasion for</add> a Slurr upon my Reputation, The 20th of <abbr expan="December">Decembr.</abbr>
+ <lb/>last I writ to you and Enclosed another to my Son which I <lb/>desired you if he was to come away to Open and to persue <lb/>those parts of it that related to the proprietors Affairs tis my <lb/>earnest request to you to let me have an answer to them <lb/>Lettrs:</p>
+
+<p>I was very lucky to gett that money of <note n="EJ"><abbr expan="Colonel">Colln.</abbr> Jennings</note> <lb/><del>from </del>by a Mortage to <note n="MP1"><abbr expan="Colonel">Colln.</abbr> Page</note> and <note target="n1">Mr. Wormley, </note>there <lb/>is two hundred more as <abbr expan="Colonel">Colln.</abbr> Jennings himself reckons <lb/>is due to them which I profess  I <sic corr="don't">dont</sic> know how to get a penny <lb/>of, tis <abbr expan="reckoned">reckon'd</abbr> he is more Engaged <sic corr="than">then</sic> his Estate is worth <lb/>I have promises enough from him but they come to nothing <lb/>he proposes to Mortgage lands and Slaves whether he will <lb/>be able to meet with anybody to advance money upon such <lb/>a Security is a great question, I will take all the <sic corr="ways">wayes</sic> <lb/>that possibly I can for dunning I am sure he does not <lb/>want the last remedy I am sure must be the Law, which <lb/>I fear will not be safe much longer to decline I am <abbr expan="Sir">Sr</abbr></p>
+
+<closer>Your most humble Servant<seg type="postscript">
+
+<pb n="3"/><lb/><lb/>
+A clause to be added to a Lettr <add place="supralinear">of Mr. Perrys</add> Nine Leaves back concerning <lb/>the <abbr expan="proprietors">Proprs.</abbr> Affair.<lb/><lb/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I should have gon a little further with the last clause <lb/>relateing to <abbr expan="Colonel">Collo.</abbr> <sic corr="Jenings's">Jennings's</sic> Money, the &pound;600 that was paid to <lb/>the <abbr expan="proprietors">Proprs.</abbr> by Bills drawn upon Your self You know Very <lb/>Well &amp; how long the <add place="supralinear">Protested bills</add> were before they came to my hands, I <lb/>did not know what part to act, about the &pound;60 Damage for the <lb/>Protests It was Included in <sic corr="Jenings's">Jennings's</sic> Bills, but I <sic corr="ordered">order'd</sic> <lb/>my Son to take receipt as Money upon my own accot. this Trans=<lb/>=action Young Jennings was privy to, <abbr expan="Colonel">Collo.</abbr>
+ Cage gave such a <lb/><abbr expan="receipt">Recpt</abbr>, this <sic corr="story">Storey,</sic> the Young man Acquaints his Father <lb/>I deny to <del>pay to</del> <add place="supralinear">Allow</add> them, <add place="supralinear">the Money</add> <sic corr="Jenings">Jennings</sic> boggles with me, about the <lb/>Interest of Some money he <sic corr="owes">ows</sic> me, &amp; I am <sic corr="afraid">affraid,</sic> will make <lb/>this a pretence to Stop So much from me, I Expect <abbr expan="Colonel">Collo.</abbr> <lb/>Cage will give me <abbr expan="credit">Credt:</abbr> for this &pound;60 to You, however <lb/>I think Its their due, &amp; if I can worst <sic corr="Jenings">Jennings</sic> <abbr expan="about">abt.</abbr> It <lb/>I propose to Accot. to the <abbr expan="proprietors">proprietrs.</abbr> for it hereafter,&mdash;<lb/><lb/>
+
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am already <sic corr="engaged">Engagd</sic> for them in a Law Suit <abbr expan="against">agst.</abbr> the Crown <lb/>Upon the Meaning of their Grant wherein is given to them, <lb/>(all &amp; all Manner of Deodands, Goods of Felons &amp; Fugitives, <lb/>Treasure Trove Waifs, Strays, fines Forfitures, Escheats. advowsons, <lb/>Royaltys &amp; Hereditaments whatsoever.) <abbr expan="Colonel">Collo.</abbr> <sic corr="Jenings">Jennings</sic> all his <lb/>time, let the <abbr expan="governor">Governr.</abbr> have the Deodands, the Officers of the Revenue <lb/>have <abbr expan="received">Recd</abbr> the <sic corr="felons">Fellons</sic> Goods. the Fines &amp; the Forfietures Since I <lb/><add resp="editor">[received ?]</add> their power, I Made a Claim of their right before the <lb/>
+
+<pb n="4"/><lb/><lb/>
+<abbr expan="governor">Govr.</abbr> &amp; Council, <note target="n2"><abbr expan="Colonel">Collo.</abbr> Spotswood</note> in <sic corr="Council">counsel</sic> <sic corr="oordered">orderd</sic> a Case <lb/>to be made by the <sic corr="Attorney General">Atturney Genl.</sic> which now lyes to be Argued <lb/>before our next General Court, I have feed the best <abbr expan="lawyers">Lawyrs.</abbr> we <lb/>have in the Cause, &amp; have <sic corr="written">writ</sic> to <abbr expan="Colonel">Collo.</abbr> Cage largely <abbr expan="about">abot.</abbr> It <lb/>desireing he would Support me with all his Strength, &amp; <lb/>that he would Send me the Opinion of some of the ablest Law=<lb/>=yers Upon the Interpretation of the Grant, If I could have <lb/>the Attorney General &amp; <abbr expan="Solicitor">Solicitr.</abbr> Generals opinions they would be <lb/>of the most Service. I believe You will have frequent <lb/>Opportunitys of Discoursing <abbr expan="Colonel">Collo.</abbr> Cage, if not of my <note n="TF"><abbr expan="Lord">Ld.</abbr></note> <lb/>About this Affair, It will have no great Effect upon me <lb/>during my time, but It may come to be a Considerable <lb/>advantage to those who Will Enjoy this Estate hereafter. <lb/><sic corr="I'm">Im</sic> forced to give large Fees, for What I know it may <lb/>cost me 20 or 30 pound before I have done with It, &amp; were <lb/>It my own case Should the Judgement go <abbr expan="against">agst.</abbr> me <lb/>here I Should Insist upon an Appeal, I would desire <lb/>You at least so <sic corr="far">farr</sic> to concern Your Self in this <lb/>affair, to get for me their full <abbr expan="instructions about ">Instrucs. abt.</abbr>  it as soon <lb/>as may be,<lb/><lb/>
+
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There is another Law Suit I Expect to be thrown <lb/>Into about the <note n="BT">Brenton Grant.</note> these ways will dip me deep <lb/>In the above <sic corr="mentioned">Mencond.</sic> Sixty pound, &amp; all in defens of their <lb/>Estate.<lb/><lb/>
+
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There is another Very considerable thing wch. <lb/>I think they Ought to look into, <abbr expan="Colonel">Collo.</abbr> Spotswood in <lb/>his time <sic corr="passed">passd</sic> many Grants in a large Tract of Land <lb/>In the Fork of Rappahannock River which to me seems properly <lb/>to be within the <abbr expan="proprietors">Proprs.</abbr> Grant, this Matter I laid before the <lb/><abbr expan="proprietors">Proprs.</abbr> when I was their Agent before, in <note target="n3"><abbr expan="Colonel">Collo.</abbr> Knotts </note><lb/>time &amp; gaind an <sic corr="order">Ordr.</sic> of <abbr expan="governor">Govr.</abbr> and Council to put a Stop to <lb/>all Grants in that Tract of Land till the  <del>illegible</del> <add place="supralinear">Queens </add>pleasure <lb/>was known, <add place="supralinear">Collo. Spotswood however has continued granting away this land all his time</add> I never had one Line from the <abbr expan="proprietors">Proprs.</abbr> about <lb/>this Matter, If they donot think <sic corr="fit">fitt</sic> to bestirr themselves <lb/>In the Support of their own Estate, I Shall have little <lb/>reason to give my Self any trouble, <lb/>In throwing myself Into the Frowns of Government, As their Trustee I have <lb/>done my duty in hanging out lights for them I am <lb/><lb/>Sir &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. most humble. Servt.
+
+
+
+</seg></closer>
+
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1723 July 4 -1724 June 11, Carter Family Papers, Virginia Historical Society, Richmond. There is a 19th-century transcript in the Minor Papers in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, VA.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. His usual return address, the county, and state have been added for clarity to this unheaded draft.</note><lb/>
+
+<note id="n1">[1] John Wormeley (1689-1727), a younger son of Ralph Wormeley (d.
+1701) for whom Carter had been a trustee in John's youth. When his older brother, Ralph died in 1714, John inherited all of their father's considerable estate in Middlesex and York counties.</note>
+
+<note id="n2">[2] Alexander Spotswood (1646-1740) had been the governor from 1710 to 1722.</note>
+
+<note id="n3">[3] Edward Nott (1652-1706) had been the governor from 1705 to 1706, dying in office.</note>
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

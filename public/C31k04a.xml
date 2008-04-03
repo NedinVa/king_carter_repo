@@ -1,0 +1,421 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C31j04a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Indenture among Robert Carter, Robert Carter, Junior, Charles  Carter, John Carter, and Judith Page, November 4, 1731</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 21 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C31j04a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2006</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Indenture among Robert Carter, Robert Carter, Junior, Charles  Carter, John Carter, and Judith Page, November 4, 1731</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>7 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Carter of ["Shirley"] v. Carter [of "Nomini"], 1798, District Chancery Court Records, office of the Clerk of the Circuit Court, City of Fredericksburg, Fredericksburg, Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1731-11-04</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C31j04aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent> p.</extent>
+<date value="1731-11-04"></date>
+<idno rend="suppress">C31j04a.xml</idno>
+<title>Indenture among Robert Carter, Robert Carter, Junior, Charles  Carter, John Carter, and Judith Page, November 4, 1731</title>
+</bibl>
+</head>
+<p>Indenture among Robert Carter, Robert Carter, Junior, Charles  Carter, John Carter (as executor of and guardian for Mann Page''s children), and Judith Page, November 4, 1731 summarizing the financial arranngements among the partners (and successors) in the Frying Pan copper mine, and establishing arrangements for the division of the lands into 4 parts and payment of costs and disbursement of assets of the company.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Indenture among Robert Carter, Robert Carter, Junior, Charles  Carter, John Carter, and Judith Page, November 4, 1731</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Rappahannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1731-11-04">the fourth day of November  . . .  MDCCXXI <corr resp="editor">[1731]</corr></date><lb/>
+<lb/>
+</dateline>
+
+
+</opener>
+
+
+
+<p><hi rend="bold">This <note target="n1">Indenture</note> <note target="n2">Quinquepartite</note></hi> made the fourth day of November <lb/>
+in the fifth year of the reign of our Sovereign Lord George the second by the <lb/>
+grace of God of Great Britain France and Ireland King defender of the faith &amp;c,<lb/>
+Annoq Domini MDCCXXI. Between Robert Carter of Corotoman in the County <lb/>
+of Lancaster <abbr expan="esquire">esq.</abbr> of the first part <note n="RC2">Robert Carter the younger </note>of Nominii in the County <lb/>
+of Westmoreland of the second part, <note n="CC!">Charles Carter</note> of <sic corr="Urbanna">Urbanni</sic> in the County of Middlesex, <lb/>
+Gent. of the third part, <note n="JC1">John Carter</note> of Shirley in the County of Charles City <abbr expan="esquire">esq.</abbr> <lb/>
+As Guardian and for and on behalf of all the Sons of <note n="MP1">Mann Page</note> late of Rosewell <lb/>
+in the County of Gloucester esq deceased of the fourth part, and <note n="JCP">Judith Page</note> widow <lb/>
+and relict of the said Mann Page of the fifth part. <hi rend="bold">WHEREAS</hi> certain Articles <lb/>
+of Agreement indented bearing date the seventeenth day of March in the <lb/>
+year of our Lord MDCCXXVIII were made and concluded between the said Robert <lb/>
+Carter the elder, Mann Page; Robert Carter the younger, &amp; Charles Carter whereby <lb/>
+reciting <hi rend="bold">That Whereas</hi> there was a certain Tract or parcel of Land situate <lb/>
+lying and being in the County of Stafford near and adjoining to a Run called <lb/>
+frying pan run containing seven hundred and sixty two Acres granted to the said <lb/>
+Robert Carter the younger and the said Charles Carter by a proprietors Deed bearing <lb/>
+date the fourteenth day of October in the year MDCCXXIII upon which Tract of Land <lb/>
+there was supposed to be a mine of Copper or other rich <sic corr="Ore">Oar</sic> and that several Warrants <lb/>
+had issued in the name of the said Robert the younger and the said Charles for the <lb/>
+surveying and taking up sundry other Tracts of Land for the carrying on improving <lb/>
+or working the Mine or Mines that should be found upon the said Lands. It was <lb/>
+agreed that all and every the said Tract and Tracts of Land should be held &amp; enjoyed <lb/>
+equally between the said parties to the said Articles and that equal proportions or parts <lb/>
+of the same by good and <sic corr="Authentic">Authentick</sic> Instruments in the Law should be made over by <lb/>
+the said Robert Carter the younger and the said Charles unto the said Robert Carter<lb/>
+the elder and the said Mann Page their Heirs and Assigns forever as soon as Deeds<lb/>
+should be obtained from the proprietors Office for the said respective Lands then <lb/>
+to be conveyed and taken up and that all and every the said Lands as well the <lb/>
+Tract then taken up as those to be taken up should be settled in fee simple upon<lb/>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the 
+<pb n="2"/><lb/><lb/>
+the parties to the said Articles to be held in Common and not in <sic corr="Joint">Joynt</sic> Tenancy so as no <lb/>
+right should be claimed by survivorship and by the said Articles it was further agreed<lb/>
+that whatever charge the said Charles had been or should be at in surveying and <lb/>
+taking up the said Lands and whatsoever should be due from the said Charles and the <lb/>
+said Robert Carter the younger for the composition of the said Lands &amp; othe<corr resp="editor">[r]</corr> incident <lb/>
+charges and fees should be equally borne by the said Robert the elder the said Mann <lb/>
+Page and the said Robert the younger And that all the Charges Costs and expences <lb/>
+for the carrying on and working the said Mine for providing Servants and Slaves <lb/>
+finding Tools and Utensils necessary Horses, Carriages building convenient <lb/>
+Houses, c<corr resp="editor">[r]</corr>eating plantations, clearing roads, finding provision and other incident <lb/>
+charges that should be found necessary should be equally borne and defrayed by <lb/>
+the said Robert the elder, the said Mann and the said Robert the younger from the <lb/>
+beginning of the said Work until it should be so <sic corr="far">farr</sic> improved that the said Charles <lb/>
+should be enabled out of the profits thereof to reimburse the said other parties <sic corr="until">till</sic> equal <lb/>
+share of the charge and expence they should have been at and that then and not <lb/>
+before the said Charles should repay his part of the expences unto the said other <lb/>
+parties <hi rend="bold">And</hi> it was further agreed that all bargains contracts and agreements <lb/>
+relating to the work and for improving and carrying on the said Mine should <lb/>
+be managed in concert and with the consent of all the said parties or the major <lb/>
+part of them and in case of an equal division the difference should be determined by <lb/>
+<sic corr="Lot">Lott</sic> or Ballot and that neither of the said parties should lease or sell out his part <lb/>
+of the said Estate to any stranger for the Term of three years next to come without <lb/>
+the consent and approbation of the other parties nor then if the parties themselves <lb/>
+would give as much as any other bidds and in case of the death of any of the said <lb/>
+parties the said Work should be carryed on and pursued by the survivors in manner<lb/>
+aforesaid until the Heir or devisee of the deceased party should enter into contract to <lb/>
+be conformable to the aforesaid Articles or to such other as the said parties should <lb/>
+find it convenient thereafter to enter into <hi rend="bold">And lastly</hi> it was agreed that all and <lb/>
+every of the above Articles and Agreements should be in full force and binding to the <lb/>
+said parties till such other Covenants and Agreements should be entered into by <lb/>
+the said parties as should be requisite and necessary for the <sic corr="completing">compleating</sic> and <lb/>
+perfecting the said Copper Work as by the said Articles more fully and at large<lb/>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;may
+
+<pb n="3"/><lb/><lb/>
+may appear <hi rend="bold">And whereas</hi> certain other Articles were drawn up and signed by the <lb/>
+said Robert Carter the elder and the said Mann Page the twenty fifth day of February <lb/>
+in the year of our Lord MDCCXXIX to the effect following (vizt.) That all the Lands then <lb/>
+lately surveyed by <note target="n3">John Warner</note> for the use of the <note target="n4">said Company</note> as well that which <lb/>
+<sic corr="adjoining">adjoyning</sic> to the frying pan Tract as that at <note target="n5">Occoquan</note> Landing or else where should be <lb/>
+granted to the said Robert Carter <abbr expan="junior">junr.</abbr> And that his Bond should be taken <lb/>
+recovering the same to the said Company as fee simple as Council learned in the Law <lb/>
+should advise for the use and benefit of the said Company which Land so surveyed do <lb/>
+contain as follows (Vizt.) A Tract <sic corr="adjoining">adjoyning</sic> to Frying pan containing eight thousand <lb/>
+one hundred and forty one Acres, <note target="n6">Piney Ridge</note> also adjoyning to Frying pan containing <lb/>
+seven thousand two hundred and sixty nine Acres a <note target="n9">Tract</note> about halfway between the <lb/>
+Mine and the Landing containing eight hundred and seventy five Acres and one <lb/>
+Tract at the Landing containing three thousand five hundred Acres amounting <lb/>
+in the whole to nineteen thousand seven hundred and eighty five Acres <hi rend="bold">And</hi> it was <lb/>
+further agreed that one hundred Barrels of Corn more than what they there had<lb/>
+would be sufficient to bring the year about to feed the People, Horses &amp; Oxen &amp;&mdash;<lb/>
+<hi rend="bold">And</hi> the said Mann Page agreed to find fifty barrels of the said Corn and ten <sic corr="Hogs">Hoggs</sic> <lb/>
+salted up and that a post should be settled between the House of the said Robert <lb/>
+Carter and Frying pan (as follows) from the said Robert Carter to his <note target="n7"><sic corr="Forest">Forrest</sic> <lb/>
+Quarter</note> from thence next Day to <note target="n8">Nanzatico:</note> the next Day to <note n="PQ1">Poplar Quarter</note> or<lb/>
+the <note target="n9">Lodge</note> and the next day to Frying pan and that the said Robert Carter should <lb/>
+keep a Horse for that purpose at each of his Quarters And the said Mann Page one <lb/>
+at his And that a purchase should be made of two or three Negro Carpenters and <lb/>
+Coopers out of Mr. Pages Estate when these Negroes should be sold and in the mean time <lb/>
+shoh <add resp="editor"> [<hi rend="italics">sic</hi>]</add> buildings should be <sic corr="carried">carryed</sic> on as the said Robert Carter should think <lb/>
+proper either at the Mine the Halfway Tract or at the Landing and that <note target="n10">Terence <lb/>
+Ryleys</note> Land should be bought and it was also agreed that the said Robert Carter <lb/>
+should pay the several persons employed in the said Work their <sic corr="Salaries">Sallarys</sic> and defray <lb/>
+all the contingent charges which had or should accrue and be reimbursed by <lb/>
+the rest of the Company according to their respective proportions pursuant <lb/>
+to the Articles of Agreement first above mentioned as by the said Article <lb/>
+signed by the said Robert Carter and Mann Page relation being thereunto <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;had 
+
+<pb n="4"/><lb/><lb/>
+had among other things more fully and at large may appear <hi rend="bold">And whereas</hi> <lb/>
+pursuant to the said last mentioned Articles the several Tracts of Land therein <lb/>
+mentioned amounting in the whole to nineteen thousand seven hundred and <lb/>
+eighty five Acres by several grants of the proprietors of the northern neck bearing <lb/>
+date the twenty seventh day of February, the twenty eighth day of February the <lb/>
+first day of March and the second day of March in the year of our Lord MDCC <lb/>
+XXIX were granted to the said Robert Carter the younger in fee simple as by the <lb/>
+said several Grants relation being thereunto had may <add resp="editor"> [<hi rend="italics">sic</hi>]</add> fully and at large appear <lb/>
+<hi rend="bold">And whereas</hi> also two hundred and seventeen Acres of Land the Land in the <lb/>
+said Articles mentioned to be the Land of Terence Ryley was found to <note target="n11">Escheat</note> to <lb/>
+the said Proprietors and by their Grant bearing date the sixteenth day of May in <lb/>
+the year of our Lord MDCCXXI was granted to the said Robert Carter te younger <lb/>
+And the said Robert Carter the younger hath likewise purchased for the use of the said <lb/>
+Company of one <note target="n12">William <sic corr="Berkeley">Berkley</sic></note> four hundred and thirty six Acres of Land which <lb/>
+the said William conveyed to the said Robert in fee by Deeds of lease and Release bearing <lb/>
+date the eleventh and twelfth days of November in the year of our Lrd MDCCXXIX<lb/>
+which are recorded in the Stafford County Court <hi rend="bold">And whereas</hi> the said Mann Page by <lb/>
+a certain Codicil to his last Will and Testament bearing date the twenty fourth day of <lb/>
+January MDCCXXX did devise his interest in the said Adventure equally between <lb/>
+his wife and all his Sons as by the said Codicil at large may appear which the said <lb/>
+Judith hath renounced <hi rend="bold">Now this Indenture witnesseth</hi> And is hereby declared <lb/>
+and agreed between all the said parties to these presents that the said Robert Carter <lb/>
+the younger and the said Charles Carter and stand seized and of and in the said Tract <lb/>
+or parcel of Land containing seven hundred and sixty two Acres called Frying pan <lb/>
+to them granted as is above mentioned and that they and their Heirs shall hold the <lb/>
+same upon the several Tracts hereafter mentioned (that is to say) as to one fourth <lb/>
+part thereof in Trust for the said Robert Carter the elder his Heirs and Assigns forever<lb/>
+and as to one other fourth part thereof in Trust for the said Judith Page and all the sons <lb/>
+of the said Mann Page <abbr expan="esquire">esqr</abbr> deceased according to the several Estates and Interests to the sons <lb/>
+of the said Mann Page given or intended to be given by his Codicil aforesaid &amp; According <lb/>
+to the Estate and Interest which by Law is vested in the said Judith Page And that <lb/>
+the said Robert Carter the elder is and stands seized of all the residue of the Lands <lb/>
+before mentioned so as aforesaid vested in him and that he and his heirs shall and <lb/>
+
+<pb n="5"/><lb/><lb/>
+will hold the same upon the several Trusts hereafter mentioned (that is to say) as to one fourth <lb/>
+part thereof in Trust for the said Robert Carter the elder his Heirs and Assigns forever &amp; <lb/>
+as to one other fourth part thereof in trust for the said Charles Carter his Heirs &amp;  assigns <lb/>
+forever And as to one other fourth part thereof in Trust for the said Judith Page and all <lb/>
+the Sons of the said Mann Page <abbr expan="esquire">esq</abbr> deceased according to the several Estates &amp;  interests <lb/>
+to the sons of the said Mann Page given or intended to be given by his Codicil aforesaid <lb/>
+and according to the Estate and Interest which by Law is vested in the said Judith (Page <lb/>
+<hi rend="bold">And</hi> it is hereby further declared and agreed that all the Lands before mentioned with <lb/>
+their and every of their Appurtenances shall be held occupied and enjoyed by the said <lb/>
+Robert Carter the elder Robert Carter the younger Charles Carter Judith Page and all <lb/>
+the sons of the said Mann Page <abbr expan="esquire">esq</abbr> deceased and their several and respective Heirs and Assigns <lb/>
+to the purposes in the Articles of Agreement before mentioned And that the Wives of the said <lb/>
+Robert Carter the elder and Charles Carter have no right of dower nor shall claim <lb/>
+any right of dower in any of the premises before mentioned (except in the shares and <lb/>
+proportions of their and Husbands respectively) And that no benefit of survivorship <lb/>
+upon the death of any of the parties aforesaid shall accrue to the survivor or survivors <lb/>
+of them And in case of a disappointment in bringing the said undertaking to perfection <lb/>
+<del>to</del> is also declared and agreed that whenever the said Parties their heirs or assigns <lb/>
+respectively shall think fit to give over the undertaking aforesaid that then it shall &amp;  <lb/>
+may be lawful for the said Robert Carter, Charles Carter, Robert Carter the younger the <lb/>
+said Judith Page and all the Sons of the said Mann Page esqr deceased their Heirs and <lb/>
+assigns respectively to hold their several parts and proportions of the said Lands in severally <lb/>
+and to have partition thereof made accordingly And in case of such disappointment <lb/>
+that the several Negroes and other Slaves by the said Copartners respectively furnished<lb/>
+for the carrying on the undertaking aforesaid shall remain the distinct and separate <lb/>
+property of the party who furnished the same his heirs or assigns And that all &amp;  every <corr resp="editor">[one of]</corr> <lb/>
+the Negroes and other Slaves, Utensils, Implements and other Goods and Chattels <lb/>
+which have been from time to time or shall be furnished by the said Copartners <sic corr="jointly">joyntly</sic><lb/>
+and shall be continued in the account kept of the Charges of the said Company shall <lb/>
+be divided in equal third parts between the said Robert Carter the elder Robert Carter <lb/>
+the younger and the Widow and devisees of the said Mann Page exclusive of the <lb/>
+said Charles Carter the said Charles not contributing any thing to the General expenses <lb/>
+of the said Company as by the said Articles of Agreement aforesaid doth appear.
+
+<pb n="6"/><lb/><lb/>
+<hi rend="bold">Provided</hi> nevertheless that when the said Company shall be reimbursed out <lb/>
+of the profits their expenses aforesaid or any part thereof the said Charles Carter shall be <lb/>
+intitled to such part &amp; proportion of the said Negroes, Utensils and other Goods and <lb/>
+Chattels aforesaid last mentioned as shall remain clear of the said expences. <hi rend="bold">Provided</hi> <lb/>
+always that the said Judith Page and the sons of the said Mann Page aforesaid shall<lb/>
+contribute their proportionable parts of all charges and expenses which the surviving <lb/>
+Parties aforesaid have or shall be at in the carrying on and compleating the work <lb/>
+aforesaid pursuant to the Articles of Agreement first above mentioned and in Case <lb/>
+of the nonpayment or such proportionable part of the expences aforesaid by the said <lb/>
+Devisees or some persons on their behalf their respective slaves and interest in the <lb/>
+said Adventure shall remain in the Hands of the said surviving parties as a <lb/>
+security for reimbursing them such sums and sums of money as shall be &mdash; <lb/>
+chargeable upon the share and Interest of the said Devisees <hi rend="bold">And whereas</hi> the<lb/>
+said Robert Carter the elder hath already expended and laid out considerable <lb/>
+sums of money for the carrying on the said Work whereof no satisfaction has been <lb/>
+made to the said Robert Carter for what exceeds his proportionable part of the said <lb/>
+Expenses and to prevent all future disputes and controversies that may arise <lb/>
+touching the Amount the said Robert Carter the elder, Robert Carter the younger  <lb/>
+and the said Judith Page by and with the consent and approbation of the said John <lb/>
+Carter <sic corr="testified">testifyed</sic> by his being made a party to these presents have before the sealing <lb/>
+and delivery of these presents dated and settled a particular account of all and <lb/>
+every the sum and sums of money from time to time paid and contributed towards<lb/>
+the carrying on the said Work by the several Copartners aforesaid respectively and <lb/>
+of all other sum and sums of money laid out and disbursed by the said Robert <lb/>
+Carter the elder over and above his own share and proportion of the <add place="supralinear">said</add> expenses which <lb/>
+said Amount is contained in a Book and is signed by the said Robert Carter the elder <lb/>
+Robert Carter the younger Charles Carter and John Carter And it is hereby &mdash; <lb/>
+covenanted and agreed by and between the said Robert Carter the elder, Robert <lb/>
+Carter the younger Charles Carter, Judith Page and John Carter for and in behalf <lb/>
+of the other Devisees of the said Mann Page that the Debt appearing to be due to <lb/>
+the said Robert Carter by the said amount shall be chargeable upon the several <lb/>
+Shares and Interests of the Copartners in the said Adventure respectively &amp;  the <lb/>
+same shall remain as a security to the said Robert Carter for the payment<lb/>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;thereof
+
+<pb n="7"/><lb/><lb/>
+thereof with interest And the said Robert Carter the younger for himself his <lb/>
+Heirs Executors &amp; Administrators doth covenant and agree with the said <lb/>
+Robert Carter the elder his Executors &amp; Administrators that he or they shall and will <lb/>
+well and truely pay or cause to be paid unto the said Robert Carter the elder his &mdash;<lb/>
+Executors &amp;  Administrators his proportionable share of the expenses aforesaid which are <lb/>
+chargeable upon him pursuant to the Articles of Agreement aforesaid And the said John <lb/>
+Carter as Executor of the last Will and Testament of the said Mann Page and Guardian <lb/>
+of his said Sons for and in behalf of his said Sons doth agree with the said Robert Carter <lb/>
+the elder his Heirs and Assigns that the proportionable part of the expences aforesaid <lb/>
+shall be paid out of the Estate of the said Mann Page or the Estate of the said Sons <lb/>
+as the same is or shall be chargeable respectively And the said Charles Carter for&mdash;<lb/>
+himself his Heirs Executors &amp;  Administrators doth likewise agree with the said Robert <lb/>
+Carter the elder his Executors &amp;  Administrators that such share and proportion as shall <lb/>
+be chargeable upon him pursuant to the Articles of Agreement aforesaid shall be deducted <lb/>
+out of his share of the profits of the said Adventure as the same shall arrise and accrue <lb/>
+and that neither he nor His Heirs Executors or Administrators shall be entitled to<lb/>
+receive any art of the said Profits untill the expenses aforesaid shall be fully satisfyed<lb/>
+and discharged In Witness whereof the said parties to these presents hereunto have set <lb/>
+their Hands and Seals the day and year first above written<lb/>
+<lb/>
+Sealed and delivered by the within named    }&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Robert Carter &mdash;(Ls)<lb/>
+Robert Carter the elder Robert Carter the     }&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;John Carter &mdash;(Ls)<lb/>
+younger John Carter &amp;  Charles Carter in the}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Robert Carter <abbr expan="junior">junr</abbr> (Ls)<lb/>
+presence of &mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Charles Carter &mdash;&mdash;(Ls)<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Matt Hubard<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	<abbr expan="George">Geo:</abbr> Holden<lb/>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="Augustine">Aug:</abbr> Graham<lb/>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<note n="JR">John Randolph</note><lb/>
+Sealed and delivered by the within named<lb/>
+Judith Page in the presence of&mdash;&mdash;&mdash;<lb/><lb/>
+
+<hi rend="bold">Virginia</hi> Tet:&nbsp;&nbsp;&nbsp;At a General Court held at the Capitol the 4th day of November 1731.<lb/>
+This Indenture was this day in open Court acknowledged by the within named Robert <lb/>
+Carter, Robert Carter the younger, Charles Carter and John Carter to be their Act &amp;  Deed <lb/>
+and Priscilla the wife of the said Robert the younger and Mary the wife of the said Charles <lb/>
+being first <sic corr="privately">privit<corr resp="editor">[l]</corr>y</sic> examined came into Court and severally relinquished their right of &mdash; <lb/>
+Dower in the Lands within mentioned according to the true interest and meaning of this <lb/>
+Indenture and the same was by the Court Ordered to be recorded &amp;  is recorded.<lb/>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Test Matt Kemp <abbr expan="Clerk">Cl </abbr>Gen Curt:<lb/>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A Copy from the record<lb/>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Teste JBrown <abbr expan="Clerk General Court">C.G.C.</abbr><lb/>
+
+ 
+</p>
+
+<closer><seg type="postscript"><lb/><lb/></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Carter of ["Shirley"] v. Carter [of "Nomini"], 1795, District Chancery Court Records, office of the Clerk of the Circuit Court, City of Fredericksburg, Fredericksburg, Virginia. This document was one of many filed in a lawsuit between Robert Carter descendants which, according to Louis Morton, involved "a dispute about the payment of the income and the division of the land . . ." that had originally formed part of the Frying Pan tracts. The suit last many years; the decision of the Court of Appeals is dated 1816 March 20. (<cit><bibl n="B32">Morton. <title>Robert Carter of Nomini Hall.</title></bibl></cit> p. 67, fn. 8.) </note>
+
+<note>The wrapper around this document as filed among the Chancery Court Papers for the Carter v. Carter suit bears the following text:  #	No. 1 | { Carter	} | Inter { &amp;}   Agreemet | { Carter &amp;al } | Extract No. To be filed with | the bill | Memo&mdash;when I communad wth. | R.C. in the year 1778 I am pretty | certain he had the two original Con&mdash; | tracts referred to in this last Contract | and I obtained Copies of them &mdash; when | with all other papers I then obtained | I delivered to Mr Page of Mannsfield | but they are said to be lost &mdash; |I have searched the Records but | can not now find them &mdash; tho' they | are immaterial as this Deed recites | them &amp; admits them between the par: | :ties &mdash;&mdash; | Costs of this Copy 90 lbs Tobacco. | At 1216 Per hundred. | Received payment | $4.50  JBrown.</note>
+
+<note>Bold type has been used in the transcription to represent the larger lettering of certain section headings in the document.</note>
+
+<note id="n1">[1] An indenture is a contract between two or more parties. It is so named because copies of such a contract in early times were often written at the top and the bottom of a sheet which was then cut aart in a jagged or indented manner. The copies could then be fitted together to prove autheiticity.</note>
+
+<note id="n2">[2] having five parts to the indenture</note>
+
+<note id="n3">[3] John Warner was the surveyor of King George County in 1727; he laid off the town of Falmouth in 1728. Later he worked for Lord Fairfax, and prepared an important map of his holdings. (<cit><bibl n="B4">Harrison,  <title>Landmarks of Old Prince William</title>, 626-628.</bibl></cit>)</note>
+
+<note id="n4">[4]  In 1728, Carter, his sons Robert and Charles, and his son-in-law Mann Page,  organized a company to mine for copper on a tract of some 27,000 acres that Louis Morton describes as lying "near the present boundary of Fairfax and Loudoun counties." Fairfax Harrison wrote that the tract was "on the  Horsepen of Broad." Today, there is a Frying Pan Park just east of the border of the Dulles Airport reservation, and there are other things with the name in the area. The company was not successful. (<cit><bibl n="B32">Morton. <title>Robert Robert Carter of Nomini Hall.</title> pp. 18-19;</bibl></cit> and <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> p. 342. </bibl></cit>)</note>
+
+<note id="n5">[5] The Occaquan River is a major tributary of  the Potomac River that lay in Stafford County in Carter's day. Much of the river today is known as the Bull Run, and forms the boundary between Fairfax and Prince William counties, and to the west, between Loudoun and Prince William  counties.</note>
+
+<note id="n6">[6] Among the suit papers in the Carter v. Carter suit is a  copy of a Northern Neck patent 1729 February 28,  for 7,269 acres in Stafford (later Prince William) County to Robert Carter, Junior, "at a place called the piney Ridge . . . South side of a branch of Horsepen Run. . . ." (Notes taken by editor, 1987 April 7.)</note>
+
+<note id="n7">[7] Forest Quarter was located in Westmoreland County. In Carter's 1732 inventory, Jeremiah Bryan was the  overseer in charge of 12 slave; there were 36 hogs and and 31 cattle. (<cit><bibl n="A26">Carter Papers: An Inventory. . . ."</bibl></cit>)</note>
+
+<note id="n8">[] Nansatico may be the Nanzatico Indian Path in "Westmoreland County near the King George County line. . . ." (<cit><bibl n="B29">Miller,  <title>Place-Names of the Northern Neck. . . .</title>, p. 19.</bibl></cit>)</note>
+
+<note id="n9">[9] "In 1724, Robert Carter took out patents for, among others: the Licking Run tract of 10,227 acres which lay along and east of Licking Run above Germantown and across Owl and Turkey Runs, to what was then supposed to be the western boundary of the vast Brent Town Tract. Here Carter seated the Lodge Quarter mentioned in his will."  Timothy Dargan was its overseer in 1732. (<cit><bibl>Carl F. Cannon, Jr., "Robert ("King") Carter of "Corotoman." Unpublished doctoral dissertation, Duke University, 1956, p. 274;</bibl></cit> and <cit><bibl n="A26">Carter Papers: An Inventory. . . ."</bibl></cit>)</note>
+
+<note id="n10">[10] Among the suit papers in the Carter v. Carter suit is a copy of a Northern Neck patent 1731 May 16  for 217 acres in Stafford (later Prince William) County to Robert Carter, Junior, "on the branches of Pepe's head . . .  North Side of Occoquan. . . ." It was an escheat from Terence Ryley of Stafford. Robert Carter, Junior, also had received a patent 1729 March 3 for 875 acres in Stafford adjacent to Ryley's lands.  (Notes taken by editor, 1987 April 7.)</note>
+
+<note id="n11">[11] An escheat is the reversion of land to the lord of the manor, or in this case, to the proprietors of the Northern Neck, because of the death without heirs of the holder of the lands. Anyone wishing to patent escheated lands had to pay a fee to Carter as the agent of the proprietors.</note>
+
+<note id="n12">[12] Among the suit papers in the Carter v. Carter suit is a copy of a letter 1778 January 26,  from Robert Carter of Nomini Hall to Mann  Page of Mannsfield proposing a division of a number of tracts of land including the escheat of 346 acres of land from William Berkeley. (Notes taken by editor, 1987 April 7.)</note>
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

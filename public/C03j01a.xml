@@ -1,0 +1,165 @@
+
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2  SYSTEM  'teixlite.dtd' [
+<!NOTATION jpg  SYSTEM  "jpeg">
+<!ENTITY filename  SYSTEM  "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM  "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM  "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM  "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM  "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM  "ISOtech.pen"> %ISOtech; ]>
+
+<TEI.2 id="C03j01a">
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to John Goodwin and Jonathan Mathews, 1703 October 1  </title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr., and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 5 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">Modeng enter file ID</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/modeng.browse.html</p>
+         </availability>
+     <date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to John Goodwin and Jonathan Mathews, October 1, 1703 </title>
+ 
+     <author>Robert Carter</author></titleStmt>
+
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date> 1703-10-01</date>
+   <idno type="callNo"> Source copy consulted: Christ Church Parish, Lancaster County,
+Processioners' Returns, 1711-1783,and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond, 158. Extract printed William and Mary Quarterly, 2nd ser., 17(1909), 257.
+</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in establishing
+analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH">
+     <bibl>
+     <title>Library of Congress Subject Headings</title>
+     </bibl>
+     </taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation>
+     <date>1703-10-01</date>
+     </creation>
+     <langUsage>
+     <language id="eng"></language>
+     </langUsage>
+     <textClass>
+     <keywords>
+     <term>non-fiction</term>
+   <term>prose</term>
+     </keywords>
+     <keywords scheme="LCSH">
+     <term type="Field650">LCSH</term>
+     </keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C03j01aT">
+
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 pp.</extent>
+<date value="1703-10-01">October 1, 1703</date>
+<idno rend="suppress">C03j01a</idno>
+<title>Letter from Robert Carter to John Goodwin and Jonathan Mathews, October 1, 1703</title>
+</bibl>
+</head>
+<p>Robert Carter writes Lndon merchants John Goodwin and Jonathan Mathews that he has shipped 12 hogsheads of tobacco belonging to the estate of Ralph Wormeley, and that John Lomax, now the husband of Wormeley's daughter Elizabeth, has requested a portion of his wife's bequest from her father for which Carter has given him a bill of exchange drawn on Goodwin and Mathews. </p>
+</div1>                 
+</front>
+
+
+
+<body>
+
+<div1 type="letter" n="1701-10-01">
+
+<head>Letter from Robert Carter to <note n="JG">John Goodwin</note> and <note n="JM">Jonathan Mathews</note>, October 1, 1703</head>
+
+<opener>
+
+<dateline>
+<pb n="1"/>
+Rappa[hannock, Lancaster County, Virginia]<lb/>
+
+<date value="1703-10-01">October 1, 1703</date>
+</dateline>
+                                     
+</opener>
+
+<p>My last Relating to <note n="RW">Esqr. Wormeleys</note> affairs went by <note target="n1">Bloxham</note> by whom <lb/>sent you 12 hogsheads of
+Tobaccoe belonging to that Concern, Mrs. <note n="EW">Eliza. <lb/>Wormelys</note> Husband
+Mr. <note n="JL">John Lomax</note> hath Called upon us for part of his <lb/>Wives portion
+According to the Will of her Father, I have given him <lb/>a Bill of Exchange upon you for 100&pound;
+wch. Desire you to make paymt. <lb/>of at Time and Charge it to the Accot.of that Estate The Rest
+need<lb/>=full att present is Srs.</p>
+
+<closer>Your humble servant.</closer>
+
+</div1>
+</body>
+
+<back>
+<div1 type="notes">
+<head>NOTES</head>
+
+<note><hi rend="italics">Source copy consulted: </hi>Christ Church Parish, Lancaster County, Processioners' Returns, 1711-1783, and Wormeley Estate Papers,  1701-1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond, 158. Extract printed <title>William and Mary Quarterly</title>, 2nd ser., 17(1909), 257.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note>
+
+
+
+<note id="n1">[1] Bloxham is an unidentified ship's captain.</note>
+
+</div1>
+</back>
+</text>
+
+
+</TEI.2>

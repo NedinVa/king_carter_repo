@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C23g22a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Thomas Evans, July 22, 1723</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 11 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C23g22a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2002</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Thomas Evans, July 22, 1723</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1723 July 4 -1724 June 11, Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1723-07-22</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C23g22aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1723-07-22"></date>
+<idno rend="suppress">C23g22a.xml</idno>
+<title>Letter from Robert Carter to Thomas Evans, July 22, 1723</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant Thomas Evans, July 22, 1723, to clarify his order for medicines, and to order new sword belts which he wishes Evans personally to select. He encloses a bill of lading (not present) for 8 hogsheads of tobacco. He then writes bitterly of reports in the colony that a bill near passage in the House of Commons will prevent the importation into England of stripped and lug tobacco which he attributes to the lobbying efforts of Scots and outport interests. He notes that a expected fine crop of tobacco in the colony has been severely reduced by hard rains, and states that Heaven in joining with the efforts of the lobbyists to ruin the Virginia planters who pay full duties on their imports into England.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="TE">Thomas Evans,</note> July 22, 1723</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1723-07-22">July the 22d 1<hi rend="underline">723</hi></date><lb/>
+Mr. Thos Evans&mdash;&mdash;<lb/>
+</dateline>
+
+
+</opener>
+
+<p>The above is a <sic corr="copy">Coppy</sic> of what went in the <lb/><note n="CS">Carter,</note> I had overshot myself Strangely in my Physick In<lb/>voyce, upon a narrow Scrutiny into the Medicines I already <lb/>have find I want very few of them Accordingly I have <abbr expan="crossed">crosd.</abbr> <lb/>in my Invoice those Medicines I would not have you send <lb/>me and <add place="supralinear">tht</add> you may not mistake me herein I send you a <lb/>particular Invoice for what Physick I would have sent <lb/>and no more</p>
+
+<p>I have several good swords by me but never a <lb/>belt thats fit to wear these Silken belts do but little service <lb/>I have seen Buff belts very soft and pliant and yet very <lb/>Strong, I have also seen <sic corr="tan">Tann</sic> Leather belts both <lb/>Genteel and Strong I desire you will send me one of <lb/>Each sort and be at the trouble of buying them your <lb/>self</p>
+
+<p>Herewith will be sent you a bill of Lading <lb/>for Ten hhds. of <abbr expan="tobacco">Tobbo.</abbr> on Board the <name type="ship">Sarah</name> <abbr expan="Captain">Capt.</abbr>&mdash; <lb/>Richardson 8 of them <sic corr="stemmed">Stemd</sic> and Strait laid my own <lb/>Crop, the other two Sweet <sic corr="scented">Sented</sic> leaf which will be all I <lb/>shall give you the trouble of this Year I wish your pro<lb/>ceedings in my Affairs gives me Encouragement to <sic corr="increase">Encrease</sic> <lb/>my number to you hereafter</p>
+
+<p><sic corr="We">Wee</sic> have lately <add resp="editor">[had]</add> come to <add place="supralinear">us</add> a <add place="supralinear">very</add> unnatural <lb/>unmercifull Story, and yet Packed with so much certainty <lb/>there is hardly left any room to doubt the truth of it a Scotch <lb/>Merchant from Glasgow writes to his Correspondent here <lb/>the Letter I saw and read dated the 9th of May Informing <lb/>him that the Bill in the House of Commons relating to <abbr expan="tobacco">Tobbo.</abbr> <lb/>had pass'd a Second reading and was ordered to be <sic corr="engrossed">Engross'd</sic> in <lb/>which is a clause added Prohibiting the Importation of all <lb/><sic corr="stripped">Stripd</sic> and Lug <abbr expan="tobacco">Tobbo:</abbr> to take place the 1st of June 1724 <lb/>this is to be done when our Commodity is so miserably low <lb/>already seems to be so harsh a Story I dont know what <lb/>name to call it by, This author says this clause was <sic corr="obtained">obtaind</sic> <lb/>by the Interest of the Scotch M<del>erchants</del><add place="supralinear">embers</add> with the Assistance <lb/>of the outports</p>
+
+<p>Wee have a great many Scotch among us <lb/>at this <del>very</del> Day but report says they will be able to get <lb/>few of their Ships full and will be very late</p>
+
+
+<pb n="2"/><lb/><lb/>
+<p>A month ago we had a great prospect of a Crop everybody <lb/>planted very early but many hard rains since hath spoiled <lb/>abundance of <abbr expan="tobacco">Tobbo:</abbr> and tis Generaly said there is not such <lb/>a thing as a <sic corr="piece">peice</sic> of good <abbr expan="tobacco">Tobbo:</abbr>
+ to be seen this we must <lb/>thank the mercy of Heaven for all human contrivances <lb/>seem to be Calculated for our Ruin. If the Scotch are Suffered <lb/>to carry on their frauds the <abbr expan="gentlemen">Gentm.</abbr> of the <sic corr="country">Countrey</sic> who are <lb/>the Consigners and pays the full Duty will never be able to <lb/>live, the Scotch here upon their victory Triumph prodigi<lb/>ously and talk mighty big of carrying all before them, and <lb/>to flout and despise all the attempts that can be made <lb/>against them I am <hi rend="underline">Sr </hi></p>
+
+<closer>Your very humble Servt.<seg type="postscript"></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1723 July 4 -1724 June 11, Carter Family Papers, Virginia Historical Society, Richmond. </note><lb/>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. His usual return address, the county, and colony have been added for clarity to the brief heading on the draft.</note><lb/>
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

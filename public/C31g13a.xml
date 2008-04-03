@@ -1,0 +1,249 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C31g13b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Benjamin Grayson, July 13, 1731</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 13 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C31g13b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2006</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Benjamin Grayson, July 13, 1731</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent> p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1731-07-13</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C31g13bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>3 p.</extent>
+<date value="1731-07-13"></date>
+<idno rend="suppress">C31g13b.xml</idno>
+<title>Letter from Robert Carter to Benjamin Grayson, July 13, 1731</title>
+</bibl>
+</head>
+<p>Robert Carter writes a second letter to Benjamin Grayson of Prince William County, July 13, 1731, to give him further instructions about his supervision of work at the Frying Pan mine and its workers who have left the mine and have been seen on the roads. He sets out specific instructions for pursuing them with "hue and cry" both in Virginia and Maryland, and sends copies (not present) of their indentures and other documents. He orders Grayson to take some into court if necessary.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note target="n1">Benjamin Grayson,</note> July 13, 1731</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Corotomon, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1731-07-13">13 July 1731</date><lb/>
+Mr Benja Grayson,<lb/>
+</dateline>
+
+</opener>
+
+
+
+<p>On Saturday last William Manuel brought me a great<lb/>
+many <abbr expan="Lletters">Lrs</abbr> from you, Nicholas, &amp; another signed by Honey, Haweis,<lb/>
+Brunton &amp; Cardel. They contain a great deal of unagreeable News, but <lb/>
+none so bad as that you cannot meet with any Good Ore, Giving us but poor <lb/>
+Hopes for all our Charge &amp; Trouble in our Enterprize; however we must push <lb/>
+on still. Certainly all the shows we have had must prognosticate a large <lb/>
+Vein of Good Ore somewhere, if we can but be so fortunate to find it.</p>
+
+<p>Manuel tells me below <note target="n2">Occoquon Ferry</note> he heard of four men <lb/>
+was seen upon the Main Road <sic corr="traveling">travelling</sic> downwards. I hear nothing of <lb/>
+them more. I take these to have been the Miners. He <sic corr="says">sayes</sic> They took away <lb/>
+some Shirts &amp; their best Summer <sic corr="Clothes,">Cloaths,</sic> leaving their thicker <sic corr="Clothes,">Cloaths</sic> behind <lb/>
+them. I can hardly think they are run away. If they stand but their Ground <lb/>
+I believe we shall find Law enough to bring them to better manners. &mdash;<lb/>
+you have been wanting in not forthwith pursuing them with <note target="n3">Hue &amp; Cries</note> <lb/>
+I have now sent you the Counterparts of Nicholas, Whifford, Honey &amp; Cardel <lb/>
+their Articles signed by the <note target="n4">Company,</note> which you are to deliver to <del>[illegible]</del> <lb/>
+as many of them as are at Home. You had best take Copies of them that <lb/>
+you may know at all times, when you have Occasion, what they <lb/>
+are obliged to do. Nicholas it seems thinks he is not obliged to work; <lb/>
+but, if I have any Understanding, he is very much mistaken; &amp; if so I &mdash;<lb/>
+shall convince him, if he puts me to the Necessity, of carrying him to Court.<lb/>
+They complain for want of provision; herein I send you an accot of what <lb/>
+they have had. They have plenty of Milk now, &amp; if they had nothing &mdash;<lb/>
+else to live upon, Good milk &amp; <note target="n5"><sic corr="Hominy">Homony</sic></note> &amp; milk &amp; mush might very <lb/>
+well content them in these Summer months. How many hundred families <lb/>
+in Virginia, better men than ever these Fellows will be &amp; work a great deal<lb/>
+	harder
+
+<pb n="2"/><lb/><lb/>
+harder, have no Meat at this time of year? &amp;, if they had been&mdash;<lb/>
+Good Husbands, their Provision they have had would have served <sic corr="them">thm</sic> <lb/>
+a great deal longer. As for their Unreasonable <sic corr="Holidays,">Holidayes,</sic> wch <lb/>
+they pleasd Custom for, I will never believe anyThing of it: some of <lb/>
+them told me themselves, They generally work by the <note target="n6">Great;</note> &amp; when <lb/>
+they work by the Year, if they are absent but a Day, they are <sic corr="immediately">imediately</sic>  <lb/>
+<lb/>
+cut off in their wages; And, if they are not diligent &amp; mind their <lb/>
+Business, they lose their <sic corr="Employment">Imploys.</sic></p>
+
+<p>Haweis and Brunton are our servants by Common Indent= <lb/>
+tres. They have each of them four years to serve from their arrival <lb/>
+into Virginia. I send you Copies of their Indentures <abbr expan="that">tht</abbr> you may know <lb/>
+how to treat them. You will see upon the Backside of these Indenture <lb/>
+what money we advanced to them in London, which the Time they <lb/>
+have been with us has not reimbursed yet; so that there is nothing <lb/>
+due to these two. I have had a Good Character of Honey. If he returns <lb/>
+&amp; is orderly, I would have him used kindly. I <note target="n7">admire</note> he should herd <lb/>
+with these Fellows. I would have you handle Howeis &amp; Brunton &mdash;<lb/>
+with Severity. I here send you an order to let them know <abbr expan="that">tht</abbr> I appoint <lb/>
+you their master in our Absence. I know no Difference between <sic corr="them">thm</sic> <lb/>
+&amp; other Common waged Servants. They are <sic corr="employed">imployed</sic> as Diggers in <lb/>
+the Mines they cannot plead Custom: We'll allow them no &mdash; <lb/>
+<sic corr="Holidays">Holidayes</sic> I'll assure them, &amp; I desire you will break the neck of it; <lb/>
+&amp; if they will not come into minding their Business by Fair Means, <lb/>
+I would have you <sic corr="try">trie</sic> Correction; and, if that will not do, clap them <lb/>
+int the Custody of the <sic corr="sheriff's">sherif's</sic> Hands, &amp; lay them up in Jail, that they <lb/>
+may be made to know what Circumstances they are under. Howeis <lb/>
+I understand is the Greatest Rogue in the Pack: It seems he &mdash;<lb/>
+curses &amp; damns us to your Face; I desire you would let him&mdash; <lb/>
+	know
+
+<pb n="3"/><lb/><lb/>
+know we are his masters, by giving him a Sound Drubbing for his <lb/>
+Impudence. To be sure, if either of us were there; he should not fail <lb/>
+of his Deserts.</p>
+
+<p>As for Cardell, seeing he will not come into the Terms we<lb/>
+offered him, my Order is that you forthwith have him arrested <lb/>
+and <sic corr="clapped">clapt</sic> into the Custody of the Law, <abbr expan="that">tht</abbr> we may have it tried whether <lb/>
+he will not be adjudged for a Common Servant according to his Inden= <lb/>
+ture for the Cheat <abbr expan="that">tht</abbr> he has put upon us, pretending to hire himself as <lb/>
+a Miner, when all that work with him declare <abbr expan="that">tht</abbr> he knows nothing <lb/>
+of the matter; &amp; I think in all Justice he ought to be made to serve us,<lb/>
+besides his Indented time, <add place="supralinear">for the ten pounds sterling</add> which is due to us for his Passage money<lb/>
+which I have paid, for the six pounds I advanced to him before he &mdash; <lb/>
+went away from me; &amp; my order is, if the Judgement of your County &mdash; <lb/>
+Court should not be for us, <abbr expan="that">tht</abbr> you appeal to the General Court. You <lb/>
+must <sic corr="employ">imploy</sic> one of your Lawyers; who they are <abbr expan="that">tht</abbr> practice at yor Court <lb/>
+I know not. If <note target="n8">Mr Mercer</note> comes there, he is my Lawyer, already, &amp; <lb/>
+will be the fittest I believe to prepare the Process. Cardel's Indenture <lb/>
+has a forfeiture of <add place="supralinear">one hundred</add> <del>sixty</del> Pounds; I believe the Lawyer will <del>believe</del> <add place="supralinear">think</add> it <lb/>
+the best Way to sue for the Penalty. If these Fellows should not be <lb/>
+come home before Manuel's Return, you must be very diligent and <lb/>
+dextrous to pursue them with Hue &amp; cries, not only in Virginia, <lb/>
+but through Maryland also; &amp; particularly to <name type="city">Annapolis.</name> If it <lb/>
+be possible we must overtake these Fellows. As for Cardel you had <lb/>
+best keep our Joint Indenture <del>from</del> <add place="supralinear">to</add> him, till you have got him &mdash;<lb/>
+safely laid up. This Letter is long enough. I am
+</p>
+
+<closer>Your Friend &mdash;</closer>
+
+
+</div1>
+
+</body>
+
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.  There is a 19th-century transcript of the letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia.</note>
+
+<note>The county and colony have been added for clarity to the heading on this draft. </note>
+
+<note id="n1">[1] Benjamin Grayson was, according to Fairfax Harrison, "one of the earliest of the Scots merchants to be established on Quantico, where Dumfries was to arise." He was appointed a justice of Prince William County in November 1731. (<cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> pp. 156</bibl></cit>and <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]: 256.</bibl></cit>)</note>
+
+<note id="n2">[2] Occoquan ferry was located on the river of the same name, a tgributary of the Potomac in Fairfax County in Carter's time. The ferry was owned later by George Mason.</note>
+
+<note id="n3">[3] Raising a "hue and cry" was an ancient British custom meaning to raise the alrarm to pursue a criminal</note>
+
+<note id="n4">[4]  In 1728, Carter, his sons Robert and Charles, and his son-in-law Mann Page,  organized a company to mine for copper on a tract of some 27,000 acres that Louis Morton describes as lying "near the present boundary of Fairfax and Loudoun counties." Fairfax Harrison wrote that the tract was "on the  Horsepen of Broad." Today, there is a Frying Pan Park just east of the border of the Dulles Airport reservation, and there are other things with the name in the area. The company was not successful. (<cit><bibl n="B32">Morton. <title>Robert Robert Carter of Nomini Hall.</title> pp. 18-19;</bibl></cit> and <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> p. 342. </bibl></cit>)</note>
+
+<note id="n5">[5] Hominy is made from corn by drying and treating it to remove the husk and germ. The remainder can be cooked.</note>
+
+<note id="n6">[6] Carter uses the word "admire" in a sense that is no longer current. The <hi rend="italics">Oxford English Dictionary </hi> defines what he means as "to feel or express surprise, or astonishment; to wonder, to marvel, to be surprised."</note>
+
+<note id="n7">[7] <hi rend="italics">Webster's Dictionary</hi> defines this use of "great" as by the whole or gross, as in a "a contract to build a ship by the great."</note>
+
+<note id="n8">[8] John Mercer (1704-1768) emigrated from Ireland where he had been trained as an attorney. "He settled at Marlboroughtown [in then Stafford County] in 1726 as a practicing attorney and at once allowed a facile pen to get him into trouble with the government." He eventually lost his license to practice law, and turned to the land speculation that he had begun as soon as he reached Virginia. "He married first on June 10, 1725 Catherine Mason (June 21, 1707-June 15, 1750) only child of Colonel George Mason (16??-1716) and his second wife Elizabeth Waugh, daughter of the Reverend Mr. John Waugh."(<cit><bibl n="B4">Harrison. <title>Landmarks of Old Prince William</title> p. 315;</bibl></cit>  <cit><bibl n="B24">Copeland and MacMaster. <title>The Five George Masons.</title></bibl></cit>; and "John Mercer."  http://www.rootsweb.com/~vastaffo/johnmercer.htm  11/4/03)</note>
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C31f28d">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Alderman [Micajah] Perry &amp; Company, June 28, 1731</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 7 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C31f28d.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2006</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Alderman [Micajah] Perry &amp; Company, June 28, 1731</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1731-06-28</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C31f28dT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1731-06-28"></date>
+<idno rend="suppress">C31f28d.xml</idno>
+<title>Letter from Robert Carter to Alderman [Micajah] Perry &amp; Company, June 28, 1731</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchants  Alderman [Micajah] Perry &amp; Company, June 28, 1731, to report the details of tobacco shipped on board the <hi rend="italics">Burwell.</hi></p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to Alderman <note n="MP2">[Micajah] Perry</note> &amp; Company, June 28, 1731</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1731-06-28">June 28. 1731</date><lb/>
+Alderman Perry &amp; Compa<lb/>
+</dateline>
+<salute>Sirs,</salute>
+
+</opener>
+
+
+
+<p>This is only to inclose some Bills of Lading to you for <lb/>
+the Tobaco I have shipped on <note target="n1">Captain Cant</note> (to wit) for twenty one <lb/>
+hogsheads of my own Crops, &amp; for ten hogsheads of <note n="NB">Mr Burwell's;</note> four <abbr expan="hogsheads">hhds</abbr> of the <lb/>
+NBs are gone in the <note target="n2">Micajah &amp; Philip;</note> they are my own <sic corr="Tobacco">Tobaco</sic> <lb/>
+&amp; <note n="ECB">Doctor Nicholas's</note> part of that Crop; eight <abbr expan="hogsheads">hhds</abbr> of the same <lb/>
+Crop belong to Mr Burwell's Estate &amp; are in the same Ship; there is <lb/>
+ thirteen <abbr expan="hogsheads">hhds</abbr> more of the <note n="MH">Merchant's hundred</note> Crop in that Ship also.<lb/>
+Bills of Lading are sent away in the Ship. I desire to have separate <lb/>
+Accots. According to the Bills of Lading; they are all stemmed <abbr expan="Tobacco">Tobo</abbr>
+ <lb/>
+I give you no further Trouble here. 
+</p>
+
+<closer>Gentlemen, <lb/>
+ Your most humble Servant</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1] Constantine Cant was the captain of the <hi rend="italics">Burwell.</hi> (<cit><bibl>Survey Report 6800 for Adm. 68/195, ff. 76v, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n2">[2] The Micajah &amp; Philip was a large vessel of some 400 tons carrying a crew of 27. The captain's name varies from record to record as James Bradley or James Bradby. Thomas Jones wrote to his wife, then in England, concerning this ship in 1728, "The Micajah &amp; Philip that comes to James River is as good as the best Ships that Comes hither, but Bradby the master seems to be a little conceited and prodigal." (<cit><bibl>Adm. 68/194-196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia</bibl></cit>; and <cit><bibl><title>Virginia Magazine of History and Biography.</title> 26[1918]: 172, abstracting the Jones Papers at the Library of Congress.</bibl></cit>)</note>
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

@@ -1,0 +1,204 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C28e30c">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to John Stark, May 30 and July 9, 1728</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 20 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C28e30c.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2004</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to John Stark, May 30 and July 9, 1728</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>5 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1728-05-30</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C28e30cT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>5 p.</extent>
+<date value="1728-05-30"></date>
+<idno rend="suppress">C28e30c.xml</idno>
+<title>Letter from Robert Carter to John Stark, May 30 and July 9, 1728</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Glasgow merchant John Stark, May 30, 1728, to report the arrival of goods and accounts, and to complain of certain of Stark's accounting methods. He informs Stark of several bills of exchange, and then seeks the merchant's support of the colony's effort to obtain repeal of the act prohibiting the importation of stemmed tobacco into Britain. In a lengthy post script dated July 9th, Carter encloses bill s of lading, complains of Stark's holding his tobacco too long before selling it, relates a misunderstanding over a "hamper" of claret, and orders some burgundy and champagne.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note target="n1">John Stark,</note> May 30 and July 9, 1728</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1728-05-30">May the 30th: 1728</date><lb/>
+Mr. John Stark<lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+
+
+<p>I have <abbr expan="received">rec'd</abbr> <abbr expan="Several">Sevl.</abbr> Letters from you this year, the <lb/>goods you Sent by the <note target="n2"><name type="ship">Mazareen</name></note> have bin landed long ago, I have <lb/>bin so often and so long from home, I have not <sic corr="Overhauled">Overhalld</sic> them yet <lb/><sic corr="The other">Tother</sic> day a pack of goods was put <sic corr="ashore">aShoar</sic> at my house by <note target="n3"><abbr expan="Captain">Capt:</abbr> Dun<lb/>lop</note> he Says he had them out of Gamell in the Bay, I Suppose these <lb/>goods must come from you I have not Seen the inside In <lb/><sic corr="making">makeing</sic> up yor. Accots: of Sales you take a method that to me Seems <lb/>very <sic corr="Erronious.">Irronious.</sic> First you pay down the whole duty and then you <lb/>Sell the greatest part for Export giving Credit for the drawback <lb/>upon <add place="supralinear">wch</add> you raise a Commission <del>so that here I have no illegible</del><lb/><del>to  and without any</del> <add place="supralinear">so that here I have no</add> Advantage <del>illegible</del> <add place="supralinear">of my money</add> nay a loss this <lb/>is a way of making up an Accot. I have not bin in used to either <lb/>in your Port nor any other, when they Sell their <abbr expan="Tobacco">Tobbo:</abbr> for Export <lb/>they dont trouble the Accot. with the duty. another thing I observe <lb/><corr resp="editor">[you]</corr> dont allow me the full discounts for the <abbr expan="Tobacco">Tobbo:</abbr> Sold for the home Con<lb/>sumption I cannot think but I had money in yor. hands to <lb/>Entitle me to all those <abbr expan="discounts">discots.</abbr> other men when they make up <lb/>their Accots: State the Several <sic corr="duties">dutys</sic> in different A<corr resp="editor">[rtic]</corr>les <add place="supralinear">and allow a duty of 20 <abbr expan="perCent">perCt</abbr>. wh<corr resp="editor">[ich]</corr> the <sic corr="Act">Actt</sic> <corr resp="editor">[...]</corr> gives for prompt payment,</add> I desire you <lb/>will give me Satisfaction in these things <corr resp="editor">[I have]</corr> dis<corr resp="editor">[coursed] </corr>
+
+<pb n="2"/><lb/><lb/>
+<note target="n4"><abbr expan="Captain">Capt:</abbr> Bowman</note> about them. but he cannot  <del>give</del><add place="supralinear">Answer</add> me <del>Satis</del><lb/><del>faction</del> I have now aboard <del>of Bowman</del> <add place="supralinear">the <name type="ship">Lucia</name></add> I reckon about <lb/>24 hogsheads of <abbr expan="Tobacco">Tobbo:</abbr> how many more I Shall put into him I a<corr resp="editor">[m]</corr> <lb/>not certain yet,</p>
+
+<p>Herein Send you the following bills of Exchange to wit <lb/><abbr expan="Alexander">Alexr.</abbr> Scott on yor. Self for &pound;12"-" <abbr expan="Robert">Robt.</abbr> Alexander on Neal Buch<lb/>annan &pound;11:10"8. <abbr expan="Samuel">Sam.</abbr> Bowman on yor. Self for &pound;15:18 <lb/>which desire Credit for, making in the whole &pound;39"8"8"&mdash;</p>
+
+<p>I have drawn on you Payable to <note n="RM"><abbr expan="Richard">Richd.</abbr> Meeks</note> <lb/>for &pound;21"9"8, which I <del>desire you</del><add place="supralinear">Please</add> to anwer at time,</p>
+
+<p>Now allow me to turn my head a little on <lb/><sic corr="Politics">Politicks.</sic> <sic corr="We">Wee</sic> are in a great design to get the Clause in the <note target="n5">Act <lb/><del>in the</del> <sic corr="Prohibiting">Prohibitting</sic> the <sic corr="Stemming">Steming</sic></note> <abbr expan="Tobacco">Tobbo:</abbr> <abbr expan="repealed">repeal'd</abbr> Our Councll &amp; <lb/>Burgesses have <sic corr="Addressed">Addressd</sic> his Majesty and made Application to the <lb/><abbr expan="Parliament">Parliamt</abbr>. about it. <sic corr="We">Wee</sic> have <sic corr="Employed">Employd</sic> a <abbr expan="Gentleman">Gent</abbr> of our Country <lb/>one of our Eminentest Lawyers as our Agent who is going home <lb/>to <sic corr="Solicit">Solicite</sic> this Affair, <sic corr="We">Wee</sic> have great reson to hope the London <lb/><abbr expan="Merchants">Merchts.</abbr> and Outports will <sic corr="Join">Joyn</sic> their Interest with us and <sic corr="we">wee</sic>  <lb/>are told from many of your Countrymen here Yor. represen<lb/>tatives will <sic corr="Join">Joyn</sic> their helping hand, And that you are generally <lb/>hearty aweary of this restraint most Certain it is that by de=<lb/>nying us the liberty of <sic corr="Stemming">Steming</sic> our <abbr expan="Tobacco">Tobbo:</abbr> all the Trash and under <lb/><abbr expan="Tobacco">Tobbo:</abbr> is <sic corr="Shipped">Shipt</sic> <sic corr="off.">of.</sic> It is become the Common trade <sic corr="through">thro</sic> the Country <lb/>to buy up this under <abbr expan="Tobacco">Tobbo:</abbr> as it is <sic corr="called">calld</sic> but more properly Lugs <lb/>at half price and none is bad but the Planters can get Something <lb/>for it and when they lay out their Crops many will force the <lb/><abbr expan="Merchants">Merchts.</abbr> to take two or three under hogsheads or Else they will not let <lb/>them have their best These things your <abbr expan="Merchants">Merchts.</abbr> can give you <lb/>a better Accot. of <sic corr="than">then</sic> I. Whereas if we are allowd to <sic corr="Stem">Stemm</sic> <lb/>our under <abbr expan="Tobacco">Tobbo:</abbr> we Should Seperate the good and heave the Trash <lb/>away and this <sic corr="Stemmed">Stemd</sic> <abbr expan="Tobacco">Tobbo:</abbr> would be as <sic corr="valuable">valueable</sic> nay more <lb/><sic corr="than">then</sic> the best leaf which <sic corr="we">wee</sic> know from long Experience. And <sic corr="we">wee</sic><lb/>cannot think it would hurt the King in his Customs. <sic corr="Stemmed">Stemd</sic> 
+
+<pb n="3"/><lb/><lb/>
+<abbr expan="Tobacco">Tobbo:</abbr> must be <sic corr="Comsumed">Comsumd</sic> in the nation and pay the duty. but this <lb/>rubbish Stuff as it is now managed must be either <sic corr="Clandestinely">Clandestinly</sic> <lb/>run or Else Sent abroad either way the King has no Custom, And <lb/>the Market prodigious <abbr expan="depressed">depress'd</abbr> <del>as well</del> to the damage of the <sic corr="Fair">Fare</sic> <lb/>trader as well as planter, And What Should hinder if the King <lb/>is no <sic corr="loser">looser</sic> and if the Commodity would be much betterd to the <lb/><abbr expan="Merchants">Merchts</abbr>as <sic corr="we">wee</sic> think is very demonstrable but that we may <lb/>reasonably promise our Selves Success inthis undertaking. <lb/>You make a Considerable figure in Glasgow where the greatest <lb/>part of the <abbr expan="Tobacco">Tobbo:</abbr> in North <sic corr="Britain">Brittain</sic> <sic corr="centers,">centures,</sic> I thought it not <lb/>amiss to give you this Short <abbr expan="Entertainment">Entertainmt.</abbr> <abbr expan="about">abt.</abbr> this affair <lb/>I could name you Several of your <abbr expan="Merchants">Merchts.</abbr> here that tells us <lb/>you will readily and <sic corr="Strenuously ">Streneuously </sic>add your Endeavours to <lb/>take of this prohibition, I am </p>
+
+<closer>Sir&mdash;<lb/>Yor. very humble Servt.
+<seg type="postscript"><lb/><lb/>per <note target="n6">Denton</note>
+<lb/>Bowman</seg><lb/><lb/>
+
+<seg type="postscript">
+
+<pb n="4"/><lb/><lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To be Added to Mr. Starks Letter of the 30th: May<lb/><lb/>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rappahannock July 9th: 1728<lb/><lb/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<del>The above is a Copy </del>This Accompanys <note target="n4"><abbr expan="Captain">Capt:</abbr> Bowman </note><lb/>and brings you a bill of Lading for 29 hogsheads of <abbr expan="Tobacco">Tobbo:</abbr> another is ready <lb/>for him but he cannot take it in, I have a pretty deal of <abbr expan="Tobacco">Tobbo:</abbr> on <lb/>my hands yet to come home and prize where I Shall get it <sic corr="freighted">freited</sic> <lb/>I dont yet know <add place="supralinear">beleive</add> I Shall Choose rather <name type="city">Glasgow </name>   <sic corr="than">then</sic> <add place="supralinear">any</add> other Port I <lb/>have often <sic corr="Complained">Complaind</sic> to you of these <sic corr="lag">lagg</sic> Sales and upon very good <lb/>reason for they always prove the worst now you Say if I would <lb/>have Quick returns I must give orders to you to Sell at the Mast, this <lb/>will Entirely defeat me of any profit for my money. I am for tak=<lb/>ing that way that will return me the most but that I must leave <lb/>to your <abbr expan="Judgement">Judgemt.</abbr> who <del>up</del> <add place="supralinear">are</add> upon the Spot and yet after all I must press <lb/>you to make up your Accots: as quick as you can that I may know <lb/>my doom Your have bin very <sic corr="large">larg</sic> in making up yor. Accot: of the <lb/>James river <abbr expan="Tobacco">Tobbo:</abbr> there is some more coming to you from thence <lb/>both of my own and <note n="NB">Mr. Burwells</note> Concern <sic corr="it is">tis</sic> your mistake to call <lb/>it <note n="ECB"><sic corr="Madam">Maddam</sic> Burwells </note>the most of this is <abbr expan="Tobacco">Tobbo:</abbr> which wee call <lb/>under <abbr expan="Tobacco">Tobbo:</abbr> Therefore if you dispose of it at the Mast it may perhaps <lb/>be the best way Your Country men and the Outport Merchants <lb/>have bought up this <abbr expan="Tobacco">Tobbo:</abbr> all over Virginia and have given 2d <lb/>a pound in their Stores for it I will hope this <abbr expan="Tobacco">Tobbo:</abbr> will rise pretty <lb/>well and return us a tolerable price,<lb/><lb/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<note target="n7"><abbr expan="Captain">Capt:</abbr> Gamell</note> Sent <sic corr="ashore">ashoar</sic> my Pack of Goods <lb/>in another Ship was bound hither <note target="n8">Dunlop Master</note> and with it <lb/>a hamper of <sic corr="Claret">Clarret</sic> I refused to take it telling him it did not <lb/>belong to me I know nothing of it he assured me Gamell told him <lb/>it was for me, upon which I was free with it proved good wine<lb/><lb/> 
+
+<pb n="5"/><lb/><lb/>
+and very Opportunely come for our <abbr expan="Governor">Govr.</abbr> Soon after made me a <lb/><sic corr="Visit">Vissit</sic> which cost me a good deal of it Since I have understood by <lb/>Mr. Gay the wine <sic corr="belonged">belongd</sic> to Colonel Epps of James river, I Suppose it was <lb/>of yor. Shipping all that I can Say is you must Charged my Accot <lb/>with it and give Epps Credit or Send him the wine again as you <lb/>See fit,<lb/><lb/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Burgundy &amp; <sic corr="Champagne">Champaign</sic> you Sent me from <lb/><name type="city">Dublin</name> Some years ago hath kept so well that I think it is as <lb/>good now as when it first came I desire you will Send me 4 <abbr expan="dozen">doz</abbr> <lb/>of each Sort if you have Opportunity and from the Same person <lb/>you bought that by whose Extraordinary care in the well bottling <lb/>Corking and the well packing I reckon hath bin <add place="supralinear">a</add> great means <lb/>to keep it so well I would also have you Send me 6 or 8 <abbr expan="dozen">doz:</abbr> of <lb/>right good <sic corr="Claret">Clarret</sic> I Shall Conclude at present<lb/><lb/>
+herein is a bill of Lading for 12 hhd belonging to <note n="MP1">Colonel Page</note>
+
+
+
+
+</seg>
+
+
+
+</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1727 May-1728 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia. The letter book has suffered some damage to the first page of the letter which is faded along its margins, and has some textual damage.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1] John Stark was a merchant, probably the one to whom Carter referred when he wrote to Micajah Perry on 1723 July 4 that he had drawn an order on "Mr. Stark of Glasgow." On that same day, he wrote to a John Stark, referring to Captain Bowman.</note>
+
+<note id="n2">[2] Carter noted in his diary 1727 January 19 the arrival of the <hi rend="italics">Mazareen</hi> at his house and a visit from her captain, Richard Kelsick, four days earlier. </note>
+
+<note id="n3">[3] The <hi rend="italics">Martha</hi>  was commanded by a Captain Dunlop; see Carter to Richard Oswald &amp; Company 1729 August 11.</note>
+
+<note id="n4">[4] Captain Samuel Bowman commanded the <hi rend="italics">Lucia.</hi> Carter mentioned this vessel in his diary in June 1724, and again on 1726 March 4 when he wrote that she "came in had 20 Weeks Passage."</note>
+
+<note id="n5">[5] Parliament had passed the act forbidding the importation of stemmed tobacco in 1722. Randolph would not leave for England until 1729; his mission would be successful.<corr resp="editor"></corr> (<cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> [Newport News, VA: Mariners' Museum, 1953.] p. 116.</bibl></cit>)</note>
+
+<note id="n6">[6] The <hi rend="italics">John &amp; Betty</hi> was a Liverpool ship often carrying slaves owned by merchant John Pemberton. In 1726 the captain was John Gale, and in the next year, she was commanded by a Captain William Denton. The ship would be lost in 1729. (<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> p. 18, n. 23</bibl></cit>; Carter to Pemberton, 1730 April 15; and Carter to William Dawkins, June 28, July 26, and August 22, 1727, for Denton's first name.)</note>
+
+<note id="n7">[7] Captain Gamell has not been identified. </note>
+
+<note id="n8">[8] The <hi rend="italics">Martha</hi>  was commanded by a Captain Dunlop; see Carter to Richard Oswald &amp; Company 1729 August 11.</note>
+
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

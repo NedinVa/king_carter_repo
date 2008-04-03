@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C28k20d">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Colonel [John] Tayloe, November 20, 1728</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 6 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C28k20d.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2004</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Colonel [John] Tayloe, November 20, 1728</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1728 August 8-1730 May 15,  Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1728-11-20</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C28k20dT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1728-11-20"></date>
+<idno rend="suppress">C28k20d.xml</idno>
+<title>Letter from Robert Carter to Colonel [John] Tayloe, November 20, 1728</title>
+</bibl>
+</head>
+<p>Robert Carter as commander of the militia in the Northern Neck writes to Colonel [John] Tayloe of Richmond County, November 20, 1728, concerning the appointment of militia officers in that county.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to Colonel <note target="n1">[John] Tayloe,</note> November 20, 1728</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Corotoman, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1728-11-20">Novr. 20th. 1728</date><lb/>
+To Colonel Tayloe<lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+<p>By my <note n="RC2">Son Robin</note> I Send you your own Commission <lb/>and a <abbr expan="Major's">Majr.</abbr> commission for <note target="n2">Moore Fauntleroy</note> which you Seem to think <lb/>most proper I Send you a Copy of the list I had from you which will not <lb/>do now there must be a <abbr expan="Captain">Capt:</abbr> in the room of the <note target="n3"><abbr expan="Major">Majr.</abbr> Morton</note> I hear <lb/>is Dead and <note n="JB"><abbr expan="Captain">Capt:</abbr> <sic corr="Belfield">Belfeild</sic></note> desired me that his Son might have his <lb/>Place there will want I <sic corr="believe">beleive</sic>other regulations I have blanks <lb/>for all the Officers <sic corr="believe">beleive</sic>the best way will be to let the respective <abbr expan="Captains">Capts.</abbr> 
+
+<pb n="2"/><lb/><lb/>
+please themselves in their under Officers, but I do not care to fill <lb/>them up <sic corr="until">till</sic> I have yor. Assistance and recommendation &amp; know <lb/>who they are that will not refuse which you will please to hand <lb/>me with the first Conveniencey Altho I think <sic corr="we">wee</sic> need not be in great <lb/><sic corr="haste">hast</sic> in regard it is the winter Season, here to follow the <note target="n4">Same Clause </note>as is to Colonel Lee</p>
+
+<closer><seg type="postscript"><lb/><lb/></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. </note>
+
+<note>The county and colony have been added for clarity to the heading on this draft.</note>
+
+<note id="n1">[1] John Tayloe (1687-1747) of Mt. Airy, Richmond County, who served as justice, burgess, colonel of militia, and as a member of the Council after 1732. (<cit><bibl n="B31">Ryland. <title>Richmond County Virginia. . . . </title> pp. 115-16.</bibl></cit>)</note>
+
+<note id="n2">[2] Moore Fauntleroy (1679-1739), a prominent citizen of Richmond County where he was a justice in 1714; he married Margaret Micou. (<cit><bibl>http://homepages.rootsweb.com/~marshall/esmd48.htm;</bibl></cit> and <cit><bibl>Beverley Fleet. <title>Virginia Colonial Abstracts . . .  Richmond County Records 1703-1724. </title> (Privately published, [1943?]. p. 97.</bibl></cit>)</note>
+
+<note id="n3">[3] According to the online index of Virginia wills maintained by the Library of Virginia, the will of a John Morton of Richmond County was probated 1728 November 6. (Part of index to Richmond County Wills and Administrations (1692-1800. Note p. 105-110. Inv. &amp; appr. rec. 6 Nov. 1728. Will Book No. 5, 1725-1753.)</note>
+
+<note id="n4">[4] Carter probably told his clerk to add to this letter when he copied it the final paragraph of his letter to Thomas Lee of the same date. It read:  "You know that upon these Occasions the <abbr expan="Governor's">Govrs.</abbr> Clerk who writes these Commissions Expects to be <sic corr="remembered">remembred</sic> I <sic corr="promised">promist</sic><corr resp="editor">[h]</corr>im all the Service I could do and to be answerable to him for what <abbr expan="Gentlemen">Gent</abbr> would be pleased to <sic corr="deposit">depolite</sic> in my hands for him I doubt not <corr resp="editor">[you]</corr>r readiness to forward this matter as far as it <sic corr="lies">lyes</sic> within your province I am."</note>
+
+
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

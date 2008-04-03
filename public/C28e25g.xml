@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C28e25g">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Micajah Perry, May 25, 1728</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 11  kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C28e25g.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2004</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Micajah Perry, May 25, 1728</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>3 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1725-05-25</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C28e25gT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>3 p.</extent>
+<date value="1725-05-25"></date>
+<idno rend="suppress">C28e25g.xml</idno>
+<title>Letter from Robert Carter to Micajah Perry, May 25, 1728</title>
+</bibl>
+</head>
+<p>Robert Carter writes to his long-term correspondent London merchant Micajah Perry, May 25, 1728, to report a number of bills of exchange for the Lloyd estate, but primarily to ask for Perry's help in the efforts of the colony to overturn the prohibition of stemmed tobacco into England.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="MP1">Micajah Perry,</note> May 25, 1728</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Rappahannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1725-05-25">May the 25th 1728</date><lb/>
+Micaja Perry Esqr.<lb/>
+</dateline>
+<salute>Sr&mdash;</salute>
+
+</opener>
+
+<p>The above is a Copy of mine from York Ex<lb/>pecting I shall soon have a large call upon me for Money <lb/>upon the Accot of the <note n="LL">LLs</note> Estate think it Necessary to remit <lb/>the following Bills to you to witt my own to <note n="RM"><abbr expan="Richard">Richd</abbr> Meeks</note> <lb/>for &pound;35" John Collier on John Berry &pound;35 <note n="JG2">John Grymes</note><lb/> on your self &pound;205" <note n="GT">George <sic corr="Turberville">Turbervile</sic></note> on <abbr expan="James">Jas</abbr> Buchanan <lb/>&pound;28: Simon Hollies on John Midford &pound;100 &amp; <sic corr="Philip">Phillip</sic> <lb/>Smith on John Berry &pound;20:4s: Amounting in the whole <lb/>to &pound;434:4s:</p>
+
+<p>I cannot forbear using Arguments to&mdash; <lb/><sic corr="persuade">perswade</sic> you to <sic corr="join">joyn</sic> your Strength in the design of the <lb/>Council and Burgesses to get the clause in the <note target="n1">Act </note>of parlia<lb/>ment prohibiting the Stemming of <abbr expan="Tobacco">Tobbo</abbr> to be repealed in <lb/>Order to the obtaining of which we had addressed his&mdash; <lb/><abbr expan="Majesty">Majty.</abbr> and have made our Application to the <abbr expan="parliament">parliamt</abbr> <lb/>Mr. <note n="JR">John Randolph</note> Clerk of the house of Burgesses&mdash; <lb/>coming for England we have made our Agent to <lb/><sic corr="Solicit">Solicite</sic> this Affair to whom we hope all the <abbr expan="Merchants">Merchts</abbr> 
+
+<pb n="2"/><lb/><lb/>
+in the Trade if they have any real desire to prevent the <lb/><del>Sending away </del><add place="supralinear">Shipping of</add> our Trash <abbr expan="Tobacco">Tobbo</abbr>  will Contribute <lb/>their <sic corr="Utmost">Uttmost</sic> Assistance I <sic corr="believe">beleive</sic> most of the <abbr expan="Gentlemen">Gentlm</abbr>&mdash; <lb/>in <abbr expan="Virginia">Virgia:</abbr> are Urgent with their Correspondents to <lb/>come into this good design. It is become the practice <lb/>of all the Consigners almost in Virginia to <sic corr="tie">tye</sic> up all <lb/>their Ground Leaves that has any part of the leaf <lb/>good and this wears the Name of under <abbr expan="Tobacco">Tobbo</abbr>
+ and <lb/>is <sic corr="Shipped">Shipt</sic> <sic corr="off">of</sic> to Scotland &amp; the Outport<corr resp="editor">[s]</corr> nay Some of <lb/>it comes to <abbr expan="London">Londo</abbr> and the <abbr expan="Merchants">Merchts</abbr>  here buy it up at <lb/>half price and there is none hardly so bad but one or <lb/>other will give Something for it what ever is done <lb/>with <add place="supralinear">it</add> when it comes home we know that its Said that <lb/>a great many out port Ships have at least a Third <lb/>of their Loads of this Sort of <abbr expan="Tobacco">Tobbo</abbr> to be Sure this <lb/>must have a very bad Effect upon the Trade of the <lb/>good <abbr expan="Tobacco">Tobbo.</abbr>. and we can See no remedy unless <sic corr="we">wee</sic> <lb/>may be alowed to Stem our under <abbr expan="Tobacco">Tobbo:</abbr> and then it <lb/>will be our Interest to Separate the good from the <lb/>bad and we cannot think it will be any <abbr expan="detriment">detrimt</abbr> <lb/>to the King <del>&amp;</del> <add place="supralinear">in</add> his <sic corr="Customs">Customes</sic> for all the worst and <lb/>Meanest <abbr expan="Tobacco">Tobbo:</abbr>: is now made to Supply the Export <lb/>Trade which pays no Duty besides we are very Appre<lb/>hensive ways are found out to defraud the King of his <lb/><sic corr="Customs">Customes</sic> of most of this refuse Stuff which we cannot&mdash; <lb/>think if a fair computation was made <sic corr="through">thro</sic> the <sic corr="Country">Countrey</sic> <lb/>but amounts to Several <abbr expan="Thousands">Thousds:</abbr> of hogsheads  You are so well <lb/>Acquainted with all these things and will be so much better <lb/>furnished with <abbr expan="Arguments">Argumts</abbr>. from your more Valuable friends <lb/>that I shall give you no further trouble about the Matter <lb/>only that it is my Opinion that nothing will more recom<lb/>mend you to the favour of this <sic corr="Country">Countrey</sic> then in being <lb/>Strenuous and Eminent in Effecting this good work <lb/>which is so much at heart <sic corr="among">amongst</sic> all the better <lb/>Sort of Men among us 
+
+<pb n="3"/><lb/><lb/>
+who I am very apt to think would <sic corr="cheerfully">chearfully</sic> come <lb/>into a Contribution for the Vigorous <sic corr="carrying">carring</sic> it on <lb/>I know there has been very great <sic corr="feuds">fueds</sic> between you <lb/>&amp; some of the Randolphs but I am told those <sic corr="jars">jarrs</sic> are <lb/>blown over I am </p>
+
+<closer>Sr <lb/>Yor most humble Servt
+<seg type="postscript"><lb/><lb/>per <note target="n2">Clack</note>
+<lb/>Copy per <note target="n3">Trice</note>&mdash;</seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. There is a 19th-century transcript of the letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. "Rappahannock," the county, and colony have been added for clarity to this unheaded draft.</note>
+
+<note id="n1">[1] Parliament had passed the act forbidding the importation of stemmed tobacco in 1722. Randolph would not leave for England until 1729; his mission would be successful.<corr resp="editor"></corr> (<cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> [Newport News, VA: Mariners' Museum, 1953.] p. 116.</bibl></cit>)</note>
+
+<note id="n2">[2] No information has been located on Captain Clack who is mentioned in several of Carter's letters of this period.</note>
+
+<note id="n3">[3] The 140 ton <hi rend="italics">Welcome</hi> was owned by London merchant James Bradley to whom Carter would write about her on 1727 May 17.  John Trice (Frice) was her captain, 1723-1728. (<cit><bibl>Survey Report 6801 summarizing Adm 68/195, 154r, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

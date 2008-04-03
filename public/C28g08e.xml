@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C28g08e">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to John Randolph, July 8, 1728</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 9 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C28g08e.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2004</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to John Randolph, July 8, 1728</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1728-07-08</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C28g08eT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1728-07-08"></date>
+<idno rend="suppress">C28g08e.xml</idno>
+<title>Letter from Robert Carter to John Randolph, July 8, 1728</title>
+</bibl>
+</head>
+<p>Robert Carter writes to John Randolph, July 8, 1728, to have the letter waiting when Randolph reaches England to work as the colony's agent to obtain revocation of the prohibition against the importation of stemmed tobacco, and he informs Randolph of the letters he has written to British merchants about the effort. He mentions a letter from Samuel Hallows concerning land in the colony.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to John Randolph, July 8, 1728</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Coroto<add resp="editor">[man, Lancaster County, Virginia]</add></name><lb/>
+<date value="1728-07-08">July the 8th: 1728&mdash;</date><lb/>
+John Randolph Esqr.<lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+<p>This <sic corr="Complies">Complys</sic> with my promise of <sic corr="Salut">Salute</sic>=<lb/>ing you in London, with Sincere wishes that it may meet <lb/>you in good health, and to acquaint you that I have bin very <lb/>liberal in <sic corr="writing">writeing</sic> to all the <abbr expan="Merchants">Merchts:</abbr> I correspond with about our <lb/><note target="n1">grand Affair</note> under your Negotiations To <note n="MP2">Mr. Perry</note> I have Partic=<lb/>ularly recommended both you and it, and to all the other <abbr expan="Merchants">Merchts:</abbr> <lb/>that I have any Interest in And I have not Confined my Self <lb/>to <name type="city">London</name> I have <sic corr="written">writ</sic> to <name type="city"><abbr expan="Liverpool">Leverpl.</abbr></name> to <name type="city">Weymouth</name> and to <name type="city">Glasgow</name> <lb/>I cannot pretend abundance of Interest <add place="supralinear">any</add> where however I shall have <lb/>the Satisfaction of having thrown in my Mite. the greaetes<corr resp="editor">[t]</corr> hope is <lb/>that the <abbr expan="Merchants">Merchts:</abbr> will be of Opinion that it is their own Interest to <lb/>promote this design and that will be a Stronger Spur to them than <lb/>any thing can be said from hence,</p>
+
+<p>I think I Showd you <note target="n2"><abbr expan="Esquire">Esqr.</abbr> Hallows</note> Lettr to me <lb/>about his Land it is likely you will go near to See him before you <lb/>return. Mr. Perry and I <sic corr="have">hath</sic> had Some <note target="n3">Pickerings</note> of late; &amp; your <lb/>misunderstandings I knew <sic corr="have">hath</sic> bin much greater but I will hope <lb/>both of us are coming into pretty good <sic corr="terms">termes</sic> again with him <lb/>The Station he is in will Enable him if he will Exert his Strength <lb/>to do us the most Services of any <sic corr="Concerned">Concernd</sic> in the Trade&mdash;</p>
+
+<pb n="2"/><lb/><lb/>
+<p>	I Shall Conclude as I begun that you may obtain the great <lb/>Motive of your going home a full recovery of your health as well as <lb/>the Addition of all other happiness I am </p>
+
+<closer>Sir&mdash;<lb/>Yor. <del>very</del> <add place="supralinear">most</add> humble Servt:&mdash;
+</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. There is a 19th-century transcript of the letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
+
+<note id="n1">[1] Carter refers to the attempt of the colony to persuade Parliament to remove the prohibition against the importation of stemmed tobacco into Britain which it had had passed in 1722. Randolph was the colony's agent to negotiate for the "grand Affair"; his mission would be successful. While Randolph would not leave for England until 1729, Carter had to write well in advance to get his letter aboard a ship sailing in the late summer. <corr resp="editor"></corr> (<cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> [Newport News, VA: Mariners' Museum, 1953.] p. 116.</bibl></cit>)</note>
+
+<note id="n2">[2] Samuel Hallows (Hallowes) was a great nephew of John Hallowes, an early landholder in Northumberland and later, Westmoreland County, who was usually identified as of "Nomini" in Westmoreland County. Samuel Hallows lived in Ashworth, County Lancaster, England. The tract in which Carter was interested may have been that of 2400 acres acquired from Hallowes in 1733 by Thomas Lee. 
+Carter had written Hallows <xref doc="C28e30a">1728 May 30</xref> that he would not buy the tract of land. ("Major John Hallowes, 1615-1657" in <cit><bibl n="B38">Norris. <title>Westmoreland County, Virginia.</title> pp. 99-102.</bibl></cit>)</note>
+
+<note id="n3">[3] Carter probably dictated "bickerings."</note>
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

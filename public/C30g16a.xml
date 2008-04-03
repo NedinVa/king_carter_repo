@@ -1,0 +1,218 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C30g16a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Thomas, Lord Fairfax, July 16, 1730</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 11 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C30g16a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2005</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Thomas, Lord Fairfax, July 16, 1730</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>3 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1730-07-16</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C30g16aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>3 p.</extent>
+<date value="1730-07-16"></date>
+<idno rend="suppress">C30g16a.xml</idno>
+<title>Letter from Robert Carter to Thomas, Lord Fairfax, July 16, 1730</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Thomas, Lord Fairfax, bthe proprietor of the Northern Neck, July 16, 1730, to apprise him of the challenges to the proprietary being mounted in the colony, and to send him (not present) a copy of the recent statement of complaints against the proprietary prepared by the colony's House of Burgesses. Carter notes his shock at learning that the former lieutenant governor, Alexander Spotswood, has been making statements that Carter has no authority to make grants of land in the  proprietary which authority he notes he has always had from the several proprietors for whom he  has been agent or lessee. Carter reports that the leader of the opposition is John Grymes, the colony's receiver general, and that Grymes and his supporters are well financed.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="TF">Thomas, Lord Fairfax,</note> July 16, 1730</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1730-07-16">July 16, 1730</date><lb/>
+To the Lord Fairfax<lb/>
+</dateline>
+<salute>My Lord.</salute>
+
+</opener>
+
+
+
+<p>I did myself the honour on the 18th of June<lb/>
+to Acquaint your Lordship <add place="supralinear">of</add> the Attempt our house of Burgesses<lb/>
+was making upon your Lordships Estate in the Northernneck <add resp="editor"> [<hi rend="italics">sic</hi>]</add><lb/>
+and that upon the petition of some Dutchmen who desire to remove<lb/>
+with their <sic corr="families">familys</sic> from Newyork <add resp="editor"> [<hi rend="italics">sic</hi>]</add> an order has lately been made<lb/>
+in Council to grant large <sic corr="quantities">quantitys</sic> of Land above and about<lb/>
+<sic corr="Shenandoah">Chenandoah</sic> a large branch of <sic corr="Potomac">Potomack</sic> River dividing<lb/>
+MaryLand from the Northern Neck against this order I had the<lb/>
+permission of <note n="WG">the Governour</note> to enter a Caveat which was all I could do</p>
+
+<p>The house of Burgesses have set forth their<lb/>
+complaints against the Grant in a long petition to the king in<lb/>
+Council expecting thereby to bring the grant upon <sic corr="Trial">Tryal</sic> the most<lb/>
+considerable men in the Northern neck are strenuous <sic corr="enemies">enimie</sic>s <lb/> 
+to the Grant. <note n="JG2"><abbr expan="Colonel">Colo</abbr> Grymes</note> our receiver General heads <add place="supralinear">them</add> and openly de <lb/>
+clares he will use his utmost interest to bring the grant upon <sic corr="Trial">Tryal</sic> &amp;<lb/>
+seems very sure he shall be Able to Carry his Point that your Lordship<lb/>
+may be <abbr expan="apprized">appriz'd</abbr> of this petition I send you now a Copy of it by the first<lb/>
+Opportunity under <note n="MP2">Mr: Perrys</note> Cover who after perusal I request to<lb/>
+Expedite it to <abbr expan="Your">Yr</abbr> Lordships hands one of their main complaints is<lb/>
+that under the grants of <abbr expan="your">yr:</abbr> Lordships agents the Grantees have<lb/>
+no security in the title to their Lands And <note target="n1"><abbr expan="Colonel">Colo</abbr> spotswood</note> <sic corr="has">hath</sic><lb/>
+told a great many and to my self also he heard your Lordship say<lb/>
+You had given no power to me to grant Away any Lands 
+
+<pb n="2"/><lb/><lb/>
+which <sic corr="shocked">shockt</sic> me very much considering <abbr expan="your">yr:</abbr> Lordships power is re <lb/>
+corded in our general Court and was sent me in at my taking the<lb/>
+first <sic corr="Lease">Leas</sic> and <abbr expan="Colonel">Colol</abbr> Spotswood adds that Your Lordship said you had<lb/>
+good advice I had no power to grant Lands under my <sic corr="Lease">Leas</sic> if it be<lb/>
+so what a <sic corr="prodigious">prodigeous</sic> wound would this be to <abbr expan="your">yr:</abbr> <del>Lordships</del> Estate &amp;<lb/>
+what just reason the Grantees would have to go into Complaints <add place="supralinear">I shall Submit to</add>  <add place="supralinear"><abbr expan="your">yr:</abbr> Lordships consideration</add> my <lb/>
+power from <abbr expan="your">yr:</abbr> Lordship &amp; <note n="WC"><abbr expan="Colonel">Colo</abbr> Cage</note> is the same that I had from <note target="n2">my Lady<lb/>
+Fairfax</note> and before her from My Lady Culpeper and my Lord Fairfax<lb/>
+And all the agents that have been in the Execution of the Grant<lb/>
+from the beginning have Acted under the same power in granting<lb/>
+away the Lands in Fee simple and has now been practiced <lb/>since the year <add resp="editor">[omission in text]</add> when <note n="PL"><abbr expan="Colonel">Colo</abbr> Ludwell</note> began his agency and<lb/>
+from the first appearance of the grant here<lb/>
+before him I believe <del>a Considerable time</del> another great foundation of com <lb/>
+plaint <sic corr="has">hath</sic> been your Lordships <sic corr="lease">leas</sic> to the Bristol men&mdash;giving them<lb/>
+power to dig up your tenants Land 5 miles round their own Land<lb/>
+after copper ore when every Tenant have a right in those ores by their<lb/>
+Grant but <abbr expan="Your">Yr</abbr> Lordship will be best acquainted with the Nature of the<lb/>
+Complaints from the Petition</p>
+
+<p>The house of Burgesses went into resolve to give<lb/>
+&pound;150 <abbr expan="sterling">ster:</abbr> out of the Countrys money to Solicit this Petition <del>[illegible]</del> this<lb/>
+resolve came up <note target="n3">to the Council</note> but they would not Concur in it so it <sic corr="dropped">dropt</sic><lb/>
+the petition was <del>sent illegible</del> <add place="supralinear">presented</add> to the Governour who has the Care of transmitting<lb/>
+it to his <sic corr="Majesty">Majestie</sic> however the Advocates of this Petition <sic corr="missed">mist</sic> of this<lb/>
+money they are gentlemen of such strength and have so much<lb/>
+Zeal in the Matter that I am <sic corr="doubtful">doubtfull</sic> <abbr expan="Your">Y</abbr> Lordship must expect money<lb/>
+will not be Wanting I have done <abbr expan="Your">Y</abbr> Lordship the best service I could <lb/>
+in this affair and have had the Advice of our best Lawyers for my<lb/>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;direction
+
+<pb n="3"/><lb/><lb/>
+I am an old man and have a very broken Constitution not fit for<lb/>
+troubles of this Nature at this time of day</p>
+
+<p>I have given Orders for <sic corr="copies">copys</sic> of all the <add place="supralinear"><sic corr="ancient">antient</sic></add> proceedings relating to<lb/>
+<abbr expan="Your">Y</abbr> Lordships Grant which I shall transmit as soon as I get them <del>have</del><lb/>
+<del>thought it Necessary to send away this Copy of the Petition</del> I am</p>
+
+<closer>My Lord<lb/>
+Your Lordships<lb/>
+Most obedt &amp;<lb/>
+Most humble Servt
+</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia. There is a nineteenth-century copy of this letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to persons abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1] Alexander Spotswood (1646-1740) had been the lieutenant governor from 1710 to 1722, and had remained in the colony after his term.</note>
+
+<note id="n2">[2] Catherine Culpeper, widow of the fifth Lord Fairfax (d. 1710); from her father, the 2nd Lord Culpeper, she had inherited about 1689 his five-sixths interest in the Northern Neck Proprietary in Virginia. Lord Fairfax consulted Micajah Perry about the affairs of the Propietary, and Perry had recommended Robert Carter to be the Virginia agent in 1702. He held the post until 1710 when Lady Fairfax transferred the agency to Edmund Jenings with Thomas Lee as the deputy agent. When she died in 1719, she bequeathed her Virginia property to her son Tom, but she made Wiliam Cage and Edward Filmer, trustees of the proprietary. Filmer soon died, and Cage, a kinsman of the 6th Lord Fairfax, became the sole trustee. From his grandmother, Margaret Lady Culpeper, the 6th Lord Fairfax inherited the other one-sixth of the Proprietary. Cage consulted Perry, and Robert Carter was again made agent in 1721, holding the post until his death ten years later.</note>
+
+<note id="n3">[3] There is no explicit discussion of the Council of the resolution of the House of Burgesses to appropriate the money, but on 1730 June 17 the Council did approve the petitions of the persons from other colonies that Carter notes at the beginning of this letter. There is a brief discussion of the controversy over the western boundaries of the proprietary in Charter VIII of Stuart E. Brown's <hi rend="italics">Virginia Baron.</hi> (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]: 223 </bibl></cit>; and <cit><bibl n="B8">Brown. <title>Virginia Baron. . . .</title> pp. 39-44.</bibl></cit>
+)</note>
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

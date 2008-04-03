@@ -1,0 +1,285 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2  SYSTEM  'teixlite.dtd' [ 
+<!NOTATION jpg  SYSTEM  "jpeg"> 
+<!ENTITY filename  SYSTEM  "filename.jpg" NDATA jpg> 
+<!ENTITY % ISOlat1 SYSTEM  "ISOlat1.pen"> %ISOlat1; 
+<!ENTITY % ISOlat2 SYSTEM  "ISOlat2.pen"> %ISOlat2; 
+<!ENTITY % ISOnum SYSTEM  "ISOnum.pen"> %ISOnum; 
+<!ENTITY % ISOpub SYSTEM  "ISOpub.pen"> %ISOpub; 
+<!ENTITY % ISOtech SYSTEM  "ISOtech.pen"> %ISOtech; 
+]> 
+ 
+<TEI.2 id="C05e05a"> 
+<teiHeader type="aacr2"> 
+              
+<fileDesc> 
+<titleStmt> 
+     <title type="245">Letter from Robert Carter, John Lightfoot, and Philip Ludwell to the House of Burgesses, 1705 May 5</title> 
+   <title type="gmd">[electronic resource]</title> 
+     <author>Carter, Robert</author> 
+   <respStmt> 
+     <resp>Creation of machine-readable version: </resp> 
+     <name id="editor">Edmund Berkeley, Jr.</name> 
+     <resp>Conversion to TEI.2-conformant markup</resp> 
+     <name>Edmund Berkeley, Jr., and the University of Virginia Library Electronic Text Center</name> 
+   </respStmt> 
+</titleStmt> 
+ 
+<extent>ca. 13 kilobytes </extent> 
+ 
+<publicationStmt> 
+     <publisher>University of Virginia Library.</publisher> 
+     <pubPlace>Charlottesville, Va.</pubPlace> 
+     <idno type="ETC"></idno> 
+     <availability> 
+     <p>Publicly accessible</p> 
+     <p n="public">URL: http://etext.lib.virginia.edu/modeng.browse.html</p> 
+         </availability> 
+     <date>2001</date> 
+</publicationStmt> 
+ 
+<sourceDesc> 
+     <biblFull> 
+     <titleStmt> 
+     <title>Letter from Robert Carter, John Lightfoot, and Philip Ludwell to the House of Burgesses, 1705 May 5</title> 
+     </titleStmt>
+    <extent>2 p.</extent> 
+<publicationStmt> 
+     <date> 1705-05-05</date> 
+   <idno type="callNo">New York (Colony). Council Papers. State Archives, New York State Education Department, Albany, Vol. 51, p. 32a-b.  This document was copied for Governor Nicholson's private papers, and 
+was carried by him to New York when he later became governor of that colony. The papers remained in 
+New York, passing into the custody of the State Library which burned around the turn of the twentieth 
+century, causing some damage to this series of records. These records have been transferred to the state 
+archives, and there are several copies of this document in the series. The text was transcribed from one 
+that seems to be most contemporary in its handwriting to the early eighteenth century, and two other 
+copies in the series have been used to supply words in the copy text that were damaged by the fire. 
+</idno> 
+</publicationStmt> 
+</biblFull> 
+</sourceDesc> 
+ 
+</fileDesc> 
+     <encodingDesc> 
+     <projectDesc> 
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p> 
+     </projectDesc> 
+<editorialDecl> 
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in establishing 
+analytical groupings.</p> 
+</editorialDecl> 
+ 
+<classDecl> 
+     <taxonomy id="LCSH"> 
+     <bibl> 
+     <title>Library of Congress Subject Headings</title> 
+     </bibl> 
+     </taxonomy> 
+</classDecl> 
+</encodingDesc> 
+ 
+<profileDesc> 
+     <creation> 
+     <date>1705-05-05</date> 
+     </creation> 
+     <langUsage> 
+     <language id="eng"></language> 
+     </langUsage> 
+     <textClass> 
+     <keywords> 
+     <term>non-fiction</term> 
+   <term>prose</term> 
+     </keywords> 
+     <keywords scheme="LCSH"> 
+     <term type="Field650">LCSH</term> 
+     </keywords> 
+     </textClass> 
+</profileDesc> 
+ 
+</teiHeader> 
+ 
+<text id="C05e05aT">
+
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 pp.</extent>
+<date value="1705-05-05">May 5, 1705</date>
+<idno rend="suppress">C05e05a</idno>
+<title>Letter from Robert Carter, John Lightfoot, and Philip Ludwell to the House of Burgesses, May 5, 1705</title>
+</bibl>
+</head>
+<p>Robert Carter, John Lightfoot, and Philip Ludwell state to the Virginia House of Burgesses, May 5, 1705, their reasons for addressing the Queen about the "Mal-Administration" of Governor Francis Nicholson.</p>
+</div1>                 
+</front>
+
+
+
+ 
+<body> 
+ 
+<div1 type="letter" n="1705-05-05"> 
+ <head>Letter from Robert Carter, <note target="n1">John Lightfoot</note>, and <note n="PL1">Philip Ludwell</note> <lb/>to the 
+House of Burgesses, <note target="n2"><add resp ="editor">[May 5, 1705]</add></note></head> 
+ 
+<opener> 
+ 
+<dateline>
+<pb n="1"/>
+ 
+<name type="place"><add resp ="editor">[Williamsburg, Virginia]</add></name><lb/> 
+ 
+<date value="1705-05-05">[May 5, 1705]</date> 
+ 
+
+</dateline> 
+                                              
+<salute>To Speaker and Gentlemen of <lb/>the House of Burgesses</salute> 
+ 
+</opener> 
+                     
+ 
+<p>You have not thought fitt, to Admitt us Personally to give You our reasons agt. your 
+intermeddling<lb/> wth: the <note target="n3">Complaints</note> &amp;c, against his <note n="FN">Excellcy:</note> which 
+he hath laid before you. We have put some few of them in <lb/>Writing, wch: we here send You, and we 
+desire your Serious Consideration of before you proceed to any <lb/>determination in that Affair. We are<lb/><lb/> 
+Gent. Yor. most humble Servants<lb/><lb/> 
+ 
+ 
+J LIGHTFOOT<lb/>
+ROBERT CARTER<lb/> 
+PHILL. LUDWELL<lb/>
+
+&mdash;&mdash;<lb/><lb/> 
+ 
+<add place="marginbot">Directed on the Back<lb/><lb/> 
+To<lb/> 
+the Speaker &amp; Gentlemen of<lb/> 
+the House of Burgessess<lb/></add> 
+&mdash;&mdash;<lb/>
+&mdash;&mdash;<lb/><lb/> 
+ 
+ 
+Reasons offered by John Lightfoot, Robert Carter &amp; Philip Ludwell Esqrs. agt. <lb/>the makeing any 
+Determination by the House of Burgesses upon the <lb/>Complaint &amp; Affidavits against his Excellcy. 
+&mdash;<lb/><lb/>
+ 
+ 
+<table rows="6" cols="2"> 
+ 
+<row><cell>1st</cell><cell>That the Complaint was made by the Greater part of the Councill then in 
+being who had given their <lb/>attendance upon the publick affairs &amp; were both Eye &amp; Ear 
+witnesses of the mismanagements. there, &amp; <lb/>therefore they were the most proper persons &amp; 
+the most likely to make a true representation thereof. &amp; <lb/>Since her Majesty hath been pleased to 
+appoint them of the Councill, &amp; thereby hath made it their proper <lb/>Province to give the best 
+advice they can for preserving her Majestys Interest &amp; the peace &amp; welfare of <lb/>her Subjects 
+here; they take it to be a duty incumbent upon them in Case of the Mal-Administration of <lb/>a Governr. 
+to apply themselves to their Sovereign for Redress, &amp; this they think they have a right <lb/>to doe 
+without being lyable to any Censure but that of her Majesty. And they think that both her Majestys 
+<lb/>Service &amp; this Countries interest will be greatly promoted thereby.</cell></row> 
+ 
+<row><cell>&mdash;&mdash;</cell><cell></cell></row> 
+ 
+<row><cell>2d.</cell><cell>That the matters contained in the Complaint for the most part are 
+Mal-Administrations in the&mdash;<lb/>Councill in the Generall: Court &amp; in the Upper house of the 
+Generall Assembly; So that the Councill are not <lb/>only the best acquainted with the transactions there, 
+but also they are most nearly concerned in thm. <lb/>as relateing chiefly to their Libertys &amp; 
+priviledges in wch. the House of Burgesses have no right <lb/>to intermeddle.</cell></row> 
+ 
+<row><cell>&mdash;&mdash;</cell><cell></cell></row> 
+ 
+<row><cell>3d.</cell><cell>That the Complaint consists of matters of fact wch. are provable by 
+Evidences, &amp; the Complainants <lb/>are able to make Sufficient proof of them whenever they shall 
+be lawfully impowered so to doe, <lb/>but at present they cannot do it, because her Majesty hath not 
+thought fitt to give any directions <lb/>therein, and they cannot believe that the House of Burgeses will 
+ever be guilty of so great <lb/>an absurdity as to proceed to Judgement of the truth or falsehood of any 
+matter of fact,&mdash; <lb/>wch. doth not ly wth.in their own knowledge, wth.out Examining such 
+Evidence as can be given <lb/>to make proof thereof.</cell></row> 
+ 
+<row><cell>&mdash;&mdash;</cell><cell></cell></row>
+</table><lb/><lb/>
+<pb n="2"/>
+ <lb/><lb/>
+<table rows="7" cols="2"> 
+<row><cell>  4. </cell><cell>That (whatever hath been suggested) the Complainants have always been far 
+from <lb/>endeavouring to raise partys or factions or to disturb the peace of the Country; on the Contrary 
+their <lb/>great moderation hath appeared in the patience &amp; Submission they they have shewed 
+notwithstanding the many injuryes &amp; indignityes (not to be mentioned) tht. have been put upon 
+themselves &amp; others <lb/>by the Governrs. unjustifiable behaviour, &amp; in this particular Case they 
+addressed themselves in the <lb/>most peaceable &amp; humble manner to her Majesty the proper 
+fountain of justice for their <lb/>relief, &amp; she hath been gratiously pleased to take the same into her 
+own Cognizance <lb/>So that the House of Burgesses cannot concerne themselves in this matter without 
+arrogateing <lb/>to themselves a power to make a previous determination to tht. of her Majesty in an 
+affair <lb/>wch. she hath been pleased in an Especial manner to reserve for her own 
+Consideration.</cell></row> 
+ 
+<row><cell>&mdash;&mdash;</cell><cell></cell></row> 
+ 
+<row><cell>  5th. </cell><cell>That it appears plainly by her Majestys Order in Councill &amp; by the 
+Letters from the Rt. Honble: the <lb/>Lords Commissioners for Trade tht. the Complaint &amp; other 
+papers were sent to the Govr. for him to <lb/>make his answer; not that they should be brought to any 
+tryall or determination here; it is so far from that, that he is commanded not to shew so much as any 
+manner of <lb/>resentment agt. the Complainants, till her Majestys pleasure be further known. And it is 
+impossible <lb/>the House of Burgesses should take upon them to make any Judgemt. in this matter 
+wth.out <lb/>going directly Contrary to her Majestys pleasure in this particular, &amp; to the very 
+express Letter as <lb/>well as intent of the command from the Lords Commissioners for 
+Trade.</cell></row> 
+ 
+<row><cell>&mdash;&mdash;</cell><cell></cell></row> 
+ 
+<row><cell>  6th. </cell><cell>That the House of Burgesses cannot take upon them to intermeddle in this 
+affair without making <lb/>themselves Judges of the Rights &amp; Priviledges of the Councill, wch. in 
+Consequence may create lasting <lb/>divisions &amp; misunderstandings between thm. &amp; the 
+Burgesses; For whatever determination shall be <lb/>made here it cannot be supposed tht. the 
+Complainants will be so far wanting either in their duty to her <lb/>Majesty or in their regard to their 
+owne Characters or the Countrys interest as to Sitt Still patiently <lb/>&amp; not endeavour to Sett all 
+persons &amp; their proceedings in a true light. And it is not improbable <lb/>but the misfortunes tht. may 
+ensue to the Country upon such differences, may be what is chiefly <lb/>aimed at.</cell></row> 
+ 
+<row><cell>&mdash;&mdash;</cell><cell></cell></row> 
+ 
+<row><cell>  7th.</cell><cell>That the Complainants have been very Cautious of Concerning themselves 
+wth. the House of Burgesses <lb/>tht. they might not give thm. the least umbrage of disatisfaction. And 
+surely the House of Burgesses <lb/>have great reason to be as Cautious tht. they do not themselves sowe 
+those seeds of discord &amp;C<lb/>Contention wch. may in a short time grow up to interrupt the peace 
+&amp; happiness of the&mdash; <lb/>whole Country.</cell></row> 
+ 
+</table><lb/><lb/> 
+J LIGHTFOOT<lb/> 
+ROBERT CARTER<lb/> 
+PHILL: LUDWELL<lb/> 
+ &mdash;&mdash;<lb/><lb/>
+<add place="marginbot">Copy Teste. William Randolph Junr. Clerk House Burgesses</add><lb/>
+&mdash;&mdash;<lb/><lb/>
+ 
+<add place="marginbot">Memorandum That the House of Burgesses had the Letter read, but would<lb/>
+doe nothing in it.</add><lb/> 
+&mdash;&mdash;<lb/>
+&mdash;&mdash;<lb/><lb/>
+<add place="marginleft">A Copy</add></p> 
+
+</div1> 
+</body> 
+ 
+<back> 
+<div1 type="notes"> 
+<head>NOTES</head> 
+
+<note><hi rend="italics">Source copy consulted:  </hi>New York (Colony). Council Papers. State Archives, New York State Education Department, Albany, Vol. 51, p. 32a-b.  This document was copied for Governor Francis Nicholson's private papers, and was carried by him to New York when he later became governor of that colony. The papers remained in New York, passing into the custody of the State Library which burned around the turn of the twentieth century, causing some damage to this series of records. These records have been transferred to the state 
+archives, and there are several copies of this document in the series. The text was transcribed from one that seems to be most contemporary in its handwriting to the early eighteenth century, and two other copies in the series have been used to supply words in the copy text that were damaged by the fire.</note>
+ 
+<note id="n1">[1] John Lightfoot (d. 1707) of New Kent County had been appointed to the Council in 1692. (<cit><bibl n="B7">Tinling. <title>The Correspondence of the Three William Byrds. . . .</title> p. 129.</bibl></cit>)</note> 
+ 
+<note id="n2">[2] The date of the document was determined from other records in the series pertaining to the actions of the House of Burgesses on this matter.</note> 
+ 
+<note id="n3">[3] The complaint referred to was part of an ongoing conflict between some members of the Council, including RC and James Blair, and Governor Francis Nicholson who lost, in large part due to political maneuvering carried out by Blair in England. Details of this conflict can be found in <cit><bibl n="B2">Rouse, <title>James Blair of Virginia</title></bibl></cit>, and <cit><bibl n="B27">Billings, <hi rend="italics">et al. </hi> <title>Colonial Virginia: A History.</title></bibl></cit></note> 
+ 
+</div1> 
+</back> 
+</text> 
+ 
+</TEI.2>

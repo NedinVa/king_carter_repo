@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C10g20a">
+
+<teiHeader type="aacr2"> 
+              
+<fileDesc> 
+<titleStmt> 
+     <title type="245">Letter from Robert Carter to John Goodwin, 1710 July 20</title> 
+   <title type="gmd">[electronic resource]</title> 
+     <author>Carter, Robert</author>
+         <respStmt> 
+     <resp>Creation of machine-readable version: </resp> 
+     <name id="editor">Edmund Berkeley, Jr.</name>
+      <name id="hand">Robert Carter</name>
+     <resp>Conversion to TEI.2-conformant markup</resp> 
+     <name>Edmund Berkeley, Jr., and the University of Virginia Library Electronic Text Center</name> 
+   </respStmt> 
+</titleStmt> 
+ 
+<extent>ca. 6 kilobytes </extent> 
+ 
+<publicationStmt> 
+     <publisher>University of Virginia Library.</publisher> 
+     <pubPlace>Charlottesville, Va.</pubPlace> 
+     <idno type="ETC"></idno> 
+     <availability> 
+     <p>Publicly accessible</p> 
+     <p n="public">URL: http://etext.lib.virginia.edu/modeng.browse.html</p> 
+         </availability> 
+     <date>2001</date> 
+</publicationStmt> 
+ 
+<sourceDesc> 
+     <biblFull> 
+     <titleStmt> 
+     <title>Letter from Robert Carter to John Goodwin, 1710 July 20</title> 
+     <author>Robert Carter</author> 
+     </titleStmt> 
+    <extent> 1 p.</extent> 
+<publicationStmt> 
+     <date>1710-07-20</date> 
+   <idno type="callNo"> Source copy consulted: Christ Church Parish, Lancaster County, Processioners' Returns, 1711-1783, and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond, 180.</idno> 
+</publicationStmt> 
+</biblFull> 
+</sourceDesc> 
+ 
+</fileDesc> 
+     <encodingDesc> 
+     <projectDesc> 
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p> 
+     </projectDesc> 
+<editorialDecl> 
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in establishing 
+analytical groupings.</p> 
+</editorialDecl> 
+ 
+<classDecl> 
+     <taxonomy id="LCSH"> 
+     <bibl> 
+     <title>Library of Congress Subject Headings</title> 
+     </bibl> 
+     </taxonomy> 
+</classDecl> 
+</encodingDesc> 
+ 
+<profileDesc> 
+     <creation> 
+     <date>1710-07-20</date> 
+     </creation> 
+     <langUsage> 
+     <language id="eng"></language> 
+     </langUsage> 
+     <textClass> 
+     <keywords> 
+     <term>non-fiction</term> 
+   <term>prose</term> 
+     </keywords> 
+     <keywords scheme="LCSH"> 
+     <term type="Field650">LCSH</term> 
+     </keywords> 
+     </textClass> 
+</profileDesc> 
+ 
+</teiHeader> 
+ 
+<text id="C10g20aT"> 
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 pp.</extent>
+<date value="1710-07-20">July 20, 1710</date>
+<idno rend="suppress">C10g20a</idno>
+<title>Letter from Robert Carter to John Goodwin, 1710 July 20</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant John Goodwin, July 20, 1710, that he must once again take up the affairs of the estate of Ralph Wormeley although the sons are now in charge of their affairs. He reminds Goodwin that in an account current of September 3, 1708, Goodwin had reported that the estate had a balance with him of more than 182 pounds against which Carter had drawn only one small bill for four pounds to Doctor Lomax. He chastises Goodwin for not having credited young Ralph Wormeley with this large balance, and further, for his failure to pay a small bill sent by Ralph forcing Ralph to draw a new bill and pay the fees. He adds that even with the goods sent this year, Goodwin remains in debt to Ralph about 90 pounds and that "I order &amp; now desire you to" give the sons "the ballance of the aforesd account to the Credit of their next account, Currt." He concludes that Goodwin ought to make good the fees incurred by Ralph on the protested bill.</p>
+</div1>                 
+</front>
+
+
+<body> 
+ 
+<div1 type="letter" n="1710-07-20"> 
+ 
+<head>Letter from Robert Carter to <note n="JG">John Goodwin,</note> July 20, 1710</head> 
+ 
+<opener> 
+ 
+<dateline>
+<pb n="1"/> 
+<name type="place">Rappa<add  resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/> 
+ 
+<date value="1710-07-20">July 20 1710</date><lb/>
+Mr. Jno. Goodwin 
+</dateline> 
+                                              
+</opener>                                   
+ 
+<p>My last to you relating to Esqr. Wormeley's <lb/>Estate bore date September the 25 1708, I then 
+<lb/>told you the young men being come to ages of <lb/>discretion, had taken upon them the Goverment 
+of <lb/>their own affairs, and that I should be no further <lb/>concern'd therein.  In your last account 
+Current <lb/>of that Estate to me bearing date the 3 Septem:<lb/>:ber 1707 you make yourself indebted to 
+them <lb/>one hundred eighty two <add place="supralinear">pounds</add> one Shilling &amp; three 
+<lb/>pence halfpenny, out <add place="supralinear">of</add> wch. I cannot remember I 
+<lb/><add resp="editor">[m]</add>ade the least use excepting four pound ten 
+<lb/><add resp="editor">[sh]</add>illings payable to <name type="person">Docter Lomax</name>, 
+notwithstand<lb/><add resp="editor">[ing whi]</add>ch you have given my Cousin <name 
+type="person">Ralph <lb/><add resp="editor">[Wor]</add>meley</name> no Credit for this money, nor so 
+much <lb/><add resp="editor">[as]</add> take any notice of it in your Account to him <lb/><del 
+rend="overstrike">bearing date</del> of the 20th. of February last, nay <lb/><add resp="editor">[it]</add> is 
+pretty extraordinary you charge him D<add resp="editor">[ebto]</add>r wth 
+<lb/><add resp="editor">[you]</add> for nine pounds paid to <note target="n1">Mr. Pratt</note>, when the 
+bill is <lb/><add resp="editor">[re]</add>turnd protested &amp; he forct to pay it over agin, <lb/>wth. 15 
+per Ct. damages when at the same <add place="supralinear">time</add> adjusting <lb/>everything even 
+the payment of the goods you <add place="supralinear">have</add> this <lb/>year sent them, you will be 
+indebted to that <lb/>Estate near <add place="supralinear">about ninety</add> <del rend="overstrike">one 
+hundred</del> pounds, these things <lb/>the young Wormeley's have desired me to note to you, <lb/>and 
+that you will carry the ballance of the <lb/>aforesd account to the Credit of their next account, <add 
+place="supralinear" n="hand">Currt</add> wch. <lb/>accordingly I order &amp; now desire 
+you to do, they <lb/>being  since they came to age the proper Executrs <lb/>of their father's Estate, &amp; 
+I think in justice you <lb/>ought to make good the damage upon that <lb/>protested bill, wch. is all I shall 
+add <del rend="overstrike">from</del> but</p> 
+    
+<closer><add n="hand">Yor humble Servt.</add></closer> 
+ 
+</div1> 
+</body> 
+ 
+<back> 
+<div1 type="notes"> 
+<head>NOTES</head> 
+
+<note><hi rend="italics">Source copy consulted: </hi>  Christ Church Parish, Lancaster County, Processioners' Returns, 1711-1783, and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond, 180. The complimentary close is in Carter's hand.</note>
+ 
+<note id="n1">[1] Probably John Pratt, a London merchant.</note> 
+ 
+</div1> 
+</back> 
+</text> 
+ 
+
+</TEI.2>

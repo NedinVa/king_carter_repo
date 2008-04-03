@@ -1,0 +1,180 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C29h26d">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to John Falconar, August 26, 1729</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 9 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C29h26d.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2005</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to John Falconar, August 26, 1729</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1729-08-26</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C29h26dT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1729-08-26"></date>
+<idno rend="suppress">C29h26d.xml</idno>
+<title>Letter from Robert Carter to John Falconar, August 26, 1729</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant John Falconar, August 26, 1729, to inform him of the great damage to the colony's crops caused by the heavy rains of the summer, and to request that he pay John Pratt for goods Carter has asked Pratt to buy for him. In a post script he asks Falconar to join William Dawkins as security for Carter's son Charles work as naval officer of the Rappahannock.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note target="n1">John Falconar,</note> August 26, 1729</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1729-08-26">Augst. 26. 1729</date><lb/>
+Mr John Falconar<lb/>
+</dateline>
+<salute>Sir.</salute>
+
+</opener>
+
+
+
+<p>This <del>will</del> <add place="supralinear">is like to be</add> the last conveyance we shall <lb/>
+have you will have from many hands the news of the great destruction <lb/>
+upon our Crops this year by the Continued rains to pretend to guess how <lb/>
+much we Shall make less <sic corr="than">then</sic> we did the last Year will be nonsence <lb/>
+but very much Short to be sure it will be which with the <note target="n2">Liberty of Stemm<lb/>
+ing</note> gives us reviving hopes that we shall meet with much better markets <lb/>
+for the <abbr expan="tobacco">tobo</abbr> already gone than <sic corr="has">hath</sic> fallen to our Share These late years</p>
+
+<p>My Good <note target="n3">Daddy Pratt</note> I have requested to buy <lb/>
+me some Particular things which I now desire you to let him have the <lb/>
+money for when he Calls for it I reckons they will amount to between thirty <lb/>
+and five and thirty pounds</p>
+
+<p>I heard of <note target="n4"><abbr expan="Captain">Capt</abbr> Willis's</note> being safe about 30 <lb/>
+Leagues to the Eastward of our cape I hope by this time he is near <abbr expan="with">wth:</abbr> <lb/>
+you I am 
+
+</p>
+
+<closer>Sir <lb/>
+Your friend &amp; <abbr expan="Humble">Hmble.</abbr> Servt:
+<seg type="postscript"><lb/><lb/>A postscript to Mr Falconars letter <abbr expan="August">Augst</abbr> 26. 1729<lb/><lb/>
+	My <note n="RC2">Son Robert</note> being <abbr expan="removed">remov'd</abbr> with his family from me into Poto<lb/>
+<sic corr="mac">mack</sic> river <note n="WG">Our <abbr expan="Governor">Govr</abbr></note> <sic corr="has">hath</sic> been so kind to give his Naval <abbr expan="Officer's">Offrs:</abbr> <lb/>
+place to My <note n="CC1">Son Charles</note> he must give new Security to the <abbr expan="Commissioners">Commissrs:</abbr> <lb/>
+of the Customs I <sic corr="desired">desird</sic> you to be one for My Son Robert you answ.<lb/>
+erd me you willingly should but that there was no Occasion <lb/>
+for you You will oblige me now to Offer yourself to <note n="WD">Mr Daw<lb/>
+kins</note> to be <sic corr="joined">joyned</sic> with Him I will be your Counter security</seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1] John Falconar (d. <hi rend="italics">ca.</hi> 1729) was a London merchant with whom Carter dealt. In 1728, Falconar and Henry Darnell formed an association of 29 London tobacco merchants to deal with the French tobacco purchasing agent as a group in order to keep the price as high as possible. The association lasted only lasted a year or two before dissolving because some of its members were dealing directly with the French agent and selling below the agreed-upon price. (See Carter to William Dawkins, and Carter to Falconar's executors, both 1730 April 16, for Falconar's death date. <cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> Newport News, VA: Mariners' Museum, 1953. p. 129</bibl></cit></note>
+
+<note id="n2">[2] Parliament had passed an act forbidding the importation of stemmed tobacco in 1722. John Randolph was sent to England in 1729 as agent for Virginia to try to have the act overturned; his mission would be successful.<corr resp="editor"></corr> (<cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> [Newport News, VA: Mariners' Museum, 1953.] p. 116.</bibl></cit>)</note>
+
+<note id="n3">[3] John Pratt was a London merchant and an old friend of Carter's who usually referred to him as "Daddy."</note>
+
+<note id="n4">[4] Captain Peter Wills commanded the  <hi rend="italics">Booth</hi> in 1723-1724, and the <hi rend="italics">Amity,</hi> a vessel of 500 tons and 21 men,  in 1727-1729. He is mentioned in Carter's diary for June 1723.  (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194, and Survey Report 6801 summarizing Adm. 68/195,Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

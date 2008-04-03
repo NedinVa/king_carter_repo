@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C27g28d">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Captain Charles Lee and Thomas Berry, July 28, 1727</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 11 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C27g28d.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2003</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Captain Charles Lee and Thomas Berry, July 28, 1727</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1727-07-28</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C27T">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1727-07-28"></date>
+<idno rend="suppress">C27.xml</idno>
+<title>Letter from Robert Carter to Captain Charles Lee and Thomas Berry, July 28, 1727</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Captain Charles Lee and Thomas Berry, Churchwardens of Wiccomco Parish, Northumberland County, July 28, 1727, to clear up any misgiving that they may have had concerning the application of Reverend Thomas Bailey to be their minister. Carter lays out the circumstances of Bailey's departure from his last Virginia parish, his low wages in North Carolina, his qualifications as deacon and priest, and notes that Bailey asks only to be on probation until the arrival of the governor.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to Captain <note target="n1">Charles Lee</note> and Thomas Berry, Churchwardens of Wiccomco Parish, Northumberland County, July 28, 1727</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
+<date value="1727-07-28">July the. 28th: 1727</date><lb/>
+To Capt. Chas: Lee &amp; Mr. Thos: Berry<lb/>Churchwardens of Wiccomco Psh <lb/>In Northumberland County<lb/>
+</dateline>
+<salute></salute>
+
+</opener>
+
+<p>I <sic corr="believe">beleive</sic> what I Said to <abbr expan="Captain">Capt:</abbr> Chas: Lee <sic corr="relating">relateing</sic> <lb/>to Mr. <note target="n2"><abbr expan="Thomas">Thos:</abbr> Bailey</note> Clerk might have some Influence upon <abbr expan="Several">Sevl.</abbr> of the <lb/><del>best</del> <add place="supralinear">better</add> Gentlemen of your parish in <sic corr="Introducing">Introduceing</sic> an Indifferent Opinion of the <abbr expan="said">sd.</abbr> <lb/>Mr. Bailey he is now <sic corr="returned">returnd</sic> with a Copy of the proceedings against him <lb/>before the <abbr expan="Governor">Govr:</abbr> and Council, <del>there does not appear in it</del> upon a Com<lb/>plaint of the Vestry of the <abbr expan="Parish">Parsh</abbr> he then Officiated in there does not <lb/>appear any thing made out against him It came to this Issue <lb/>he agreed to leave them and they paid him his Salary for that <abbr expan="Current">Curt.</abbr> year <lb/>he was then as he Says invited to a <abbr expan="Parish">Parsh</abbr> in North Carolina and in a <lb/>Short time after left the <abbr expan="Government">Governmt.</abbr> as he had promised the <abbr expan="Governor">Govr:</abbr> to do <lb/>where his Income was so very Small he could not maintain him<lb/>self and family upon it, he hath now produced both his Deacons &amp; <lb/>Priests Orders to me whereby he is full Qualifyed <add place="supralinear">upon that Accot.</add> &amp; to E<add resp="editor">[xercise]</add> 
+
+<pb n="2"/><lb/><lb/>
+<del>his Ministerial function amongst you</del> and <add place="supralinear">promises</add> to take such care of his <lb/>future Life and Conversations to give no Occasion of Complaint <lb/>against him he is of very low Circumstances for the Support of him <lb/>Self and family All that he desires is that you will receive him <lb/>as a Probationer only for the present in the Exercise of his Ministeria<add resp="editor">[l]</add> <lb/>function <sic corr="until">untill</sic> the Arrival of the <abbr expan="Governor">Govr:</abbr> and the Commissary In <lb/>which I have promised him to give him no disturbance Yor. <abbr expan="Parish">Parsh</abbr> <lb/>hath bin a long time Vacant and if you Entertain him upon <lb/>these termes I <sic corr="believe">beleive</sic> you will think it better <sic corr="than">then</sic> to live <add place="supralinear">Still</add> without <lb/>any Minister at all I am </p>
+
+<closer>Gent <lb/>Yor: humble Servt:</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. There is a nineteenth-century copy of this letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia. </note>
+
+<note> The name of Robert Carter's home, the county, and colony have been added for clarity to this unheaded draft.</note>
+
+<note id="n1">[1] Charles Lee (1684-1735) of Cobb's Hall, Northumberland County. </note>
+
+<note id="n2">[2] Thomas Baylie (Bayley, Bailey, b. 1683?) was one of the most notorious colonial Virginia clergymen. Commissary Blair had written to the bishop of London in 1724, "We have at present two Ministers (Mr. Thomas Baylie and . . . ) so very scandalous for drunkenness and fighting and Quarreling in their drink that many grevious complaints are brought to me against them, and indeed the Country rings of the scandal given by them." Baylie was the minister at that time of Newport Parish, Isle of Wight County. The parish determined to get rid of Baylie, and in 1725, brought an agreement to the Governor and Council by which Baylie agreed to relinquish his ministry and leave the colony; he disputed the amount of salary he was to receive and was awarded the full year. (<cit><bibl>John K. Nelson. <title>A Blessed Company: Parishes, Parsons, and Parishoners in Anglican Virginia, 1690-1776.</title> [Chapel Hill and London: University of North Carolina Press, 2001]. p9. 153, 304, 401;</bibl></cit> and <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:89-90. </bibl></cit>)</note>
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

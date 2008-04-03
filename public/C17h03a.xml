@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C17h03a">
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to William Dawkins, 1717 August 3</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr., and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 5 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">Modeng enter file ID</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/modeng.browse.html</p>
+         </availability>
+     <date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to William Dawkins, 1717 August 3</title>
+
+     <author>Robert Carter</author></titleStmt>
+
+    <extent> 1 p.</extent>
+<publicationStmt>
+     <date>1717-08-03</date>
+   <idno type="callNo"> Source copy consulted: Minor-Blackford Papers, James Monroe Law Office
+and Museum, Fredericksburg, Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in establishing
+analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH">
+     <bibl>
+     <title>Library of Congress Subject Headings</title>
+     </bibl>
+     </taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation>
+     <date>1717-08-03</date>
+     </creation>
+     <langUsage>
+     <language id="eng"></language>
+     </langUsage>
+     <textClass>
+     <keywords>
+     <term>non-fiction</term>
+   <term>prose</term>
+     </keywords>
+     <keywords scheme="LCSH">
+     <term type="Field650">LCSH</term>
+     </keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C17h03aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 pp.</extent>
+<date value="1717-08-03"></date>
+<idno rend="suppress">C17h03a</idno>
+<title>Letter from Robert Carter to William Dawkins, 1717 August 3</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant William Dawkins, August 3, 1717, commenting on politics in England and disparaging the Tories.</p>
+</div1>                 
+</front>
+
+
+<body>
+
+<div1 type="letter" n="1717-08-03">
+
+<head>Letter from Robert Carter to <note n="WD">William Dawkins,</note> August 3,
+1717</head>
+
+<opener>
+
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Rappahannock, Lancaster County, Virginia]</add></name><lb/>
+
+<date value="1717-08-03">Augt 3, 1717</date>
+</dateline>
+                                             
+<salute>To Wm. Dawkins</salute>
+                  
+</opener>
+
+<p>x     x      x      x      x<lb/>     x          x       x     x<lb/> Pray God bless <note target="n1">King
+George</note> &amp; <lb/>send him to crush <note target="n2">all his enemies  at <lb/>home &amp;
+abroad</note> If the Tories will <lb/>set up for a King of their own and make <lb/>him above the controul of Law, pro=<lb/>vided they will withdraw to a country <lb/>where  they &amp; their King may quietly
+<lb/>enjoy their mutual claims upon <lb/>one another according  to their hearts <lb/>content&mdash; he his despotic, unreason=<lb/>able sovereighty&mdash; they their passive, <lb/>brutish subjection, lett but us &amp; our <lb/>legal King alone, I'll never envy <lb/>them. Att the same time, whig=<lb/>gism, I must tell you under the <lb/>rose, hath no abundance of patrons <lb/>among us. You know by this time
+<lb/>what means the mightly  change lately <lb/>made in this <note target="n3">Ministry</note>. Such ruptures <lb/>have too often bad consequences. <lb/>But I leave politics &amp; conclude for the present.<lb/><lb/>
+Sir 
+</p>
+
+</div1>
+</body>
+
+<back>
+<div1 type="notes">
+<head>NOTES</head>
+
+<note><hi rend="italics">Source copy consulted: </hi>  Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia. These texts are all nineteenth-century copies. Apparently there was in existence a letter book of Robert Carter's&mdash;now lost&mdash;from which the unknown copiest recorded these texts. As they are the only texts, the punctuation and "corrections"
+obviously supplied by the copiest have been retained. The copist used rows of the letter "x" to indicate material that he did not copy from the letter book.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The return address, county, and state have been added for clarity on this unheaded letter.</note><lb/>
+
+
+<note id="n1">[1] George I, who reigned from 1714 to 1727, the first Hanoverian.</note>
+
+<note id="n2">[2] Carter refers to the struggle between the Whigs and the Tories which brought the Whigs to power in 1715, and resulted in a contest between factions of the Whigs for supremacy. Sir Robert Walpole and Viscount Townshend led one faction, and the earls of Stanhope and Sunderland led the other.</note>
+
+<note id="n3">[3] James, first Earl Stanhope, replaced Charles , second Viscount Townshend, as leading minister in 1717; both were Whigs.</note>
+
+
+</div1>
+</back>
+</text>
+</TEI.2>

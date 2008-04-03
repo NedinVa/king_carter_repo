@@ -1,0 +1,223 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2  SYSTEM  'teixlite.dtd' [ 
+<!NOTATION jpg  SYSTEM  "jpeg"> 
+<!ENTITY filename  SYSTEM  "filename.jpg" NDATA jpg> 
+<!ENTITY % ISOlat1 SYSTEM  "ISOlat1.pen"> %ISOlat1; 
+<!ENTITY % ISOlat2 SYSTEM  "ISOlat2.pen"> %ISOlat2; 
+<!ENTITY % ISOnum SYSTEM  "ISOnum.pen"> %ISOnum; 
+<!ENTITY % ISOpub SYSTEM  "ISOpub.pen"> %ISOpub; 
+<!ENTITY % ISOtech SYSTEM  "ISOtech.pen"> %ISOtech; 
+]> 
+ 
+<TEI.2 id="C02f15b"> 
+<teiHeader type="aacr2"> 
+              
+<fileDesc> 
+<titleStmt> 
+     <title type="245">Letter from Robert Carter to Thomas Corbin, 1702 June 15</title> 
+   <title type="gmd">[electronic resource]</title> 
+     <author>Carter, Robert</author> 
+   <respStmt> 
+     <resp>Creation of machine-readable version: </resp> 
+     <name id="editor">Edmund Berkeley, Jr.</name> 
+     <resp>Conversion to TEI.2-conformant markup</resp> 
+     <name>Edmund Berkeley, Jr., and the University of Virginia Library Electronic Text Center</name> 
+   </respStmt> 
+</titleStmt> 
+ 
+<extent>ca. 9 kilobytes </extent> 
+ 
+<publicationStmt> 
+     <publisher>University of Virginia Library.</publisher> 
+     <pubPlace>Charlottesville, Va.</pubPlace> 
+     <idno type="ETC"></idno> 
+     <availability> 
+     <p>Publicly accessible</p> 
+     <p n="public">URL: http://etext.lib.virginia.edu/modeng.browse.html</p> 
+         </availability> 
+     <date>2001</date> 
+</publicationStmt> 
+ 
+<sourceDesc> 
+     <biblFull> 
+     <titleStmt> 
+     <title>Letter from Robert Carter to Thomas Corbin, 1702 June 15</title> 
+     <author>Robert Carter</author> 
+</titleStmt>
+    <extent>2 p.</extent> 
+<publicationStmt> 
+     <date>1702-06-15</date> 
+   <idno type="callNo"> Source copy consulted: Christ Church Parish, Lancaster County, 
+Processioners' Returns, 1711-1783,and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, 
+Archives Research Services, Library of Virginia, Richmond, 151-152.</idno> 
+</publicationStmt> 
+</biblFull> 
+</sourceDesc> 
+ 
+</fileDesc> 
+     <encodingDesc> 
+     <projectDesc> 
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p> 
+     </projectDesc> 
+<editorialDecl> 
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in establishing 
+analytical groupings.</p> 
+</editorialDecl> 
+ 
+<classDecl> 
+     <taxonomy id="LCSH"> 
+     <bibl> 
+     <title>Library of Congress Subject Headings</title> 
+     </bibl> 
+     </taxonomy> 
+</classDecl> 
+</encodingDesc> 
+ 
+<profileDesc> 
+     <creation> 
+     <date>1702-06-15</date> 
+     </creation> 
+     <langUsage> 
+     <language id="eng"></language> 
+     </langUsage> 
+     <textClass> 
+     <keywords> 
+     <term>non-fiction</term> 
+   <term>prose</term> 
+     </keywords> 
+     <keywords scheme="LCSH"> 
+     <term type="Field650">LCSH</term> 
+     </keywords> 
+     </textClass> 
+</profileDesc> 
+ 
+</teiHeader> 
+ 
+<text id="C02f15bT">
+
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 pp.</extent>
+<date value="1702-06-15">June 15,1702</date>
+<idno rend="suppress">C02f15b</idno>
+<title></title>
+</bibl>
+</head>
+<p>Robert Carter writes London merchant Thomas Corbin concerning various problems, including tobacco sales, of the estate of Ralph Wormeley, for which he is one of several trustees. He reports that he is shipping 12 hogsheads of tobacco, and will ship more, all for the sale and benefit of the estate. He thanks Corbin for sending news, comments on the lamentable death of King William and expresses the hope that the nation will prosper under Queen Anne, especially in the fighting with France.</p>
+</div1>                 
+</front>
+
+
+
+ 
+<body> 
+ 
+<div1 type="letter" n="1702-06-15"> 
+ 
+<head>Letter from Robert Carter to <note n="TC">Thomas Corbin</note>, June 15, 1702</head> 
+ 
+<opener> 
+ <pb n="1"/> 
+
+<dateline> 
+<name type="place">Rappa[hannock, Lancaster County, Virginia]</name><lb/> 
+ 
+<date value="1702-06-15">June the 15th. 1702</date><lb/>
+Mr. Tho. Corbin&mdash;
+</dateline> 
+                                              
+<salute>Sr.</salute> 
+                          
+</opener> 
+ 
+<p>Your Letters by Burford <note target="n1">Lurthing</note>, <note target="n2">Trajan</note>, 
+<note target="n3">Tayloe</note> &amp; the last of <add resp="editor">[them]</add> <lb/>by Capt. Dove 
+are Come to hand, In one of them you tell me <lb/>you sold the Tenn hogsheads of Tobaccoe sent you 
+per <add resp="editor">[Captain John]</add> Gallon at 9<add resp="editor">[d]</add> <lb/>and that you would 
+in Due Time send me an Accot., But sin<add resp="editor">[ce I]</add> <lb/>have seen no such Thing, for 
+the Tobaccoe went out of <lb/><sic corr="York">Yourk</sic> River to you, I never heard yett what 
+became o<add resp="editor">[f it]</add> <lb/>You tell me you had sent the Rings I had Writt for, I 
+<add resp="editor">[had]</add> <lb/>One of them from <note n="EJ">Collo. Jenings</note>, the Rest 
+he hath <add resp="editor">[dis]</add><lb/>posed off. I know Wee have all an equall power in 
+Re<add resp="editor">[gard]</add> <lb/>of the Estate and in Regard there are soe many 
+Concer<add resp="editor">[ned]</add> <lb/>Could Wish I was fairly Discharg'd, having business 
+enou<add resp="editor">[gh of]</add> <lb/>my Own to Imploy my Thoughts upon, The Chiefest of 
+t<add resp="editor">[he]</add> <lb/>Trouble hath yett lain upon me, and while I 
+Contin<add resp="editor">[ue]</add> <lb/>to Intermedle in shipping the Tobaccoes, Sending for 
+<add resp="editor">[pro]</add><lb/>-vision any Goods wth. the &amp;c.as I must Expect the 
+<add resp="editor">[men]</add> <lb/>I Correspond wth. send their Accots. and Invoices 
+<add resp="editor">[that]</add> <lb/>I may Discharge myself fairly, as farr as I shall 
+<add resp="editor">[my]</add><lb/>self to the Children when they Come of Age, &amp; they 
+<unclear>[ . . . ]</unclear> <lb/>Desire, that the Tobo. I sent to you last year, and w<add resp="editor">[ould 
+send]</add> <lb/>hereafter to you wth. the necessarys I shall from ti<add resp="editor">[me to 
+time]</add> <lb/>Write for, may be still accountd. for to me <lb/>I must be so Free to say shall Decline 
+any further <add resp="editor">[to concern]</add> <lb/>myself wth. the Estate, or shall apply my self to over 
+<lb/>take their Methods; I shall alwayes be most Ready <add resp="editor">[to account]</add> <lb/>to the 
+Rest of the Trustees of my proceedings, as I hope <add resp="editor">[they will]</add> <lb/>do to me <add 
+place="marginleft">I have no Other Design <lb/>but the Service of the Children <lb/>wth:out the least appearance <lb/>of any profitt to myself <lb/>for all my Trouble, <lb/>and therefore have all <lb/>the 
+Reason in the World to take Care not <lb/>to Intangle <lb/>my own Concerns</add> The Tobacco that 
+went to <note n="FL">Mr. Lee</note> &amp; <note n="JM">Mr. Mathews</note> 
+<add resp="editor">[sold?]</add> <lb/>none under 09d3/4 The most at 10d some at 10d. 1/2.</p> 
+ 
+<p>This Encloses a bill of Lading for Twelve hogsheads of Toba<add resp="editor">[ccoe be]</add><lb/>- 
+longing to that Estate shipp'd on board the <name type="ship">abram</name> John 
+<add resp="editor">[Street]</add> <lb/>Commander bound for <name type="place">London</name>, 
+Consignd to you for sale to <lb/>the Accot. &amp; risqe. of the Infant Exrs., Desire you will 
+pa<add resp="editor">[y]</add> <lb/>the Bill of Exa. I have Drawn for the Impost.</p> 
+ 
+<p>Capt. Tayloe Arriv'd so late that Wee w<add resp="editor">[ere]</add> <lb/>Suspicious of his Coming 
+and Freight being very s<add resp="editor">[carce]</add> <lb/>at One Time, I was glad to secure as much as 
+I Co<add resp="editor">[uld]</add> <lb/>for the Estate, and had shipt all the Tobo. made, 
+be<add resp="editor">[fore]</add> <lb/>the Corbin came in, All the Tobo. made in Yourk River 
+th<add resp="editor">[is]</add> <lb/>year will be Consign'd to you, Should be glad you will 
+<add resp="editor">[let]</add> <lb/>me know how the accots. Currtt. will Stand between you 
+<add resp="editor">[and]</add> <lb/>Esqr. Wormeleys Estate.</p> 
+ 
+<pb n="2"/><lb/><lb/> 
+<p>I thank you for yor. kind Entertainmts. of News from Time to Time is <lb/>very satisfactory to Us, in 
+this Melancholly Corner of the World <lb/>pray God make up our Loss in the Death of <note target="n4">King William</note> 
+<lb/>the best of Princes &amp; Best of Men, and Prosper Our Arms, <lb/>by 
+sea and Land, That Wee may Retrieve the antient Glory <lb/>of the English Nation and that France may 
+be soe lowerd <lb/>no longer to be the Dread of her Neighbours a Work I hope <lb/>Design'd by Heaven 
+to a Grandize to posterity the Name <lb/>of Our Glorious Queen Ann, Little News hence but Wee hope 
+<lb/>these Troubl'd Waters will Afford us a good price for Our Tobaccoe <lb/>I am Sr.</p> 
+ 
+ 
+<closer>Your very humble Servt.</closer> 
+ 
+</div1> 
+</body> 
+ 
+<back> 
+<div1 type="notes"> 
+<head>NOTES</head> 
+ <note><hi rend="italics">Source copy consulted: </hi>Christ Church Parish, Lancaster County, 
+Processioners' Returns, 1711-1783, and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond, pp. 151-152.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note>
+
+<note id="n1">[1] This may be Robert Lurty, master, on June 9, 1700, of the 
+<hi rend="italics">Nicholson</hi>, a London vessel of 16 guns and 23 men.  (<cit><bibl n="A19">Middleton. "The Chesapeake Convoy System, 1662-1763."</bibl></cit>)</note>
+ 
+<note id="n2">[2] Probably Richard Tregian, commander on June 9, 1700, of the 
+<hi rend="italics">Society</hi>, a ship from London of 16 guns and 22 men. (<cit><bibl n="A19">Middleton. "The Chesapeake Convoy System, 1662-1763."</bibl></cit>)</note>
+ 
+<note id="n3">[3] Robert Tayloe, master of the <hi rend="italics">Corbin</hi>. </note>
+ 
+<note id="n4">[4] William III died in March 1702.</note>
+ 
+<note id="n5">[5] RC refers to the early stages of the War of the Spanish 
+Succession which was to last until 1713.</note> 
+ 
+</div1> 
+</back> 
+</text> 
+ 
+
+</TEI.2>

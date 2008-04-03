@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C27f28g">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Edward Tucker, June 28 and July 25,  1727</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 7 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C27f28g.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2003</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Edward Tucker, June 28 and July 25,  1727</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>4 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1727-06-28</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C27f28gT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>4 p.</extent>
+<date value="1727-06-28"></date>
+<idno rend="suppress">C27f28g.xml</idno>
+<title>Letter from Robert Carter to Edward Tucker, June 28 and July 25,  1727</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Weymouth merchant Edward Tucker, June 28 and July 25,  1727, reporting his shipment of 6 hogsheads of tobacco on board the merchant's ship, the <hi rend="italics">Portland,</hi> and ordering a "hogshead of your fine Dorchester Ale" which he wants carefully bottled and packed because the last shipment was poorly packed  and was damaged. He also wants a hogshead of Southam cyder in bottles. In a lengthy post script dated July 25th, he reports bills of exchange, increases his order of the Dorchester ale, and notes that the colony has learned of the ending of the siege of Gibralter.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="ET">Edward Tucker,</note> June 28 and July 25,  1727</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1727-06-28">June the. 28th: 1727</date><lb/>
+Mr. Edward Tucker<lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+<p>Your <note target="n1"><name type="ship">Portland</name></note> is <sic corr="gone">gon</sic> to York to fill up I have <lb/>Six <abbr expan="hogsheads">hhds</abbr> of my Crop <abbr expan="tobacco">Tobbo:</abbr> on board her which Sent you a bill of Lading <lb/>had Russell bin at liberty to <add place="supralinear">have</add> Sent a Sloop for this <abbr expan="tobacco">Tobbo:</abbr>
+ he might have <lb/>got <sic corr="ready">redy</sic> for this Fleet I must desire you to Send me in the next year <lb/>in one of your Ships a hogshead of your fine Dorchester Ale well and <lb/>Carefully bottled <sic corr="off">of</sic> and under very good Package Your Master <lb/><note target="n2">Britt</note> will tell you how I was abused in the last. The Southam Cyder <lb/>the Portland brought me I doubt will never be fine it is not yet 
+
+<pb n="2"/><lb/><lb/>
+Bottled If you can Send me a hogshead of it in bottles that is right good <lb/>Such as I had two Years ago, it would <add resp="editor">[be]</add> Acceptable but in Cask I will <lb/>have no more I am with a great deal of Sincerity </p>
+
+<closer>Sir<lb/>Yor: very humble Servt:
+<seg type="postscript"><lb/><lb/>herein is a bill of Exchange upon <lb/>you drawn by <note target="n3">Hugh Brent</note> <lb/>for &pound;23:-: which I desire Credit for
+<lb/><lb/>per <note target="n4">Watkinson</note>
+<lb/>Copy per <note target="n5">Trice</note></seg>
+
+<seg type="postscript"><pb n="3"/><lb/><lb/>Mr. Edward Tucker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Added to his Letter the 28 June
+Rappahannock July 25th: 1727<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir&mdash;<lb/>	 
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You have already bin advised of a bill I drew <lb/>on <add resp="editor">[you]</add> to  <note n="MCB"><abbr expan="George">Geo:</abbr> Braxton</note> for &pound;200 I now Send you <add place="supralinear">some</add> Second <add place="supralinear">bills</add> <del>Hugh Brents bills</del><lb/>Likewise some first bills <add place="supralinear">on your Self</add> to witt, Henry Ashtons for &pound;4"12"- Peter <lb/>Hack for &pound;3"-"- <abbr expan="Thomas">Thos:</abbr> Berry for &pound;23"11"10 amounting to Thirty <lb/>one pounds three and Ten pence.<lb/><lb/>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Find your Dorchester ale is so pleasing to the company <lb/>I am forced to give Entertainmt <sic corr="to">too</sic> that Instead of one <abbr expan="hogshead">hhd</abbr> of it I desire 
+
+<pb n="4"/><lb/><lb/>
+you to Send me in four hogsheads well and Carefully bottled <sic corr="off">of</sic> and Safely <lb/><sic corr="packed">packt</sic> up I have already given you an Accot: of the large loss I <sic corr="sustained">sustaind</sic> <lb/>by Breets man in the hogshead you Sent not less <sic corr="than">then</sic> four <abbr expan="dozen">doz:</abbr> and four bottles <lb/>came Short to me I would also desire you to Send me in three hogsheads of yor. <lb/>best Malt,<lb/><lb/>
+
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sic corr="We">Wee</sic> have now news from Several parts that the Seige of <lb/>Gibralter is raised and the latest from new York tells us the Differences <lb/>between the Contending powers <del>is</del> <add place="supralinear">are</add> to be <del>Ended</del> <add place="supralinear">Settled</add> in a Congress I am <lb/>per Trice&mdash;<lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir&mdash;<lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor: very humble Servt.&mdash;<lb/>
+</seg>
+
+</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. </note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
+
+<note id="n1">[1] John Russell commanded the <hi rend="italics">Portland,</hi> a vessel owned by Weymouth merchant Edward Tucker. (<cit><bibl>Survey Report 9729 detailing the Weymouth Port Books, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n2">[2] John Brett (Britt) was master of Weymouth merchant Edward Tucker's ship, the <hi rend="italics">Princess Amelia,</hi> which had been commanded by a Captain Lawrence until he was drowned. (Survey Report 9729 detailing the Weymouth Port Books, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.)</note>
+
+<note id="n3">[3] Hugh Brent was a resident of Christ Church parish in the 1716 survey of tithables of Lancaster County, and he would be sheriff in 1734. (<cit><bibl>"Tithables in Lancaster Co., 1716." <title>William and Mary Quarterly</title> 1st. ser., 21[July 1912]: 106-11,</bibl></cit> and <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:319. </bibl></cit>)</note>
+
+<note id="n4">[4] Watkinson was captain of the <hi rend="italics">Vine,</hi> a ship that may have been owned by Micajah Perry. (Carter to Pemberton, 1724 March 25)</note>
+
+<note id="n5">[5] The 140 ton <hi rend="italics">Welcome</hi> was owned by London merchant James Bradley to whom Carter would write about her on 1727 May 17. John Trice (Frice) was her captain, 1723-1727. (<cit><bibl>Adm 68/195, 154r, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

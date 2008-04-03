@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C31g09d.xml">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Alderman [Micajah] Perry &amp; Company, July 9, 1731</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca.10  kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C31g09d.xml.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2006</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Alderman [Micajah] Perry &amp; Company, July 9, 1731</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1731-07-09</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C31g09d.xmlT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1731-07-09"></date>
+<idno rend="suppress">C31g09d.xml.xml</idno>
+<title>Letter from Robert Carter to Alderman [Micajah] Perry &amp; Company, July 9, 1731</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchants  Alderman [Micajah] Perry &amp; Company, July 9, 1731, concerning tobacco that will be shipped on board the firm's vessel the <hi rend="italics">Spotswood</hi>, some of which belongs to George Nicholas and some to Mann Page's estate.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to Alderman <note n="MP2">[Micajah] Perry</note> &amp; Company, July 9, 1731</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappaha<add resp="editor">[nnock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1731-07-09">July 9. 1731</date><lb/>
+Alderman Perry &amp; Compa<lb/>
+</dateline>
+<salute><del>Sir</del> Gent</salute>
+
+</opener>
+
+
+
+<p>Your Master Bradby of the <note target="n1">Spotswood</note> is now at my <lb/>
+house giving me Bills of Lading, one for twenty hogsheads of my own <lb/>
+<abbr expan="Tobacco">Tobo.</abbr> This is to <sic corr="enclose">inclose</sic> <corr resp="editor">[them]</corr>, they are of my own Crops all stemmed &amp; &mdash;<lb/>
+streight laid. I am in hopes they will rise well &amp; clean I think I <lb/>
+may say our last Crop was generally good; there are nineteen <lb/>
+hogsheads more made up in <note n="NB">Mr Burwell's</note> plantations; Part of them<lb/>
+will come upon Accot of that Estate &amp; Part under my own <sic corr="Risk">Risque</sic> <lb/>
+being the Allotment which fell to <note n="ECB">Doctor Nicholas.</note> I am not <lb/>
+under so much Certainty with Respect to the numbers of them to &mdash;<lb/>
+take the Bills of Lading now. <note target="n2">William Camp</note> our General<lb/>
+Overseer of that Concern, <sic corr="has">hath </sic>Orders to take them &amp; to <sic corr="enclose">inclose</sic> one<lb/>
+of each parcel to you. I reckon there should be nineteen hogsheads,<lb/>
+ten of them my own Doctor Nicholas's Part. The Captain <sic corr="says">sayes</sic> <lb/>
+there is but eighteen yet aboard the other he promises to fetch <lb/>
+I have seen a pretty many <abbr expan="hogsheads">hhds</abbr> of Mr. Burwel's <abbr expan="Tobacco">Tobo</abbr> ths year &amp; I <lb/>
+hope they will deserve their former good Character &amp; in respect <lb/>
+to the price will keep pace with the finest Crops in York River <lb/>
+as they have hitherto done</p>
+
+<p><note n="MP1">Colonel Page's</note> Tobacco in this ship I am also under <lb/>
+no Certainty about. Care will be taken tht a bill of lading shall <lb/>
+be sent to for them I shall give you no further trouble at <lb/>
+present I expect the Secretary here every hour we will endeavoar<lb/>
+<corr resp="editor">[damage to text]</corr> ship will bring to you our joint proceedings I am
+</p>
+
+<closer>Your most humble sevt
+<seg type="postscript"><lb/><lb/><corr resp="editor">[damage to text]</corr> your new <corr resp="editor">[. . .]</corr><lb/>
+<corr resp="editor">[damage to text]</corr><corr resp="editor">[. . .]</corr> pay for
+</seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1] The <hi rend="italics">Spotswood</hi> was a  London ship commanded by James Bradby,  1727-1732, and was owned by Micajah Perry.  (<cit><bibl>Adm 68/195, 70r ff., found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. See Carter to Micajah Perry 1730 April 16.</bibl></cit>)</note>
+
+<note id="n2">[2] William Camp (Kemp) was described by Carter as "the General Overseer of Mr Burwell's Affairs" and he wrote that Camp earned a salary "&pound;50 . . . for the year 1731." Carter and his son-in-law, Mann Page, were the trustees of Nathaniel Burwell's children after Burwell's death in 1721. Camp was a resident of Gloucester County where most of the Burwell estates lay, and he must also have supervised "Rippon Hall" in nearby York County. (Carter to George Braxton, 1729 November 20, and Carter to William Dawkins,1732  July 11. <cit><bibl><title>Virginia Tax Records.</title> [Baltimore: Genealogical Publishing Company, Inc., 1983.] p. 539.</bibl></cit>)</note>
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

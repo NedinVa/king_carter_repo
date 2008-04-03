@@ -1,0 +1,181 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+   <!DOCTYPE TEI.2  SYSTEM  'teixlite.dtd' [ 
+<!NOTATION jpg  SYSTEM  "jpeg"> 
+<!ENTITY filename  SYSTEM  "filename.jpg" NDATA jpg> 
+<!ENTITY % ISOlat1 SYSTEM  "ISOlat1.pen"> %ISOlat1; 
+<!ENTITY % ISOlat2 SYSTEM  "ISOlat2.pen"> %ISOlat2; 
+<!ENTITY % ISOnum SYSTEM  "ISOnum.pen"> %ISOnum; 
+<!ENTITY % ISOpub SYSTEM  "ISOpub.pen"> %ISOpub; 
+<!ENTITY % ISOtech SYSTEM  "ISOtech.pen"> %ISOtech; 
+]> 
+ 
+<TEI.2 id="C02g15a"> 
+<teiHeader type="aacr2"> 
+              
+<fileDesc> 
+<titleStmt> 
+     <title type="245">Letter from Robert Carter to Thomas Corbin, 1702 July 15</title> 
+   <title type="gmd">[electronic resource]</title> 
+     <author>Robert Carter</author> 
+   <respStmt> 
+     <resp>Creation of machine-readable version: </resp> 
+     <name id="editor">Edmund Berkeley, Jr.</name>  
+     <resp>Conversion to TEI.2-conformant markup</resp> 
+     <name>Edmund Berkeley, Jr., and the University of Virginia Library Electronic Text Center</name> 
+   </respStmt> 
+</titleStmt> 
+ 
+<extent>ca. 5 kilobytes </extent> 
+ 
+<publicationStmt> 
+     <publisher>University of Virginia Library.</publisher> 
+     <pubPlace>Charlottesville, Va.</pubPlace> 
+     <idno type="ETC"></idno> 
+     <availability> 
+     <p>Publicly accessible</p> 
+     <p n="public">URL: http://etext.lib.virginia.edu/modeng.browse.html</p> 
+         </availability> 
+     <date>2001</date> 
+</publicationStmt> 
+ 
+<sourceDesc> 
+     <biblFull> 
+     <titleStmt> 
+     <title>Letter from Robert Carter to Thomas Corbin, 1702 July 15</title> 
+
+     <author>Robert Carter</author> 
+</titleStmt>
+    <extent>1 p.</extent> 
+<publicationStmt> 
+     <date>1702-07-15</date> 
+   <idno type="callNo"> Source copy consulted: Christ Church Parish, Lancaster County, 
+Processioners' Returns, 1711-1783,and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, 
+Archives Research Services, Library of Virginia, Richmond. Extract printed in William and Mary 
+Quarterly, 2nd ser., 17(1909)256-257.</idno> 
+</publicationStmt> 
+</biblFull> 
+</sourceDesc> 
+ 
+</fileDesc> 
+     <encodingDesc> 
+     <projectDesc> 
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p> 
+     </projectDesc> 
+<editorialDecl> 
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in establishing 
+analytical groupings.</p> 
+</editorialDecl> 
+ 
+<classDecl> 
+     <taxonomy id="LCSH"> 
+     <bibl> 
+     <title>Library of Congress Subject Headings</title> 
+     </bibl> 
+     </taxonomy> 
+</classDecl> 
+</encodingDesc> 
+ 
+<profileDesc> 
+     <creation> 
+     <date>1702-07-15</date> 
+     </creation> 
+     <langUsage> 
+     <language id="eng"></language> 
+     </langUsage> 
+     <textClass> 
+     <keywords> 
+     <term>non-fiction</term> 
+   <term>prose</term> 
+     </keywords> 
+     <keywords scheme="LCSH"> 
+     <term type="Field650">LCSH</term> 
+     </keywords> 
+     </textClass> 
+</profileDesc> 
+ 
+</teiHeader> 
+ 
+<text id="C02g15aT"> 
+
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 pp.</extent>
+<date value="1702-07-15">1702 July 15</date>
+<idno rend="suppress">C02g15a</idno>
+<title>Letter from Robert Carter to Thomas Corbin, 1702 July 15</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant Thomas Corbin concerning a shipment of 12 hogsheads of tobacco belonging to the estate of Ralph Wormeley sent previously, a debt of the estate for which he has drawn on Corbin, recent bad weather that has damaged the crops, and that his sister-in-law, Elizabeth Wormeley, owns a one-fifth share of the previous year's crops, and that she has taken her portion of the current year's crop.</p>
+
+</div1>                 
+</front>
+
+
+
+
+<body> 
+ 
+<div1 type="letter" n="1702-07-15"> 
+ 
+<head>Letter from Robert Carter to <note n="TC">Thomas Corbin,</note> July 15, 1702</head> 
+ 
+<opener> 
+ <pb n="1"/>
+<dateline>
+Rappa[hannock, Lancaster County, Virginia]<lb/> 
+ 
+<date value="1702-07-15">July the 15th 1702.</date><lb/>           
+Mr. Tho. Corbin
+</dateline> 
+                                              
+<salute>Sr.&mdash;&mdash;</salute>                   
+ 
+</opener> 
+ 
+<p>My last was by the <name type="ship">Abram</name> Capt. <name type="person">Street</name>, 
+It Coverd <lb/>a Bill of Lading for 12 hogsheads Tobo sent you in Ditto <lb/>Shipp belonging to the 
+Estate of Esqr. <note n="RW">Wormeley</note> <lb/>deceast, herein is a Second Bill of 
+Lading.</p> 
+ 
+<p>Mr. Secretarys Estate Stood Indebted to the Auditor Col <lb/><note n="WB1">Byrd </note> in the sume of 55:16:5 I have 
+Drawn on you <lb/>for the Debt, and Desire you make punctuall paym<add resp="editor">[ent] </add>
+<lb/>Charging the same to the Debitt of that Estate.</p> 
+ 
+<p>for News hence little Stirring, Wee have had violent <lb/>Rains of Late that hath very much Damag'd 
+our low <add  resp="editor">[land Crops]</add><lb/><add place="supralinear">&amp; have <sic corr="risen">ris</sic> soe into the weeds 
+Wee don't know when we shall gett Clear of them</add><lb/>Whether Warr or Peace in Europe we are att 
+this ti<add  resp="editor">[me]</add> <lb/>Ignorent here, Wee have an Accott. of some 
+skirm<add  resp="editor">[ishes]</add> <lb/>between the Dutch &amp; French but no further <add 
+place="marginleft">My <note n="EAW">sister Wormeley</note> hath Desir'd me <lb/>to advise you that a 5th. part of the 
+<lb/>produce of Last Years Cropp belongs to <lb/>her, this year she hath taken her pro=<lb/>portion to 
+her self.</add>God send the <add  resp="editor">[ship]</add> <lb/>safe home to yo<add  resp="editor">[u]</add> 
+shall not add further att <add  resp="editor">[this time]</add> <lb/>but am Sr.</p> 
+ 
+<closer>Yor. very humble <add  resp="editor">[Servt.]</add></closer> 
+ 
+</div1> 
+</body>
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics">Source copy consulted:</hi> Christ Church Parish, Lancaster County, Processioners' Returns, 1711-1783, and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond. Extract printed in <title>William and Mary Quarterly</title>, 2nd ser., 17(1909): 256-257.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note>
+
+</div1>
+</back>
+
+ 
+</text> 
+ 
+</TEI.2> 

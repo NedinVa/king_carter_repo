@@ -1,0 +1,216 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+
+<TEI.2 id="C02d08a">
+
+
+
+ 
+<text id="C02d08aT"> 
+
+<pb n="8"/> 
+<body> 
+ 
+<div1 type="document" n="1702-04-08"> 
+<head><q>BY WAY OF REPLY TO COLLO. JENINGS'S PROPOSITIONS ABOUT THE 
+WILL OF 
+ESQR. WORMELEY DECEAS'D.</q><lb/> 
+</head> 
+ 
+<opener> 
+<dateline> 
+<name type="place">Rappa<add>hannock, Corotoman, Lancaster County, Virginia</add><lb/> 
+Aprill the 6th. 1702</name> 
+ 
+<date n="1702-04-06"></date> 
+</dateline> 
+ 
+<salute></salute> 
+ 
+</opener> 
+ 
+<p>That the <bibl target="n10">Widdow</bibl> hath her Choice out of the Household goods to 
+the 
+<lb/>Totall: of One hundred pounds, is plain from the Will.</p> 
+<P>That she hath a Right to a fifth of the Personall Estate and ought [to] <lb/>be Serv'd in point 
+of 
+Choice is what I have Deliver'd as my Opinion <lb/>before this Day; tho' Seem'd to be Doubted 
+by some 
+Others.</P> 
+<P>That she hath a Right of Dower in the Lands is beyond Controversy, <lb/>if it Can be done 
+by 
+apportioning plantations &amp;ca. as near an equ[al] <lb/>as may be `twill be the Easiest Way, 
+but if this 
+wont Satisfie the Widdow <lb/>Dower Comes to be assign'd her, he will be a Friend to the Estate 
+<lb/>Can find a way to Lay it out without Charge for my part I Can['t]</P> 
+<P>That Mrs. Eliza. Wormeley after the Widdows Choice of the Personall Estate [...] <lb/>out, 
+hath the 
+Choice of a Negro, is also the Plain English of the Will, and [she] <lb/>hath bin without him soe 
+Long; 
+hath bin and is a prejudice [to ?] <lb/>be granted and the only thing that I know Off, wherein 
+any[thing] 
+<lb/>in the Will hath bin a Sufferer for want of an Earlier Div[ision] <lb/>ont is 'tis only the 
+Labour of a 
+Negro for a few Months.</P> 
+<P>That she hath already had the Other Legacys given to her [...] <lb/>it hath bin I suppose for 
+want of 
+fetching, That Collo [...] <lb/>about her Provision, That the Twenty pounds per ann. for he[r 
+provision?] 
+<lb/>Due to her as the Year Runs Out, and no Doubt ought to b[e paid?] <lb/>Collo. Jenings who 
+Shipt 
+the Yourk Tobaccoes Scruple [...] <lb/>to Apply too me, I will give her the Bills, Running the 
+Haza[rd] 
+<lb/>and so I shall Yearly while I am Concern'd wth. the Estate</P> 
+<P>That <note id="11">Madm. Corbin</note> [11] hath a Legacy of Fifty pounds given her b[y 
+the will 
+is] <lb/>also very plain, but whether the Tobacco made use of by Collo. Cor[bin be<lb/>]long'd to 
+the 
+Estate in Gloster &amp; Westmoreland Countys goes in Q[uitt rents] <lb/>that Legacy or no is to 
+me a 
+Secrett, If Collo. Corbin hath any further [...] <lb/>none soe fitt as Collo. Jenings to settle it with 
+him, and 
+no Doubt [he] <lb/>Effects enough from the Concern under his Management to answer [that] 
+<lb/>and a 
+great Deale more.</P> 
+<P>That the Will of Our Testator as I take it to be the Basis of our powe[r] <lb/>being held to the 
+Glass 
+of the Law, Ought to be the Directory to Our pro[ceeding] <lb/>and shall be soe to mine as far as 
+I know 
+it tho' in the Will Wee are [called] <lb/>Trustees, in Law Sence I apprehend Wee are Executors 
+(the other 
+Term [is] <lb/>no Law Phrase) and have the full power of Such Durante Minorita[te We]<lb/> 
+want not 
+any Deputation from One Another to Enable Us for the [manage]<lb/>ment of the Estate, Nor for 
+my part 
+shall I ever seek any, I have alre[ady] <lb/>paid Severall Debts and will pay all that Comes that 
+appeares 
+to be <lb/>I have paid the Quitt Rents Levys &amp;c. of the Estate, I sent for Clothes [and] 
+<lb/>Other 
+Necessarys for the familys Last year (wch. by the Providence of [God was] <lb/>Lost in Burford, 
+I have 
+bin providing as well as I Can for them in the Coun[try] <lb/>and Notwithstanding Collo. Jenings 
+Opinion 
+(who I am told has [open?]<lb/>ly said the Lost Goods I am Lyable for and he might as well 
+[...]</P> 
+<P>Collo. Corbin ought to bear the Loss of those he sent for, and the Tobaccoe <lb/>Shipt Last 
+Year by 
+Collo. Jenings went upon his Risqe. I shall send again <lb/>to England as soon as I Can for 
+more,</P> 
+<P>That in Shipping the Tobaccoes what I am Concern'd in, I shall Chiefly <lb/>Consider the 
+Interest of 
+the Children, wch. will be to send most to them who <lb/>makes the best Returns and when there 
+is 
+Money before hand, to Lodge <lb/>it in the Ablest hands where there is least appearance of 
+failure, wch. 
+is <lb/>the Method I observe to my self in my Own affairs, I have no Friends or <lb/>Relations 
+there 
+further then they Rendr. themselves by their good Managmt. <lb/>in my favour.</P> 
+<P>That the Books of Accots. Papers &amp;c. Remain where they were to be <lb/>Viewed by 
+the 
+Trustees when they Please, but the Debts are soe Incon<lb/>siderable, Except the Sheriffs &amp; 
+Clerks 
+Accots. they are hardly Worth the <lb/>Solemn Way of Settling propos'd</P> 
+<P>I shall be at all Times most Ready to give an Accot. to my Companions as <lb/>far as I am 
+Concern'd 
+in Management when they Desire it, but for a Dictatorshipp amongst Us I am unwilling to yeild 
+to; will 
+Rather <lb/>Cease to Meddle wth. any Dead Mans Estate while I Live </P> 
+<P>The following is an Accot. of my Proceedings hitherto.</P> 
+<P>A Short Time after the Death of Esqr. Wormeley, Wee took probate upon his <lb/>will, 
+Collo. 
+Jenings not there, and that Wee might be Enabled for the Divi<lb/>sion Mov'd the Court that an 
+appraisement might be made by Judicious <lb/>Gentlemen and Obtained Order Accordingly. 
+Severall 
+Meetings Wee <lb/>had Month after Month, where I Constantly attended for the Division, but 
+<lb/>for 
+want of a Suitable Nombrs. of Appraisers, The Matter was not Effected <lb/>till December, 
+Collo. 
+Jennings at none of those Times, meeting, In the <lb/>mean time, I have not bin wanting in taking 
+Care of 
+the business of the Plan<lb/>tations, a very Good Cropp was made, is Preizd, and Freight I have 
+<lb/>taken for the most part if not all, Good Overseers Settled for the Ensuing <lb/>year, and the 
+plantations in very good Order.</P> 
+<P>The Cropp made by Esqr. Wormeley I shipt as followth. </P> 
+<P>Tenn hhds went to Mr. Corbin, wich I Left my Own Tobaccoe out for <lb/>and Lay by me all 
+the 
+year, He Writes me Generall he had sold for <lb/>Nine pence 1/2 But no Accot. as yett. Sixteen 
+hogsheads went to Mr. Lee <lb/>of the same Tobo. sold at Nine pence 3/4, Tenn pence, and Tenn 
+pence 
+1/4 <lb/>he hath sent an Accot. of Sales but no accot. Currtt. Twenty seven hogsheads <lb/>went 
+to 
+Mathews &amp; Goodwin He writes but Two hogsheads were sold stript Leaf at <lb/>Tenn pence 
+1/2, 
+and that Price for the stemn'd, and Tenn pence for the Leaf he<lb/> hoped to Reach for them 
+all.</P> 
+<P>The Goods for the familys use Lost as above were sent for to Mathews &amp;c. 
+<lb/>Amounting as 
+per Invoice to &pound;86:2:2.</P> 
+<P>Many Journeys I have made, and many more shall if I Continue in <lb/>the Managery of any 
+part of 
+the Estate tho' heartly Wish I were fairly Dis<lb/>Charg'd I have other Buizness enough for my 
+Time 
+&amp; thoughts,</P> 
+<P>Could I Answer it to the Dead, and to the Living, should hard[ly] <lb/>Turmoile my Self wth. 
+Other 
+Mens Estate without the Least appear[ance] <lb/>of Profitt. Collo. Jenings hath but once pass'd 
+yourk 
+River <lb/>all this Time, I will not say to pay a Visit to a Bro[the]r but upon [cal]<lb/>le Submitt 
+it to 
+Judgement, to whom Esqr. Wormeleys Children [are] <lb/>most Oblig'd</P> 
+<P>     As to the Division soe much urg'd for, it had bin Effected no d[oubt] <lb/>Long before 
+now if all 
+the Trustees had attended the appraisme[nt] <lb/>and it shall not be my fault, if it be not Effected 
+soe soon 
+a[s a] <lb/>full meeting of the Trustees Can be had for the Doing of it, [as] <lb/>for the Ninth of 
+this 
+Month to begin as propos'd, I Cannot possib[ly] <lb/>be soe long from home having a Publick 
+Call to be 
+att Willi[ams]<lb/>Burgh on the 15th. and perhapps must stay there for a Month or [six?] 
+<lb/>Weeks 
+together, Not having that great Conveniancy som[e per]<lb/>sons has of Lying every Night at 
+home if 
+they please</P> 
+<P>Perhapps the Widdow may be upon Designs of Tasting the Swts. of [matri]<lb/>mony a 
+Second 
+Time, If soe a Hasty Division seems mos[t evi]<lb/>dent; Otherwise I must Reassume my former 
+Opinion 
+<lb/>it is most for the Childrens advantage the Estate Rema[in] as it is.</P> 
+<p>As soon as may be after the Genll. Court <lb/>I shall be Ready to attend a Division  
+ 
+ 
+</p> 
+ 
+<closer> 
+<salute></salute> 
+</closer> 
+ 
+</div1> 
+ 
+<back> 
+<div1 type="notes"> 
+<head>Notes</head> 
+ 
+<sourcedesc> source note here</sourcedesc><lb/> 
+<note id="10">****</note> 
+<note id="n11">Catherine (Wormeley) Corbin (d. <hi>ante</hi> 1707), daughter of Ralph 
+Wormeley, was 
+Gawin Corbin's first (of three) wives. <bibl id="A7"><q>Corbin Family</q></bibl>, VMHB 29 
+(1921), 
+520-528.</note> 
+</div1> 
+</back> 
+ 
+</text> 
+
+
+</TEI.2>

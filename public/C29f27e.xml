@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C29f27e">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to George Hamilton, Earl of Orkney, June 27, 1729</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 7 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C29f27e.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2005</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to George Hamilton, Earl of Orkney, June 27, 1729</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1728 August 8-1730 May 15,  Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1728-06-27</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C29f27eT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1728-06-27"></date>
+<idno rend="suppress">C29f27e.xml</idno>
+<title>Letter from Robert Carter to George Hamilton, Earl of Orkney, June 27, 1729</title>
+</bibl>
+</head>
+<p>Robert Carter writes to the titular governor of Virginia, George Hamilton, Earl of Orkney, June 27, 1729, to send him a small bill  of exchange for money due him from the sale of beaver skins while Carter was acting governor.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="GH">George Hamilton,</note> Earl of Orkney, June 27, 1729</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1728-06-27">June 27th. 1729</date><lb/>
+The right honble. George<lb/>
+Earl of Orkney<lb/>
+</dateline>
+<salute>My Lord&mdash;</salute>
+
+</opener>
+
+<p>On the 11th of <sic corr="April">Aprill</sic> I did my self the <abbr expan="honor">honr.</abbr> to own<lb/>
+the receipt of yor. Lordships most <sic corr="obliging">oblidgeing</sic> favour of the 7th of <abbr expan="November">Novr.</abbr> It was my<lb/>
+thoughts I had fully <del>[illegible]</del> discharged your Lordships part of the Salary not<lb/>
+then remembering some beaver skins that I had as Tribute from the Indians<lb/>
+which by an Accot. I received this shipping from <note n="WD">Mr. Dawkins</note> return some<lb/>
+&pound;5"6"8 the half of this money belongs to <abbr expan="your">yor.</abbr> Lordship. Therefore now Enclose<lb/>
+a bill of Exchange for &pound;2"13"4 <add place="supralinear">the <note target="n2">moiety</note></add> The Naval Office which yor Lordship <sic corr="has">hath</sic> bin <lb/>
+so kind to Concern yourself about remains still as it was with my Son<lb/>
+<note n="RC2">Robert</note> And am not without hopes it will fall to the Lot of my Son <note n="CC1">Charles</note><lb/>
+at last. I most Sincerely Pray for the Continuance of yor Lordship's health<lb/>
+&amp; Presume to Subscribe myself
+</p>
+
+<closer>My Lord<lb/>
+Your Lordship's<lb/>
+Most Obedient<lb/>
+Most Obliged<lb/>
+&amp; most humble Servt.
+<seg type="postscript"><lb/><lb/>Per <note target="n3"><sic corr="Bailey">Baily</sic></note></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. There is a nineteenth-century copy of this letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia.
+</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to persons abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
+
+<note id="n2">[2] A moiety is one of two approximately equal portions.</note>
+
+<note id="n3">[3] The <hi rend="italics">Bailey</hi> was a London ship owned by William Dawkins and commanded at various times by Adam Graves (1725-1730) and by Thomas Dove (1731-1732). She was a vessel of some 250 tons and carried 15-17 crew members. (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, 156v, and other data in Adm. 68/194 and /196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> A letter of Carter's executors to Dawkins 1738 May 10 refers to "your ship Bailey.")</note>
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

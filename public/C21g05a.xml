@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C21g05a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to [Thomas Lee], July 5, 1721</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 7 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C21g05a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to [Thomas Lee], July 5, 1721</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date>1940</date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1721-07-05</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C21g05aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1721-07-05"></date>
+<idno rend="suppress">C21g05a.xml</idno>
+<title>Letter from Robert Carter to [Thomas Lee], July 5, 1721</title>
+</bibl>
+</head>
+<p>Robert Carter writes to [Thomas Lee], July 5, 1721, concerning the affairs of the Northern Neck proprietary for which Lee had been acting agent in Virginia until 1715 while the agent, his uncle Edmund Jenings, was in England. He notes that Lee had granted land to his uncle in 1719, and informs Lee that he and Jenings had reached an agreement about the payment of quit rents that Jenings owed, and that they have also agreed to refer the question of "Downings Composition" to lawyers for settlement. He asks Lee to send him payment for certain lands that Lee has granted to himself after the expiration of his power of attorney from Lady Fairfax. Carter then turns to the matter of the Ashton lands owned by "Esq. Jeoffrys, the heir of Ashton in England." The remainder of the letter is missing.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to [<note target="n1">Thomas Lee,</note>] July 5, 1721</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Corotoman, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1721-07-05">July 5th. 1721</date><lb/>
+
+</dateline>
+<salute>Sir&mdash;&mdash;</salute>
+
+</opener>
+
+<p>You have <abbr expan="thought">Thot.</abbr> fitt to <abbr expan="favor">favr.</abbr> me with a Sight of Yor. <abbr expan="power">powr.</abbr> from <lb/><note target="n2">My Lady Fairfax,</note> by It I find what I knew before, That You were <lb/>her <sic corr="attorney">Atturney</sic> till You were <sic corr="superseded">Superseeded</sic> by <abbr expan="Colonel">Collo.</abbr> <note n="EJ">Jennings</note> in the Year <lb/>1715, what I objected to was Yor. Granting <add place="supralinear">him</add> lands in 1719 when <lb/>Yor. power was long before <sic corr="revoked">revoakd</sic>, with a Salvo for his not paying <lb/>his Quitt Rents till the Year 1725 but <abbr expan="Colonel">Collo.</abbr> Jennings undertakes <lb/>to pay all the rents of those Lands Yearly, So that matter will be no <lb/>longer a bone of Contention, The business of Downings Composition <lb/>We have agreed to refer to Lawyers, <note n="JH">Mr. Holloway's</note> opinion I <lb/>value as much as any mans in the Country when he Setts Judicialy <lb/>&amp; hath heard both partys, but what he or any other Lawyer Says <lb/>upon the State of a Case from one Side <del>only</del> can be calld but <lb/>An opinion Ex parte at the Most, <abbr expan="Colonel">Collo.</abbr>
+ Jennings hath <abbr expan="delivered">deliver'd</abbr> <lb/>me up the rent rolls &amp; hath made me fair promises in other <lb/>respects which if he <sic corr="performs">performes</sic> believe he and I Shall hardly Quarrel&mdash;</p>
+
+<p>In the List You gave me You own there are several <lb/><sic corr="pieces">peices</sic> of Land that You owe me for the Composition of being <lb/>Granted after the Expiration of <abbr expan="Colonel">Collo.</abbr> Jennings Lease I <lb/>hope <sic corr="you'll">You'l</sic> find a time to do me Justice in these at least</p>
+
+<p>You hold Lands in <abbr expan="Westmoreland,">Westm.ld,</abbr> Stafford, Richmond <lb/>&amp; Northumberland, You are likewise <add place="supralinear"><sic corr="attorney">atturney</sic></add> to <note target="n3">Esq. Jeoffrys,</note> the heir <lb/>of Ashton in England &amp; are concernd with the management of <abbr expan="Colonel">Col.</abbr>
+ <lb/>Fitzhughs Land<add resp="editor">[s]</add> It will be but reputable in You <note target="n4">to</note></p>
+
+<closer><seg type="postscript"></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi>  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. Printed: <cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> pp. 106-107.</bibl></cit></note><lb/>
+
+<note>The county and state have been added for clarity to the name of Carter's home. It is clear from the context that this letter was sent to Thomas Lee.</note><lb/>
+
+<note id="n1">[1] Thomas Lee (1690-1750) was the son of Richard Lee II, and nephew of Edmund Jenings; he would build "Stratford," and succeed RC on the Council. He had been deputy agent for the proprietors until his uncle returned from England in 1715.</note>
+
+<note id="n2">[2] For Lady Fairfax, see the discussion of the North Neck proprietary accessed from the opening screen of this site.</note>
+
+<note id="n3">[3] Carter probably refers to Sir Jeffrey Jeffreys, MP, heir to the business affairs of his uncle, John Jeffreys (1614-1688), master of the Grocers Company and alderman in 1661.Carter had been interested in the Ashton lands for some time, and had written about them in a letter to William Dawkins on  25 March 1721. (<cit><bibl>J. R. Woodhead. <title>The Rulers of London 1660-1689.</title> [London: London and Middlesex Archaeological Society, 1965]. pp. 97-98;</bibl></cit> and  <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> pp. 607-612.)</bibl></cit> </note>
+
+<note id="n4">[4] This letter ends here as further pages of the letter book are missing.</note>
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

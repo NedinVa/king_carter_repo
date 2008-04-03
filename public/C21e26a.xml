@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+
+
+<!NOTATION xml SYSTEM "xml">   
+<!ENTITY C20i30a SYSTEM "C20i30a.xml" NDATA xml>  
+
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C21e26a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to John Pemberton, May 26, 1721</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 6 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">filename</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to John Pemberton, May 26, 1721</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date>1940</date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1721-05-26</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C21e26aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1721-05-26"></date>
+<idno rend="suppress">C21e26a.xml</idno>
+<title>Letter from Robert Carter to John Pemberton, May 26, 1721</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Liverpool merchant, John Pemberton, May 26, 1721, that he is sending him 40 hogsheads of tobacco on board the <hi rend="italics">Content</hi>. He reports that two of Pemberton's ships are loading freight for London. He was pleased with Pemberton's report of sales of tobacco sent last year by Captain Hancock. The 20 hogsheads he sent by Enoch Robinson were purchased by Carter and Pemberton is get as much as he can for it. He concludes with the hope that Parliament will find some way to settle the "South Sea Company" scandals in a way that will restore trade and the nation's credit.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="JP">John Pemberton,</note> May 26, 1721</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1721-05-26">May 26th. 1721</date><lb/>
+Mr. Jno. Pemberton<lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+<p>My last w<add resp="editor">[en]</add>t. by Hancock who I hope is with You before this <lb/>Day, Then I told You I was in Treaty with Capt. Stephenson in the ..<lb/><name type="ship">Content</name> for some more freight to You, This accompa<add resp="editor">[nies]</add>. a bill of <lb/>Lading for forty hogsheads of my own Crop Tobo. in that Ship <lb/>There are two of Yor. ships To witt Mackmullion and <note target="n1">Picker<lb/>=ing</note> <del>to</del><add place="supralinear">who</add> take <sic corr="freight">freit</sic> for London which makes me believe You <lb/>will not be over <sic corr="burdened">burdn'd</sic> this year and that Your Markett <lb/>may be as good at least for Stript Tobo. as any in England</p>
+
+<p>	I have drawn on You for four po<add resp="editor">[u]</add>nd one shilling the Impost of <lb/>this This Tobo.&mdash; Your Accot. of Sales of my forty hogsheads per <lb/>Hancock the last Year I have <abbr expan="received">rec'd</abbr> with a great deal of <abbr expan="satisfaction">Sattisfactn.</abbr> <lb/>My 20 hogsheads in <note target="n2">Robertson</note> was purchase, The most You can gett <lb/>for It must content me, I hope the Parliament will find ways <lb/>to Settle That plague the <note target="n3">South Sea Company</note> upon such 
+
+<pb n="2"/><lb/><lb/>
+a foot That the Credit of the nation may be retrievd &amp; that <lb/>Trade may flourish again among You with great respects <lb/>I remain&mdash; </p>
+
+<closer>Sir <lb/>Yor. very humble Servt.</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi>  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. Printed: <cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> p. 93.</bibl></cit></note><lb/>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note><lb/>
+
+<note id="n1">[1] A Captain Pickering was master in 1718 of the <hi rend="italics">Caesar</hi>, a Liverpool ship.</note>
+
+<note id="n2">[2] Carter meant Enoch Robinson; see the letter to Pemberton <xref doc="C20i30a">30 September 1720</xref>.</note>  
+
+<note id="n3">[3] Carter refers to the scandal of the value of the stock of the South Sea and other companies which wild speculation had driven enormously high in June 1720, and which was nearly worthless several months later. Many fortunes were made and lost. Perhaps the most succesful speculator was Sir Robert Walpole who made a fortune, retired, and then was called to save the nation as prime minister, a post he held from 1721 until 1742. (<cit><bibl>Goldwin Smith. <title>A History of England.</title> Chicago, etc.: Scribner's, 1949.  pp. 422-424.</bibl></cit>)</note>
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

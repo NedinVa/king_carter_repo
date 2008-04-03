@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C27i11a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Account of the Governor's Perquisites to September 11, 1727</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+										<resp>Change of handwriting: </resp>
+     <name id="hand">unidentified clerk</name>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 9 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C27i11a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2003</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Account of the Governor's Perquisites to September 11, 1727</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1727-09-11</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C27i11aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AD</abbr>
+<extent>1 p.</extent>
+<date value="1727-09-11"></date>
+<idno rend="suppress">C27i11a.xml</idno>
+<title>Account of the Governor's Perquisites to September 11, 1727</title>
+</bibl>
+</head>
+<p>Robert Carter lists all of the income received between July 22, 1726, and September 11, 1727, to which the colony's governor, George Hamilton, Lord Orkney, was entitled to one half.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Account of the <note n="GH">Governor's</note> Perquisites to September 11, 1727</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
+<date value="1727-09-11">11th: of Sepr. 1727&mdash;</date><lb/>
+<lb/>
+</dateline>
+
+
+</opener>
+
+
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Accot. of the <abbr expan="Governor's">Govr's:</abbr> Perquisites <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;from the 22d of July 1726 to the <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11th: of Sepr. 1727&mdash;&mdash;&mdash;<lb/>
+
+<table>
+<row><cell>Marriage &amp; <abbr expan="Ordinary">Ordy: </abbr><abbr expan="Licenses">Lycen:</abbr> as per the respec</cell><cell>*</cell><cell>*</cell><cell>*</cell></row>
+<row><cell>-tive County Courts <abbr expan="Clerks">Clks</abbr> Accots. Currt</cell> 				<cell>268</cell><cell>  9  </cell><cell>11</cell></row>
+<row><cell>Money&mdash; &mdash; &mdash; &mdash;</cell><cell>*</cell><cell>*</cell><cell>*</cell></row>
+<row><cell>Seals&mdash; &mdash; &mdash; &mdash;</cell><cell> 24 </cell><cell> - </cell><cell>  -</cell></row>
+<row><cell>92 Barrells of Corn at 7/</cell><cell> 32 </cell><cell> 4 </cell><cell>  -</cell></row>
+		<row><cell>&pound;</cell><cell> 324</cell><cell> 13 </cell><cell> 11</cell></row>
+<row><cell>Discount 15 perCt: to make it Sterling&mdash;</cell><cell>-42</cell><cell>  7 </cell><cell>  1</cell></row>	<row><cell>*</cell><cell>282 </cell><cell> 6 </cell><cell> 10</cell></row>
+<row><cell>The <abbr expan="Several">Sevl.</abbr> Naval Officers Accots. Sterling</cell>	<cell>		383 </cell><cell>17  </cell><cell> 9</cell></row>
+		<row><cell>									</cell><cell>666 </cell><cell> 4 </cell><cell>  7</cell></row>
+</table><lb/><lb/><lb/>
+<abbr expan="Debtor">Dr.</abbr>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="Creditor">Cr.
+</abbr><lb/><lb/>
+
+1727 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Right <abbr expan="honorable">honble:</abbr> the Earl of Orkney<lb/><lb/>
+
+
+<table>
+<row><cell>*</cell><cell> &pound; </cell><cell>  S </cell> <cell>D</cell><cell>*</cell>	<cell>&pound;</cell> <cell> S </cell><cell>D</cell></row>
+<row><cell>To my Exchange on <note n="WD">Mr. Dawkins</note>}</cell><cell>*</cell><cell>*</cell><cell>*</cell><cell> By the <note target="n1"><sic corr="Moiety">Mojety</sic></note> of the</cell><cell>*</cell><cell>*</cell><cell>*</cell></row> 
+<row><cell>Sent his <abbr expan="Lordship">LdShip</abbr> in May last}</cell><cell>	 100</cell><cell>*</cell><cell>*</cell> <cell>above Perquisites</cell>	  <cell> 333</cell><cell> 2 </cell><cell>3</cell></row>
+<row><cell><abbr expan="December">Decr.</abbr> 12th: To my Exchange on 116}</cell><cell>*</cell><cell>*</cell><cell>*</cell><cell>*</cell><cell>*</cell><cell>*</cell><cell>*</cell></row>
+<row><cell>William Dawkins of <abbr expan="London">Lond</abbr>}</cell><cell> 233</cell><cell> 2 </cell><cell> 3</cell><cell>*</cell><cell>*</cell><cell>*</cell><cell>*</cell></row>
+ <row><cell>*</cell><cell>333 </cell><cell>2 </cell><cell> 3</cell><cell>*</cell><cell>*</cell><cell>*</cell><cell>*</cell></row>
+</table><lb/><lb/>
+
+<add resp="hand">1728 July 8th<lb/>				
+To <abbr expan="paid">pd</abbr> my Lord Orkney<lb/>
+my <abbr expan="Exchange">Exch:</abbr> on <note n="WD"><abbr expan="William">W.</abbr> Dawkins</note>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;30 . 17 . 3<lb/>
+1729 June 28th<lb/>
+To my Exch on Dawkins}<lb/>
+
+to my Lord Orkney}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="underline">2 . 13 . 4</hi><lb/>
+
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;366.13"6</add>
+</p>
+
+<closer><seg type="postscript"><lb/><lb/></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1727 May-1728 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>At the foot of the page, a different clerk's hand (displayed in green) has added the notes about payments made to Lord Orkney for the exchange charges in 1728 and 1729.</note> 
+
+<note>All cells in the tables above containing an "*" are empty in the original. The asterisk was inserted to force all the lines of the cell to appear because browsers do not properly display empty cells.</note>
+
+<note id="n1">[1] A moiety is one of two approximately equal portions.</note>
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

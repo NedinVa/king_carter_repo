@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C23h24a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Captain Thomas Hooper, August 24, 1723</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca.15 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C23h24a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2002</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Captain Thomas Hooper, August 24, 1723</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1723-08-24</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C23h24aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1723-08-24"></date>
+<idno rend="suppress">C23h24a.xml</idno>
+<title>Letter from Robert Carter to Captain Thomas Hooper, August 24, 1723</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Captain Thomas Hooper, August 24, 1723, concerning the tobacco that arrived on board his sloop, complaining that the shipment was small and that Thomas Carter has not sent him the information he needs about what quantities are his son's or were from Colonel Mason. He then as a friend chides Hooper for drinking too much and not spending enough time on his responsibilities to Carter. Instructions regarding the granting of lands follow including a specific order that he will  make no grants in or near the Brent Town grant, and that Hooper should not do any work there at all. Carter comments on the high fees that the Stafford vestry clerk charges for copying out the levy lists, and returns to chiding Hooper by noting that he finds it "Something Extraordinary" that Hooper should press Carter for Thomas Lee's note on Hooper for payment of the quit rents. In conclusion he adds some details of business and again urges Hooper to pay attention to his business. </p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to Captain <note n="TH">Thomas Hooper,</note> August 24, 1723</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
+<date value="1723-08-24">Augst. 24th. 1723&mdash;</date><lb/>
+Capt. Thos, Hooper&mdash;<lb/>
+</dateline>
+
+
+</opener>
+
+<p>My Sloop <sic corr="arrived">Arrivd</sic> the 22d. Instant I have weighd her Tobo. &amp; <lb/>Even by <note target="n1">Mr. Carters</note> <abbr expan="weights">wts.</abbr> She hath not brot. me 40,000  <abbr expan="weight">wt.,</abbr> he writes me <lb/>Only a Short Lettr., doth not  tell me whether the <note n="JC1"><abbr expan="Secretary's">Secretry's.</abbr></note> dues or <note target="n2"><abbr expan="Colonel">Collo.</abbr> <lb/>Mason's</note> Debt are Included, certainly  If all my debts in Yor. County, were <lb/><abbr expan="paid">pd.</abbr> I <abbr expan="should">shod.</abbr> have as many <abbr expan="thousands">Thousds.</abbr> as I have now hhds. Mr. Carter I doubt <lb/>hath spent so much of his time <abbr expan="about">abt.</abbr> Your Store tht. he hath not <sic corr="treated">treatd.</sic> <lb/>my business wth. tht. diligence he ought to have done </p>
+
+<p>I heartily wish the <sic corr="character">Charactr.</sic> tht. I told You in <abbr expan="friendship">friendsp.</abbr> I had of You <lb/>had not too much Foundation of truth, I have bin told from those tht. are <lb/>none of Yor. Enemys, that a <sic corr="keg">Cagg</sic> of good <abbr expan="liquor">Liqr.</abbr> is a Sheet Anchor that You <lb/>Can not get clear from, <sic corr="until">till</sic> tis run out, &amp; indeed tis apparent from <lb/>Yor. proceed<add resp="editor">[ing]</add>s in my businss, tht. to omuch of <sic corr="your">Yr.</sic> time goes that way, to <lb/>Mention no <sic corr="oother">othr.</sic> tis wonderfull tht. in all <sic corr="these">thse.</sic> <abbr expan="summer months,">Sumr. mos.,</abbr> You <abbr expan="should">Shd.</abbr> not <lb/>have found the <sic corr="leisure">leizure</sic> to have <sic corr="prepared">prepar'd</sic> for me Platts for the Tract of <lb/>Land between <abbr expan="Colonel">Collo.</abbr> Page &amp; I, Seeing the <abbr expan="division">Divisn.</abbr> &amp; all the trouble s<add resp="editor">[o]</add>m<add resp="editor">[e]</add>. <lb/>part hath bin done so long, You say You are in an Ill State of <lb/>health wch. most an End proves to be the fate of the Intemper<add resp="editor">[a]</add>te. <sic corr="lazy">laizy</sic> <lb/>man, he tht. Spends his Youth in Luxury is laying in fuel for a <lb/><sic corr="crazy">Craizy</sic> old age but Its <abbr expan="generally">genly.</abbr> his doom never to come to It&mdash;</p>
+ 
+<p><note target="n3">Cappedge</note> tells me the <sic corr="surveyors">Surveyrs.</sic> work he hath already done <abbr expan="amounts">amts.</abbr> <lb/>to 22,000 <abbr expan="pounds">pds.</abbr> of Tobo. half of which is <abbr expan="Yours">Yrs.</abbr> surely tht. is  business tht. does not <lb/>Deserve to be treated wth. neglect &mdash; You Say Men Scruple tht. <lb/>have Deeds of me to make <sic corr="their">thre.</sic> tobo. conv<add resp="editor">[ien]</add>t I have already <abbr expan="frequently">freqtly.</abbr> <lb/>told You tht. I would have you deliver no deeds out of Yor. hands until <lb/>tht. work was done &amp; I now tell You again that I will have You bring <lb/>All men undr. Oblig<add resp="editor">[ation]</add>s. for making <sic corr="their">thre.</sic> Tobo. conv<add resp="editor">[ien]</add>t &amp; weighty for me <lb/>before I pass any more  Deeds, If they do not think the Land they <lb/>get worth <sic corr="this">ths.</sic> they may let it alone, I'm <sic corr="under">undr.</sic> no Obl<add resp="editor">[igatio]</add>n that I know <lb/>of to Grant lands upon Easier Termes, Money is my due by good <lb/>right, the Compos<add resp="editor">[itio]</add>n. &amp; fees in the rest of the country are paid in money <lb/><abbr expan="sterling">Sterl</abbr>, &amp; I see no reason I have to grant away the <abbr expan="Proprietors">Proprs.</abbr> Land for any <lb/><sic corr="[o]ther"><add resp="editor">[o]</add>thr.</sic> specie &amp; <sic corr="then">thn.</sic> there will be no dispute <sic corr="about">abt.</sic> making <sic corr="their">thre.</sic> Tobo. Conven<add resp="editor">[ien]</add>ts.,&mdash;</p>
+
+<p>You tell me You are suddenly going upon the <note n="BT">Brenton <lb/><add resp="editor">[Gran]</add>t</note> &amp; that people are lying ready to take up the Lands tht. You <lb/><add resp="editor">[will lay?]</add> out, I have often already told You, I will grant no <lb/><add resp="editor">[lands ly]</add>ing any ways near that Grant, and I now Send this 
+
+<pb n="2"/><lb/><lb/>
+Express almost on purpose to forbid You receiving any Entrys for any <lb/>lands lying  near the Bounds of the Lines You shall run, although the <lb/>Quantity be never so small and I Expect <sic corr="you'll">You'l</sic> Exactly comply <lb/>with <sic corr="this">ths.</sic> <sic corr="order">ordr.</sic> &amp; tht. You will take <sic corr="this">ths.</sic> as a Controul of the <sic corr="power">powr. </sic>I <lb/>have already given You relateing to Receiving Entrys</p>
+ 
+<p>I donot at all <sic corr="wonder">wondr.</sic> at the fees the clerk of Yr. Vestry <lb/>Demands for Copys of Yor. Levys <abbr expan="when">wn.</abbr> I <sic corr="consider">considr.</sic> it is a county tht. <lb/>Observes <sic corr="neither">neithr.</sic> Law reason nor Justice in levying taxes upon <lb/>the people, but I hope to live to See <abbr expan="these">thse.</abbr> things <abbr expan="under">undr.</abbr> a <abbr expan="better">bettr.</abbr> regula=<lb/>=tion, And as Yor. Friend I heartily wish Yor. <abbr expan="finger">fingr.</abbr>   had not bin So much in the <sic corr="pie">Pye</sic>&mdash;</p>
+
+<p>It is Something Extraordinary You <abbr expan="should">Shd.</abbr> press me So Earnestly <lb/>for <note target="n4"><abbr expan="Colonel">Collo.</abbr> Lee's</note> noat upon You for <abbr expan="payment">paymt.</abbr> of his <note target="n5"><abbr expan="quit rents">Qt. Rts.</abbr></note> in <abbr expan="your">Yr.</abbr>  County <lb/>I dare Say the <abbr expan="gentleman">Gentn.</abbr> himself has so much value for my Credit tht. <lb/>he will make no scruple to allow <abbr expan="this">ths.</abbr> Article in Yor. Accot. <lb/>Although the Noat Should never Appear <abbr expan="against">agst.</abbr> him, however <lb/>I Shall lay up <abbr expan="this">ths.</abbr> <sic corr="note">noat</sic> for Yor. Service If You <abbr expan="should">shd.</abbr> have <lb/>Occasion of It,&mdash;</p>
+
+<p>As for Dinwiddie he trifles wth. me prodigiously I <lb/>hope to find means to make him do me justice in the long run</p>
+ 
+<p>If Mr Carter brings me down <note target="n6"><abbr expan="Captain">Capt.</abbr> Fitzhughs</note> bills <lb/>It will be very well, <note n="GT"><abbr expan="Captain">Capt.</abbr> Turbervile</note> hath his <abbr expan="obligation">oblign.</abbr> &amp; if Carter <lb/>fails I doubt not the <sic corr="other">othr.</sic> will do the business Effectually&mdash;</p>
+  
+<p>I once more Importune You to revive Yor. spirit <lb/>&amp; to be more Vigorous in my business tht. <sic corr="lies">lyes</sic> <abbr expan="under">undr.</abbr> Yor. care <lb/>wch. both Yor. <del>self</del> profit &amp; Credt. is so much <sic corr="concerned">concernd</sic> in I'm <lb/>in great haste at Present. Conclude.&mdash;  </p>
+
+<closer>Yor. <abbr expan="Affectionate friend">Affect. frd.</abbr> &amp; Servt.<lb/><lb/>
+<seg type="postscript">Yor. Vestry <abbr expan="orders">Ordrs.</abbr> that are writ in <lb/>Yor. own hand are Imperfect, I want <lb/>the <abbr expan="orders">Ordrs.</abbr> of Vestry for the levying this Tobo. <lb/>&amp; wt. <abbr expan="number">Numbr. </abbr>of <sic corr="titheables">Tythables</sic> it was <sic corr="levied">levy'd</sic> <lb/>upon, which I request You will supply <lb/>me with, <lb/><lb/></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1723 June 16-1724 April 23, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia. There is a nineteenth-century transcript of this letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia. </note>
+
+<note>The name of Carter's home, "Corotoman," the county, and colony have been added for clarity to this unheaded draft.</note>
+
+<note id="n1">[1] Thomas Carter (1672-1733) was the second of that name in
+Lancaster County, and may have been Carter's first cousin as there is evidence that their fathers were brothers. He lived at "Barford" in the northern part of the county. (<cit><bibl>Catherine Adams Jones, <title>The Early Thomas Carters of Lancaster County, Virginia</title>. Lancaster, Virginia: Mary Ball Washington Museum &amp; Library, 1982.</bibl></cit></note>
+
+<note id="n2">[2] George Mason III (c. 1690-1735), justice, sheriff, burgess, and
+county lieutenant of Stafford County, father of the constitutional theorist. (<cit><bibl n="B24">Copeland and MacMaster, <title>The Five George Masons.</title> pp. 50-86</bibl></cit>; and <cit><bibl>George Harrison Sanford King, <title>The Register of Overwharton Parish Stafford County Virginia 1723-1758 And Sundry Historical and Genealogical Notes</title>. [Fredericksburg, VA: privately printed, 1961.]</bibl></cit>)</note>
+
+<note id="n3"> [3] John Copedge appears as a justice of the peace in Northumberland County in 1714, but was not listed in 1726 there when the name appears as the surveyor
+of Lancaster County.  (<cit><bibl>Louis des Cognets, Jr. <title>English Duplicates of Lost Virginia Records.</title> [Baltimore: Genealogical Publishing Co., Inc. 1981] pp 27, 36.</bibl></cit>)</note>
+
+<note id="n4">[4] Thomas Lee (1690-1750) was the son of Richard Lee II, and nephew of Edmund Jenings; he would build "Stratford," and succeed Carter on the Council. (<cit><bibl>Burton J. Hendrick. <title>The Lees of Virginia: Biography of a Family.</title> [Boston: Little Brown, 1935]. pp. 48, 51, etc.</bibl></cit>)</note>
+
+<note id="n5">[5] Quit rent was the term used for the payment due from the holder of land to the "lord of the manor," in this case, to the proprietors of the Northern Neck. Carter as the proprietor's agent, collected these payments. No services were required of the landholder as had been true in mediaeval times.</note>
+
+<note id="n6">[6] John Fitzhugh (d. 1733) of Stafford County, a younger son of William Fitzhugh of "Bedford." He was a burgess from Stafford in 1727. (<cit><bibl>"The Fitzhugh Family." <title>Virginia Magazine of History and Biography.</title> 7[1899-1900]: 317-19.</bibl></cit>)</note>
+
+
+
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

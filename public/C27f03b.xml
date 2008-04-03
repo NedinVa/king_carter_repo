@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C27f03b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to John Pemberton, June 3, 1727</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 9 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C27f03b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2003</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to John Pemberton, June 3, 1727</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1727-06-03</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C27f03bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1727-06-03"></date>
+<idno rend="suppress">C27f03b.xml</idno>
+<title>Letter from Robert Carter to John Pemberton, June 3, 1727</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Liverpool merchant John Pemberton, June 3, 1727, to advise the merchant of the arrival of his ship, the <hi rend="italics">Vine, </hi>and his attempts to get Captain Watkinson, "a very gruff old Gentleman," to take some tobacco left by another of Pemberton's ships. He has not heard of the arrival of Pemberton's slave ships which should have been sent earlier. Carter has drawn two bill of exchange on him payable to George Braxton for slaves that Carter was forced to buy because of many deaths among his slaves during the winter.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="JP">John Pemberton,</note> June 3, 1727</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1727-06-03">June 3d: 1727</date><lb/>
+Mr. John Pemberton<lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+
+
+<p><note target="n1">Watkinson</note> Arrived here the latter End of <lb/><sic corr="April">Aprill</sic> I have <sic corr="Prdered">Orderd</sic> him the <abbr expan="tobacco">Tobbo:</abbr> belonging to the <note target="n2"><name type="ship">John and <lb/>Betty</name></note> he refuses to take any more of it but what <sic corr="lies">lyes</sic> in <lb/>Corotoman I have promised him 30 hhds: of my own if he <lb/>does not leave me out A fortnight ago he writ me word he <lb/>had half his Load <del>my</del> in, I have <sic corr="pressed">presst</sic> him mightily to take <lb/>in all your <abbr expan="tobacco">Tobbo:</abbr> but he is a very gruff old Gentleman I <lb/>hear nothing yet of your two Negroes Ships It had bin Adv=<lb/>antageous to those <sic corr="Concerned">Concernd</sic> if they had bin here in the last <lb/>month.</p>
+
+<p>The <sic corr="Chief">Cheif</sic> business of this is to advise you of bills <lb/>of Exchange I have drawn upon you this day for three hundred 
+
+<pb n="2"/><lb/><lb/>
+pounds payable to both <note n="MCB">George <sic corr="Braxton">Braxston</sic></note> a great many o<add resp="editor">[f]</add> <lb/>my Slaves have <sic corr="Died">Dyed</sic> this winter which hath Obliged me to <lb/>buy Early to Supply their rooms and Occasions this large <lb/>Draft upon you I bought near four Score in the middle of <lb/><sic corr="April">Aprill</sic> the Choice of the Ship three men to one woman at <lb/>Twenty pound per head it had bin a Satisfaction to me to <lb/>have laid out my money with you had either of your Ships <lb/>got it time Enough I hope <note target="n3"><abbr expan="Captain">Capt:</abbr> <sic corr="Morton">Moreton</sic></note> is safe with you <lb/>hear no news of him yet I Shall Conclude here </p>
+
+<closer><hi rend="underline">Sir</hi> <lb/>Yor: very humble Servt:
+<seg type="postscript"><lb/><lb/>per the Dispatch <abbr expan="Captain">Capt</abbr> Barry</seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1727 May-1728 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1] Watkinson was captain of the <hi rend="italics">Vine,</hi> a ship that may have been owned by Micajah Perry. (Carter to Pemberton, 1724 March 25)</note>
+
+<note id="n2">[2] The <hi rend="italics">John &amp; Betty</hi> was a Liverpool ship owned by merchant John Pemberton. In 1726 the captain was John Gale, and in the next year, she was commanded by a Captain Denton. (<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> p. 18, n. 23.</bibl></cit>)</note>
+
+<note id="n3">[3] The <hi rend="italics">Content</hi> was a Liverpool ship owned by John Pemberton and commanded by various masters including captains Stephenson (1721) , Fowler (1723), and Morton (1727). (<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> pp. 92, 93, 102</bibl></cit>; and Carter to Pemberton, 1721 February 14, and 1727 June 28. )</note>
+
+
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C23h09a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Mrs. Mary Colston, August 9, 1723</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 7 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C23h09a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2002</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Mrs. Mary Colston, August 9, 1723</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1723-08-09</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C23h09aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1723-08-09"></date>
+<idno rend="suppress">C23h09a.xml</idno>
+<title>Letter from Robert Carter to Mrs. Mary Colston, August 9, 1723</title>
+</bibl>
+</head>
+<p>Robert Carter responds to a letter from Mrs. Mary Colston, August 9, 1723, concerning her desire to take out a patent on waste and surplus lands in and adjacent to lands originally  patented to James Williamson in Richmond County. He explains that waste and surplus lands are patented in different ways, and that he believes that Williamson's orphans should have first chance to patent any surplus in their father's land. He suggests Mrs. Colston consult Colonel Charles Barber as to her claims so that Barber may satisfy Carter about them.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to Mrs. <note target="n1">Mary Colston,</note> August 9, 1723</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
+<date value="1723-08-09">Augst. 9th. 1723</date><lb/>
+Mrs. Maery Colston<lb/>
+</dateline>
+<salute>Madm.</salute>
+
+</opener>
+
+<p>Your's of Yesterdays date hath put me upon <lb/>taking a review of Yor. Former Lettrs. to Witt of the 11th &amp; 16 of July last <lb/>Yor. designe is If I understand You right to take up all the Surplus lands in <lb/>A Pattent for three hundred &amp; fifty Acres Granted to the <abbr expan="orphans">orphs.</abbr> of <note target="n2">James Willi<lb/>=amson</note> as also all the Waste Land between  that Pattent Samfords <abbr expan="patent">Pat.</abbr> <lb/>&amp; Richardsons Creek, Now You are to Understand these are things of <lb/>Different Natures, Surplus Lands are to be taken up in one Method <lb/>and Waste Lands in Another, and there ought to be two Entrys and <lb/>two Deeds, And If there be Surplus Lands <del>between</del> within the bounds <lb/>of the Pattent granted to Williamson's <abbr expan="orphans">orphs.</abbr> It Should Seem that <lb/>they ought to have the preference before You, The best Advice <add resp="editor">[I]</add> <lb/>can give You, is to Consult <note target="n3"><abbr expan="Colonel">Collo.</abbr> Barber</note> in this Affair who frequ<add resp="editor">[ently]</add> <lb/>comes to our Court, And if he can <sic corr="satisfy">Sattisfie</sic> me, that tis Your  r<add resp="editor">[ight?]</add> <lb/>to have the preference to these lands, I Shall be willing to go [into?] <lb/>Measures for confirming them to You, Upon Your pay<add resp="editor">[ment of]</add> <lb/>the fees and Charges, And pray <abbr expan="Madam">Madm.</abbr> <del>before I take</del> [...] 
+
+<pb n="2"/><lb/><lb/>
+let me desire You to consider of the Other parts of my Lettr. &amp; to Vouch=<lb/>=safe me a Proper Answer which will  be Obligeing to You </p>
+
+<closer>Yor. most humble Servt.  </closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1723 June 16-1724 April 23, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>"Corotoman," the name of Robert Carter's home,  the county, and colony have been added for clarity to this unheaded draft.</note>
+
+<note id="n1">[1] Mary Colston, daughter of Francis and Mary [Bathhurst] Meriwether,  was the widow of William Colston [d. 1701], the first clerk of Richmond County.  (<cit><bibl n="B31">Ryland. <title>Richmond County Virginia. . . . </title> pp. 25-26. </bibl></cit>)</note>
+
+<note id="n2">[2] James Williamson was an early settler in Old Rappahannock County and held a tract of land  in what is now Richmond County" on the Rappahannock River just below Balls Creek south of Warsaw." (<cit><bibl n="B29">Miller. <title>Place-Names . . . . </title>.  p. 31.</bibl></cit>)</note>
+
+<note id="n3">[3] Charles Barber had been sheriff of Richmond County in 1704 and 1715, and its surveyor in 1721.  (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 3[1705-1721]: 271,398, and 540</bibl></cit>
+</note>
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

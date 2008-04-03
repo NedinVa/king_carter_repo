@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C23g05h">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Edward Tucker, July 5 and 29, 1723</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 10 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C23g05h.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2002</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Edward Tucker, July 5 and 29, 1723</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>3 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1723 July 4 -1724 June 11, Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1723-07-05</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C23g05hT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>3 p.</extent>
+<date value="1723-07-05"></date>
+<idno rend="suppress">C23g05h.xml</idno>
+<title>Letter from Robert Carter to Edward Tucker, July 5 and 29, 1723</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Weymouth merchant Edward Tucker, July 5, 1723, to inform him that he has drawn a bill of exchange on him to the London slave traders, Francis Chamberlaye and Francis Sitwell. He reports several other bills, including one from John Wormeley for a cask of Tucker's brandy. He closes by noting that he hopes to send 10-12 hogsheads of tobacco on board Capt. Wilson's ship but has not heard whether there will be room for  them on board. In a lengthy post script dated July 29th, Carter notes that Capt. Wilson has been delayed by sickness, and that the weather has reduced the expectations of a good crop. He tells Tucker that the news of a prohibition of importation of stemmed tobacco into England has been confirmed in Virginia, and suggests that Tucker and the other English merchants will need to learn to "Cheat as fast as they [the Scots]," they may be able to survive. He is not sure how long this sad state of affairs will last because most Scots ships have not found cargoes other than tar this year because they arrived so  late.<lb/><lb/>
+<hi rend="italics">This text was revised April 5, 2002, to include the post script.</hi></p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="ET">Edward Tucker,</note> July 5 and 29, 1723</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Rappahannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1723-07-05">July the <hi rend="underline">5th. 1723</hi></date><lb/>
+Mr. Edd: Tucker&mdash;&mdash;<lb/>
+</dateline>
+
+
+</opener>
+
+<p>The chief occasion of this is to advise you that <lb/>I have this day drawn on you for 116&pound; 18<abbr expan="shillings">S:</abbr> 0<abbr expan="pence">d.</abbr> 1/2 payable to <sic corr="Messieurs">Messuers</sic> <lb/><note target="n1">Francis Chamberlain</note> and <add resp="editor">[Francis]</add> Sittwell which I desire you to answer <lb/>at time upon my Accot. I have been under a necessity of mak<add resp="editor">[ing]</add> <lb/>use of this money, pay them of the <sic corr="balance">ballance</sic> of their Negro <add resp="editor">[con]</add><lb/>cern, <sic corr="although">altho</sic> I have abundance of money lying out upon that <lb/>Accot that I cant command a penny of it&mdash;</p>
+
+
+<pb n="2"/><lb/><lb/>
+<p>Herein I send you two small bills of Exchange of <lb/>my own drawn upon your self, George Yerby for 6&pound;: 4<abbr expan="shillings">S</abbr>: 5<abbr expan="pence">d</abbr> <lb/>Kitt Garlinton on Ditto 3&pound;: 13<abbr expan=" shillings">S:</abbr> 4<abbr expan=" pence">d.</abbr></p>
+
+<p>Herein you have also a bill of <abbr expan="exchange">Exche.</abbr> of <note target="n2">Mr. <lb/>Wormlys</note> payable to your self for 9&pound; and is for a cask of your <lb/>Brandy There <del>I think</del> is 2 Cask behind and <add place="supralinear">one</add> hath been drawn <lb/>to fill up the rest, and some I have made use of my self.</p>
+
+<p>Willson they tell me will not get away this month <lb/>I have sent him word he shall have 10 or 12 hhds of me but <lb/>whether he will have room to take them in I have yet no anwer <lb/>finding you are so pestered with <sic corr="stripped">Strip</sic> <abbr expan="tobacco">Tobbo.</abbr> these I intend shall <lb/>be all Leaf which is the needfull at present from Sir &mdash;</p>
+
+<closer>Your humble Servant
+<seg type="postscript"><lb/><lb/>Postscript to Mr. Tucker's last Lettr.&mdash;<lb/><lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rappa<add resp="editor">[hannock]</add> July 29th. 1723<lb/>
+Herein are the Seconds of the above mentioned Bills, <lb/><abbr expan="Captain">Capt.</abbr> Wilson meets with some delay by sickness, he <sic corr="reckoned">reckond</sic> to <lb/>be out in <note target="n3">the Bay</note> a Fortnight ago but is Still at my Storehouse <lb/>he hath 10 hhds. from me of Leaf Tobo., The Expectation of <lb/>a great Crop shrinks upon us Every day by the Unseasonable=<lb/>=ness of the Weather, Your Capt. Will see more of It before he goes,<lb/><lb/>
+
+We have it confirmd to Us. the Scotch have <lb/>got a Clause in the Tobo. Law prohibitting <sic corr="stemmed">Stemd</sic> Tobo. wch. <lb/>Seems to <sic corr="complete">compleat</sic> our Ruin &amp; to give us up Entirly as a prey <lb/>to them, this Sort of Tobo. the Scotch did not care to Dip in <lb/>It would not answer their designs, If you can find a way <lb/>to Cheat us fast as they, You may keep pace with them, but <lb/>tis our fate to be <sic corr="tied">tyed</sic> down to the whole Duty, &amp; if they can <lb/>bring Tobo. into the Nation, &amp; Sell it for less, &amp; yet gett Estates, <lb/>our Ruin is inevitable. But surely those things will <lb/>not last long, their Ships have but Indifferent luck this <lb/>Year, they come in So late, many of them will not get loaded <lb/>Some fill with Tarr, I am <sic corr="offered">offerd</sic> Freight now for Glasgow <lb/>for Six pound I am&mdash;<lb/><lb/> Sir Your Humble. Servt&mdash;</seg>
+
+</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1723 July 4 -1724 June 11, Carter Family Papers, Virginia Historical Society, Richmond.  There is a 19th-century copy of the letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia.</note><lb/>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. His usual return address, the county, and colony have been added for clarity to this unheaded draft.</note><lb/>
+
+<note id="n1">[1] Francis Chamberlayne may have been the wealthy grocer of London whose daughter Elizabeth married John Francis Fauquier, an official of the mint and director of the Bank of England, between 1694 and 1702.  Carter had in 1720 acted as one of the Virginia agents for these London slave traders in the sale of a cargo of slaves. (<cit><bibl>http://www.geocities.com/markfreemn/francis_fauquier.html
+</bibl></cit>)</note>
+
+<note id="n2">[2] John Wormeley (1689-1727), a younger son of Ralph Wormeley (d.
+1701) for whom Carter had been a trustee in John's youth. When his older brother, Ralph died in 1714, John inherited all of their father's considerable estate in Middlesex and York counties.</note>
+
+<note id="n3">[3] Chesapeake Bay</note>
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

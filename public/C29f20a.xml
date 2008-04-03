@@ -1,0 +1,213 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C29f20a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Mann Page, June 20, 1729</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 11 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C29f20a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2005</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Mann Page, June 20, 1729</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1728 August 8-1730 May 15,  Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1729-06-20</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C29f20aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1729-06-20"></date>
+<idno rend="suppress">C29f20a.xml</idno>
+<title>Letter from Robert Carter to Mann Page, June 20, 1729</title>
+</bibl>
+</head>
+<p>Robert Carter writes to his son-in-law, Mann Page, June 20, 1729, concerning a mortgage, a letter to manager William Camp that he sends to Page for his review and additions, and responding to comments by Page on the attacks on the proprietorship of the Northern Neck. </p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="MP1">Mann Page,</note> June 20, 1729</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Corotom[an], <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1729-06-20">June 20th. 1729</date><lb/>
+Colo. Page<lb/>
+</dateline>
+<salute>Honble Sir</salute>
+
+</opener>
+
+<p>I have finished this business <corr resp="editor">[. . .]</corr><lb/> 
+ken his Mortgage &amp; gave him bills of Exch<corr resp="editor">[ange . . . ]</corr> according to<lb/>
+the Method you proposed which he will <del>weight</del> <add place="supralinear">wait</add> Upon you to<lb/> 
+have your hand to them also and I now send a letter to <note n="MP2">Mr Perry</note><lb/>
+to go On board the <note target="n1">Spotswood</note> to Advise of these bills and a <corr resp="editor">[. . .]</corr><lb/>
+<abbr expan="tobacco">tobo</abbr> is Consigned to him</p>
+
+<p> My letter to <note target="n2"><abbr expan="William">Wm</abbr> Camp</note> directing him how <corr resp="editor">[to]</corr><lb/>
+take bills of Lading I send you Open that if you think f<corr resp="editor">[it to]</corr><lb/>
+make any alteration in respect of Mr Burwell' s <abbr expan="Tobacco">Tobo</abbr> I would<lb/>
+give way to it</p>
+
+<p> This Letter to Mr Perry <sic corr="carries">carrys</sic> also <corr resp="editor">[. . . in]</corr><lb/>
+voices for the next years Supply of <sic corr="those">them</sic> familys <corr resp="editor">[Capt. Bra]</corr>=<lb/>
+dby hath sent me word by <note n="CC1">Charles</note> they intend to <corr resp="editor">[. . . ]</corr><lb/>
+they sail however have thought it not Amiss to Prepare <corr resp="editor">[them]</corr><lb/>
+in Case they should not</p>
+
+<pb n="2"/><lb/><lb/>
+
+<p> I have drawn bills to the <abbr expan="Receiver">Recr</abbr> General for the <note target="n3"><abbr expan="quit">qt</abbr> ren<corr resp="editor">[ts]</corr></note><lb/>
+of <note n="NB">Mr Burwells lands</note> and this day to <note target="n4">Mr Stagg</note> <corr resp="editor">[. . .]</corr> for<lb/>
+&pound;12._._ for a years dancing for the children &amp; <abbr expan="Paid">Pd.</abbr> him also<lb/>
+three <note target="n5">pistoles</note> for their Ball doings</p>
+
+<p> you have been very Obliging in taking care to<lb/>
+send me <sic corr="Copies">Copys</sic> of the Orders of Council and likewise the en=<lb/>
+<abbr expan="tertainment">tertainmt</abbr> you give me of the Other Passages relating to that<lb/>
+Matter which indeed Afford great Sbjects for Speculation<lb/>
+I shall not Prognosticate how the <abbr expan="Present">Prest</abbr> Lord <abbr expan="Proprietor">Propr</abbr> Will relish<lb/>
+these things but if his predecessors were alive I fancy they<lb/>
+would Convince some Gentlemen they have not so precarious a<lb/>
+title to their Estate as they seem to <sic corr="Imagine">Imagin</sic> As for the Old Gent<lb/>
+<corr resp="editor">[. . .]</corr>ing his judgment so freely I have been so long Acquainted<lb/>
+wth his wild Opinions that I am not much <abbr expan="moved">mov'd</abbr> at it. but after such<lb/>
+convincing Proof from so many various ways I can't but be sur=<lb/>
+prized at <del>some of his Pr . . .</del> &amp;c</p>
+
+<p> My Son <note n="RC2">Robin</note> came down yesterday they are<lb/>
+a<corr resp="editor">[ll]</corr> well there as I thank god we are At this time Myself only<lb/>
+Excepted Sore Eyes and Sickness being my nightly Companions<lb/>
+the Violent pain in my back which held me for two or three<lb/>
+days bu<corr resp="editor">[t]</corr> I believe Mr.Jones told you of is Pretty well gone off</p>
+
+<p><abbr expan="Your">Yr</abbr> Waggon is just come Over And we are in hopes<lb/>
+<corr resp="editor">[. . . ]</corr> the Sloop <abbr expan="dispatched">dispatch'd</abbr> to Morrow And next week God willin<corr resp="editor">[g]</corr><lb/>
+<corr resp="editor">[. . . ]</corr> my Sawyers And Oxen. I hear nothing yet from <note n="ECB">Mrs<lb/>
+<corr resp="editor">[Nic]</corr>holas</note>of An Invoice for her Children the Ships Robin Expects<lb/>
+<corr resp="editor">[. . . ]</corr> Every hour to Clear out</p>
+
+<p> The proper Salutes of this Family to yours you Always com<lb/>
+mand My kind love to My dear daughter and her Children hear<lb/>
+tily praying for her happy <note target="n6">minuit</note> I am</p>
+
+
+<closer><seg type="postscript"><lb/><lb/></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. The first page of the letter has suffered some damage leaving holes in the text.</note>
+
+<note>The county and colony have been added for clarity to the  heading on the draft.</note>
+
+<note id="n1">[1] This London ship was commanded by James Bradby, 1727-1732.  (<cit><bibl>Adm 68/195, 70r ff., found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n2">[2] William Camp (Kemp) was described by Carter as "the General Overseer of Mr Burwell's Affairs" and he wrote that Camp earned a salary "&pound;50 . . . for the year 1731." Carter and his son-in-law, Mann Page, were the trustees of Nathaniel Burwell's children after Burwell's death in 1721. Camp was a resident of Gloucester County where most of the Burwell estates lay, and he must also have supervised "Rippon Hall" in nearby York County. (Carter to George Braxton, 1729 November 20, and Carter to William Dawkins,1732  July 11. <cit><bibl><title>Virginia Tax Records.</title> [Baltimore: Genealogical Publishing Company, Inc., 1983.] p. 539.</bibl></cit>)</note>
+
+<note id="n3">[3] Quit rent was the term used for the payment due from the holder of land to the "lord of the manor," in this case, to the proprietors of the Northern Neck. Carter as the proprietor's agent, collected these payments. No services were required of the landholder as had been true in mediaeval times.</note>
+
+<note id="n4">[4] This was Charles Stagg (d. c. 1735), the manager of the first theatre in Williamsburg, and a dancing master. He and his wife Mary had come to Virginia about 1715 and were indentured to merchant William Levingston to teach dancing. Levingston entered a contract with them the next year that they would attempt to obtain a license for  "the sole provilege of Acting Comedies, Drolls or other kind of Stage Plays within any part of the sd colony not only for the three years next ensueing the date hereof but for as much longer time."  (<cit><bibl>"The Colonial American Stage, 1665B1774: A Documentary Calendar." http://www.faculty.smsu.edu/w/wjb692f/Research/colonial%20stage%20calendar.htm. 3/31/2005. The contact cited on the website was found in York County Records, Orders, Wills, etc,. Book XV, 53.</bibl></cit>) </note>
+
+<note id="n5">[5] A pistole was a Spanish gold coin in use in Carter's time.</note>
+
+<note id="n6">[6] Although the exact meaning of this word has not been located, even in the <hi rend="italics">Oxford English Dictionary,</hi> Carter seems to mean an impending birth. If this is correct, the child must have been stillborn for there is no record of Judith (Carter) Page having a child after 1728. (<cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p.</bibl></cit>) </note>
+
+  
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

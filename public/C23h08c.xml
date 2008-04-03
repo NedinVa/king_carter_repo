@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C23h08c">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to John Stark, August 8 and 15, 1723</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 12 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C23h08c.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2002</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to John Stark, August 8 and 15, 1723</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>3 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1723-08-08</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C23h08cT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>3 p.</extent>
+<date value="1723-08-08"></date>
+<idno rend="suppress">C23h08c.xml</idno>
+<title>Letter from Robert Carter to John Stark, August 8 and 15, 1723</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Glasgow merchant John Stark, August 8, 1723, referring to an earlier letter concerning a draft on Stark. He then alerts Stark that he will ship 50 hogsheads on board Captain Bowman's ship, and that James Read's solicitations for more on board Stark's ship, the <hi rend="italics">Charles,</hi> he probably will agree to, but he hopes Stark will obtain a better price for the tobacco than last year's. He complains strongly about the difference in weight of his tobacco when he weighs it just before shipping it, and when it is weighed by Stark. Carter wants Stark to send good claret to his daughter, Elizabeth Burwell on York River, but complains about the price charged those men who received claret from him this year.  In a lengthy post script dated August 15, 1723, Carter encloses a bill of lading (not present) for 51 hogsheads of tobacco, complains that Stark did not allow him the farthing per pound more that he gave others, orders brandy for his daughter, and tells Stark that his masters will tell him more of the damage to crops from the recent bad weather.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to<note target="n1"> John Stark,</note> August 8 and 15, 1723</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1723-08-08">Augst. 8, 1723.</date><lb/>
+Mr. John Stark&mdash;<lb/>
+</dateline>
+
+
+</opener>
+
+<p>I have already Advisd You Via <abbr expan="London">Londo.</abbr> of my draft <lb/>Upon You for one hundred pounds to <note n="MP2">Mr. Perry</note> which I Expect You will <lb/>Comply with, without any Allowance for the <abbr expan="exchange">Exche.</abbr> which I take to be <lb/>the Meaning of Your Letter of the 11th of <abbr expan="October">Octor.</abbr> last.</p>
+
+<p>I Shall Ship on Board <note target="n2"><abbr expan="Captain">Capt</abbr>
+ Bowman</note> fifty hhds &amp; put <lb/>It on board with my Own Sloops For which I <del>hope illegible </del>expect I Shall be allowd.</p>
+
+<p>Mr. <note target="n3">James Read</note> hath bin with me this Week, &amp; Solicites <lb/>me Strongly For 20 or thirty hhds. freight which believe I Shall go <lb/>near to help him to, Upon Your Accot. but All this is in hopes, You will <lb/>think It proper to Allow me more for my Tobo. than You did last Year <lb/>I loose considerably by that Tobo, I may say that reckon Shrink=<lb/>=edge, Sallary Sloop hire, &amp; other charges, the Tobo. I Send You <lb/>Stands me in Above twelve Shillings per hundred weight <add place="supralinear">here</add>, Whatever is the reason I <lb/>can't tell, there is a Prodigious  difference between the <abbr expan="weights">Wts.</abbr> here &amp; <lb/>the <abbr expan="weights">Wts.</abbr> at Your Scales, <del>and I illegible</del> which is very Strange considering <lb/>I weigh All my Tobo. in Scales too, just before I ship it,</p>
+
+<p>I have promissd <note n="ECB">my Daughter Burwell</note> who lives In <lb/>York river to write to You for a hhd of <sic corr="claret,">clarret,</sic> &amp; accordingly <lb/>I now desire You to Send her in one upon my Accot., The Wine <lb/>that You Sent in this Year to <abbr expan="several">Sevl.</abbr> Gentlemen has the character of <lb/>being very good, but Is the Dearest that Ever I heard of, I have had <lb/>Many a hhd of good <sic corr="claret">clarret,</sic> from Mr. Arbuckle of Belfast for Eight 
+
+<pb n="2"/><lb/><lb/>
+<add resp="editor">[pounds]</add> per hhd and as good <note target="n4">Pontac</note> as Ever I drank in my Life <del>I paid</del> <add place="supralinear">he chargd me</add> <lb/>&pound;12 per hhd For, I would have this Wine of the best Sort but <lb/><add resp="editor">[ho]</add>pe You will be able to Send It at a much Cheaper rate than the <lb/>last Years came at, I am  </p>
+
+<closer>Sir  <lb/>Your humble. Servt.
+<seg type="postscript"><lb/><lb/>Per the <name type="ship">Mazereen</name> <abbr expan="Captain"> Capt.</abbr> Kelsick <lb/>Copy.&mdash;<lb/><lb/>
+
+<lb/><lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rappahannock Augst. 15th. 1723&mdash;<lb/>
+Sir<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The <note target="n5">Above</note> is a Copy of mine by the Mazereen this <abbr expan="accompanies">Accompas.</abbr> Capt. <lb/>Bowman &amp; Covers a bill of Lading for 51 hhds. of Tobo. on board his Ship pray God <lb/>Send It Safe to You, &amp; to a better Markett <sic corr="than">thn.</sic> the last met with, <sic corr="I'm">Im</sic> this day told <lb/>by one  of Your Townsmen that You gave Some other men a Farthing a pound <lb/>more <sic corr="than">thn.</sic> I had, <sic corr="I'm">Im</sic> Sorry the largeness of my Quantity Should depretiate me in price <lb/>I must desire You with the hhd of <sic corr="claret">clarret,</sic> I have writ to You for, for my <abbr expan="daughter">Daughr.</abbr> 
+
+<pb n="3"/><lb/><lb/>
+Burwell that You will Send her in a <abbr expan="quarter">Qr.</abbr> Cask of the Best french <add resp="editor">[brandy ?]</add> 
+	<lb/><lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm prepareing Some more Tobo. for Mr. Reid by whom I Sen<add resp="editor">[d letters]</add> <lb/>to Entertain You more at length, Every hhd of this Tobo. in Bo<add resp="editor">[wman] </add><lb/>I have carried to his Side In my own Craft, I hope You'l take c<add resp="editor">[are to?]</add> <lb/>Allowed for my Charge, Your Masters will Acquaint You, with the gre<add resp="editor">[at]</add> <lb/>Damage we have Sustaind In Our Crops  by the Rains &amp; hard Winds <add resp="editor">[ac]</add><lb/>=cording to the present report from most parts of the Country, Our Crops wil<add resp="editor">[l]</add> <lb/>be but Short, I am <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir&mdash; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yor. very humble Servant
+</seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1723 June 16-1724 April 23, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia. </note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1] John Stark was a merchant, probably the one to whom Carter referred when he wrote to Micajah Perry on 1723 July 4 that he had drawn an order on "Mr. Stark of Glasgow." On that same day, he wrote to a John Stark, referring to Captain Bowman.</note>
+
+<note id="n2">[2] Captain Samuel Bowman commanded the <hi rend="italics">Lucia.</hi> Carter mentioned this vessel in his diary in June 1724, and again on 1726 March 4 when he wrote that she "came in had 20 Weeks Passage."</note>
+
+<note id="n3">[3] James Read (Reid) is not referred to as "captain" which means he was an official of John Stark's firm on a trading vessel who was empowered to do its business in Virginia. He was aboard the <hi rend="italics">Charles,</hi> a Glasgow ship that was owned by Stark. Carter specifically refers to "Your Ship" and "the Charles of Glasgow" in a letter to Stark of 1723 September 4. </note>
+
+<note id="n4">[4] Carter knew of the long conection of the Pontac family with the Haut-Brion vineyards, and the wines produced in that region that came to be known as clarets. (<cit><bibl>"Chateau Haut-Brion" at http://haut-brion.com/chb/chbinitial.htm, found 4/16/02</bibl></cit>)</note>
+
+<note id="n5">[5] This long postscript to the letter of August 8, 1723, was squeezed into the letter book below it.</note>
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

@@ -1,0 +1,247 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C20g13c">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to John Carter, July 13, 1720</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 7 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">filename</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to John Carter, July 13, 1720</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date>unpublished</date>
+   <idno type="callNo"> Source copy consulted:  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1720-07-13</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C20g13cT">
+
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 pp.</extent>
+<date value="1720-07-13">July 13, 1720</date>
+<idno rend="suppress">C20g13c</idno>
+<title>Letter from Robert Carter to John Carter, July 13, 1720</title>
+</bibl>
+</head>
+<p>Robert Carter writes to his son John, then in London studying law, on July 13, 1720, complaining at length about John's expenses, particularly in persuading Micajah Perry to advance him funds beyond his allowance. He states that if John deceives him again about the expenses, he will no longer accept John's word about the management of his affairs in London. He continues by refuting John's claim that John Randolph has maligned John, and adds that Randolph never wore better clothes that he has observed although his acquaintance with Randolph is slight. Randolph's politics and his were so opposed, Randolph being "a rank Torey a Proud, humble Parasite a fawning Sycophant to his Patron," that he had not hired Randolph again after a year of retaining him, and now finds Randolph involved in almost all cases he has lost. Robert continues that his lawsuit against Thomas Wise should soon be concluded, and that he will write separately concering "Mr. Lee's Settlemt. &amp; Sr. Robt. Raymond's 
+opinion upon the Case." He writes John some information "Mr. Cary's Lawsuit is not Yett determin'd" and gives some details of the case, and notes that some poor familys that "whose Ancestors before them have liv'd &amp; Dyed in quiet possession of these Lands" are likely to be hurt by the suit, adding that he has a closer claim to the lands than the person from whom Cary acquired  because they had belonged to his niece. He instructs John to visit Cary and make him acquainted with these facts, reporting that he had made offers to Cary through his lawyers to buy the lands in question, and directing John to keep in close contact, pressing Cary for his "Lowest Demands." He concludes by criticising John for not mentioning his brothers who are in England at school, and reports that the family is well.</p>
+</div1>                 
+</front>
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="JC1">John Carter,</note> July 13, 1720</head>
+
+<opener>
+<dateline>
+<pb n="1"/>
+<date value="1720-07-13">July 13th 1720</date>
+<name type="place">Rappahannock [LancasterCounty, Virginia]</name>
+</dateline>
+<salute>Dear Son John&mdash;</salute>
+
+</opener>
+
+
+<p>Yors. of the 15th of Feb. came lately to my hands in It <lb/>
+You make me a great many promisses to make no farther use of <lb/>
+my money Beyond the Allowance I have agreed to give You &amp; <lb/>
+Indeed tis a p<add resp="editor">[ie]</add>s<add resp="editor">[e]</add>. of very extraordinary managemt. In <ref n="MP">Mr. Perry</ref> <lb/>
+to give <add place="supralinear">yo</add><add resp="editor">[u]</add> the opportunity of doing It. Tho I have Yor. frequent <lb/>
+promisses for a Stated Accot. of Yor. Expenses You leave me <lb/>
+As much in the Dark as ever, You Engage <sic corr="yourself">Yor Self</sic> Indeed <lb/>
+upon more full mouthd promisses for a bettr. regulation <lb/>
+a Closer applicatn to Yor. Studys &amp; a greater frugality for the <lb/>
+Future, but <abbr expan="what">w<add resp="editor">[ha]</add>t.</abbr> reason have I to believe You'll be more Consistent <lb/>
+wth. Yor. word now than You have hitherto <sic corr="been">bin,</sic> however I will once <lb/>
+more lay somew<add resp="editor">[ha]</add>t. upon <abbr expan="what">w<add resp="editor">[ha]</add>t.</abbr> You say is Yor. fix'd resolution but <lb/>
+If you deceive me again I must be so plain to tell You&mdash;<lb/>
+I Shall have little Dependance upon <abbr expan="what">w<add resp="editor">[ha]</add>t.</abbr>
+You say hereafter <lb/>
+In relation to the <del>managemt.</del> governmt of <sic corr="yourself">Yor. self</sic>&mdash;</p>
+
+<p>You seem to Suspect Mr. Randolph hath Done You<lb/> 
+Some Disservice in his character of You but in that You are <lb/>
+Entirely Mistaken I Dont know nor ever heard he hath <lb/>
+lett fall any Expression to Yor. Disadvantage nor Indeed had <lb/>
+I Ever much Discourse <add place="supralinear">wth.</add> him abt. You, so that If he's under any <lb/>
+obligation to You, he is for <abbr expan="what">w<add resp="editor">[ha]</add>t.</abbr>
+ I know clear of the Sin of <lb/>
+Ingratitude. as for his wearing finer Linnen or finer Cloths <lb/>
+Than You he never appeard in any Such here that I <lb/>
+have seen, my Accquaintance wth. him is very slender <lb/>
+only now and then casualy at a Dinner, his Principles <lb/>
+&amp; mine are of a very Diff<add resp="editor">[eren]</add>t nature a rank Torey a <lb/>
+Proud, humble Parasite a fawning Sycophant to his <lb/>
+Patron wth. all the other requisites to a <add place="supralinear">servile</add> Courtier. These <lb/>
+are as much reverse to my nature as white is to black <lb/>
+besides altho he was my Servant for a year &amp; I gave him a retaining fee at his first<lb/>
+<add place="marginleft">coming in he hath bin in all Causes That I have had against me </add><lb/>
+From whence You may conclude there is very little <lb/>
+familiarity between us.</p>
+
+<p>Mr. Richd. Perry tells me he should Settle <note target="n1">Mr. Wise's </note><lb/>
+Affair in a Short time, Mr. Lee's Settlemt. &amp; <note target="n2">Sr. Robt. Raymond's</note> <lb/>
+opinion upon the Case I Shall Consider in a Lettr. by Itself. </p>
+
+<p><note target="n7">Mr. Cary's</note> Lawsuit is not Yett determin'd altho I <lb/>
+take the Difficultyst part of It to be over It is come to the <lb/>
+Issue  The last Jury made two Surveys &amp; have submitted It <lb/>
+to the Judgement of the Court <abbr expan="which">w<add resp="editor">[hi]</add>ch.</abbr>
+ of the two Surveys is the <lb/>
+right such a proceeding in a Jury I never Saw before but it <lb/>
+lyes upon this Issue for Tryal to the next Court. lett the Determination <lb/>
+be as much in the Disfavour of Mr. Cary as It can 
+
+<pb n="2"/><lb/><lb/>
+he'l have Enough for his money, &amp; in my Conscience I think <lb/>
+of right he ought to go no further than the Inmost lines If <lb/>
+he recovers to the outer most It will be a very hard fate <lb/>
+to <abbr expan="several">Sevl.</abbr>
+ Poor familys whose Ancestors before them have <lb/>
+liv'd &amp; Dyed in quiet possession of these Lands, &amp; If Cary be a <lb/>
+Man of honour &amp; Circumstance I believe If he were <lb/>
+upon the Spott he would be contented to take his land <lb/>
+wth.out Disturbing these poor people. I'm sure w<add resp="editor">[ere]</add> he in <lb/>
+right mind I would Forthwith give It up, &amp; If Proximity <lb/>
+of blood might take place, I am a nearer heir than the <lb/>
+Person Cary Purchasd from, Those Lands were the Inhe=<lb/>
+=ritance of my <note target="n3">Bro<add resp="editor">[the]</add>rs</note> Daughter and she dy'd last Seizd <lb/>
+of That Inheritance, I'd have you acquaint Mr. Cary <lb/>
+<abbr expan="with">wth</abbr> this whole Storey. he hath fee'd indeed all the<lb/>
+Lawyers <add resp="editor">that</add> are of any value in the Country How farr <lb/>
+the Strength of Lungs may go in bewildering A Court <lb/>
+&amp; worrying Poor men out of their rights I Cant tell <lb/>
+You might very well Smile at Cary's <sic corr="talking">taulking</sic> of &pound;3000<lb/>
+when he bought. those Lands &amp; two considerable Tracts more <lb/>
+as I take It for less than 500, I offer'd his Lawyers <lb/>
+At the barr to take the Land wth.in the Inmost bounds &amp; to <lb/>
+pay him his principal money &amp; Interest from the <lb/>
+time of the Paymt. <abbr expan="with">wth.</abbr>
+ the Charges of the Lawsuit <lb/>
+&amp; &pound;100 besides for his bargain. or If this will not do <lb/>
+I Shall be willing to give him as much for It as <lb/>
+any body else &amp; I think the relationship should make <lb/>
+him So Generous rather to lett me have It than another <lb/>
+I would have you keep the business warm between You <lb/>
+&amp; to Accquaint me wth. his Lowest Demands. There <lb/>
+is but one Difficulty in the Wind <abbr expan="which">wch.</abbr>
+ If I can gett over <lb/>
+I may make a better Title to these lands than any of <lb/>
+the heirs of <note target="n4">Hull</note> under whom Cary purchast&mdash;</p>
+
+<p>In all Yor Long Lettr. You forgett to Say one <lb/>
+Syllable of <note target="n5"><sic corr="your">Yor</sic> Bro<add resp="editor">[the]</add>rs</note> Surely they are more in Yor care<lb/>
+Than all this comes to. Yor Sisters &amp; their familys are in <lb/>
+health my <note target="n6"><sic corr="daughter">Daughr</sic> Page</note> wth her husband went from <lb/>
+hence but two Days ago we all Enjoy health in this <lb/>
+family at this time thank God I commit You to the <lb/>
+Protection of the Almighty &amp; am</p> 
+
+</div1>
+
+</body>
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics">Source copy consulted: </hi>  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. Printed: <cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> pp. 7-10.</bibl></cit></note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence to merchants abroad. The county and state have been added for clarity.</note>
+
+<note id="n1">[1] RC and <name type="person">Thomas Wise</name> had "traded with each other in tobacco and bills of exchange between 1707 and 1717," but Wise "neglected his duty in returning those bills that were protested." Carter sued Wise in England to recover his money, and he won &pound;180. (<cit><bibl>Survey Report 10147 describing C24/1398 part 1, Virginia Colonial Records Project, Albert H. Small Special Collections Library, University of Virginia;</bibl></cit> and letter of August 19, 1723, RC to Micajah Perry.)</note>
+
+<note id="n2">[2] Sir Robert Raymond, later Lord Chief Justice, was Attorney General in 1720. He was regarded as the foremost lawyer of his day.</note>
+
+<note id="n3">[3] Elizabeth (Carter) Lloyd (1675-1693) was RC's brother John's only child. Elizabeth married John Lloyd in 1691, and was dead by November 1693 of measles. John appointed managers of the estate in 1699 in Essex County, and returned to England the next year as he had inherited land there. Elizabeth inherited from her mother, Elizabeth Hull, also an only child, all of her grandfather John Hull's property. </note>
+
+<note id="n4">[4] Probably Richard Hull of Northumberland County who died in 1717.</note>
+
+<note id="n5">[5] John Carter's younger brothers, Robert (1704-1732), Charles (1707-1764), and Landon (1710-1778), were then in England for their education. (<cit><bibl n="B30">Greene, <title>The Diary of Colonel Landon Carter of Sabine Hall,1752-1778</title>, 3.</bibl></cit>)</note>
+
+<note id="n6">[6] John's sister Judith (1695-c.1750) who married Mann Page of "Rosewell" in 1718.</note>
+
+<note id="n7">[7] Mr. Cary may have been Robert Cary (1685-1751), a member of a British family of merchants who had many Virginia connections. See <bibl n="A6"> Price. "Who Was John Norton? A Note on . . .  Some Eighteenth-Century London Virginia Firms."</bibl> for an extensive discussion of the Cary family.</note>
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

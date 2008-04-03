@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C23g03e">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Micajah Perry, July 3, 1723</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 11 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C23g03e.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2002</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Micajah Perry, July 3, 1723</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1723-07-03</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C23g03eT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1723-07-03"></date>
+<idno rend="suppress">C23g03e.xml</idno>
+<title>Letter from Robert Carter to Micajah Perry, July 3, 1723</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant Micajah Perry, July 3, 1723, to report on the law passed by the recent General Assembly limiting the quantity of tobacco that can be produced by each planter, and stating some of the arguments in its  favor. He thanks Perry for his recent arguments against the Scots merchants, and hopes Perry will work for the King's support of the new law. He admits to Perry that the new law may not reduce the quantity of  tobacco available for sale because each planter will use his best grounds for his limited number of plants, and will tend them with greater care. He also informs Perry of new taxes on liquor and on slaves, the latter which he is sure that the African company will fight even though Maryland has had a similar  law for some years, and the tax is paid by the colonists rather than the importer. He sends Perry copies of the speeches recently given in the Assembly by the governor and others.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="MP2">Micajah Perry,</note> July 3, 1723</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1723-07-03">July the 3d: <hi rend="underline">1723</hi></date><lb/>
+Micaja Perry<lb/>
+</dateline>
+<salute>Sr&mdash;&mdash;</salute>
+
+</opener>
+
+<p>The <note target="n1">Vigorous Appearance</note> you made against the <lb/>North Brittains, when the complaints  against their frauds was in&mdash; <lb/>Agitation gives us hopes you will be Ready to give your Assisting hand <lb/>to all Oportunities that may offer for <add place="supralinear">the</add> promoting the good of the <abbr expan="tobacco">Tobbo</abbr> <lb/>Trade and the Welfare of this Countrey, and in your Lettrs. you have <lb/>recommended to us the doing what <sic corr="we">wee</sic> could to help our Selves in <lb/>Order to which our good <note n="HD">Governour</note> hath <abbr expan="adventured">adventurd</abbr>
+ to pass a Law <lb/>for laying a Stint upon planting <abbr expan="tobacco">Tobbo:</abbr>: to 6m <del>000</del> <add place="supralinear">plants</add> per head for three Years <lb/>which is to be in force in <sic corr="April">Aprill</sic> next that the Kings pleasure may <lb/>be known whether he will be graciously pleased to allow us this <lb/>Law, we are not insensible It may raise potent enemies at home <lb/>as well as it will Occasion representations by some from hence <lb/>on Accot: of the harsh <sic corr="aspect">asspect</sic> it has upon the Kings Revenue both <lb/>in <sic corr="Britain">Brittan</sic> and here, we are in hopes the Merchants will very well <lb/><sic corr="approve">Aprove</sic> of it and give their <sic corr="utmost">uttmost</sic> Efforts to Support it in being, <lb/>neither will it lessen the Quantity of <abbr expan="tobacco">Tobbo.</abbr>so mightily as some <lb/>will Imagine, we shall tend all the best of our Grounds and Manage <lb/>it with the greatest niceness so that probably we shall make more <lb/>and better <abbr expan="tobacco">Tobbo-</abbr> of this 6 <del>000</del> m plants <sic corr="than">then</sic> we usually do of 10 or <lb/>12: Thousand besides we shall turn out a great many to making <abbr expan="tobacco">Tobbo</abbr> <lb/>that we are now <sic corr="employed">Imployed</sic> other <sic corr="ways">wayes</sic> in hopes of its becoming a <lb/>good <sic corr="commodity">Commoditie</sic>, the present necessity our Trade is under strongly <lb/>pleads for us a low <sic corr="market">markett</sic> at home your Shipping all coming full <lb/>and now the greatest prospect of a Crop upon the Ground that ever <lb/>was known, what must we come to shall we not be <sic corr="allowed">allowd</sic> to <lb/>Live upon our labour, we must be driven by necessity to some <lb/>other <sic corr="ways">wayes</sic> to Support our families, <abbr expan="tobacco">Tobbo:</abbr> will never do it unless <lb/>we can restrain ourselves to make no more <sic corr="than">then</sic> the World will <lb/>Consume, I need not multiply Arguments to you 
+
+<pb n="2"/><lb/><lb/>
+Your own thoughts will better Suggest them, the Scot<add resp="editor">[ch]</add> <lb/>run away with the Trade here and by their frauds can of<add resp="editor">[fer]</add> <lb/>to give better prizes to the poorer sort <add place="supralinear"><hi rend="italics"><note n="2">then other men</note></hi></add> This instead of being a <lb/>remedy is a great part of the Disease, and is the <sic corr="effectual">Effectuall</sic> way <lb/>of cutting the Throats of all the Consigners. Surely if our Gracious <lb/>King has a true knowledge of our Miseries he will Extend his mercy <lb/>to us in <sic corr="indulging">Indulgeing</sic> us in this Affair <sic corr="although">altho</sic> it should somewhat <lb/>lessen  his revenue for a Short time.</p>
+
+	<p>There is another Law <sic corr="passed">passd</sic> laying a Duty upon Liquors <lb/>and 40 <abbr expan="shillings">S</abbr> per head on Slaves instead of 5 &pound;: <sic corr="although">altho</sic> this hath been <lb/>a standing  <add place="supralinear">Law</add> for a long time <sic corr="allways">alwayes</sic> when the Countrey was in <lb/>want of Money for our Publick Occasions and is now Subsisting in <lb/><sic corr="Maryland">Mary Land</sic> is <add place="supralinear">highly</add> threatened with a repeal by the <note target="n4">African company</note> <lb/><sic corr="although">altho</sic> in truth the Tax is laid upon our Selves and not upon the <lb/>Importers, Constant Experience hath convinced us that Slaves <lb/>and Liqours have risen in proportion to the Duties <add place="supralinear"><hi rend="italics"><note target="n3">&amp; more</note></hi></add>,  but we <lb/>want not <sic corr="malcontents">Male Contents </sic><add place="supralinear">tht will lay hold of all Occasions</add> to be Caviling and finding fault with <lb/>everything that is done under the present administration there are <lb/><abbr expan="several">Sevll.</abbr> other things do not a little disturb our Anti Courtiers you <lb/>will have news Mongers enough I dare say I need not give&mdash; <lb/>you the trouble</p>
+
+<p>	For your entertainment I send you the Speeches that <lb/><sic corr="passed">passd</sic> between the Governour and the Assembly, you must Excuse <lb/>the faults of your man Harvey who is a very Indifferent Clerk <lb/>I am <sic corr="Sir"><hi rend="underline">Sr</hi></sic> </p>
+
+<closer>Your most humble Servt:</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1723 June 16-1724 April 23, Robert Carter Papers, (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.  </note><lb/>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note><lb/>
+
+<note id="n1">[1] The trading policies of Scots merchants were of considerable concern to Virginia planters and English  merchants at this time, and the matter came before Parliament in 1723. Vessels sent by Scots were crewed by captains and factors authorized to pay good prices in Virginia which enabled them to  obtain full cargoes. English merchants argued that the only way the Scots could afford to pay such good prices was their ability to avoid paying duties on the tobacco at home. Micajah Perry appeared before Parliament and gave statistics of the duties paid by his firm in earlier years and the far smaller amounts paid in the past several years because his ships could not obtain full cargoes in Virginia.  (<cit><bibl n="B22">Price. <title>Perry of London. . . . </title> pp. 64-65.</bibl></cit>)</note>
+
+<note id="n2">[2] Carter entered these words himself in the clerk's draft as the use of italics indicates.</note>
+
+<note id="n3">[3] Carter entered these words himself in the clerk's draft as the use of italics indicates.</note>
+
+<note id="n4">[4] The Royal African Company, founded in 1672, grew out of earlier slave-trading companies that had been founded in the middle of the  seventeenth century, and that held monopolies on the English trade in slaves. The trade proved so  profitable that Parliament was lobbied successfully to rescind the monopoly and open the trade to anyone which happened in 1698. Carter anticipates that the company will fight the proposed tax on imported slaves even through it is to be paid by the colonial purchasers, not the importers. He was correct for the law was not allowed to stand due to lobbying against it in England. (<cit><bibl>http://www.pbs.org/wgbh/aia/home.html</bibl></cit>; and <cit><bibl n="B27">Billings. <hi rend="italics">et al. </hi> <title>Colonial Virginia: A History.</title> p. 232.</bibl></cit>)</note>
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

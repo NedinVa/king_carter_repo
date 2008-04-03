@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C24b15a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to John Pemberton, February 15, 1724</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 5 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C24b15a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2002</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to John Pemberton, February 15, 1724</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1723 July 4 -1724 June 11, Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1724-02-15</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C24b15aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1724-02-15"></date>
+<idno rend="suppress">C24b15a.xml</idno>
+<title>Letter from Robert Carter to John Pemberton, February 15, 1724</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Liverpool merchant John Pemberton, February 15, 1724, to complain about the last shipment of slave shoes from him which the shoemaker--"a rank cheat "-- had marked as larger than they were. He orders replacement shoes to be "the best Strong plain Carmens Shoos that You can buy for Money."</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="JP">John Pemberton,</note> February 15, 1724</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1724-02-15">Feb. 15th. 1723/4</date><lb/>
+Mr. Jno. Pemberton<lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+<p>Since the Sailing of Fowler, I have <sic corr="overhauled">overhauld</sic> the <lb/><sic corr="shoes">Shoos</sic> You sent me last Year, they prove Very ordinary the <sic corr="shoemaker">Shoomaker</sic> <lb/>hath bin a rank cheat &amp; hath <sic corr="marked">markd</sic> many of the <sic corr="shoes">Shoos</sic> at high sizes <lb/>When the biggest of them do not Exceed the 12s. I shall be at a mighty loss <lb/>to <sic corr="fit">fitt</sic> my largest people, The <sic corr="shoes">Shoos</sic> You sent me the Year before <lb/>were very good &amp; <sic corr="answered">answerd</sic> their Sizes very well, I am doubtfull <lb/>Your next which I Expect are coming will be of the same Stamp wth. <lb/>these last, therefore for fear of the worst I desire You will take the <lb/><add resp="editor">[firs]</add>t Opportunity You have, to send me in Six <abbr expan="dozen">doz.</abbr> of the best Strong 
+
+<pb n="2"/><lb/><lb/>
+plain Carmens <sic corr="shoes">Shoos</sic> that You can buy for Money, one half of them <lb/>to be of the large 16s. the other of the 14s.  You must not stick at price <lb/>And I would also have  two <abbr expan="dozen">doz.</abbr> of large mens French Falls and <lb/>two <abbr expan="dozen">doz.</abbr> of <sic corr="womens,">Woms.,</sic> I am in hopes I may get these <sic corr="shoes">Shoos</sic> by next Fall <lb/>or at farthest Early in the Winter, I would beg Yor. Sons particular <lb/>care in the buying these <sic corr="shoes">Shoos</sic>, that I may be well <sic corr="served">servd</sic> according to <lb/>my desire, </p>
+
+<closer>Yors. to Command
+<seg type="postscript"><lb/><lb/>per <note target="n1">Keiling</note></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1723 July 4 -1724 June 11, Carter Family Papers, Virginia Historical Society, Richmond. </note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
+
+<note id="n1">[1] Captain William Keiling commanded the <hi rend="italics">Betty.
+</hi> (<cit><bibl>Survey Report 6800, Virginia Colonial Records Project, Albert and Shirley  Small Special Collections Library, University of Virginia</bibl></cit>)</note>
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

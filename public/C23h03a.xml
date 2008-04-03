@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C23g03a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Thomas Evans, August 3, 1723</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 8 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C23h03a</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2002</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Thomas Evans, August 3, 1723</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1723-08-03</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C23h03aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1723-08-03"></date>
+<idno rend="suppress">C23h03a.xml</idno>
+<title>Letter from Robert Carter to Thomas Evans, August 3, 1723</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant Thomas Evans, August 3, 1723, that he did not receive a letter from Evans in the latest batch to arrive from England. He encloses a bill of lading (not present), and briefly complains about the stemmed tobacco act. He orders sacking for bags, cloth for prizing cider, and a very strong scythe for cutting hay.   </p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="TE">Thomas Evans,</note> August 3, 1723</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1723-08-03">Augst. 3d. 1723</date><lb/>
+[Th]os. Evans&mdash;&mdash;<lb/>
+</dateline>
+
+
+</opener>
+
+<p>By <note target="n1"><abbr expan="Captain">Capt.</abbr> Hopkins,</note> I have received my Accots. from <lb/><add resp="editor">[t]</add>he rest of the <abbr expan="merchants">Merchts.</abbr> but Yet See nothing from You which makes <lb/>me a little uneasie, Herewith comes a bill of Lading for <lb/>10 hhds of Tobo. on board <note target="n2"><abbr expan="Captain">Capt</abbr></note> Richardson 8 of them <sic corr="stemmed">Stemd</sic> my <lb/>Own Crop, The other two <sic corr="sweet scented">Sweat Sented</sic> Leaf, </p>
+
+<p>I have the Act of Parliament <sic corr="prohibiting">prohibitting</sic> all <lb/><sic corr="stemmed">Stemd</sic> Tobo. that Shall Arrive After the 1st of June next, It is <lb/>A very great  Shock to me, who have <sic corr="stemmed">Stemd</sic> all my Crops for <lb/>these Thirty Years together, The Great Argument I Suppose <lb/>hath bin the Encreasing The Kings <sic corr="customs">Custome,</sic> but I believe in <lb/>Experience that Will be found a great Mistake, a New <lb/>Door of Fraud will be indeed open for the Scotch, but there <lb/>I shall leave It, My Lettrs. Were <sic corr="sealed">seald</sic> up for Richardson <lb/>before my News by Hopkins came to which refer You,</p>
+
+<p>I Desire You to Send me in with the rest of my Goods, <lb/>40 Yards of Your Strongest sacking For Baggs, and 20 <abbr expan="yards">Yds.</abbr> <lb/>of Hair Cloth for prizing Cyder, Also a Strong good <sic corr="scythe fixed">Scyth fixd</sic> <lb/>with a proper handle and <add place="supralinear">Iron</add> Wedges, for Mowing Hay, pray take <lb/>Particular care in buying this <sic corr="scythe">Scyth,</sic> Let it be as Strong &amp; <lb/>good as money will Fetch, I had one come in two or three <lb/>Year Ago, which was a old Shopkeeper I Suppose, one <lb/>Days work <sic corr="spoiled">Spoild</sic> It, It wanted Strength in the back, These <lb/>hard times will Drive us into All the ways of husbandry <lb/>We are capable of, I have almost done  wth. the world, I hope <lb/>to make a Shift to rub through during my time and <lb/>for the Next Generation let them take care of themselves I <lb/>am&mdash; </p>
+
+<closer>Sir&mdash;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yor. very humble Servt
+<seg type="postscript"><lb/><lb/>We are in hope this <lb/>Act of Parliament will <lb/>have a good Influence upon <lb/>the <sic corr="stemmed">Stemd</sic> Tobo now going home.</seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1723 June 16-1724 April 23, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia. There is a nineteenth-century transcript of this letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia. </note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1] Captain James Hopkins would be in command of the <hi rend="italics">Mary</hi> in 1727-1728. He was then working for London merchant Robert Cary. He is mentioned in Carter's diary. (<cit><bibl>Adm. 68/194, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n2">[2] Captain [James?] Richardson commanded the <hi rend="italics">Sarah</hi> and was based in Weymouth.</note>
+
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

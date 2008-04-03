@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C299f30a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Doctor [Joseph] Belfield, June 30, 1729</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 9 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C299f30a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2005</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Doctor [Joseph] Belfield, June 30, 1729</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>3 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1729-06-30</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C299f30aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>3 p.</extent>
+<date value="1729-06-30"></date>
+<idno rend="suppress">C299f30a.xml</idno>
+<title>Letter from Robert Carter to Doctor [Joseph] Belfield, June 30, 1729</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Doctor [Joseph] Belfield, June 30, 1729, to explain his reasons for firing Belfield as the physician responsible for the care of the slaves on many of his plantations.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to Doctor <note n="JB">[Joseph] Belfield,</note> June 30, 1729</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Corotom<add resp="editor">[an, Lancaster County, Virginia]</add></name><lb/>
+<date value="1729-06-30">June 30. 1729</date><lb/>
+To Doctor Belfield<lb/>
+</dateline>
+
+</opener>
+
+
+
+<p>I <abbr expan="received">receiv'd</abbr> yours of the 16th <sic corr="Current">Currant</sic> and with my<lb/>
+answer shall follow it in Order I did not tax you with any ill man<lb/>
+ners to my self but your letter to my son which I had I think<lb/>
+has none good in it your Stuffing my Peoples with <sic corr="poisonous">poysonous</sic><lb/>
+<sic corr="drugs">druggs</sic> that you got here in the Country and giving them un<lb/>
+warrantable Potions that cost you Nothing but your own<lb/>
+invention without any Authority from your Physick books<lb/>
+which you Pretend to be very well versed in I am ready to
+
+<pb n="2"/><lb/><lb/>
+prove to your face not only by the Evidence of <note n="RM">Mr Meeks</note> and his<lb/>
+wife but Other ways <sic corr="Also">Alsoe</sic> You load Meeks with a great many<lb/>
+envious detracting epithets which I know he is not Guilty of<lb/>
+And as for your neglect to come to my sick people when sent<lb/>
+for very frequently many times when your have been in your Airs<lb/>
+many days together is to be <abbr expan="proved">prov'd</abbr> not only by Mr Meeks and<lb/>
+his wife but I believe most of the Overseers I have</p>
+
+<p>I find you are very angry that I should think it <lb/>
+Proper after such usage to give you a discharge from my bus<lb/>
+iness which at other times I am wrongly <abbr expan="informed">inform'd</abbr> if you have<lb/>
+not spoke of with Contempt as for the Ostentation of your<lb/>
+Character I shall not meddle with leaving it to your own breast to<lb/>
+<sic corr="please">pleas</sic> your self as much with the thoughts of it as you<del>r own ap</del> <add place="supralinear">think fit</add><lb/>
+<del>illegible will give you</del> And shall only <add place="supralinear">wish</add> for your own sake it <del>were</del> <add place="supralinear">runs</add><lb/>
+<del>more Current Com</del> <add place="supralinear">more smoothly</add> Among those that know you</p>
+
+<p>you have been very kind in helping me to the<lb/>
+first letter I sent you upon coming into my business which<lb/>
+makes out in what manner you were to take care of my fami:<lb/>
+lys I am sure you will not pretend that you have <sic corr="complied">complyd</sic><lb/>
+with the terms of this letter I <sic corr="believe">beleive</sic> you have not visited my<lb/>
+<note n="CP">Coles Point</note> Plantation above two or three times if so Often<lb/>
+since you have been in my business and it will <sic corr="lie">lye</sic> upon<lb/>
+you to prove that I came to any other Agreement with you You<lb/>
+have been so far from following the terms of this letter that I<lb/>
+<sic corr="believe">beleive</sic> if a true <abbr expan="Account">Accot</abbr> were made of the times of sending to you<lb/>
+you have never some to my People upon one half <add place="supralinear"><del>of the messages</del></add> if not two thirds<lb/>
+of the messages you have had <add place="supralinear">and several of my slaves have died wch you never saw in their sickness</add> I have been very kind to you <abbr expan="paid">pd</abbr>
+
+<pb n="3"/><lb/><lb/>
+your money Punctually Several times advanced money <add place="supralinear">to <abbr expan="you">yo</abbr></add> to pay <abbr expan="your">yr.</abbr><lb/>
+debts I have now your <add place="supralinear">obligation</add> for &pound;25 sterling dated some years <sic corr="ago">agoe</sic><lb/>
+let you have Considerable quantities of corn almost yearly that<lb/>
+never <corr resp="editor">[were]</corr> Charged to your <abbr expan="Accoont">Accot</abbr> these and other kindnesses should<lb/>
+be <abbr expan="returned">return'd</abbr> with gratitude from a generous mind and not An:<lb/>
+swered with a dark <sic corr="innuendo ">inuendo </sic>of my Usage to you When you come<lb/>
+to give me a visit You will do well to prepare yourself <abbr expan="with">wth</abbr><lb/>
+a great deal of good humour which will be the only way to<lb/>
+make you a welcome guest to your
+</p>
+<closer>Humble Servt.</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.There is a nineteenth-century copy of this letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia.</note>
+
+<note>The county and colony have been added for clarity to the heading on this draft.</note>
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

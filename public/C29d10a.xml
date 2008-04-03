@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C29d10a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Micajah Perry, April 10 and 11,1729</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca.  kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C29d10a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2005</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Micajah Perry, April 10 and 11,1729</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1728 August 8-1730 May 15,  Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1729-04-10</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C29d10aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1729-04-10"></date>
+<idno rend="suppress">C29d10a.xml</idno>
+<title>Letter from Robert Carter to Micajah Perry, April 10 and 11,1729</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant Micajah Perry, April 10, 1729, concerning and defending his administration of the John Lloyd estates. In a brief post script dictated the next day, Carter notes that he has found some accounts for the Lloyd estate for 1711 and 1712 and is enclosing copies (not present).</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="MP2">Micajah Perry,</note> April 10 and 11,1729</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1729-04-10">Apl. 10th: &mdash;1729</date><lb/>
+Alderman Perry<lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+<p>In one of yor. Letters you desire me to Send you <lb/>Accots. of the <abbr expan="Disbursements">Disbursemts.</abbr> upon the <note n="LL">LLs</note> Estate from <abbr expan="Year">Yr.</abbr> 1711 to 1718 <lb/>this is a very hard task and it is Impossible for me at this distance of <lb/>time to produce all the Vouchers to <sic corr="those">them</sic> Accots: You cannot Expect <lb/><sic corr="we"><sic corr="we">wee</sic></sic> are as regular in our books as you <abbr expan="Merchants">Merchts.</abbr> are whose business <lb/>it is to transact Affairs for other men had yor. <note n="MP">Grandfather</note> &amp; Father <lb/>made any Exceptions to any Articles in <sic corr="those">them</sic> Accots: it was then in <lb/>my Power to have <sic corr="Justified">Justifyed</sic> them in every Punctilio, but Seeing <lb/>they have Past and I have had Credit for them so long ago I cant <lb/>think it my business at this time of day to be <sic corr="Concerned">Concernd</sic> about them <lb/>however that I may give you all the light in my Power I now Trans=<lb/>mit you all the<del>se</del> <add place="supralinear">Copys of these</add> Accots: you desire <add place="supralinear">even down to 1721</add> as I find them in my books <lb/>Together with what Vouchers I have, <note target="n1">Colonel Tayloe's</note> <abbr expan="Tobacco">Tobbo:</abbr> Accot. for <lb/>the Year 1713 I Send you but his Accot. for the Year 1712 <add place="supralinear">for 9060 pounds <abbr expan="Tobacco">Tobbo:</abbr></add> I can find <lb/>nothing of <del>for 960 pounds</del> and I am very well <sic corr="Satisfied">Satisfyed</sic> there is no <lb/>footstep of it to be found with him. You have here a <abbr expan="Tobacco">Tobbo:</abbr> <add place="supralinear">Accot.</add> for the <abbr expan="Year">Yr.</abbr> <lb/>1715 where you will find the Debts that Year paid out of the Crops, You <lb/>are pleased to tell me they are very <sic corr="Clamorous">Clamerous</sic> against these Accots. <lb/>and Tax me of Several Indirect Practices I can only answer they are <lb/>under very wrong Informations I can very well <sic corr="Justify">Justifye</sic> my Integrity <lb/>and Justice in this whole Affair and that I do not deserve those Severa<corr resp="editor">[l]</corr> <lb/>Censures they are Pleased to Vent against me, The Persons I have <sic corr="employed">employ'd</sic> <lb/>more Immedately in the Care of this estate are Colonel Tayloe, <note n="GT"><abbr expan="Captain">Capt</abbr> <sic corr="Tuberville">Tubervile</sic></note> <lb/>and Mr. <note n="RM">Richard Meeks </note>all Still living to be Appealed to, to run its Part=<lb/><corr resp="editor">[i]</corr>culars to answer every <sic corr="malicious">malitious</sic> little <sic corr="Story">Storey</sic> that ma<corr resp="editor">[y]</corr> Perhaps have bin <lb/>hatched by Some over Officious Persons, would be En<corr resp="editor">[. . .]</corr> I wear a <lb/>higher Character in yor. Esteem and the Esteem <corr resp="editor">[...]</corr> 
+
+<pb n="2"/><lb/><lb/>
+Then to think me capable of mean <sic corr="Pitful">Pittful</sic>l Arts and frauds for a <lb/>little gain to my Self, I thank God from the interest of my money I cant <lb/>charge my Self with no Such thing.</p>
+
+<p>I have so often inculcated to you the meanest of the <abbr expan="Plantations">Plan<add place="supralinear">s</add>:</abbr> <lb/>how much the Lands <del>there</del> were <del>were</del> <sic corr="overstocked">overstockd</sic> with Slaves, how Im=<lb/>possible it was to make tolerable Crops with them and how absolutely <lb/>necessary it was  to find more Lands for the better half of these Slaves &amp;ca: <lb/>that I Shall not repeat any of these things but refer you to abundance <lb/>of former Letters which are full of this Subject, I Shall observe one <lb/>thing to you which I think proper for <abbr expan="your">yr.</abbr> Information when I <sic corr="Entered">Entred</sic> <lb/>upon this Estate <abbr expan="Quit">Qt.</abbr> rents was paid for 4,000 and odd <abbr expan="Acres">Acs:</abbr> of Land, the <lb/>mistake I was under for Sometime but when I came to be better Acq=<lb/>uainted with the Several Tracts I could find but 2330 <abbr expan="Acres">Acs:</abbr> of which <note n="RC">Mr. <lb/>Carys</note> Survey being a much Elder Grant took away bet<sic corr="we">wee</sic>n 4 &amp; 500 <abbr expan="Acres">Acs:</abbr> <lb/>which has reduced the Land to 1900 <add place="supralinear">&amp; odd</add> <abbr expan="Acres">Acs:</abbr> When this Estate was <sic corr="delivered">deliverd</sic> into <lb/>my hands the <sic corr="houses ">hous's </sic>upon the <abbr expan="Several">Sevl.</abbr> Plantations <lb/>were so <sic corr="gone">gon</sic> to decay and out of repair that <lb/><sic corr="we">wee</sic> were forced to make all new buildings &amp; <sic corr="we">wee</sic> also then Seated two new <lb/>Plantations out of the Woods this made the Charge run high for the first Years, but the <lb/>Crops then <sic corr="answered">answerd</sic> very well while the Lands were fresh</p>
+
+<p>Upon Consideration of the great trouble I have bin at <lb/><sic corr="through">thro</sic> this whole affair in Yor. Grandfather Fathers and yor. own time <lb/>which you cannot but be very Sensible of in a great measure your Self <lb/>I hope according to yours and their promises you will take care upon <lb/>the passing yor. Accots. that I am <sic corr="allowed">allowd</sic> a Suitable Salary I have Said <lb/>So much of this to all of you already and make Such Continual Claim <lb/>that this seems hardly necessary to you Now I am </p>
+
+<closer>Sir&mdash;<lb/>Yor. most humble Servt:&mdash;
+
+<seg type="postscript">
+
+<pb n="3"/><lb/><lb/>
+Since <sic corr="writing">writeing</sic> the above I have accidentally fallen on Some <lb/>rough Accots. between Colonel Tayloe &amp; I which will Serve for Vouchers for the <lb/>Year 1712 Also a <sic corr="mixed">mixt</sic> Accot. for 1711 <del>between him and I</del> in which is Con-<lb/><sic corr="tained">taind</sic> [...] my Paying to him the Accot. of <sic corr="Lloyds">Loyds</sic> Estate<lb/><lb/>
+
+<pb n="4"/><lb/><lb/>
+and will give Some light into the Charges of 1711. <sic corr="Copyies">Copys</sic> of these I also <lb/>Enclose, And now you have all the light that I can give you and indeed <lb/>more then I Expected to be able to furnish, You may please to observe for <lb/>the first Year or two before you Sent in <sic corr="Supplyies">Supplys</sic> for the familys <sic corr="we">wee</sic> were forced <lb/>to buy goods in the Country as we could get them I am <lb/><lb/>Sir&mdash;<lb/>Yor. most humble Servt.</seg>
+
+</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. Carter addresses Perry as "Alderman" because Perry had been elected an alderman of London in February 1728. (<cit><bibl n="B22">Price. <title>Perry of London. . . . </title> p. 7.</bibl></cit>)</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
+
+<note id="n1">[1] John Tayloe (1687-1747) of Mt. Airy, Richmond County, who served as justice, burgess, colonel of militia, and as a member of the Council after 1732. (<cit><bibl n="B31">Ryland. <title>Richmond County Virginia. . . . </title> pp. 115-16.</bibl></cit>)</note>
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

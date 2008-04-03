@@ -1,0 +1,314 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C32e12c">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Alderman [Micajah] Perry, May 12, 1732</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 24 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C32e12c.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2006</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Alderman [Micajah] Perry, May 12, 1732</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>5 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1732-05-12</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C32e12cT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>5 p.</extent>
+<date value="1732-05-12"></date>
+<idno rend="suppress">C32e12c.xml</idno>
+<title>Letter from Robert Carter to Alderman [Micajah] Perry, May 12, 1732</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant  Alderman [Micajah] Perry,May 12, 1732, to report the arrival of a number of letters and accounts by several ships concerning his own and the affairs of the Burwell and Page estates. He asks the merchant to consider a discount  on some transactions, and is pleased to  have the final deeds for the purchase of the Lloyd estate although there may problems obtaining acceptance in the colonial courts whose standards are different from those in England. The charges of the British lawyer who handled the Lloyd transaction are far greater than he had expected but must be paid. Comments about local matters including payment of debts such as those of Dr. George Nicholas and tobacco shipments follow. He thanks Perry for writing that his grandson, Lewis Burwell, has survived the small pox and for nice comments about Burwell, but adds that it would have been nice if Burwell had bothered to write to his mother and grandfather. </p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="MP2">Alderman [Micajah] Perry,</note>  May 12, 1732</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1732-05-12">May 12. 1732</date><lb/>
+Alderman Perry<lb/>
+</dateline>
+<salute>Sir</salute>
+
+</opener>
+
+
+
+<p>My last bore date the 22d of April since which I have <lb/>
+your letters by the <note target="n1"><name type="ship">Bailey.</name></note> the <note target="n2"><name type="ship">Phoenix,</name> </note>and the <note target="n3"><name type="ship">Spotswood</name></note> with several Accots <lb/>
+of sales of my own tobaccos <note n="MP1"><abbr expan="Colonel">Colo</abbr> Pages</note> and <note n="NB">Mr. Burwells,</note> miserable times we <lb/>
+are Come to if they do not soon mend we shall soon grow a tattered crew Such <sic corr="prices">prizes</sic> <lb/>
+will never <sic corr="clothe">cloth</sic> us and our familys without any Surplusage to go towards <lb/>
+the payment of our debts all the comfort we have is upon Gods good <lb/>
+providence to send us better times by some <del>[illegible]</del> <add place="supralinear">propitious</add> means or other that we Can't <lb/>
+at present foresee</p>
+
+<p>In the letter I mentioned above I <abbr expan="endeavoured">endeavour'd</abbr> to ac= <lb/>
+quaint you with the reasons I had to flatter myself with expectations of <lb/>
+being <abbr expan="allowed">allow'd</abbr> the discounts upon my last Consignments desiring you will <lb/>
+take a review of that matter and say whether they carry any weight with them</p>
+
+<p>The deeds of Conveyance for the Investing me with a <lb/>
+Title of <note target="n4">Lloyds virginia Estate</note> Came Opportunely to be recorded in our General <lb/>
+Court and <note n="JC3">Mr. Clayton</note> and I there executed them and one would think the 
+
+<pb n="2"/><lb/><lb/>
+proof they Come with of their execution will be inContestible <add resp="editor"> [<hi rend="italics">sic</hi>]</add> but yet <lb/>
+it does not Come up to the proof our Law requires of living witnesses and <lb/>
+how that is to be had in this case I can't tell unless the duplicates Mr.<lb/>
+Snell has can be sent So attested. There is mention of a fine to be levied <lb/>
+which I suppose Mr. Snell will take Care to send me which our lawyers <lb/>
+Say they think will Cure all defects Mr. Snells bill of Charges is <lb/>
+an Afterclap I never dreamt of I am altogether unfit to say whether <lb/>
+it be right or no it is a very large bill the affair has been a long time <lb/>
+upon the Anvil if I remember right in some of my Accots Currt. I <lb/>
+have already paid some law Charges it proves a very dear purhcase to <lb/>
+me especially in these poor times for tobacco however I must Acknowle= <lb/>
+dge your pains and trouble in bringing it to an issue <sic corr="has">hath</sic> no <lb/>
+doubt been very perplexing and I am fully of the <sic corr="belief">beleif</sic> if you <lb/>
+could have Made it cheaper you would Mr. Snell if he will make no <lb/>
+abatement must I think be paid and I am thankful to you for <lb/>
+Your good Wishes that I may live in the enjoyment of this Estate <lb/>
+long enough to retrieve all these pull backs</p>
+
+<p><abbr expan="Captain">Capn.</abbr> Seabrooke is come in a very unlucky time <lb/>
+for my assistance I had disposd of all my <abbr expan="tobacco">tobo</abbr> and all within my power <lb/>
+before I knew anything of him. The <note target="n5">quitrents</note> I expect little or nothing <lb/>
+from by the Obstinacy of the people against the Law if I succeed better <lb/>
+than my present expectations it may be I may do a little for him <lb/>
+but to send any of that tobacco to London is next to giving it away and in= <lb/>
+deed it comes to little more in any of the Outports 50/. and &pound; 3 <add place="supralinear">some odd</add> for heavy <lb/>
+hogsheads is the most that any of us Can boast of </p>
+
+<p>This is design'd by <note target="n6"><abbr expan="Captain">Capn.</abbr> Malbon,</note> I have loaded <lb/>
+upon him about 112 hogsheads which <sic corr="has">hath</sic> given him the Start of <lb/>
+his neighbours he is gone to Clear Sends me word he will be with me in <lb/>
+two days I am going post to the funeral of my Dear <note n="RC2">Son Robert</note> 
+
+<pb n="3"/><lb/><lb/>
+who <sic corr="died">dyed</sic> Suddenly Six days <sic corr="ago">agoe</sic> whether I shall return soon enough <lb/>
+for the <sic corr="Rebecca">Rebeccah</sic> is a great Question and there is a long account to Settle be <lb/>
+tween us thirty <abbr expan="hogsheads">hhds.</abbr> of this tobacco belongs to Mr. Burwells Estate 46 <abbr expan="hogsheads">hds</abbr>
+ of <lb/>
+my own the rest to Colonel Pages Estate I have promised the Burwell 90 hogsheads <lb/>
+and the Spotswood 60 or 70 and the <note target="n7"><name type="ship">Micajah</name></note> 29 thus the greatest part <lb/>
+of my strength is shared among <abbr expan="Your">Yr.</abbr> Ships I have sent a great deal of tobo <lb/>
+to the Outports which affords somewhat better <sic corr="prices">prizes</sic> that we get from <lb/>
+London I have recommended Seabrooke the best I could to my acquan <lb/>
+tance up the River that are freighters and shall do him all the <lb/>
+further service I can both <abbr expan="your">yr</abbr> sake and <note target="n8">Mr. Hasswells</note> </p>
+
+<p>It seems you are acquainted with my Transaction <lb/>
+with <note n="ECB">Dr Nicholas</note> his share of Mr. Burwells Crops is under my finger <lb/>
+for the payment of a large sum of money I <abbr expan="advanced">advanc'd</abbr> for him <lb/>
+I purposd to have <sic corr="talked">talkt</sic> with him at <sic corr="Williamsburg">Williamsburgh</sic> about your affair <lb/>
+but he was calld out of town prevented my doing of it then in a Short <lb/>
+time our assembly meets my design is to serve you as far as in my <lb/>
+power when I see him if you will have patience and he agrees to it <lb/>
+I <sic corr="believe">beleive</sic> you may be in no danger of <abbr expan="Your">Yr.</abbr> money in the long run, I am <lb/>
+very sorry he <sic corr="has">hath</sic> been so indiscreet to plunge himself at this egregious <lb/>
+rate I <sic corr="believe">beleive</sic> one great means <sic corr="has">hath</sic> been from his being <abbr expan="Concerned">Concern'd</abbr> in <del>an</del> <lb/>
+an Iron Work which they say now promises Wonders and that they have <lb/>
+already run iron enough to reimburse all their Charges</p>
+
+<p>We have been so pressd for some Country debts due from Colonel <lb/>
+pages <add resp="editor"> [<hi rend="italics">sic</hi>]</add> Estate that we have been <abbr expan="forced">forc'd</abbr> to take up Cash to discharge <lb/>
+them and we have been <abbr expan="under">undr.</abbr> the necessity of drawing upon You <note target="n9">bills <lb/>
+of Exchange</note> for one hundred and twenty pounds payable to <note n="JB1">Dr Blair</note> <lb/>
+which we desire you to answer at time upon the Accot of that Estate <abbr expan="Colonel">Colo</abbr> Pages <lb/>
+tobacco that is on board the Rebecca was inspected under the view of Several <lb/>
+Gentlemen who give it a very extraordinary Character it was made at <lb/>
+his best plantations Indeed I saw some of it myself and am in great hopes <lb/>
+you will be able to advance it to the top market </p>
+
+<pb n="4"/><lb/><lb/>
+<p>I have already advisd you <note target="n10">Mr. Falconars</note> Executors have <lb/>
+taken a short way to pay themselves Colonel Pages debt to their Testator <lb/>
+by Stopping money that was owing to me from Falconars Estate which <lb/>
+I well know they cannot legally do but I am almost come to the humour, <lb/>
+of resting tamely under it and waiting till I can be <sic corr="reimbursed">reimburst</sic> from the <lb/>
+Estate We hope to <del>go a great way</del> discharge Mr. Tuckers debt <add place="supralinear">this year by some <abbr expan="tobacco">tobo</abbr> sent him</add> <note n="WD">Mr. <lb/>
+Dawkins</note> will not have much to Claim Mr. Bradbys we hope to lessen <lb/>
+considerably if he sells the <abbr expan="tobacco">tobo</abbr> for any thing that is to account for <note target="n11">Mr. <lb/>
+Lydes</note> debt will be very much <abbr expan="reduced">reduc'd</abbr> and then we shall in a manner <lb/>
+be altogether in <abbr expan="Your">Yr.</abbr> hands but there we must Expect a Considerable increase</p>
+
+<p>As you have very generously professd a tender regard &amp; <lb/>
+friendship both to <abbr expan="Colonel">Colo</abbr> Page and his remains and that You will stick at <lb/>
+nothing to serve this Estate in helping it <add place="supralinear">out</add> of its present <note target="n12">Thraldom</note> so it must <lb/>
+be our part to take Care that you have all proper Justice from us in return. <lb/>
+It is now more nearly my Concern than it was before the death of the poor young <lb/>
+Gentleman that was so suddenly <sic corr="snatched">snatcht</sic> away and I shall more nearly consider all <lb/>
+the ways in my power to extricate it out of its present distress </p>
+
+<p>Your broken account against Mr. Burwell's Estate and me too <lb/>
+<abbr expan="although">altho'</abbr> but for one hogshead of tobacco of my own strikes very deep what the loss is to <lb/>
+be does not yet Appear indeed your accots of your sales to this Date are very <lb/>
+recent but the Sales of some tobacco I had made to Alderman Levett is much of another <lb/>
+Stamp by a Certain Gentleman I am <abbr expan="Charged">Charg'd</abbr> with a loss for some <sic corr="tobacco">tobaccoe</sic> sold in the <lb/>
+years 1724:25:26 after several accounts <sic corr="Current">Currant</sic> <abbr expan="received">receiv'd</abbr> this matter I <lb/>
+must never Submit to unless the law will Condemn me to it but more of this <lb/>
+hereafter</p>
+
+<p>It is very comfortable news to hear that my Grandson <note target="n13">Lewis <lb/>
+Burwell</note> was recovered out of that fatal distemper to Virginians the Small <lb/>
+pox and the good <add place="supralinear">things</add> you <add place="supralinear">are <sic corr="pleased">pleasd</sic> to</add> say of him in respect to his morals and improvements <lb/>
+are no less pleasing If out <add place="supralinear">of</add> your great respect to him and his father you have <lb/>
+not been too indulgent to his Character my thinks it had been but a dutiful <abbr expan="piece">ps.</abbr> <lb/>
+of Respect if not to me at least to his mother to have afforded a line under his 
+
+<pb n="5"/><lb/><lb/>
+hand but he takes no more notice of either of us than if he had no such relations <lb/>
+This letter is got to a great length and yet I shall add one paragraph more</p>
+
+<p>I will not set up to foretell what will be the fate of the Shipping <lb/>
+this year the general <sic corr="Cry">Crye</sic> at <sic corr="Williamsburg">Williamsburgh</sic> was that the Crops were very <lb/>
+Short in most parts of the Country and that many of the Ships of which we <lb/>
+have good Store will not get load<add place="supralinear">en</add> but these <sic corr="Stories">Storys</sic> will come with the greatest <lb/>
+force from your masters <sic corr="Tobacco">Tobaccoe</sic> is risen in the Country considerably to the <lb/>
+Southward Especially for the payment of the <sic corr="Public">Publick</sic> dues and Contingencies <lb/>
+owing out of Colo Pages Estate I could not meet with any person would sell me <lb/>
+a pound of <sic corr="Public">Publick</sic> tobacco under 12/6 <abbr expan="percent">perCt.</abbr> if Malbon stays my return I shall <lb/>
+go near to give you a further line I am 
+</p>
+
+<closer><abbr expan="Sir">Sr </abbr><lb/>
+Your most humble Servant.
+<seg type="postscript"><lb/><lb/>Malbon<lb/>
+<sic corr="enclosed">inclosd</sic> I send you a small bill of Exchange <lb/>
+drawn by John Lewis on <note n="JH2"><abbr expan="Captain">Capt.</abbr><lb/>
+Hyde</note> &amp; <abbr expan="Company">Com:</abbr> for 3.2.6 which desire you to negotiate. 
+</seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1] The <hi rend="italics">Bailey</hi> was a London ship owned by William Dawkins and commanded at various times by Adam Graves (1725-1730) and by Thomas Dove (1731-1732). She was a vessel of some 250 tons and carried 15-17 crew members. (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, 156v, and other data in Adm. 68/194 and /196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> A letter of Carter's to Dawkins 1732 May 12 refers to "your ship Bailey." as does a letter of 1738 May 10 from Carter's executors to Dawkins 1738 May 10.)</note>
+
+<note id="n2">[2] The Phoenix apparently was a London vessel for she is recorded as having paid the required sixpence fee in London in December 1732. (<cit><bibl>Survey Report 68.2 summarizing Adm. 68/196, from the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n3">[3] The <hi rend="italics">Spotswood</hi> was a  London ship commanded by James Bradby,  1727-1732, and was owned by Micajah Perry.  (<cit><bibl>Adm 68/195, 70r ff., found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. See Carter to Micajah Perry 1730 April 16.</bibl></cit>)</note>
+
+<note id="n4">[4] This plantation apparently lay up the Rappahannock near the falls as Carter always sent his sloop for its tobacco. Carter was involved with the Lloyd estate, which was that of John Lloyd, husband of his niece Elizabeth. The estate's tobacco mark was the double arrowhead or double "L" which Carter frequently uses in his diary and letters to refer to it. He undertook to buy the Lloyd estate in the later years of his life, and finally acquired it about 1731.</note>
+
+<note id="n5">[5] Quit rent was the term used for the payment due from the holder of land to the "lord of the manor," in this case, to the proprietors of the Northern Neck. Carter as the proprietor's agent, collected these payments. No services were required of the landholder as had been true in mediaeval times.</note>
+
+<note id="n6">[6] The <hi rend="italics">Rebecca </hi> was probably a London ship; she was of 300 tons, had a crew of 11, and was commanded by Samuel Malbon in 1731-32. (<cit><bibl>Adm. 65/195, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n7">[7] The Micajah &amp; Philip was a large vessel of some 400 tons carrying a crew of 27. The captain's name varies from record to record as James Bradley or James Bradby. Thomas Jones wrote to his wife, then in England, concerning this ship in 1728, "The Micajah &amp; Philip that comes to James River is as good as the best Ships that Comes hither, but Bradby the master seems to be a little conceited and prodigal." (<cit><bibl>Adm. 68/194-196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia</bibl></cit>; and <cit><bibl><title>Virginia Magazine of History and Biography.</title> 26[1918]: 172, abstracting the Jones Papers at the Library of Congress .</bibl></cit>)</note>
+
+<note id="n8">[8] Carter may refer to Samuel Haswell, a London Assurance director in Suffolk Lane, and a member of Haswell and Brooks which was a London firm listed in 1740 directories of that city. (<cit><bibl> <title>A Compleat Guide to All Persons who have any Trade or Concern with the City of London and Ports adjacent. . . .</title> London: Printed for J. Osborn, at the Golden Ball in Pater-noster-row, MDXXXL</bibl></cit>; and  <cit><bibl><title>Kent's Directory For the Year 1740 Containing An Alphabetical List of the Names and Places of Abode of the Directors of Companies, Persons in Publick Business, Merchants, and other Eminent Traders in the Cities of London and Westminster, and the Borough of Southwark.</title>  London: Printed and Sold by Henry Kent in Finch-Lane, near the Royal Exchange: and by the Booksellers and Pamphlets Shops of London and Westminster, 1740. http://freepages.history.rootsweb.com/~frpayments/KD1740/AB.htm. 8/12/2005. p. 39.</bibl></cit>)</note>
+
+<note id="n9"> [9] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. ("Dictionary of Financial Scam Terms." http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm. 8/22/2005)
+
+<note id="n10">[10] John Falconar (d. <hi rend="italics">ca.</hi> 1729) was a London merchant with whom Carter dealt. In 1728, Falconar and Henry Darnell formed an association of 29 London tobacco merchants to deal with the French tobacco purchasing agent as a group in order to keep the price as high as possible. The association lasted only lasted a year or two before dissolving because some of its members were dealing directly with the French agent and selling below the agreed-upon price. (See Carter to William Dawkins, and Carter to Falconar's executors, both 1730 April 16, for Falconar's death date. <cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> Newport News, VA: Mariners' Museum, 1953. p. 129</bibl></cit>)</note>
+
+<note id="n11">[11] "The Lionel Lyde mentioned above as a partner in an ironworks was very active.  He was from Bristol and traded with Virginia in both slaves and tobacco.  He was also involved in the transport of felons to Maryland and Virginia.  Some of the time he was a partner with Isaac Hobhouse in ship voyages.  He had an interest in a glasshouse.  He served as Sheriff, Mayor, and Alderman of the City of Bristol."  ("Germanna History Notes." http://homepages.rootsweb.com/~george/johnsgermnotes/germhs79.html. 8/23/06)</note>
+
+<note id="n12">[12] Thraldom is a state of servitude or bondage.</note>
+
+<note id="n13">[13] Lewis Burwell (1711 or 1712-1756), Carter's grandson by Elizabeth Carter Burwell and her first husband, Nathaniel Burwell (1680-1721); Carter was his guardian. He was educated at Eton and Cambridge, and inherited considerable property, living at "Fairfield," Gloucester County. He would be president of the Council in 1750-1751. (<cit><bibl n="B42">Kneebone <hi rend="italics">et al.</hi>,  <title>Dictionary of Virginia Biography.</title>  2:434-5.</bibl></cit> and <cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 114.</bibl></cit>)</note>
+
+
+</note>
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

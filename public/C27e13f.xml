@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C27">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Messrs. Haswell and Brooks, May 13, 1727</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca.5  kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C27e13f.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2003</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Messrs. Haswell and Brooks, May 13, 1727</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1727-05-13</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C27e13fT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1727-05-13"></date>
+<idno rend="suppress">C2e13f7.xml</idno>
+<title>Letter from Robert Carter to Messrs. Haswell and Brooks, May 13, 1727</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchants Messrs. Haswell and Brooks, May 13, 1727, to report that he is relatively pleased with their report of sales of his tobacco, and that he is sending 30 more hogsheads divided between two ships. He sends a bill of exchange (not present)  and hopes for a better market because Virginians cannot support their families at the present prices. He concludes that he hopes that the merchants always will sell his tobacco in time to report the sales by the next shipping.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to Messrs. <note target="n1">Haswell and Brooks,</note> May 13, 1727</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1727-05-13">May 13th: 1727</date><lb/>
+Messrs. Haswell and Brooks&mdash;<lb/>
+</dateline>
+<salute></salute>
+
+</opener>
+
+<p>I have long Since <abbr expan="received">recd</abbr> your Accot: of <lb/>Sales and in regard of the meanness of the <abbr expan="tobacco">Tobbo:</abbr>
+ I was well Enough <lb/>Contented with the dispose I have <add place="supralinear">Since</add> Sent you 30 hhds: of my own <lb/>Crops 20 in the <name type="ship">Williss</name> <note target="n2"><abbr expan="Captain">Capt:</abbr> Cobb;</note> and 10 in the <name type="ship">pretty Betty</name> <lb/>that I may have money in your hands to Entitle me to the <lb/>discounts I now Send you a bill of <abbr expan="exchange">Exche:</abbr> drawn by <note n="JG2">Mr. Grimes</note> <lb/>on <note n="MP2">Mr. Perry</note> for &pound;300 and directed to be paid to you All the <lb/>Merchants advise an Empty market and give us hopes of <lb/>much better prices this year <sic corr="than">then</sic> <sic corr="we">wee</sic> got the last--:
+
+<pb n="2"/><lb/><lb/>
+you are too well acquainted with Virginia not to know <lb/>that <sic corr="we">wee</sic> cannot live and mantain our familys at these <lb/>prices <sic corr="We">Wee</sic> do not make one with another above a hhd. per <lb/>head for every Sharing Slave our Correspondance is but <lb/>Young but hope by your Endeavours to bring my Crops into <lb/>a good reputation <add place="supralinear">That</add> I may be Encouraged not only to Continue <lb/>but <add place="supralinear">to</add> <sic corr="increase">Encrease</sic> my business to you I Shall not prescribe the <lb/>Time of Selling but it must be my Constant desire that the <lb/>Sales may be <sic corr="completed">Compleated</sic> to come away with Some of the <lb/>next Ships, I am  </p>
+
+<closer>Gent Yor: very humble Servt:
+<seg type="postscript"><lb/><lb/>per <note target="n3">Hopkins</note> 
+<lb/>Copy per <note target="n4">Woodward</note></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. </note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
+
+<note id="n1">[1] Haswell and Brooks may have been a London firm for a 1740 directory of that city lists a Samuel Haswell, a London Assurance director in Suffolk Lane. There are several men of the name "Brooks" in the directory including a Christopher Brooks, a ship broker, also located in Suffolk Lane. (<cit><bibl> <title>A Compleat Guide to All Persons who have any Trade or Concern with the City of London and Ports adjacent. . . .</title> London: Printed for J. Osborn, at the Golden Ball in Pater-noster-row, MDXXXL</bibl></cit>)</note>
+
+
+<note id="n2">[2] Captain John Cobb commanded the <hi rend="italics">Willis</hi>, a ship of 300 tons with 20 men, in 1727-28. The ship was owned by merchants Haswell and Brooks which may have been a London firm; see footnote #1.  (<cit><bibl>Survey Report 6801 on Adm. 68/194-5, ff. 4r, Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n3">[3] Captain James Hopkins commanded the <hi rend="italics">Mary</hi> in 1727-1728. He was then working for London merchant Robert Cary. He is mentioned in Carter's diary. (<cit><bibl>Adm. 68/194, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n4">[4] Thomas Woodward commanded the <hi rend="italics">Providence</hi> during a number of voyages to the colony, 1723-1727. (Adm. 68/194 and 195, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.)</note>  
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

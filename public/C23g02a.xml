@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C23g02a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Francis Chamberlayne and Francis Sitwell, July 2, 1723</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 7 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C23g02a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2002</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Francis Chamberlayne and Francis Sitwell, July 2, 1723</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent> p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert H. Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1723-07-02</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C23g02aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1723-07-02"></date>
+<idno rend="suppress">C23g02a.xml</idno>
+<title>Letter from Robert Carter to Francis Chamberlayne and Francis Sitwell, July 2, 1723</title>
+</bibl>
+</head>
+<p>Robert Carter writes  to merchants and slave traders Francis Chamberlayne and Francis Sitwell, July 2, 1723, to conclude his involvement in a sale of slaves he and Robert Tucker had made on their behalf in 1720. He sends bills of exchange for his balance due them, and asks them to send him a discharge for his debt.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Letter from Robert Carter to Francis Chamberlayne and Francis Sitwell, July 2, 1723</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1723-07-02">July 2d. 1723&mdash;</date><lb/>
+Messrs. Frans. Chamberlayne<lb/>
+&amp; Frans. Sitwell<lb/>
+</dateline>
+<salute>Gent.&mdash;&mdash;</salute>
+
+</opener>
+
+<p><del>G[...] Yors.</del><add place="supralinear">Mr Sitwells</add> of the 20th of <abbr expan="October">Octor.</abbr>  is the last date I have <add place="supralinear">bin</add><lb/> <sic corr="favored">favourd</sic> with from You, or at least that hath reachd my hands, <lb/>Mr. <note target="n1"><add resp="editor">[Robert]</add> Tuckers</note> life Ended, without a final <abbr expan="settlement">Settlemt</abbr> between him and &amp;<lb/>I, A Copy of the Accot. Currt. You mention he took care to <sic corr="remit">remitt</sic> me <lb/>before his death which seems to be to Your Entire Sattisfaction as <lb/>I doubt not mine will be when it comes to Your hands <add place="supralinear">&amp; <add resp="editor">[...]</add>trict</add> &amp; <del>It</del> is here=<lb/>=in sent<del>, and [...]</del> <add place="supralinear">Making the </add>ball<add resp="editor">[an]</add>ce due to You on my part to be 216"18"0 1/2 <lb/>for the Discharge <del>of which</del> <add place="supralinear">whereof</add> You <del>have also</del> <add place="supralinear">will herewth. receive my</add> <sic corr="bills">bils</sic> of <abbr expan="exchange">Exche.</abbr> to Witt <lb/>for &pound;116"<add place="supralinear">18<abbr expan="shillings">S</abbr> on</add> Mr <note n="ET">Edward Tucker</note> of Weymoth &amp; one hundred pound <lb/>On <note n="JB3">John Burridge</note> <abbr expan="Esquire">Esqr</abbr>
+ of Lime both which I doubt not the punctual <lb/>payment of&mdash;</p>
+
+<p>	All that remains is to <add place="supralinear">desire You</add> to let me know under Your hands that You <lb/>have no further demand upon me. &amp; if You please to let Mrs Tucker &amp; <lb/>&amp; <add resp="editor"> [<hi rend="italics">sic</hi>]</add>the rest of her husbands <abbr expan="executors">Execrs.</abbr>
+ know the same, it will no doubt be as sattis<lb/>=factory to <abbr expan="them">thm.</abbr> As the Accots You give me of Mr Tuckers discharging him=<lb/>=self is to me. I heartily wish You the happiness both of this world &amp; a <sic corr="better">bettr</sic> <lb/>And am&mdash;Gent.&mdash; </p>
+
+<closer>Your Most <add place="supralinear">Obedient</add> humbl Servt.</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1723 June 16-1724 April 23, Robert Carter Papers, (acc. no. 3807), Albert H. Small Special Collections Library, University of Virginia.  </note><lb/>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note><lb/>
+
+<note id="n1">[1] Robert Tucker (d. 1722), a merchant and justice of Norfolk County who was Carter's partner in a slave sale in 1720. See Carter's letters to Chamberlayne and Sitwell concerning this sale dated 1720 July 26 and 27, and September 27.  (<cit><bibl>"Charges Against Spotswood." <title>Virginia Magazine of History and Biography</title>. 4(April 1897): 360.</bibl></cit>)</note>
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

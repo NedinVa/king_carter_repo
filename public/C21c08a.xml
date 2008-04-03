@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C21c08a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to [Edmund Jenings,Jr.], March 8, 1721</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 11 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">filename</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to ]</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date>1940</date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1721-03-08</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C21c08aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1721-03-08"></date>
+<idno rend="suppress">C21c08a.xml</idno>
+<title>Letter from Robert Carter to [Edmund Jenings, Jr.], March 8, 1721
+</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Edmund Jenings, Jr., March 8, 1721, who has been acting for his father who had held the lease of the Northern Neck proprietary prior to Carter's assumption of it. Carter disagrees with Jenings about the handling of the lease, especially in their approach to escheats, and in the issuance of deeds. He chides Jenings about the handling of the records, and concludes that he will not fight "a paper controversie with You" but if Jenings will do him justice, he will not pursue the questions he has. He deleted from the draft a sentence about erasures in the records of the dates on which deeds were issued.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to [Edmund Jenings, Jr.], March 8, 1721</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Coro<add resp="editor">[toman, Lancaster County, Virginia]</add></name><lb/>
+<date value="1721-03-08">Mar. 8th 1720/21</date><lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+<p>Yors. by <note n="GT">Captn. Turbervile</note> I have <del>and find</del>Yor. notions &amp; <lb/>mine <del>very much </del>differ <abbr expan="about">abt.</abbr> Justice in the business of the <note n="ES">Escheat</note> <lb/>which I shall always Study to do to every body but must be <abbr expan="allowed">allowd</abbr> <lb/>to make my own reason the measure of my actions &amp; not another <lb/>mans, The right of Escheats arises to the Proprietors no doubt from <lb/>the time of the dying <abbr expan="seized">Seizd</abbr> without heirs, but the right in the Propri=<lb/>=etors to the Composition commences from the passing the deed <lb/>&amp; I must strangely alter <add place="supralinear">in</add> my <del>notion</del> <add place="supralinear">opinion</add> before I shall be <del>brot. to be</del> <add place="supralinear">perswaded</add> to  <lb/>believe tis <del>right</del> <add place="supralinear">Just</add> for me <del>so</del> to do <add place="supralinear">otherways.</add> Yor. distinction that I must pass <lb/><del>the</del> Deeds as I am Agent for the Proprietors &amp; not in <del>their </del> <add place="supralinear">my own</add> name <lb/>there's no weight in It that I can see, I believe no person <lb/><abbr expan="concerned">concern'd</abbr> in their affairs will pass any deed in their own <lb/>names so I shall Still lay the Justice of the poor man's case <lb/>at Yor. Door, lett the right of Escheats fall whe<add resp="editor">re</add> they will 
+
+
+<pb n="2"/><lb/><lb/>
+when I am to make over the Proprietors right, I shall Claim <lb/><del>the right to </del>the Consideration</p>
+
+	<p>I do not well remember wt. I said to You about the deeds <lb/>that remain in the office unpaid for but if I did Demand <lb/>them It was upon the Expectation that they never would be paid <lb/>for and than I am sure <sic corr="it is">tis</sic> highly reasonable that the Proprie=<lb/>=tors should be made acquainted with It, <del>&amp; . . . </del>that <lb/>they may fall upon a right method to come at their rents &amp; <lb/>that must be by cancelling &amp; regranting, as for the Consideration <lb/>if it is to be had is <note n="EJ">Collo. Jennings'</note> <del>right</del> I make no question <lb/>about, but if not I think in Generous Justice he ought to return <lb/>the Deeds to the office and I believe he will be of the Same <lb/>opinion, but what say You to the last Rent Rolls, be=<lb/>=lieve <sic corr="you'll">You'l</sic> hardly Scruple owning they belong to the office <del>and
+</del> nor <lb/>the platts neither as many as there was, Indeed I always <lb/><abbr expan="thought">thot.</abbr> the Surveys belong'd to the owners of the Lands, <add place="supralinear">&amp; we are gon that way is well enough</add> I can give <lb/>You convinceing reasons there was no probability, the office <lb/>Should remain where it was, but that in Its proper time <lb/>You are the only fitt person to make a list of the Deeds that <lb/>You have passed since the 29th of <abbr expan="September">Sepr.</abbr> 1719, 
+
+<del><add place="supralinear">&amp; of all other things that . . . to . . . in my head<lb/></add> I cannot Expect a<lb/>right Information from any Mortal living beside considering<lb/>how many <sic corr="erasures">rasures</sic> there appear to be in the book in the <lb/>very place where the Deeds are Dated, how far Yor. Clerk<lb/>may have bin Concernd in this I cant pretend to know</del>
+
+&amp; to give me sattisfaction <lb/>in all other things, that seem to want an Interpretation <lb/>Do me fair and open Justice and I Shall be easy and not desirous <lb/>to meddle in Collo. Jennings's time, as I dont take You to be <lb/>Infallable So I am farr from pretending to be so my Self. <lb/>when I entered upon the office, I had a very dark pattern to <lb/>follow. I preceeded You and I hope You will allow me to <lb/>say <add place="supralinear">without offence</add> that I Should be very sorry if my <add place="supralinear">record</add> books had bin kept <lb/>in that <del>Dark</del> mysterious <add place="supralinear">Immethodical</add> manner as <del>You have made <lb/>the method of</del>Yors. is, I shall not further enter into a <lb/>paper <sic corr="contoversy">controversie</sic> with You, if amicable ways won't <lb/>do; It's none of my fault, The Proprietors right &amp; mine <lb/>too must be come at some way or other, I wish You a cheap-<lb/>er bargain in plank than I can afford You, &amp; am Sir </p>
+
+<closer>Yor. most humble Servt.</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi>  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. Printed: <cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> pp. 88-89.</bibl></cit></note><lb/>
+
+<note>Robert Carter generally used a return address of "Corotoman," the name of his home on his correspondence to persons in Virginia. The county and state have been added for clarity.</note><lb/>
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>
