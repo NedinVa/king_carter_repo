@@ -7,10 +7,10 @@ xmlns:HTML="http://www.w3.org/Profiles/XHTML-transitional">
   <xsl:template match="/">
     <HTML>
       <HEAD>
-<TITLE><xsl:value-of select="//text/body/div0/opener"/></TITLE>
-        
+        <TITLE><xsl:value-of
+select="//text/body/div0/opener"/></TITLE>
         <STYLE>
-          BODY       { margin:30px; background-color: #FFFFF0;
+          BODY       { margin:30px; background-color: #FFFFFF;
 width: 30em;
                        font-family: Times, serif; font-size: small; }
           P          { margin-top: .5em; margin-bottom: .25em; }
@@ -39,26 +39,10 @@ width: 30em;
   </xsl:template>
 
 <xsl:template match="dateline">
-    <p><xsl:apply-templates/></p>
-  </xsl:template>
-
-
-<xsl:template match="extent">
-    <p><!-- <xsl:apply-templates/> --></p>
-  </xsl:template>
-
-
-<xsl:template match="front/div1/abbr">
-    <p><!-- <xsl:apply-templates/> --></p>
-  </xsl:template>
-
-<xsl:template match="idno">
-    <p><!-- <xsl:apply-templates/> --></p>
-  </xsl:template>
+    <p><xsl:apply-templates/></p>  </xsl:template>
 
 <xsl:template match="salute">
-    <p><xsl:apply-templates/></p>
-  </xsl:template>
+    <p><xsl:apply-templates/></p>  </xsl:template>
 
  <xsl:template match="closer">
     <blockquote><xsl:apply-templates/></blockquote>
@@ -87,20 +71,12 @@ select="."/></FONT>
         <CENTER><P><I>--<xsl:value-of select="@n"/>--</I></P></CENTER>
 </xsl:template>
 
-
+<xsl:template match="front">
+        <!-- <xsl:apply-templates/> --></xsl:template>
 
 <xsl:template match="note">
         <xsl:apply-templates/>
 </xsl:template>
-
-
-<xsl:template match="note">
-<font color="blue"><xsl:apply-templates/></font>
-</xsl:template>
-
-
-
-
 
 <xsl:template match="back/div1/note">
         <P><xsl:apply-templates/></P>
@@ -110,11 +86,13 @@ select="."/></FONT>
         <A href="x">"<xsl:apply-templates/></A>
 </xsl:template>
 
-<xsl:template match="ref">
-        <A href="x">"<xsl:apply-templates/></A>
+<xsl:template match="title">
+        <i><xsl:apply-templates/></i>
 </xsl:template>
 
-
+<xsl:template match="title">
+        <i><xsl:apply-templates/></i>
+</xsl:template>
 
 <xsl:template match="opener/dateline/name">
 <br/> <xsl:apply-templates/>
@@ -135,18 +113,7 @@ select="."/></FONT>
 
 <xsl:template match="add[@place='supralinear']">
 <font color="green"><sup><xsl:apply-templates/></sup></font>
-</xsl:template>
-
-
-
-
-<xsl:template match="title">
-<i><xsl:apply-templates/></i>
-</xsl:template>
-
-
-
- 
+</xsl:template> 
 
 <xsl:template match="ref">
 <font color="blue"><xsl:apply-templates/></font>
@@ -156,27 +123,10 @@ select="."/></FONT>
 <font color="red"><xsl:apply-templates/></font>
 </xsl:template>
 
-
-
-<xsl:template match="xref">
-<font color="blue"><xsl:apply-templates/></font>
-</xsl:template>
-
-<xsl:template match="abbr">
-<font color="brown"><xsl:apply-templates/></font>
-</xsl:template>
-
-<xsl:template match="sic">
-<font color="brown"><xsl:apply-templates/></font>
-</xsl:template>
-
-
-
-
-
 <xsl:template match="p/name">
 <font color="green"><xsl:apply-templates/></font>
 </xsl:template>
+
 
 <xsl:template match="table">
         <table border="1"><xsl:apply-templates/></table>
@@ -237,9 +187,6 @@ select="."/></FONT>
 
 	<xsl:template match="emph[@rend='sup']">
 		<sup><xsl:apply-templates/></sup></xsl:template>
-
-
-
 
 
 

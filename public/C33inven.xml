@@ -163,7 +163,7 @@ Virginia Library Electronic Text Center</name>
 
 <p><hi rend="italics">Richmond County</hi><lb/></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<ref target="nBHQ">Brick House  Quarter</ref></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<ref target="nRP">Robert Purtell's former plantation</ref></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<ref target="nRP">Robert Purtell's former plantation</ref></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<ref target="nBQ">Bridge Quarter</ref></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<ref target="nDM1">Dickinson's Mill</ref></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<ref target="nFQ">Fork Quarter</ref></p>
@@ -1615,14 +1615,14 @@ No. 400 A <abbr expan="Remnant">Remt.  </abbr> <abbr expan="quantity">qt.  </abb
 </table><lb/>
 <hi rend="underline"><hi rend="bold">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</hi></hi><lb/><lb/>
 
-40 <note target="n8.43">Monmoth Caps </note>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;) In a Chest <corr resp="editor">[Chest identifying mark]</corr> No. 2<lb/>
+40 <note target="n8.43">Monmoth Caps </note>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}In a Chest <corr resp="editor">[Chest identifying mark]</corr> No. 2<lb/>
 8 doz &amp; 4 <abbr expan="pairs">Pr.  </abbr> Irish hose}<lb/>	
 13 <abbr expan="pieces">ps.  </abbr> Ordinary BedSack<lb/>
 10 <abbr expan="pieces">ps.  </abbr> Better Ditto<lb/>
 5 <abbr expan="pieces">ps.  </abbr>  <sic corr="plaiding">pladding  </sic> Each of 20 <abbr expan="yards">yds.  </abbr><lb/>
 25 yards Wadding<lb/>
 7 <abbr expan="pairs">Pr.  </abbr> mens falls<lb/>
-7 <abbr expan="pairs">Pr.  </abbr> Womens Ditto<lb/><lb/>
+7 <abbr expan="pairs">Pr.  </abbr> Womens Ditto<lb/>
 <hi rend="underline"><hi rend="bold">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</hi></hi><lb/><lb/>
 <table>
 <row><cell>30 Brass <note target="n16.6"><sic corr="Drops">Dropps  </sic> </note> for <sic corr="Drawers">Draws  </sic>}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
@@ -1641,17 +1641,17 @@ No. 400 A <abbr expan="Remnant">Remt.  </abbr> <abbr expan="quantity">qt.  </abb
 <hi rend="bold">New Dairy Store Continued</hi><lb/><lb/>
 
 <table>
-<row><cell><corr resp="editor">[Chest identifying mark]</corr></cell><cell>1 <abbr expan="piece">ps.  </abbr> <sic corr="Coarse">Coarce  </sic> <note target="n15.3">Kersey </note> No. 1}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
-<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>1 Ditto . . . . .  . . . . .  . . . . 2}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
-<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>1 Ditto . . . . .  . . . . .  . . . . 3}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
-<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>1 Ditto . . . . .  . . . . .  . . . . 4}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
-<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>1 Ditto . . . . .  . . . . .  . . . . 5}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
-<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>1 Ditto . . . . .  . . . . .  . . . . 6}</cell><cell><abbr expan="about">abt.  </abbr> 18 <abbr expan="yards">yds.  </abbr> each</cell></row>
-<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>1 Ditto . . . . .  . . . . .  . . . . 8}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
-<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>1 Ditto . . . . .  . . . . .  . . . . 10}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
-<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>1 Ditto . . . . .  . . . . .  . . . . 13}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
-<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>1 Ditto . . . . .  . . . . .  . . . . 14}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
-<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>1 Ditto . . . . .  . . . . .  . . . . 16}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell><corr resp="editor"><hi rend="bold">[Chest identifying mark]</hi></corr></cell><cell>&nbsp;&nbsp;{1 <abbr expan="piece">ps.  </abbr> <sic corr="Coarse">Coarce  </sic> <note target="n15.3">Kersey </note> 18}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;{1 Ditto . . . . .  . . . . .  . . . . 2}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;{1 Ditto . . . . .  . . . . .  . . . . 3}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;{1 Ditto . . . . .  . . . . .  . . . . 4}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;{1 Ditto . . . . .  . . . . .  . . . . 5}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;26 <abbr expan="pieces">ps:  </abbr></cell><cell>&nbsp;&nbsp;{1 Ditto . . . . .  . . . . .  . . . . 6}</cell><cell><abbr expan="about">abt.  </abbr> 18 <abbr expan="yards">yds.  </abbr> each</cell></row>
+<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;{1 Ditto . . . . .  . . . . .  . . . . 8}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;{1 Ditto . . . . .  . . . . .  . . . . 10}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;{1 Ditto . . . . .  . . . . .  . . . . 13}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;{1 Ditto . . . . .  . . . . .  . . . . 14}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;{1 Ditto . . . . .  . . . . .  . . . . 16}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
 </table><lb/>
 
 <table>
@@ -1665,7 +1665,7 @@ No. 400 A <abbr expan="Remnant">Remt.  </abbr> <abbr expan="quantity">qt.  </abb
 <table>
 <row><cell>23 1/2 yards</cell><cell>24 1/2 yards</cell><cell>24 3/4 yards</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
 
-<row><cell>22 1/4 <abbr expan="Ditto">Do.  </abbr></cell><cell>22 <abbr expan="Ditto">Do.  </abbr></cell><cell>26 <abbr expan="Ditto">Do.  </abbr></cell><cell>yards</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>22 1/4 <abbr expan="Ditto">Do.  </abbr></cell><cell>22 <abbr expan="Ditto">Do.  </abbr></cell><cell>26 <abbr expan="Ditto">Do.  </abbr></cell><cell>&nbsp;&nbsp;yards</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
 
 <row><cell>22 3/4 <abbr expan="Ditto">Do.  </abbr></cell><cell>17 1/4 <abbr expan="Ditto">Do.  </abbr></cell><cell>22 1/2 <abbr expan="Ditto">Do. }  </abbr></cell><cell>155 3/4 }</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
 
@@ -1681,7 +1681,7 @@ No. 400 A <abbr expan="Remnant">Remt.  </abbr> <abbr expan="quantity">qt.  </abb
 
 </table><lb/>
 
-<corr resp="editor">[Chest identifying mark]</corr> No: 2 a Chest <abbr expan="quantity">qt.  </abbr> 30 <abbr expan="pairs">pr.  </abbr> <abbr expan="Virginia">Vira.  </abbr> Yarn Hose<lb/><lb/><lb/>
+<corr resp="editor"><hi rend="bold">[Chest identifying mark]</hi></corr> No: 2 a Chest <abbr expan="quantity">qt.  </abbr> 30 <abbr expan="pairs">pr.  </abbr> <abbr expan="Virginia">Vira.  </abbr> Yarn Hose<lb/><lb/><lb/>
 
 <table>
 <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>2 boxes of Window glass</cell></row>
@@ -1712,7 +1712,7 @@ No. 400 A <abbr expan="Remnant">Remt.  </abbr> <abbr expan="quantity">qt.  </abb
 
 9 <abbr expan="pairs">pr.  </abbr> Dice . . . . . 2 Brass Cocks<lb/>
 4 Ink Glasses , , , , 4 Sand glasses<lb/>
-1 <abbr expan="pair">pr.  </abbr> Brass Scales &amp; the following <abbr expan="Weights">Wts.  </abbr> c 2 " 4 pounds<lb/>
+1 <abbr expan="pair">pr.  </abbr> Brass Scales &amp; the following <abbr expan="Weights">Wts.  </abbr> <note target="n1.1">vizt. </note> 2 " 4 pounds<lb/>
 1"2 pound.  2"1 <abbr expan="pound">pds.  </abbr> 1"1/2 <abbr expan="pound">pd.  </abbr> 1" 1/4 <abbr expan="pound">pd.  </abbr> 2" 2 oz. and 2 ounce <abbr expan="weights">wts.  </abbr><lb/>
 1/4 pound yellow <note target="n8.36">Mohair </note><lb/>
 30 <abbr expan="pairs">pr.  </abbr> Moth Eaten Yarn hose<lb/>
@@ -1754,7 +1754,7 @@ A Large Grind Stone <sic corr="at">att  </sic> the Dairy Door<lb/>
 <hi rend="underline"><hi rend="bold">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</hi></hi><lb/><lb/>
 <hi rend="bold">I<corr resp="editor">[n t]</corr>he New Dairy Loft</hi><lb/><lb/>
 
-<corr resp="editor">[Chest identifying mark]</corr> No: 2: A Box <abbr expan="quantity">qt.  </abbr><lb/>
+<corr resp="editor"><hi rend="bold">[Chest identifying mark]</hi></corr> No: 2: A Box <abbr expan="quantity">qt.  </abbr><lb/>
 3 doz <note target="n8.43">Monmouth Caps </note><lb/>
 3 <sic corr="Clothes">Cloathes  </sic> Brushes<lb/>
 1 Copper Warming Pan<lb/>
@@ -1778,7 +1778,7 @@ A Large Grind Stone <sic corr="at">att  </sic> the Dairy Door<lb/>
 <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>3 Ditto large punch Bowls</cell></row>
 <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>6 Water Glasses</cell></row>
 <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>4 <sic corr="Cedar">Ceader  </sic> Cans</cell></row>
-<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell> alarge hall <sic corr="Lantern">Lanthorn  </sic></cell></row>
+<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell> a large hall <sic corr="Lantern">Lanthorn  </sic></cell></row>
 <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>2 large Iron Rails</cell></row>
 <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>A large Parcel of Black Walnuts in the Cock Loft</cell></row>
 <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>3 <abbr expan="dozen">doz  </abbr> Jelly Glasses in a Small box</cell></row>
@@ -1822,7 +1822,7 @@ A <abbr expan="pair">pr.  </abbr> Bellows<lb/>
 3 Small Ditto<lb/>
 1 Large Vice<lb/>
 2 Small Ditto<lb/>
-4 Files <sic corr="Assorted">Sorter  </sic><lb/>
+4 Files <sic corr="Assorted">Sorted  </sic><lb/>
 5 <abbr expan="pairs">pr.  </abbr> Tongs<lb/>
 1 poker &amp; 1 fire Shovel<lb/>
 1 <note target="n19.1">Slice </note><lb/>
@@ -1901,8 +1901,9 @@ A parcel of <abbr expan="Inch">In  </abbr> &amp; 1/2 Oak planks<lb/>
 5 <note target="n20.6">Barrows </note> &amp; <sic corr="spayed">spayd  </sic> Sows in a pen<lb/>
 <corr resp="editor">[...]</corr> a fattening Sheep<lb/>
 <corr resp="editor">[...]</corr> <sic corr="Cider">Cyder  </sic> Cask in the Inward Still house<lb/>
-<corr resp="editor">[...]</corr>en Cart Wheels in the Tobo. house<lb/> 
+<corr resp="editor">[brok]</corr>en Cart Wheels in the Tobo. house<lb/> 
 <hi rend="underline"><hi rend="bold">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</hi></hi><lb/><lb/>
+
 <hi rend="bold"><corr resp="editor">[In t]</corr>he Old Coach house</hi><lb/><lb/>
 
 A <note target="n20.7"><sic corr="Chariot">Charriot  </sic> </note> and four <sic corr="harnesses">harneses  </sic><lb/>
@@ -1927,22 +1928,22 @@ Pompey}  <note target="n20.10">Stone horses </note><lb/>
 Jack  }<lb/>
 <lb/>
 <table>
-<row><cell>Squirrel}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
-<row><cell>howboy}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
-<row><cell>Gray Diamond}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
-<row><cell>Black Ditto}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
-<row><cell>Smoaker}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
-<row><cell>Billy}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
-<row><cell>Gordon}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
-<row><cell>Prince}</cell><cell><sic corr="Geldings">Geldens  </sic></cell></row>
-<row><cell>Bob}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
-<row><cell>Buckles}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
-<row><cell>Conaway}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
-<row><cell>Cook}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
-<row><cell>Button}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
-<row><cell>Willoughby}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
-<row><cell>Brandy}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
-<row><cell>Ball}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Squirrel}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;howboy}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Gray Diamond}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Black Ditto}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Smoaker}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Billy}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Gordon}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Prince}</cell><cell><sic corr="Geldings">Geldens  </sic></cell></row>
+<row><cell>&nbsp;&nbsp;Bob}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Buckles}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Conaway}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Cook}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Button}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Willoughby}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Brandy}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Ball}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
 </table><lb/><lb/>
 
 Dolly a Mare &amp; a Male Colt<lb/>
@@ -1951,10 +1952,10 @@ Margett <abbr expan="Ditto">Do.  </abbr> &amp; a <abbr expan="Ditto">Do.  </abbr
 <lb/>
 
 <table>
-<row><cell>Lucy}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
-<row><cell>Sary}</cell><cell>Young Mares</cell></row>
-<row><cell>Deborah}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
-<row><cell>Dorc as}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Lucy}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Sary}</cell><cell>Young Mares</cell></row>
+<row><cell>&nbsp;&nbsp;Deborah}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Dorcas}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
 </table><lb/><lb/>
 
 3 horse Colts 18 months old<lb/>
@@ -1967,25 +1968,26 @@ Margett <abbr expan="Ditto">Do.  </abbr> &amp; a <abbr expan="Ditto">Do.  </abbr
 
 <hi rend="bold"> In the Nailstore</hi> <add resp="editor"> [<hi rend="italics">sic</hi>]</add><lb/><lb/>
 
-<corr resp="editor">[Chest identifying mark]</corr>No: 7 and No: 8 a cask of Negs: plains &amp; 1 <abbr expan="ditto">do.  </abbr> of Ironware<lb/>
+<corr resp="editor"><hi rend="bold">[Chest identifying mark]</hi></corr> No: 7 and No: 8 a cask of <abbr expan="Negroes">Negs: </abbr> plains &amp; 1 <abbr expan="ditto">do.  </abbr> of Ironware<lb/>
 <hi rend="underline"><hi rend="bold">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</hi></hi><lb/><lb/>
 <table>
-<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>No: 4 - 9}</cell><cell>cask}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
-<row><cell><corr resp="editor">[Chest identifying mark]</corr></cell><cell> No: 7 - 10}</cell><cell>&nbsp;&nbsp;6}</cell><cell>10 Casks</cell></row>
-<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>No: 8 - 11}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;No: 4 - 9}</cell><cell>&nbsp;&nbsp;cask}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;<corr resp="editor"><hi rend="bold">&nbsp;&nbsp;[Chest identifying mark]</hi></corr></cell><cell>&nbsp;&nbsp; No: 7 - 10}</cell><cell>&nbsp;&nbsp;6}</cell><cell>&nbsp;&nbsp;10 Casks</cell></row>
+<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;No: 8 - 11}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
 
-<row><cell><corr resp="editor">[Chest identifying mark]</corr></cell><cell>No: 2}</cell><cell>&nbsp;&nbsp;&nbsp;2};</cell><cell>OF</cell></row>
-<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>No: 3}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;<corr resp="editor"><hi rend="bold">&nbsp;&nbsp;<hi rend="bold">[Chest identifying mark]</hi></hi></corr></cell><cell>&nbsp;&nbsp;No: 2}</cell><cell>&nbsp;&nbsp;&nbsp;2};</cell><cell>&nbsp;&nbsp;OF</cell></row>
+<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;No: 3}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
 
 
-<row><cell><corr resp="editor">[Chest identifying mark]</corr></cell><cell>No: 2}</cell><cell>&nbsp;&nbsp;&nbsp;1}</cell><cell>Iron</cell></row>
+<row><cell><corr resp="editor"><hi rend="bold">&nbsp;&nbsp;[Chest identifying mark]</hi></corr></cell><cell>No: 2}</cell><cell>&nbsp;&nbsp;&nbsp;1}</cell><cell>Iron</cell></row>
 
-<row><cell><corr resp="editor">[Chest identifying mark]</corr></cell><cell>No: 12}</cell><cell><hi rend="underline">&nbsp;&nbsp;&nbsp;1}</hi></cell><cell>Ware</cell></row>
+<row><cell><corr resp="editor"><hi rend="bold">&nbsp;&nbsp;[Chest identifying mark]</hi></corr></cell><cell>No: 12}</cell><cell><hi rend="underline">&nbsp;&nbsp;&nbsp;1}</hi></cell><cell>Ware</cell></row>
 
-<row><cell>8:</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell><hi rend="underline">&nbsp;&nbsp;&nbsp;10</hi></cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell><hi rend="underline">&nbsp;&nbsp;&nbsp;10</hi></cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
 </table><lb/>
 <hi rend="underline"><hi rend="bold">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</hi></hi><lb/><lb/>
 
+<hi rend="bold">No:</hi><lb/>
 <hi rend="bold">A</hi> a Cask of Flooring <sic corr="Brads">Bradds  </sic><lb/>
 <hi rend="bold">B</hi> a Ditto of Rusty Nails of Several Sorts<lb/>
 <hi rend="bold">C</hi> a Ditto of Ditto <abbr expan="about">abt.  </abbr> half Full<lb/>
@@ -2035,7 +2037,7 @@ Margett <abbr expan="Ditto">Do.  </abbr> &amp; a <abbr expan="Ditto">Do.  </abbr
 
 A Cask <abbr expan="quantity">qt.  </abbr> 38 Cart <note
 target="n17.3">Wheel Boxes </note><lb/>
-<corr resp="editor">[Chest identifying mark]</corr> No: 4 A Cask
+<corr resp="editor"><hi rend="bold">[Chest identifying mark]</hi></corr> No: 4 A Cask
 <abbr expan="quantity">qt.  </abbr><lb/>
 10 <sic corr="Bags">Baggs  </sic> of <sic corr="Shot">Shott  </sic> <sic
 corr="Assorted">Sorted  </sic><lb/> 
@@ -2057,7 +2059,7 @@ Staples<lb/>
 4 Coopers <abbr expan="Ditto">Do.  </abbr><lb/>
 1 large <note target="n22.1">Mill Brass </note><lb/>
 1 Small <abbr expan="Ditto">Do.  </abbr><lb/>
-1 <note target="n22.2">Smoothing <sic corr="plane">plain  </sic> </note> Stock<lb/>
+1 <note target="n22.2">Smoothing <sic corr="plane ">plain  </sic> </note> Stock<lb/>
 8 <abbr expan="Ditto">Do.  </abbr> Irons <sic corr="Assorted">Sorted  </sic><lb/>
 3 <note target="n22.3">Jointing Irons </note><lb/>
 6 <note target="n22.4">Smiths files </note> <sic corr="Assorted">Sorted  </sic><lb/>
@@ -2085,26 +2087,26 @@ A Parcel Small nails
 <hi rend="underline"><hi rend="bold">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</hi></hi><lb/><lb/>
 
 <table>
-  <row><cell>Loose</cell><cell>3 Large Sloop Anchors</cell></row>
-  <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>2 long lead pipes</cell></row>
-   <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>A Sloop New hauser</cell></row>
-   <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>1 Mill <note target="n22.6">Gudgeon </note> and 2 Froggs</cell></row>
-   <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>6 <abbr expan="dozen">doz  </abbr> <abbr expan="Virginia">Virga.  </abbr> hilling hoes</cell></row>
-   <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>6 Virginia Wedges</cell></row>
-   <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>Half a <sic corr="bag">bagg  </sic> 4 <abbr expan="penny">d.  </abbr> Nails</cell></row>
-   <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>A <abbr expan="piece">ps.  </abbr>of Resin about 12 pound</cell></row>
-   <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>27 Virginia Grubbing hoes</cell></row>
-   <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>16 Ditto Narrow Axes</cell></row>
-   <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>2 <abbr expan="pieces">ps.  </abbr> Pump Leather</cell></row>
-   <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>1 Sloops New Cable</cell></row>
-   <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>1 two <abbr expan="Inch">In.  </abbr> &amp; half <sic corr="Auger">Augar  </sic> <corr resp="editor">[bit]</corr></cell></row>
-   <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>1 <abbr expan="pair">pr.  </abbr> very large <note target="n15.10">Stilliards </note> to weigh 1200 <abbr expan="weight">wt.  </abbr> no pee</cell></row>
-   <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>17 <abbr expan="pairs">pr.  </abbr>.<sic corr="pot">pott  </sic> books <sic corr="Assorted">Sorted  </sic></cell></row>
-   <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>A large parcel of Sloops old Ropes &amp; Blocks</cell></row>
-   <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>About 1/3d. of a Coil of New Inch White Rope</cell></row>
-   <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>A New <note target="n22.7">Mill Spindle </note> and Frogg</cell></row>
-   <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>2 <sic corr="Scythe">Scyth  </sic> handles</cell></row>
-   <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>A large parcel of Old Iron</cell></row>
+  <row><cell>&nbsp;&nbsp;Loose</cell><cell>&nbsp;&nbsp;3 Large Sloop Anchors</cell></row>
+  <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;2 long lead pipes</cell></row>
+   <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;A Sloop New hauser</cell></row>
+   <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;1 Mill <note target="n22.6">Gudgeon </note> and 2 Froggs</cell></row>
+   <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;6 <abbr expan="dozen">doz  </abbr> <abbr expan="Virginia">Virga.  </abbr> hilling hoes</cell></row>
+   <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;6 Virginia Wedges</cell></row>
+   <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Half a <sic corr="bag">bagg  </sic> 4 <abbr expan="penny">d.  </abbr> Nails</cell></row>
+   <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;A <abbr expan="piece">ps.  </abbr>of Resin about 12 pound</cell></row>
+   <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;27 Virginia Grubbing hoes</cell></row>
+   <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;16 Ditto Narrow Axes</cell></row>
+   <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;2 <abbr expan="pieces">ps.  </abbr> Pump Leather</cell></row>
+   <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;1 Sloops New Cable</cell></row>
+   <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;1 two <abbr expan="Inch">In.  </abbr> &amp; half <sic corr="Auger">Augar  </sic> <corr resp="editor">[bit]</corr></cell></row>
+   <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;1 <abbr expan="pair">pr.  </abbr> very large <note target="n15.10">Stilliards </note> to weigh 1200 <abbr expan="weight">wt.  </abbr> no <note target="n45.1"><sic corr="pees ">pee</sic></note>&nbsp;&nbsp;</cell></row>
+   <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;17 <abbr expan="pairs">pr.  </abbr>.<sic corr="pot">pott  </sic> books <sic corr="Assorted">Sorted  </sic></cell></row>
+   <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;A large parcel of Sloops old Ropes &amp; Blocks</cell></row>
+   <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;About 1/3d. of a Coil of New Inch White Rope</cell></row>
+   <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;A New <note target="n22.7">Mill Spindle </note> and Frogg</cell></row>
+   <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;2 <sic corr="Scythe">Scyth  </sic> handles</cell></row>
+   <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;A large parcel of Old Iron</cell></row>
 </table><lb/>
 <hi rend="underline"><hi rend="bold">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</hi></hi><lb/><lb/>
 
@@ -2118,17 +2120,17 @@ A Parcel Small nails
 
 <table>
 
-<row><cell><corr resp="editor">[l]</corr>oose</cell><cell>12 White Earthen Chamber <sic corr="pots">potts  </sic></cell></row>
-<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>3 Small Stone Butter <sic corr="pots">potts  </sic></cell></row>
-<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>4 Large Earthen Milk pans</cell></row>
-<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>2 papers Red Lead in a large Iron Kettle</cell></row>
-<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>16.Iron potts <sic corr="Assorted">Sorted  </sic></cell></row>
-<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>A <sic corr="Bag">Bagg  </sic> of 8<abbr expan=" penny">d.  </abbr> <sic corr="Brads">Bradds  </sic></cell></row>
-<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>2 <sic corr="Bushels">Bushells&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  </sic>}</cell></row>
-<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>1 half <abbr expan="Ditto">Do.  </abbr> . . . }</cell></row>
-<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>1 peck. . . . &nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;&nbsp;Measures</cell></row>
-<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>1 half peck . . . }</cell></row>
-<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>7 Steel Spades</cell></row>
+<row><cell>&nbsp;&nbsp;<corr resp="editor">[l]</corr>oose</cell><cell>&nbsp;&nbsp;12 White Earthen Chamber <sic corr="pots">potts  </sic></cell></row>
+<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;3 Small Stone Butter <sic corr="pots">potts  </sic></cell></row>
+<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;4 Large Earthen Milk pans</cell></row>
+<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;2 papers Red Lead in a large Iron Kettle</cell></row>
+<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;16.Iron potts <sic corr="Assorted">Sorted  </sic></cell></row>
+<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;A <sic corr="Bag">Bagg  </sic> of 8<abbr expan=" penny">d.  </abbr> <sic corr="Brads">Bradds  </sic></cell></row>
+<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;2 <sic corr="Bushels">Bushells&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  </sic>}</cell></row>
+<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;1 half <abbr expan="Ditto">Do.  </abbr> . . . }</cell></row>
+<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;1 peck. . . . &nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;&nbsp;Measures</cell></row>
+<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;1 half peck . . . }</cell></row>
+<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;7 Steel Spades</cell></row>
 
 </table><lb/><lb/>
 
@@ -2155,10 +2157,10 @@ A Parcel Small nails
 <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>A parcel of old Lumber on the <note target="n23.6">Wind Beams </note></cell></row>
 </table>
 <hi rend="underline"><hi rend="bold">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</hi></hi><lb/><lb/>
-<corr resp="editor">[Chest identifying mark]</corr> No: 2 a <sic corr="Keg">Cagg  </sic> of Bristol <note target="n23.7">Drop <sic corr="Shot">Shott  </sic> </note><lb/>
+<corr resp="editor"><hi rend="bold">[Chest identifying mark]</hi></corr> No: 2 a <sic corr="Keg">Cagg  </sic> of Bristol <note target="n23.7">Drop <sic corr="Shot">Shott  </sic> </note><lb/>
 <abbr expan="Ditto">Do.  </abbr>  No: 12 a parcel of Frying pans<lb/>
-<corr resp="editor">[Chest identifying mark]</corr> No: 2 A Cask of Gunpowder<lb/>
-<corr resp="editor">[Chest identifying mark]</corr> No: 12 A Box of Sash Glass<lb/>
+<corr resp="editor"><hi rend="bold">[Chest identifying mark]</hi></corr> No: 2 A Cask of Gunpowder<lb/>
+<corr resp="editor"><hi rend="bold">[Chest identifying mark]</hi></corr> No: 12 A Box of Sash Glass<lb/>
 <hi rend="underline">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</hi><lb/>
 In a Chest <note target="n1.1">vizt. </note><lb/>
 10 Croww <sic corr="Cut">Cutt  </sic> Saw Files<lb/>
