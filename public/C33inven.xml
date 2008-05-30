@@ -132,6 +132,8 @@ Virginia Library Electronic Text Center</name>
 
 <p><hi rend="italics">Lancaster County</hi><lb/></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<ref target="nBHQ1">Brick House  Quarter</ref></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<ref target="nBHS">Brick House  Store</ref></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<ref target="nMS">Mary Swan Estate Goods</ref></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<ref target="nCF">Changlins  Quarter</ref></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<ref target="nCQ">Corotoman Quarter</ref></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<ref target="nGP">Gibson's Plantation</ref></p>
@@ -163,7 +165,6 @@ Virginia Library Electronic Text Center</name>
 
 <p><hi rend="italics">Richmond County</hi><lb/></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<ref target="nBHQ">Brick House  Quarter</ref></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<ref target="nRP">Robert Purtell's former plantation</ref></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<ref target="nBQ">Bridge Quarter</ref></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<ref target="nDM1">Dickinson's Mill</ref></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<ref target="nFQ">Fork Quarter</ref></p>
@@ -172,6 +173,7 @@ Virginia Library Electronic Text Center</name>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<ref target="nHT1">Hickory Thicket</ref></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<ref target="nHQ1">Hinson's Quarter</ref></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<ref target="nOQ1">Old  Quarter</ref></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<ref target="nRP">Robert Purtell's former plantation</ref></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<ref target="nTQ">Totuskey  Quarter</ref></p>
 
 <p><hi rend="italics">Spotsylvania County</hi><lb/></p>
@@ -717,7 +719,7 @@ Calamy of the Church of <abbr expan="England ">Engd. </abbr> 2nd part<lb/>
 <note target="n5.46"> Orders of Chancery</note><lb/>
 <note target="n5.47"> Manley's Clerks Guide</note><lb/>
 <hi rend="underline"><hi rend="bold">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</hi></hi><lb/><lb/>
-##
+
 A parcel of Old Cloths<lb/>
 A parcel of Lumber<lb/>
 1 <sic corr="Basin ">Bason</sic> Stand<lb/>
@@ -3082,7 +3084,7 @@ A <note target="n34.3">Cold <sic corr="Chisel">Chizzle  </sic> </note><lb/>
 
 <pb n="35"/><lb/><lb/>
 
-<hi rend="bold">Sundry Goods</hi> in the Brick House Store<lb/>
+<hi rend="bold">Sundry Goods</hi> in the <ref id="nBHS">Brick House Store</ref><lb/>
 under the Care of <abbr expan="Captain">Capt.   </abbr> <note n="TC1">Thomas Carter  </note> <note target="n1.1">vizt. </note><lb/>
 <lb/>
 <note target="n35.1">7 <abbr expan="pieces">ps.  </abbr> </note> 7/8  <note target="n9.2">Garlix </note> Each abt. 20 <note target="n10.12">Ells </note><lb/>
@@ -3209,7 +3211,7 @@ Cash &pound;2..18..2 1/2<lb/>
 <pb n="37"/><lb/><lb/>
 
 <hi rend="bold">Sundry Goods </hi> in the Brick house Store<lb/>
-Formerly belonging to the Estate of Mrs. <note n="MJS">Mary Swan </note><lb/>
+Formerly belonging to the <ref id="nMS">Estate of Mrs. <note n="MJS">Mary Swan </note></ref><lb/>
 <abbr expan="Deceased, ">Decd,  </abbr> under the care of <abbr expan="Captain">Capt.   </abbr> <note n="TC1"><abbr expan="Thomas">Thos.   </abbr> Carter </note> <note target="n1.1"> vizt. </note><lb/>
 <lb/>
 <note target="n35.1">2 <abbr expan="pairs">prs.  </abbr>  </note>New <note target="n8.37">holland </note> Sheets <hi rend="bold">In a Trunk</hi><lb/>
