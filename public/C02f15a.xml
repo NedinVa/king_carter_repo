@@ -127,20 +127,20 @@ analytical groupings.</p>
 <pb n="1"/>
 Rappa[hannock, Lancaster County, Virginia]<lb/>
 <date value="1702-06-15">June the 15th. 1702 Per Graves</date><lb/>
-Arthur Bailey&mdash;<lb/>
+<note n="AB2">Arthur Bailey</note>&mdash;<lb/>
 </dateline>
                                              
 </opener>
 
-<p>I herewth. Cover a Bill of Lading for Seventeen hogsheads Tobaccoe <add place="supralinear">on Board the <name type="ship">America</name></add><lb/>
-belonging to the Estate of <note n="RW">Esqr. Wormeley</note> deceased Consign'd <lb/>
+<p>I herewth. Cover a Bill of Lading for Seventeen hogsheads <sic corr="Tobacco ">Tobaccoe </sic> <add place="supralinear">on Board the <name type="ship">America</name></add><lb/>
+belonging to the Estate of <note n="RW"><note n="RW"><abbr expan="Esquire ">Esqr. </abbr> Wormeley</note></note> deceased Consign'd <lb/>
 to you for Dispose, your accots. must Run in the Name of <lb/> 
-the Infant Executrs. of the sd. Esqr. Wormeley, I am one of his<lb/>
-Executrs. during their Minority I hope you'll take all the Care <lb/>
-you Can in the dispose of this Tobaccoe 'twill be a Leading <lb/>
+the Infant <abbr expan="Executors">Executrs. </abbr> of the <abbr expan="said ">sd. </abbr> <abbr expan="Esquire ">Esqr. </abbr>. Wormeley, I am one of his<lb/>
+<abbr expan="Executors">Executrs. </abbr> during their Minority I hope you'll take all the Care <lb/>
+you Can in the dispose of this <sic corr="tobacco ">tobaccoe </sic><abbr expan="it will "> 'twill </abbr> be a Leading <lb/>
 argumt. to Intrust more of this Concern to you hereafter, I hope <lb/>
 the Tobacco will Rise well, and give you the Advantage of a good <lb/>
-sale. I am Sr.</p>
+sale. I am <abbr expan="Sir">Sr. </abbr></p>
 
 
 <closer>Your humble servant</closer>
@@ -155,7 +155,9 @@ sale. I am Sr.</p>
 
  <note><hi rend="italics">Source copy consulted:</hi> Christ Church Parish, Lancaster County, Processioners' Returns, 1711-1783, and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond, p. 150. </note>
 
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note>
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note><hi rend="italics">This text revised June 5, 2008.</hi></note>
 
 
 </div1>
