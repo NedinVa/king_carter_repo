@@ -138,22 +138,22 @@ Mr. Tho. Corbin
  
 </opener> 
  
-<p>My last was by the <name type="ship">Abram</name> Capt. <name type="person">Street</name>, 
-It Coverd <lb/>a Bill of Lading for 12 hogsheads Tobo sent you in Ditto <lb/>Shipp belonging to the 
-Estate of Esqr. <note n="RW">Wormeley</note> <lb/>deceast, herein is a Second Bill of 
+<p>My last was by the <name type="ship">Abram</name> <abbr expan="Captain">Capt.</abbr>. <name type="person">Street</name>, 
+It Coverd <lb/>a Bill of Lading for 12 hogsheads Tobo sent you in Ditto <lb/><sic corr="Ship ">Shipp</sic> belonging to the 
+Estate of <abbr expan="Esquire ">Esqr. </abbr> <note n="RW">Wormeley</note> <lb/>deceast, herein is a Second Bill of 
 Lading.</p> 
  
-<p>Mr. Secretarys Estate Stood Indebted to the Auditor Col <lb/><note n="WB1">Byrd </note> in the sume of 55:16:5 I have 
-Drawn on you <lb/>for the Debt, and Desire you make punctuall paym<add resp="editor">[ent] </add>
-<lb/>Charging the same to the Debitt of that Estate.</p> 
+<p>Mr. Secretarys Estate Stood Indebted to the Auditor <abbr expan="Colonel">Col</abbr><lb/><note n="WB1">Byrd </note> in the sume of 55:16:5 I have 
+Drawn on you <lb/>for the Debt, and Desire you make <sic corr="punctual ">punctuall</sic> paym<add resp="editor">[ent] </add>
+<lb/>Charging the same to the <sic corr="Debit ">Debitt</sic> of that Estate.</p> 
  
-<p>for News hence little Stirring, Wee have had violent <lb/>Rains of Late that hath very much Damag'd 
+<p>for News hence little Stirring, <sic corr="We ">Wee</sic> have had violent <lb/>Rains of Late that hath very much Damag'd 
 our low <add  resp="editor">[land Crops]</add><lb/><add place="supralinear">&amp; have <sic corr="risen">ris</sic> soe into the weeds 
-Wee don't know when we shall gett Clear of them</add><lb/>Whether Warr or Peace in Europe we are att 
-this ti<add  resp="editor">[me]</add> <lb/>Ignorent here, Wee have an Accott. of some 
+<sic corr="We ">Wee</sic> don't know when we shall gett Clear of them</add><lb/>Whether Warr or Peace in Europe we are <sic corr="at ">att</sic> 
+this ti<add  resp="editor">[me]</add> <lb/>Ignorent here, <sic corr="We ">Wee</sic> have an <abbr expan="Account ">Accott. </abbr> of some 
 skirm<add  resp="editor">[ishes]</add> <lb/>between the Dutch &amp; French but no further <add 
 place="marginleft">My <note n="EAW">sister Wormeley</note> hath Desir'd me <lb/>to advise you that a 5th. part of the 
-<lb/>produce of Last Years Cropp belongs to <lb/>her, this year she hath taken her pro=<lb/>portion to 
+<lb/>produce of Last Years <sic corr="Crop ">Cropp</sic> belongs to <lb/>her, this year she hath taken her pro=<lb/>portion to 
 her self.</add>God send the <add  resp="editor">[ship]</add> <lb/>safe home to yo<add  resp="editor">[u]</add> 
 shall not add further att <add  resp="editor">[this time]</add> <lb/>but am Sr.</p> 
  
@@ -168,9 +168,11 @@ shall not add further att <add  resp="editor">[this time]</add> <lb/>but am Sr.<
 <div1 type="back matter">
 <head>NOTES</head>
 
-<note><hi rend="italics">Source copy consulted:</hi> Christ Church Parish, Lancaster County, Processioners' Returns, 1711-1783, and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond. Extract printed in <title>William and Mary Quarterly</title>, 2nd ser., 17(1909): 256-257.</note>
+<note><hi rend="italics">Source copy consulted:</hi> Christ Church Parish, Lancaster County, Processioners' Returns, 1711-1783, and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond. Extract printed in <cit><bibl><title>William and Mary Quarterly</title>, 2nd ser., 17(1909): 256-257.</bibl></cit></note>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note>
+
+<lb/><lb/><note><hi rend="italics">This text revised June 9, 2008.</hi></note>
 
 </div1>
 </back>

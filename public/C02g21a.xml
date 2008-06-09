@@ -136,29 +136,28 @@ Jno. Goodwin&mdash;
 </opener>
 
 <p>I Recd. yor. Lettrs. Invoice &amp;c. Relating to <note n="RW">Esqr. Wormeleys</note>
-es<lb/>-tate, but the Goods you know wch. Way the <add resp="editor">[y]</add> went, Wee
-ha<add resp="editor">[ve]</add> <lb/>bin hard putt to it, to gett Necessarys for the familys,
-T<add resp="editor">[he]</add> <lb/>sale of the Tobo. as you promist it, Wee Cannot Complain
+es<lb/>-tate, but the Goods you know wch. Way the <add resp="editor">[y]</add> went, <sic corr="We ">Wee</sic>
+ha<add resp="editor">[ve]</add> <lb/>bin hard <sic corr="put ">putt</sic> to it, to <sic corr="get ">gett</sic> Necessarys for the familys,
+T<add resp="editor">[he]</add> <lb/>sale of the Tobo. as you <sic corr="promised ">promist</sic> it, <sic corr="We ">Wee</sic> Cannot Complain
 <add resp="editor">[of]</add></p>
 
 <p>This Encloses a Bill of Lading for 11 hogsheads of Tobo. of that <add resp="editor">[Con]</add><lb/>-
-cern Consign'd you, by the <note target="n1">Gloster</note>, I had
-Design'd you <add resp="editor">[more]</add> <lb/>but when the Cropps Came to be Concluded, fell short in
+cern Consign'd you, by the <note target="n1"><name type="ship">Gloster</name></note>, I had
+Design'd you <add resp="editor">[more]</add> <lb/>but when the <sic corr="Crops ">Cropps</sic> Came to be Concluded, fell short in
 m<add resp="editor">[y]</add> <lb/>Reckoning. I saw the Tobo. myself, it Appear'd to me ex<lb/>-
 traordinary Good.</p>
 
 <pb n="2"/><lb/><lb/>
-<p>Herein is Another Invoice for the <note target="n2">familys</note>  <del>[use]</del> I
-pray God it <lb/>meets wth bettr. Success than the last did. There are some <lb/>things in't, not Absolutely
+<p>Herein is Another Invoice for the <note target="n2">familys </note>  <del>[use]</del> I
+pray God it <lb/>meets wth <abbr expan="better ">bettr. </abbr> Success than the last did. There are some <lb/>things <abbr expan="in it, ">in't, </abbr> not Absolutely
 Necessary for the <del>familys</del> <note target="n3">servts.</note> use, as the <lb/>Spice, the Wine &amp;ca. but in
-regard the house is kept there, <lb/>and Wee are forc'd often to Trouble my Sistr. Wormeley when
-<lb/>Wee do any business about the Childrens Estate; I think it <lb/>but Reasonable, they Should
-Contribute Something to her house <lb/>keeping, I wish you take Care to lett the Wine be good wch.
-thing you <lb/>are but seldom Guilty of.</p>
+regard the house is kept there, <lb/>and <sic corr="We ">Wee</sic> are forc'd often to Trouble my <note n="EAW"><abbr expan="Sister ">Sistr </abbr>. Wormeley</note> when
+<lb/><sic corr="We ">Wee</sic> do any business about the Childrens Estate; I think it <lb/>but Reasonable, they Should
+Contribute Something to her house <lb/>keeping, I wish you take Care to <sic corr="let ">lett</sic> the Wine be good <add place="supralinear">wch.
+thing you</add> <lb/><del>[illegible]</del> <add place="supralinear">are but seldom Guilty of.</add></p>
 
-<p>A fifth part of the Last Cropp that went home belong'd <lb/>to my Sister Wormeley, of wch. she hath
-Desir'd me to give you <lb/>Notice, This Year She hath her Own Tobaccoe herself, And <lb/>hath sent the
-Chief part O'nt to you, Not Else to Add att <lb/>present but am Sr.</p>
+<p>A fifth part of the Last <sic corr="Crop ">Cropp</sic> that went home belong'd <lb/>to my Sister Wormeley, of wch. she <sic corr="has ">hath</sic>
+Desir'd me to give you <lb/>Notice, This Year She <sic corr="has ">hath</sic> her Own Tobaccoe herself, And <lb/><sic corr="has ">hath</sic> sent <del>a good </del><add place="supralinear">the Chief</add> part <note target="n4">O'nt</note> to you, Not Else to Add <sic corr="at ">att</sic> <lb/>present but am Sr.</p>
 
 <closer> yor. humble Servt.</closer>
 
@@ -171,7 +170,7 @@ Chief part O'nt to you, Not Else to Add att <lb/>present but am Sr.</p>
 
 <note><hi rend="italics">Source copy consulted:</hi> Christ Church Parish, Lancaster County, Processioners' Returns, 1711-1783, and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond, 155-156.</note>
 
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note>
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
 <note id="n1">[1] The <name type="ship"><hi rend="italics">Gloster</hi></name> was built in Hampshire, England, in 1680, and was 300 tons in size; her owners were <name type="person">Charles Morgan</name> and <name type="person">Thomas Perry</name> of London. She carried 23 men and 12 guns in 1700. (<cit><bibl n="M8">Collector's return for Rappahannock River, 1701 December 25-1702 March 25, CO5/1441. . . .</bibl></cit>; and <cit><bibl n="A19">Middleton. "The Chesapeake Convoy System, 1662-1763."</bibl></cit>>)</note>
 
@@ -180,6 +179,10 @@ Chief part O'nt to you, Not Else to Add att <lb/>present but am Sr.</p>
 <note id="n3">[3] The word "familys" has been struck by the clerk and "servts." substituted. Apparently
 the children's estate could support the sevants, but not the widow who was, of course, provided for by
 her husband.</note>
+
+<note id="n4">[4] What this contraction stood for cannot be determined. The meaning seems to be "of it."</note>
+
+<lb/><lb/><note><hi rend="italics">This text revised June 9, 2008.</hi></note>
 
 </div1>
 </back>
