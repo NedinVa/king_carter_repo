@@ -131,10 +131,10 @@ analytical groupings.</p>
                                               
 </opener> 
  
-<p>This only to Advise you of Bills I have Drawn on you for <lb/><add resp="editor">[ . . . ]</add> pds payable 
-to <note target="n1">Henry Jenkins</note> on the accot. of Esqr. Wormeleys 
-<lb/><add resp="editor">[es]</add>tate, he Recoverd a Judgmt. for it in the Genll. court, pray &mdash; 
-<lb/>make paymt. at time, and place it to the accot. of the said Estate <lb/>as per advice from</p> 
+<p>This only to Advise you of Bills I have Drawn on you for <lb/><add resp="editor">[ . . . ]</add> <abbr expan="pounds ">pds </abbr> payable 
+to <note target="n1">Henry Jenkins</note> on the accot. of <note n="RW"><abbr expan="Esquire ">Esqr. </abbr> Wormeleys</note> 
+<lb/><add resp="editor">[es]</add>tate, he Recoverd a <abbr expan="Judgement ">Judgmt </abbr>. for it in the <abbr expan="General ">Genll. </abbr> court, pray &mdash; 
+<lb/>make <abbr expan="payment ">paymt. </abbr> at time, and place it to the accot. of the said Estate <lb/>as per advice from</p> 
  
 <closer>Your humble servant</closer> 
  
@@ -145,9 +145,11 @@ to <note target="n1">Henry Jenkins</note> on the accot. of Esqr. Wormeleys
 <div1 type="notes"> 
 <head>NOTES</head>
 <note><hi rend="italics">Source copy consulted:</hi> Christ Church Parish, Lancaster County, Processioners' Returns, 1711-1783, and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond, 156.</note>
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note>
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
  
 <note id="n1">[1] Perhaps Henry Jenkins of York County.</note> 
+
+<lb/><lb/><note><hi rend="italics">This text revised June 10, 2008.</hi></note>
  
 </div1> 
 </back> 

@@ -131,15 +131,15 @@ Rappa[hannock, Lancaster County, Virginia]<lb/>
                                               
 </opener> 
  
-<p>This Covers a Bill of Lading for 8 hogsheads of Tobaccoe on Board the <lb/><name 
+<p>This Covers a Bill of Lading for 8 hogsheads of <sic corr="tobacco ">tobaccoe </sic> on Board the <lb/><name 
 type="ship">Richard and Mary</name> <name type="person">Phillip Francklin</name> Master 
-belonging to the Estate <lb/>of Esqr. Wormeley Deceas'd, God Knows `tis a poor Matter yett a great 
+belonging to the Estate <lb/>of <note n="RW"><abbr expan="Esquire ">Esqr. </abbr> Wormeley</note> Deceas'd, God Knows <abbr expan="it is ">'tis </abbr> a poor Matter <sic corr="yet ">yett</sic> a great 
 <lb/>part of what was made Last Year, for my own part you <lb/>know I Live <sic 
 corr="over">Offer</sic> a great River and no Body Else Concerns them=<lb/>selves wth. any Thing, my 
-kind Respects to my Cozns. I heartily <lb/>Wish they were bigg Enough to do their Own Business, I have 
-Recd. <lb/>Sevll. Lettrs. from you wth. yor. Accot. of their Disbursements, you <lb/>may see by their 
+kind Respects to <note target="n1">my <sic corr="Cousins ">Cozns</sic>.</note> I heartily <lb/>Wish they were <sic corr="big ">bigg</sic> Enough to do their Own Business, I have 
+Recd. <lb/><abbr expan="Several ">Sevll. </abbr> Lettrs. from you wth. yor. Accot. of their Disbursements, you <lb/>may see by their 
 Small Revenues there is a Necessity of Retrenching <lb/>their Expences all that Conveniently may be I am 
-Sr.</p> 
+<abbr expan="Sir">Sr. </abbr></p> 
  
 <closer>Your Loving Countryman and humble Servant</closer> 
  
@@ -154,6 +154,9 @@ Sr.</p>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note><lb/><lb/>
 
+<note id="n1">[1] Carter often referred to in their youth as his "Cozns." Ralph Wormeley (ca. 1681-1714), Ralph Wormeley's (d.1701) oldest son; and John Wormeley (1689-1727) because their parents were his brother- and sister-in-law. He was one of the boys' trustees under their father's will.</note>
+
+<lb/><lb/><note><hi rend="italics">This text revised June 10, 2008.</hi></note>
 </div1>
 </back> 
 
