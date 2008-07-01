@@ -125,19 +125,19 @@
 <name type="place"><add n="ed">[Rappahannock, Lancaster County, Virginia]</add></name><lb/> 
  
 <date value="1705-02-26">Febry. the. 26th. 1704 5</date><lb/> 
- Mr. Fras Lee<lb/>
+ Mr. <abbr expan="Francis ">Fras </abbr> Lee<lb/>
 </dateline> 
                                               
-<salute>Sr.</salute> 
+<salute><abbr expan="Sir">Sr. </abbr></salute> 
  
 </opener> 
                     
  
-<p>Yours of the 15th of August and Coppy wth. the <add resp="editor">[ . . .  Account]</add> <lb/>and 
-Disbursements of the Young Wor<add resp="editor">[meleys' Account]</add> <lb/>Currtt. of the Ball: Due 
+<p>Yours of the 15th of August and <sic corr="Copy ">Coppy</sic> wth. the <add resp="editor">[ . . .  Account]</add> <lb/>and 
+Disbursements of the <note target="n1">Young Wor<add resp="editor">[meleys' Account]</add></note> <lb/>Currtt. of the <abbr expan="Balance ">Ball: </abbr> Due 
 in their favour Came <add resp="editor">[ . . .]</add>  <lb/>wth. them Came the Good News of the Arrivall of 
 Ou<add resp="editor">[r fleet]</add> <lb/>also very Glad to hear of the Wellfare of My Coz<add resp="editor">[ns I 
-thank]</add> <lb/>you for yor. Good Wishes of mine I Return the Same with a good <lb/>deale of 
+thank]</add> <lb/>you for yor. Good Wishes of mine I Return the Same with a good <lb/><sic corr="deal ">deale</sic> of 
 heartiness for you and yours being Really <add resp="editor">[ . . . ]</add></p> 
  
  
@@ -154,7 +154,13 @@ heartiness for you and yours being Really <add resp="editor">[ . . . ]</add></p>
 
 <note><hi rend="italics">Source copy consulted: </hi>Christ Church Parish, Lancaster County, Processioners' Returns, 1711-1783,and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond, 162.</note>
 
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The return address, county, and state have been added for clarity to this unheaded letter.</note>
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The return address, county, and colony have been added for clarity to this unheaded letter.</note>
+
+<note id="n1">[1] Carter often referred to in their youth as his "Cozns." Ralph Wormeley (ca. 1681-1714), Ralph Wormeley's (d.1701) oldest son; and John Wormeley (1689-1727) because their parents were his brother- and sister-in-law. He was one of the boys' trustees under their father's will.</note>
+
+
+
+<lb/><lb/><note><hi rend="italics">This text revised June 30, 2008.</hi></note>
 
 
 

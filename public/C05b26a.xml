@@ -131,36 +131,36 @@
 </opener> 
  
  
-<p>I am Indebted to you for two Lettrs. Since my Last <lb/>writing, Those parts that Relate to Mattrs. of 
-State <lb/>I Don't know how to give a fitt Answer to it falls to my Share <lb/>to be Deeply Concern'd in a 
+<p>I am Indebted to you for two Lettrs. Since my Last <lb/>writing, Those parts that Relate to <abbr expan="Matters ">Mattrs. </abbr> of 
+State <lb/>I Don't know how to give a <sic corr="fit ">fitt</sic> Answer to it falls to my Share <lb/>to be Deeply Concern'd in a 
 Cause that I Call the Countrys <del>that</del> I <lb/>drew my first breath in <del>wch must End either in Victory or the Ruin of thm.<lb/> who have made the attempt.</del><lb/>which I 
 Suppose you and a great many Others have Other thoughts <lb/>of but the Event will prove who hath bin in the Right.</p>  
  
-<p>I have Little to Say at this Time Relating to the young <lb/>Wormeleys Affairs.  I know 'twill be no 
-News to you to give you <lb/>an Accot. of <note target="n1">Robt. Tayloes</note> Death of <note 
-target="n2">Major. Gwins</note> Death <lb/>or of <note n="WB1">Collo. Birds</note> Death or of 
-the Corbins being upon the <note target="n3">Careen</note> <lb/>in my Creek.</p>  
+<p>I have Little to Say at this Time Relating to the young <lb/>Wormeleys Affairs.  I know <abbr expan="it will ">'twill </abbr> be no 
+News to you to give you <lb/>an Accot. of <note target="n1"><abbr expan="Robert ">Robt. </abbr> Tayloes</note> Death of <note 
+target="n2">Major. Gwins</note> Death <lb/>or of <note n="WB1"><abbr expan="Colonel ">Collo.</abbr> <sic corr="Byrd's ">Birds</sic></note> Death or of 
+the<name type="ship"> Corbins</name> being upon the <note target="n3">Careen</note> <lb/>in my Creek.</p>  
  
 <p><seg type="postscript"><date><add resp="editor">[P. S.]</add> March the. 8th. 1704/5</date></seg></p> 
  <lb/>
-<p>Since the Above I have Recd. Two more Lettrs. <lb/>from you One the 14th. of 8ber, the Other the 
-6th of Janry. <lb/>of all the Rest you Mention none Come to hand Saving <lb/>those two by the way of 
-<name type="place">Barbadoes</name> am very Suspicious <lb/>What you writt by the way of <name 
-type="place">Pensilvania</name> hath Come under the <lb/>Managmt of Some of the Northern 
+<p><seg type="postscript">Since the Above I have Recd. Two more Lettrs. <lb/>from you One the 14th. of <abbr expan="August ">8ber, </abbr> the Other the 
+6th of <abbr expan="January ">Janry. </abbr> <lb/>of all the Rest you Mention none Come to hand Saving <lb/>those two by the way of 
+<name type="place">Barbadoes</name> am very Suspicious <lb/>What you <sic corr="wrote ">writt</sic> by the way of <name 
+type="place"><sic corr="Pennsylvania ">Pensilvania</sic></name> <sic corr="has ">hath</sic> Come under the <lb/><abbr expan="Managment ">Managmt </abbr> of Some of the Northern 
 Engineers. Am <lb/>Glad to hear you have made So good a Sale of the 
 Rappa<add n="ed">[hannock]</add>.<lb/> Tobo. Its much that you had from <sic corr="York">yourk</sic> 
-Should fall soe <lb/>much Short I know not what to Say abt. the <name type="ship">Corbin</name><lb/>
+Should fall <sic corr="so ">soe</sic> <lb/>much Short I know not what to Say <abbr expan="about ">abt. </abbr> the Corbin<lb/>
 <note n="GC1">Yor. brother</note> is the fittest Man to give Satisfaction to the Persons 
 <lb/>Concern'd they all Live out of my way, I shall offer my <lb/>best arguments the first Time I see any 
 of them &amp; acquaint thm. <lb/>what you Write  'Tis your Misfortune to have a <note 
-target="n1">Master</note> that is but In=<lb/>differently Quallified for the post he is in how it will be 
-help'd <lb/>I know not. The Shipps Bottome is in good order; and She might <lb/>be Quickly upon 
-Loading were there <sic corr="anybody">any Boddy</sic> to Drive on her <lb/>business,</p> 
+target="n1">Master</note> that is but In=<lb/>differently <sic corr="Qualified ">Quallified</sic> for the post he is in how it will be 
+help'd <lb/>I know not. The <sic corr="Ships ">Shipps</sic> Bottome is in good order; and She might <lb/>be Quickly upon 
+Loading were there <sic corr="anybody">any <sic corr="Body ">Boddy</sic></sic> to Drive on her <lb/>business,</seg></p> 
  
-<p><add place="marginleft">Your most humble obedient Servt.</add></p>
+<p><seg type="postscript"><add place="marginleft">Your most humble obedient Servt.</add></seg></p>
 
 <p><seg type="postscript"><add place="marginleft">I thank you for the Offer of Some Madera wine may be a <note 
-target="n4">Chapman</note> for <lb/>Some when it Comes. Shall not add more but that I am Sr.</add></seg></p><lb/><lb/> 
+target="n4">Chapman</note> for <lb/>Some when it Comes. Shall not add more but that I am <abbr expan="Sir ">Sr. </abbr></add></seg></p><lb/><lb/> 
  
 <closer></closer> 
 
@@ -184,6 +184,9 @@ beach or a soft creek bank and, with ropes tied to her masts, pulled onto her si
 thus exposed, especially at low tide, for repairs, cleaning, or caulking. </note>
 
 <note id="n4">[4] A chapman is a peddlar or merchant.</note> 
+
+
+<lb/><lb/><note><hi rend="italics">This text revised June 30, 2008.</hi></note>
  
 </div1> 
 </back> 
