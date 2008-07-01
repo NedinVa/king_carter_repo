@@ -109,9 +109,9 @@
 <opener> 
  <dateline> 
 <pb n="1"/>
-<date value="1701-05-01">May the. 22d. 1701.  In a Letter per the Industry</date> 
+<date value="1701-05-01">May the. 22d. 1701.  In a Letter per the <note target="n1"><name type="ship">Industry</name></note></date> 
 <name type="place">[Rappahannock, Lancaster County, Virginia]<lb/>
-Capt. Jno. Purvis&mdash;
+Capt. <abbr expan="John ">Jno. </abbr> Purvis&mdash;
 </name>
  </dateline> 
 <salute></salute>
@@ -119,8 +119,8 @@ Capt. Jno. Purvis&mdash;
 </opener>
  
 <p><lb/>
-Mr. Secretary Wormeley Died in March Last he left <add resp="editor">[m]</add>e O<add resp="editor">[ne of his]</add> <lb/>
-Executrs. Durante Minoritate his Children. I find in your Ac<add resp="editor">[count]</add> <lb/>
+Mr. <note n="RW">Secretary Wormeley</note> Died in March Last he left <add resp="editor">[m]</add>e O<add resp="editor">[ne of his]</add> <lb/>
+<abbr expan="Executors ">Executrs. </abbr> Durante Minoritate his Children. I find in your Ac<add resp="editor">[count]</add> <lb/>
 due to you from that Estate of Four pounds Seven Shil<add resp="editor">[lings]</add> <lb/>
 penny which you may Debit my Accot. wth. if you p<add resp="editor">l[ease]</add></p>
 
@@ -138,13 +138,15 @@ penny which you may Debit my Accot. wth. if you p<add resp="editor">l[ease]</add
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence.</note>
 
 
-<note>The <hi rend="italics">Industry</hi> was recorded in a <bibl n="M8">Collector's return, 1700 
+<note id="n1">[1] The <hi rend="italics">Industry</hi> was recorded in a <bibl n="M8">Collector's return, 1700 
 December 25-1701 March 29</bibl>, for the Rappahannock River as having been built at Hull in 1698, 
 180 tons, owned by <name type="person">John Purvis</name>, <name type="person">Isaac 
 Cocks</name>, <name type="person">Edmund Leigh</name>, <name type="person">Samuel 
 Lane</name>, <name type="person">Philip Wilkinson</name>, <name type="person">Richard 
 Phillips</name>, <name type="person">Mordecai Green</name>, and her captain, <name 
 type="person">John Blenkerne</name>. (<cit><bibl>Survey Report for CO5/1441, ff. 151, Virginia Colonial Records Project, Albert H. Small Special Collections Library, University of Virginia.</bibl></cit>)</note><lb/><lb/>
+
+<lb/><lb/><note><hi rend="italics">This text revised July 1, 2008.</hi></note>
 
 
 </div1>

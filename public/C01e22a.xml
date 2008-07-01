@@ -12,7 +12,7 @@
 <!ENTITY % ISOtech SYSTEM  "ISOtech.pen"> %ISOtech;
 ]>
 
-<TEI.2 id="C01e22a">
+<TEI.2 id="x">
 <teiHeader type="aacr2">
              
 <fileDesc>
@@ -129,15 +129,15 @@ analytical groupings.</p>
 <date value="1701-05-22">[May 22, 1701]</date><lb/>
 Mr. Thomas Corbin
  </dateline>                  
-<salute>Sr.</salute>
+<salute><abbr expan="Sir">Sr. </abbr></salute>
 
 </opener>
 
 <p>Suppose from your Brother you will have the News long <add resp="editor">[since] </add><lb/>
-Comes to you of Esqr. Wormeleys Death, and whom he hath <add resp="editor">[named]</add> <lb/>
-Executrs. this Serves only for Cover to a Bill of Lading for Ten <add resp="editor">[hogsheads]</add> <lb/>
-of Tobaccoe belonging to that Estate, Consign'd you in the <add resp="editor">[London]</add><lb/>
-<note target="n1">Armes</note> Capt. <add resp="editor">[John]</add> Gallon Master. which wish God send safe and to <add resp="editor">[good?]</add><lb/> 
+Comes to you of <note n="RW"><abbr expan="Esquire ">Esqr. </abbr> Wormeleys</note> Death, and whom he hath <add resp="editor">[named]</add> <lb/>
+<abbr expan="Executors ">Executrs. </abbr> this Serves only for Cover to a Bill of Lading for Ten <add resp="editor">[hogsheads]</add> <lb/>
+of <sic corr="Tobacco ">Tobaccoe</sic> belonging to that Estate, Consign'd you in the <name type="ship"><add resp="editor">[London]</add><lb/>
+<note target="n1">Armes</note></name> <abbr expan="Captain">Capt.</abbr> <add resp="editor">[John]</add> Gallon Master. which wish God send safe and to <add resp="editor">[good?]</add><lb/> 
 Markett. shall not Add further but am</p>
 
 <closer>Your humble Servant </closer>
@@ -152,11 +152,15 @@ Markett. shall not Add further but am</p>
 <note><hi rend="italics">Source copy consulted:</hi> Christ Church Parish, Lancaster County,
 Processioners' Returns, 1711-1783, and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond, p. 141. This undated letter immediately precedes one of this date in the letter book. 
 </note>
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence to merchants abroad. The county and state have been added for clarity. </note>
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence to merchants abroad. The county and colony have been added for clarity. </note>
 <note id="n1">[1] In 1700, the <hi rend="italics">London Armes</hi>
  had twenty men and carried six guns; she had been built in Bristol in 1689, and was of 240 tons. Her owners were <name type="person">Richard
 Marsh</name> and <name type="person">Edward Haistwell</name> of London. 
 (<cit><bibl n="A19">Middleton. "The Chesapeake Convoy System, 1662-1763." . . .</bibl></cit>; and  <cit><bibl n="M4">"Naval officer's return for Rappahannock River, 1700 June 24-December 15."  CO5/1441, ff. 152. . . .</bibl></cit>)</note>
+
+
+
+<lb/><lb/><note><hi rend="italics">This text revised July 1, 2008.</hi></note>
 
 </div1>
 </back>
