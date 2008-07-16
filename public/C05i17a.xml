@@ -136,18 +136,18 @@ analytical groupings.</p>
  
 
 <p>This Serves only to acknowledge the Rect. of yor <unclear>[ . . . ]</unclear> <lb/>goods by the 
-<note target="n1">America</note> <add place="supralinear">Benja. 
-Silvester</add> M<add resp="editor">[aste]</add>r they are landed <add resp="editor">[at Col.]</add> 
-<lb/><note n="WC1">Churchil</note> for the use of the Estate</p>  
+<note target="n1"><name type="ship">America</name></note> <add place="supralinear"><abbr expan=" Benjamin "> Benja.  </abbr>
+Silvester</add> M<add resp="editor">[aste]</add>r they are landed <add resp="editor">[at Colonel ]</add> 
+<lb/><note n="WC1"><sic corr="Churchill ">Churchil</sic></note> for the use of the Estate</p>  
  
-<p>In my Last you had my thoughts concerning yr <add resp="editor">[sending the]</add> <lb/><note 
-target="n2">young Wormelyes</note> to Virga. I shall endeavr to find out <add resp="editor">[if 
-there]</add> <lb/>has not Some tricks been plaid with the <name type="place">York River</name> 
+<p>In my Last you had my thoughts concerning <sic corr="your ">yr</sic> <add resp="editor">[sending the]</add> <lb/><note 
+target="n2">young Wormelyes</note> to <abbr expan="Virginia ">Virga. </abbr> I shall endeavr to find out <add resp="editor">[if 
+there]</add> <lb/>has not Some tricks been <sic corr="played ">plaid</sic> with the <name type="place">York River</name> 
 Tobo I <unclear>[ . . . ]</unclear> <lb/>I ever heard of their being Nonburner's there</p>  
  
-<p>Ive already hinted to you my receipt of a Pipe of wine on <lb/>accott. I'me Obliged to you for yor detail 
-of news Captn. <name type="person">[Jonas] Moo[lts</name> 
-and] <lb/>the <note target="n3">Crow</note> had a Pretty long 
+<p>Ive already hinted to you my receipt of a Pipe of wine on <lb/><abbr expan="account ">accott. </abbr> I'me Obliged to you for yor detail 
+of news <abbr expan="Captain">Captn. </abbr> <name type="person"><corr resp="editor">[Jonas]</corr> Moo<corr resp="editor">[[lts]]</corr></name> 
+<corr resp="editor">[and]</corr> <lb/>the <note target="n3">Crow</note> had a Pretty long 
 Passage from <name type="place">Lisbon</name> he was with us <unclear>[ . . . ]</unclear> <lb/>would 
 take nothing less thn 16d per Tun he's loaded I think at tht rat<add resp="editor">[e]</add> <lb/>&amp; now goes 
 away with this Convoy</p> 
@@ -168,15 +168,17 @@ here but Conclu<add resp="editor">[de]</add></p>
 
 <note><hi rend="italics">Source copy consulted:</hi> Christ Church Parish, Lancaster County, Processioners' Returns, 1711-1783,and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond, 167.</note>
 
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note><lb/>
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note><lb/>
  
 
 <note id="n1">[1] The <hi rend="italics">America</hi>, according to the 1700 Convoy List, was a London vessel of eighteen men and eighteen guns, commanded by Thomas Graves. A <bibl n="M4">naval officer's return</bibl>, 1700 February 19-June 24, shows that she had been built at Ipswich in 1691, was 250 tons 
 in size, and was owned by Sir Richard Levett, Robert Bristow, Esq., Arthur Bailey, John Cary, Micajah Perry, Thomas Lane, Anthony [ . . . ] Hope for Bendall and Mary Johnson. (<cit><bibl>CO5/1441, ff. 13, found in the microfilms of the Virginia Colonial Records Project, Albert H. Small Special Collections Library, University of Virginia.</bibl></cit>)</note> 
  
-<note id="n2">[2] RC was among the trustees for the young sons, Ralph (ca. 1681-1714) and John (1689-1727), of Ralph Wormeley after their father's death.</note> 
+<note id="n2">[2] RC was among the trustees for the young sons, Ralph (ca. 1681-1714) and John (1689-1727), of <note n="RW">Ralph Wormeley</note> after their father's death.</note> 
  
 <note id="n3">[3] The <hi rend="italics">Crow</hi> was a 200-ton vessel with 16 guns. (<cit><bibl n="M4">Naval officer's return for Rappahannock River, 1700 June 24-December 15. CO5/1441.</bibl></cit>)</note> 
+
+<lb/><lb/><note><hi rend="italics">This text revised July 10, 2008.</hi></note> 
  
 </div1> 
 </back> 

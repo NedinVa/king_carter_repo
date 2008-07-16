@@ -120,16 +120,16 @@ Robert Carter and <note target="n1">John Lightfoot</note></head>
 </opener> 
  
 <p><note n="FN">His Excellency</note> haveing just now received advice from<lb/>
-Capt. <name type="person">Josiah Moon</name> of Her Majestys Ship the <name type="ship">Oxford</name> that he<lb/>
+<abbr expan="Captain">Capt.</abbr> <name type="person">Josiah Moon</name> of Her Majestys Ship the <name type="ship">Oxford</name> that he<lb/>
 and another man of war arrived last night at<lb/>
 <name type="place">Kiquotan</name> finds it necessary for Her Majestys Service <lb/>
-to have a meeting of the Councill here on <lb/>
+to have a meeting of the <sic corr="Council ">Councill</sic> here on <lb/>
 Saturday the 30th Instant at which he expects <lb/>
 Yor. Honors will not fail to give Yor. attendance <lb/>
 which by His Excellencys Command is all from <lb/>
 </p> 
 <closer> 
-<salute>Yor. Honrs. <lb/>most obedient humble<lb/>
+<salute>Yor. <abbr expan="Honors ">Honrs. </abbr> <lb/>most obedient humble<lb/>
 Servt. </salute> 
 WIL ROBERTSON 
 </closer> 
@@ -143,6 +143,8 @@ WIL ROBERTSON
 <note><hi rend="italics">Source copy consulted:</hi>  State Archives, New York State Education Department, Albany. New York Colonial Administrative Records, Series #A1894, Vol. 51, 41a-c. This document was copied for Governor Francis Nicholson's private papers, and was carried by him to New York when he later became governor of that colony. The papers remained in New York, passing into the custody of the State Library which burned around the turn of the twentieth century, causing some damage to this series of records. These records have been transferred to the state archives, and there are several copies of this document in the series. </note>
 
 <note id="n1">[1] John Lightfoot (d. 1707) of New Kent County had been born in England, and was appointed to the Council in 1692. <bibl n="B7">Tinling. <title>The Correspondence of the Three William Byrds. . . .</title> p. 129.</bibl></note>
+
+<lb/><lb/><note><hi rend="italics">This text revised July 1, 2008.</hi></note>
 
 </div1> 
 </back> 

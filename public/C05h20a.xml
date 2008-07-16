@@ -108,7 +108,7 @@ analytical groupings.</p>
 <title>Letter from Robert Carter to William Robinson, August 20, 1705</title>
 </bibl>
 </head>
-<p>Robert Carter advises William Robinson, August 20, 1705, that the new governor, Edward Nott, has agreed to an election for members of the House of Burgesses, and that Robinson's Richmond County neighbor, John Tarpley, then the sherif, will probably work against Robinson's re-election. Carter adds that it will be necessary that complaints about Governor Nicholson's administration, especially about the actions of the collector and of the Naval Officer of the Rappahannock, come from several counties, and that he sends two pages about Nicholson that have been copied from a book.</p>
+<p>Robert Carter advises William Robinson, ca. August 20, 1705, that the new governor, Edward Nott, has agreed to an election for members of the House of Burgesses, and that Robinson's Richmond County neighbor, John Tarpley, then the sherif, will probably work against Robinson's re-election. Carter adds that it will be necessary that complaints about former Governor Nicholson's administration, especially about the actions of the collector and of the Naval Officer of the Rappahannock, come from several counties, and that he sends two pages about Nicholson that have been copied from a book.</p>
 </div1>                 
 </front>
 
@@ -126,26 +126,31 @@ analytical groupings.</p>
 <name type="place"><add n="ed">[Rappahannock, Lancaster County, Virginia]</add></name><lb/> 
  
 <date value="1705-08-20">[ca. August 20, 1705]</date><lb/> 
-Mr. Wm. Robinson<lb/>
+Mr. <abbr expan="William ">Wm. </abbr> Robinson<lb/>
 </dateline> 
  
 </opener> 
  
 <lb/> 
  
-<p>I Waited upon his Excellency <note target="n1">Govr. Nott</note> last week it was <lb/>thn. agreed 
-tht an assembly Should be held to meet the 23d of <lb/>Octobr. &amp; writs for Choosing of burgesses 
-Issud accordingly <lb/>tht you may be early upon your<lb/>guard I thought it not <lb/>amiss to let you Know 
-this, <lb/>to prevent the Designs of yr. <note target="n2">Sheriff</note> who I am <lb/>very apt to think 
+<p>I Waited upon his Excellency <note target="n1">Govr. Nott</note> last week it was <lb/>
+<abbr expan="then ">thn. </abbr> agreed 
+tht an assembly Should be held to meet the 23d of <lb/>
+<abbr expan="October ">Octobr. </abbr> &amp; writs for Choosing of burgesses 
+<sic corr="Issued ">Issud</sic> accordingly <lb/>
+tht you may be early upon your guard I thought it not <lb/>amiss to let you Know 
+this, <del>tht you may be upon your <lb/>
+guard </del>to prevent the Designs of <abbr expan="your ">yr. </abbr> <note target="n2">Sheriff</note> who I am <lb/>
+very apt to think 
 will <add place="supralinear"><sic corr="press">prese</sic> his utmost Endeavors</add> to keep you 
 f<add resp ="editor">[rom]</add> being Elected. <lb/>we Labour under a great Many grievances tht it will 
-<lb/>be necessary to have come from Severall Counties. Should be glad I Knew how to talk wth. you I 
+<lb/>be necessary to have come from <sic corr="Several ">Severall</sic> Counties<lb/>. Should be glad I Knew how to talk wth. you I 
 Mention <lb/>only one at present, tht the trade of our River is very <lb/>much Injured by the unjust 
-b[ehaviou]r of our Collectr. &amp; <lb/>Navall officer in their offices, the former hath <lb/>Exacted Such 
-prodigious fees of a Small Craft tht they <lb/>have in a Mannr. left us</p> 
+b[ehaviou]r of our <abbr expan="Collector ">Collectr. </abbr> &amp; <lb/><sic corr="Naval ">Navall</sic> officer in their offices, the former <sic corr="has ">hath</sic> <lb/>Exacted Such 
+prodigious fees of a Small Craft tht they <lb/>have in a <abbr expan="Manner ">Mannr. </abbr> left us</p> 
  
-<p>I here Send you two leaves, I have had Copied out of a <lb/>printed book, Concerning the behavr. of 
-<note n="FN">Govr. Nicholson</note> <lb/>but there is wanting</p> 
+<p>I here Send you two leaves, I have had Copied out of a <lb/>printed book, Concerning the <abbr expan="behavior ">behavr. </abbr> of 
+<note n="FN"><abbr expan="Governor">Govr. </abbr> Nicholson</note> <lb/>but there is wanting</p> 
  
 
 </div1> 
@@ -162,6 +167,8 @@ prodigious fees of a Small Craft tht they <lb/>have in a Mannr. left us</p>
 15, 1705, and died August 23, 1706.</note> 
  
 <note id="n2">[2] John Tarpley was sheriff of Richmond County in 1705.</note> 
+
+<lb/><lb/><note><hi rend="italics">This text revised July 10, 2008.</hi></note>
  
 </div1> 
 </back> 
