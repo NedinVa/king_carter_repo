@@ -107,18 +107,18 @@
 <dateline>
 <pb n="1"/>
 <name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
-<date value="August 20, 1706">Augt: 20th: 1706</date><lb/>
-[Arthur] Bailey Esqr</dateline>
+<date value="August 20, 1706"><abbr expan="August: ">Augt: </abbr> 20th: 1706</date><lb/>
+<corr resp="editor">[Arthur]</corr> Bailey <abbr expan="Esquire ">Esqr </abbr></dateline>
 </opener>
 
-<salute>Sr</salute>
-<p>I have little to say to you concerning the young Wormelys <lb/>affair in yor hands <note n="GC1">Collo. Corbin</note> &amp; my Self hath drawn <lb/>on you paya<add n="ed">ble]</add>. to me for the <sic corr="sum">Summ</sic> of &pound;14:6:1 being <lb/>due for plank I furnisht <note n="WC1">Collo Churchill</note> wth for the <lb/>new building a mill of theirs &amp; Smiths work for their use </p>  
+<salute><abbr expan="Sir">Sr </abbr></salute>
+<p>I have little to say to you concerning the <note target="n1">young Wormelys</note> <lb/>affair in yor hands <note n="GC1"><abbr expan="Colonel ">Collo. </abbr> Corbin</note> &amp; my Self <sic corr="have ">hath</sic> drawn <lb/>on you paya<add n="ed">ble]</add>. to me for the <sic corr="sum">Summ</sic> of &pound;14:6:1 being <lb/>due for plank I <sic corr="furnished ">furnisht</sic> <note n="WC1"><abbr expan="Colonel ">Collo </abbr> Churchill</note> wth for the <lb/>new building a mill of theirs &amp; Smiths work for their use </p>  
  
-<p>Sometime ago I likewise drew on you for &pound;5 paya. to <lb/><note target="n1">Henry Fox</note> being for Qt Rents for some lands belonging <lb/>to the Wormelys in <name type="county">King Wm. 
-County</name> wch must be pd <lb/>according to time. 
+<p>Sometime ago I likewise drew on you for &pound;5 paya. to <lb/><note target="n2">Henry Fox</note> being for <note target="n3"><abbr expan="Quit ">Qt </abbr> Rents</note> for some lands belonging <lb/>to the Wormelys in <name type="county">King <abbr expan="William ">Wm. </abbr> 
+County</name> wch must be <sic corr="paid ">pd</sic> <lb/>according to time. 
 </p>
  
-<p>After you have pd these Summs I shall desire <sic corr="you'll">youle</sic> pay <lb/>the Balla. due from you to that Estate into the hands of <lb/>Mr <note n="JG">John Goodwin</note> as per the direction of Sr </p>
+<p>After you have <sic corr="paid ">pd</sic> these <sic corr="Sums ">Summs</sic> I shall desire <sic corr="you will">youle</sic> pay <lb/>the <abbr expan="Ballance ">Balla. </abbr> due from you to <note n="RW">that Estate</note> into the hands of <lb/>Mr <note n="JG">John Goodwin</note> as per the direction of <sic corr="Sir">Sr</sic> </p>
 
 <closer>your humble Servant</closer>
 
@@ -134,11 +134,16 @@ County</name> wch must be pd <lb/>according to time.
 <head>NOTES</head>
 <note><hi rend="italics">Source copy consulted:</hi>  Christ Church Parish, Lancaster County, Processioners' Returns, 1711-1783,and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond, 174-75.</note>
 
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note><lb/>
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony
+ have been added for clarity.</note><lb/>
 
+<note id="n1">[1] Carter often referred to in their youth as his "Cozns." Ralph Wormeley (ca. 1681-1714), Ralph Wormeley's (d.1701) oldest son; and John Wormeley (1689-1727) because their parents were his brother- and sister-in-law. He was one of the boys' trustees under their father's will.</note>
 
-<note id="n1">[1] Henry Fox (d. 1714), a justice and burgess of St. John's Parish, King William County. (<cit><bibl n="A25">"Fox Family of King William County, Va."</bibl></cit>)
-</note> 
+<note id="n2">[2] Henry Fox (d. 1714), a justice and burgess of St. John's Parish, King William County. (<cit><bibl n="A25">"Fox Family of King William County, Va."</bibl></cit>)</note> 
+
+<note id="n3">[3] Quit rent was the term used for the payment due from the holder of land to the "lord of the manor," in this case, to the proprietors of the Northern Neck. Carter as the proprietor's agent, collected these payments. No services were required of the landholder as had been true in mediaeval times.</note>
+
+<lb/><lb/><note><hi rend="italics">This text revised July 21, 2008.</hi></note>
 
 </div1>
 </back>

@@ -115,18 +115,18 @@ Mr. John Good[win]
 <salute>Sr.</salute>
 <p>My last to you relating to the Estate of <note n="RW">Esq<add resp="editor">[r Wormeley 
 told]</add></note> <lb/>you tht I had drawn on you for Seventy nine pounds <add resp="editor">[to Mr.]</add> <lb/><note 
-n="WC1">Churchill</note> Esqr. being 
-<unclear>[ . . . ]</unclear> for Negroes I bot of him for <add resp="editor">[the use of the]</add> 
+n="WC1">Churchill</note> <abbr expan="Esquire ">Esqr. </abbr> being 
+<unclear>[ . . . ]</unclear> for Negroes I <sic corr="bought ">bot</sic> of him for <add resp="editor">[the use of the]</add> 
 <lb/>Estate 
 I've Since drawn on you for Two pounds Twe<add resp="editor">[lve shillings]</add> <lb/>to 
-Capt <name type="person">Burford</name> for Impost &amp; Coqt money 
+<abbr expan="Captain ">Capt </abbr> <name type="person">Burford</name> for Impost &amp; <note target="n1"><sic corr="cocket ">Coqt</sic></note> money 
 I desire 
 <add resp="editor">[you to make]</add> <lb/>payment of these Sums &amp; charge the sd Estate &mdash;</p> 
  
 <p>herewth Send you a Bill of Lading for 20 hhds <add resp="editor">[of tobacco per the]</add>  
-<lb/><name type="ship">Mansfeild</name> in the dispose whereof I desire you <add resp="editor">[to use great]</add> 
+<lb/><name type="ship"><sic corr="Mansfield ">Mansfeild</sic></name> in the dispose whereof I desire you <add resp="editor">[to use great]</add> 
 <lb/>care 
-for the Advantage of the Orphans</p>
+for the Advantage of the <note target="n2">Orphans</note></p>
 
 <closer> 
 I remain <lb/>Sr Yor h[umble Servt]
@@ -144,7 +144,15 @@ I remain <lb/>Sr Yor h[umble Servt]
 <head>NOTES</head>
 <note><hi rend="italics">Source copy consulted:</hi>  Christ Church Parish, Lancaster County, Processioners' Returns, 1711-1783, and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond, 169. This undated letter was copied into the letter book with others of this date. </note>
 
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note><lb/>
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note><lb/>
+
+<note id="n1">[1]  The impost was the duty imposed by Britain on imported tobacco, and the cocket (for which a fee was charged) was the certified document issued that the impost had been paid.</note>
+
+<note id="n2">[2] Carter often referred to in their youth as his "Cozns." Ralph Wormeley (ca. 1681-1714), Ralph Wormeley's (d.1701) oldest son; and John Wormeley (1689-1727) because their parents were his brother- and sister-in-law. He was one of the boys' trustees under their father's will.</note>
+
+
+
+<lb/><lb/><note><hi rend="italics">This text revised July 21, 2008.</hi></note>
 
 </div1>
 </back>
