@@ -107,14 +107,14 @@
 <dateline>
 <pb n="1"/>
 <name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
-<date value="1707-02-06">Feb: 6th: 1706 [07]</date><lb/>
+<date value="1707-02-06">Feb: 6th: 1706 <corr resp="editor">[07]</corr></date><lb/>
 Mr. Francis Lee<lb/>
 Sr.</dateline>
 </opener>
 
-<p>Yours of the first of Ocbr. I recd. Am Glad to hear of the Young Worme:<lb/>:leys healths whose Coming in wth. the next Fleet is in all Our Expec:<lb/>:tations &amp; indeed its high time they were here to look into their own <lb/>Concerns Collo. Churchil as he is become their Father is likewise the 
-<lb/>Cheif Govr. of their Estate &amp; to whom in the Main they must apply for <lb/>an Accot. thereof I have done thm. the best Service I could at the distance <lb/>I live but am of late become very much a Stranger to their Affairs <lb/>and So I believe is every body else Concerned I shall not further <lb/>inlarge at present but to desire you to give my Service to the <lb/>Young Gentn. &amp; to Except the Same your Self from&mdash; <lb/><lb/> 
- Sr. Your most Affectionate Countryman <lb/>and humble Servt</p> 
+<p>Yours of the first of <abbr expan="October ">Ocbr. </abbr> I recd. Am Glad to hear of the <note target="n1">Young Worme:<lb/>:leys</note> healths whose Coming in wth. the next Fleet is in all Our Expec:<lb/>:tations &amp; indeed its high time they were here to look into their own <lb/>Concerns <note n="WC1"><abbr expan="Colonel ">Collo. </abbr> <sic corr="Churchill ">Churchil</sic></note> as he is become their Father is likewise the 
+<lb/><sic corr="Chief ">Cheif </sic> <abbr expan="Governor ">Govr.</abbr> of their Estate &amp; to whom in the Main they must apply for <lb/>an Accot. thereof I have done <abbr expan="them ">thm. </abbr> the best Service I could at the distance <lb/>I live but am of late become very much a Stranger to their Affairs <lb/>and So I believe is every body else Concerned I shall not further <lb/><sic corr="enlarge ">inlarge</sic> at present but to desire you to give my Service to the <lb/>Young <abbr expan="Gentlemen ">Gentn. </abbr> &amp; to Except the Same your Self from&mdash; <lb/><lb/> 
+<abbr expan="Sir "> Sr. </abbr> Your most Affectionate Countryman <lb/>and humble Servt</p> 
  
 
 </div1>
@@ -129,7 +129,12 @@ Sr.</dateline>
 <head>NOTES</head>
 <note><hi rend="italics">Source copy consulted:</hi>  Christ Church Parish, Lancaster County, Processioners' Returns, 1711-1783, and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond, 176.</note>
 
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note><lb/>
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note><lb/>
+
+<note id="n1">[1] Carter often referred to in their youth as his "Cozns." Ralph Wormeley (ca. 1681-1714), Ralph Wormeley's (d.1701) oldest son; and John Wormeley (1689-1727) because their parents were his brother- and sister-in-law. He was one of the boys' trustees under their father's will.</note>
+
+
+<lb/><lb/><note><hi rend="italics">This text revised July 31, 2008.</hi></note>
 
 
 

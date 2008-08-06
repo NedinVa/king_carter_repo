@@ -114,13 +114,13 @@ Sr
 </dateline>
 </opener>
 
-<p>I have already writt to you by the Fleet &amp; Consigned you <lb/>Some Tobo. belonging to the Estate I am now upon <lb/>yours of the 29th of Novr. I shall take no further no=<lb/>=tice of the Contents than what relates to the Tobo. on <lb/>board <name type="person"><add  resp="editor">[James]</add> Morgan</name> I hope his missing his port was an <lb/>advantage to it all agree this long Stay of the Convoy <lb/>hath very much raised the price of Tobo.</p> 
+<p>I have already <sic corr="written ">writt</sic> to you by the Fleet &amp; Consigned you <lb/>Some Tobo. belonging to <note n="RW">the Estate</note> I am now upon <lb/>yours of the 29th of <abbr expan="November ">Novr. </abbr> I shall take no further no=<lb/>=tice of the Contents than what relates to the Tobo. on <lb/>board <name type="person"><add  resp="editor">[James]</add> Morgan</name> I hope his missing his port was an <lb/>advantage to it all agree this long Stay of the Convoy <lb/><sic corr="has ">hath</sic> very much raised the price of Tobo.</p> 
                              
-<p>We expect the young Wormelyes will be Sent <lb/>by the next fleet I think their Mother has [engaged]  <lb/>Graves for the bringing them in I desire it <add  resp="editor">[may be so. He]</add> <lb/>promises to be the fittest man for such a <add  resp="editor">[task. I]</add> <lb/>take leave &amp; remain <lb/><lb/>
-Sr<lb/>  
+<p>We expect the <note target="n1">young <sic corr="Wormelys ">Wormelyes</sic></note> will be Sent <lb/>by the next fleet I think their Mother has <corr resp="editor">[engaged]</corr>  <lb/>Graves for the bringing them in I desire it <add  resp="editor">[may be so. He]</add> <lb/>promises to be the fittest man for such a <add  resp="editor">[task. I]</add> <lb/>take leave &amp; remain <lb/><lb/>
+<abbr expan="Sir ">Sr </abbr><lb/>  
 your most humble <add  resp="editor">[Servt]</add></p><lb/><lb/>
  
- <p><seg type="postscript">I have drawn on you for &pound;1:9S:0d to <lb/>Capt. <name type="person">Ben: Silvester</name> &amp; for &pound;3:12 <lb/>to Capt <note target="n1"><name type="person">Tho: Graves</name></note> being for the <lb/>Impost  of Tobo. belonging to the Wormelys <lb/>Estate, must desire you therefore to pay <lb/>them according to time. </seg></p>
+ <p><seg type="postscript">I have drawn on you for &pound;1:9S:0d to <lb/><abbr expan="Captain ">Capt.</abbr> <name type="person">Ben: Silvester</name> &amp; for &pound;3:12 <lb/>to <abbr expan="Captain ">Capt </abbr> <note target="n1"><name type="person"><abbr expan="Thomas ">Tho: </abbr> Graves</name></note> being for the <lb/><note target="n3">Impost</note>  of Tobo. belonging to the Wormelys <lb/>Estate, must desire you therefore to pay <lb/>them according to time. </seg></p>
 
 
 
@@ -135,10 +135,18 @@ your most humble <add  resp="editor">[Servt]</add></p><lb/><lb/>
 <head>NOTES</head>
 <note><hi rend="italics">Source copy consulted:</hi>  Christ Church Parish, Lancaster County, Processioners' Returns, 1711-1783,and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond, 173.</note>
 
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note><lb/>
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note><lb/>
 
-<note id="n1">[1] Thomas Graves commanded the <hi rend="italics">America</hi>, which was, according to the "1700 Convoy List,"  a London vessel of eighteen men and eighteen guns. A naval officer's return shows that she had been built at Ipswich in 1691, was 250 tons in size, and was owned by Sir Richard 
+<note id="n1">[1] Carter often referred to in their youth as his "Cozns." Ralph Wormeley (ca. 1681-1714), Ralph Wormeley's (d.1701) oldest son; and John Wormeley (1689-1727) because their parents were his brother- and sister-in-law. He was one of the boys' trustees under their father's will.</note>
+
+
+<note id="n2">[2] Thomas Graves commanded the <hi rend="italics">America</hi>, which was, according to the "1700 Convoy List,"  a London vessel of eighteen men and eighteen guns. A naval officer's return shows that she had been built at Ipswich in 1691, was 250 tons in size, and was owned by Sir Richard 
 Levett, Robert Bristow, Esq., Arthur Bailey, John Cary, Micajah Perry, Thomas Lane, Anthony [. . .] Hope for Bendall and Mary Johnson. (<cit><bibl n="A19">Middleton,  "The Chesapeake Convoy System, 1662-1763."</bibl></cit> and <cit><bibl n="M4">Naval Officer's Return, 1700 February 19-June 24.</bibl></cit>)</note>
+
+<note id="n3">[3]  The impost was the duty imposed by Britain on imported tobacco.</note>
+
+
+<lb/><lb/><note><hi rend="italics">This text revised July 22, 2008.</hi></note>
 
 </div1>
 </back>
