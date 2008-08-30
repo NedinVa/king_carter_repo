@@ -10,7 +10,7 @@
 <!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
 
 <!NOTATION jpg SYSTEM "jpg">   
-<!ENTITY fig1 SYSTEM "http://etext.virginia.edu/users/berkeley/fig1.jpg" NDATA jpg>  
+<!ENTITY fig1 SYSTEM "http://etext.virginia.edu/users/berkeley/public/fig1.jpg" NDATA jpg>  
 
 <!NOTATION html SYSTEM "HTML">
 <!ENTITY Ext3 SYSTEM "http://www.bodley.ox.ac.uk/cgi-bin/ilej/image1.pl?item=page&seq=1&size=1&id=gm.1732.11.x.2.x.x.1082" NDATA html>

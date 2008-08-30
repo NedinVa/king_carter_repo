@@ -394,7 +394,6 @@ $a =~ s/<div[0-9] type="postscript">//g;
 $a =~ s/<div[0-9] type="figure">//g;
 $a =~ s/<div[0-9] type="section" n="[^>]*">//g;
 
-$a =~ s/<figure entity="fig1">/<img src="\/users\/berkeley\/public\/fig1.jpg" alt="Photograph of the Robert Carter Tomb"\/><h4>Photograph of the Robert Carter Tomb<\/h4></g;
 #cross references
 
 $a =~ s/<xref doc="([^"]*)">/<a href="http:\/\/etext.lib.virginia.edu\/etcbin\/browse-carter?id=$1.xml&images=images\/modeng&data=\/web\/data\/users\/berkeley\&tag=public" target="_wblank">/g;
@@ -402,6 +401,10 @@ $a =~ s/<xref to="Ext1">/<a href="http:\/\/www.abdn.ac.uk\/virtualmuseum\/index.
 $a =~ s/<xref to="Ext2">/<a href="http:\/\/www.angelfire.com\/journal\/millrestoration\/history.html">/g;
 $a =~ s/<xref to="Ext3">/<a href="http:\/\/www.bodley.ox.ac.uk\/cgi-bin\/ilej\/image1.pl?item=page&seq=1&size=1&id=gm.1732.11.x.2.x.x.1082">/g;
 $a =~ s/<\/xref>/<\/a>/g;
+
+#images
+
+$a =~ s/<figure entity="fig1">/<img src="\/users\/berkeley\/public\/fig1.jpg" alt="Photograph of the Robert Carter Tomb" style="width: 600px"><br/>Photograph of the Robert Carter Tomb</image>/g;
 
         print OUTPUT $a;
 }
