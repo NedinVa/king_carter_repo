@@ -404,7 +404,7 @@ $a =~ s/<\/xref>/<\/a>/g;
 
 #images
 
-$a =~ s/<figure entity="fig1">/<img src="\/users\/berkeley\/public\/fig1.jpg" alt="Photograph of the Robert Carter Tomb" style="width: 600px"><br/>Photograph of the Robert Carter Tomb</image>/g;
+$a =~ s/<figure entity="fig1">/<img src="\/users\/berkeley\/public\/fig1.jpg" alt="Photograph of the Robert Carter Tomb" style="width: 600px"><br\/>Photograph of the Robert Carter Tomb<\/image>/g;
 
         print OUTPUT $a;
 }
