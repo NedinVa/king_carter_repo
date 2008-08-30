@@ -48,6 +48,10 @@ width: 30em;
     <blockquote><xsl:apply-templates/></blockquote>
   </xsl:template>
 
+<xsl:template match="figure">
+        <img src="{@entity}"></img>
+</xsl:template>
+
 <xsl:template match="figDesc">
         <P><I><xsl:apply-templates/></I></P>
 </xsl:template>
