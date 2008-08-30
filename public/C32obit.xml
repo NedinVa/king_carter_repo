@@ -13,7 +13,7 @@
 <!ENTITY fig1 SYSTEM "http://etext.virginia.edu/users/berkeley/fig1.jpg" NDATA jpg>  
 
 <!NOTATION html SYSTEM "HTML">
-<!ENTITY Ext1 SYSTEM "http://www.bodley.ox.ac.uk/cgi-bin/ilej/image1.pl?item=page&seq=1&size=1&id=gm.1732.11.x.2.x.x.1082" NDATA html>
+<!ENTITY Ext3 SYSTEM "http://www.bodley.ox.ac.uk/cgi-bin/ilej/image1.pl?item=page&seq=1&size=1&id=gm.1732.11.x.2.x.x.1082" NDATA html>
 
 
 ]>
@@ -167,7 +167,7 @@ of Land, about 1000 <hi rend="italics">Negroes,</hi> and 10,000&pound;.<lb/>
 
 <p><hi rend="italics"><hi rend="bold">TOMB TOP INSCRIPTION</hi></hi></p>
 
-<p><figure entity="fig1.jpg">
+<p><figure entity="fig1">
 <figDesc>Photograph of the Robert Carter Tomb</figDesc>
 </figure>
 </p>
@@ -286,7 +286,7 @@ protector, and father, alike lament his <lb/>
 
 <note id="n5">[5] <cit><bibl><title>The American Weekly Mercury,</title> No. 662, Philadelphia, Thursday, August 31 to Thursday, September 7, 1732.</bibl></cit></note>
 
-<note id="n6">[6] <cit><bibl><title>The Gentleman's Magzzine or Monthly Intelligencer.</title> London. 2[1732 Nov. 2]:1082. Available online at a <xref to="Ext1">Bodley Library site.</xref></bibl></cit></note>
+<note id="n6">[6] <cit><bibl><title>The Gentleman's Magzzine or Monthly Intelligencer.</title> London. 2[1732 Nov. 2]:1082. Available online at a <xref to="Ext3">Bodley Library site.</xref></bibl></cit></note>
 
 
 <note id="n7">[7] The original Latin inscription on Carter's tomb was recorded after 1854 by Bishop William Meade, and published in his <title>Old Churches, Ministers, and Families of Virginia</title> (Philadelphia: J. B. Lippincott Co., 1857), but this text is taken from  <cit><bibl>Katherine L. Brown. <title>Robert "King" Carter: Builder of Christ Church.</title> [Irvington, VA: Foundation for Historic Christ Church, 2001]. p. 82. </bibl></cit>Because the Foundation has custody of the original tomb top, this text is felt to be the most accurate.)</note>
