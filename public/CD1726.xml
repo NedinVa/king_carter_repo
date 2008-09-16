@@ -4,17 +4,13 @@
 
 <!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
 <!NOTATION jpg SYSTEM "JPEG">   
-<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+<!ENTITY Diary1 SYSTEM "http://etext.virginia.edu/users/berkeley/Diary1.jpg" NDATA jpg> 
 
 <!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
 <!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
-
-
-<!NOTATION jpg SYSTEM "jpg">   
-<!ENTITY Diary1 SYSTEM "http://etext.virginia.edu/users/berkeley/Diary1.jpg" NDATA jpg> 
 
 
 
@@ -307,10 +303,10 @@ kards <lb/>
 <pb n="folio 37 recto"/><lb/><lb/>  
 <abbr expan="February">Febry</abbr> 4 1725 <add resp="editor">[1726]</add><lb/>
 
-<p><figure entity="Diary1.jpg">
+<figure entity="Diary1.jpg">
 <figDesc>Portion of 1725[26] diary page</figDesc>
 </figure>
-</p>
+
 
  Lawrence had my Sloop out of the <lb/>Creek  had a new Cable new <sic corr="sails">Sailes</sic> new <lb/>
 Hall<add resp="editor">[iar]</add>ds <sic corr="tackle">Takle</sic> &amp;c <lb/>
