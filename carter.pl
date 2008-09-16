@@ -406,6 +406,9 @@ $a =~ s/<\/xref>/<\/a>/g;
 
 $a =~ s/<figure entity="fig1">/<img src="\/users\/berkeley\/public\/fig1.jpg" alt="Photograph of the Robert Carter Tomb" style="width: 600px"><br\/>Photograph of the Robert Carter Tomb<\/image>/g;
 
+$a =~ s/<figure entity="Diary1">/<img src="\/users\/berkeley\/public\/Diary1.jpg" alt="Portion of 1725[26] diary page" style="width: 600px"><br\/>Portion of 1725[26] diary page<\/image>/g;
+
+
         print OUTPUT $a;
 }
 close(OUTPUT);        

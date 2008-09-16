@@ -14,6 +14,10 @@
 <TEI.2 id="CD1726">
 
 
+<!NOTATION jpg SYSTEM "jpg">   
+<!ENTITY fig1 SYSTEM "http://etext.virginia.edu/users/berkeley/Diary1.jpg" NDATA jpg> 
+
+
 <teiHeader type="aacr2">
              
 <fileDesc>
@@ -296,7 +300,12 @@ kards <lb/>
 
 
 
-<pb n="folio 37 recto"/><lb/><lb/>  
+<pb n="folio 37 recto"/><lb/><lb/>
+<p><figure entity="Diary1.jpg">
+<figDesc>Portion of 1725[26] diary page</figDesc>
+</figure>
+</p>
+  
 <abbr expan="February">Febry</abbr> 4 1725 <add resp="editor">[1726]</add><lb/>
  Lawrence had my Sloop out of the <lb/>Creek  had a new Cable new <sic corr="sails">Sailes</sic> new <lb/>
 Hall<add resp="editor">[iar]</add>ds <sic corr="tackle">Takle</sic> &amp;c <lb/>
