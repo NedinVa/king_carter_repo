@@ -14,7 +14,7 @@
 
 
 <!NOTATION jpg SYSTEM "jpg">   
-<!ENTITY fig1 SYSTEM "http://etext.virginia.edu/users/berkeley/Diary1.jpg" NDATA jpg> 
+<!ENTITY Diary1 SYSTEM "http://etext.virginia.edu/users/berkeley/Diary1.jpg" NDATA jpg> 
 
 
 
