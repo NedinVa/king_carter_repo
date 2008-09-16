@@ -10,12 +10,16 @@
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
-<TEI.2 id="CD1726">
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
 
 
 <!NOTATION jpg SYSTEM "jpg">   
 <!ENTITY fig1 SYSTEM "http://etext.virginia.edu/users/berkeley/Diary1.jpg" NDATA jpg> 
+
+
+
+ ]>
+<TEI.2 id="CD1726">
 
 
 <teiHeader type="aacr2">
@@ -300,13 +304,14 @@ kards <lb/>
 
 
 
-<pb n="folio 37 recto"/><lb/><lb/>
+<pb n="folio 37 recto"/><lb/><lb/>  
+<abbr expan="February">Febry</abbr> 4 1725 <add resp="editor">[1726]</add><lb/>
+
 <p><figure entity="Diary1.jpg">
 <figDesc>Portion of 1725[26] diary page</figDesc>
 </figure>
 </p>
-  
-<abbr expan="February">Febry</abbr> 4 1725 <add resp="editor">[1726]</add><lb/>
+
  Lawrence had my Sloop out of the <lb/>Creek  had a new Cable new <sic corr="sails">Sailes</sic> new <lb/>
 Hall<add resp="editor">[iar]</add>ds <sic corr="tackle">Takle</sic> &amp;c <lb/>
 <note n="JCP">Daughter Page</note> sent me 2 pols <add resp="editor"> [<hi rend="italics">sic</hi>]</add> butter <lb/>
