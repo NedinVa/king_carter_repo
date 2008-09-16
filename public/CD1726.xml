@@ -4,7 +4,7 @@
 
 <!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
 <!NOTATION jpg SYSTEM "JPEG">   
-<!ENTITY Diary1 SYSTEM "http://etext.virginia.edu/users/berkeley/Diary1.jpg" NDATA jpg> 
+<!ENTITY Diary1 SYSTEM "http://etext.virginia.edu/users/berkeley/public/Diary1.jpg" NDATA jpg> 
 
 <!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
