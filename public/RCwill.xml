@@ -4,13 +4,17 @@
 
 <!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
 <!NOTATION jpg SYSTEM "JPEG">   
-<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+<!ENTITY filename SYSTEM "http://etext.virginia.edu/users/berkeley/public/church.jpg" NDATA jpg>  
 
 <!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+
+ ]>
+
+
 <TEI.2 id="RCwill">
 
 
@@ -122,6 +126,9 @@ Virginia <abbr expan="Esquire">Esqr.</abbr> being in a sickly declining state of
 but of sound mind and memory (to God be the praise) <lb/>
 and being now in the sixty third year of my age do make <lb/>
 this my last will and Testament.</p>
+
+<figure entity="church.jpg"><figDesc><hi rend="italics"><hi rend="bold">Photograph of Christ Church, Lancaster County; <lb/>the Carter tombs shown to the right of the building.</hi></hi></figDesc> float:"right"</figure>
+
 
 <p>I resign my soul to God as into the hands of a Faithfull <lb/>
 Creator and my Body (when it shall please him to take <lb/>
