@@ -3,14 +3,16 @@
 <?xml-stylesheet href="carter.xsl" type="text/xsl"?>
 
 <!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
-<!NOTATION jpg SYSTEM "JPEG">   
-<!ENTITY filename SYSTEM "http://etext.virginia.edu/users/berkeley/public/church.jpg" NDATA jpg>  
-
 <!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
 <!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY church SYSTEM "http://etext.virginia.edu/users/berkeley/public/church.jpg" NDATA jpg>  
+
+
 
  ]>
 
@@ -127,7 +129,7 @@ but of sound mind and memory (to God be the praise) <lb/>
 and being now in the sixty third year of my age do make <lb/>
 this my last will and Testament.</p>
 
-<figure entity="church" float="right"><figDesc><hi rend="italics"><hi rend="bold">Photograph of Christ Church, Lancaster County; <lb/>the Carter tombs are to the right of the building.</hi></hi></figDesc></figure>
+<figure entity="church" style="float :right"><figDesc><hi rend="italics"><hi rend="bold">Photograph of Christ Church, Lancaster County; <lb/>the Carter tombs are to the right of the building.</hi></hi></figDesc></figure>
 
 
 <p>I resign my soul to God as into the hands of a Faithfull <lb/>
