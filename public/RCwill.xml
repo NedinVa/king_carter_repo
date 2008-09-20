@@ -9,10 +9,8 @@
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
 <!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
 
-<!NOTATION jpg SYSTEM "JPEG">   
+<!NOTATION jpg SYSTEM "jpg">   
 <!ENTITY church SYSTEM "http://etext.virginia.edu/users/berkeley/public/church.jpg" NDATA jpg>  
-
-
 
  ]>
 
@@ -107,7 +105,7 @@
 
 
 <body>
-<div1 type="letter" n="1">
+<div1 type="document" n="1">
 <head>Robert Carter's Will and Codicils, 1726-1732, Admitted to Probate in the General Court, October 16, 1732</head>
 <opener>
 <dateline>
@@ -129,7 +127,7 @@ but of sound mind and memory (to God be the praise) <lb/>
 and being now in the sixty third year of my age do make <lb/>
 this my last will and Testament.</p>
 
-<figure entity="church"><figDesc><hi rend="italics"><hi rend="bold">Photograph of Christ Church, Lancaster County; <lb/>the Carter tombs are to the right of the building.</hi></hi> alt="Photograph of Christ Church, Lancaster County; <lb/>the Carter tombs are to the right of the building."</figDesc></figure>
+<figure entity="church"><figDesc><hi rend="italics"><hi rend="bold">Photograph of Christ Church, Lancaster County; <lb/>the Carter tombs are to the right of the building.</hi></hi> </figDesc></figure>
 
 
 <p>I resign my soul to God as into the hands of a Faithfull <lb/>
@@ -1618,7 +1616,7 @@ John Harvey <lb/>
 <abbr expan="Richard">Richd.</abbr> Talent <lb/>
 <note target="n48">John Conner </note><lb/>
 Arthur Neale<lb/>
-
+
 <lb/><add resp="editor">[Third Codicil, 1730 June 9]</add> </p>
 
 <p>In the name of God Amen I Robert Carter <abbr expan="Esquire">Esqr.</abbr> of <lb/>
