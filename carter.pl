@@ -408,7 +408,7 @@ $a =~ s/<figure entity="fig1">/<img src="\/users\/berkeley\/public\/fig1.jpg" al
 
 $a =~ s/<figure entity="Diary1">/<img src="\/users\/berkeley\/public\/Diary1.jpg" alt="" style="width: 900px"><br\/><\/image>/g;
 
-$a =~ s/<figure entity="Church">/<img src="\/users\/berkeley\/public\/Church.jpg"  float="right" alt="" style="width: 200px"><br\/><\/image>/g;
+$a =~ s/<figure entity="Church">/<img src="\/users\/berkeley\/public\/church.jpg"  alt="" style="width: 200px"><br\/><\/image>/g;
 
 
 
