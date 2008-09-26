@@ -405,14 +405,14 @@ $a =~ s/<\/xref>/<\/a>/g;
 
 #images
 
-$a =~ s/<figure entity="fig1">/<div style="float:right;"><img src="\/users\/berkeley\/public\/fig1.jpg" alt="Photograph of the Robert Carter Tomb" style="width:600px;"><br\/>Photography of the Robert Carter Tomb<\/image><\/div>/g;
+$a =~ s/<figure entity="fig1">/<img src="\/users\/berkeley\/public\/fig1.jpg" alt="Photograph of the Robert Carter Tomb" style="width:600px; float:right;"><br\/><\/image>/g;
 
-$a =~ s/<figure entity="Diary1">/<div style="float:right;"><img src="\/users\/berkeley\/public\/Diary1.jpg" alt="" style="width:900px;"><br\/><\/image><\/div>/g;
+$a =~ s/<figure entity="Diary1">/<img src="\/users\/berkeley\/public\/Diary1.jpg" alt="" style="width:900px; float:right;"><br\/><\/image>/g;
 
-$a =~ s/<figure entity="church">/<div style="float:right;"><img src="\/users\/berkeley\/public\/church.jpg"  alt="" style="width:600px;"><br\/><\/image><\/div>/g;
+$a =~ s/<figure entity="church">/<img src="\/users\/berkeley\/public\/church.jpg"  alt="" style="width:600px; float:right;"><br\/><\/image>/g;
 
-$a =~ s/<figDesc>/<div class="figdesc" style="display:none;">/g;
-$a =~ s/<\/figDesc>/<\/div>/g;
+$a =~ s/<figDesc>/<span class="figdesc">/g;
+$a =~ s/<\/figDesc>/<\/span>/g;
 
         print OUTPUT $a;
 }
