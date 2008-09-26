@@ -497,11 +497,14 @@ $a =~ s/<\/xref>/<\/a>/g;
 
 #images
 
-$a =~ s/<figure entity="fig1">/<img src="\/users\/berkeley\/public\/fig1.jpg" alt="" style="width:600px; float:right;"><br\/><\/image>/g;
+$a =~ s/<figure entity="fig1">/<img src="\/users\/berkeley\/public\/fig1.jpg" alt="Photograph of the Robert Carter Tomb" style="width:600px; float:right;"><br\/><\/image>/g;
 
 $a =~ s/<figure entity="Diary1">/<img src="\/users\/berkeley\/public\/Diary1.jpg" alt="" style="width:900px; float:right;"><br\/><\/image>/g;
 
 $a =~ s/<figure entity="church">/<img src="\/users\/berkeley\/public\/church.jpg"  alt="" style="width:600px; float:right;"><br\/><\/image>/g;
+
+$a =~ s/<figdesc>/<div class="figdesc" style="float:right;">/g;
+$a =~ s/<\/figdesc>/<\/div>/g;
 
         print OUTPUT $a;
 }
