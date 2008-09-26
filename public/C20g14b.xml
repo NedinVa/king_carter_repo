@@ -18,14 +18,16 @@
              
 <fileDesc>
 <titleStmt>
-     <title type="245">Letter from Robert Carter to Thomas Evans, July 14, 1720</title>
+     <title type="245">Letter from Robert Carter to Thomas Evans,
+July 14, 1720</title>
    <title type="gmd">[electronic resource]</title>
      <author>Carter, Robert</author>
    <respStmt>
      <resp>Creation of machine-readable version: </resp>
      <name id="editor">Edmund Berkeley, Jr.</name>
      <resp>Conversion to TEI.2-conformant markup</resp>
-     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+     <name>Edmund Berkeley, Jr. and the University of Virginia
+Library Electronic Text Center</name>
    </respStmt>
 </titleStmt>
 
@@ -37,7 +39,8 @@
      <idno type="ETC">filename</idno>
      <availability>
      <p>Publicly accessible</p>
-     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+     <p n="public">URL:
+http://etext.lib.virginia.edu/users/berkeley/</p>
          </availability>
      <date>2001</date>
 </publicationStmt>
@@ -45,13 +48,16 @@
 <sourceDesc>
      <biblFull>
      <titleStmt>
-     <title>Letter from Robert Carter to Thomas Evans, July 14, 1720</title>
+     <title>Letter from Robert Carter to Thomas Evans, July 14,
+1720</title>
      <author>Robert Carter</author>
 </titleStmt>
     <extent>1 p.</extent>
 <publicationStmt>
      <date>unpublished</date>
-   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California.</idno>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter
+Book, 1720 July-1721 July, BR 227, Huntington Library, Art
+Collections, and Botanical Gardens, San Marino, California.</idno>
 </publicationStmt>
 </biblFull>
 </sourceDesc>
@@ -59,14 +65,17 @@
 </fileDesc>
      <encodingDesc>
      <projectDesc>
-     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     <p>Prepared for the University of Virginia Library Electronic
+Text Center.</p>
      </projectDesc>
 <editorialDecl>
-     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+     <p>Some keywords in the header are a local electronic Text
+Center scheme to aid in  establishing analytical groupings.</p>
 </editorialDecl>
 
 <classDecl>
-     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject
+Headings</title></bibl></taxonomy>
 </classDecl>
 </encodingDesc>
 
@@ -75,7 +84,8 @@
      <langUsage><language id="eng"></language></langUsage>
      <textClass>
      <keywords><term>non-fiction</term><term>prose</term></keywords>
-     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     <keywords scheme="LCSH"><term
+type="Field650">LCSH</term></keywords>
      </textClass>
 </profileDesc>
 
@@ -91,10 +101,26 @@
 <extent>1 pp.</extent>
 <date value="1720-07-14"></date>
 <idno rend="suppress">C20g14b</idno>
-<title>Letter from Robert Carter to Thomas Evans, July 14, 1720</title>
+<title>Letter from Robert Carter to Thomas Evans, July 14,
+1720</title>
 </bibl>
 </head>
-<p>Robert Carter writes to London merchant Thomas Evans, July 14, 1720, concerning information Evans has sent him about the Manchester School which Carter had considered as one to which to transfer his sons, but he finds the fees much higher than he had understood. He reports that William Dawkins has written of the good progress that his sons are making at their present school and that he will leave them there for the present. He encloses a bill of lading for tobacco and expresses the hope that, with the Spanish and French markets now being open, his tobacco sales prices will be good. An invoice for goods is inclosed, he writes, and gives order for the shipping. Another bill of lading is enclosed for ten hogsheads on board the Mercury, and he reports bills of exchange he has drawn on Evans to Robert Tucker and Captain Christall of the Mercury.</p>
+<p>Robert Carter writes to London merchant Thomas Evans, July 14,
+1720, concerning information Evans has sent him about the Manchester
+School which Carter had considered as one to which to transfer his
+sons, but he finds the fees much higher than he had understood. He
+reports that William Dawkins has written of the good progress that
+his sons are making at their present school and that he will leave
+them there for the present. He encloses a bill of lading (not
+present) for tobacco
+and expresses the hope that, with the Spanish and French markets now
+being open, his tobacco sales prices will be good. An invoice for
+goods is inclosed (not present), he writes, and gives orders for the
+shipping.
+Another bill of lading (not present) is enclosed for ten hogsheads
+on board the
+Mercury, and he reports bills of exchange he has drawn on Evans to
+Robert Tucker and Captain Christall of the Mercury.</p>
 </div1>                 
 </front>
 
@@ -102,35 +128,83 @@
 
 <body>
 <div1 type="letter" n="1">
-<head>Letter from Robert Carter to <note n="TE">Thomas Evans,</note> July 14, 1720</head>
+<head>Letter from Robert Carter to <note n="TE">Thomas Evans,</note>
+July 14, 1720</head>
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster
+County, Virginia]</add></name><lb/>
 <date value="1720-07-14">July 14th. 1720</date><lb/>
-Mr. Thos. Evans<lb/>
+Mr. <abbr expan="Thomas ">Thos. </abbr> Evans<lb/>
 </dateline>
 <salute>Sir&mdash;</salute>
 
 </opener>
 
-<p>I have lately received Yor. Letter of the 18th. of Feb <lb/>relateing to the Affair of the <note target="n1">Manchester School.</note> The Prices are consid=<lb/>=erably higher than I was <sic corr="informed">Informd</sic> I find but <sic corr="yet">yett</sic> bear no man<lb/>=ner of proportion to those near London. however I cannot <lb/>Think of coming to any <abbr expan="fixed">fix'd</abbr>
- resolution Suddenly, Mr. Dawkins <lb/>hath <abbr expan="placed">plac'd</abbr>
- my boys to a very good man and their <abbr expan="improvements">Improvemts.</abbr>
- <lb/>are as large as I could Expect in the time altho they cost me <lb/>abundance of money. I will Struggle to keep them where <lb/>They are a little longer and <sic corr="yet">yett</sic> I take It as a very particular <lb/>obligation, That You have bin so diligent in giving me so Early <lb/>and full an <sic corr="answer">ansr.</sic> to my <abbr expan="letter">Lettr.</abbr>
- upon That Subject. how I Shall <lb/>Govern my self hereafter can not at present Determine,</p>
+<p>I have lately received Yor. Letter of the 18th. of <abbr
+expan="February ">Feb </abbr>
+<lb/>relateing to the Affair of the <note target="n1">Manchester
+School.</note> The Prices are consid=<lb/>=erably higher than I was
+<sic corr="informed">Informd</sic> I find but <sic
+corr="yet">yett</sic> bear no man<lb/>=ner of proportion to those
+near London. however I cannot <lb/>Think of coming to any <abbr
+expan="fixed">fix'd</abbr>
+ resolution Suddenly, <note n="WD">Mr. Dawkins</note> <lb/><sic
+corr="has ">hath </sic> <abbr
+expan="placed">plac'd</abbr>
+ my boys to a very good man and their <abbr
+expan="improvements">Improvemts.</abbr>
+ <lb/>are as large as I could Expect in the time altho they cost me
+<lb/>abundance of money. I will Struggle to keep them where <lb/>They
+are a little longer and <sic corr="yet">yett</sic> I take It as a
+very particular <lb/>obligation, That You have bin so diligent in
+giving me so Early <lb/>and full an <sic corr="answer">ansr.</sic> to
+my <abbr expan="letter">Lettr.</abbr>
+ upon That Subject. how I Shall <lb/>Govern my self hereafter can
+not at present Determine,</p>
 
-<p>Herein comes a bill of Lading for [ . . . ] hogsheads of <lb/>Tobo. all of of them strait laid &amp; <sic corr="stemmed">stem'd</sic> Except one, I am <lb/>in hopes the Spring coming on and the French &amp; Spanish <lb/>Trades being both open, The Price of our commodity will <lb/>not flagg, some people have news that Tobo. was <sic corr="raised">raisd</sic> in <lb/>Holland two Stivers in the pound and in Glasgow they Say <sic corr="it was">twas</sic> <lb/>a penny a pound higher Than It had bin these things flatter <lb/>me tht.<del>remainder of</del>  my <del>Tobo.</del> last sales will not be worse <lb/>Than my first,</p>
+<p>Herein comes a bill of Lading for [ . . . ] hogsheads of
+<lb/>Tobo. all of of them strait laid &amp; <sic
+corr="stemmed">stem'd</sic> Except one, I am <lb/>in hopes the Spring
+coming on and the French &amp; Spanish <lb/>Trades being both open,
+The Price of our commodity will <lb/>not <sic corr="flagg,
+">flagg,</sic> some people have news
+that Tobo. was <sic corr="raised">raisd</sic> in <lb/>Holland two
+<note target="n2">Stivers</note> in the pound and in Glasgow they
+Say <sic corr="it
+was">twas</sic> <lb/>a penny a pound higher Than It had bin these
+things flatter <lb/>me tht.<del>remainder of</del>  my
+<del>Tobo.</del> last sales will not be worse <lb/>Than my first,</p>
 
-<p>Herein I also send an <sic corr="invoice">Invoyce</sic> for some <sic corr="goods">gds</sic> <lb/>wch. I desire may be sent in some good Ship bound to o<add resp="editor">[ur]</add> <lb/>river or <sic corr="Piankatank">Peankitank</sic>, <note n="CS">The Carter</note> If she comes will go <lb/><sic corr="near">neer</sic> to bring my goods from <note n="WD">Mr. Dawkins</note> I had <lb/>rather You'd find a <sic corr="berth">birth</sic> in another Good Ship If You can <lb/>Richardson is a good man but I doubt his owners will <lb/>not lett him take any Goods in for me, There is no very <lb/>good understanding between us</p>
+<p>Herein I also send an <sic corr="invoice">Invoyce</sic> for some
+<sic corr="goods">gds</sic> <lb/>wch. I desire may be sent in some
+good Ship bound to o<add resp="editor">[ur]</add> <lb/>river or <sic
+corr="Piancatank">Peankitank</sic>, <note n="CS">The Carter</note> If
+she comes will go <lb/><sic corr="near">neer</sic> to bring my goods
+from Mr. Dawkins I had <lb/>rather You'd find a
+<sic corr="berth">birth</sic> in another Good Ship If You can
+<lb/>Richardson is a good man but I doubt his owners will <lb/>not
+<sic corr="let ">lett</sic> him take any Goods in for me, There is
+no very <lb/>good
+understanding between us</p>
 
-<p><add resp="editor">[tobacco mark]</add> The 6 hogsheads of this Mark are Stem'd <lb/>but not Straight laid</p>
+<p><add resp="editor">[tobacco mark]</add> The 6 hogsheads of this
+Mark are <sic corr="Stemmed">Stem'd</sic> <lb/>but not Straight
+laid</p>
 
-<p>There was 6 hogsheads more for you aboard the Carter herein is a bill <lb/>of Lading for Ten hogsheads Tobo aboard the <note target="n2">Mercury</note>. I have <lb/>Drawn on You this Day for fifty pounds to Mr. <note target="n3"><abbr expan="Robert">Robt.</abbr>
- <lb/>Tucker</note> wch. Desire Yor. <abbr expan="payment">Paymt.</abbr>
- of, also for &pound;2"19 to <lb/>to [<hi rend="italics">sic</hi>] Captn. Christall, I am</p>
+<p>There was 6 hogsheads more for you aboard the Carter herein is a
+bill <lb/>of Lading for Ten hogsheads Tobo aboard the <note
+target="n3">Mercury</note>. I have <lb/>Drawn on You this Day for
+fifty pounds to Mr. <note target="n4"><abbr
+expan="Robert">Robt.</abbr>
+ <lb/>Tucker</note> wch. Desire Yor. <abbr
+expan="payment">Paymt.</abbr>
+ of, also for &pound;2"19 to <lb/>to [<hi rend="italics">sic</hi>]
+<abbr expan="Captain ">Captn.</abbr> Christall, I am</p>
 
-<closer>Yor. Humble Servt.<lb/><lb/><seg type="postscript"><note target="n4">July 27th1720</note></seg> </closer>
+<closer>Yor. Humble Servt.<lb/><lb/><seg type="postscript"><note
+target="n5">July 27th1720</note></seg> </closer>
 
 </div1>
 
@@ -142,18 +216,52 @@ Mr. Thos. Evans<lb/>
 
 <div1 type="back matter">
 <head>NOTES</head>
-<note><hi rend="italics">Source copy consulted:</hi>  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. Printed: <cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> pp. 23-25.</bibl></cit>
+<note><hi rend="italics">Source copy consulted:</hi>  Robert Carter
+Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art
+Collections, and Botanical Gardens, San Marino, California. Printed:
+<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . .
+.</title> pp. 23-25.</bibl></cit>
 </note>
 
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note><lb/>
+<note>Robert Carter generally used a return address of
+"Rappahannock" for the river on which he lived rather than
+"Corotoman," the name of his home, on his correspondence, especially
+to merchants abroad. The county and colony have been added for
+clarity.</note><lb/>
 
-<note id="n1">[1] RC undoubtedly knew of the Manchester Grammar School, in 1720 already over 200 years old. </note>
+<note id="n1">[1] RC undoubtedly knew of the Manchester Grammar
+School, in 1720 already over 200 years old. </note>
 
-<note id="n2">[2] The <hi rend="italics">Mercury</hi> was a slave ship owned by Francis Chamberlayne and Francis Sitwell, merchants in Barbados. See RC's letters to Micajah and Richard Perry, July 27, 1720, and those to Chamberlayne &amp; Sitwell of July 27 and September 27, 1720, for his reports of his involvement in the sale of her cargo of slaves.  (<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> p. 40.</bibl></cit>)</note>
+<note id="n2">[2] A stiver is "a small coin (originally silver) of
+the Low Countries; applied to the nickel piece 
+of 5 cents of the Netherlands (one-twentieth of a florin or gulden,
+or about a penny English)." 
+(<cit><bibl><title>Oxford English
+Dictionary</title></bibl></cit>)</note>
 
-<note id="n3">[3] Robert Tucker, RC's partner in the sale of the cargo of slaves from the <hi rend="italics">Mercury,</hi> may have been Robert Tucker (d. 1722), a merchant and justice of Norfolk County as one of the letters to Chamberlayne and Sitwell mentions that Tucker will report concerning the sales of slaves on James River. (<cit><bibl>"Council Proceedings, 1716-1717," <title>Virginia Magazine of History and Biography. </title>4(April 1897): 360-61</bibl></cit>)</note>
 
-<note id="n4">[4] The significance of the date at the foot of the letter is unclear; perhaps it means the date on which the several copies for sending were prepared from the draft in the letter book.</note>
+<note id="n3">[3] The <hi rend="italics">Mercury</hi> was a slave
+ship owned by Francis Chamberlayne and Francis Sitwell, merchants in
+Barbados. See RC's letters to Micajah and Richard Perry, July 27,
+1720, and those to Chamberlayne &amp; Sitwell of July 27 and
+September 27, 1720, for his reports of his involvement in the sale of
+her cargo of slaves.  (<cit><bibl n="B12">Wright. <title>Letters of
+Robert Carter. . . .</title> p. 40.</bibl></cit>)</note>
+
+
+<note id="n4">[4] Robert Tucker, RC's partner in the sale of the
+cargo of slaves from the <hi rend="italics">Mercury,</hi> may have
+been Robert Tucker (d. 1722), a merchant and justice of Norfolk
+County as one of the letters to Chamberlayne and Sitwell mentions
+that Tucker will report concerning the sales of slaves on James
+River. (<cit><bibl>"Council Proceedings, 1716-1717," <title>Virginia
+Magazine of History and Biography. </title>4(April 1897): 360-
+61</bibl></cit>)</note>
+
+<note id="n5">[5] The significance of the date at the foot of the
+letter is unclear; perhaps it means the date on which the several
+copies for sending were prepared from the draft in the letter
+book.</note>
 
 
 </div1>
