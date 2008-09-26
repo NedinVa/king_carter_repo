@@ -36,19 +36,14 @@ $a =~ s/<!ENTITY % ISOnum SYSTEM  "ISOnum.pen"> %ISOnum;//g;
 $a =~ s/<!ENTITY % ISOpub SYSTEM  "ISOpub.pen"> %ISOpub;//g;
 $a =~ s/<!ENTITY % ISOtech SYSTEM  "ISOtech.pen"> %ISOtech;//g;
 $a =~ s/<\?xml version=\"1\.0\"\?>//g;
-$a =~ s/<\?xml-stylesheet href=\"carter\.xsl\"
-type=\"text\/xsl\"\?>//g; 
+$a =~ s/<\?xml-stylesheet href=\"carter\.xsl\" type=\"text\/xsl\"\?>//g; 
 
 $a =~ s/<sic corr="[^"]*">([^<]*)<\/sic>/ $1 /g;
 $a =~ s/<sic corr="[^"]*">([^<]*)<lb\/>([^<]*)<\/sic>/ $1$2 <br> /g;
   
 
-$a =~ s/<note n="([^"]*)">/<a
-href="http:\/\/etext.lib.virginia.edu\/users\/berkeley\/public\/Cbiodi
-r.html#$1">/g;
-$a =~ s/<bibl n="([^"]*)">/<a
-href="http:\/\/etext.lib.virginia.edu\/users\/berkeley\/public\/Cbibl.
-html#$1">/g;
+$a =~ s/<note n="([^"]*)">/<a href="http:\/\/etext.lib.virginia.edu\/users\/berkeley\/public\/Cbiodir.html#$1">/g;
+$a =~ s/<bibl n="([^"]*)">/<a href="http:\/\/etext.lib.virginia.edu\/users\/berkeley\/public\/Cbibl.html#$1">/g;
 $a =~ s/<\/bibl>/<\/a>/g;
 
 $a =~ s/<ref target="([^"]*)">/<a href="#$1">/g;
@@ -74,8 +69,7 @@ $a =~ s/<\/profileDesc>/ /g;
 $a =~ s/<fileDesc>//g;
 $a =~ s/<sourceDesc>//g;
 
-$a =~ s/<div1 type="summary"
-n="1">/<center><i>Summary<\/i><\/center><br>/g;
+$a =~ s/<div1 type="summary" n="1">/<center><i>Summary<\/i><\/center><br>/g;
 
 $a =~ s/<abbr>AL<\/abbr>//g;
 $a =~ s/<abbr>AL<\/abbr>//g;
@@ -100,8 +94,7 @@ $a =~ s/<name type="place" rend="suppress">[^<]*<\/place>//g;
 
 $a =~ s/<lb\/>/<br>/g;
 $a =~ s/<pb\/>/<hr>/g;
-$a =~ s/<pb n="([^"]*)"\/>/<hr width="75%"><center>-<i>$1<\/i>-
-<\/center><br>/g;
+$a =~ s/<pb n="([^"]*)"\/>/<hr width="75%"><center>-<i>$1<\/i>-<\/center><br>/g;
 
 $a =~ s/<name type="sender">[^<]*<\/name>//g;
 $a =~ s/<name type="addressee">[^<]*<\/name>//g;
@@ -151,10 +144,8 @@ $a =~ s/<div1 type="entry" id="[^"]*">//g;
 
 $a =~ s/<note rend="suppress">[^<]*<\/note>/ /g;
 
-$a =~ s/<gap>/ <i>[<\/i><font color="magenta"> ... <\/font><i>]<\/i>
-/g;
-$a =~ s/<gap reason=[^>]*>/<i>[<\/i><font color="magenta"> ...
-<\/font><i>]<\/i> /g;
+$a =~ s/<gap>/ <i>[<\/i><font color="magenta"> ... <\/font><i>]<\/i>/g;
+$a =~ s/<gap reason=[^>]*>/<i>[<\/i><font color="magenta"> ...<\/font><i>]<\/i> /g;
 
 $a =~ s/\&plus\;/<b>+<\/b>/g;
 
@@ -164,28 +155,17 @@ $a =~ s/<hi rend="hand">//g;
 $a =~ s/<hi rend="type">//g;
 $a =~ s/<hi rend="stamp">//g;
 
-$a =~ s/<l n="([^"]*)" rend="indent">/<BR>$1:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/g;
-$a =~ s/<l n="([^"]*)" rend="indent1">/<BR>$1:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/g;
-$a =~ s/<l n="([^"]*)" rend="indent2">/<BR>$1:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/g;
-$a =~ s/<l n="([^"]*)" rend="indent3">/<BR>$1:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
-p;&nbsp;&nbsp;&nbsp;/g;
+$a =~ s/<l n="([^"]*)" rend="indent">/<BR>$1:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/g;
+$a =~ s/<l n="([^"]*)" rend="indent1">/<BR>$1:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/g;
+$a =~ s/<l n="([^"]*)" rend="indent2">/<BR>$1:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/g;
+$a =~ s/<l n="([^"]*)" rend="indent3">/<BR>$1:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/g;
 
-$a =~ s/<p
-rend="indent2">/<p>\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&n
-bsp\;\&nbsp\;\&nbsp\;\&nbsp\;/g;
-$a =~ s/<p
-rend="indent3">/<p>\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&n
-bsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;/
-g;
+$a =~ s/<p rend="indent2">/<p>\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;/g;
+$a =~ s/<p rend="indent3">/<p>\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;/g;
 
 #Civil War diary -- add to valley2html
 
-$a =~ s/<milestone unit="section"
-n="([^"]*)">/<center><br><i>$1<\/i><\/center>/g;
+$a =~ s/<milestone unit="section"n="([^"]*)">/<center><br><i>$1<\/i><\/center>/g;
 
 $a =~ s/<div1 type="diary-year" n= "[^"]*" id="[^"]*">//g;
 $a =~ s/<div1 type="Biography">//g;
@@ -265,8 +245,7 @@ $a =~ s/<l n="([^>]*)">/<br><i>$1: <\/i> /g;
 
        $a =~ s/<l n="([0-9]*)" ana="[^"]*">/<br><i>$1:<\/i> /g;
 
-        $a =~ s/<l
-rend="center">([^<]*)<\/l>/<center>$1<\/center><br>/g;
+        $a =~ s/<l rend="center">([^<]*)<\/l>/<center>$1<\/center><br>/g;
         $a =~ s/<\/l>//g;
        
         $a =~ s/<l n="([0-9\.]*)">/ <i>$1:<\/i> /g;
@@ -279,8 +258,7 @@ rend="center">([^<]*)<\/l>/<center>$1<\/center><br>/g;
 
 $a =~ s/<l rend="4">/&nbsp;&nbsp;&nbsp;&nbsp;/g;
 $a =~ s/<l rend="5">/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/g;
-$a =~ s/<l
-rend="10">/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/g;
+$a =~ s/<l rend="10">/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/g;
 $a =~ s/<l>/<br>/g;
 
 $a =~ s/<l[^>]*>/<br>/g;
@@ -289,26 +267,17 @@ $a =~ s/<\/l>/ /g;
 
 $a =~ s/<ref rend="marginal">//g;
 
-$a =~ s/<ref rend="right">([0-
-9]*)<\/ref>/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\[$1\]/g;
-$a =~ s/<ref>([0-
-9]*)<\/ref>/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font
-color="brown">$1<\/font>/g;
-$a =~ s/<num>\[([0-
-9]*)\]<\/num>/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font
-color="red">\[Latin: $1\]<\/font> /g;
+$a =~ s/<ref rend="right">([0-9]*)<\/ref>/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\[$1\]/g;
+$a =~ s/<ref>([0-9]*)<\/ref>/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="brown">$1<\/font>/g;
+$a =~ s/<num>\[([0-9]*)\]<\/num>/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="red">\[Latin: $1\]<\/font> /g;
 
-$a =~ s/<figure type="Cowley" entity="([^"]*)"><\/figure>/&nbsp;\[<A
-href="http:\/\/etext.lib.virginia.edu\/kinney\/small\/$1.jpg">Image<\/
-A>\]&nbsp;/g;
+$a =~ s/<figure type="Cowley" entity="([^"]*)"><\/figure>/&nbsp;\[<a href="http:\/\/etext.lib.virginia.edu\/kinney\/small\/$1.jpg">Image<\/a>\]&nbsp;/g;
 
 $a =~ s/<\/div>/<hr width="50%">/g;
 
 #headers
 
-$a =~ s/<p>[ ]*Keywords in the header are a local Electronic Text
-Center scheme to aid in establishing analytical groupings.[
-]*<\/p>//g;
+$a =~ s/<p>[ ]*Keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings.[ ]*<\/p>//g;
 $a =~ s/Parsed against local "teilite" dtd.//g;
 
 #spacing in contractions
@@ -317,14 +286,10 @@ $a =~ s/\+\'/\'/g;
 $a =~ s/\+n\'/\n'/g;
 
 #NEW STYLE
-$a =~ s/<pb n="36"><ID>TylTaka36<\/ID>/<\/blockquote><hr><tt>Page
-36<\/tt><br><blockquote>/g;
-$a =~ s/<pb n="37"><ID>TylTaka37<\/ID>/<\/blockquote><hr><tt>Page
-37<\/tt><br><blockquote>/g;
-$a =~ s/<pb n="39"><ID>TylTaka39<\/ID>/<\/blockquote><hr><tt>Page
-39<\/tt><br><blockquote>/g;
-$a =~ s/<pb n="40"><ID>TylTaka40<\/ID>/<\/blockquote><hr><tt>Page
-40<\/tt><br><blockquote>/g;
+$a =~ s/<pb n="36"><ID>TylTaka36<\/ID>/<\/blockquote><hr><tt>Page 36<\/tt><br><blockquote>/g;
+$a =~ s/<pb n="37"><ID>TylTaka37<\/ID>/<\/blockquote><hr><tt>Page 37<\/tt><br><blockquote>/g;
+$a =~ s/<pb n="39"><ID>TylTaka39<\/ID>/<\/blockquote><hr><tt>Page 39<\/tt><br><blockquote>/g;
+$a =~ s/<pb n="40"><ID>TylTaka40<\/ID>/<\/blockquote><hr><tt>Page 40<\/tt><br><blockquote>/g;
 
 $a =~ s/<note type="source" n="([0-9]*)">/<hr width="50%"> $1.  /g;
 $a =~ s/<rs type="doctype">([^<]*)<\/rs>/<br>type: $1/g;
@@ -334,43 +299,26 @@ $a =~ s/<biblScope type="pages">([^<]*)<\/biblScope>/<br>Pages: $1/g;
 $a =~ s/<rs type="docket" n="1"><\/rs>//g;
 $a =~ s/<rs type="docket" n="1">([^<]*)<\/rs>/<br>Docket: $1/g;
 
-$a =~ s/\&hand;/<img
-src=http:\/\/etext.lib.virginia.edu\/$images\/$tag\/hand.gif/g;
+$a =~ s/\&hand;/<img src=http:\/\/etext.lib.virginia.edu\/$images\/$tag\/hand.gif/g;
 
 #other UVA specchar
 
-$a =~ s/&cross;/<img
-src="http:\/\/etext.lib.virginia.edu\/modeng\/greek\/cross.gif">/g;
+$a =~ s/&cross;/<img src="http:\/\/etext.lib.virginia.edu\/modeng\/greek\/cross.gif">/g;
 
-$a =~ s/&Aquarius;/<img
-src="http:\/\/etext.lib.virginia.edu\/uvaspecchar\/Aquarius.gif">/g;
-$a =~ s/&Aries;/<img
-src="http:\/\/etext.lib.virginia.edu\/uvaspecchar\/Aries.gif">/g;
-$a =~ s/&Cancer;/<img
-src="http:\/\/etext.lib.virginia.edu\/uvaspecchar\/Cancer.gif">/g;
-$a =~ s/&Capricorn;/<img
-src="http:\/\/etext.lib.virginia.edu\/uvaspecchar\/Capricorn.gif">/g;
-$a =~ s/&Gemini;/<img
-src="http:\/\/etext.lib.virginia.edu\/uvaspecchar\/Gemini.gif">/g;
-$a =~ s/&Leo;/<img
-src="http:\/\/etext.lib.virginia.edu\/uvaspecchar\/Leo.gif">/g;
-$a =~ s/&Libra;/<img
-src="http:\/\/etext.lib.virginia.edu\/uvaspecchar\/Libra.gif">/g;
-$a =~ s/&Libratop;/<img
-src="http:\/\/etext.lib.virginia.edu\/uvaspecchar\/Libratop.gif">/g;
-$a =~ s/&Pisces;/<img
-src="http:\/\/etext.lib.virginia.edu\/uvaspecchar\/Pisces.gif">/g;
-$a =~ s/&Sagittarius;/<img
-src="http:\/\/etext.lib.virginia.edu\/uvaspecchar\/Sagittarius.gif">/
-g;
-$a =~ s/&Scorpio;/<img
-src="http:\/\/etext.lib.virginia.edu\/uvaspecchar\/Scorpio.gif">/g;
-$a =~ s/&Taurus;/<img
-src="http:\/\/etext.lib.virginia.edu\/uvaspecchar\/Taurus.gif">/g;
-$a =~ s/&Virgo;/<img
-src="http:\/\/etext.lib.virginia.edu\/uvaspecchar\/Virgo.GIF">/g;
-$a =~ s/&Zanoni;/<img
-src="http:\/\/etext.lib.virginia.edu\/uvaspecchar\/Zanoni.gif">/g;
+$a =~ s/&Aquarius;/<img src="http:\/\/etext.lib.virginia.edu\/uvaspecchar\/Aquarius.gif">/g;
+$a =~ s/&Aries;/<img src="http:\/\/etext.lib.virginia.edu\/uvaspecchar\/Aries.gif">/g;
+$a =~ s/&Cancer;/<img src="http:\/\/etext.lib.virginia.edu\/uvaspecchar\/Cancer.gif">/g;
+$a =~ s/&Capricorn;/<img src="http:\/\/etext.lib.virginia.edu\/uvaspecchar\/Capricorn.gif">/g;
+$a =~ s/&Gemini;/<img src="http:\/\/etext.lib.virginia.edu\/uvaspecchar\/Gemini.gif">/g;
+$a =~ s/&Leo;/<img src="http:\/\/etext.lib.virginia.edu\/uvaspecchar\/Leo.gif">/g;
+$a =~ s/&Libra;/<img src="http:\/\/etext.lib.virginia.edu\/uvaspecchar\/Libra.gif">/g;
+$a =~ s/&Libratop;/<img src="http:\/\/etext.lib.virginia.edu\/uvaspecchar\/Libratop.gif">/g;
+$a =~ s/&Pisces;/<img src="http:\/\/etext.lib.virginia.edu\/uvaspecchar\/Pisces.gif">/g;
+$a =~ s/&Sagittarius;/<img src="http:\/\/etext.lib.virginia.edu\/uvaspecchar\/Sagittarius.gif">/g;
+$a =~ s/&Scorpio;/<img src="http:\/\/etext.lib.virginia.edu\/uvaspecchar\/Scorpio.gif">/g;
+$a =~ s/&Taurus;/<img src="http:\/\/etext.lib.virginia.edu\/uvaspecchar\/Taurus.gif">/g;
+$a =~ s/&Virgo;/<img src="http:\/\/etext.lib.virginia.edu\/uvaspecchar\/Virgo.GIF">/g;
+$a =~ s/&Zanoni;/<img src="http:\/\/etext.lib.virginia.edu\/uvaspecchar\/Zanoni.gif">/g;
 
 #Fix for Holsinger
 
@@ -383,8 +331,7 @@ $a =~ s/<\/name1>/<\/b>/g;
 $a =~ s/<name2>/<b>, /g;
 $a =~ s/<\/name2>/<\/b>/g;      
 
-$a =~ s/<holdate>([0-9][0-9][0-9][0-9])([0-9][0-9])([0-9][0-
-9])<\/holdate>/: <b><i>$1-$2-$3<\/i><\/b>/g;
+$a =~ s/<holdate>([0-9][0-9][0-9][0-9])([0-9][0-9])([0-9][0-9])<\/holdate>/: <b><i>$1-$2-$3<\/i><\/b>/g;
 $a =~ s/<number>/<br>#/g;
 $a =~ s/<\/number>//g;
 
@@ -413,16 +360,13 @@ $a =~ s/modeng.browse.html/modeng\/modeng0.browse.html/g;
 
 $a =~ s/<\/figure>/<br>/g;
 
-$a =~ s/<figDesc rend="visible">([^<]*)<\/figDesc>/<br><font size="-
-1">$1<\/font>/g;
-$a =~ s/<figDesc
-rend="inline">([^<]*)<\/figDesc>/<center>$1<\/center>/g;
+$a =~ s/<figDesc rend="visible">([^<]*)<\/figDesc>/<br><font size="-1">$1<\/font>/g;
+$a =~ s/<figDesc rend="inline">([^<]*)<\/figDesc>/<center>$1<\/center>/g;
 
 $a =~ s/<figDesc>[^<]*<\/figDesc>//g;
 
 $a =~ s/<figure rend="no image">//g;
-$a =~ s/<head rend="no image">([^<]*)<\/head>/\[Image unavailable. 
-Caption reads: <tt>$1\]<\/tt>/g;
+$a =~ s/<head rend="no image">([^<]*)<\/head>/\[Image unavailable. Caption reads: <tt>$1\]<\/tt>/g;
 
 
 $a =~ s/<div[0-9] type="bill">//g;
@@ -453,37 +397,19 @@ $a =~ s/<div[0-9] type="section" n="[^>]*">//g;
 
 #cross references
 
-$a =~ s/<xref doc="([^"]*)">/<a
-href="http:\/\/etext.lib.virginia.edu\/etcbin\/browse-
-carter?id=$1.xml&images=images\/modeng&data=\/web\/data\/users\/berkel
-ey\&tag=public" target="_wblank">/g;
-$a =~ s/<xref to="Ext1">/<a
-href="http:\/\/www.abdn.ac.uk\/virtualmuseum\/index.php?page=object_de
-tail&prefix=ABDUA&num=18746&firstview=true&mt=&sign=&viewnumber=&resul
-tsperpage=9">/g;
-$a =~ s/<xref to="Ext2">/<a
-href="http:\/\/www.angelfire.com\/journal\/millrestoration\/history.ht
-ml">/g;
-$a =~ s/<xref to="Ext3">/<a href="http:\/\/www.bodley.ox.ac.uk\/cgi-
-bin\/ilej\/image1.pl?item=page&seq=1&size=1&id=gm.1732.11.x.2.x.x.1082
-">/g;
+$a =~ s/<xref doc="([^"]*)">/<a href="http:\/\/etext.lib.virginia.edu\/etcbin\/browse-carter?id=$1.xml&images=images\/modeng&data=\/web\/data\/users\/berkeley\&tag=public" target="_wblank">/g;
+$a =~ s/<xref to="Ext1">/<a href="http:\/\/www.abdn.ac.uk\/virtualmuseum\/index.php?page=object_detail&prefix=ABDUA&num=18746&firstview=true&mt=&sign=&viewnumber=&resultsperpage=9">/g;
+$a =~ s/<xref to="Ext2">/<a href="http:\/\/www.angelfire.com\/journal\/millrestoration\/history.html">/g;
+$a =~ s/<xref to="Ext3">/<a href="http:\/\/www.bodley.ox.ac.uk\/cgi-bin\/ilej\/image1.pl?item=page&seq=1&size=1&id=gm.1732.11.x.2.x.x.1082">/g;
 $a =~ s/<\/xref>/<\/a>/g;
 
 #images
 
-$a =~ s/<figure entity="fig1">/<img
-src="\/users\/berkeley\/public\/fig1.jpg" alt="" style="width:
-600px"><br\/><\/image>/g;
+$a =~ s/<figure entity="fig1">/<img src="\/users\/berkeley\/public\/fig1.jpg" alt="" style="width:600px"><br\/><\/image>/g;
 
-$a =~ s/<figure entity="Diary1">/<img
-src="\/users\/berkeley\/public\/Diary1.jpg" alt="" style="width:
-900px"><br\/><\/image>/g;
+$a =~ s/<figure entity="Diary1">/<img src="\/users\/berkeley\/public\/Diary1.jpg" alt="" style="width:900px"><br\/><\/image>/g;
 
-$a =~ s/<figure entity="church">/<img
-src="\/users\/berkeley\/public\/church.jpg"  alt="" style="width:
-600px"><br\/><\/image>/g;
-
-
+$a =~ s/<figure entity="church">/<img src="\/users\/berkeley\/public\/church.jpg"  alt="" style="width:600px"><br\/><\/image>/g;
 
         print OUTPUT $a;
 }
