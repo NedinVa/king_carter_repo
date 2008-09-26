@@ -503,8 +503,8 @@ $a =~ s/<figure entity="Diary1">/<img src="\/users\/berkeley\/public\/Diary1.jpg
 
 $a =~ s/<figure entity="church">/<img src="\/users\/berkeley\/public\/church.jpg"  alt="" style="width:600px; float:right;"><br\/><\/image>/g;
 
-$a =~ s/<figdesc>/<div class="figdesc" style="float:right;">/g;
-$a =~ s/<\/figdesc>/<\/div>/g;
+$a =~ s/<figDesc>/<div class="figdesc" style="float:right;">/g;
+$a =~ s/<\/figDesc>/<\/div>/g;
 
         print OUTPUT $a;
 }
