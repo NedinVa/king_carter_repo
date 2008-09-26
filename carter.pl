@@ -480,7 +480,7 @@ src="\/users\/berkeley\/public\/Diary1.jpg" alt="" style="width:
 900px"><br\/><\/image>/g;
 
 $a =~ s/<figure entity="church">/<img
-src="\/users\/berkeley\/public\/church.jpg"  alt=" style="width:
+src="\/users\/berkeley\/public\/church.jpg"  alt="" style="width:
 600px"><br\/><\/image>/g;
 
 
