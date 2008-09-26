@@ -574,7 +574,8 @@ src="\/users\/berkeley\/public\/Diary1.jpg" alt="" style="width:
 $a =~ s/<figure entity="church">/<img
 src="\/users\/berkeley\/public\/church.jpg"  alt="Photograph of Christ
 Church, Lancaster County; <lb/>the Carter tombs are to the right of
-the building." style="width: 600px float: right"><br\/><\/image>/g;
+the building." style="width: 600px" style="float:
+right"><br\/><\/image>/g;
 
         print OUTPUT $a;
 }
