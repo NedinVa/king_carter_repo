@@ -17,14 +17,16 @@
              
 <fileDesc>
 <titleStmt>
-     <title type="245">Letter from Robert Carter to [Daniel McCarty, 1717 December 18]</title>
+     <title type="245">Letter from Robert Carter to [Daniel McCarty,
+1717 December 18]</title>
    <title type="gmd">[electronic resource]</title>
      <author>Carter, Robert</author>
    <respStmt>
      <resp>Creation of machine-readable version: </resp>
      <name id="editor">Edmund Berkeley, Jr.</name>
      <resp>Conversion to TEI.2-conformant markup</resp>
-     <name>Edmund Berkeley, Jr., and the University of Virginia Library Electronic Text Center</name>
+     <name>Edmund Berkeley, Jr., and the University of Virginia
+Library Electronic Text Center</name>
    </respStmt>
 </titleStmt>
 
@@ -36,7 +38,8 @@
      <idno type="ETC">Modeng enter file ID</idno>
      <availability>
      <p>Publicly accessible</p>
-     <p n="public">URL: http://etext.lib.virginia.edu/modeng.browse.html</p>
+     <p n="public">URL:
+http://etext.lib.virginia.edu/modeng.browse.html</p>
          </availability>
      <date>2001</date>
 </publicationStmt>
@@ -44,14 +47,16 @@
 <sourceDesc>
      <biblFull>
      <titleStmt>
-     <title>Letter from Robert Carter to [Daniel McCarty, 1717 December 18]</title>
+     <title>Letter from Robert Carter to [Daniel McCarty, 1717
+December 18]</title>
 
      <author>Robert Carter</author></titleStmt>
 
     <extent> 4 p.</extent>
 <publicationStmt>
      <date>1717-12-18</date>
-   <idno type="callNo"> Source copy consulted: Minor-Blackford Papers, James Monroe Law Office
+   <idno type="callNo"> Source copy consulted: Minor-Blackford
+Papers, James Monroe Law Office
 and Museum, Fredericksburg, Virginia. </idno>
 </publicationStmt>
 </biblFull>
@@ -60,10 +65,12 @@ and Museum, Fredericksburg, Virginia. </idno>
 </fileDesc>
      <encodingDesc>
      <projectDesc>
-     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     <p>Prepared for the University of Virginia Library Electronic
+Text Center.</p>
      </projectDesc>
 <editorialDecl>
-     <p>Some keywords in the header are a local electronic Text Center scheme to aid in establishing
+     <p>Some keywords in the header are a local electronic Text
+Center scheme to aid in establishing
 analytical groupings.</p>
 </editorialDecl>
 
@@ -106,13 +113,27 @@ analytical groupings.</p>
 <extent>4 pp.</extent>
 <date value="1717-12-18">December 18, 1717</date>
 <idno rend="suppress">C17l18a</idno>
-<title>Letter from Robert Carter to [Daniel McCarty, 1717 December 18]</title>
+<title>Letter from Robert Carter to [Daniel McCarty, 1717 December
+18]</title>
 </bibl>
 </head>
-<p>Robert Carter writes to Daniel McCarty of Westmoreland County, December 18, 1717, concerning McCarty's son's progress in school under Carter's master noting that the boy has made some progress even if it is not what his father had hoped for. He gives McCarty his opinion that "It is not always the best scholars that make 
+<p>Robert Carter writes to Daniel McCarty of Westmoreland County,
+December 18, 1717, concerning McCarty's son's progress in school
+under Carter's master, noting that the boy has made some progress even
+if it is not what his father had hoped for. He gives McCarty his
+opinion that "It is not always the best scholars that make 
 the wisest men," and counsels McCarty that it will "neither be 
 just nor prudent in you to make his ineptitude the measure of 
-your benevolence." He continues that he intends to send his sons to England for a better education, that "Dick Lee's" master has been given a good recommendation by  a merchant, and that sending a boy early to England is better. He notes that he cannot write himself and will not include any thoughts about politics except his opinion that "a vigorous, judicious, honest Assembly" is needed, and that he wishes they lived closer so that they could talk more often. He concludes that he has been glad to hear that McCarty's reputation with his neighbors is rising, and that he sends respects of his own family and of McCarty's son. </p>
+your benevolence." He continues that he intends to send his sons to
+England for a better education, that "Dick Lee's" master has been
+given a good recommendation by  a merchant, and that sending a boy
+early to England is better. He notes that he cannot write himself and
+will not include any thoughts about politics except his opinion that
+"a vigorous, judicious, honest Assembly" is needed, and that he
+wishes they lived closer so that they could talk more often. He
+concludes that he has been glad to hear that McCarty's reputation
+with his neighbors is rising, and that he sends respects of his own
+family and of McCarty's son. </p>
 </div1>                 
 </front>
 
@@ -121,7 +142,8 @@ your benevolence." He continues that he intends to send his sons to England for 
 
 <div1 type="letter" n="1718-12-18">
 
-<head>Robert Carter to <note n="DM"><add resp="editor">[Daniel McCarty,]</add></note>
+<head>Robert Carter to <note n="DM"><add resp="editor">[Daniel
+McCarty,]</add></note>
 <add resp="editor">[December 18, 1717]<lb/></add>
 </head>
 
@@ -129,59 +151,102 @@ your benevolence." He continues that he intends to send his sons to England for 
 
 <dateline>
 <pb n="1"/>
-<name type="place"><add resp="editor">[Rappahannock, Lancaster County, Virginia]</add></name><lb/>
+<name type="place"><add resp="editor">[Rappahannock, Lancaster
+County, Virginia]</add></name><lb/>
 
-<date value="1717-12-18"><add resp="editor">[December 18, 1717]</add></date>
+<date value="1717-12-18"><add resp="editor">[December 18,
+1717]</add></date>
 </dateline>
                                              
 <salute>Sir,</salute>
 
 </opener>
 
-<p>Your son's improvement here <lb/>hath not been so great as I could wish, <lb/>and my own children's
-is little <lb/>more; yet you must give me leave <lb/>to tell you the examination he <lb/>hath passed
-through I take to have <lb/>been a very partial one. Were my <lb/><note target="n1"><sic
-corr="dominie">Domine</sic></note> to be by with your young<lb/>=er son's Domine and both
-<lb/>youngsters to pass a fair tryal, <lb/>their advance in their books would <lb/>appear to you in a  very
+<p>Your son's improvement here <lb/><sic corr="has ">hath </sic> not
+been so great as I
+could wish, <lb/>and my own children's
+is little <lb/>more; yet you must give me leave <lb/>to tell you the
+examination he <lb/><sic corr="has ">hath </sic> passed
+through I take to have <lb/>been a very partial one. Were my
+<lb/><note target="n1"><sic
+corr="dominie">Domine</sic></note> to be by with your young<lb/>=er
+son's Domine and both
+<lb/>youngsters to pass a fair tryal, <lb/>their advance in their
+books would <lb/>appear to you in a  very
 different <lb/>light.
 
 <pb n="2"/><lb/><lb/>
-Your son hath been three times through <lb/>his Grammar and I can't believe <lb/>but some of it sticks to
-him. He <lb/>came here under the character of <lb/>not being very happy in his learn<lb/>=ing. He had
-made little progress <lb/>at <note target="n2">Mr. Lee's</note>. I wish he may an<lb/>=swer your
-expectations better <lb/>in the next place he goes to; but be <lb/>that as it will 'twill neither be <lb/>just
-nor prudent in you  to make <lb/>his ineptitude the measure of <lb/>your benevolence. It is not
-al<lb/>=ways the best scholars that make <lb/>the wisest men nor those of the <lb/>promptest parts that
-prove the <lb/>most solid in their judgements <lb/>&amp; determination. I know a great <lb/>many of my
-acquaintances that <lb/>at the schools were but very <lb/>dunces, ye<hi rend="underline">tt</hi> now in their 
-man<lb/>=hood are discreet &amp; growing men <lb/>far surpassing others that were <lb/>much their 
-masters in <note target="n3">Lillie's <lb/>rules</note> while schoolboys together. 
+Your son <sic corr="has ">hath </sic> been three times through
+<lb/>his Grammar and I can't
+believe <lb/>but some of it sticks to
+him. He <lb/>came here under the character of <lb/>not being very
+happy in his learn<lb/>=ing. He had
+made little progress <lb/>at <note target="n2">Mr. Lee's</note>. I
+wish he may an<lb/>=swer your
+expectations better <lb/>in the next place he goes to; but be
+<lb/>that as it will <abbr expan="it will ">'twill </abbr> neither
+be <lb/>just
+nor prudent in you  to make <lb/>his ineptitude the measure of
+<lb/>your benevolence. It is not
+al<lb/>=ways the best scholars that make <lb/>the wisest men nor
+those of the <lb/>promptest parts that
+prove the <lb/>most solid in their judgements <lb/>&amp;
+determination. I know a great <lb/>many of my
+acquaintances that <lb/>at the schools were but very <lb/>dunces,
+ye<hi rend="underline">tt</hi> now in their 
+man<lb/>=hood are discreet &amp; growing men <lb/>far surpassing
+others that were <lb/>much their 
+masters in <note target="n3">Lillie's <lb/>rules</note> while
+schoolboys together. 
 
 <pb n="3"/><lb/><lb/>
-If after all your t<hi rend="underline">rya</hi>ls Dennis <lb/>should prove but a dull <lb/>boy, I should think 'tis your
-<lb/>part still to keep him thrashing <lb/>at it till he hath a tolerable <lb/>snatch of the Latin tongue at
-least. <lb/>But I cannot think any school <lb/>in this country comparable to <lb/>what may be had in
-England. <lb/><note target="n4">Dick Lee's</note> Master I intend my <lb/>boys to, of whom  I have a
-very <lb/>reputable character from one <lb/>of my Merchants. But I shall <lb/>leave this matter to your
-<lb/>consideration, only mentioning <lb/>a short story of my eldest son, <lb/>whose Master did several
-times <lb/>wish he had had him with <lb/>him two years sooner. 'Tis to <lb/>little purpose we enumerate
-<lb/>our losses.  Troubles we are born <lb/>to as the sparks fly upward. <lb/>A streak of lean to a streak
+If after all your t<hi rend="underline">rya</hi>ls Dennis
+<lb/>should prove but a dull <lb/>boy, I should think <abbr
+expan="it is ">'tis </abbr> your
+<lb/>part still to keep him thrashing <lb/>at it till he <sic
+corr="has ">hath </sic> a
+tolerable <lb/>snatch of the Latin tongue at
+least. <lb/>But I cannot think any school <lb/>in this country
+comparable to <lb/>what may be had in
+England. <lb/><note target="n4">Dick Lee's</note> Master I intend my
+<lb/>boys to, of whom  I have a
+very <lb/>reputable character from one <lb/>of my Merchants. But I
+shall <lb/>leave this matter to your
+<lb/>consideration, only mentioning <lb/>a short story of my eldest
+son, <lb/>whose Master did several
+times <lb/>wish he had had him with <lb/>him two years sooner. 'Tis
+to <lb/>little purpose we enumerate
+<lb/>our losses.  Troubles we are born <lb/>to as the sparks fly
+upward. <lb/>A streak of lean to a streak
 <lb/>of fat makes the  best food for <lb/>us, that we may always bear 
 
 <pb n="4"/><lb/><lb/>
-about us the remembrance of our mor<lb/>=talit<hi rend="underline">ie</hi> and that we are but so<lb/>=journers here; and
-to quicken <lb/>our pursuit after a more certain <lb/>bliss beyond the Grave.</p>
+about us the remembrance of our mor<lb/>=talit<hi
+rend="underline">ie</hi> and that we are but so<lb/>=journers here;
+and
+to quicken <lb/>our pursuit after a more certain <lb/>bliss beyond
+the Grave.</p>
 
-<p>I cannot write myself&mdash;must <lb/>there fore waive decending to partic<lb/>=ulars upon politics.
-'Tis my present <lb/>thots this poor Country never stood <lb/>in more need of a vigorous, judici<lb/>=ous,
-honest Assembly than at <lb/>this time; but we must leave <lb/>all to the event of an over=ruling
-<lb/>power which turns the councels <lb/>of men <sic corr="as">at</sic> it pleases.</p>
+<p>I cannot write myself&mdash;must <lb/>there fore <sic corr="wave
+">waive</sic> <sic corr="descending ">decending</sic>
+to partic<lb/>=ulars upon politics.
+<abbr expan="It is ">'Tis </abbr> my present <lb/><sic
+corr="thoughts ">thots</sic> this poor Country never stood <lb/>in
+more need of a vigorous, judici<lb/>=ous,
+honest Assembly than at <lb/>this time; but we must leave <lb/>all
+to the event of an over=ruling
+<lb/>power which turns the <sic corr="councils ">councels</sic>
+<lb/>of men <sic
+corr="as">at</sic> it pleases.</p>
 
-<p>I did hear you were very much <lb/>lost in the opinion of your <lb/>neighbours, but am  glad 'tis
-other<lb/>=wise&mdash;could wish we had more <lb/>frequent conversation, but the <lb/>distance
+<p>I did hear you were very much <lb/>lost in the opinion of your
+<lb/>neighbours, but am  glad <abbr expan="it is ">'tis </abbr>
+other<lb/>=wise&mdash;could wish we had more <lb/>frequent
+conversation, but the <lb/>distance
 between us won't allow <lb/>it.</p>
 
-<p>You have the respects of ths fam<lb/>=ily &amp;  with your son's&mdash; and <lb/>especially his who
+<p>You have the respects of ths fam<lb/>=ily &amp;  with your
+son's&mdash; and <lb/>especially his who
 is,</p>
 
 <closer>Sir</closer>
@@ -193,23 +258,54 @@ is,</p>
 <div1 type="notes">
 <head>NOTES</head>
 
-<note><hi rend="italics">Source copy consulted: </hi>  Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia. These texts are all nineteenth-century copies. Apparently there was in existence a letter book of Robert Carter's&mdash;now lost&mdash;from which the unknown copiest recorded these texts. As they are the only texts, the punctuation and "corrections"
-obviously supplied by the copiest have been retained. <lb/><lb/>
-The copyist wrote a note before copying the text of the letter:  <p>"[I cannot resist the temptation to copy this characteristic epistle, as it tends to <sic corr="throw">through</sic> light on the downright manner of Mr. Carter. He was wont, it seems by this as well as by many other letters, to 'call a spade a spade.'"</p>
-<p>"The copying clerk has unfortunately omitted the address &amp; date, but it stands in the Letter Book immediately after one dated Dec: 11th 1717 &amp; on on the 18th of the following February.]"</p></note>
+<note><hi rend="italics">Source copy consulted: </hi>  Minor-
+Blackford Papers, James Monroe Law Office and Museum, Fredericksburg,
+Virginia. These texts are all nineteenth-century copies. Apparently
+there was in existence a letter book of Robert Carter's&mdash;now
+lost&mdash;from which the unknown copiest recorded these texts. As
+they are the only texts, the punctuation and "corrections"
+obviously supplied by the copiest have been retained. </note>
+
+<note>The copyist wrote a note before copying the text of the
+letter: "[I cannot resist the temptation to copy this characteristic
+epistle, as it tends to <sic corr="throw">through</sic> light on the
+downright manner of Mr. Carter. He was wont, it seems by this as well
+as by many other letters, to 'call a spade a spade.'"</note>
+
+<note>"The copying clerk has unfortunately omitted the address &amp;
+date, but it stands in the Letter Book immediately after one dated
+Dec: 11th 1717 &amp; on on the 18th of the following
+February.]"</note>
+
+<note>Robert Carter generally used a return address of
+"Rappahannock" for the river on which he lived rather than
+"Corotoman," the name of his home, on his correspondence, especially
+to merchants abroad. The county and colony have been
+added for clarity to this unheaded letter.</note><lb/>
+
 
 
 
 <note id="n1">[1] A schoolmaster.</note>
 
-<note id="n2">[2] The Lee referred to cannot be identified. Neither Thomas nor Henry Lee had married
-in 1717, and it seems unlikely that either would have kept a school at his home otherwise. Carter may
+<note id="n2">[2] The Lee referred to cannot be identified. Neither
+Thomas nor Henry Lee had married
+in 1717, and it seems unlikely that either would have kept a school
+at his home otherwise. Carter may
 refer to the name of the schoolmaster.</note>
 
-<note id="n3">[3] Carter refers to a Latin textbook by William Lily who is known as <q>the
-grammarian.</q> It is <title>Lilies Rules Construed. Whereunto are Added Tho. Robinsons Heroclites, the Latine Syntaxis, and Que mihi. Also . . . Rules for the Gender of Nounes,  etc.</title>  There were numerous seventeenth- and eighteenth-century printings and editions.</note>
+<note id="n3">[3] Carter refers to a Latin textbook by William Lily
+who is known as <q>the
+grammarian.</q> It is <title>Lilies Rules Construed. Whereunto are
+Added Tho. Robinsons Heroclites, the Latine Syntaxis, and Que mihi.
+Also . . . Rules for the Gender of Nounes,  etc.</title>  There were
+numerous seventeenth- and eighteenth-century printings and
+editions.</note>
 
 <note id="n4">[4] Richard Lee (1647-1715).</note>
+
+<lb/><lb/><note><hi rend="italics">This text revised September 30,
+2008.</hi></note>
 
 </div1>
 </back>

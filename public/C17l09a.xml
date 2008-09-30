@@ -17,14 +17,16 @@
              
 <fileDesc>
 <titleStmt>
-     <title type="245">Letter from Robert Carter to John Holloway, 1717 December 9</title>
+     <title type="245">Letter from Robert Carter to John Holloway,
+1717 December 9</title>
    <title type="gmd">[electronic resource]</title>
      <author>Carter, Robert</author>
    <respStmt>
      <resp>Creation of machine-readable version: </resp>
      <name id="editor">Edmund Berkeley, Jr.</name>
      <resp>Conversion to TEI.2-conformant markup</resp>
-     <name>Edmund Berkeley, Jr., and the University of Virginia Library Electronic Text Center</name>
+     <name>Edmund Berkeley, Jr., and the University of Virginia
+Library Electronic Text Center</name>
    </respStmt>
 </titleStmt>
 
@@ -36,7 +38,8 @@
      <idno type="ETC">Modeng enter file ID</idno>
      <availability>
      <p>Publicly accessible</p>
-     <p n="public">URL: http://etext.lib.virginia.edu/modeng.browse.html</p>
+     <p n="public">URL:
+http://etext.lib.virginia.edu/modeng.browse.html</p>
          </availability>
      <date>2001</date>
 </publicationStmt>
@@ -44,13 +47,16 @@
 <sourceDesc>
      <biblFull>
      <titleStmt>
-     <title>Letter from Robert Carter to John Holloway, 1717 December 9</title>
+     <title>Letter from Robert Carter to John Holloway, 1717
+December 9</title>
 
      <author>Robert Carter</author></titleStmt>
     <extent> 2 p.</extent>
 <publicationStmt>
      <date>1717-12-09</date>
-   <idno type="callNo"> Source copy consulted: Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia. </idno>
+   <idno type="callNo"> Source copy consulted: Minor-Blackford
+Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia.
+</idno>
 </publicationStmt>
 </biblFull>
 </sourceDesc>
@@ -58,10 +64,12 @@
 </fileDesc>
      <encodingDesc>
      <projectDesc>
-     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     <p>Prepared for the University of Virginia Library Electronic
+Text Center.</p>
      </projectDesc>
 <editorialDecl>
-     <p>Some keywords in the header are a local electronic Text Center scheme to aid in establishing
+     <p>Some keywords in the header are a local electronic Text
+Center scheme to aid in establishing
 analytical groupings.</p>
 </editorialDecl>
 
@@ -104,10 +112,23 @@ analytical groupings.</p>
 <extent>2 pp.</extent>
 <date value="1717-12-09">December 9, 17171</date>
 <idno rend="suppress">C17l09a</idno>
-<title>Letter from Robert Carter to John Holloway, 1717 December 9</title>
+<title>Letter from Robert Carter to John Holloway, 1717 December
+9</title>
 </bibl>
 </head>
-<p>Robert Carter writes to his attorney John Holloway, December 9, 1717, concerning claims by Edmund Jenings that Carter had placed a fence on his property. Carter states that his fence is in the same place as the land's former owner, Mrs. Whaley, had had her fence, but if Jenings can convince him that the fence is misplaced, he will acknowledge it. He continues that the serious injury to his right wrist will probably prevent his attendance at the next session of the Assembly which he understands is to meet in March. The writ against the Lees has been received and he will make use of it if the occasion arises. Some of Carter's comments about a proposal by Holloway for "an equal distribution of Mr. Lee's debts among his creditors" have been omitted by the copyist, and Carter concludes by thanking Holloway for his services. </p>
+<p>Robert Carter writes to his attorney John Holloway, December 9,
+1717, concerning claims by Edmund Jenings that Carter had placed a
+fence on his property. Carter states that his fence is in the same
+place as the land's former owner, Mrs. Whaley, had had her fence, but
+if Jenings can convince him that the fence is misplaced, he will
+acknowledge it. He continues that the serious injury to his right
+wrist will probably prevent his attendance at the next session of the
+Assembly which he understands is to meet in March. The writ against
+the Lees has been received and he will make use of it if the occasion
+arises. Some of Carter's comments about a proposal by Holloway for
+"an equal distribution of Mr. Lee's debts among his creditors" have
+been omitted by the copyist, and Carter concludes by thanking
+Holloway for his services. </p>
 </div1>                 
 </front>
 
@@ -116,15 +137,18 @@ analytical groupings.</p>
 
 <div1 type="letter" n="1717-12-09">
 
-<head>Letter from Robert Carter to <note n="JH">John Holloway,</note> December 9, 1717</head>
+<head>Letter from Robert Carter to <note n="JH">John
+Holloway,</note> December 9, 1717</head>
 
 <opener>
 
 <dateline>
 <pb n="1"/>
-<name type="place"><add resp="editor">[Rappahannock, Lancaster County, Virginia]</add></name><lb/>
+<name type="place"><add resp="editor">[Rappahannock, Lancaster
+County, Virginia]</add></name><lb/>
 
-<date value="1717-12-09">Decembr 9th 1717.<lb/></date>
+<date value="1717-12-09"><abbr expan="December ">Decembr </abbr> 9th
+1717.<lb/></date>
 To John Holloway
 </dateline>
                                              
@@ -134,32 +158,52 @@ To John Holloway
 
 <p>I give you my kind thanks <lb/>for your two late letters.</p>
 
-<p>As for <note n="EJ">Collo. Jennings'</note> pretentions <lb/>of my <note
-target="n1"><sic corr="pales">pails</sic></note> standing upon his land <lb/>it is a thing purely novel to me. If <lb/>I mistake not,
-they stand on the <lb/>same place where the former pails <lb/>did which he himself was the <lb/>seller of to
-<note target="n2">Mrs. Whaley</note>: and why I <lb/>must not hold the same ground that she <lb/>did
+<p>As for <note n="EJ"><abbr expan="Colonel ">Collo</abbr>
+Jennings'</note> pretentions <lb/>of
+my <note
+target="n1"><sic corr="pales">pails</sic></note> standing upon his
+land <lb/>it is a thing purely novel to me. If <lb/>I mistake not,
+they stand on the <lb/>same place where the former <sic
+corr="pales">pails</sic> <lb/>did
+which he himself was the <lb/>seller of to
+<note target="n2">Mrs. Whaley</note>: and why I <lb/>must not hold
+the same ground that she <lb/>did
 I can see no reason.</p> 
 
-<p>Our <note target="n3">Assembly</note> it seems is to sit <lb/>down early in March. At this
-<lb/>time my right arm, altho' almost <lb/>six weeks ago hurt, continues very <lb/>useless to me. Some of
-the bones of <lb/>my wrist are displaced and my hand <lb/>quite distorted in so much that I can
-<lb/>neither dress nor undress myself. So that <lb/>I fear I shall not be able to venture 
+<p>Our <note target="n3">Assembly</note> it seems is to sit
+<lb/>down early in March. At this
+<lb/>time my right arm, <abbr expan="although ">altho' </abbr>
+almost <lb/>six weeks ago hurt,
+continues very <lb/>useless to me. Some of
+the bones of <lb/>my wrist are displaced and my hand <lb/>quite
+distorted in so much that I can
+<lb/>neither dress nor undress myself. So that <lb/>I fear I shall
+not be able to venture 
 
 <pb n="2"/><lb/><lb/>
-<lb/>to lie out of my own bed this winter. <lb/>what time of the Assembly I may <lb/>be at under my
-present circumstances <lb/>I cannot foretell; but whenever <lb/>Collo. Jennings and I meet, if he <lb/>can
-convince me that my enclosure <lb/>is upon any of his land, reason will <lb/>oblige me to make a proper
+<lb/>to lie out of my own bed this winter. <lb/>what time of the
+Assembly I may <lb/>be at under my
+present circumstances <lb/>I cannot foretell; but whenever
+<lb/><abbr expan="Colonel ">Collo</abbr> Jennings and I meet, if he
+<lb/>can
+convince me that my enclosure <lb/>is upon any of his land, reason
+will <lb/>oblige me to make a proper
 acknow<lb/>=ledgement to him.</p>
 
-<p> I received the writ against the <lb/>Lees and shall make use of it as <lb/>occasion is given.</p>
+<p> I received the writ against the <lb/>Lees and shall make use of
+it as <lb/>occasion is given.</p>
 
-<p>Your other proposal about an <lb/>equal distribution of <note target="n4">Mr. Lee's</note> <note target="n5">debt</note> <lb/>among his 
+<p>Your other proposal about an <lb/>equal distribution of <note
+target="n4">Mr. Lee's</note> <note target="n5">debt</note> <lb/>among
+his 
 creditors     X     X<lb/>
 
-     X       X        X        X       X        X</p>
+X       X        X        X       X        X</p>
 
-<p>I never was one of those who were <lb/>for starving their causes; and you <lb/>are so strenuous
-&amp; diligent in suppor<lb/>=ting those you undertake, I shall <lb/>always be desirous of depending
+<p>I never was one of those who were <lb/>for starving their causes;
+and you <lb/>are so strenuous
+&amp; diligent in suppor<lb/>=ting those you undertake, I shall
+<lb/>always be desirous of depending
 upon <lb/>your abilities as often as I have oc<lb/>=casion.</p>
 
 <closer>In all sincerity, sir, &amp;c</closer>
@@ -171,23 +215,44 @@ upon <lb/>your abilities as often as I have oc<lb/>=casion.</p>
 <div1 type="notes">
 <head>NOTES</head>
 
-<note><hi rend="italics">Source copy consulted: </hi>  Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia. These texts are all nineteenth-century copies. Apparently there was in existence a letter book of Robert Carter's&mdash;now lost&mdash;from which the unknown copiest recorded these texts. As they are the only texts, the punctuation and "corrections"
-obviously supplied by the copiest have been retained. The copyist used a series of the letter "x" to indicate omission of material that he did not copy.</note>
+<note><hi rend="italics">Source copy consulted: </hi>  Minor-
+Blackford Papers, James Monroe Law Office and Museum, Fredericksburg,
+Virginia. These texts are all nineteenth-century copies. Apparently
+there was in existence a letter book of Robert Carter's&mdash;now
+lost&mdash;from which the unknown copiest recorded these texts. As
+they are the only texts, the punctuation and "corrections"
+obviously supplied by the copiest have been retained. The copyist
+used a series of the letter "x" to indicate omission of material that
+he did not copy.</note>
 
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The return address, county, and state have been added for clarity to this unheaded letter.</note><lb/>
+<note>Robert Carter generally used a return address of
+"Rappahannock" for the river on which he lived rather than
+"Corotoman," the name of his home, on his correspondence, especially
+to merchants abroad. The return address, county, and colony have been
+added for clarity to this unheaded letter.</note><lb/>
 
 
 
 <note id="n1">[1] RC refers to fence pales.</note>
 
-<note id="n2">[2] This may be Mary Page Whaley (d. 1742), wife of James Whaley (d. 1701). The
-Whaleys and Edmund Jenings lived in York County. (See <cit><bibl>Lyon G. Tyler, "Grammar and Mattey Practice and Model School," <title>William and Mary Quarterly. </title>1st ser., 4(1895-1896): 3-14.)</bibl></cit></note>
+<note id="n2">[2] This may be Mary Page Whaley (d. 1742), wife of
+James Whaley (d. 1701). The
+Whaleys and Edmund Jenings lived in York County. (See
+<cit><bibl>Lyon G. Tyler, "Grammar and Mattey Practice and Model
+School," <title>William and Mary Quarterly. </title>1st ser., 4(1895-
+1896): 3-14.)</bibl></cit></note>
 
-<note id="n3">[3] This session of the Assembly did not meet until April 23, 1717.</note>
+<note id="n3">[3] This session of the Assembly did not meet until
+April 23, 1717.</note>
 
-<note id="n4">[4] It is impossible to determine which "Mr. Lee" RC refers to here.</note>
+<note id="n4">[4] It is impossible to determine which "Mr. Lee" RC
+refers to here.</note>
 
-<note id="n5">[5] The nineteenth-century copyist inserted "[property?]" after the word "debt." </note>
+<note id="n5">[5] The nineteenth-century copyist inserted
+"[property?]" after the word "debt." </note>
+
+<lb/><lb/><note><hi rend="italics">This text revised September 30,
+2008.</hi></note>
 
 
 </div1>
