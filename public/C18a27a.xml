@@ -17,7 +17,8 @@
              
 <fileDesc>
 <titleStmt>
-     <title type="245">Robert Carter's Copy of an Account kept by Edmund Jenings of his payments to Lady Fairfax,1716-1718</title>
+     <title type="245">Robert Carter's Copy of an Account kept by
+Edmund Jenings of his payments to Lady Fairfax,1716-1718</title>
    <title type="gmd">[electronic resource]</title>
      <author>Carter, Robert</author>
    <respStmt>
@@ -26,7 +27,8 @@
           <resp>Conversion to TEI.2-conformant markup</resp>
      <resp>Change of handwriting: </resp>
      <name id="hand">Robert Carter</name>
-     <name>Edmund Berkeley, Jr., and the University of Virginia Library Electronic Text Center</name>
+     <name>Edmund Berkeley, Jr., and the University of Virginia
+Library Electronic Text Center</name>
    </respStmt>
 </titleStmt>
 
@@ -38,7 +40,8 @@
      <idno type="ETC">C18a27a.xml</idno>
      <availability>
      <p>Publicly accessible</p>
-     <p n="public">URL: http://etext.lib.virginia.edu/modeng.browse.html</p>
+     <p n="public">URL:
+http://etext.lib.virginia.edu/modeng.browse.html</p>
          </availability>
      <date>2001</date>
 </publicationStmt>
@@ -46,7 +49,8 @@
 <sourceDesc>
      <biblFull>
      <titleStmt>
-     <title>Robert Carter's Copy of an Account kept by Edmund Jenings of his payments to Lady Fairfax,
+     <title>Robert Carter's Copy of an Account kept by Edmund
+Jenings of his payments to Lady Fairfax,
 1716-1718</title>
    
      <title level="u"></title>
@@ -55,7 +59,9 @@
     <extent> 1 p.</extent>
 <publicationStmt>
      <date>1718-01-27</date>
-   <idno type="callNo"> Source copy consulted: BR 227, Fairfax Papers, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. </idno>
+   <idno type="callNo"> Source copy consulted: BR 227, Fairfax
+Papers, Huntington Library, Art Collections, and Botanical Gardens,
+San Marino, California. </idno>
 </publicationStmt>
 </biblFull>                                  
 </sourceDesc>
@@ -63,10 +69,12 @@
 </fileDesc>
      <encodingDesc>
      <projectDesc>
-     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     <p>Prepared for the University of Virginia Library Electronic
+Text Center.</p>
      </projectDesc>
 <editorialDecl>
-     <p>Some keywords in the header are a local electronic Text Center scheme to aid in establishing
+     <p>Some keywords in the header are a local electronic Text
+Center scheme to aid in establishing
 analytical groupings.</p>
 </editorialDecl>
 
@@ -109,11 +117,14 @@ analytical groupings.</p>
 <extent>1 pp.</extent>
 <date value="1718-01-27">[Jabuary 27, 1718]</date>
 <idno rend="suppress">C18a27a</idno>
-<title>Robert Carter's Copy of an Account kept by Edmund Jenings of his payments to Lady Fairfax,
+<title>Robert Carter's Copy of an Account kept by Edmund Jenings of
+his payments to Lady Fairfax,
 1716-1718</title>
 </bibl>
 </head>
-<p>Robert Carter has had prepared a copy of an account of payments made by Edmund Jenings as proprietor's agent to Lady Fairfax in England.</p>
+<p>Robert Carter has had prepared a copy of an account of payments
+made by Edmund Jenings as proprietor's agent to Lady Fairfax in
+England.</p>
 </div1>                 
 </front>
 
@@ -122,7 +133,8 @@ analytical groupings.</p>
 
 <div1 type="document" n="1">
 
-<head>Robert Carter's Copy of an Account kept by <lb/><note n="EJ">Edmund Jenings</note> of his payments to <lb/>Lady Fairfax,
+<head>Robert Carter's Copy of an Account kept by <lb/><note
+n="EJ">Edmund Jenings</note> of his payments to <lb/>Lady Fairfax,
 1716-1718</head>
 
 <opener>
@@ -136,46 +148,30 @@ analytical groupings.</p>
 </opener>
 <p>
 <table rows="18" cols="4">
-<row><cell>1716.</cell><cell>*</cell><cell>*</cell><cell>*</cell></row>
-<row><cell>Oct. &mdash;</cell> <cell>29 &mdash; &mdash; </cell><cell>Paid my Lady Fairfax
-&mdash; </cell><cell>  2<add resp="editor">00:0:0</add></cell></row>
-<row><cell>Dec &mdash;</cell> <cell>6 &mdash; &mdash; </cell><cell>Paid Lady Fairfax bills to Geo.
-Curtis</cell><cell>100:0:0</cell></row>
-<row><cell>*</cell><cell>*</cell><cell>Ditto paid Wm. Dixon &mdash; &mdash;
-</cell><cell>100:0:0</cell></row>
-<row><cell>*</cell><cell>14 &mdash; &mdash; &mdash; </cell><cell>Ditto to Chas. Brown &mdash;
-&mdash; </cell><cell> 34:0:0</cell></row>
-<row><cell>Jan.</cell><cell>19 &mdash; &mdash; </cell><cell>Ditto to Lord Fairfax &mdash;
-&mdash; </cell><cell>100:0:0</cell></row>
-<row><cell>Feb.</cell><cell>7 &mdash; &mdash; </cell><cell>Ditto to Geo. Curtis &mdash; &mdash;
-</cell><cell>58:0:0</cell></row>
-<row><cell>*</cell><cell>14 &mdash; &mdash; </cell><cell>Ditto to Do. &mdash; &mdash; &mdash;
-&mdash;</cell><cell> 58:0:0</cell></row>
-<row><cell>Mar:</cell><cell>1st. &mdash; </cell><cell>Ditto to Jno. Grenall &mdash; &mdash;</cell>
-<cell>100:0:0</cell></row>
-<row><cell>*</cell><cell>11.&mdash; </cell><cell>Ditto to Walter Wray &mdash; &mdash;
-</cell><cell>50:0:0</cell></row>
-<row><cell>1717.</cell><cell>*</cell><cell>*</cell><cell>*</cell></row>
-<row><cell>May</cell><cell>27.</cell><cell>Paid the Lady Fairfax &mdash; &mdash;
-</cell><cell>100:0:0</cell></row>
-<row><cell>July</cell><cell>20 &mdash; </cell><cell>Paid ditto Ld Fairfax &mdash; &mdash;
-&mdash; </cell><cell>50:0:0</cell></row>
-<row><cell>Oct.</cell><cell>14 &mdash; </cell><cell>Pd. Lady Fairfax &mdash; &mdash;
-</cell><cell>100:0:0</cell></row>
-<row><cell>Novr.</cell><cell>16 &mdash; </cell><cell>Lady Fairfax Exche. To Tho.
-Allen..</cell><cell>100:0:0</cell></row>
-<row><cell>December</cell><cell>10 &mdash; </cell><cell>Ditto George Curtis &mdash;
-</cell><cell>100:0:0</cell></row>
-<row><cell>December</cell><cell>23 &mdash; </cell><cell>Ditto to Ditto &mdash; &mdash;
-</cell><cell>100:0:0</cell></row>
-<row><cell>Janr.</cell><cell>27 &mdash; </cell><cell>Ditto to Plaisted &mdash;
-</cell><cell>17:13:0</cell></row>
-
+<row><cell>&nbsp;&nbsp;1716.</cell><cell>&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;<abbr expan="October ">Oct. </abbr> &mdash;</cell> <cell>&nbsp;&nbsp;29&mdash; &mdash;</cell><cell>&nbsp;&nbsp;Paid my Lady Fairfax&mdash;</cell><cell>&nbsp;&nbsp;  2<add resp="editor">00:0:0</add></cell></row>
+<row><cell>&nbsp;&nbsp;<abbr expan="December ">Dec </abbr> &mdash;</cell> <cell>&nbsp;&nbsp;6&mdash;&mdash;</cell><cell>&nbsp;&nbsp;Paid Lady Fairfax bills to <abbr expan="George ">Geo </abbr>. Curtis</cell><cell>&nbsp;&nbsp;100:0:0</cell></row>
+<row><cell>&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Ditto paid <abbr expan="William ">Wm. </abbr> Dixon&mdash;&mdash;</cell><cell>&nbsp;&nbsp;100:0:0</cell></row>
+<row><cell>&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;14 &mdash;&mdash;&mdash;</cell><cell>&nbsp;&nbsp;Ditto to <abbr expan="Charles ">Chas. </abbr> Brown&mdash;&mdash;</cell><cell>&nbsp;&nbsp; 34:0:0</cell></row>
+<row><cell>&nbsp;&nbsp;<abbr expan="January ">Jan. </abbr></cell><cell>&nbsp;&nbsp;19&mdash;&mdash; </cell><cell>&nbsp;&nbsp;Ditto to Lord Fairfax&mdash;&mdash;</cell><cell>&nbsp;&nbsp;100:0:0</cell></row>
+<row><cell>&nbsp;&nbsp;<abbr expan="February ">Feb. </abbr></cell><cell>&nbsp;&nbsp;7 &mdash;&mdash;</cell><cell>&nbsp;&nbsp;Ditto to <abbr expan="George ">Geo. </abbr> Curtis&mdash;&mdash;</cell><cell>&nbsp;&nbsp;58:0:0</cell></row>
+<row><cell>&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;14 &mdash;&mdash;</cell><cell>&nbsp;&nbsp;Ditto to <abbr expan="Ditto">Do. </abbr> &mdash;&mdash;&mdash;&mdash;</cell><cell>&nbsp;&nbsp; 58:0:0</cell></row>
+<row><cell>&nbsp;&nbsp;<abbr expan="March">Mar: </abbr></cell><cell>&nbsp;&nbsp;1st.&mdash;</cell><cell>&nbsp;&nbsp;Ditto to <abbr expan="John ">Jno. </abbr> Grenall&mdash;&mdash;</cell><cell>&nbsp;&nbsp;100:0:0</cell></row>
+<row><cell>&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;11.&mdash;</cell><cell>&nbsp;&nbsp;Ditto to Walter Wray&mdash;&mdash;</cell><cell>&nbsp;&nbsp;50:0:0</cell></row>
+<row><cell>&nbsp;&nbsp;1717.</cell><cell>&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;May</cell><cell>&nbsp;&nbsp;27.</cell><cell>&nbsp;&nbsp;Paid the Lady Fairfax&mdash;&mdash;</cell><cell>&nbsp;&nbsp;100:0:0</cell></row>
+<row><cell>&nbsp;&nbsp;July</cell><cell>&nbsp;&nbsp;20&mdash;</cell><cell>&nbsp;&nbsp;Paid ditto <abbr expan="Lord ">Ld </abbr>Fairfax &mdash;&mdash;&mdash;</cell><cell>&nbsp;&nbsp;50:0:0</cell></row>
+<row><cell>&nbsp;&nbsp;<abbr expan="October ">Oct. </abbr></cell><cell>&nbsp;&nbsp;14&mdash;</cell><cell>&nbsp;&nbsp;<abbr expan="Paid ">Pd. </abbr> Lady Fairfax&mdash;&mdash;</cell><cell>&nbsp;&nbsp;100:0:0</cell></row>
+<row><cell>&nbsp;&nbsp;<abbr expan="November ">Novr. </abbr></cell><cell>&nbsp;&nbsp;16&mdash;</cell><cell>&nbsp;&nbsp;Lady Fairfax <abbr expan="Exchange">Exche.</abbr> To <abbr expan="Thomas ">Tho.</abbr>Allen..</cell><cell>&nbsp;&nbsp;100:0:0</cell></row>
+<row><cell>&nbsp;&nbsp;December</cell><cell>&nbsp;&nbsp;10&mdash;</cell><cell>&nbsp;&nbsp;Ditto George Curtis&mdash;</cell><cell>&nbsp;&nbsp;100:0:0</cell></row>
+<row><cell>&nbsp;&nbsp;December</cell><cell>&nbsp;&nbsp;23&mdash;</cell><cell>&nbsp;&nbsp;Ditto to Ditto &mdash;&mdash;</cell><cell>&nbsp;&nbsp;100:0:0</cell></row>
+<row><cell>&nbsp;&nbsp;<abbr expan="January ">Janr. </abbr></cell><cell>&nbsp;&nbsp;27&mdash;</cell><cell>&nbsp;&nbsp;Ditto to Plaisted&mdash;</cell><cell>&nbsp;&nbsp;17:13:0</cell></row>
 </table><lb/><lb/>
 
-<add resp="hand">A true Copy of a Paper recd <sic corr="from">from<lb/>from</sic> Coll Jennings
-per<lb/><lb/>
-ROBERT CARTER</add></p>
+<add resp="hand"><hi rend="italics">A true Copy of a Paper
+<abbr expan= "received ">recd </abbr> <sic
+corr="from">from<lb/>from</sic>Coll Jennings per<lb/><lb/>ROBERT
+CARTER</hi></add></p>
 
 </div1>
 </body>
@@ -184,10 +180,13 @@ ROBERT CARTER</add></p>
 <div1 type="notes">
 <head>NOTES</head>
 
-<note><hi rend="italics">Source copy consulted: </hi>BR 227, Fairfax Papers,   Huntington Library, Art Collections, and Botanical Gardens, San Marino, California.</note>
+<note><hi rend="italics">Source copy consulted: </hi>BR 227, Fairfax
+Papers,   Huntington Library, Art Collections, and Botanical Gardens,
+San Marino, California.</note>
 
-All cells in the table above containing an "*" are empty in the original. The asterisk was inserted to force all the lines of the cell to appear because browsers do not properly display empty cells. A slip has been pasted to the lower right corner of the document with the following in a later handwriting, "Attest. Only in | R. Carter's hand."
+<note>The certification and signature are in Robert Carter's hand as is shown by the use of italics.</note>
 
+<note>A slip has been pasted to the lower right corner of the document with the following in a later handwriting, "Attest. Only in | R. Carter's hand."</note>
 
 </div1>
 </back>

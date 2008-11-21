@@ -18,18 +18,20 @@
              
 <fileDesc>
 <titleStmt>
-     <title type="245">Letter from Robert Carter to John Carter, July 13, 1720</title>
+     <title type="245">Letter from Robert Carter to [John Carter,
+July 13, 1720]</title>
    <title type="gmd">[electronic resource]</title>
      <author>Carter, Robert</author>
    <respStmt>
      <resp>Creation of machine-readable version: </resp>
      <name id="editor">Edmund Berkeley, Jr.</name>
      <resp>Conversion to TEI.2-conformant markup</resp>
-     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+     <name>Edmund Berkeley, Jr. and the University of Virginia
+Library Electronic Text Center</name>
    </respStmt>
 </titleStmt>
 
-<extent>ca. 5 kilobytes </extent>
+<extent>ca. 6 kilobytes </extent>
 
 <publicationStmt>
      <publisher>University of Virginia Library.</publisher>
@@ -37,7 +39,8 @@
      <idno type="ETC">filename</idno>
      <availability>
      <p>Publicly accessible</p>
-     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+     <p n="public">URL:
+http://etext.lib.virginia.edu/users/berkeley/</p>
          </availability>
      <date>2001</date>
 </publicationStmt>
@@ -45,13 +48,16 @@
 <sourceDesc>
      <biblFull>
      <titleStmt>
-     <title>Letter from Robert Carter to John Carter, July 13, 1720</title>
+     <title>Letter from Robert Carter to [John Carter,
+July 13, 1720]</title>
      <author>Robert Carter</author>
 </titleStmt>
-    <extent>x p.</extent>
+    <extent>1 p.</extent>
 <publicationStmt>
      <date>unpublished</date>
-   <idno type="callNo"> Source copy consulted:  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. 
+   <idno type="callNo"> Source copy consulted:  Robert Carter Letter
+Book, 1720 July-1721 July, BR 227, Huntington Library, Art
+Collections, and Botanical Gardens, San Marino, California. 
 </idno>
 </publicationStmt>
 </biblFull>
@@ -60,14 +66,17 @@
 </fileDesc>
      <encodingDesc>
      <projectDesc>
-     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     <p>Prepared for the University of Virginia Library Electronic
+Text Center.</p>
      </projectDesc>
 <editorialDecl>
-     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+     <p>Some keywords in the header are a local electronic Text
+Center scheme to aid in  establishing analytical groupings.</p>
 </editorialDecl>
 
 <classDecl>
-     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject
+Headings</title></bibl></taxonomy>
 </classDecl>
 </encodingDesc>
 
@@ -76,7 +85,8 @@
      <langUsage><language id="eng"></language></langUsage>
      <textClass>
      <keywords><term>non-fiction</term><term>prose</term></keywords>
-     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     <keywords scheme="LCSH"><term
+type="Field650">LCSH</term></keywords>
      </textClass>
 </profileDesc>
 
@@ -92,17 +102,24 @@
 <extent>1 pp.</extent>
 <date value="1720-07-13">July 13, 1720</date>
 <idno rend="suppress">C20g13b</idno>
-<title>Letter from Robert Carter to John Carter, July 13, 1720</title>
+<title>Letter from Robert Carter to [John Carter, July 13,
+1720]</title>
 </bibl>
 </head>
-<p>Robert Carter writes to his son John Carter, then in London studying law, about July 13, 1720, reporting in the closing fragment that survives that the family is well and expressing his hope that John "may be a wise &amp; Good man &amp; prove a Comfort to Yor. family." </p>
+<p>Robert Carter writes to his son John Carter, then in London
+studying law, about July 13, 1720, reporting in the closing fragment
+that survives that the family is well and expressing his hope that
+John "may be a wise &amp; Good man &amp; prove a Comfort to Yor.
+family." </p>
 </div1>                 
 </front>
 
 
 <body>
 <div1 type="letter" n="1">
-<head>Letter from Robert Carter to [<note n="JC1">John Carter,</note> July 13, 1720]</head>
+<head>Letter from Robert Carter to <corr resp="editor">[<note
+n="JC1">John
+Carter,</note> July 13, 1720]</corr> </head>
 <opener>
 <dateline>
 <pb n="1"/>
@@ -113,8 +130,11 @@
 </opener>
 
 
-<p><add resp="editor">[. . . ]</add> Country fitted for Yor. Duty to Yor. God &amp; Neighbours <lb/>
-Yor bro<add resp="editor">[the]</add>rs and Sisters &amp; all Yor relations are well I thank <lb/>
+<p><corr resp="editor">[. . . ]</corr>  Country fitted for Yor. Duty
+to
+Yor. God &amp; Neighbours <lb/>
+Yor bro<corr resp="editor">[the]</corr> rs and Sisters &amp; all Yor
+relations are well I thank <lb/>
 God at this time to whose mercifull providence &amp; Guidance <lb/>
 I Commit You making It my daily request That You may <lb/>
 be a wise &amp; Good man &amp; prove a Comfort to Yor. <lb/>
@@ -124,7 +144,7 @@ family particularly to&mdash;<lb/>
  </p>
 
 </div1>
-<closer>Yor Dear <abbr expan="affectionate">Afft.</abbr>
+<closer>Yor Dear <abbr expan="Affectionate">Afft.</abbr>
  Father</closer></body>
 
 <back>
@@ -132,11 +152,26 @@ family particularly to&mdash;<lb/>
 <div1 type="back matter">
 <head>NOTES</head>
 
-<note><hi rend="italics">Source copy consulted: </hi>  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. Printed: <cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> p. 1.</bibl></cit></note>
+<note><hi rend="italics">Source copy consulted: </hi>  Robert Carter
+Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art
+Collections, and Botanical Gardens, San Marino, California. Printed:
+<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . .
+.</title> p. 1.</bibl></cit></note>
 
-<note id="x">The preceding leaf or leaves of the letterbook have been lost. From the context, it is clear that this letter was addressed to RC's oldest son John, then in London studying law. The next letter in the letter book bears the date which has been tentatively assigned to the closing portion of a letter to John Carter.</note>
+<note>The preceding leaf or leaves of the letterbook have
+been lost. From the context, it is clear that this letter was
+addressed to RC's oldest son John, then in London studying law. The
+next letter in the letter book bears the date which has been
+tentatively assigned to the closing portion of this letter.</note>
 
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The return address, county, and state have been added for clarity to this letter fragment.</note><lb/>
+<note>Robert Carter generally used a return address of
+"Rappahannock" for the river on which he lived rather than
+"Corotoman," the name of his home, on his correspondence, especially
+to merchants abroad. The return address, county, and colony have been
+added for clarity to this letter fragment.</note><lb/>
+
+<lb/><lb/><note><hi rend="italics">This text revised November 19,
+2008.</hi></note>
 
 </div1>
 
