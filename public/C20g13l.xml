@@ -1,5 +1,6 @@
 <?xml version="1.0"?>
 
+
 <?xml-stylesheet href="carter.xsl" type="text/xsl"?>
 
 <!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
@@ -18,14 +19,16 @@
              
 <fileDesc>
 <titleStmt>
-     <title type="245">Letter from Robert Carter to Edward Tucker, July 13, 1720</title>
+     <title type="245">Letter from Robert Carter to Edward Tucker,
+July 13, 1720</title>
    <title type="gmd">[electronic resource]</title>
      <author>Carter, Robert</author>
    <respStmt>
      <resp>Creation of machine-readable version: </resp>
      <name id="editor">Edmund Berkeley, Jr.</name>
      <resp>Conversion to TEI.2-conformant markup</resp>
-     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+     <name>Edmund Berkeley, Jr. and the University of Virginia
+Library Electronic Text Center</name>
    </respStmt>
 </titleStmt>
 
@@ -37,7 +40,8 @@
      <idno type="ETC">filename</idno>
      <availability>
      <p>Publicly accessible</p>
-     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+     <p n="public">URL:
+http://etext.lib.virginia.edu/users/berkeley/</p>
          </availability>
      <date>2001</date>
 </publicationStmt>
@@ -45,13 +49,16 @@
 <sourceDesc>
      <biblFull>
      <titleStmt>
-     <title>Letter from Robert Carter to Edward Tucker, July 13, 1720</title>
+     <title>Letter from Robert Carter to Edward Tucker, July 13,
+1720</title>
      <author>Robert Carter</author>
 </titleStmt>
     <extent>1 p.</extent>
 <publicationStmt>
      <date>unpublished</date>
-   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. 
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter
+Book, 1720 July-1721 July, BR 227, Huntington Library, Art
+Collections, and Botanical Gardens, San Marino, California. 
 </idno>
 </publicationStmt>
 </biblFull>
@@ -60,14 +67,17 @@
 </fileDesc>
      <encodingDesc>
      <projectDesc>
-     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     <p>Prepared for the University of Virginia Library Electronic
+Text Center.</p>
      </projectDesc>
 <editorialDecl>
-     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+     <p>Some keywords in the header are a local electronic Text
+Center scheme to aid in  establishing analytical groupings.</p>
 </editorialDecl>
 
 <classDecl>
-     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject
+Headings</title></bibl></taxonomy>
 </classDecl>
 </encodingDesc>
 
@@ -76,7 +86,8 @@
      <langUsage><language id="eng"></language></langUsage>
      <textClass>
      <keywords><term>non-fiction</term><term>prose</term></keywords>
-     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     <keywords scheme="LCSH"><term
+type="Field650">LCSH</term></keywords>
      </textClass>
 </profileDesc>
 
@@ -89,13 +100,27 @@
 <head>
 <bibl>
 <abbr>AL</abbr>
-<extent>1 pp.</extent>
+<extent>1 p.</extent>
 <date value="1720-07-13"></date>
 <idno rend="suppress">work id</idno>
-<title>Letter from Robert Carter to Edward Tucker, July 13, 1720</title>
+<title>Letter from Robert Carter to Edward Tucker, July 13,
+1720</title>
 </bibl>
 </head>
-<p>Robert Carter writes to Weymouth merchant Edward Tucker, July 13, 1720, concerning a bill of exchange, a shipment of 30 hogsheads of tobacco on board the Brimpton, Virginia expectations of a good market for tobacco with the Spanish and French markets now open, and smaller numbers of outport ships in the colony. He had expected to ship more tobacco by the Brimpton, but Captain Russel had so much tobacco to carry he was glad not to have to take more of Carter's which went to London. He adds that he has drawn a bill of exchange for &pound;100 to Edmund Jenings, complains mildly that he has not received current accounts from Tucker, doubles his order for wood flooring blocks, and repeats an order for Southampton cyder. He concludes with orders for good white wine and ale, having given up drinking red because of his gout, and tells Tucker that Captain Russel will give him the Virginia news.</p>
+<p>Robert Carter writes to Weymouth merchant Edward Tucker, July 13,
+1720, concerning a bill of exchange, a shipment of 30 hogsheads of
+tobacco on board the <hi rend="italics">Brimpton,</hi> Virginia expectations of a good market
+for tobacco with the Spanish and French markets now open, and smaller
+numbers of outport ships in the colony. He had expected to ship more
+tobacco by the <hi rend="italics">Brimpton,</hi> but Captain Russel had so much tobacco to
+carry he was glad not to have to take more of Carter's which went to
+London. He adds that he has drawn a bill of exchange for &pound;100
+to Edmund Jenings, complains mildly that he has not received current
+accounts from Tucker, doubles his order for wood flooring blocks, and
+repeats an order for Southampton cyder. He concludes with orders for
+good white wine and ale, having given up drinking red because of his
+gout, and tells Tucker that Captain Russel will give him the Virginia
+news.</p>
 </div1>                 
 </front>
 
@@ -103,37 +128,84 @@
 
 <body>
 <div1 type="letter" n="1">
-<head>Letter from Robert Carter to <note n="ET">Edward Tucker,</note> July 13, 1720</head>
+<head>Letter from Robert Carter to <note n="ET">Edward
+Tucker,</note> July 13, 1720</head>
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster
+County, Virginia]</add></name><lb/>
 <date value="1720-07-13">July 13th. 1720</date><lb/>
-Mr. Edwd. Tucker<lb/>
+Mr. <abbr expan="Edward ">Edwd. </abbr> Tucker<lb/>
 </dateline>
 <salute>Sir&mdash;&mdash;</salute>
 
 </opener>
 
-<p>In my last I Accquainted You I did not know <lb/>but that I had drawn a bill upon you payable to one <lb/>Thompson since wch. I'm advisd twas drawn upon another person</p>
+<p>In my last I Accquainted You I did not know <lb/>but that I had
+drawn a bill upon you payable to one <lb/>Thompson since wch. I'm
+advisd twas drawn upon another person</p>
 
-<p>This Accompanies a bill of Lading for 30 hogsheads <lb/>of Tobo. on board the <note target="n1"><name type="ship">Brimpton</name></note> 27 of them <abbr expan="stemmed">stemd</abbr>
- I wish them <lb/>Safe &amp; to a good Markett, We have hopes the Spanish <lb/>and the French Trade being both open &amp; considering the outport <lb/>Ships are a great Deal fewer this year than they was <lb/>last, <abbr expan="tobacco">Tobo.</abbr>
- may Do tollerably well, I had promist Captn. <lb/><add resp="editor">[Giles] </add>Russel 20 hogsheads for the new Ship but he was so overwhelmd <lb/>wth. Tobo. he was glad to <sic corr="quit">quitt</sic> me &amp; I have now sent It <lb/>for London, If You cannot find a way to keep pace wth. <lb/>that Market, you'l grow quite out of Credit wth. us.
+<p>This Accompanies a bill of Lading for 30 hogsheads <lb/>of Tobo.
+on board the <note target="n1"><name
+type="ship">Brimpton</name></note> 27 of them <abbr
+expan="stemmed">stemd</abbr>
+ I wish them <lb/>Safe &amp; to a good <sic corr="Market,
+">Markett,</sic> We have hopes the
+Spanish <lb/>and the French Trade being both open &amp; considering
+the outport <lb/>Ships are a great Deal fewer this year than they was
+<lb/>last, <abbr expan="tobacco">Tobo.</abbr>
+ may Do <sic corr="tolerably ">tollerably</sic> well, I had <sic
+corr="promised ">promist</sic> <abbr expan="Captain ">Captn.</abbr>
+<lb/>
+<corr resp="editor">[Giles]</corr>  Russel 20 hogsheads for the new
+Ship but
+he was so <sic corr="overwhelmed ">overwhelmd</sic> <lb/>wth. Tobo.
+he was glad to <sic
+corr="quit">quitt</sic> me &amp; I have now sent It <lb/>for London,
+If You cannot find a way to keep pace wth. <lb/>that Market, you'l
+grow quite out of Credit wth. us.
 </p>
-<p>I have lately Drawn on You for &pound;100 payable <lb/>to <note n="EJ">Edmund Jennings </note> <abbr expan="Esquire">Esqr.</abbr>
+<p>I have lately Drawn on You for &pound;100 payable <lb/>to <note
+n="EJ">Edmund Jennings </note> <abbr expan="Esquire">Esqr.</abbr>
  wch. request you to <abbr expan="answer">Ansr.</abbr>
- at <lb/>time, It would have <abbr expan="been">bin</abbr>
- very Sattisfactory to me <lb/>to have received my Accot. Currt. from You, That I may <lb/>know upon <abbr expan="what">wt.</abbr>
- Ground I Stand, I shall go <sic corr="near">neer</sic> to make <lb/>some further use of You before This Summer's out <lb/>I will be well If I Do not reckon my Self stronger in Yor. <lb/>books Than really I am, instead of 1,000 foot of <abbr expan="board">Bd.</abbr>
- <lb/><note target="n2">Paviour</note> wch. I writ to You for before I now desire You <lb/>to Send me in two Thousand foot &amp; also the <note target="n3"><sic corr="Southampton cyder"><add place="supralinear">south</add> Ham Cyder</sic></note> I <lb/>writ to You for before,</p>
+ at <lb/>time, It would have bin
+ very <sic corr="Satisfactory ">Sattisfactory</sic> to me <lb/>to
+have received my Accot. Currt.
+from You, That I may <lb/>know upon wt. 
+ Ground I Stand, I shall go <sic corr="near">neer</sic> to make
+<lb/>some further use of You before This Summer's out <lb/>I will be
+well If I Do not reckon my Self stronger in Yor. <lb/>books Than
+really I am, instead of 1,000 foot of <abbr expan="board">Bd.</abbr>
+ <lb/><note target="n2">Paviour</note> wch. I <sic corr="wrote
+">writ</sic> to You for before
+I now desire You <lb/>to Send me in two Thousand foot &amp; also the
+<note target="n3"><sic corr="Southampton cyder"><add
+place="supralinear">south</add> Ham Cyder</sic></note> I <lb/><sic
+corr="wrote ">writ</sic> to
+You for before,</p>
 
-<p>Since I have <abbr expan="been">bin</abbr>
- afflicted wth. the Gout I have <lb/>quite left off Drinking red wine, I Drank more of Yor. Margoos <lb/>yesterday wth. Russell than I have done this twelve <abbr expan="months">mo.</abbr>
- If <lb/>You could send me in a Gross or 18 <abbr expan="dozen">doz.</abbr>
- of good White wine such <lb/>as Captn. Russell knows I love upon reasonable <sic corr="terms">termes</sic> &amp; in <lb/>good large bottles <sic corr="it would">twould</sic> be acceptable, &amp; If he brings <lb/>me in 20 <abbr expan="dozen">doz.</abbr> of right Good Ale It would not be amiss <lb/>Yor. beer in cask dos not stand It well <sic corr="whatever">wt.ever</sic> is the reason <lb/>Yor. Master hath so large a budget of <sic corr="news">newes</sic> &amp; is so good a <lb/>historian that I shall give my self no further Trouble <add place="supralinear">but refer you wholly to him</add> <lb/>&amp; subscribe </p>
+<p>Since I have bin 
+ afflicted wth. the Gout I have <lb/>quite left off Drinking red
+wine, I Drank more of Yor. <sic corr="Margaux ">Margoos</sic>
+<lb/>yesterday wth. Russell than I
+have done this twelve <abbr expan="months">mo.</abbr>
+ If <lb/>You could send me in a Gross or 18 <abbr
+expan="dozen">doz.</abbr>
+ of good White wine such <lb/>as Captn. Russell knows I love upon
+reasonable <sic corr="terms">termes</sic> &amp; in <lb/>good large
+bottles <sic corr="it would">twould</sic> be acceptable, &amp; If he
+brings <lb/>me in 20 <abbr expan="dozen">doz.</abbr> of right Good
+Ale It would not be amiss <lb/>Yor. beer in cask dos not stand It
+well <sic corr="whatever">wt.ever</sic> is the reason <lb/>Yor.
+Master <sic corr="has ">hath </sic> so large a budget of <sic
+corr="news">newes</sic> &amp;
+is so good a <lb/>historian that I shall give my self no further
+Trouble <add place="supralinear">but refer you wholly to him</add>
+<lb/>&amp; subscribe </p>
 
-<closer><seg type="postscript"></seg>Sir Yor. very humble Servt.</closer>
+<closer><seg type="postscript"></seg>Sir Yor. very humble
+Servt.</closer>
 
 </div1>
 
@@ -145,18 +217,34 @@ Mr. Edwd. Tucker<lb/>
 
 <div1 type="back matter">
 <head>NOTES</head>
-<note><hi rend="italics">Source copy consulted:</hi>  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. Printed: <cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> pp. 15-16.</bibl></cit>
+<note><hi rend="italics">Source copy consulted:</hi>  Robert Carter
+Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art
+Collections, and Botanical Gardens, San Marino, California. Printed:
+<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . .
+.</title> pp. 15-16.</bibl></cit>
 </note>
 
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note><lb/>
+<note>Robert Carter generally used a return address of
+"Rappahannock" for the river on which he lived rather than
+"Corotoman," the name of his home, on his correspondence, especially
+to merchants abroad. The county and colony have been added for
+clarity.</note><lb/>
 
-<note id="n1">[1] Captain Giles Russell commanded the <name type="ship"><hi rend="italics">Brimpton</hi></name>, a vessel which sailed often from Weymouth to Virginia from at least as early as 1711. (Survey Report 9711, <bibl id="M11">Survey Reports, Virginia Colonial Records Project.</bibl>)</note>
+<note id="n1">[1] Captain Giles Russell commanded the <name
+type="ship"><hi rend="italics">Brimpton</hi></name>, a vessel which
+sailed often from Weymouth to Virginia from at least as early as
+1711. (<cit><bibl id="M11">Survey Report 9711, Survey Reports,
+Virginia
+Colonial Records Project.</bibl></cit>)</note>
 
 
-<note id="n2">[2] A pavoir literally is a paving stone, but RC seems to mean a type of wood flooring.</note>
+<note id="n2">[2] A pavoir literally is a paving stone, but RC seems
+to mean a type of wood flooring.</note>
 
-<note id="n3">[3] Louis Wright made a tentative reading of these words as "tenth (?) item (?) order." </note>
-</div1>
+<note id="n3">[3] Louis Wright made a tentative reading of these
+words as "tenth (?) item (?) order." </note>
+
+<lb/><lb/><lb/><lb/><note><hi rend="italics">This text revised December 1, 2008.</hi></note></div1>
 </back>
 
 </text>

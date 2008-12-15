@@ -18,18 +18,20 @@
              
 <fileDesc>
 <titleStmt>
-     <title type="245">Letter from Robert Carter to Richard Perry, July 13, 1720</title>
+     <title type="245">Letter from Robert Carter to Richard Perry,
+July 13, 1720</title>
    <title type="gmd">[electronic resource]</title>
      <author>Carter, Robert</author>
    <respStmt>
      <resp>Creation of machine-readable version: </resp>
      <name id="editor">Edmund Berkeley, Jr.</name>
      <resp>Conversion to TEI.2-conformant markup</resp>
-     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+     <name>Edmund Berkeley, Jr. and the University of Virginia
+Library Electronic Text Center</name>
    </respStmt>
 </titleStmt>
 
-<extent>ca. 10 kilobytes </extent>
+<extent>ca. 13 kilobytes </extent>
 
 <publicationStmt>
      <publisher>University of Virginia Library.</publisher>
@@ -37,7 +39,8 @@
      <idno type="ETC">filename</idno>
      <availability>
      <p>Publicly accessible</p>
-     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+     <p n="public">URL:
+http://etext.lib.virginia.edu/users/berkeley/</p>
          </availability>
      <date>2001</date>
 </publicationStmt>
@@ -45,13 +48,16 @@
 <sourceDesc>
      <biblFull>
      <titleStmt>
-     <title>Letter from Robert Carter to Richard Perry, July 13, 1720</title>
+     <title>Letter from Robert Carter to Richard Perry, July 13,
+1720</title>
      <author>Robert Carter</author>
 </titleStmt>
     <extent>2 p.</extent>
 <publicationStmt>
      <date>unpublished</date>
-   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California.</idno>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter
+Book, 1720 July-1721 July, BR 227, Huntington Library, Art
+Collections, and Botanical Gardens, San Marino, California.</idno>
 </publicationStmt>
 </biblFull>
 </sourceDesc>
@@ -59,14 +65,17 @@
 </fileDesc>
      <encodingDesc>
      <projectDesc>
-     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     <p>Prepared for the University of Virginia Library Electronic
+Text Center.</p>
      </projectDesc>
 <editorialDecl>
-     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+     <p>Some keywords in the header are a local electronic Text
+Center scheme to aid in  establishing analytical groupings.</p>
 </editorialDecl>
 
 <classDecl>
-     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject
+Headings</title></bibl></taxonomy>
 </classDecl>
 </encodingDesc>
 
@@ -75,7 +84,8 @@
      <langUsage><language id="eng"></language></langUsage>
      <textClass>
      <keywords><term>non-fiction</term><term>prose</term></keywords>
-     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     <keywords scheme="LCSH"><term
+type="Field650">LCSH</term></keywords>
      </textClass>
 </profileDesc>
 
@@ -91,11 +101,34 @@
 <extent>2 pp.</extent>
 <date value="1720-07-13"></date>
 <idno rend="suppress">C20g13k</idno>
-<title>Letter from Robert Carter to Richard Perry, July 13, 1720</title>
+<title>Letter from Robert Carter to Richard Perry, July 13,
+1720</title>
 </bibl>
 </head>
-<p>Robert Carter writes at length to London merchant Richard Perry (son of Micajah), July 13, 1720, thanking him for his advice about handling attacks of gout; Carter will no longer drink claret. He finds the prices realized for his tobacco quite acceptable but warns again of his concern about selling his tobacco near the end of the market, and then comments on Perry's complaint of Carter's tobacco having "a Smoaky smell," noting that it is necessary to use fires in the curing houses when there is "funky foggy weather."   He agrees with Perry that the opening of the "The Spanish Trade as well as the French" should make good markets for tobacco, and notes that ship captains will be reporting at home the Virginian's expectations of the best crop in some years. He is resolving to be more careful in his tobacco production since he is irritated that Mr. Pratt gets better prices for tobacco "that comes from all parts of their County low lands as well as high" when his own lands are better. He continues with comments on his bank stock and annuities, and "printed proposals of the South Sea Company &amp; the Bank to the Parliament" which Col. Harrison had when Carter was in Williamsburg. He asks that Perry "act wth. the same prudent 
-regard to my Interest as you Do for Yor. own."  And he adds some remarks about his upcoming heavy expenses. He concludes by thanking Perry for "the commendable Character You give me of my Son" which pleases Carter as the expenses of John's education have been heavy and any more would have left him "at a loss to know 
+<p>Robert Carter writes at length to London merchant Richard Perry
+(son of Micajah), July 13, 1720, thanking him for his advice about
+handling attacks of gout; Carter will no longer drink claret. He
+finds the prices realized for his tobacco quite acceptable but warns
+again of his concern about selling his tobacco near the end of the
+market, and then comments on Perry's complaint of Carter's tobacco
+having "a Smoaky smell," noting that it is necessary to use fires in
+the curing houses when there is "funky foggy weather."   He agrees
+with Perry that the opening of the "The Spanish Trade as well as the
+French" should make good markets for tobacco, and notes that ship
+captains will be reporting at home the Virginian's expectations of
+the best crop in some years. He is resolving to be more careful in
+his tobacco production since he is irritated that Mr. Pratt gets
+better prices for tobacco "that comes from all parts of their County
+low lands as well as high" when his own lands are better. He
+continues with comments on his bank stock and annuities, and "printed
+proposals of the South Sea Company &amp; the Bank to the Parliament"
+which Col. Harrison had when Carter was in Williamsburg. He asks that
+Perry "act wth. the same prudent 
+regard to my Interest as you Do for Yor. own."  And he adds some
+remarks about his upcoming heavy expenses. He concludes by thanking
+Perry for "the commendable Character You give me of my Son" which
+pleases Carter as the expenses of John's education have been heavy
+and any more would have left him "at a loss to know 
 how to keep the rest of my family from want." </p>
 </div1>                 
 </front>
@@ -104,45 +137,151 @@ how to keep the rest of my family from want." </p>
 
 <body>
 <div1 type="letter" n="1">
-<head>Letter from Robert Carter to Richard Perry, July 13, 1720</head>
+<head>Letter from Robert Carter to <note n="MP">Richard
+Perry,</note> July 13, 1720</head>
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster
+County, Virginia]</add></name><lb/>
 <date value="1720-07-13">July 13 1720</date><lb/>
-Mr. Richd. Perry<lb/>
+Mr. <abbr expan="Richard ">Richd. </abbr> Perry<lb/>
 </dateline>
 <salute>Sir&mdash;</salute>
 
 </opener>
 
-<p>Yors. of the 13th. of Feb. By a Marylander <lb/>came to me 5 Days <sic corr="ago">agon</sic>, The kind advice You give me for <lb/>the <abbr expan="management">managemt</abbr>
- of my self in the Gout is very Acceptable, I <lb/>have had no touch of It since my first fitt. It made me quite <lb/>leave off Drinking <sic corr="claret">Clarrett</sic> as I resolve to do every thing else <lb/><add place="supralinear">I shall be advis'd</add><lb/> That may any ways contribute to that Distemper&mdash;</p>
+<p>Yors. of the 13th. of <abbr expan="February ">Feb. </abbr> By a
+Marylander <lb/>came to me 5 Days
+<sic corr="ago">agon</sic>, The kind advice You give me for <lb/>the
+<abbr expan="management">managemt</abbr>
+ of my self in the Gout is very Acceptable, I <lb/>have had no touch
+of It since my first <sic corr="fit. ">fitt.</sic> It made me quite
+<lb/>leave off Drinking
+<sic corr="claret">Clarrett</sic> as I resolve to do every thing else
+<lb/><add place="supralinear">I shall be advis'd</add><lb/> That may
+any ways contribute to that Distemper&mdash;</p>
 
-<p>The <sic corr="prices">prizes</sic> You have sold my Tobacco at hitherto I am well Enough <lb/>pleasd wth. If you do but put off the rest as well I shall be easy. <lb/>These <sic corr="lag">lagg</sic> Sales are always <add place="supralinear">a terrour to me</add> You complain of some <lb/>of my Tobo. having a <sic corr="smoky">Smoaky</sic> smell I do not know the meaning <lb/>of It, our Tobo. houses are Separated <sic corr="far">farr</sic> enough from our <lb/>Q<add resp="editor">[uarte]</add>rs indeed Sometimes in funky foggy weather <add place="supralinear">when Tobo. is just upon turning</add> we are <sic corr="forced">forst</sic> <lb/>to make smothers <del> under our howses</del> <add place="supralinear"> in our <sic corr="houses">howses</sic></add> to Dry It, &amp; this is what's <lb/>practiced by the best planters in virginia &amp; Ever was since I <lb/>have <sic corr="been">bin</sic> acquainted wth. The making of Tobo., We have <lb/>hopes The Spanish Trade as well as the French being open <lb/>You will not find Yor. selves <sic corr="mistaken">mistaking</sic> in Yor. Expectati<add resp="editor">[on]</add>  <lb/>of a Standing <sic corr="market">Markett</sic> for some Years, we reckon we have had <lb/>a great many fewer Ships This Year than the last, indeed <lb/><sic corr="they'll">they'l</sic> all go <sic corr="near">neer</sic> to return full &amp; Some Tobacco will be left <lb/>&amp; They will bring You the <sic corr="storey">Storey</sic> of a fair Crop being in <lb/>the Ground. but how that will Issue no body knows It <lb/>looks hitherto to promise to be better Tobo. than we have <lb/>had for some Years I take up resolut<add resp="editor">[ion]</add>s: to be nicer in the <lb/>handling of mine than Ever I was Yett, It troubles <lb/>me not a little that <note target="n1">Mr. Pratt</note> should gett more for <lb/>his Miscelaneous stuff that comes from all parts of <lb/>their County <add place="supralinear">low</add> lands as well as high than I do <lb/>for mine that is made wth. my own people &amp; upon as good &amp; <lb/>proper <add resp="editor">[lands]</add> as any body can boast of</p>
+<p>The <sic corr="prices">prizes</sic> You have sold my Tobacco at
+hitherto I am well Enough <lb/><sic corr="pleased ">pleasd</sic>
+wth. If you do but put off the
+rest as well I shall be easy. <lb/>These <sic corr="lag">lagg</sic>
+Sales are always <add place="supralinear">a terrour to me</add> You
+complain of some <lb/>of my Tobo. having a <sic
+corr="smoky">Smoaky</sic> smell I do not know the meaning <lb/>of It,
+our Tobo. houses are Separated <sic corr="far">farr</sic> enough from
+our <lb/>Q<corr resp="editor">[uarte]</corr> rs indeed Sometimes in
+funky foggy weather <add place="supralinear">when Tobo. is just upon
+turning</add> we are <sic corr="forced">forst</sic> <lb/>to make
+smothers <del> under our <sic corr="houses ">howses</sic></del> <add
+place="supralinear"> in
+our <sic corr="houses">howses</sic></add> to Dry It, &amp; this is
+what's <lb/>practiced by the best planters in virginia &amp; Ever was
+since I <lb/>have bin acquainted wth. The
+making of Tobo., We have <lb/>hopes The Spanish Trade as well as the
+French being open <lb/>You will not find Yor. selves <sic
+corr="mistaken">mistaking</sic> in Yor. Expectati<corr
+resp="editor">[on] </corr>  <lb/>of a Standing <sic
+corr="market">Markett</sic> for some Years, we reckon we have had
+<lb/>a great many fewer Ships This Year than the last, indeed
+<lb/><sic corr="they'll">they'l</sic> all go <sic
+corr="near">neer</sic> to return full &amp; Some Tobacco will be left
+<lb/>&amp; They will bring You the <sic corr="Story">Storey</sic> of
+a fair Crop being in <lb/>the Ground. but how that will Issue no body
+knows It <lb/>looks hitherto to promise to be better Tobo. than we
+have <lb/>had for some Years I take up <abbr expan="resolutions
+">resoluts: </abbr> to be nicer in the <lb/>handling of mine
+than Ever I was <sic corr="Yet, ">Yett,</sic> It troubles <lb/>me
+not a little that <note
+target="n1">Mr. Pratt</note> should gett more for <lb/>his
+Miscelaneous stuff that comes from all parts of <lb/>their County
+<add place="supralinear">low</add> lands as well as high than I do
+<lb/>for mine that is made wth. my own people &amp; upon as good
+&amp; <lb/>proper <add resp="editor">[lands]</add> as any body can
+boast of</p>
 
 <pb n="2"/><lb/><lb/>
-<p>You have sett me right about my bank Stock I was afraid 100 <add place="supralinear">taken away</add> would have <lb/><abbr expan="proved">prov'd</abbr>
- 100 Diminution but It seems the remaining 90 Stands in the place of <lb/>The 100, Yor. observation of the Annuities I can say little to more Than I <lb/>already have. In the begining of May at <abbr expan="Williamsburg">Wmsburg</abbr>
- <note n="NH">Colo. Harrison</note> by some <lb/>means had gott the <add place="supralinear">printed</add> proposals of the South Sea Company &amp; the Bank <lb/>to the Parliament, wch. presently <abbr expan="alarmed">alarm'd</abbr>
+<p>You have <sic corr="set ">sett</sic> me right about my bank Stock
+I was afraid 100 <add
+place="supralinear">taken away</add> would have <lb/><abbr
+expan="proved">prov'd</abbr>
+ 100 Diminution but It seems the remaining 90 Stands in the place of
+<lb/>The 100, Yor. observation of the Annuities I can say little to
+more Than I <lb/>already have. In the begining of May at <abbr
+expan="Williamsburg">Wmsburg</abbr>
+ <note n="NH"><abbr expan="Colonel ">Colo. </abbr> Harrison</note>
+by some <lb/>means had <sic corr="gotten ">gott</sic> the
+<add place="supralinear">printed</add> proposals of the South Sea
+Company &amp; the Bank <lb/>to the Parliament, wch. presently <abbr
+expan="alarmed">alarm'd</abbr>
  me and from York <abbr expan="River">Rivr.</abbr>
-<lb/>I <sic corr="wrote">writ</sic> to You <abbr expan="about">abt</abbr>
-. It. Desiring You <add place="supralinear">would</add> act wth. the same prudent <lb/>regard to my Interest as you Do for Yor. own there I left <lb/>It then And So I think must do now. That annuity what time <lb/>I had come in It whether 96 or 99 Years I never Yett knew. You may <lb/>please to remember that fund was never yett very grateful <lb/>to me I took It in compliment to You because You told me you had <lb/>purchasd It for me otherwise I had rather <sic corr="been">bin</sic> wth.out <sic corr="Its">It</sic> 4 perCt. is <lb/>so poor a <sic corr="premium">premio</sic> I will never <add place="supralinear">take so little again </add>This Year <lb/>I Shall find so many ways for the Drawing out my money I have <lb/>no occasion to <del>try</del> <add place="supralinear"> contrive</add> new ones for <add place="supralinear">letting go any more upon</add> Interest. <del>[ . . . ] the bank stock &amp; the<lb/>Annuity I have already [ . . . ] If you do not find It necessary to<lb/>take in my money I would have [ . . . ] </del> Yor. Father in his <abbr expan="letter">Lettr.</abbr>
+<lb/>I <sic corr="wrote">writ</sic> to You <abbr
+expan="about">abt</abbr>
+. It. Desiring You <add place="supralinear">would</add> act wth. the
+same prudent <lb/>regard to my Interest as you Do for Yor. own there
+I left <lb/>It then And So I think must do now. That annuity what
+time <lb/>I had come in It whether 96 or 99 Years I never <sic
+corr="Yet ">Yett</sic> knew.
+You may <lb/>please to remember that fund was never <sic corr="yet
+">yett</sic> very
+grateful <lb/>to me I took It in compliment to You because You told
+me you had <lb/><sic corr="purchased ">purchasd</sic> It for me
+otherwise I had rather bin wth.out <sic corr="Its">It</sic> 4 perCt.
+is
+<lb/>so poor a <sic corr="premium">premio</sic> I will never <add
+place="supralinear">take so little again </add>This Year <lb/>I Shall
+find so many ways for the Drawing out my money I have <lb/>no
+occasion to <del>try</del> <add place="supralinear"> contrive</add>
+new ones for <add place="supralinear">letting go any more upon</add>
+Interest. <del>[ . . . ] the bank stock &amp; the<lb/>Annuity I have
+already [ . . . ] If you do not find It necessary to<lb/>take in my
+money I would have [ . . . ] </del> Yor. Father in his Lettr. 
  of the 20th of <abbr expan="February">Feb.</abbr>
- tells <lb/>me the bank <add place="supralinear">Doth</add> buy up all the Annuities they can <lb/>whether this will be any Salve to me I know not <abbr expan="It is">Tis</abbr>
- <lb/>all in a great Measure a mysterie to us &amp; So I Shall <add place="supralinear">pass</add> It, <lb/>The part I am to hold in Bagwells Ship, a Draft of &pound;500 <lb/>I made on You <abbr expan="the other">t'other</abbr>
- Day to <note n="EJ">Collo. Jenings</note> &amp; some other large <lb/>uses I must make of you in a Short time will sink me low <lb/>enough If not too low I'm afraid for any present <abbr expan="thoughts">thots.</abbr>
+ tells <lb/>me the bank <add place="supralinear"><sic corr="Does
+">Doth</sic></add> buy up
+all the Annuities they can <lb/>whether this will be any Salve to me
+I know not <abbr expan="It is">Tis</abbr>
+ <lb/>all in a great Measure a <sic corr="mystery ">mysterie</sic>
+to us &amp; So I Shall <add
+place="supralinear">pass</add> It, <lb/>The part I am to hold in
+Bagwells Ship, a Draft of &pound;500 <lb/>I made on You <abbr
+expan="the other">t'other</abbr>
+ Day to <note n="EJ"><abbr expan="Colonel ">Collo. </abbr>
+Jenings</note> &amp; some other large
+<lb/>uses I must make of you in a Short time will sink me low
+<lb/>enough If not too low I'm afraid for any present <abbr
+expan="thoughts">thots.</abbr>
  of further <lb/>purchases </p>
 
-<p>You please me very well in the commendable Character You <lb/>give me of my Son. <abbr expan="It is">'tis</abbr>
- no small Sattisfaction to me to have <lb/>a pennyworth for my Penny to have spent so much money upon <lb/>a dunce or a Blockhead had <abbr expan="been">bin</abbr>
- most Intollerable &amp; Yett <lb/>After all to have a <sic corr="finicky">finicall</sic> inside &amp; not a Suitable Cover-<lb/>=ing for the out Side <add place="supralinear">will</add> make but a Schymity gentleman <del>I'm<lb/>Suspicious Mr. Randolph hath</del> bad &amp; mean company to be sure <lb/>hath <sic corr="been">bin</sic> the bane of many a Young man but certainly &pound;200 <lb/>per Annum is no such Scanty Allowance to lay him under any <lb/>Such Disadvantage If It be, I shall be at a loss to know <lb/>how to keep the rest of my family from want That Yors. may <lb/>Swim in a much Greater Affluence is the Cordial Desire of </p><lb/><lb/>
+<p>You please me very well in the commendable Character You
+<lb/>give me of <note n="JC1">my Son.</note> <abbr expan="It
+is">'tis</abbr>
+ no small <sic corr="Satisfaction ">Sattisfaction</sic> to me to
+have <lb/>a pennyworth for my Penny
+to have spent so much money upon <lb/>a dunce or a Blockhead had
+bin 
+ most <sic corr="Intolerable ">Intollerable</sic> &amp; <sic
+corr="Yet ">Yett</sic> <lb/>After all to have a <sic
+corr="finicky">finicall</sic> inside &amp; not a Suitable Cover-
+<lb/>=ing for the out Side <add place="supralinear">will</add> make
+but a Schymity gentleman <del>I'm<lb/>Suspicious Mr. Randolph
+<sic corr="has ">hath </sic></del> bad &amp; mean company to be sure
+<lb/><sic corr="has ">hath </sic> bin  the bane of many a Young man
+but certainly
+&pound;200 <lb/>per Annum is no such Scanty Allowance to lay him
+under any <lb/>Such Disadvantage If It be, I shall be at a loss to
+know <lb/>how to keep the rest of my family from want That Yors. may
+<lb/>Swim in a much Greater Affluence is the Cordial Desire of
+</p><lb/><lb/>
 
 <closer>Sir Yor. sincere humble Servt.<lb/><lb/>
 
 <seg type="postscript">In my <abbr expan="account">Acct.</abbr>
- Currt. you omitted <lb/>giving me credit for my 30 <lb/>hogsheads of Tobo. per Hancock indeed You <lb/>likewise omit making me debtor <lb/>with a large bill you have <abbr expan="paid">pd.</abbr>
- for me <lb/>both which I expect will have their birth <lb/>in my next Accot.</seg></closer><lb/><lb/>
+ Currt. you omitted <lb/>giving me credit for my 30 <lb/>hogsheads
+of Tobo. per Hancock indeed You <lb/>likewise omit making me debtor
+<lb/>with a large bill you have <abbr expan="paid">pd.</abbr>
+ for me <lb/>both which I expect will have their birth <lb/>in my
+next Accot.</seg></closer><lb/><lb/>
 
 
 </div1>
@@ -155,12 +294,33 @@ Mr. Richd. Perry<lb/>
 
 <div1 type="back matter">
 <head>NOTES</head>
-<note><hi rend="italics">Source copy consulted:</hi>  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. Printed: <cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> pp. 1-4.</bibl></cit>
+<note><hi rend="italics">Source copy consulted:</hi>  Robert Carter
+Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art
+Collections, and Botanical Gardens, San Marino, California. Printed:
+<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . .
+.</title> pp. 1-4.</bibl></cit>
 </note>
 
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note>
+<note>Robert Carter generally used a return address of
+"Rappahannock" for the river on which he lived rather than
+"Corotoman," the name of his home, on his correspondence, especially
+to merchants abroad. The county and colony have been added for
+clarity.</note>
 
-<note id="n1">[1] Louis Wright has speculated that Mr. Pratt might be William Pratt of Gloucester County as there were several Pratts active in Virginia at this time. In his letter to Micajah and Richard Perry written this same day, RC noted that "Mr. Pratt took care of those [letters] for James rivr &amp; York" which makes Wright's speculation as good as any. In the close-knit society of his time and class, RC would certainly have learned what others were receiving for their crops, but a definite identification of the irritating Mr. Pratt is not possible. (<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> p. 2.</bibl></cit>)</note>
+<note id="n1">[1] Louis Wright has speculated that Mr. Pratt might
+be William Pratt of Gloucester County as there were several Pratts
+active in Virginia at this time. In his letter to Micajah and Richard
+Perry written this same day, RC noted that "Mr. Pratt took care of
+those [letters] for James rivr &amp; York" which makes Wright's
+speculation as good as any. In the close-knit society of his time and
+class, RC would certainly have learned what others were receiving for
+their crops, but a definite identification of the irritating Mr.
+Pratt is not possible. (<cit><bibl n="B12">Wright. <title>Letters of
+Robert Carter. . . .</title> p. 2.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text revised November 26,
+2008.</hi></note>
+
 </div1>
 </back>
 

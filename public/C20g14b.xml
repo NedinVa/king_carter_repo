@@ -31,7 +31,7 @@ Library Electronic Text Center</name>
    </respStmt>
 </titleStmt>
 
-<extent>ca. 7 kilobytes </extent>
+<extent>ca. 10 kilobytes </extent>
 
 <publicationStmt>
      <publisher>University of Virginia Library.</publisher>
@@ -98,7 +98,7 @@ type="Field650">LCSH</term></keywords>
 <head>
 <bibl>
 <abbr>AL</abbr>
-<extent>1 pp.</extent>
+<extent>1 p.</extent>
 <date value="1720-07-14"></date>
 <idno rend="suppress">C20g14b</idno>
 <title>Letter from Robert Carter to Thomas Evans, July 14,
@@ -119,8 +119,10 @@ goods is inclosed (not present), he writes, and gives orders for the
 shipping.
 Another bill of lading (not present) is enclosed for ten hogsheads
 on board the
-Mercury, and he reports bills of exchange he has drawn on Evans to
-Robert Tucker and Captain Christall of the Mercury.</p>
+<hi rend="italics">Mercury,</hi> and he reports bills of exchange he
+has drawn on Evans to
+Robert Tucker and Captain Christall of the <hi
+rend="italics">Mercury.</hi></p>
 </div1>                 
 </front>
 
@@ -155,20 +157,23 @@ corr="has ">hath </sic> <abbr
 expan="placed">plac'd</abbr>
  my boys to a very good man and their <abbr
 expan="improvements">Improvemts.</abbr>
- <lb/>are as large as I could Expect in the time altho they cost me
+ <lb/>are as large as I could Expect in the time <sic corr="although
+">altho</sic> they cost me
 <lb/>abundance of money. I will Struggle to keep them where <lb/>They
 are a little longer and <sic corr="yet">yett</sic> I take It as a
 very particular <lb/>obligation, That You have bin so diligent in
-giving me so Early <lb/>and full an <sic corr="answer">ansr.</sic> to
-my <abbr expan="letter">Lettr.</abbr>
+giving me so Early <lb/>and full an <sic corr="answer ">ansr.</sic> to
+my Lettr.
  upon That Subject. how I Shall <lb/>Govern my self hereafter can
 not at present Determine,</p>
 
-<p>Herein comes a bill of Lading for [ . . . ] hogsheads of
-<lb/>Tobo. all of of them strait laid &amp; <sic
+<p>Herein comes a bill of Lading for <add resp="editor">[omission in
+text]</add> hogsheads of
+<lb/>Tobo. all of of them <sic corr="straight ">strait</sic> laid
+&amp; <sic
 corr="stemmed">stem'd</sic> Except one, I am <lb/>in hopes the Spring
 coming on and the French &amp; Spanish <lb/>Trades being both open,
-The Price of our commodity will <lb/>not <sic corr="flagg,
+The Price of our commodity will <lb/>not <sic corr="flag,
 ">flagg,</sic> some people have news
 that Tobo. was <sic corr="raised">raisd</sic> in <lb/>Holland two
 <note target="n2">Stivers</note> in the pound and in Glasgow they
@@ -180,22 +185,24 @@ things flatter <lb/>me tht.<del>remainder of</del>  my
 <p>Herein I also send an <sic corr="invoice">Invoyce</sic> for some
 <sic corr="goods">gds</sic> <lb/>wch. I desire may be sent in some
 good Ship bound to o<add resp="editor">[ur]</add> <lb/>river or <sic
-corr="Piancatank">Peankitank</sic>, <note n="CS">The Carter</note> If
+corr="Piancatank">Peankitank</sic>, <note n="CS"><name
+type="ship">The Carter</name></note> If
 she comes will go <lb/><sic corr="near">neer</sic> to bring my goods
 from Mr. Dawkins I had <lb/>rather You'd find a
 <sic corr="berth">birth</sic> in another Good Ship If You can
 <lb/>Richardson is a good man but I doubt his owners will <lb/>not
-<sic corr="let ">lett</sic> him take any Goods in for me, There is
+lett him take any Goods in for me, There is
 no very <lb/>good
 understanding between us</p>
 
 <p><add resp="editor">[tobacco mark]</add> The 6 hogsheads of this
-Mark are <sic corr="Stemmed">Stem'd</sic> <lb/>but not Straight
+Mark are <sic corr="Stemmed ">Stem'd</sic> <lb/>but not Straight
 laid</p>
 
 <p>There was 6 hogsheads more for you aboard the Carter herein is a
 bill <lb/>of Lading for Ten hogsheads Tobo aboard the <note
-target="n3">Mercury</note>. I have <lb/>Drawn on You this Day for
+target="n3"><name type="ship">Mercury</name></note>. I have
+<lb/>Drawn on You this Day for
 fifty pounds to Mr. <note target="n4"><abbr
 expan="Robert">Robt.</abbr>
  <lb/>Tucker</note> wch. Desire Yor. <abbr
@@ -262,6 +269,9 @@ Magazine of History and Biography. </title>4(April 1897): 360-
 letter is unclear; perhaps it means the date on which the several
 copies for sending were prepared from the draft in the letter
 book.</note>
+
+<lb/><lb/><note><hi rend="italics">This text revised December 1,
+2008.</hi></note>
 
 
 </div1>
