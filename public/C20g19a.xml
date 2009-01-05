@@ -18,14 +18,16 @@
              
 <fileDesc>
 <titleStmt>
-     <title type="245">Letter from Robert Carter to John Carter, July 19, 1720</title>
+     <title type="245">Letter from Robert Carter to John Carter,
+July 19, 1720</title>
    <title type="gmd">[electronic resource]</title>
      <author>Carter, Robert</author>
    <respStmt>
      <resp>Creation of machine-readable version: </resp>
      <name id="editor">Edmund Berkeley, Jr.</name>
      <resp>Conversion to TEI.2-conformant markup</resp>
-     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+     <name>Edmund Berkeley, Jr. and the University of Virginia
+Library Electronic Text Center</name>
    </respStmt>
 </titleStmt>
 
@@ -37,7 +39,8 @@
      <idno type="ETC">filename</idno>
      <availability>
      <p>Publicly accessible</p>
-     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+     <p n="public">URL:
+http://etext.lib.virginia.edu/users/berkeley/</p>
          </availability>
      <date>2001</date>
 </publicationStmt>
@@ -45,13 +48,16 @@
 <sourceDesc>
      <biblFull>
      <titleStmt>
-     <title>Letter from Robert Carter to John Carter, July 19, 1720</title>
+     <title>Letter from Robert Carter to John Carter, July 19,
+1720</title>
      <author>Robert Carter</author>
 </titleStmt>
-    <extent>2 p.</extent>
+    <extent>2 pp.</extent>
 <publicationStmt>
      <date>unpublished</date>
-   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California.</idno>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter
+Book, 1720 July-1721 July, BR 227, Huntington Library, Art
+Collections, and Botanical Gardens, San Marino, California.</idno>
 </publicationStmt>
 </biblFull>
 </sourceDesc>
@@ -59,23 +65,27 @@
 </fileDesc>
      <encodingDesc>
      <projectDesc>
-     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     <p>Prepared for the University of Virginia Library Electronic
+Text Center.</p>
      </projectDesc>
 <editorialDecl>
-     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+     <p>Some keywords in the header are a local electronic Text
+Center scheme to aid in  establishing analytical groupings.</p>
 </editorialDecl>
 
 <classDecl>
-     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject
+Headings</title></bibl></taxonomy>
 </classDecl>
 </encodingDesc>
 
 <profileDesc>
-     <creation><date>xxxx-xx-xx</date></creation>
+     <creation><date>1720-07-19</date></creation>
      <langUsage><language id="eng"></language></langUsage>
      <textClass>
      <keywords><term>non-fiction</term><term>prose</term></keywords>
-     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     <keywords scheme="LCSH"><term
+type="Field650">LCSH</term></keywords>
      </textClass>
 </profileDesc>
 
@@ -94,9 +104,19 @@
 <title>Letter from Robert Carter to John Carter, July 19, 1720</title>
 </bibl>
 </head>
-<p>Robert Carter writes to his son John, then in London studying law, July 19, 1720, about an opinion that he has received from Sir Robert Raymond in England concerning "Mr. Lee's Deed of Settlement," expressing his dissatisfaction with it. Sir Robert's opinion had indicated "a wide Difference between a bond Debt and a debt 
-upon Simple Contract" and Carter expounds upon the trouble such an interpretation will create for the colonists. He asks John to attempt to see Sir Robert or another able attorney to have certain points in the opinion expanded upon, and adds that he will consult lawyers in Virginia. He sends family news, and indicates his need for a schoolmistress for "my three Younger Children 
-. . . at home wth. me Mary, Lucy, &amp; George," noting that he has written Mr. Perry about one, but John may be able to assist. </p>
+<p>Robert Carter writes to his son John, then in London studying
+law, July 19, 1720, about an opinion that he has received from Sir
+Robert Raymond in England concerning "Mr. Lee's Deed of Settlement,"
+expressing his dissatisfaction with it. Sir Robert's opinion had
+indicated "a wide Difference between a bond Debt and a debt 
+upon Simple Contract" and Carter expounds upon the trouble such an
+interpretation will create for the colonists. He asks John to attempt
+to see Sir Robert or another able attorney to have certain points in
+the opinion expanded upon, and adds that he will consult lawyers in
+Virginia. He sends family news, and indicates his need for a
+schoolmistress for "my three Younger Children 
+. . . at home wth. me Mary, Lucy, &amp; George," noting that he has
+written Mr. Perry about one, but John may be able to assist. </p>
 </div1>                 
 </front>
 
@@ -104,40 +124,91 @@ upon Simple Contract" and Carter expounds upon the trouble such an interpretatio
 
 <body>
 <div1 type="letter" n="1">
-<head>Letter from Robert Carter to <note n="JC1">John Carter,</note> July 19, 1720</head>
+<head>Letter from Robert Carter to <note n="JC1">John Carter,</note>
+July 19, 1720</head>
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1720-07-19">July 19 <hi rend="underline">1720</hi></date><lb/>
+<name type="place">Rappahannock, <corr resp="editor">[Lancaster
+County, Virginia]</corr></name><lb/>
+<date value="1720-07-19">July 19 <hi
+rend="underline">1720</hi></date><lb/>
 <lb/>
 </dateline>
 <salute>Dear Son John&mdash;&mdash;</salute>
 
 </opener>
 
-<p>I have Consider'd <note target="n1"><abbr expan="Sir">Sr </abbr>
- <abbr expan="Robert">Robt.</abbr>
- Raymonds</note> opinion <lb/>upon Mr. Lee's Deed of Settlement &amp; can find but little <abbr expan="encouragement">en=<lb/>=couragemt.</abbr>
- Therefrom for the recovery of my money, <abbr expan="Sir Robert">Sr. Robt.</abbr>
- <lb/>makes a wide Difference between a bond Debt and a debt <lb/>upon Simple Contract now If all Debts are resolvable <lb/>into these two mine must be Construed to be a Contract <lb/>Debt. &amp; so according to Sir <abbr expan="Robert">Robt.</abbr>
- not recoverable out <lb/>of a real estate, If This be Law we in the Plantations <lb/>are in a very Dangerous <sic corr="condition">Condicon</sic> for we have nothing <lb/>but the Merch<add resp="editor">[an]</add>ts
- Accots. for our Security, and any Merch<add resp="editor">[an]</add>t <lb/>for the <abbr expan="advancement">Advancemt.</abbr>
- of his family may Throw all the <lb/>money he has of others to purchase a real Estate <lb/>wth. &amp; when he's Dead his family goes into the possession of It <lb/>&amp; his Claimers are wth.out remedy, but to the point as <lb/>for the pretence of a free contract that was made between <lb/>Lee &amp; his wife before the <note target="n2">Coverture</note> I believe There's <lb/>nothing In It nor indeed can It be <abbr expan="thought">Thot.</abbr>
- That Lee the <lb/>Son Should propose a <abbr expan="settlement">Settlemt.</abbr>
- out of his fathers <lb/>Lands wch. were fee Simple So long before the fathers <lb/>Death when he had no knowledge whether the lands <abbr expan="would">woud</abbr>
- <lb/>Ever come to him or no. If the truth were known this <lb/><abbr expan="settlement">Settlmt.</abbr>
- was Contrived Just as Lee found himself <lb/>Tottering to Defraud his Creditors, &amp; to do something <lb/>for his wife and Children at other men's cost, but how <lb/>to discover the Dark <abbr expan="part">pt.</abbr>
- of this Storey I cant find a <lb/>way, my next Step must be to Show <abbr expan="Sir">Sr.</abbr>
- <abbr expan="Robert's">Robt.'s</abbr>
- opinion <lb/>to our Lawyers here &amp; See wt. they Say to It. <abbr expan="It is">Tis</abbr>
- a hard <lb/>case &amp; for my Life I cant see the Equity of It. That my <lb/>Children Should go a Starving &amp; another mans upon <lb/>my money should have a maintenace &amp; no Law <lb/>will Afford me nor mine a remedy, Sir <abbr expan="Robert">Robt.</abbr>
+<p>I have <abbr expan="Considered ">Consider'd </abbr> <note target="n1"><abbr expan="Sir">Sr </abbr>
+ <abbr expan="Robert ">Robt.</abbr>
+ Raymonds</note> opinion <lb/>upon Mr. Lee's Deed of Settlement
+&amp; can find but little en=<lb/>=<abbr
+expan="couragement">couragemt.</abbr>
+ Therefrom for the recovery of my money, <abbr expan="Sir
+Robert">Sr. Robt.</abbr>
+ <lb/>makes a wide Difference between a bond Debt and a debt
+<lb/>upon Simple Contract now If all Debts are resolvable <lb/>into
+these two mine must be Construed to be a Contract <lb/>Debt. &amp; so
+according to Sir <abbr expan="Robert ">Robt.</abbr>
+ not recoverable out <lb/>of a real estate, If This be Law we in the
+Plantations <lb/>are in a very Dangerous <sic
+corr="Condition">Condicon</sic> for we have nothing <lb/>but the
+<abbr expan="Merchants ">Merchts </abbr>
+ Accots. for our Security, and any <abbr expan="Merchants ">Merchts </abbr>
+ <lb/>for the <abbr
+expan="Advancement">Advancemt.</abbr>
+ of his family may Throw all the <lb/>money he has of others to
+purchase a real Estate <lb/>wth. &amp; when he's Dead his family goes
+into the possession of It <lb/>&amp; his Claimers are wth.out remedy,
+but to the point as <lb/>for the pretence of a free contract that was
+made between <lb/>Lee &amp; his wife before the <note
+target="n2">Coverture</note> I believe There's <lb/>nothing In It nor
+indeed can It be <abbr expan="Thought ">Thot.</abbr>
+ That Lee the <lb/>Son Should propose a <abbr
+expan="Settlement ">Settlemt.</abbr>
+ out of his fathers <lb/>Lands wch. were fee Simple So long before
+the fathers <lb/>Death when he had no knowledge whether the lands
+<abbr expan="would ">woud</abbr>
+ <lb/>Ever come to him or no. If the truth were known this
+<lb/><abbr expan="Settlement ">Settlmt.</abbr>
+ was Contrived Just as Lee found himself <lb/>Tottering to Defraud
+his Creditors, &amp; to do something <lb/>for his wife and Children
+at other men's cost, but how <lb/>to discover the Dark <abbr
+expan="part ">pt.</abbr>
+ of this <sic corr="Story ">Storey</sic> I cant find a <lb/>way, my next Step must be to Show
+<abbr expan="Sir">Sr. </abbr>
+ <abbr expan="Robert's ">Robt.'s</abbr>
+ opinion <lb/>to our Lawyers here &amp; See wt. they Say to It.
+<abbr expan="It is ">Tis</abbr>
+ a hard <lb/>case &amp; for my Life I cant see the Equity of It.
+That my <lb/>Children Should go a Starving &amp; another mans upon
+<lb/>my money should have a maintenace &amp; no Law <lb/>will Afford
+me nor mine a remedy, Sir <abbr expan="Robert">Robt.</abbr>
  Raymond <lb/>is a very Great man &amp; perhaps will not allow You a
 
 <pb n="2"/><lb/><lb/>
-Free Discource wth. him If You can have so much Influence <lb/>wth. him or any other able Lawyer wthout heaving away <lb/>more money, to gain me a Clear opinion upon all <lb/>These points It wold be Sattisfactory, Sir <abbr expan="Robert's">Robt.'s</abbr>
- <lb/>opinion is in such a <note target="n3">terrable Character</note> in some places <lb/>I can do no more but <sic corr="guess">ghess</sic> at his meaning, all Yor. <lb/>friends here are well for wt. I know, <note target="n4">Mrs. Ann</note> is the <lb/><sic corr="chief">Cheif</sic> housekeeper I have, my three Younger Children <lb/>are at home wth. me Mary, Lucy, &amp; George I greatly <lb/>want a Schoolmistress for them a Grave woman of <lb/>abt. forty years of age, that hath bin well Educated &amp; <lb/>is of a towardly Disposition to make It her business to be <lb/>their Tutoress I would willingly give reasonable yearly <lb/>wages to such a person for four or five Years, I know <lb/>There are a great many Such to be <sic corr="met">mett</sic> wth. in London <lb/>That are hardly able to maintain themselves, I have <lb/><abbr expan="written">writ</abbr>
- to <note n="MP">Mr. Perry</note> to send me in such a person. You <lb/>may Perhaps be instrumental in procuring one <lb/>&amp; It being a matter in wch. You are more nearly Concerned <lb/>have <abbr expan="thought">thot.</abbr>
+Free Discource wth. him If You can have so much Influence <lb/>wth.
+him or any other able Lawyer wthout heaving away <lb/>more money, to
+gain me a Clear opinion upon all <lb/>These points It <sic corr="would ">wold</sic> be
+Sattisfactory, Sir <abbr expan="Robert's ">Robt.'s</abbr>
+ <lb/>opinion is in such a <note target="n3"><sic corr="terrible ">terrable</sic>
+Character</note> in some places <lb/>I can do no more but <sic
+corr="guess ">ghess</sic> at his meaning, all Yor. <lb/>friends here
+are well for wt. I know, <note target="n4">Mrs. Ann</note> is the
+<lb/><sic corr="Chief ">Cheif</sic> housekeeper I have, my three
+Younger Children <lb/>are at home wth. me <note n="MCB">Mary,</note> <note n="LCF">Lucy,</note> &amp; <note target="n5">George</note> I
+greatly <lb/>want a Schoolmistress for them a Grave woman of
+<lb/><abbr expan="about ">abt. </abbr> forty years of age, that hath bin well Educated &amp;
+<lb/>is of a towardly Disposition to make It her business to be
+<lb/>their Tutoress I would willingly give reasonable yearly
+<lb/>wages to such a person for four or five Years, I know <lb/>There
+are a great many Such to be <sic corr="met ">mett</sic> wth. in London
+<lb/>That are hardly able to maintain themselves, I have <lb/><abbr
+expan="written">writ</abbr>
+ to <note n="MP">Mr. Perry</note> to send me in such a person. You
+<lb/>may Perhaps be instrumental in procuring one <lb/>&amp; It being
+a matter in wch. You are more nearly Concerned <lb/>have <abbr
+expan="thought ">thot.</abbr>
  It not amiss to mention It to You</p>
 
 <closer>I am</closer>
@@ -152,18 +223,44 @@ Free Discource wth. him If You can have so much Influence <lb/>wth. him or any o
 
 <div1 type="back matter">
 <head>NOTES</head>
-<note><hi rend="italics">Source copy consulted:</hi>  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. Printed: <cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> pp. 32-34.</bibl></cit>
+<note><hi rend="italics">Source copy consulted:</hi>  Robert Carter
+Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art
+Collections, and Botanical Gardens, San Marino, California. Printed:
+<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . .
+.</title> pp. 32-34.</bibl></cit>
 </note>
 
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note><lb/>
+<note>Robert Carter generally used a return address of
+"Rappahannock" for the river on which he lived rather than
+"Corotoman," the name of his home, on his correspondence, especially
+to merchants abroad. The county and colony have been added for
+clarity.</note><lb/>
 
-<note id="n1">[1] Sir Robert Raymond, later Lord Chief Justice, was Attorney General in 1720. He was regarded as the foremost lawyer of his day. </note>
+<note id="n1">[1] Sir Robert Raymond, later Lord Chief Justice, was
+Attorney General in 1720. He was regarded as the foremost lawyer of
+his day. </note>
 
-<note id="n2">[2] In law, coverture is the status of a married woman considered as under the protection and authority of her husband.</note>
+<note id="n2">[2] In law, coverture is the status of a married woman
+considered as under the protection and authority of her husband.</note>
 
-<note id="n3">[3] Sir Robert Raymond's clerk's handwriting was terrible.</note>
+<note id="n3">[3] Sir Robert Raymond's clerk's handwriting was
+terrible.</note>
 
-<note id="n4">[4] Probably Ann Vitty, later (February 18, 1722) delivered of a "dead child," which RC noted in his diary. (<cit><bibl>Lancaster County Court Order Book 7, l721-1729, p.92, Archives Research Services, Library of Virginia, p. 92.</bibl></cit>)</note>
+<note id="n4">[4] Probably Ann Vitty, later (February 18, 1722)
+delivered of a "dead child," which RC noted in his diary.
+(<cit><bibl>Lancaster County Court Order Book 7, l721-1729, p.92,
+Archives Research Services, Library of Virginia, p.
+92.</bibl></cit>)</note>
+
+<note id="n5">[5]  George Carter (<hi
+rend="italics">ca.</hi> 1718-<hi rend="italics">ca.</hi>1741-42) was
+Carter's fifteenth child; his mother was Betty Landon Willis Carter.
+He attended the College of William and Mary and was sent to London
+after his father's death to study law. He died there unmarried.
+(<cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert
+Carter. . . .</title> p. 457.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text revised December 16, 2008.</hi></note>
 
 </div1>
 </back>

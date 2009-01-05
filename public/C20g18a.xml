@@ -18,14 +18,16 @@
              
 <fileDesc>
 <titleStmt>
-     <title type="245">Letter from Robert Carter to James Arbuckle, July 18, 1720</title>
+     <title type="245">Letter from Robert Carter to James Arbuckle,
+July 18, 1720</title>
    <title type="gmd">[electronic resource]</title>
      <author>Carter, Robert</author>
    <respStmt>
      <resp>Creation of machine-readable version: </resp>
      <name id="editor">Edmund Berkeley, Jr.</name>
      <resp>Conversion to TEI.2-conformant markup</resp>
-     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+     <name>Edmund Berkeley, Jr. and the University of Virginia
+Library Electronic Text Center</name>
    </respStmt>
 </titleStmt>
 
@@ -37,7 +39,8 @@
      <idno type="ETC">filename</idno>
      <availability>
      <p>Publicly accessible</p>
-     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+     <p n="public">URL:
+http://etext.lib.virginia.edu/users/berkeley/</p>
          </availability>
      <date>2001</date>
 </publicationStmt>
@@ -45,13 +48,16 @@
 <sourceDesc>
      <biblFull>
      <titleStmt>
-     <title>Letter from Robert Carter to James Arbuckle, July 18, 1720</title>
+     <title>Letter from Robert Carter to James Arbuckle, July 18,
+1720</title>
      <author>Robert Carter</author>
 </titleStmt>
     <extent>1 p.</extent>
 <publicationStmt>
      <date>unpublished</date>
-   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California.</idno>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter
+Book, 1720 July-1721 July, BR 227, Huntington Library, Art
+Collections, and Botanical Gardens, San Marino, California.</idno>
 </publicationStmt>
 </biblFull>
 </sourceDesc>
@@ -59,14 +65,17 @@
 </fileDesc>
      <encodingDesc>
      <projectDesc>
-     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     <p>Prepared for the University of Virginia Library Electronic
+Text Center.</p>
      </projectDesc>
 <editorialDecl>
-     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+     <p>Some keywords in the header are a local electronic Text
+Center scheme to aid in  establishing analytical groupings.</p>
 </editorialDecl>
 
 <classDecl>
-     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject
+Headings</title></bibl></taxonomy>
 </classDecl>
 </encodingDesc>
 
@@ -75,7 +84,8 @@
      <langUsage><language id="eng"></language></langUsage>
      <textClass>
      <keywords><term>non-fiction</term><term>prose</term></keywords>
-     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     <keywords scheme="LCSH"><term
+type="Field650">LCSH</term></keywords>
      </textClass>
 </profileDesc>
 
@@ -91,10 +101,18 @@
 <extent>1 p.</extent>
 <date value="1720-07-18"></date>
 <idno rend="suppress">C20g18a</idno>
-<title>Letter from Robert Carter to James Arbuckle, July 18, 1720</title>
+<title>Letter from Robert Carter to James Arbuckle, July 18,
+1720</title>
 </bibl>
 </head>
-<p>Robert Carter writes to merchant James Arbuckle, probably located in Liverpool, July 18, 1720, concerning wine that he has received which he considers "tollerable considering twas the Lowest price" but condemning the brandy which was terrible. He suggests to Arbuckle that his supplier switched brandy after Arbuckle tasted it. He adds that he no longer drinks claret because he believes it contributes to gout, and requests that Arbuckle send him good white wine, noting that it does not keep well in the colony.</p>
+<p>Robert Carter writes to merchant James Arbuckle, probably located
+in Liverpool, July 18, 1720, concerning wine that he has received
+which he considers "tollerable considering twas the Lowest price" but
+condemning the brandy which was terrible. He suggests to Arbuckle
+that his supplier switched brandy after Arbuckle tasted it. He adds
+that he no longer drinks claret because he believes it contributes to
+gout, and requests that Arbuckle send him good white wine, noting
+that it does not keep well in the colony.</p>
 </div1>                 
 </front>
 
@@ -102,11 +120,13 @@
 
 <body>
 <div1 type="letter" n="1">
-<head>Letter from Robert Carter to <note target="n1">James Arbuckle,</note> July 18, 1720</head>
+<head>Letter from Robert Carter to <note target="n1">James
+Arbuckle,</note> July 18, 1720</head>
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<name type="place">Rappahannock, <corr resp="editor">[Lancaster
+County, Virginia]</corr> </name><lb/>
 <date value="1720-07-18">July 18th: 1720</date><lb/>
 Mr. James Arbuckle<lb/>
 </dateline>
@@ -114,12 +134,36 @@ Mr. James Arbuckle<lb/>
 
 </opener>
 
-<p>I received Yors. by Captn. Gale wth. the wine and brandy <lb/><abbr expan="ordered">order'd</abbr>
- me by <note n="MP">Mr. Perry</note> of London, The wine was tollerable consid=<lb/>=ering <abbr expan="it was">twas</abbr>
- the Lowest price but The brandy Stark naught. such I never mett <lb/>wth. before that bore the name of French brandy. The person You <abbr expan="bought">bot.</abbr>
+<p>I received Yors. by <abbr expan="Captain ">Captn.</abbr> Gale
+wth. the wine and brandy
+<lb/><abbr expan="ordered">order'd</abbr>
+ me by <note n="MP">Mr. Perry</note> of London, The wine was
+<sic corr="tolerable ">tollerable</sic> consid=<lb/>=ering <abbr
+expan="it was">twas</abbr>
+ the Lowest price but The brandy Stark naught. such I never <sic
+corr="met ">mett</sic>
+<lb/>wth. before that bore the name of French brandy. The person You
+<abbr expan="bought ">bot.</abbr>
  It <lb/>of Certainly <abbr expan="changed">chang'd</abbr>
- It or mixt it after You had tasted It I have <abbr expan="ordered">ord=<lb/>=er'd</abbr>
- Mr. Perry not <add place="supralinear">to</add> Direct <add place="supralinear">for</add> any more Clarrett for me having quite <lb/>left <sic corr="off">of</sic> drinking That wine, out of the <sic corr="belief">beleif</sic> I have It is a great <lb/>Propagator to the Gout, You seem to be of another opinion, &amp; <lb/>resolve to Drink on. may we both have the Good luck to <sic corr="hit">hitt</sic> <lb/>Each his particular Constitution. I Drink white wine when I can meet <lb/>wth. any that is good and Fresh, but It <add place="supralinear"><sic corr="does">dos</sic> not</add> bear Age well at all wth. us <lb/>It turns brown and looses the briskness of Its Taste, If You have the <lb/>opportunity of sending me a hogshead or two of righ<add resp="editor">[t]</add> good white wine <lb/>I should be very willing to have It by some of the Glasgow men <lb/>who touch at Yor. Port. <note n="JP">Mr. Pemberton</note> will pay You for It wch. is the <lb/>needfull at present from&mdash;</p>
+ It or <sic corr="mixed ">mixt </sic>it after You had tasted It I
+have <abbr
+expan="ordered">ord=<lb/>=er'd</abbr>
+ Mr. Perry not <add place="supralinear">to</add> Direct <add
+place="supralinear">for</add> any more <sic corr="Clarret
+">Clarrett</sic> for me having quite
+<lb/>left <sic corr="off">of</sic> drinking That wine, out of the
+<sic corr="belie f">beleif</sic> I have It is a great <lb/>Propagator
+to the Gout, You seem to be of another opinion, &amp; <lb/>resolve to
+Drink on. may we both have the Good luck to <sic
+corr="hit">hitt</sic> <lb/>Each his particular Constitution. I Drink
+white wine when I can meet <lb/>wth. any that is good and Fresh, but
+It <add place="supralinear"><sic corr="does ">dos</sic> not</add> bear
+Age well at all wth. us <lb/>It turns brown and looses the briskness
+of Its Taste, If You have the <lb/>opportunity of sending me a
+hogshead or two of righ<add resp="editor">[t]</add> good white wine
+<lb/>I should be very willing to have It by some of the Glasgow men
+<lb/>who touch at Yor. Port. <note n="JP">Mr. Pemberton</note> will
+pay You for It wch. is the <lb/>needfull at present from&mdash;</p>
 
 <closer>Sir <lb/>Yor. very humble servt.</closer>
 
@@ -133,12 +177,24 @@ Mr. James Arbuckle<lb/>
 
 <div1 type="back matter">
 <head>NOTES</head>
-<note><hi rend="italics">Source copy consulted:</hi>  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. Printed: <cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> pp. 30-31.</bibl></cit>
+<note><hi rend="italics">Source copy consulted:</hi>  Robert Carter
+Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art
+Collections, and Botanical Gardens, San Marino, California. Printed:
+<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . .
+.</title> pp. 30-31.</bibl></cit>
 </note>
 
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note><lb/>
+<note>Robert Carter generally used a return address of
+"Rappahannock" for the river on which he lived rather than
+"Corotoman," the name of his home, on his correspondence, especially
+to merchants abroad. The county and colony have been added for
+clarity.</note><lb/>
 
-<note id="n1">[1] James Arbuckle may have been a Liverpool merchant.</note>
+<note id="n1">[1] James Arbuckle may have been a Liverpool
+merchant.</note>
+
+<lb/><lb/><note><hi rend="italics">This text revised December 15,
+2008.</hi></note>
 </div1>
 </back>
 
