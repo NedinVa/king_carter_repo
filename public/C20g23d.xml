@@ -18,14 +18,16 @@
              
 <fileDesc>
 <titleStmt>
-     <title type="245">Letter from Robert Carter to Joseph Paise, July 23, 1720</title>
+     <title type="245">Letter from Robert Carter to Joseph Paise,
+July 23, 1720</title>
    <title type="gmd">[electronic resource]</title>
      <author>Carter, Robert</author>
    <respStmt>
      <resp>Creation of machine-readable version: </resp>
      <name id="editor">Edmund Berkeley, Jr.</name>
      <resp>Conversion to TEI.2-conformant markup</resp>
-     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+     <name>Edmund Berkeley, Jr. and the University of Virginia
+Library Electronic Text Center</name>
    </respStmt>
 </titleStmt>
 
@@ -37,7 +39,8 @@
      <idno type="ETC">filename</idno>
      <availability>
      <p>Publicly accessible</p>
-     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+     <p n="public">URL:
+http://etext.lib.virginia.edu/users/berkeley/</p>
          </availability>
      <date>2001</date>
 </publicationStmt>
@@ -51,7 +54,9 @@
     <extent>1 p.</extent>
 <publicationStmt>
      <date>unpublished</date>
-   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California.</idno>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter
+Book, 1720 July-1721 July, BR 227, Huntington Library, Art
+Collections, and Botanical Gardens, San Marino, California.</idno>
 </publicationStmt>
 </biblFull>
 </sourceDesc>
@@ -59,14 +64,17 @@
 </fileDesc>
      <encodingDesc>
      <projectDesc>
-     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     <p>Prepared for the University of Virginia Library Electronic
+Text Center.</p>
      </projectDesc>
 <editorialDecl>
-     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+     <p>Some keywords in the header are a local electronic Text
+Center scheme to aid in  establishing analytical groupings.</p>
 </editorialDecl>
 
 <classDecl>
-     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject
+Headings</title></bibl></taxonomy>
 </classDecl>
 </encodingDesc>
 
@@ -75,7 +83,8 @@
      <langUsage><language id="eng"></language></langUsage>
      <textClass>
      <keywords><term>non-fiction</term><term>prose</term></keywords>
-     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     <keywords scheme="LCSH"><term
+type="Field650">LCSH</term></keywords>
      </textClass>
 </profileDesc>
 
@@ -91,10 +100,20 @@
 <extent>1 p.</extent>
 <date value="1720-07-23"></date>
 <idno rend="suppress">C20g23d.xml</idno>
-<title>Letter from Robert Carter to Joseph Paise, July 23, 1720</title>
+<title>Letter from Robert Carter to Joseph Paise, July 23,
+1720</title>
 </bibl>
 </head>
-<p>Robert Carter writes to Joseph Paise, partner of Lyme Regis merchant, Robert Burridge, July 23, 1720, concerning tobacco shipped on board the Princess, Captain James Wyatt, and about 5 hogsheads that could not be carried by her that were shipped on board the Carter to London. Carter notes that he has drawn on Paise for the "Impost &amp; Cockett"  to the Carter's Captain, and that he has sent the account "of this affair" to Burridge. </p>
+<p>Robert Carter writes to Joseph Paise, partner of Lyme Regis
+merchant, Robert Burridge, July 23, 1720, concerning tobacco shipped
+on board the <hi rend="italics">Princess,</hi> Captain James Wyatt,
+and about 5 hogsheads
+that could not be carried by her that were shipped on board the
+<hi rend="italics">Carter</hi> to London. Carter notes that he has
+drawn on Paise for the
+"Impost &amp; Cockett"  to the <hi rend="italics">Carter's</hi>
+Captain, and that he has sent
+the account "of this affair" to Burridge. </p>
 </div1>                 
 </front>
 
@@ -106,20 +125,43 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappa.<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
-<date value="1720-07-23">July 23d. <lb/>172<hi rend="underline">0</hi></date><lb/>
-Mr. Jo. Paise<lb/>
+<name type="place"><abbr expan="Rappahannock, ">Rappa. </abbr> <corr
+resp="editor">[Lancaster
+County, Virginia]</corr> </name><lb/>
+<date value="1720-07-23">July 23d. <lb/>172<hi
+rend="underline">0</hi></date><lb/>
+Mr. <abbr expan="Joseph ">Jo. </abbr> Paise<lb/>
 </dateline>
 <salute>Sir&mdash;&mdash;</salute>
 
 </opener>
 
-<p>From Mr. <note n="RB3"><abbr expan="Robert">Robt.</abbr>
- Burridge</note> of <name type="place">Lyme</name> I am <lb/>Acquainted You are <abbr expan="cooncerned">concern'd</abbr>
- wth. him in the Brigantine <lb/><name type="ship">Princes,</name> James Wyatt M<add resp="editor">[aste]</add>r &amp; her Cargo, wch. fell under <lb/>my Dispose She went away a Loaded vessel &amp; I hope <lb/>is at home long since. There was some outstanding <lb/><abbr expan="tobaccoes">Tobos.</abbr>
- wch. he could not carry Mr. Burridge order'd It to <lb/>be <sic corr="shipped">Shipt</sic> for <name type="place">London</name> accordingly have put on board <lb/>the <note n="CS">Carter</note> five hhds of heavy Tobo. &amp; have <abbr expan="thought">thot.</abbr>
- advise=<lb/>=able to consign It to You accordingly a bill of Lad=<lb/>=ing for It is here inclosd, I have drawn on You <lb/>for the <note target="n1">Impost &amp; Cockett </note><add place="supralinear">of this Tobo.</add> for 11S to <abbr expan="Captain">Captn.</abbr>
- Kent wch. You <lb/>must pay, The Accot. of this affair is clos'd &amp; sent to <lb/>Mr. Burridge to whom refer You &amp; am&mdash; </p>
+<p>From Mr. <note n="RB3"><abbr expan="Robert">Robt. </abbr>
+ Burridge</note> of <name type="place">Lyme</name> I am
+<lb/>Acquainted You are <abbr expan="cooncerned ">concern'd</abbr>
+ wth. him in the Brigantine <lb/><name type="ship"><sic
+corr="Princess, ">Princes,</sic></name>
+James Wyatt <abbr expan="Master ">Mr </abbr> &amp; her Cargo, wch.
+fell under <lb/>my Dispose She went away a Loaded vessel &amp; I hope
+<lb/>is at home long since. There was some outstanding <lb/><abbr
+expan="Tobaccoes ">Tobos.</abbr>
+ wch. he could not carry Mr. Burridge <abbr expan="ordered ">order'd
+</abbr> It to <lb/>be <sic
+corr="shipped ">Shipt</sic> for <name type="place">London</name>
+accordingly have put on board <lb/>the <note n="CS">Carter </note>
+five hhds of heavy Tobo. &amp; have <abbr expan="thought
+">thot.</abbr>
+ advise=<lb/>=able to consign It to You accordingly a bill of
+Lad=<lb/>=ing for It is here <sic corr="enclosed, ">inclosd,</sic> I
+have drawn on You <lb/>for
+the <note target="n1">Impost &amp; Cockett </note><add
+place="supralinear">of this Tobo.</add> for 11<abbr expan="
+Shillings ">S</abbr>
+ to <abbr
+expan="Captain ">Captn.</abbr>
+ Kent wch. You <lb/>must pay, The Accot. of this affair is <abbr
+expan="closed ">clos'd </abbr>
+&amp; sent to <lb/>Mr. Burridge to whom refer You &amp; am&mdash; </p>
 
 <closer>Sir <lb/>Yor. humble Servt.</closer>
 
@@ -133,12 +175,26 @@ Mr. Jo. Paise<lb/>
 
 <div1 type="back matter">
 <head>NOTES</head>
-<note><hi rend="italics">Source copy consulted:</hi>  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. Printed: <cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> p. 38.</bibl></cit>
+<note><hi rend="italics">Source copy consulted:</hi>  Robert Carter
+Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art
+Collections, and Botanical Gardens, San Marino, California. Printed:
+<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . .
+.</title> p. 38.</bibl></cit>
 </note>
 
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note><lb/>
+<note>Robert Carter generally used a return address of
+"Rappahannock" for the river on which he lived rather than
+"Corotoman," the name of his home, on his correspondence, especially
+to merchants abroad. The county and colony have been added for
+clarity.</note><lb/>
 
-<note id="n1">[1] The impost was the duty imposed by Britain on imported tobacco, and the cockett was the certified document (for which a fee was charged)  issued that the impost had been paid.</note>
+<note id="n1">[1] The impost was the duty imposed by Britain on
+imported tobacco, and the cockett was the certified document (for
+which a fee was charged)  issued stating that the impost had been
+paid.</note>
+
+<lb/><lb/><note><hi rend="italics">This text revised January 19,
+2009.</hi></note>
 
 </div1>
 </back>
