@@ -18,14 +18,16 @@
              
 <fileDesc>
 <titleStmt>
-     <title type="245">Letter from Robert Carter to Micajah Perry, September 19, 1720</title>
+     <title type="245">Letter from Robert Carter to Micajah Perry,
+September 19, 1720</title>
    <title type="gmd">[electronic resource]</title>
      <author>Carter, Robert</author>
    <respStmt>
      <resp>Creation of machine-readable version: </resp>
      <name id="editor">Edmund Berkeley, Jr.</name>
      <resp>Conversion to TEI.2-conformant markup</resp>
-     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+     <name>Edmund Berkeley, Jr. and the University of Virginia
+Library Electronic Text Center</name>
    </respStmt>
 </titleStmt>
 
@@ -37,7 +39,8 @@
      <idno type="ETC">filename</idno>
      <availability>
      <p>Publicly accessible</p>
-     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+     <p n="public">URL:
+http://etext.lib.virginia.edu/users/berkeley/</p>
          </availability>
      <date>2001</date>
 </publicationStmt>
@@ -45,13 +48,16 @@
 <sourceDesc>
      <biblFull>
      <titleStmt>
-     <title>Letter from Robert Carter to Micajah Perry, September 19, 1720</title>
+     <title>Letter from Robert Carter to Micajah Perry, September
+19, 1720</title>
      <author>Robert Carter</author>
 </titleStmt>
-    <extent>2 p.</extent>
+    <extent>2 pp.</extent>
 <publicationStmt>
      <date>unpublished</date>
-   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California.</idno>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter
+Book, 1720 July-1721 July, BR 227, Huntington Library, Art
+Collections, and Botanical Gardens, San Marino, California.</idno>
 </publicationStmt>
 </biblFull>
 </sourceDesc>
@@ -59,14 +65,17 @@
 </fileDesc>
      <encodingDesc>
      <projectDesc>
-     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     <p>Prepared for the University of Virginia Library Electronic
+Text Center.</p>
      </projectDesc>
 <editorialDecl>
-     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+     <p>Some keywords in the header are a local electronic Text
+Center scheme to aid in  establishing analytical groupings.</p>
 </editorialDecl>
 
 <classDecl>
-     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject
+Headings</title></bibl></taxonomy>
 </classDecl>
 </encodingDesc>
 
@@ -75,7 +84,8 @@
      <langUsage><language id="eng"></language></langUsage>
      <textClass>
      <keywords><term>non-fiction</term><term>prose</term></keywords>
-     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     <keywords scheme="LCSH"><term
+type="Field650">LCSH</term></keywords>
      </textClass>
 </profileDesc>
 
@@ -88,13 +98,27 @@
 <head>
 <bibl>
 <abbr>AL</abbr>
-<extent>2 p.</extent>
+<extent>2 pp.</extent>
 <date value="1720-09-19"></date>
 <idno rend="suppress">C20i19d.xml</idno>
-<title>Letter from Robert Carter to Micajah Perry, September 19, 1720</title>
+<title>Letter from Robert Carter to Micajah Perry, September 19,
+1720</title>
 </bibl>
 </head>
-<p>Robert Carter writes to London merchant Micajah Perry, September 19, 1720, sending condolences on the loss of his son and partner, Richard. He then comments on a good sales report for some of his tobacco, expressing hope that the remainder will sell as well. He reports the very good and plentiful crop of tobacco and urges Perry to have Captain Bagwell return to the colony as soon as possible because the crop will be ready early. He tells Perry that he has sent copies of Perry's letters concerning Richard Foote's business to Foote, and notes that his son John promises more economy in his living in England which, Carter writes, will be necessary because a good crop will lower prices. He concludes that there are no political events of note worth reporting other than the recent campaign for members of the Virginia legislature.</p>
+<p>Robert Carter writes to London merchant Micajah Perry, September
+19, 1720, sending condolences on the loss of his son and partner,
+Richard. He then comments on a good sales report for some of his
+tobacco, expressing hope that the remainder will sell as well. He
+reports the very good and plentiful crop of tobacco in the colony
+and urges Perry
+to have Captain Bagwell return as soon as possible
+because the crop will be ready early. He tells Perry that he has sent
+copies of Perry's letters concerning Richard Foote's business to
+Foote, and notes that his son John promises more economy in his
+living in England which, Carter writes, will be necessary because a
+good crop will lower prices. He concludes that there are no political
+events of note worth reporting other than the recent campaign for
+members of the Virginia legislature.</p>
 </div1>                 
 </front>
 
@@ -102,32 +126,72 @@
 
 <body>
 <div1 type="letter" n="1">
-<head>Letter from Robert Carter to Micajah Perry, September 19, 1720</head>
+<head>Letter from Robert Carter to <note n="MP">Micajah
+Perry,</note> September 19,
+1720</head>
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1720-09-19">Sepr. 19. 1720</date><lb/>
+<name type="place">Rappahannock, <corr resp="editor">[Lancaster
+County, Virginia]</corr> </name><lb/>
+<date value="1720-09-19"><abbr expan="September ">Sepr. </abbr> 19.
+1720</date><lb/>
 Messrs. Perry<lb/>
 </dateline>
 
 </opener>
 
-<p>I have received Yor. Lettrs. of April date Several Ships <lb/>have <sic corr="slipped">slipt</sic> by my house this last month wth.out giving me the <lb/>opportunity of writing I heartily Condole wth. You for the <lb/>loss of <note target="n1">Yor. Son</note> so great &amp; good a prop to our Trade <lb/>The mercy You Enjoy In having a Grandson to Step into <lb/>his room is beyond Compare</p>
+<p>I have received Yor. Lettrs. of April date Several Ships
+<lb/>have <sic corr="slipped ">slipt</sic> by my house this last month
+wth.out giving me the <lb/>opportunity of writing I heartily Condole
+wth. You for the <lb/>loss of <note target="n1">Yor. Son</note> so
+great &amp; good a prop to our Trade <lb/>The mercy You Enjoy In
+having a Grandson to Step into <lb/>his room is beyond Compare</p>
 
 <pb n="2"/><lb/><lb/>
-<p>I take notice You had sold some more of my Tobo. &amp; am in hopes <lb/>the rest <sic corr="fetched">Fetcht</sic> the Same prices all seem to agree <sic corr="stripped">Stript</sic> Tobo. <lb/>would hold Its own&mdash; The last Crop we reckon was not <lb/>larger than the preceeding Year how we Shall come off wth. <lb/>that time must tell us I believe Yor. Intelligence from <lb/>all parts this Year will be That we have <abbr expan="generally">genly.</abbr>
- a plentiful <lb/>harvest, &amp; the best Tobo. that has bin made this many Years <lb/>I promisd mySelf to have the neatest parcell of <abbr expan="tobacco">Tobbo.</abbr>
- to send <lb/>You I have bin Master of a long time &amp; Shall do my Ende<lb/>=avour to handle It wth. all Imaginable niceness, we are <lb/>big wth. hopes You will be able to make <note target="n2">Captn. Bagwell</note> a <lb/>Forward Ship <sic corr="let">lett</sic> him come as soon as he will I think <lb/>he cannot lye Idle for want of business our Crops are very <lb/>Early &amp; will be <sic corr="chiefly">cheifly</sic> ready for Shipping on this side Christ=<lb/>=mas&mdash;</p>
+<p>I take notice You had sold some more of my Tobo. &amp; am in
+hopes <lb/>the rest <sic corr="fetched ">Fetcht</sic> the Same prices
+all seem to agree <sic corr="stripped ">Stript</sic> Tobo. <lb/>would
+hold Its own&mdash; The last Crop we reckon was not <lb/>larger than
+the preceeding Year how we Shall come off wth. <lb/>that time must
+tell us I believe Yor. Intelligence from <lb/>all parts this Year
+will be That we have <abbr expan="generally ">genly.</abbr>
+ a plentiful <lb/>harvest, &amp; the best Tobo. that has bin made
+this many Years <lb/>I <sic corr="promised ">promisd</sic> mySelf to
+have the neatest <sic corr="parcel ">parcell</sic> of
+<abbr expan="tobacco ">Tobbo.</abbr>
+ to send <lb/>You I have bin Master of a long time &amp; Shall do my
+Ende<lb/>=avour to handle It wth. all Imaginable niceness, we are
+<lb/>big wth. hopes You will be able to make <note target="n2"><abbr
+expan="Captain ">Captn.</abbr>
+Bagwell</note> a <lb/>Forward Ship <sic corr="let ">lett</sic> him
+come as soon as he will I think <lb/>he cannot <sic corr="lie
+">lye</sic> Idle for want of
+business our Crops are very <lb/>Early &amp; will be <sic
+corr="chiefly ">cheifly</sic> ready for Shipping on this side
+Christ=<lb/>=mas&mdash;</p>
 
-<p>Yor. <abbr expan="letters">Lettrs.</abbr>
- relating to <note target="n3">Mr. Footes</note> Affair I send <lb/>him Copys of, Yor. next Intelligence of that matter will <lb/>be g<add resp="editor">[. . .]</add>id to him wt. <sic corr="course">Cource</sic> will be most proper for him <lb/><unclear>[. . .]</unclear></p> 
+<p>Yor. Lettrs. 
+ relating to <note target="n3">Mr. Footes</note> Affair I send
+<lb/>him <sic corr="copies ">Copys</sic> of, Yor. next Intelligence
+of that matter will <lb/><sic corr="guide ">gid</sic> to him wt. <sic
+corr="course">Cource</sic> will be most proper for him
+<lb/><unclear>[. . .]</unclear></p> 
 
-<p>My Son makes me Large promises to <lb/>keep his Expenses wth.in my Limitation, am afraid the <lb/>blessing that Attends us, in A plentifull Year will have <lb/>the Consequence of a decline upon our Markett wch. of <lb/>Necessity must make us <abbr expan="lower">lowr</abbr>
+<p>My Son makes me Large promises to <lb/>keep his Expenses wth.in
+my Limitation, am afraid the <lb/>blessing that Attends us, in A
+<sic corr="plentiful ">plentifull</sic> Year will have <lb/>the
+Consequence of a decline upon our
+<sic corr="Market ">Markett</sic> wch. of <lb/>Necessity must make
+us <abbr
+expan="lower ">lowr</abbr>
  our Topsails.</p> 
 
-<p>As to polliticks we are all Easy at present, an <lb/>Assembly is to meet the Second of <abbr expan="November">Novr.</abbr>
- mighty Struggles <lb/>There has bin Through the Country who Should be our <lb/><abbr expan="Parliament">Parliamt.</abbr>
+<p>As to <sic corr="politics ">polliticks</sic> we are all Easy at
+present, an <lb/>Assembly is
+to meet the Second of <abbr expan="November ">Novr.</abbr>
+ mighty Struggles <lb/>There has bin Through the Country who Should
+be our <lb/><abbr expan="Parliament ">Parliamt.</abbr>
  men but there I leave them &amp; Conclude  
 </p>
 
@@ -143,17 +207,41 @@ Messrs. Perry<lb/>
 
 <div1 type="back matter">
 <head>NOTES</head>
-<note><hi rend="italics">Source copy consulted:</hi>  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. Printed: <cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> pp. 46-47.</bibl></cit>
+<note><hi rend="italics">Source copy consulted:</hi>  Robert Carter
+Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art
+Collections, and Botanical Gardens, San Marino, California. Printed:
+<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . .
+.</title> pp. 46-47.</bibl></cit>
 </note>
 
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note><lb/>
-<note>Carter's clerk, having addressed many letters to Micajah and Richard Perry, automatically wrote "Messrs. Perry" into the letter book when Carter began dictating.</note>
+<note>Robert Carter generally used a return address of
+"Rappahannock" for the river on which he lived rather than
+"Corotoman," the name of his home, on his correspondence, especially
+to merchants abroad. The county and colony have been added for
+clarity.</note><lb/>
+<note>Carter's clerk, having addressed many letters to Micajah and
+Richard Perry, automatically wrote "Messrs. Perry" into the letter
+book when Carter began dictating.</note><lb/>
 
-<note id="n1">[1] RC sends condolences to Micajah Perry for the death of his son and partner, Richard, who had died in April 1720. <cit><bibl n="B22">Price. <title>Perry of London. . . . </title> p. 63.</bibl></cit></note>
-<note id="n2">[2] A Captain Thomas Bagwell is found in earlier Virginia records as captain of the <hi rend="italics">Levett</hi> in 1705. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title> 3(1705-1721): 15.</bibl></cit>)</note>
+<note id="n1">[1] RC sends condolences to Micajah Perry for the
+death of his son and partner, Richard, who had died in April 1720.
+<cit><bibl n="B22">Price. <title>Perry of London. . . . </title> p.
+63.</bibl></cit></note>
+<note id="n2">[2] A Captain Thomas Bagwell is found in earlier
+Virginia records as captain of the <hi rend="italics">Levett</hi> in
+1705. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the
+Council. . . .</title> 3(1705-1721): 15.</bibl></cit>)</note>
 
-<note id="n3">[3] Richard Foote (1666-1724) of Stafford County, nephew of Nicholas Hayward, developer of the <note n="BT">Brent Town</note> speculation in the Northern Neck Proprietary. Foote's father was one of Hayward's partners, and a successful merchant in London.  The son lived in the Brent Town tract, and represented the owners in Virginia. See the letter to Foote of this same date.
+<note id="n3">[3] Richard Foote (1666-1724) of Stafford County,
+nephew of Nicholas Hayward, developer of the <note n="BT">Brent
+Town</note> speculation in the Northern Neck Proprietary. Foote's
+father was one of Hayward's partners, and a successful merchant in
+London.  The son lived in the Brent Town tract, and represented the
+owners in Virginia. See the letter to Foote of this same date.
 </note>
+
+<lb/><lb/><note><hi rend="italics">This text revised January 30,
+2009.</hi></note>
 
 </div1>
 
