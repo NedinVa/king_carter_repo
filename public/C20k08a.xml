@@ -18,18 +18,20 @@
              
 <fileDesc>
 <titleStmt>
-     <title type="245">Letter from Robert Carter to John Carter, November 8, 1720</title>
+     <title type="245">Letter from Robert Carter to John Carter,
+November 8, 1720</title>
    <title type="gmd">[electronic resource]</title>
      <author>Carter, Robert</author>
    <respStmt>
      <resp>Creation of machine-readable version: </resp>
      <name id="editor">Edmund Berkeley, Jr.</name>
      <resp>Conversion to TEI.2-conformant markup</resp>
-     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+     <name>Edmund Berkeley, Jr. and the University of Virginia
+Library Electronic Text Center</name>
    </respStmt>
 </titleStmt>
 
-<extent>ca. 7 kilobytes </extent>
+<extent>ca. 8 kilobytes </extent>
 
 <publicationStmt>
      <publisher>University of Virginia Library.</publisher>
@@ -37,7 +39,8 @@
      <idno type="ETC">filename</idno>
      <availability>
      <p>Publicly accessible</p>
-     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+     <p n="public">URL:
+http://etext.lib.virginia.edu/users/berkeley/</p>
          </availability>
      <date>2001</date>
 </publicationStmt>
@@ -45,13 +48,16 @@
 <sourceDesc>
      <biblFull>
      <titleStmt>
-     <title>Letter from Robert Carter to John Carter, November 8, 1720</title>
+     <title>Letter from Robert Carter to John Carter, November 8,
+1720</title>
      <author>Robert Carter</author>
 </titleStmt>
-    <extent>2 p.</extent>
+    <extent>2 pp.</extent>
 <publicationStmt>
      <date>1940</date>
-   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California.</idno>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter
+Book, 1720 July-1721 July, BR 227, Huntington Library, Art
+Collections, and Botanical Gardens, San Marino, California.</idno>
 </publicationStmt>
 </biblFull>
 </sourceDesc>
@@ -59,14 +65,17 @@
 </fileDesc>
      <encodingDesc>
      <projectDesc>
-     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     <p>Prepared for the University of Virginia Library Electronic
+Text Center.</p>
      </projectDesc>
 <editorialDecl>
-     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+     <p>Some keywords in the header are a local electronic Text
+Center scheme to aid in  establishing analytical groupings.</p>
 </editorialDecl>
 
 <classDecl>
-     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject
+Headings</title></bibl></taxonomy>
 </classDecl>
 </encodingDesc>
 
@@ -75,7 +84,8 @@
      <langUsage><language id="eng"></language></langUsage>
      <textClass>
      <keywords><term>non-fiction</term><term>prose</term></keywords>
-     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     <keywords scheme="LCSH"><term
+type="Field650">LCSH</term></keywords>
      </textClass>
 </profileDesc>
 
@@ -88,13 +98,20 @@
 <head>
 <bibl>
 <abbr>AL</abbr>
-<extent>2 p.</extent>
+<extent>2 pp.</extent>
 <date value="1720-11-08"></date>
 <idno rend="suppress">C20k08a.xml</idno>
-<title>Letter from Robert Carter to John Carter, November 8, 1720</title>
+<title>Letter from Robert Carter to John Carter, November 8,
+1720</title>
 </bibl>
 </head>
-<p>Robert Carter writes to his son, John, then in London studying law, November 8, 1720, concerning the postponment of Robert Cary's law suit concerning lands that Carter is attempting to purchase from Cary. He reiterates the offer he has made to Cary, and tells John to press either for Cary to accept the previous offer, or to negotiate up to a thousand pounds for the land, "truly more I cant think It worth."</p>
+<p>Robert Carter writes to his son, John, then in London studying
+law, November 8, 1720, concerning the postponment of Robert Cary's
+law suit concerning lands that Carter is attempting to purchase from
+Cary. He reiterates the offer he has made to Cary, and tells John to
+press either for Cary to accept the previous offer, or to negotiate
+up to a thousand pounds for the land, "truly more I cant think It
+worth."</p>
 </div1>                 
 </front>
 
@@ -102,24 +119,61 @@
 
 <body>
 <div1 type="letter" n="1">
-<head>Letter from Robert Carter to John Carter, November 8, 1720</head>
+<head>Letter from Robert Carter to <note n="JC1">John Carter,</note>
+November 8,
+1720</head>
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
-<date value="1720-11-08">Novr. 8th. 1720</date><lb/>
+<name type="place">Rappa<corr resp="editor">[hannock, Lancaster
+County, Virginia]</corr> </name><lb/>
+<date value="1720-11-08"><abbr expan="November ">Novr. </abbr> 8th.
+1720</date><lb/>
 </dateline>
 <salute>Dear Son John</salute>
 
 </opener>
 
-<p>This is to lett You know Mr. <note target="n1">Carys</note> Cause <lb/>is not Yett decided but is put over to april Court <lb/>You inform me he presses very much to have <lb/>an offer from me. I have already offerd the <abbr expan="gentleman">Gent</abbr>
- <lb/>Concernd here to pay him Interest for his money <lb/>from the time of his purchase to pay him all <lb/>the Charges he has bin at in the Sale and to <lb/>give him besides a hundred Pound for his <lb/>bargain which one would think is temptation <lb/>enough Especially considering I am so near <lb/>related to the Cause. I shall Say this further <lb/>to You that I believe I may adventure a 
+<p>This is to <sic corr="let ">lett</sic> You know Mr. <note
+target="n1">Carys</note> Cause
+<lb/>is not <sic corr="yet ">Yett</sic> decided but is put over to
+april Court <lb/>You
+inform me he presses very much to have <lb/>an offer from me. I have
+already <sic corr="offered ">offerd</sic> the Gent
+ <lb/><sic corr="Concerned ">Concernd</sic> here to pay him Interest
+for his money <lb/>from the
+time of his purchase to pay him all <lb/>the Charges he has bin at in
+the Sale and to <lb/>give him besides a hundred Pound for his
+<lb/>bargain which one would think is temptation <lb/>enough
+Especially considering I am so near <lb/>related to the Cause. I
+shall Say this further <lb/>to You that I believe I may adventure a 
 
 <pb n="2"/><lb/><lb/>
-<note target="n2">Thousand</note> pound at It or thereabouts &amp; truly more I <lb/>cant think It worth, Tis a large quantity of Land <abbr expan="it is">tis</abbr>
- true <lb/>&amp; Contigious to A fine tract of mine but <abbr expan="it is">tis</abbr> all back <lb/>forest Land &amp; in a part of the Country where lands are <lb/>not very valuable I cant think any one else will offer <lb/>more for It, You say You have his word &amp; <abbr expan="honor">Honr.</abbr>
- that I <lb/>Should have the refusal I believe his Interest will be <lb/>his <sic corr="chief">Cheif</sic> Guide If You can <sic corr="rivet">rivett</sic> the bargain at either <lb/>of these offers I Should not Scruple to come into It <lb/>&amp; If I had his Title I would forthwith conclude the <lb/>Lawsuit &amp; not Carry on so <sic corr="rigorous">riggorous</sic> a Tryal by <lb/>such such [<hi rend="italics">sic</hi>] unequall Strength to Evict several poor familys <lb/>out of what I think in my Conscience is their right <lb/>&amp; who have  <add place="supralinear">&amp; their posteritys</add> <abbr expan="enjoyed"> Enjoyd</abbr> their plans. Ever since old <abbr expan="Colonel">Collo.</abbr> <add resp="editor"> [John]</add> <lb/>Hulls Days I Shall conclude at present with <lb/>my <abbr expan="blessing">bl.ssing</abbr>
+<note target="n2">Thousand</note> pound at It or thereabouts &amp;
+truly more I <lb/>cant think It worth, <sic corr="It is ">Tis</sic>
+a large quantity of Land
+<abbr expan="it is ">tis</abbr>
+ true <lb/>&amp; Contigious to A fine tract of mine but <abbr
+expan="it is ">tis</abbr> all back <lb/>forest Land &amp; in a part of
+the Country where lands are <lb/>not very valuable I cant think any
+one else will offer <lb/>more for It, You say You have his word &amp;
+<abbr expan="honor ">Honr.</abbr>
+ that I <lb/>Should have the refusal I believe his Interest will be
+<lb/>his <sic corr="chief ">Cheif</sic> Guide If You can <sic
+corr="rivet ">rivett</sic> the bargain at either <lb/>of these offers
+I Should not Scruple to come into It <lb/>&amp; If I had his Title I
+would forthwith conclude the <lb/>Lawsuit &amp; not Carry on so <sic
+corr="rigorous ">riggorous</sic> a <sic corr="trial ">Tryal</sic> by
+<lb/>such such [<hi
+rend="italics">sic</hi>] <sic corr="unequal ">unequall</sic>
+Strength to Evict several poor
+familys <lb/>out of what I think in my Conscience is their right
+<lb/>&amp; who have  <add place="supralinear">&amp; their
+posteritys</add> <abbr expan="enjoyed "> Enjoyd</abbr> their <abbr
+expan="plantations ">plans. </abbr>
+Ever since old <abbr expan="Colonel ">Collo.</abbr> <add
+resp="editor"> [John]</add> <lb/>Hulls Days I Shall conclude at
+present with <lb/>my <abbr expan="blessing ">bl.ssing</abbr>
  to You &amp; remain&mdash;</p>
 
 
@@ -133,14 +187,38 @@
 
 <div1 type="back matter">
 <head>NOTES</head>
-<note><hi rend="italics">Source copy consulted:</hi>  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. Printed: <cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> pp. 59-60.</bibl></cit>
+<note><hi rend="italics">Source copy consulted:</hi>  Robert Carter
+Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art
+Collections, and Botanical Gardens, San Marino, California. Printed:
+<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . .
+.</title> pp. 59-60.</bibl></cit>
 </note>
 
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note><lb/>
+<note>Robert Carter generally used a return address of
+"Rappahannock" for the river on which he lived rather than
+"Corotoman," the name of his home, on his correspondence, especially
+to persons abroad. The county and colony have been added for
+clarity.</note><lb/>
 
-<note id="n1">[1] Robert Cary (1685-1751) was a London merchant, second of the name, a partner in a firm that was involved in the Virginia tobacco trade for over 100 years.  RC mentions in his will that he had purchased lands in Richmond, Westmoreland, and King George counties from Cary.  These lands had belonged to his niece, Elizabeth (Carter) Lloyd, who had inherited them from John Hull, her grandfather. For other information about Carter's pursuit of these lands, see Carter's letters to John Carter, July 13, 1720, and to the Perrys July 14, 1720. (RC's will, and <cit><bibl n="A6"> Price. "Who Was John Norton? A Note on . . .  Some Eighteenth-Century London Virginia Firms."</bibl></cit>)</note>
+<note id="n1">[1] Robert Cary (1685-1751) was a London merchant,
+second of the name, a partner in a firm that was involved in the
+Virginia tobacco trade for over 100 years.  Carter mentions in his
+will
+that he had purchased lands in Richmond, Westmoreland, and King
+George counties from Cary.  These lands had belonged to his niece,
+Elizabeth (Carter) Lloyd, who had inherited them from John Hull, her
+grandfather. For other information about Carter's pursuit of these
+lands, see Carter's letters to John Carter July 13, 1720, and to the
+Perrys July 14, 1720. (RC's will, and <cit><bibl n="A6"> Price. "Who
+Was John Norton? A Note on . . .  Some Eighteenth-Century London
+Virginia Firms."</bibl></cit>)</note>
 
-<note id="n2">[2] At this point, the paper of the letter book returns to the less absorbent composition of the earlier pages making the letter drafts much easier to read.</note>
+<note id="n2">[2] At this point, the paper of the letter book
+returns to the less absorbent composition of the earlier pages making
+the letter drafts much easier to read.</note>
+
+<lb/><lb/><note><hi rend="italics">This text revised February 17,
+2009.</hi></note>
 
 
 </div1>

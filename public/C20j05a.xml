@@ -18,14 +18,16 @@
              
 <fileDesc>
 <titleStmt>
-     <title type="245">Letter from Robert Carter to John Pemberton, [ca. October 5, 1720]</title>
+     <title type="245">Letter from Robert Carter to John Pemberton,
+[ca. October 5, 1720]</title>
    <title type="gmd">[electronic resource]</title>
      <author>Carter, Robert</author>
    <respStmt>
      <resp>Creation of machine-readable version: </resp>
      <name id="editor">Edmund Berkeley, Jr.</name>
      <resp>Conversion to TEI.2-conformant markup</resp>
-     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+     <name>Edmund Berkeley, Jr. and the University of Virginia
+Library Electronic Text Center</name>
    </respStmt>
 </titleStmt>
 
@@ -37,7 +39,8 @@
      <idno type="ETC">filename</idno>
      <availability>
      <p>Publicly accessible</p>
-     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+     <p n="public">URL:
+http://etext.lib.virginia.edu/users/berkeley/</p>
          </availability>
      <date>2001</date>
 </publicationStmt>
@@ -45,13 +48,16 @@
 <sourceDesc>
      <biblFull>
      <titleStmt>
-     <title>Letter from Robert Carter to John Pemberton, [ca. October 5, 1720]</title>
+     <title>Letter from Robert Carter to John Pemberton, [ca.
+October 5, 1720]</title>
      <author>Robert Carter</author>
 </titleStmt>
     <extent>1 p.</extent>
 <publicationStmt>
      <date>1940</date>
-   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California.</idno>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter
+Book, 1720 July-1721 July, BR 227, Huntington Library, Art
+Collections, and Botanical Gardens, San Marino, California.</idno>
 </publicationStmt>
 </biblFull>
 </sourceDesc>
@@ -59,14 +65,17 @@
 </fileDesc>
      <encodingDesc>
      <projectDesc>
-     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     <p>Prepared for the University of Virginia Library Electronic
+Text Center.</p>
      </projectDesc>
 <editorialDecl>
-     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+     <p>Some keywords in the header are a local electronic Text
+Center scheme to aid in  establishing analytical groupings.</p>
 </editorialDecl>
 
 <classDecl>
-     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject
+Headings</title></bibl></taxonomy>
 </classDecl>
 </encodingDesc>
 
@@ -75,7 +84,8 @@
      <langUsage><language id="eng"></language></langUsage>
      <textClass>
      <keywords><term>non-fiction</term><term>prose</term></keywords>
-     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     <keywords scheme="LCSH"><term
+type="Field650">LCSH</term></keywords>
      </textClass>
 </profileDesc>
 
@@ -91,10 +101,19 @@
 <extent>1 p.</extent>
 <date value="1720-10-05"></date>
 <idno rend="suppress">C20j05a.xml</idno>
-<title>Letter from Robert Carter to John Pemberton, [ca. October 5, 1720]</title>
+<title>Letter from Robert Carter to John Pemberton, [ca. October 5,
+1720]</title>
 </bibl>
 </head>
-<p>Robert Carter writes to Liverpool merchant John Pemberton, [ca. October 5, 1720], to enclose a bill of lading for 20 hogsheads of tobacco ("the greatest part of them Leaf some Stemmed") shipped on board the Mercury, Captain Enoch Robinson, requesting Pemberton to honor his bill for the impost, and a bill of Captain Eccles'. He tells Pemberton that Robinson will give him the news of the good crops and the activities of a Spanish privateer on the Virginia coast.</p>
+<p>Robert Carter writes to Liverpool merchant John Pemberton, [ca.
+October 5, 1720], to enclose a bill of lading for 20 hogsheads of
+tobacco ("the greatest part of them Leaf some Stemmed") shipped on
+board the <hi rend="italics">Mercury,</hi> Captain Enoch Robinson,
+requesting Pemberton to
+honor his bill for the impost, and a bill of Captain Eccles'. He
+tells Pemberton that Robinson will give him the news of the good
+crops and the activities of a Spanish privateer on the Virginia
+coast.</p>
 </div1>                 
 </front>
 
@@ -102,23 +121,39 @@
 
 <body>
 <div1 type="letter" n="1">
-<head>Letter from Robert Carter to <note n="JP">John Pemberton,</note> [ca. October 5, 1720]</head>
+<head>Letter from Robert Carter to <note n="JP">John
+Pemberton,</note> [<hi rend="italics">ca.</hi> October 5, 1720]</head>
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1720-10-05">[ca. October 5, 17]20</date><lb/>
-Mr. Jno. Pemberton<lb/>
+<name type="place">Rappahannock,<corr resp="editor">[Lancaster
+County, Virginia]</corr> </name><lb/>
+<date value="1720-10-05">[<hi rend="italics">ca.</hi> October 5,
+1720]</date><lb/>
+Mr. <abbr expan="John ">Jno. </abbr> Pemberton<lb/>
 </dateline>
 <salute>Sir&mdash;</salute>
 
 </opener>
 
-<p>This Accomps. Captain <note target="n1">Enoch Robin<lb/>=son</note> in the <name type="ship">Mermaid</name> &amp; encloses a bill of Lading <lb/>for my 20 hogsheads of Tobo. on board the <abbr expan="said">Sd.</abbr>
- Ship <lb/>the greatest part of them Leaf some Stemmed <lb/>what Markett It will come to we must leave to <lb/>time, I had drawn on You for forty one <abbr expan="shillings">Shills.</abbr>
- <lb/>for the Impost wch. request You to pay, herein is a <lb/>Second bill of Captn. Eccles's for 8/</p>
+<p>This <abbr expan="Accompanies ">Accomps. </abbr> Captain <note
+target="n1">Enoch
+Robin<lb/>=son</note> in the <name type="ship">Mermaid</name> &amp;
+encloses a bill of Lading <lb/>for my 20 hogsheads of Tobo. on board
+the <abbr expan="said ">Sd.</abbr>
+ Ship <lb/>the greatest part of them Leaf some Stemmed <lb/>what
+<sic corr="Market\ ">Markett</sic> It will come to we must leave to
+<lb/>time, I had drawn on
+You for forty one <abbr expan="shillings ">Shills.</abbr>
+ <lb/>for the <note target="n2">Impost</note> wch. request You to
+pay, herein is a
+<lb/>Second bill of <abbr expan="Captain ">Captn.</abbr> Eccles's
+for 8<abbr expan=" Shillings ">/</abbr>
+</p>
 
-<p>The news hence both of our Crops &amp; the taking <lb/>Several of our Vessels by a Spanish privateer You'l have <lb/>at large from the Master I am </p>
+<p>The news hence both of our Crops &amp; the taking <lb/>Several of
+our Vessels by a Spanish privateer You'l have <lb/>at large from the
+Master I am </p>
 
 <closer>Sir <lb/>Yor. humble Servt.</closer>
 
@@ -132,14 +167,35 @@ Mr. Jno. Pemberton<lb/>
 
 <div1 type="back matter">
 <head>NOTES</head>
-<note><hi rend="italics">Source copy consulted:</hi>  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. Printed: <cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> p. 56.</bibl></cit>
-</note>
+<note><hi rend="italics">Source copy consulted:</hi>  Robert Carter
+Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art
+Collections, and Botanical Gardens, San Marino, California. Printed:
+<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . .
+.</title> p. 56.</bibl></cit>
+</note><lb/>
 
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity. There is a hole in the page that deleted the date, but the letter is found in the letter book between letters of September 30, and October 10, 1720.</note><lb/>
+<note>Robert Carter generally used a return address of
+"Rappahannock" for the river on which he lived rather than
+"Corotoman," the name of his home, on his correspondence, especially
+to merchants abroad. The county and colony have been added for
+clarity. There is a hole in the page that deleted the date, but the
+letter is found in the letter book between letters of September 30,
+and October 10, 1720.</note><lb/>
 
-<note id="n1">[1] Robinson was captain of the <hi rend="italics">Mermaid</hi>, a Liverpool ship that did not always carry tobacco. On July 14, 1719, Robinson successfully petitioned the Council for permission to sail without convoy, being "laden with Pitch and Tarr." (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 3(1705-1721): 510-511</bibl></cit>)</note>
+<note id="n1">[1] Robinson was captain of the <hi
+rend="italics">Mermaid</hi>, a Liverpool ship that did not always
+carry tobacco. On July 14, 1719, Robinson successfully petitioned the
+Council for permission to sail without convoy, being "laden with
+Pitch and Tarr." (<cit><bibl n="B10">McIlwaine. <title>Executive
+Journals of the Council. . . .</title>, 3(1705-1721): 510-
+511</bibl></cit>)</note><lb/>
+
+<note id="n2">[2]  The impost was the duty imposed
+by Britain on imported tobacco.</note>
 
 
+<lb/><lb/><note><hi rend="italics">This text revised February 17,
+2009.</hi></note>
 </div1>
 </back>
 
