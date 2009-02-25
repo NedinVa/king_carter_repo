@@ -3,7 +3,7 @@
 <?xml-stylesheet href="carter.xsl" type="text/xsl"?>
 <!DOCTYPE TEI.2  SYSTEM  'teixlite.dtd' [ 
 <!NOTATION jpg  SYSTEM  "jpeg"> 
-<!ENTITY filename  SYSTEM  "filename.jpg" NDATA jpg>
+<!ENTITY filename  SYSTEM  "filename.jpg" NDATA jpg> 
 <!ENTITY % ISOlat1 SYSTEM  "ISOlat1.pen"> %ISOlat1; 
 <!ENTITY % ISOlat2 SYSTEM  "ISOlat2.pen"> %ISOlat2; 
 <!ENTITY % ISOnum SYSTEM  "ISOnum.pen"> %ISOnum; 
@@ -137,7 +137,7 @@ belonging to the Estate <lb/>of <note n="RW"><abbr expan="Esquire ">Esqr. </abbr
 <lb/>part of what was made Last Year, for my own part you <lb/>know I Live <sic 
 corr="over">Offer</sic> a great River and no Body Else Concerns them=<lb/>selves wth. any Thing, my 
 kind Respects to <note target="n1">my <sic corr="Cousins ">Cozns</sic>.</note> I heartily <lb/>Wish they were <sic corr="big ">bigg</sic> Enough to do their Own Business, I have 
-     Recd. <lb/><abbr expan="Several ">Sevll. </abbr> <xref to="C01e22a">Lettrs. from you</xref> wth. yor. Accot. of their Disbursements, you <lb/>may see by their 
+     Recd. <lb/><abbr expan="Several ">Sevll. </abbr> Lettrs. from you wth. yor. Accot. of their Disbursements, you <lb/>may see by their 
 Small Revenues there is a Necessity of Retrenching <lb/>their Expences all that Conveniently may be I am 
 <abbr expan="Sir">Sr. </abbr></p> 
  
