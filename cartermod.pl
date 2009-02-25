@@ -486,7 +486,7 @@ $a =~ s/<div[0-9] type="section" n="[^>]*">//g;
 
 #cross references
 
-$a =~ s/<xref doc="(C[^"]*)">/<a href="http:\/\/etext.lib.virginia.edu\/etcbin\/browse-carter?id=C$1.xml&images=images\/modeng&data=\/web\/data\/users\/berkeley\&tag=public"target="_wblank">/g;
+$a =~ s/<xref doc="(C[^\"]*)">/<a href="http:\/\/etext.lib.virginia.edu\/etcbin\/browse-carter?id=$1.xml&images=images\/modeng&data=\/web\/data\/users\/berkeley\&tag=public"target="_wblank">/g;
 
 $a =~ s/<xref to="Ext1">/<a href="http:\/\/www.abdn.ac.uk\/virtualmuseum\/index.php?page=object_detail&prefix=ABDUA&num=18746&firstview=true&mt=&sign=&viewnumber=&resultsperpage=9">/g;
 
