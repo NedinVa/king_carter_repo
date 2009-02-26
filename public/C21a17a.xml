@@ -14,6 +14,7 @@
 <TEI.2 id="C21a17a">
 
 
+
 <teiHeader type="aacr2">
              
 <fileDesc>
@@ -106,7 +107,7 @@ type="Field650">LCSH</term></keywords>
 </bibl>
 </head>
 <p>Robert Carter writes to his son John, January 17, 1721,
-briefly reporting family news, and then turning to the newly-acquired
+briefly reporting family news, and then turns to the newly-acquired
 lease of the Northern Neck proprietary which he has just received
 from Micajah Perry in London. He informs John that he needs to have
 the kind of power to make grants of land in the proprietary that he
@@ -120,7 +121,7 @@ who are coming to the colony.</p>
 
 <body>
 <div1 type="letter" n="1">
-<head>Letter from Robert Carter to <note n="JC1">John Carter,</note>
+<head>Letter from Robert Carter to <note n="JC1">John Carter, </note>
 January 17,
 1721</head>
 <opener>
@@ -141,8 +142,8 @@ expan="November ">Novr. </abbr> &amp; sent You
 <lb/>Duplicates. Yor. Relations are all well at this time for
 what<lb/> I know pray God this may find You &amp; Yor. <abbr
 expan="brothers ">brors.</abbr> in the Same <lb/>s<corr
-resp="editor">[ta]</corr> te Yor. <note n="JAC">Sister
-Page</note> <sic corr="has ">hath </sic> a Son born.</p>
+resp="editor">[ta]</corr> te Yor. <note n="JAC">Sister Page </note>
+<sic corr="has ">hath </sic> a Son born.</p>
 
 <p>	I find in the lease <note n="MP">Mr. Perry</note> Sent me for
 the <note target="n1">Northern Neck</note> <add
@@ -211,15 +212,14 @@ clarity.</note><lb/>
 <note id="n1">[1] For the Northern Neck proprietary, Lord Fairfax,
 etc., see "Robert Carter and the Northern Neck Proprietary" linked
 from the <xref
-to="http://etext.lib.virginia.edu/users/berkeley">opening
+url="http://etext.lib.virginia.edu/users/berkeley">opening
 screen</xref> of this site.</note><lb/>
-
 
 
 <note id="n2">[2] A Latin phrase meaning so long as condtions have
 not substantially changed.</note>
 
-<lb/><lb/><note><hi rend="italics">This text revised February 20,
+<lb/><lb/><note><hi rend="italics">This text revised February 24,
 2009.</hi></note>
 
 </div1>

@@ -18,14 +18,16 @@
              
 <fileDesc>
 <titleStmt>
-     <title type="245">Letter from Robert Carter to Messrs. Micajah Perry, Sr. and Jr., January 17, 1721</title>
+     <title type="245">Letter from Robert Carter to Messrs. Micajah
+Perry, Sr. and Jr., January 17, 1721</title>
    <title type="gmd">[electronic resource]</title>
      <author>Carter, Robert</author>
    <respStmt>
      <resp>Creation of machine-readable version: </resp>
      <name id="editor">Edmund Berkeley, Jr.</name>
      <resp>Conversion to TEI.2-conformant markup</resp>
-     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+     <name>Edmund Berkeley, Jr. and the University of Virginia
+Library Electronic Text Center</name>
    </respStmt>
 </titleStmt>
 
@@ -37,7 +39,8 @@
      <idno type="ETC">filename</idno>
      <availability>
      <p>Publicly accessible</p>
-     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+     <p n="public">URL:
+http://etext.lib.virginia.edu/users/berkeley/</p>
          </availability>
      <date>2001</date>
 </publicationStmt>
@@ -45,13 +48,16 @@
 <sourceDesc>
      <biblFull>
      <titleStmt>
-     <title>Letter from Robert Carter to Messrs. Micajah Perry, Sr. and Jr., January 17, 1721</title>
+     <title>Letter from Robert Carter to Messrs. Micajah Perry, Sr.
+and Jr., January 17, 1721</title>
      <author>Robert Carter</author>
 </titleStmt>
-    <extent>2 p.</extent>
+    <extent>2 pp.</extent>
 <publicationStmt>
      <date>1940</date>
-   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California.</idno>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter
+Book, 1720 July-1721 July, BR 227, Huntington Library, Art
+Collections, and Botanical Gardens, San Marino, California.</idno>
 </publicationStmt>
 </biblFull>
 </sourceDesc>
@@ -59,14 +65,17 @@
 </fileDesc>
      <encodingDesc>
      <projectDesc>
-     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     <p>Prepared for the University of Virginia Library Electronic
+Text Center.</p>
      </projectDesc>
 <editorialDecl>
-     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+     <p>Some keywords in the header are a local electronic Text
+Center scheme to aid in  establishing analytical groupings.</p>
 </editorialDecl>
 
 <classDecl>
-     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject
+Headings</title></bibl></taxonomy>
 </classDecl>
 </encodingDesc>
 
@@ -75,7 +84,8 @@
      <langUsage><language id="eng"></language></langUsage>
      <textClass>
      <keywords><term>non-fiction</term><term>prose</term></keywords>
-     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     <keywords scheme="LCSH"><term
+type="Field650">LCSH</term></keywords>
      </textClass>
 </profileDesc>
 
@@ -88,13 +98,28 @@
 <head>
 <bibl>
 <abbr>AL</abbr>
-<extent>2 p.</extent>
+<extent>2 pp.</extent>
 <date value="1721-01-17"></date>
-<idno rend="suppress">C21a17cT</idno>
-<title>Letter from Robert Carter to Messrs. Micajah Perry, Sr. and Jr., January 17, 1721</title>
+<idno rend="suppress">C21a17c.xml</idno>
+<title>Letter from Robert Carter to Messrs. Micajah Perry, Sr. and
+Jr., January 17, 1721</title>
 </bibl>
 </head>
-<p>Robert Carter writes to London merchants Messrs. Micajah Perry and his grandson of the same name, January 17, 1721, reporting on the recent session of the Virginia Assembly that had sat until Christmas. William Byrd, representative of the colony in England, was voted &pound;400 but the governor attached conditions Byrd would not agree to, and they can get the details when Byrd arrives. Most of the ships presently in Virginia are from Bristol and Liverpool, and they are not expecting the London ships until March. He comments that Bristol is the worst tobacco market in Britain but he has received good prices there. The deaths of James Walker and Mrs. Rostow, and the serious illness of Cole Digges, are recorded. He concludes that he has considered what to do with his surplus cash in the Perry's hands, but will not call on it soon, and notes that there will be some protested notes from his involvement with sale of slaves from the ship, the <hi rend="italics">Mercury.</hi></p>
+<p>Robert Carter writes to London merchants Messrs. Micajah Perry
+and his grandson of the same name, January 17, 1721, reporting on the
+recent session of the Virginia Assembly that had sat until Christmas.
+William Byrd, representative of the colony in England, was voted
+&pound;400 but the governor attached conditions Byrd would not agree
+to, and they can get the details when Byrd arrives. Most of the ships
+presently in Virginia are from Bristol and Liverpool, and they are
+not expecting the London ships until March. He comments that Bristol
+is the worst tobacco market in Britain but he has received good
+prices there. The deaths of James Walker and Mrs. Rostow, and the
+serious illness of Cole Digges, are recorded. He concludes that he
+has considered what to do with his surplus cash in the Perry's hands,
+but will not call on it soon, and notes that there will be some
+protested notes from his involvement with sale of slaves from the
+ship, the <hi rend="italics">Mercury.</hi></p>
 </div1>                 
 </front>
 
@@ -102,30 +127,86 @@
 
 <body>
 <div1 type="letter" n="1">
-<head>Letter from Robert Carter to Messrs. Micajah Perry, Sr. and Jr., January 17, 1721</head>
+<head>Letter from Robert Carter to Messrs. <note n="MP">Micajah
+Perry, Sr.</note> and
+<note n="MP2">Jr.,</note> January 17, 1721</head>
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1721-01-17">Jany. 17th 1720/21</date><lb/>
-Messrs. Perry<lb/>Senr. &amp; Junr.&mdash;<lb/>
+<name type="place">Rappahannock, <corr resp="editor">[Lancaster
+County, Virginia]</corr> </name><lb/>
+<date value="1721-01-17"><abbr expan="January ">Jany.  </abbr>17th
+1720/21</date><lb/>
+Messrs. Perry<lb/><abbr expan="Senior ">Senr. </abbr> &amp; <abbr
+expan="Junior">Junr. </abbr>&mdash;<lb/>
 </dateline>
 
 </opener>
 
-<p>My last was of <abbr expan="November">Novr.</abbr> the 8th, Our Assembly satt <lb/>till Christmas We Just gott home to Eate our Plumb Pottage <lb/>Eighteen Laws were <sic corr="passed">past</sic> Some of them no doubt will meet <lb/>wth. a little animadversion on Yor. Side the water. The Assembly <lb/>has bin liberall of their money upon several accounts among <lb/>others they voted <note target="n1">Collo. Byrd</note> who they appointed their Agent <lb/>for their present <sic corr="affairs">affarrs</sic> <add resp="editor"> [<hi rend="italics">sic</hi>]</add><add place="supralinear">400 pound</add> this mett wth. a Slurr the <abbr expan="governor">Goverr.</abbr>
- <lb/>would not pass It but upon Such Conditions Byrd would <lb/>not come into, the particulars he will best tell when he getts <lb/>among You, The <abbr expan="governor">Govr.</abbr> hath made no Secretary as Yett <lb/>he Executes the place himself all our Clerks Comissions 
+<p>My last was of <abbr expan="November ">Novr.</abbr> the 8th, Our
+Assembly <sic corr="sat ">satt</sic> <lb/><sic corr="until
+">till</sic> Christmas We Just <sic corr="got ">gott</sic> home to
+<sic corr="eat ">Eate</sic> our <note target="n1"><sic corr="plum
+">Plumb</sic>
+Pottage</note> <lb/>Eighteen Laws were <sic corr="passed
+">past</sic> Some of
+them no doubt will meet <lb/>wth. a little animadversion on Yor. Side
+the water. The Assembly <lb/>has bin <sic corr="liberal
+">liberall</sic> of their money upon
+several accounts among <lb/>others they voted <note
+target="n2"><abbr expan="Colonel ">Collo.</abbr> Byrd</note> who
+they appointed their Agent
+<lb/>for their present <sic corr="affairs ">affarrs</sic> <add
+resp="editor"> [<hi rend="italics">sic</hi>]</add><add
+place="supralinear">400 pound</add> this <sic corr="met ">mett</sic>
+wth. a <sic corr="slur ">Slurr</sic> the <abbr
+expan="governor ">Goverr.</abbr>
+ <lb/>would not pass It but upon Such Conditions Byrd would <lb/>not
+come into, the particulars he will best tell when he <sic corr="gets
+">getts</sic> <lb/>among
+You, The <abbr expan="governor ">Govr.</abbr> <sic corr="has ">hath
+</sic> made no Secretary
+as <sic corr="yet ">Yett</sic> <lb/>he Executes the place himself
+all our Clerks Comissions 
 
 <pb n="2"/><lb/><lb/>
-run in his Name so much for polliticks;mdash;</p>
+run in his Name so much for <sic
+corr="politics">polliticks</sic>;mdash;</p>
 
-<p>	We have few Ships among us hitherto Some Bristol <lb/>Men &amp; Some from Leverpool It seems the Londoners were <lb/>not to sail till after Christmas. We may look out for them <lb/>I reckon in March. I believe there will be no want of <lb/>Tobo. when they come wish they may be modest in their de=<lb/>=mands for freight, the Bristol Markett is the worst in England <lb/>&amp; yett I had 10d. there for <abbr expan="stemmed">Stemd</abbr> &amp; 10½ at Leverpool,</p>
+<p>We have few Ships among us hitherto Some <name
+type="city">Bristol</name> <lb/>Men &amp;
+Some from <name type="city"><sic corr="Liverpool
+">Leverpool</sic></name> It seems the <name
+type="city">Londoners</name> were <lb/>not to sail till
+after Christmas. We may look out for them <lb/>I reckon in March. I
+believe there will be no want of <lb/>Tobo. when they come wish they
+may be modest in their de=<lb/>=mands for freight, the Bristol
+<sic corr="market ">Markett</sic> is the worst in England <lb/>&amp;
+<sic corr="yet ">yett</sic> I had 10
+<abbr expan=" pence">d</abbr> there for
+<abbr expan="stemmed ">Stemd</abbr> &amp; 10 1/2 at <sic
+corr="Liverpool, ">Leverpool,</sic></p>
 
-	<p><note target="n2">James Walker</note> is lately dead &amp; so is <note target="n3">Mrs. Roscow,</note>  <note target="n4">Collo. Diggs</note> <lb/>hath had a severe spell but I hear is recovering. all Yor. other <lb/>friends for what I know are well &amp; may this find You So.</p>
+<p><note target="n3">James Walker</note> is lately dead &amp; so is
+<note target="n4">Mrs. Roscow,</note>  <note target="n5"><abbr
+expan="Colonel ">Collo.</abbr>
+&amp;Digges 
+</note> <lb/><sic corr="has ">hath </sic> had a severe spell but I
+hear is recovering.
+all Yor. other <lb/>friends for what I know are well &amp; may this
+find You So.</p>
 
-<p><note target="n5">the Concluding Clause</note> of this Lettr. from the other side.</p>
+<p><note target="n6">the Concluding Clause</note> of this Lettr.
+from the other side.</p>
 
-	<p>I am not <sic corr="unthoughtful">unthot.full</sic> how many ways I have had of late <lb/>to make use of my Cash in Yor. hands, but You may Expect I <lb/>Shall Trespass no further for a good while, I'm affraid <lb/>the <note target="n6">Mercury's</note> affair will produce me Some Considerable <lb/>protests wch. tis to be doubted will be too common a Complaint <lb/>when the Ships arrive 
+	<p>I am not <sic corr="unthoughtful ">unthot.full</sic> how many
+ways I have had of late <lb/>to make use of my Cash in Yor. hands,
+but You may Expect I <lb/>Shall Trespass no further for a good while,
+I'm <sic corr="afraid ">affraid</sic> <lb/>the <note
+target="n7">Mercury's</note> affair will
+produce me Some Considerable <lb/>protests wch. <sic corr="it is
+">tis</sic> <corr resp="editor">[not]</corr>  to be doubted
+will be too common a Complaint <lb/>when the Ships arrive 
 </p>
 
 <closer>I am Gent Yor. most humble Servt.</closer>
@@ -142,23 +223,79 @@ run in his Name so much for polliticks;mdash;</p>
 <div1 type="back matter">
 <head>NOTES</head>
 
-<note><hi rend="italics">Source copy consulted:</hi>  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. Printed: <cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> pp. 62-63.</bibl></cit></note><lb/>
+<note><hi rend="italics">Source copy consulted:</hi>  Robert Carter
+Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art
+Collections, and Botanical Gardens, San Marino, California. Printed:
+<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . .
+.</title> pp. 62-63.</bibl></cit></note><lb/>
 
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note><lb/>
+<note>Robert Carter generally used a return address of
+"Rappahannock" for the river on which he lived rather than
+"Corotoman," the name of his home, on his correspondence, especially
+to merchants abroad. The county and colony
+ have been added for
+clarity.</note><lb/><lb/>
 
-<note id="n1">[1] Louis Wright wrote, "A feud of long standing existed between William Byrd and Lieutenant Governor Alexander Spotswood. Byrd, as agent for the colony, opposed Spotswood's efforts to limit the power of the Countil. For details of their quarrel, see Leonidas Dodson, <title>Alexander Spotswood, Governor of Colonial Virginia, 1710-22</title> (Philadelphia, 1932), 144 ff." (<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> p. 62.)</bibl></cit></note>
+<note id="n1">[1] The <title>Oxford English Dictionary</title> cites
+an 1864 reference 
+which seems the most likely meaning of Carter's words:  "1864 <hi
+rend="italics">Chambers' Bk. Days II</hi>. 755/2 
+In old times plum-pottage was always served with the first course of
+a Christmas dinner. 
+It was made by boiling beef or mutton with broth, thickened with
+brown bread; when half-boiled, 
+raisins, currants, prunes, cloves, mace and ginger were added."</note>
 
-<note id="n2">[2] James Walker (d. 1721) was a merchant in Middlesex County who, with his brother Richard, was one of the developers of Urbanna; he served as sheriff of Middlesex (<cit><bibl n="B16">Torrance. <title>Virginia Wills and Administrations,1632-1800.</title> p. 438.</bibl></cit>; <cit><bibl>"Answers to Queries," 1<title>Virginia Magazine of History and Biography</title>, 1[1893-84]:470-1;</bibl></cit> <cit><bibl n="B39">Rutman and Rutman, <title>A Place in Time: Middlesex. . . . </title> pp. 228-31.)</bibl></cit></note>
+<note id="n2">[2] Louis Wright wrote, "A feud of long standing
+existed between William Byrd and Lieutenant Governor Alexander
+Spotswood. Byrd, as agent for the colony, opposed Spotswood's efforts
+to limit the power of the Council. For details of their quarrel, see
+Leonidas Dodson, <title>Alexander Spotswood, Governor of Colonial
+Virginia, 1710-22</title> (Philadelphia, 1932), 144 ff." (<cit><bibl
+n="B12">Wright. <title>Letters of Robert Carter. . . .</title> p.
+62.)</bibl></cit></note>
 
-<note id="n3">[3] "Probably the wife of James Roscow, appointed receiver-general of quitrents in 1716." (<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> p. 63.)</bibl></cit></note>
+<note id="n3">[3] James Walker (d. 1721) was a merchant in Middlesex
+County who, with his brother Richard, was one of the developers of
+Urbanna; he served as sheriff of Middlesex (<cit><bibl
+n="B16">Torrance. <title>Virginia Wills and Administrations,1632-
+1800.</title> p. 438.</bibl></cit>; <cit><bibl>"Answers to Queries,"
+1<title>Virginia Magazine of History and Biography</title>, 1[1893-
+84]:470-1;</bibl></cit> <cit><bibl n="B39">Rutman and Rutman,
+<title>A Place in Time: Middlesex. . . . </title> pp. 228-
+31.)</bibl></cit></note>
 
-<note id="n4">[4] Cole Digges (1692-1744), of "Belfield," York County, came from a distinguished family. His father had been a member of the Council, and his grandfather the governor of Virginia. He was returned as a burgess from Warwick County in 1718, was appointed to the Council the next year, and held the usual offices of justice and militia commander (for Elizabeth City, Warwick, and York counties). (<cit><bibl n="B41">Morton. <hi rend="italics">ed. </hi>  <title>The Present State of Virginia. . . by Hugh Jones.</title> p. 239.)</bibl></cit></note>
+<note id="n4">[4] "Probably the wife of James Roscow, appointed
+receiver-general of quitrents in 1716." (<cit><bibl n="B12">Wright.
+<title>Letters of Robert Carter. . . .</title> p.
+63.)</bibl></cit></note>
 
-<note id="n5">[5] The draft of this letter ends just before the clause that begins "the Concludeing Clause. . . ." The following paragraph was originally dictated at the end of the preceding letter to the Perrys in the letter book, but Carter marked it to be copied as the concluding paragraph to this letter, and it has been placed here.</note>
+<note id="n5">[5] Cole Digges (1692-1744), of "Belfield," York
+County, came from a distinguished family. His father had been a
+member of the Council, and his grandfather the governor of Virginia.
+He was returned as a burgess from Warwick County in 1718, was
+appointed to the Council the next year, and held the usual offices of
+justice and militia commander (for Elizabeth City, Warwick, and York
+counties). (<cit><bibl n="B41">Morton. <hi rend="italics">ed. </hi> 
+<title>The Present State of Virginia. . . by Hugh Jones.</title> p.
+239.)</bibl></cit></note>
 
-<note id="n6">[6] Carter and Robert Tucker were the agents for the sale of slaves carried to Virginia by the <hi rend="italics">Mercury</hi> which was owned by Francis Chamberlayne and Francis Sitwell. See Carter's letters to Chamberlayne and Sitwell concerning this sale of slaves on July 26, 27, and September 27, 1720, and on July 2, 1723.</note>
+<note id="n6">[6] The draft of this letter ends just before the
+clause that begins "the Concludeing Clause. . . ." The following
+paragraph was originally dictated at the end of the preceding letter
+to the Perrys in the letter book, but Carter marked it to be copied
+as the concluding paragraph to this letter, and it has been placed
+here.</note>
 
+<note id="n7">[7] Carter and Robert Tucker were the agents for the
+sale of slaves carried to Virginia by the <hi
+rend="italics">Mercury</hi> which was owned by Francis Chamberlayne
+and Francis Sitwell. See Carter's letters to Chamberlayne and Sitwell
+concerning this sale of slaves on July 26, 27, and September 27,
+1720, and on July 2, 1723.</note>
 
+<lb/><lb/><note><hi rend="italics">This text revised February 24,
+2009.</hi></note>
 
 
 </div1>
