@@ -492,7 +492,7 @@ $a =~ s/<xref to="Ext2">/<a href="http:\/\/www.angelfire.com\/journal\/millresto
 $a =~ s/<xref to="Ext3">/<a href="http:\/\/www.bodley.ox.ac.uk\/cgi-bin\/ilej\/image1.pl?item=page&seq=1&size=1&id=gm.1732.11.x.2.x.x.1082">/g;
 
 #generalized xrefs
-$a =~ s/<xref to="(C[^\"]*)">/<a href="http:\/\/etext.lib.virginia.edu\/etcbin\/browse-carter?id=$1.xml&images=images\/modeng&data=\/web\/data\/users\/berkeley\&tag=public"target="_wblank">/g;
+$a =~ s/<xref to="(C[^\"]*)">/<a href="http:\/\/etext.lib.virginia.edu\/etcbin\/browse-cartermod?id=$1.xml&images=images\/modeng&data=\/web\/data\/users\/berkeley\&tag=public"target="_wblank">/g;
 $a =~ s/<xref to="(\/[^\"]*)">/<a href="$1"target="_wblank">/g;
 $a =~ s/<xref to="(http[^\"]*)">/<a href="$1"target="_wblank">/g;
 
