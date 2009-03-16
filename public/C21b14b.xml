@@ -18,14 +18,16 @@
              
 <fileDesc>
 <titleStmt>
-     <title type="245">Letter from Robert Carter to John Carter, February 14, 1721</title>
+     <title type="245">Letter from Robert Carter to John Carter,
+February 14, 1721</title>
    <title type="gmd">[electronic resource]</title>
      <author>Carter, Robert</author>
    <respStmt>
      <resp>Creation of machine-readable version: </resp>
      <name id="editor">Edmund Berkeley, Jr.</name>
      <resp>Conversion to TEI.2-conformant markup</resp>
-     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+     <name>Edmund Berkeley, Jr. and the University of Virginia
+Library Electronic Text Center</name>
    </respStmt>
 </titleStmt>
 
@@ -37,7 +39,8 @@
      <idno type="ETC">filename</idno>
      <availability>
      <p>Publicly accessible</p>
-     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+     <p n="public">URL:
+http://etext.lib.virginia.edu/users/berkeley/</p>
          </availability>
      <date>2001</date>
 </publicationStmt>
@@ -45,13 +48,16 @@
 <sourceDesc>
      <biblFull>
      <titleStmt>
-     <title>Letter from Robert Carter to John Carter, February 14, 1721</title>
+     <title>Letter from Robert Carter to John Carter, February 14,
+1721</title>
      <author>Robert Carter</author>
 </titleStmt>
     <extent>1 p.</extent>
 <publicationStmt>
      <date>1940</date>
-   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California.</idno>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter
+Book, 1720 July-1721 July, BR 227, Huntington Library, Art
+Collections, and Botanical Gardens, San Marino, California.</idno>
 </publicationStmt>
 </biblFull>
 </sourceDesc>
@@ -59,14 +65,17 @@
 </fileDesc>
      <encodingDesc>
      <projectDesc>
-     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     <p>Prepared for the University of Virginia Library Electronic
+Text Center.</p>
      </projectDesc>
 <editorialDecl>
-     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+     <p>Some keywords in the header are a local electronic Text
+Center scheme to aid in  establishing analytical groupings.</p>
 </editorialDecl>
 
 <classDecl>
-     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject
+Headings</title></bibl></taxonomy>
 </classDecl>
 </encodingDesc>
 
@@ -75,7 +84,8 @@
      <langUsage><language id="eng"></language></langUsage>
      <textClass>
      <keywords><term>non-fiction</term><term>prose</term></keywords>
-     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     <keywords scheme="LCSH"><term
+type="Field650">LCSH</term></keywords>
      </textClass>
 </profileDesc>
 
@@ -94,7 +104,12 @@
 <title>Robert Carter to John Carter, February 14, 1721</title>
 </bibl>
 </head>
-<p>Letter from Robert Carter to his son, John Carter, then in London studying, February 14, 1721, asking him to pay close attention to the proprietors' affairs of which he has written in other letters. He tells John that his sisters and their husbands are well, reports that Micajah Perry has sent gloomy news about the South Sea bubble, and its effects on trade. He closes by chiding John for not writing.</p>
+<p>Letter from Robert Carter to his son, John Carter, then in London
+studying, February 14, 1721, asking him to pay close attention to the
+proprietors' affairs of which he has written in other letters. He
+tells John that his sisters and their husbands are well, reports that
+Micajah Perry has sent gloomy news about the South Sea bubble, and
+its effects on trade. He closes by chiding John for not writing.</p>
 </div1>                 
 </front>
 
@@ -102,18 +117,43 @@
 
 <body>
 <div1 type="letter" n="1">
-<head>Letter from Robert Carter to John Carter, February 14, 1721</head>
+<head>Letter from Robert Carter to <note n="JC1">John Carter,</note>
+February 14,
+1721</head>
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1721-02-14">Febr. 14th. 1720/21</date><lb/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster
+County, Virginia]</add></name><lb/>
+<date value="1721-02-14"><abbr expan="February ">Febr. </abbr> 14th.
+1720/21</date><lb/>
 </dateline>
 <salute>Dear Son John&mdash;&mdash;</salute>
 
 </opener>
 
-<p>I have writ to You at Some Length by this post <lb/>Concerning the Proprietors affair which I Would have You per<lb/>=sue with the utmost Dexterity, This is cheifly to lett You <lb/>know That Yor. Sisters and their Husbands are both of thm. <lb/>now here in very good health, and have all their proper <lb/>Remembrances to You, <note n="MP">Mr. Perry</note> Tells me many a <lb/>Mellancholy Storey of the ruinous Effects of the <note target="n1">South Sea <lb/>Stock</note> and other Bubles, and what is worse the fatal <lb/>consequences to Trade &amp; particularly Tobo. which looks wth. <lb/>but a Dark Aspect all that I can say is we must haul <lb/>in our horns and live as we can afford, Mr. Perry mentions <lb/>the Swelling of Yor. Legg Some time ago but that you were <lb/>better, when You come to live an Active life in Yor. own <lb/>Country I hope that Malady will wear away, It had not <lb/>bin amiss If You had taken the opportunity of Some of <lb/>these Ships, to lett me hear from You, pray God preserve <lb/>You and keep You under his awe I am</p>
+<p>I have <sic corr="written ">writ</sic> to You at Some Length by
+this post <lb/>Concerning
+the Proprietors affair which I Would have You per<lb/>=sue with the
+utmost Dexterity, This is <sic corr="chiefly ">cheifly</sic> to lett
+You <lb/>know That Yor.
+Sisters and their Husbands are both of <abbr expan="them ">thm.
+</abbr> <lb/>now here in very
+good health, and have all their proper <lb/>Remembrances to You,
+<note n="MP">Mr. Perry</note> Tells me many a <lb/>Mellancholy <sic
+corr="story ">Storey</sic>
+of the ruinous Effects of the <note target="n1">South Sea
+<lb/>Stock</note> and other Bubles, and what is worse the fatal
+<lb/>consequences to Trade &amp; particularly Tobo. which looks wth.
+<lb/>but a Dark Aspect all that I can say is we must haul <lb/>in our
+horns and live as we can afford, Mr. Perry mentions <lb/>the Swelling
+of Yor. <sic corr="leg ">legg</sic> Some time ago but that you were
+<lb/>better, when You
+come to live an Active life in Yor. own <lb/>Country I hope that
+Malady will wear away, It had not <lb/>bin amiss If You had taken the
+opportunity of Some of <lb/>these Ships, to <sic corr="let
+">lett</sic> me hear from You,
+pray God preserve <lb/>You and keep You under his awe I am</p>
 
 
 </div1>
@@ -127,13 +167,31 @@
 <div1 type="back matter">
 <head>NOTES</head>
 
-<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi>  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. Printed: <cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> p. 79.</bibl></cit></note><lb/>
+<note><hi rend="italics"><hi rend="bold">Source copy
+consulted:</hi></hi>  Robert Carter Letter Book, 1720 July-1721 July,
+BR 227, Huntington Library, Art Collections, and Botanical Gardens,
+San Marino, California. Printed: <cit><bibl n="B12">Wright.
+<title>Letters of Robert Carter. . . .</title> p.
+79.</bibl></cit></note><lb/>
 
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note><lb/>
+<note>Robert Carter generally used a return address of
+"Rappahannock" for the river on which he lived rather than
+"Corotoman," the name of his home, on his correspondence, especially
+to merchants abroad. The county and colony have been added for
+clarity.</note><lb/><lb/>
 
-<note id="n1">[1] Carter refers to the scandal of the value of the stock of the South Sea and other companies which wild speculation had driven enormously high in June 1720, and which was nearly worthless several months later. Many fortunes were made and lost. Perhaps the most succesful speculator was Sir Robert Walpole who made a fortune, retired, and then was called to save the nation as prime minister, a post he held from 1721 until 1742. (<cit><bibl>Goldwin Smith. <title>A History of England.</title> Chicago, etc.: Scribner's, 1949.  pp. 422-424.</bibl></cit>)</note>
+<note id="n1">[1] Carter refers to the scandal of the value of the
+stock of the South Sea and other companies which wild speculation had
+driven enormously high in June 1720, and which was nearly worthless
+several months later. Many fortunes were made and lost. Perhaps the
+most succesful speculator was Sir Robert Walpole who made a fortune,
+retired, and then was called to save the nation as prime minister, a
+post he held from 1721 until 1742. (<cit><bibl>Goldwin Smith.
+<title>A History of England.</title> Chicago, etc.: Scribner's, 1949.
+pp. 422-424.</bibl></cit>)</note>
 
-
+<lb/><lb/><note><hi rend="italics">This text revised March 9,
+2009.</hi></note>
 
 
 </div1>
