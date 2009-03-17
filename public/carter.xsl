@@ -48,10 +48,6 @@ width: 30em;
     <blockquote><xsl:apply-templates/></blockquote>
   </xsl:template>
 
-<xsl:template match="figure">
-        <img src="{@entity}"></img>
-</xsl:template>
-
 <xsl:template match="figDesc">
         <P><I><xsl:apply-templates/></I></P>
 </xsl:template>
@@ -90,6 +86,11 @@ select="."/></FONT>
         <A href="x">"<xsl:apply-templates/></A>
 </xsl:template>
 
+<xsl:template match="xref">
+        <A href="x">"<xsl:apply-templates/></A>
+</xsl:template>
+
+
 <xsl:template match="title">
         <i><xsl:apply-templates/></i>
 </xsl:template>
@@ -123,9 +124,51 @@ select="."/></FONT>
 <font color="blue"><xsl:apply-templates/></font>
 </xsl:template>
 
+<xsl:template match="xref">
+<font color="blue"><xsl:apply-templates/></font>
+</xsl:template>
+
+
 <xsl:template match="del">
 <font color="red"><xsl:apply-templates/></font>
 </xsl:template>
+
+
+
+
+
+
+
+<xsl:template match="note">
+<font color="teal"><xsl:apply-templates/></font>
+</xsl:template>
+
+
+
+<xsl:template match="sic">
+<font color="brown"><xsl:apply-templates/></font>
+</xsl:template>
+
+<xsl:template match="corr">
+<font color="FF8C00"><xsl:apply-templates/></font>
+</xsl:template>
+
+<xsl:template match="name">
+<font color="green"><xsl:apply-templates/></font>
+</xsl:template>
+
+
+<xsl:template match="abbr">
+<font color="2E8B57"><xsl:apply-templates/></font>
+</xsl:template>
+
+
+
+
+
+
+
+
 
 <xsl:template match="p/name">
 <font color="green"><xsl:apply-templates/></font>
