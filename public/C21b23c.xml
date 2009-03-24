@@ -25,7 +25,8 @@
      <resp>Creation of machine-readable version: </resp>
      <name id="editor">Edmund Berkeley, Jr.</name>
      <resp>Conversion to TEI.2-conformant markup</resp>
-     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+     <name>Edmund Berkeley, Jr. and the University of Virginia
+Library Electronic Text Center</name>
    </respStmt>
 </titleStmt>
 
@@ -37,7 +38,8 @@
      <idno type="ETC">filename</idno>
      <availability>
      <p>Publicly accessible</p>
-     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+     <p n="public">URL:
+http://etext.lib.virginia.edu/users/berkeley/</p>
          </availability>
      <date>2001</date>
 </publicationStmt>
@@ -75,7 +77,8 @@
      <langUsage><language id="eng"></language></langUsage>
      <textClass>
      <keywords><term>non-fiction</term><term>prose</term></keywords>
-     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     <keywords scheme="LCSH"><term
+type="Field650">LCSH</term></keywords>
      </textClass>
 </profileDesc>
 
@@ -113,10 +116,28 @@ Mr. Thos. Evans<lb/>
 
 </opener>
 
-<p>I have already answerd Yors. that <abbr expan="accompanied">Accompd.</abbr>
- <lb/>the Shoos You sent me, The occasion of this is about my Children <lb/>under <note n="WD">Mr. Dawkins's</note> Care. he and I have had severe Quarrells <lb/>about them, he's of Such a <sic corr="testy">Teste</sic> Waspish nature &amp; so over<lb/>=grown with the Conceit of his greatness that I cannot bear it <lb/>In so much that I have <sic corr="ordered">orderd</sic> my Son to remove them <lb/>from him and to place them under Yor. care, not in the least <lb/>Doubting You'l be so farr from counting It a trouble <lb/>that You'l look upon It as a mark of my respects, the Mas<add resp="editor">[te]</add>r. <lb/>they are with is a good man &amp; Im told has <abbr expan="improved">Improvd</abbr> them <lb/>considerably in their Learning I would by no means have <lb/>them taken from that School, he's a Discenter indeed <lb/>but I have <abbr expan="ordered">orderd</abbr> them to be brought up in the Church of England <lb/>way, And so I know they are, I have already Yor. opinion <lb/>about their being sent to the <note target="n1">Manchester School</note> but I am <lb/>quite off of that Design now and resolve to Struggle the <lb/>best I can with the charge <sic corr="they'll">they.l</sic> put me to in the keeping them <lb/>So <sic corr="near">neer</sic> London, You must be as good a husband for me as you <lb/>may with Decency. the rest I shall leave to Yor. prudence <lb/>&amp; am </p>
+<p>I have already answerd Yors. that <abbr expan="accompanied ">Accompd.</abbr>  <lb/>
+the <sic corr="shoes ">Shoos</sic> You sent me, The occasion of this is about my Children <lb/>
+under <note n="WD">Mr. Dawkins's</note> Care. he and I have had severe <sic corr="quarrels ">Quarrells</sic> <lb/>
+about them, he's of Such a <sic corr="testy ">Teste</sic> Waspish nature &amp; so over<lb/>=
+grown with the Conceit of his greatness that I cannot bear it <lb/>
+In so much that I have <sic corr="ordered ">orderd</sic> my Son to remove them <lb/>
+from him and to place them under Yor. care, not in the least <lb/>
+Doubting You'l be so <sic corr="far ">farr</sic> from counting It a trouble <lb/>
+that <abbr expan="you will ">You'l </abbr> look upon It as a mark of my respects, the <abbr expan="master ">Masr. </abbr> <lb/>
+they are with is a good man &amp; <abbr expan="i am ">Im </abbr> told has <abbr expan="improved ">Improvd</abbr> them <lb/>
+considerably in their Learning I would by no means have <lb/>
+them taken from that School, he's a <sic corr="dissenter ">Discenter</sic> indeed <lb/>
+but I have <abbr expan="ordered ">orderd</abbr> them to be brought up in the Church of England <lb/>way, 
+And so I know they are, I have already Yor. opinion <lb/>
+about their being sent to the <note target="n1">Manchester School</note> but I am <lb/>
+quite off of that Design now and resolve to Struggle the <lb/>
+best I can with the charge <sic corr="they will ">they.l</sic> put me to in the keeping them <lb/>
+So <sic corr="near ">neer</sic> London, You must be as good a husband for me as you <lb/>
+may with Decency. the rest I shall leave to Yor. prudence <lb/>&amp; am </p>
 
-<closer>Sir <lb/>Yor. very humble Servt.</closer>
+<closer>Sir <lb/>
+Yor. very humble Servt.</closer>
 
 
 </div1>
@@ -130,15 +151,16 @@ Mr. Thos. Evans<lb/>
 <div1 type="back matter">
 <head>NOTES</head>
 
-<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi>  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. Printed: <cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> pp. 83-84.</bibl></cit></note><lb/>
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi>  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. Printed: <cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> pp. 83- 84.</bibl></cit></note><lb/>
 
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note><lb/>
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than
+"Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note><lb/><lb/>
 
-<note>This letter was sent "open" in a letter to Carter's son John so that John could deliver it to Evans if the quarrel with William Dawkins could not be rectified (see <bibl n="C21b23a.xml">Carter to John,</bibl> February 23, 1721) and probably was never delivered.  See also a later <bibl n="C21c03b.xml">letter to John,</bibl> March 3, 1721, in which Carter writes that he has reconsidered the matter.</note>
+<note>This letter was sent "open" in a letter to Carter's son John so that John could deliver it to Evans if the quarrel with William Dawkins could not be rectified (see <xref to="C21b23a">Carter to John Carter,</xref> February 23, 1721) and probably was never delivered.  See also a <xref to="C21c03b">later letter</xref> to John, March 3, 1721, in which Carter writes that he has reconsidered the matter.</note><lb/><lb/>
 
-<note id="n1">[1] Carter undoubtedly knew of the Manchester Grammar School, in 1721 already over 200 years old.</note>
+<note id="n1">[1] Carter undoubtedly knew of the Manchester Grammar School, in 1721 already over 200 years old.</note><lb/><lb/> 
 
-
+<lb/><lb/><note><hi rend="italics">This text revised March 24, 2009.</hi></note>
 
 
 </div1>
