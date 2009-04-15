@@ -82,14 +82,14 @@
 
 </teiHeader>
 
-<text id="T">
+<text id="C21e27bT">
 
 <front>
 <div1 type="summary" n="1">
 <head>
 <bibl>
 <abbr>AL</abbr>
-<extent> p.</extent>
+<extent>1 p.</extent>
 <date value="1721-05-27"></date>
 <idno rend="suppress">C21e27b.xml</idno>
 <title>Letter from Robert Carter to John Carter, May 27, 1721</title>
@@ -114,7 +114,7 @@
 
 </opener>
 
-<p>Tis not long since I writ to You, since I have <lb/>Yors. by Richardson, I hope <sic corr="you'll">youl</sic> apply Yor.self to persue the Several <lb/>businesses I have put You upon, and mind less the pleasures of <lb/>the Town, You want a longer Stay in England but that I must not <lb/>agree to, my purse wont bear It, Therefore prepare Yor.self <lb/>accordingly, You are so taken up with Yor. Diversions you cannot <lb/>find time to write to Yor. Sisters nor to any of Yor. relations, <lb/>Yor. Uncle <note n="HA">[Henry] Armistead</note> never had a Line from You, You must <lb/>expect they will Treat You with the same sauce, The other parts of <lb/>Yor. Lettr. are not very pleasing I Shall take a time to answer <lb/>them at my Leizure, This only a Short line to advise of my <lb/>welfare and to Send my blessing to my <note target="n1">Children</note> which shall be <lb/>all at present from&mdash;</p>
+<p><sic corr="It is ">Tis</sic> not long since I <sic corr="wrote ">writ</sic> to You, since I have <lb/>Yors. by Richardson, I hope <sic corr="you'll ">youl</sic> apply Yor.self to <sic corr="pursue ">persue</sic> the Several <lb/>businesses I have put You upon, and mind less the pleasures of <lb/>the Town, You want a longer Stay in England but that I must not <lb/>agree to, my purse wont bear It, Therefore prepare Yor.self <lb/>accordingly, You are so taken up with Yor. Diversions you cannot <lb/>find time to write to Yor. Sisters nor to any of Yor. relations, <lb/>Yor. Uncle <note n="HA"><corr resp="editor">[Henry]</corr>  Armistead</note> never had a Line from You, You must <lb/>expect they will Treat You with the same sauce, The other parts of <lb/>Yor. Lettr. are not very pleasing I Shall take a time to answer <lb/>them at my <sic corr="leisure ">Leizure,</sic> This only a Short line to advise of my <lb/>welfare and to Send my blessing to my <note target="n1">Children</note> which shall be <lb/>all at present from&mdash;</p>
 
 <closer><seg type="postscript"></seg></closer>
 
@@ -132,11 +132,11 @@
 
 <note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi>  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. Printed: <cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> p. 99.</bibl></cit></note><lb/>
 
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to persons abroad. The county and state have been added for clarity.</note><lb/>
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to persons abroad. The county and colony  have been added for clarity.</note><lb/><lb/>
 
 <note id="n1">[1] Carter refers to John's younger brothers who were also then in England at school.</note>
 
-
+<lb/><lb/><note><hi rend="italics">This text revised March 30, 2009.</hi></note>
 
 
 </div1>

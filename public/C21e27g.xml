@@ -106,7 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<name type="place">Rappahannock, <corr resp="editor">[Lancaster County, Virginia]</corr> </name><lb/>
 <date value="1721-05-27">May the 27th. 1721</date><lb/>
 Mr. Edward Tucker<lb/>
 </dateline>
@@ -114,7 +114,7 @@ Mr. Edward Tucker<lb/>
 
 </opener>
 
-<p>I have received Yors. by <note target="n1">Capt. Russel</note> &amp; Wilson, the latter <lb/>had 15 weekes passage by Stress of weather he was <abbr expan="forced">forc'd</abbr> to heave over <lb/>board three or four hundred foot of my Stones, I wish I could Say the <lb/>Sales of my Tobo. pleas'd me. <add place="supralinear">You tell me</add> You had Sold half mine by Russel last <lb/>Year none above 9d. a poor price for my <abbr expan="stemmed">Stemd</abbr>, <note n="WD">Mr. Dawkins</note> Sold all <lb/>my Tobo. at 11d. if I understand him right, all my <abbr expan="stemmed">Stemd</abbr> at <sic corr="Liverpool">Leverpool</sic> <lb/>went at 10 and 10½ Thus You see <abbr expan="what">wt.</abbr> little Encouragement. I have at <lb/>Yor. Markett, however I shall have 30 hogsheads in Russel who loads <lb/>apace, I have drawn on You lately for &pound;17" to one Henry Thomp=<lb/>=son, We have a prodigious Swarm of Ships in this Year, I cant think <lb/>there will be Tobo. found to Load them all, You will hear the Storey of the <lb/>Pyrates Threatning our Harbours, It's a pitty full case no more care <lb/>Should be taken of so vast a fleet of Ships as comes to our Bay. I <lb/>Conclude at present Sir&mdash; </p>
+<p>I have received <abbr expan="yours ">Yors. </abbr> by <note target="n1"><abbr expan="Captain ">Capt.</abbr> Russel</note> &amp; Wilson, the latter <lb/>had 15 <sic corr="weeks ">weekes</sic> passage by Stress of weather he was <abbr expan="forced ">forc'd</abbr> to heave over <lb/>board three or four hundred foot of my Stones, I wish I could Say the <lb/>Sales of my Tobo. <abbr expan="pleased ">pleas'd </abbr> me. <add place="supralinear">You tell me</add> You had Sold half mine by Russel last <lb/>Year none above 9<abbr expan=" pence ">d</abbr> a poor price for my <abbr expan="stemmed ">Stemd</abbr>, <note n="WD">Mr. Dawkins</note> Sold all <lb/>my Tobo. at 11<abbr expan=" pence ">d</abbr> if I understand him right, all my <abbr expan="stemmed ">Stemd</abbr> at <sic corr="Liverpool ">Leverpool</sic> <lb/>went at 10 and 10 1/2. Thus You see wt. little Encouragement. I have at <lb/>Yor. <sic corr="market, ">Markett,</sic> however I shall have 30 hogsheads in Russel who loads <lb/>apace, I have drawn on You lately for &pound;17" to one Henry Thomp=<lb/>=son, We have a prodigious Swarm of Ships in this Year, I cant think <lb/>there will be Tobo. found to Load them all, You will hear the <sic corr="story ">Storey</sic> of the <lb/><sic corr="pirates ">Pyrates</sic> Threatning our Harbours, It's a <sic corr="pitiful ">pitty full</sic> case no more care <lb/>Should be taken of so vast a fleet of Ships as comes to our Bay. I <lb/>Conclude at present Sir&mdash; </p>
 
 <closer>Yor. humble Servt.</closer>
 
@@ -132,9 +132,11 @@ Mr. Edward Tucker<lb/>
 
 <note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi>  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. Printed: <cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> p. 97.</bibl></cit></note><lb/>
 
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note><lb/>
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note><lb/><lb/>
 
-<note id="n1">[1] Captain Samuel Russell of the <hi rend="italics">Princess Amelia</hi> entered at Weymouth in October 1720. (Survey Report 9711, Virginia Colonial Records Project, Albert H. Small Special Collections Library, University of Virginia.)</note>
+<note id="n1">[1] Captain Samuel Russell of the <hi rend="italics">Princess Amelia</hi> entered at Weymouth in October 1720. (<cit><bibl>Survey Report 9711, Virginia Colonial Records Project, Albert H. Small Special Collections Library, University of Virginia.</bibl></cit>)</note><lb/><lb/>
+
+<lb/><lb/><note><hi rend="italics">This text revised April15, 2009.</hi></note>
  
 
 </div1>

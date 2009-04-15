@@ -82,14 +82,14 @@
 
 </teiHeader>
 
-<text id="T">
+<text id="C21e27cT">
 
 <front>
 <div1 type="summary" n="1">
 <head>
 <bibl>
 <abbr>AL</abbr>
-<extent> p.</extent>
+<extent>1 p.</extent>
 <date value="1721-05-27"></date>
 <idno rend="suppress">C21e27c.xml</idno>
 <title>Letter from Robert Carter to William Dawkins, May 27, 1721</title>
@@ -115,9 +115,9 @@ Mr. Wm. Dawkins<lb/>
 
 </opener>
 
-<p>My Last went from <abbr expan="Williamsburg">Wms.burg</abbr> this comes via <name type="place"><sic corr="Liverpool">Leverpool</sic></name> <lb/>and <sic corr="lets">letts</sic> You know That the York river Freight Tother Day was Struck to <lb/>&pound;8. The James River to Seven, The <note n="CS">Carter</note> must come to the York Termes <lb/>If She be loaded. she is <add place="supralinear">as</add> forward at this day considering the time She <lb/>came in I believe as any of them, but Kent must own 'tis oweing in <lb/>a great Measure to my Assistance, I hope by the last of this month or <lb/>Some few days in June, She will have above 300 hogsheads on board. <lb/>We have a Swarm of ships in all our Rivers, It's Impossible I think they <lb/>Should all find Tobo. I have loaded 30 hogsheads on board Chandler and have <lb/>bin passive as to my <sic corr="freight">freit</sic>, wish I do not Suffer for my lasieness <lb/>we Shall Struggle hard to fill the Carter I wish Baily Kent had <lb/>a little more Mercury in the head of him and could undergo fatiegue <lb/>with a greater briskness,</p>
+<p>My Last went from <abbr expan="Williamsburg ">Wms.burg</abbr> this comes via <name type="place"><sic corr="Liverpool ">Leverpool</sic></name> <lb/>and <sic corr="lets ">letts</sic> You know That the York river Freight <sic corr="the other ">Tother</sic> Day was Struck to <lb/>&pound;8. The James River to Seven, The <note n="CS">Carter</note> must come to the York <sic corr="terms ">Termes</sic> <lb/>If She <sic corr="is to be ">be</sic> loaded. she is <add place="supralinear">as</add> forward at this day considering the time She <lb/>came in I believe as any of them, but Kent must own <abbr expan="it is ">'tis </abbr> <sic corr="owing ">oweing</sic> in <lb/>a great Measure to my Assistance, I hope by the last of this month or <lb/>Some few days in June, She will have above 300 hogsheads on board. <lb/>We have a Swarm of ships in all our Rivers, <abbr expan="It is ">It's </abbr> Impossible I think they <lb/>Should all find Tobo. I have loaded 30 hogsheads on board Chandler and have <lb/>bin passive as to my <sic corr="freight ">freit</sic>, wish I do not Suffer for my <sic corr="laziness ">lasieness</sic> <lb/>we Shall Struggle hard to fill the Carter I wish <sic corr="Bailey ">Baily</sic> Kent had <lb/>a little more Mercury in the head of him and could undergo <sic corr="fatigue ">fatiegue</sic> <lb/>with a greater briskness,</p>
 
-	<p>Wharton by Standing for &pound;10 per Tun I'm affraid will fool himself. <lb/>The Storey of the pyrates Threatning of our Harbours You will have <lb/>at Large, It's a miserable case the Crown takes no more care of so <lb/>vast a fleet of ships as uses this Bay, for the rest <abbr expan="refer">refr</abbr> You to my other <lb/>Lettrs.
+	<p>Wharton by Standing for &pound;10 per Tun I'm <sic corr="afraid ">affraid</sic> will fool himself. <lb/>The <sic corr="story ">Storey</sic> of the <sic corr="pirates ">pyrates</sic> <sic corr="threatening ">Threatning</sic> of our Harbours You will have <lb/>at Large, It's a miserable case the Crown takes no more care of so <lb/>vast a fleet of ships as uses this Bay, for the rest <abbr expan="refer ">refr</abbr> You to my other <lb/>Lettrs.
 </p>
 	<p>Two <sic corr="Liverpool">Leverpool</sic> ships in our river take a <sic corr="freight">freit</sic> for London <lb/>I Shall Conclude at Present.&mdash; </p>
 
@@ -137,10 +137,10 @@ Mr. Wm. Dawkins<lb/>
 
 <note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi>  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. Printed: <cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> pp. 95-96.</bibl></cit></note><lb/>
 
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note><lb/>
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note><lb/>
 
 
-
+<lb/><lb/><note><hi rend="italics">This text revised March 30, 2009.</hi></note>
 
 </div1>
 </back>

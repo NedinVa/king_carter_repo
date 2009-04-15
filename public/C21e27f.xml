@@ -88,7 +88,7 @@
 
 </teiHeader>
 
-<text id="T">
+<text id="C21e27fT">
 
 <front>
 <div1 type="summary" n="1">
@@ -97,11 +97,11 @@
 <abbr>AL</abbr>
 <extent>2 p.</extent>
 <date value="1721-05-27"></date>
-<idno rend="suppress">C21e27f</idno>
+<idno rend="suppress">C21e27f.xml</idno>
 <title>Letter from Robert Carter to Micajah Perry, Senior, and Junior, May 27, 1721</title>
 </bibl>
 </head>
-<p>Robert Carter writes to London merchant, Micajah Perry, Senior, and his grandson of the same name, May 27, 1721, complaining about the low sales of several hogsheads of tobacco, and stating that he expects his crops will be sold at as good prices as other gentlemen in the colony are receiving for large lots of tobacco. He hopes that a verbal message he recceived the day before about action in Parliament to remedy the effects of the South Sea Company scandals will prove to be true. Freight rates for ships in the York River have fallen to &pound;8 which he attributes to the merchants' custom of forcing planters to pay the freight. Captain Wharton maintains he won't accept below &pound;10 and Carter has sent aboard 90 hogsheads, transporting them to the ship in his own sloops; the ship has gone up the Rappahannock to Hobb's Hole. Slave sales are brisk at Tindall's Point, and Carter is relieved that he has not as yet had any bills protested for his work as agent for the sale of slaves imported on the <hi rend="italics">Mercury</hi>. There are about 40 ships presently in the Rappahannock and as many in other rivers. He tells the Perrys that they will learn about the threats to these ships from pirates from those reaching England. He looks forward to an account current they have promised.</p>
+<p>Robert Carter writes to London merchants Micajah Perry, Senior, and his grandson of the same name, May 27, 1721, complaining about the low sales of several hogsheads of tobacco, and stating that he expects his crops will be sold at as good prices as other gentlemen in the colony are receiving for large lots of tobacco. He hopes that a verbal message he recceived the day before about action in Parliament to remedy the effects of the South Sea Company scandals will prove to be true. Freight rates for ships in the York River have fallen to &pound;8 which he attributes to the merchants' custom of forcing planters to pay the freight. Captain Wharton maintains he won't accept below &pound;10 and Carter has sent aboard 90 hogsheads, transporting them to the ship in his own sloops; the ship has gone up the Rappahannock to Hobb's Hole. Slave sales are brisk at Tindall's Point, and Carter is relieved that he has not as yet had any bills protested for his work as agent for the sale of slaves imported on the <hi rend="italics">Mercury</hi>. There are about 40 ships presently in the Rappahannock and as many in other rivers. He tells the Perrys that they will learn about the threats to these ships from pirates from those reaching England. He looks forward to an account current they have promised.</p>
 </div1>                 
 </front>
 
@@ -113,7 +113,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<name type="place">Rappahannock, <corr resp="editor">[Lancaster County, Virginia]</corr> </name><lb/>
 <date value="1721-05-27">May the 27th. 1721</date><lb/>
 Messrs. Micajh. Perry<lb/>Senr. and Junr.<lb/>
 </dateline>
@@ -121,22 +121,22 @@ Messrs. Micajh. Perry<lb/>Senr. and Junr.<lb/>
 
 </opener>
 
-<p>The last Lettr. I have from You bears date the 16th of <abbr expan="February">febr.</abbr> <lb/>It mentions only the Sale of four or five hogsheads more of my Tobo., in discourse with <lb/><note n="WB1"><abbr expan="Colonel">Collo.</abbr> Byrd</note>. <note n="HA">Mr. Armistead</note> and a great many others I understand You had <lb/>Sold Their <abbr expan="tobaccos">Tobos.</abbr> in round parcells and at good rates, I cannot allow my self to come <lb/>behind any of these Gent in the Planters Trade, by all the Lettrs. I have received <lb/>from You <add resp="editor">[I] </add>do not remember You mention of above seven or Eight hogsheads of <add place="supralinear">all</add> my <lb/>last years Tobo. sold, I will hope my reputation is not quite Sinking at Your <lb/>house, thank God I can boast of as high prices from other men and as much <lb/>Sold as any of them,</p>
+<p>The last Lettr. I have from You bears date the 16th of <abbr expan="February ">febr.</abbr> <lb/>It mentions only the Sale of four or five hogsheads more of my Tobo., in discourse with <lb/><note n="WB1"><abbr expan="Colonel ">Collo.</abbr> Byrd</note>. <note n="HA">Mr. Armistead</note> and a great many others I understand You had <lb/>Sold Their <abbr expan="tobaccos ">Tobos.</abbr> in round <sic corr="parcels ">parcells</sic> and at good rates, I cannot allow my self to come <lb/>behind any of these Gent in the Planters Trade, by all the Lettrs. I have received <lb/>from You <add resp="editor">[I] </add>do not remember You mention of above seven or Eight hogsheads of <add place="supralinear">all</add> my <lb/>last years Tobo. sold, I will hope my reputation is not quite Sinking at Your <lb/>house, thank God I can boast of as high prices from other men and as much <lb/>Sold as any of them,</p>
 
-<p>	Last night a verbal message was sent me from York as a <abbr expan="piece">ps.</abbr>
- of good <lb/>News. That the Parliament had put all the annuitants upon the Same foot <lb/>they were before the Act of Parliament that <abbr expan="passed">passd</abbr> in favour of the <note target="n2">South sea <lb/>Company,</note> That is as I understand It our claim is again upon the bank of England <lb/>I believe this comes from <note target="n1">Frank Willis,</note> Shall be glad to find he's not mistaken&mdash;<lb/>The York Masters two Days ago were <sic corr="forced">forst</sic> to Strike their freight to &pound;8, Capt. Turner <lb/>was at my house yesterday and told me the Storey with a great deal of regret <lb/>It Seems Your bringing up the custome of making us pay <sic corr="freight">freit</sic> for our goods <lb/>hath occasion'd this Stifness in the <abbr expan="gentlemen">Gent.</abbr> of the Country.</p>
+<p>	Last night a verbal message was sent me from York as a <abbr expan="piece ">ps.</abbr>
+ of good <lb/>News. That the Parliament had put all the annuitants upon the Same foot <lb/>they were before the Act of Parliament that <abbr expan="passed ">passd</abbr> in favour of the <note target="n2">South sea <lb/>Company,</note> That is as I understand It our claim is again upon the bank of England <lb/>I believe this comes from <note target="n1">Frank Willis,</note> Shall be glad to find he's not mistaken&mdash;<lb/>The York Masters two Days ago were <sic corr="forced ">forst</sic> to Strike their freight to &pound;8, <abbr expan="Captain ">Capt.</abbr> Turner <lb/>was at my house yesterday and told me the <sic corr="story ">Storey</sic> with a great deal of regret <lb/>It Seems Your bringing up the <sic corr="custom ">custome</sic> of making us pay <sic corr="freight ">freit</sic> for our goods <lb/>hath <sic corr="occassioned ">occasion'd</sic> this <sic corr="stiffness ">Stifness</sic> in the Gent. of the Country.</p>
 
-	<p>Wharton hath blusterd mightily he will not go under &pound;10 per Tun&mdash; <lb/>I have 90 hogsheads on board him which to give him life I carry to his Side in my <lb/>own Sloops, but there <sic corr="I will">Ile</sic> Stop till I see whether his Stomack will come <lb/>down, I believe if he hath <sic corr="got">gott</sic> fifty or Sixty hogsheads more in at this Day Tis <lb/>the most, for the rest, I reckon he may lye and cool his fingers, he is gon <lb/>up to <note target="n3">hobb's hole</note> with his Ship.&mdash; I have not one line yett concerning <lb/>the <note target="n4">Mercury's affairs</note> nor do I see one protest, I cannot Expect to Escape <lb/>So clear when they are to come I dont know, hope It will be timely enough <lb/>to gett them renewed by this fleet, much good may It do The <sic corr="Guinea">Ginnea</sic> <lb/>company's Agents with their business I would not Transact another <lb/>concern of that nature at this Day in the manner I did before for <lb/>&pound;15 perCt. The Choice of Negroes at <note target="n5">Tindell's Point</note> as fine Slaves <lb/>they tell me as ever was Seen have bin Sold at 16.17 &amp; 18 pound per head <lb/>the worser Sort a great deal Lower, We have forty odd Sail of Ships 
+	<p><note target="n3">Wharton</note> <sic corr="has ">hath </sic> <sic corr="blustered ">blusterd</sic> mightily he will not go under &pound;10 per Tun&mdash; <lb/>I have 90 hogsheads on board him which to give him life I carry to his Side in my <lb/>own Sloops, but there <sic corr="I will ">Ile</sic> Stop <sic corr="until ">till</sic> I see whether his <sic corr="stomach ">Stomack</sic> will come <lb/>down, I believe if he <sic corr="has ">hath </sic> <sic corr="got ">gott</sic> fifty or Sixty hogsheads more in at this Day <sic corr="it is ">Tis</sic> <lb/>the most, for the rest, I reckon he may <sic corr="lie ">lye</sic> and cool his fingers, he is <sic corr="gone ">gon</sic> <lb/>up to <note target="n4">hobb's hole</note> with his Ship.&mdash; I have not one line <sic corr="yet ">yett</sic> concerning <lb/>the <note target="n5">Mercury's affairs</note> nor do I see one protest, I cannot Expect to Escape <lb/>So clear when they are to come I dont know, hope It will be timely enough <lb/>to <sic corr="get ">gett</sic> them renewed by this fleet, much good may It do The <note target="n6"><sic corr="Guinea ">Ginnea</sic> <lb/>company's</note> Agents with their business I would not Transact another <lb/>concern of that nature at this Day in the manner I did before for <lb/>&pound;15 <abbr expan="per cent ">perCt. </abbr> The Choice of Negroes at <note target="n7"><sic corr="Tindall's ">Tindell's</sic> Point</note> as fine Slaves <lb/>they tell me as ever was Seen have bin Sold at 16.17 &amp; 18 pound per head <lb/>the worser Sort a great deal Lower, We have forty odd Sail of Ships 
 
 <pb n="2"/><lb/><lb/>
-in <note target="n6">our river,</note> and there is <abbr expan="about">abt.</abbr> the same Number in York The other Rivers <lb/>are also full Its hard that Such a fleet Should be under no better guard <lb/>The Storey of The Pyrates threatning of us. You will have at large, for <lb/>other things I shall refer you to my former Lettrs.</p>
+in <note target="n8">our river,</note> and there is <abbr expan="about ">abt.</abbr> the same Number in York The other Rivers <lb/>are also full Its hard that Such a fleet Should be under no better guard <lb/>The <sic corr="story ">Storey</sic> of <sic corr="the pirates ">The Pyrates</sic> <sic corr="threatening ">threatning</sic> of us. You will have at large, for <lb/>other things I shall refer you to my former Lettrs.</p>
 
-	<p>Yor. last promisies me an accot. in a Short time I Suppose you <lb/>Mean an Acct. Currt. It will be very welcome if It proves to be a <lb/>pleasing one when It comes.</p>
+	<p>Yor. last promisies me an accot. in a Short time I Suppose you <lb/>Mean an <abbr expan="account">Acct. </abbr> Currt. It will be very welcome if It proves to be a <lb/>pleasing one when It comes.</p>
 
-	<p>This salutes you by the way of <sic corr="Liverpool">Leverpool</sic> I am Gent 
+	<p>This salutes you by the way of <sic corr="Liverpool ">Leverpool</sic> I am Gent 
 </p>
 
-<closer>Yor. most humble Servt.<lb/><lb/><seg type="postscript">Two <sic corr="Liverpool">Leverpool</sic> Ships in our river take a <sic corr="freight">freit</sic> for London</seg></closer>
+<closer>Yor. most humble Servt.<lb/><lb/><seg type="postscript">Two <sic corr="Liverpool ">Leverpool</sic> Ships in our river take a <sic corr="freight ">freit</sic> for London</seg></closer>
 
 
 
@@ -153,21 +153,26 @@ in <note target="n6">our river,</note> and there is <abbr expan="about">abt.</ab
 
 <note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi>  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. Printed: <cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> pp. .</bibl></cit></note><lb/>
 
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note><lb/>
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony  have been added for clarity.</note><lb/><lb/>
 
-<note id="n1">[1] Francis Willis (d. <hi rend="italics">post</hi> 1749) of Ware Parish, Gloucester County, who served as burgess. (<cit><bibl>"Willis Family." <title>William and Mary Quarterly.</title> 1st ser. 5(1896): 24-27, 171-176; 6(1897): 27-29, 206-214.)</bibl></cit></note>
+<note id="n1">[1] Francis Willis (d. <hi rend="italics">post</hi> 1749) of Ware Parish, Gloucester County, who served as burgess. (<cit><bibl>"Willis Family." <title>William and Mary Quarterly.</title> 1st ser. 5(1896): 24-27, 171-176; 6(1897): 27-29, 206-214.)</bibl></cit></note><lb/><lb/>
 
-<note id="n2">[2] Carter refers to the scandal of the value of the stock of the South Sea and other companies which wild speculation had driven enormously high in June 1720, and which was nearly worthless several months later. Many fortunes were made and lost. Perhaps the most succesful speculator was Sir Robert Walpole who made a fortune, retired, and then was called to save the nation as prime minister, a post he held from 1721 until 1742. (<cit><bibl>Goldwin Smith. <title>A History of England.</title> Chicago, etc.: Scribner's, 1949.  pp. 422-424.</bibl></cit>)</note>
+<note id="n2">[2] Carter refers to the scandal of the value of the stock of the South Sea and other companies which wild speculation had driven enormously high in June 1720, and which was nearly worthless several months later. Many fortunes were made and lost. Perhaps the most succesful speculator was Sir Robert Walpole who made a fortune, retired, and then was called to save the nation as prime minister, a post he held from 1721 until 1742. (<cit><bibl>Goldwin Smith. <title>A History of England.</title> Chicago, etc.: Scribner's, 1949.  pp. 422-424.</bibl></cit>)</note><lb/><lb/>
 
-<note id="n3">[3] Hobb's Hole in Essex County is today called Tappahannock.</note>
+<note id="n3">[3] Wharton was Captain John Wharton of the 80 ton <hi rend="italics">Loyal Margaret. (<cit><bibl>Survey Report 6800 abstracting Adm. 68/194 found in the microfilms of the Virginia Colonial Records Project, Shirley and Albert Small Special Collections Library, University of Virginia.</bibl></cit>)</hi></note><lb/><lb/>
 
-<note id="n4">[4] The year before Carter had acted as one of two agents for the sale of a cargo of slaves sent into the colony on the <hi rend="italics">Mercury</hi> by the slave traders Francis Chamberlayne and Francis Sitwell. See his letters to them of <xref doc="C20g26a">July 26</xref> and <xref doc="C20g27a">27,</xref> and <xref doc="C20i27c">September 27, 1720,</xref> and July 2, 1723. Carter was concerned that some of the bills of exchange that he had accepted might not be good (protested).</note>
+<note id="n4">[4] Hobb's Hole in Essex County is today called Tappahannock.</note><lb/><lb/>
 
-<note id="n5">[5] Tindall's Point, now known as Gloucester Point, is in Gloucester County on the York River.</note>
+<note id="n5">[5] The year before Carter had acted as one of two agents for the sale of a cargo of slaves sent into the colony on the <hi rend="italics">Mercury</hi> by the slave traders Francis Chamberlayne and Francis Sitwell. See his letters to them of <xref to="C20g26a">July 26</xref> and <xref to="C20g27a">27,</xref> and <xref to="C20i27c">September 27, 1720,</xref> and <xref to="C23g02a">July 2, 1723</xref>. Carter was concerned that some of the bills of exchange that he had accepted might not be good (protested).</note><lb/><lb/>
 
-<note id="n6">[6] The Rappahannock on which Carter lived.</note>
+<note id="n6">[6] In 1660, the English government chartered a company called the "Company of Royal Adventurers Trading to Africa." The Company did not fare well, due mainly to the war with Holland, and in 1667, it collapsed. But out of its ashes emerged a new company: The Royal African Company. Founded in 1672, the Royal African Company was granted a . . . monopoly in the slave trade. Between 1680 and 1686, the Company transported an average of 5,000 slaves a year. . . .  In 1698, Parliament . . . opened the slave trade to all. With the end of the monopoly, the number of slaves transported on English ships would increase dramatically -- to an average of over 20,000 a year. By the end of the 17th century, England led the world in the trafficking of slaves.  (<cit><bibl>"Royal African Company established 1672" in "Africans in America," http://www.pbs.org/wgbh/aia/part1/1p269.html, 4/14/2009</bibl></cit>)</note><lb/><lb/>
 
 
+<note id="n7">[7] Tindall's Point, now known as Gloucester Point, is in Gloucester County on the York River.</note><lb/><lb/>
+
+<note id="n8">[8] The Rappahannock River on which Carter lived.</note><lb/><lb/>
+
+<lb/><lb/><note><hi rend="italics">This text revised April14, 2009.</hi></note>
 
 
 </div1>

@@ -30,7 +30,7 @@
    </respStmt>
 </titleStmt>
 
-<extent>ca. 4 kilobytes </extent>
+<extent>ca. 6 kilobytes </extent>
 
 <publicationStmt>
      <publisher>University of Virginia Library.</publisher>
@@ -95,7 +95,7 @@
 <title>Letter from Robert Carter to John King, May 27, 1721</title>
 </bibl>
 </head>
-<p>Robert Carter writes to Bristol merchant, John King, May 27, 1721, that he has received his letters, and complains about the prices received for the tobacco had sent on Captain Darracot's ship. Nevertheless, he will send more with Captain [Joseph] Stretton to try the Bristol market once more. He asks King to settle his account with Franklyn's executors, and then to send his balance with King. He closes by reporting two bills of echange he has drawn on King.</p>
+<p>Robert Carter writes to Bristol merchant John King, May 27, 1721, that he has received King's letters, and complains about the prices received for the tobacco had sent on Captain Darracot's ship. Nevertheless, he will send more with Captain [Joseph] Stretton to try the Bristol market once more. He asks King to settle his account with Franklyn's executors, and then to send his balance with King. He closes by reporting two bills of echange he has drawn on King.</p>
 </div1>                 
 </front>
 
@@ -115,7 +115,7 @@ Mr. Jno. King<lb/>
 
 </opener>
 
-<p>I have Yors several ways this Year, Yor sales of my Tobo. <lb/>In Darracot You might well conclude would Surprize me, Tis the <lb/>Meanest Markett by much I mett with that Year and will make <lb/>me do but little Yor. way unless I can have more Encouragement <lb/>however believe I shall put into <add resp="editor">[Captain Joseph]</add> <note target="n1">Stretton</note> about half a Score hogsheads <lb/>of <abbr expan="stripped">Stript</abbr> Leaf Tobo., and try once more what You will do with It <lb/>pray Settle my Accot. with <note target="n2">Mr. Franklyn's</note> <abbr expan="executors">Execrs.</abbr> and gett in my <lb/><abbr expan="balance">Ballce.</abbr>, I have drawn on You lately for &pound;13"7"9 payable to <lb/>Mr. <note n="JC3"><abbr expan="John">Jno.</abbr> Clayton</note> and for &pound;52"-"- to Henry Thompson which I <lb/>desire You to answer, is the needfull at present from&mdash;</p>
+<p>I have <sic corr="yours ">Yors</sic> several ways this Year, Yor sales of my Tobo. <lb/>In Darracot You might well conclude would Surprize me, <sic corr="It is ">Tis</sic> the <lb/>Meanest <sic corr="market ">Markett</sic> by much I <sic corr="met ">mett</sic> with that Year and will make <lb/>me do but little Yor. way unless I can have more Encouragement <lb/>however believe I shall put into <add resp="editor">[Captain Joseph] </add> <note target="n1">Stretton</note> about half a Score hogsheads <lb/>of <abbr expan="stripped ">Stript</abbr> Leaf Tobo., and try once more what You will do with It <lb/>pray Settle my Accot. with <note target="n2">Mr. Franklyn's</note> <abbr expan="executors ">Execrs.</abbr> and <sic corr="get ">gett</sic> in my <lb/><abbr expan="balance ">Ballce.</abbr>, I have drawn on You lately for &pound;13"7"9 payable to <lb/>Mr. <note n="JC3"><abbr expan="John ">Jno.</abbr> Clayton</note> and for &pound;52"-"- to Henry Thompson which I <lb/>desire You to answer, is the needfull at present from&mdash;</p>
 
 <closer>Sir <lb/>Yor. humble Servt.</closer>
 
@@ -133,11 +133,13 @@ Mr. Jno. King<lb/>
 
 <note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi>  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. Printed: <cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> pp. 97-98.</bibl></cit></note><lb/>
 
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note><lb/>
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colonyhave been added for clarity.</note><lb/><lb/>
 
-<note id="n1">[1] Joseph Stretton, captain of the <hi rend="italics">Prince Eugene</hi> a Bristol ship, was to be accused in August 1721 of having traded with pirates at Madagascar and some of his money was held pending a trial in England at which he was found innocent. Stretton petitioned the Virginia Council for the release of the money, and his petition was granted 7 March 1722. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>,  4(1721-1739): 10.)</bibl></cit></note>
+<note id="n1">[1] Joseph Stretton, captain of the <hi rend="italics">Prince Eugene</hi> a Bristol ship, was to be accused in August 1721 of having traded with pirates at Madagascar and some of his money was held pending a trial in England at which he was found innocent. Stretton petitioned the Virginia Council for the release of the money, and his petition was granted 7 March 1722. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>,  4(1721-1739): 10.)</bibl></cit></note><lb/><lb/><lb/>
 
-<note id="n2">[2] Probably Joshua Franklyn, another Bristol merchant.</note>
+<note id="n2">[2] Probably Joshua Franklyn, another Bristol merchant.</note><lb/>
+
+<lb/><lb/><note><hi rend="italics">This text revised April14, 2009.</hi></note>
 
 
 </div1>

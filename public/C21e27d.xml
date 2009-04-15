@@ -107,7 +107,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<name type="place">Rappahannock, <corr resp="editor">[Lancaster County, Virginia]</corr> </name><lb/>
 <date value="1721-05-27">May the. 27th. 1721</date><lb/>
 Mr. Thos. Evans<lb/>
 </dateline>
@@ -115,8 +115,8 @@ Mr. Thos. Evans<lb/>
 
 </opener>
 
-<p>I received Yor. goods by Richardson, and the accot. of Sales of the <lb/>31 hogsheads Tobo. <abbr expan="that">tht.</abbr> went in 1719, You mention also the Sale of four hogsheads <add place="supralinear">of</add> last year <lb/>at 11d. <add resp="editor">[You]</add> seem to Doubt You shall not be able to hold It at that rate many <lb/><abbr expan="gentlemen">Gent</abbr> of my Accquaintance have full Accounts of sales for their last Tobo <lb/>none that I hear of under 11d. for <abbr expan="stripped">Stript</abbr> many have a half penny more <lb/>I must conclude I have <abbr expan="lived">livd</abbr>
- to very little purpose if I cannot <lb/>gett as much for my Tobo. as other men, I hope before the parliament <lb/>rises they will settle the Credit of the Nation and find ways to make <lb/>Trade flourish again, What my Quota to You this year will be I dont <lb/><sic corr="yet">yett</sic> know, to be sure not less than Twas the last in hopes You will <lb/>continue to do my business as well as other men.</p>
+<p>I received Yor. goods by <note target="n1">Richardson,</note> and the accot. of Sales of the <lb/>31 hogsheads Tobo. <abbr expan="that">tht.</abbr> went in 1719, You mention also the Sale of four hogsheads <add place="supralinear">of</add> last year <lb/>at 11<abbr expan=" pence ">d</abbr> <add resp="editor">[You]</add> seem to Doubt You shall not be able to hold It at that rate many <lb/>Gent of my Accquaintance have full Accounts of sales for their last Tobo <lb/>none that I hear of under 11<abbr expan=" pence ">d</abbr> for <abbr expan="stripped ">Stript</abbr> many have a half penny more <lb/>I must conclude I have <abbr expan="lived ">livd</abbr>
+ to very little purpose if I cannot <lb/><sic corr="get ">gett</sic> as much for my Tobo. as other men, I hope before the parliament <lb/>rises they will settle the Credit of the Nation and find ways to make <lb/>Trade flourish again, What my Quota to You this year will be I dont <lb/><sic corr="yet ">yett</sic> know, to be sure not less than <abbr expan="it was ">Twas </abbr> the last in hopes You will <lb/>continue to do my business as well as other men.</p>
 
 	<p>I drew a bill on You in March to <note n="JB">Joseph Belfield</note> for &pound;4"7 which is all at present from&mdash;&mdash; </p>
 
@@ -136,9 +136,13 @@ Mr. Thos. Evans<lb/>
 
 <note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi>  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. Printed: <cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> pp. 96-97.</bibl></cit></note><lb/>
 
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note><lb/>
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony  have been added for clarity.</note><lb/><lb/>
+
+<note id="n">[] Captain [James?] Richardson commanded the <hi rend="italics">Sarah</hi> and was based in
+Weymouth. (<cit><bibl>Carter diary, August 23, 1723</bibl></cit>)</note><lb/><lb/>
 
 
+<lb/><lb/><note><hi rend="italics">This text revised April14, 2009.</hi></note>
 
 
 </div1>
