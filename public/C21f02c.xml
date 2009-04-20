@@ -29,7 +29,7 @@
    </respStmt>
 </titleStmt>
 
-<extent>ca. 9 kilobytes </extent>
+<extent>ca. 7 kilobytes </extent>
 
 <publicationStmt>
      <publisher>University of Virginia Library.</publisher>
@@ -81,20 +81,20 @@
 
 </teiHeader>
 
-<text id="T">
+<text id="C21f02cT">
 
 <front>
 <div1 type="summary" n="1">
 <head>
 <bibl>
 <abbr>AL</abbr>
-<extent> p.</extent>
+<extent>1 p.</extent>
 <date value="1721-06-02"></date>
 <idno rend="suppress">C21f02c.xml</idno>
 <title>Letter from Robert Carter to Micajah Perry Senior and Junior, June 2, 1721</title>
 </bibl>
 </head>
-<p>Robert Carter writes to London merchant Micajah Perry, Senior, and his grandon of the same name, June 2, 1721, concerning the difficulty that the ships in the colony are having in obtaining cargoes, and that Baily Kent of the <hi rend="italics">Carter</hi> is finding it difficult to obtain cargo as planters are punishing him for his high freight rates of last year. Carter is sending more tobacco on that ship than he ever has before. Captain Wharton has only about half his cargo, but has said he will not return to Virginia and does not care what anyone thinks of him. He reports the prospects of a poor crop because the young plants are being destroyed in the beds.</p>
+<p>Robert Carter writes to London merchant Micajah Perry, Senior, and his grandon of the same name, June 2, 1721, concerning the difficulty that the ships in the colony are having in obtaining cargoes, and that Bailey Kent of the <hi rend="italics">Carter</hi> is finding it difficult to obtain cargo as planters are punishing him for his high freight rates of last year. Carter is sending more tobacco on that ship than he ever has before. Captain Wharton has only about half his cargo, but has said he will not return to Virginia and does not care what anyone thinks of him. He reports the prospects of a poor crop because the young plants are being destroyed in the beds.</p>
 </div1>                 
 </front>
 
@@ -106,7 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<name type="place">Rappahannock, <corr resp="editor">[Lancaster County, Virginia]</corr> </name><lb/>
 <date value="1721-06-02">June the 2d. 1721</date><lb/>
 Messrs. Perry<lb/>
 </dateline>
@@ -114,11 +114,11 @@ Messrs. Perry<lb/>
 
 </opener>
 
-<p>I <sic corr="wrote">writ</sic> to You a few days ago via <sic corr="Liverpool">Leverpool</sic>, This intended <lb/>as a Short line to give You a hint of the present Storeys that are <lb/>Among us, It's said most of the York Ships will want of their Loading <lb/>&amp; that there is some Thousands of hogsheads Short of what there is Ships to carry <lb/>I almost think the Circumstances of our River are much the Same, <note n="CS"><add resp="editor">[Baily] </add>Kent</note> is in <lb/>great doubt whether he shall gett full or no, <abbr expan="although">altho</abbr> I load upon him <lb/>more Tobo. than ever I did, his old friends in revenge for his &pound;10 per Tun <lb/>last Year have all left him, &amp; do him all the prejudice they can <lb/>Wharton I reckon is not above half Loaded, &amp; I believe is very much <lb/>put to It to Employ his craft, and yett he Still braggs he will not <lb/>go under &pound;10 he hath [a]w'd me very <sic corr="indifferently">Indiferntly</sic>, for my kindness in <lb/>being so Early on board him, I shall <abbr expan="endeavor">Endeavr.</abbr>
- to measure to him the <lb/>Same Treatment, he says <abbr expan="he'll">he'l</abbr>
- come here no more &amp; <sic corr="does">dos</sic> not care who <lb/>he disobliges but I have not seen him Since I came from the General Court</p>
+<p>I <sic corr="wrote ">writ</sic> to You a few days ago via <sic corr="Liverpool ">Leverpool</sic>, This intended <lb/>as a Short line to give You a hint of the present <sic corr="storys ">Storeys</sic> that are <lb/>Among us, It's said most of the York Ships will want of their Loading <lb/>&amp; that there is some Thousands of hogsheads Short of what there is Ships to carry <lb/>I almost think the Circumstances of our River are much the Same, <note n="CS">
+<corr resp="editor">[Bailey]</corr>  Kent</note> is in <lb/>great doubt whether he shall <sic corr="get ">gett</sic> full or <sic corr="not. ">no,</sic> <abbr expan="although ">altho</abbr> I load upon him <lb/>more Tobo. than ever I did, his old friends in revenge for his &pound;10 per <sic corr="ton ">Tun</sic> <lb/>last Year have all left him, &amp; do him all the prejudice they can <lb/><note target="n1">Wharton</note> I reckon is not above half Loaded, &amp; I believe is very much <lb/>put to It to Employ his craft, and yett he Still <sic corr="brags ">braggs</sic> he will not <lb/>go under &pound;10 he <sic corr="has ">hath </sic> <abbr expan="answeered ">a<corr resp="editor">[ns]</corr> w<corr resp="editor">[er]</corr> 'd </abbr> me very <sic corr="indifferently">Indiferntly</sic>, for my kindness in <lb/>being so Early on board him, I shall <abbr expan="endeavor ">Endeavr.</abbr>
+ to measure to him the <lb/>Same Treatment, he says <abbr expan="he'll ">he'l</abbr>  come here no more &amp; <sic corr="does">dos</sic> not care who <lb/>he disobliges but I have not seen him Since I came from the General Court</p>
 
-<p>	We have now a very Indiferent prospect of a Crop, we have <lb/>not planted much, and the Plants in our beds both high lands &amp; Low <lb/>are in a great measure <abbr expan="destoryed">destroy'd</abbr> this is the Cry everywhere that I <lb/>have concerns in, I Shall not be further Troublesome at present rema<add resp="editor">[in]</add> <lb/>Sirs Y&mdash;&mdash;<add resp="editor"> [<hi rend="italics">sic</hi>]</add></p>
+<p>	We have now a very Indiferent prospect of a Crop, we have <lb/>not planted much, and the Plants in our beds both high lands &amp; Low <lb/>are in a great measure <abbr expan="destoryed ">destroy'd</abbr> this is the Cry everywhere that I <lb/>have concerns in, I Shall not be further Troublesome at present rema<corr resp="editor">[in]</corr>  <lb/>Sirs Y&mdash;&mdash;<add resp="editor"> [<hi rend="italics">sic</hi>]</add></p>
 
 <closer>Yor. most humble Servt.</closer>
 
@@ -136,9 +136,12 @@ Messrs. Perry<lb/>
 
 <note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi>  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. Printed: <cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> pp. 99-100.</bibl></cit></note><lb/>
 
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note><lb/>
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony  have been added for clarity.</note><lb/><lb/>
+
+<note id="n1">[1] Wharton was Captain John Wharton of the 80 ton <hi rend="italics">Loyal Margaret. (<cit><bibl>Survey Report 6800 abstracting Adm. 68/194 found in the microfilms of the Virginia Colonial Records Project, Shirley and Albert Small Special Collections Library, University of Virginia.</bibl></cit>)</hi></note><lb/><lb/>
 
 
+<lb/><lb/><note><hi rend="italics">This text revised April20, 2009.</hi></note>
 
 
 </div1>

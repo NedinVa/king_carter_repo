@@ -90,7 +90,7 @@
 <abbr>AL</abbr>
 <extent>1 p.</extent>
 <date value="1721-06-02"></date>
-<idno rend="suppress">C21f02b</idno>
+<idno rend="suppress">C21f02b.xml</idno>
 <title>Letter from Robert Carter to John Pemberton, June 2, 1721</title>
 </bibl>
 </head>
@@ -114,9 +114,9 @@ Mr. Jno. Pemberton<lb/>
 
 </opener>
 
-<p>Tis but a few days <sic corr="ago">agon</sic> I <sic corr="wrote">writ</sic> to You by the <name type="ship">Content</name> Capt. <lb/>Stephenson, however a line of our present Circumstances may not <lb/>be amiss, All our London Ships are now fallen to &pound;8 and the Cry is that <lb/>few of them will be full, Mackmullion was with me Yesterday and <lb/>Courted me very much for freight. he's <sic corr="afraid">affraid</sic> he shall not be able to <lb/>Do his business. Pickering is much in the Same case they both go for <lb/>London.</p>
+<p><sic corr="It is ">Tis</sic> but a few days <sic corr="ago ">agon</sic> I <sic corr="wrote ">writ</sic> to You by the <note target="n1"><name type="ship">Content</name></note> <abbr expan="Captain ">Capt.</abbr> <lb/>Stephenson, however a line of our present Circumstances may not <lb/>be amiss, All our London Ships are now fallen to &pound;8 and the Cry is that <lb/>few of them will be full, Mackmullion was with me Yesterday and <lb/>Courted me very much for freight. he's <sic corr="afraid ">affraid</sic> he shall not be able to <lb/>Do his business. Pickering is much in the Same case they both go for <lb/>London.</p>
 
-<p>	We have a very Indifferent appearance for a Crop this <lb/>Year what we have planted is eat up by the worme and they have <lb/><abbr expan="destroyed">destroy'd</abbr>
+<p>	We have a very Indifferent appearance for a Crop this <lb/>Year what we have planted is <sic corr="eaten ">eat</sic> up by the <sic corr="worm ">worme</sic> and they have <lb/><abbr expan="destroyed ">destroy'd</abbr>
  a great part of our plants in the beds, so that we are in doub<add resp="editor">[t]</add> <lb/><del>that </del>we Shall not have Enough left to pitch our Crops, a months <lb/>time will Inform us better if It be but General the loss of a Crop will <lb/>be of Service to us all, this comes by the way of London from 
 </p>
 
@@ -138,9 +138,13 @@ Mr. Jno. Pemberton<lb/>
 
 <note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi>  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. Printed: <cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> p. 102.</bibl></cit></note><lb/>
 
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note><lb/>
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony  have been added for clarity.</note><lb/><lb/>
+
+<note id="n1">[1] The <hi rend="italics">Content</hi> was a Liverpool ship owned by John Pemberton and commanded by various masters including captains Stephenson (1721and later) , Fowler (1723), and Morton (1727). (<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> pp. 92, 93, 102</bibl></cit>; and
+Carter to Pemberton, 1721 February 14, and 1727 June 28. )</note>
 
 
+<lb/><lb/><note><hi rend="italics">This text revised April16, 2009.</hi></note>
 
 
 </div1>
