@@ -29,7 +29,7 @@
    </respStmt>
 </titleStmt>
 
-<extent>ca. 7  kilobytes </extent>
+<extent>ca. 8  kilobytes </extent>
 
 <publicationStmt>
      <publisher>University of Virginia Library.</publisher>
@@ -106,20 +106,19 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
+<name type="place"><corr resp="editor">[Corotoman, Lancaster County, Virginia]</corr> </name><lb/>
 <date value="1721-06-22">June the 22d. 17<hi rend="underline">21</hi></date><lb/><lb/>
 Orders for John Johnson to be observ'd by him after he comes <lb/>up to the falls,<lb/>
 </dateline>
 
 </opener>
 
-<p>You are first of all to Acquaint YorSelf with the Condition of the Several Plan<add resp="editor">[tation]</add>s. are <lb/>in &amp; to use Yor. utmost diligence &amp; Endeavour to gett the Crops all planted &amp; <lb/>to see <abbr expan="that">tht.</abbr>
- the overseers mind their business and keep their homes, You are to take <lb/>an Accot. as soon as You can of my Goods at the Several <abbr expan="quarters">Qrs.,</abbr> I now give You a <lb/>Copy of my last Lettr. to <note target="n1"><add place="supralinear">Natt</add> Hedgeman,</note> by which You will know what Goods <lb/>went up in the last Sloop, You must take especiall care of my Arms <lb/>at the Several <abbr expan="quarters">Qrs.,</abbr> &amp; give me an Accot. what they are &amp; in <abbr expan="what">wt.</abbr> order they are <lb/>last winter I sent up a Sett of Horse Arms to Natt Hedgeman <lb/><abbr expan="that">tht.</abbr> is a case of pistols &amp; holsters, Sword &amp; belt &amp; carabine &amp; belt. You must <lb/>take these arms into Yor. custody &amp; be answerable for them as he was <lb/>You must be very carefull &amp; diligent in r<add resp="editor">[ea]</add>ping and getting in the wheat <lb/>as Soon as It is ripe. You must <add resp="editor">[take care]</add> in all respects <add resp="editor">[to]</add> 
+<p>You are first of all to Acquaint <sic corr="yourself ">YorSelf</sic> with the Condition of the Several <abbr expan="plantations ">Plans. </abbr> are <lb/>in &amp; to use Yor. utmost diligence &amp; Endeavour to <sic corr="get ">gett</sic> the Crops all planted &amp; <lb/>to see tht. the overseers mind their business and keep their homes, You are to take <lb/>an Accot. as soon as You can of my Goods at the Several <abbr expan="quarters ">Qrs.,</abbr> I now give You a <lb/>Copy of my last Lettr. to <note target="n1"><add place="supralinear">Natt</add> Hedgeman,</note> by which You will know what Goods <lb/>went up in the last Sloop, You must take <sic corr="especial ">especiall</sic> care of my Arms <lb/>at the Several <abbr expan="quarters ">Qrs.,</abbr> &amp; give me an Accot. what they are &amp; in wt. order they are <lb/>last winter I sent up a <sic corr="set ">Sett</sic> of Horse Arms to Natt Hedgeman <lb/>tht. is a case of pistols &amp; holsters, Sword &amp; belt &amp; <note target="n2">carabine</note> &amp; belt. You must <lb/>take these arms into Yor. custody &amp; be answerable for them as he was <lb/>You must be very <sic corr="careful ">carefull</sic> &amp; diligent in r<add resp="editor">[ea]</add>ping and getting in the wheat <lb/>as Soon as It is ripe. You must <add resp="editor">[take care]</add> in all respects <add resp="editor">[to]</add> 
 
 <pb n="2"/><lb/><lb/>
-perform the Articles of Yor. <abbr expan="agreement">Agreemt.</abbr> As soon as conveniently You can <lb/>You must gett a particular Accot. of my Stocks of Cattle &amp; hogs their ages <lb/>&amp; Sorts, You must write to me by all opportunity, letting me know <lb/>Your wants &amp; in <abbr expan="what">wt.</abbr> Circumstances everything is and goes forward, <note n="TH">Mr. <lb/>Hooper</note> will do You all the Service he can by writing or other ways,</p>
+perform the Articles of Yor. <abbr expan="agreement">Agreemt.</abbr> As soon as conveniently You can <lb/>You must <sic corr="get ">gett</sic> a particular Accot. of my Stocks of Cattle &amp; hogs their ages <lb/>&amp; Sorts, You must write to me by all opportunity, letting me know <lb/>Your wants &amp; in wt. Circumstances everything is and goes forward, <note n="TH">Mr. <lb/>Hooper</note> will do You all the Service he can by writing or other ways,</p>
 
-	<p><abbr expan="Doctor">Doctr.</abbr> <note target="n2">Thos. Turner</note> undertakes the care of my Familys, You must <lb/>be sure to Send for him as often as their is occasion, be sure to keep <lb/>particular Accot. in writing of everything You deliver out, as nails, Tar <lb/>&amp;c,&mdash;</p>
+<p><abbr expan="Doctor ">Doctr.</abbr> <note target="n3"><abbr expan="Thomas ">Thos. </abbr> Turner</note> undertakes the care of my Familys, You must <lb/>be sure to Send for him as often as their is occasion, be sure to keep <lb/>particular Accot. in writing of everything You deliver out, as nails, Tar <lb/>&amp;c,&mdash;</p>
 
 
 </div1>
@@ -133,11 +132,15 @@ perform the Articles of Yor. <abbr expan="agreement">Agreemt.</abbr> As soon as 
 <div1 type="back matter">
 <head>NOTES</head>
 
-<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi>  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. Printed: <cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> pp. 105-106.</bibl></cit> Carter's home and the county and state have been added to this unheaded draft letter for clarity.</note><lb/>
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi>  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. Printed: <cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> pp. 105-106.</bibl></cit> Carter's home and the county and state have been added to this unheaded draft letter for clarity.</note><lb/><lb/>
 
-<note id="n1">[1] Nathaniel Hedgeman had settled his family at "Accokeek" on Potomac Creek in 1707, having purchased it from "the first George Mason."  He had been Carter's chief overseer in the falls area, but had died recently apparently in an accident. (<cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title>p. 203.)</bibl></cit></note>
+<note id="n1">[1] Nathaniel Hedgeman had settled his family at "Accokeek" on Potomac Creek in 1707, having purchased it from "the first George Mason."  He had been Carter's chief overseer in the falls area, but had died recently apparently in an accident. (<cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title>p. 203.)</bibl></cit></note><lb/>
 
-<note id="n2">[2] Louis Wright wrote, "A physician and landowner in King George County." There was a prominent Thomas Turner in that county but there is no indication he was a physician. (<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> p. 106.</bibl></cit></note>
+<note id="n2">[2] "Carabine" is an alternative spelling of  "carbine" which the <title>Oxford English Dictionary</title> defines as "a kind of fire-arm, shorter than the musket, used by the cavalry and other troops."</note><lb/><lb/>
+
+<note id="n3">[3] Louis Wright wrote that Thomas Turner was, "a physician and landowner in King George County." There was a prominent Thomas Turner in that county but there is no indication he was a physician. (<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> p. 106.</bibl></cit></note><lb/>
+
+<lb/><lb/><note><hi rend="italics">This text revised May 12, 2009.</hi></note>
 
 </div1>
 </back>

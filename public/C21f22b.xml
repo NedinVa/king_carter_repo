@@ -29,7 +29,7 @@
    </respStmt>
 </titleStmt>
 
-<extent>ca.11  kilobytes </extent>
+<extent>ca.8 kilobytes </extent>
 
 <publicationStmt>
      <publisher>University of Virginia Library.</publisher>
@@ -94,7 +94,7 @@
 <title>Letter from Robert Carter to Captain Thomas Hooper, June 22, 1721</title>
 </bibl>
 </head>
-<p>Robert Carter writes to Captain Thomas Hooper, June 22, 1721, in Stafford County concerning the affairs of Nathaniel Hedgeman, his chief overseer who had recently been killed. He informs Hooper that he has appointed John Johnson to succeed Hedgeman, and asks Hooper to assist him, and also to assist in settling Hedgeman's accounts. He reminds Hooper that he must make progress in collecting quit rents, and get them to Carter as soon as possible or there will not be time to prize the tobacco, in which most rents are paid, prior to shipping it.</p>
+<p>Robert Carter writes to Captain Thomas Hooper in Stafford County, June 22, 1721,  concerning the affairs of Nathaniel Hedgeman, his chief overseer who had recently been killed. He informs Hooper that he has appointed John Johnson to succeed Hedgeman, and asks Hooper to assist him, and also to assist in settling Hedgeman's accounts. He reminds Hooper that he must make progress in collecting quit rents, and get them to Carter as soon as possible or there will not be time to prize the tobacco, in which most rents are paid, prior to shipping it.</p>
 </div1>                 
 </front>
 
@@ -106,7 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
+<name type="place"><corr resp="editor">[Corotoman, Lancaster County, Virginia]</corr> </name><lb/>
 <date value="1721-06-22">June 22d 1721</date><lb/>
 Captn Thos. Hooper&mdash;<lb/>
 </dateline>
@@ -114,13 +114,13 @@ Captn Thos. Hooper&mdash;<lb/>
 
 </opener>
 
-<p>You may believe the news of <note target="n1">Natt Hedgeman's</note> Death was <lb/>very Surprizeing to me &amp; the manner of It very Lamentable I wish the poor fellow <lb/>had mett with a more natural End but God's will must be Submitted to I have <lb/>heard of late he hath bin a very great delinquent from my business, &amp; <abbr expan="lived">liv'd</abbr>
- a <lb/>loose rebelling Life, which hath <abbr expan="brought">brot.</abbr> him to his untimely catastrophey <lb/>As for Entertaining his <note target="n2">Son,</note> a wild Young Lad that hath had no Experience <lb/>in the world I can by no means think proper, You did very well to Send him <lb/>to take an Accot. at the Several <abbr expan="quarters">Qrs.</abbr> I hope he hath follow'd my <abbr expan="directions">direcs.</abbr> in relation <lb/>to my Tobo. &amp; dispatching away the Sloop,</p>
+<p>You may believe the news of <note target="n1">Natt Hedgeman's</note> Death was <lb/>very <sic corr="surprizeing ">Surprizeing</sic> to me &amp; the manner of It very Lamentable I wish the poor fellow <lb/>had <sic corr="met ">mett</sic> with a more natural End but God's will must be Submitted to I have <lb/>heard of late he <sic corr="has ">hath </sic> bin a very great delinquent from my business, &amp; <abbr expan="lived ">liv'd</abbr>
+ a <lb/>loose rebelling Life, which <sic corr="has ">hath </sic> brot. him to his untimely catastrophey <lb/>As for Entertaining his <note target="n2">Son,</note> a wild Young Lad that <sic corr="has ">hath </sic> had no Experience <lb/>in the world I can by no means think proper, You did very well to Send him <lb/>to take an Accot. at the Several <abbr expan="quarters ">Qrs.</abbr> I hope he <sic corr="has ">hath </sic> <abbr expan="followed ">follow'd </abbr> my <abbr expan="directions ">direcs.</abbr> in relation <lb/>to my Tobo. &amp; dispatching away the Sloop,</p>
 
-	<p>I have agreed with one John Johnson to Succeed him for the present <lb/>Year who hath <abbr expan="lived">liv'd</abbr> <abbr expan="under">undr.</abbr> me for several Years and I hope will prove a diligent <lb/>honest man with Yor. Assistance believe he may do well Enough altho <lb/>he is <abbr expan="unlettered">unletter'd</abbr>. If You could be with him at the taking of an Accot. of things <lb/>at the <note n="FQ">falls</note> &amp; <note n="PQ1">Poplar</note> <abbr expan="quarters">Qrs.</abbr> where there is the most It would be very well, <lb/><note n="JH1">John Hurst</note> hath <sic corr="promised">promist</sic> me to Assist him all he can &amp; particularly <lb/>now at first in taking an Accot. of my Stocks &amp;c at the Several <abbr expan="quarters">Qrs.,</abbr> I <lb/>Desire You to do <abbr expan="what">wt.</abbr> You can in Settling Natt Hedgeman's Accots. Relate=<lb/>=ing to my Affairs, I Expect to Allow him pro rato to the last time <lb/>he was at Poplar <abbr expan="quarter">Qr.,</abbr> which ought to have bin the place of his residence <lb/>further than that can't be desired of me I have his bond for a large <lb/>Sum of money, which I would have You give his Son notice of, to whom <lb/>I write an Answer to his <abbr expan="letter">Lettr.</abbr></p>
+<p>I have agreed with one John Johnson to Succeed him for the present <lb/>Year who <sic corr="has ">hath </sic> <abbr expan="lived ">liv'd</abbr> <abbr expan="under ">undr.</abbr> me for several Years and I hope will prove a diligent <lb/>honest man with Yor. Assistance believe he may do well Enough <sic corr="although ">altho</sic> <lb/>he is <abbr expan="unlettered">unletter'd</abbr>. If You could be with him at the taking of an Accot. of things <lb/>at the <note n="FQ">falls</note> &amp; <note n="PQ1">Poplar</note> <abbr expan="quarters ">Qrs.</abbr> where there is the most It would be very well, <lb/><note n="JH1">John Hurst</note> <sic corr="has ">hath </sic> <sic corr="promised ">promist</sic> me to Assist him all he can &amp; particularly <lb/>now at first in taking an Accot. of my Stocks &amp;c at the Several <abbr expan="quarters ">Qrs.,</abbr> I <lb/>Desire You to do wt. You can in Settling Natt Hedgeman's Accots. Relate=<lb/>=ing to my Affairs, I Expect to Allow him pro rato to the last time <lb/>he was at Poplar <abbr expan="Quarter ">Qr.,</abbr> which ought to have bin the place of his residence <lb/>further than that <abbr expan="cannot ">can't </abbr> be desired of me I have his bond for a large <lb/>Sum of money, which I would have You give his Son notice of, to whom <lb/>I write an Answer to his Lettr.</p>
 
-	<p>I am Sorry You are so backward in Yor. <abbr expan="collections">Collecs.</abbr>
- I believe most of the <lb/>rents are paid in Tobo. &amp; if I cannot have an Accot. where It <sic corr="lies">lyes</sic> in a <lb/>Short time, what must I do with It? our Ships are now all in &amp; I'm <lb/><sic corr="afraid">Affraid</sic> I must gett It home and prize It before It will be fitt for <lb/>Shipping these Considerations which You are as Sensible of as I, will make <lb/>You dispatch as soon as possible You can, that I may gett Yor. Tobo. time <lb/>Enough to be <abbr expan="shipped">Shipp'd</abbr> off otherways twill be very detrimental to </p>
+<p>I am Sorry You are so backward in Yor. <abbr expan="collections ">Collecs.</abbr> 
+I believe most of the <lb/><note target="n3">rents</note> are paid in Tobo. &amp; if I cannot have an Accot. where It <sic corr="lies ">lyes</sic> in a <lb/>Short time, what must I do with It? our Ships are now all in &amp; I'm <lb/><sic corr="afraid ">Affraid</sic> I must <sic corr="get ">gett </sic>It home and prize It before It will be <sic corr="fit ">fitt</sic> for <lb/>Shipping these Considerations which You are as Sensible of as I, will make <lb/>You dispatch as soon as possible You can, that I may <sic corr="get ">gett </sic> Yor. Tobo. time <lb/>Enough to be <abbr expan="shipped ">Shipp'd</abbr> off otherways <sic corr="it will ">twill</sic> be very detrimental to </p>
 
 <closer>Yor. Assured friend to Serve You</closer>
 
@@ -140,11 +140,13 @@ Captn Thos. Hooper&mdash;<lb/>
 
 <note>The name of Carter's home, "Corotoman," the county, and state have been added for clarity to this unheaded letter book draft.</note><lb/>
 
-<note id="n1">[1] Nathaniel Hedgeman had settled his family at "Accokeek" on Potomac Creek in 1707, having purchased it from "the first George Mason."  (<cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title>p. 203.)</bibl></cit></note>
+<note id="n1">[1] Nathaniel Hedgeman had settled his family at "Accokeek" on Potomac Creek in 1707, having purchased it from "the first George Mason."  (<cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title>p. 203.)</bibl></cit></note><lb/>
 
-<note id="n2">[2] Peter Hedgeman became a  lawyer, and "long represented Stafford in the Assembly, and was one of the Crown Commissioners for the location of the Northern Neck boundary in 1746." (<cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title>p. 203.)</bibl></cit></note>
+<note id="n2">[2] Peter Hedgeman became a  lawyer, and "long represented Stafford in the Assembly, and was one of the Crown Commissioners for the location of the Northern Neck boundary in 1746." (<cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title>p. 203.)</bibl></cit></note><lb/>
 
+<note id="n3">[3] Quit rent was the term used for the payment due from the holder of land to the "lord of the manor," in this case, to the proprietors of the Northern Neck. Carter as the proprietor's agent, collected these payments. No services were required of the landholder as had been true in mediaeval times.</note><lb/>
 
+<lb/><lb/><note><hi rend="italics">This text revised April20, 2009.</hi></note>
 </div1>
 </back>
 

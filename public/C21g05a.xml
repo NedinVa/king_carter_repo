@@ -106,7 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Corotoman, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<name type="place">Corotoman, <corr resp="editor">[Lancaster County, Virginia]</corr> </name><lb/>
 <date value="1721-07-05">July 5th. 1721</date><lb/>
 
 </dateline>
@@ -114,13 +114,11 @@
 
 </opener>
 
-<p>You have <abbr expan="thought">Thot.</abbr> fitt to <abbr expan="favor">favr.</abbr> me with a Sight of Yor. <abbr expan="power">powr.</abbr> from <lb/><note target="n2">My Lady Fairfax,</note> by It I find what I knew before, That You were <lb/>her <sic corr="attorney">Atturney</sic> till You were <sic corr="superseded">Superseeded</sic> by <abbr expan="Colonel">Collo.</abbr> <note n="EJ">Jennings</note> in the Year <lb/>1715, what I objected to was Yor. Granting <add place="supralinear">him</add> lands in 1719 when <lb/>Yor. power was long before <sic corr="revoked">revoakd</sic>, with a Salvo for his not paying <lb/>his Quitt Rents till the Year 1725 but <abbr expan="Colonel">Collo.</abbr> Jennings undertakes <lb/>to pay all the rents of those Lands Yearly, So that matter will be no <lb/>longer a bone of Contention, The business of Downings Composition <lb/>We have agreed to refer to Lawyers, <note n="JH">Mr. Holloway's</note> opinion I <lb/>value as much as any mans in the Country when he Setts Judicialy <lb/>&amp; hath heard both partys, but what he or any other Lawyer Says <lb/>upon the State of a Case from one Side <del>only</del> can be calld but <lb/>An opinion Ex parte at the Most, <abbr expan="Colonel">Collo.</abbr>
- Jennings hath <abbr expan="delivered">deliver'd</abbr> <lb/>me up the rent rolls &amp; hath made me fair promises in other <lb/>respects which if he <sic corr="performs">performes</sic> believe he and I Shall hardly Quarrel&mdash;</p>
+<p>You have <abbr expan="thought ">Thot.</abbr> <sic corr="fit ">fitt</sic> to <abbr expan="favor ">favr.</abbr> me with a Sight of Yor. <abbr expan="power ">powr.</abbr> from <lb/><note target="n2">My Lady Fairfax,</note> by It I find what I knew before, That You were <lb/>her <sic corr="attorney ">Atturney</sic> <sic corr="until ">till</sic> You were <sic corr="superseded ">Superseeded</sic> by <abbr expan="Colonel ">Collo.</abbr> <note n="EJ"><sic corr="Jenings ">Jennings</sic></note> in the Year <lb/>1715, what I objected to was Yor. Granting <add place="supralinear">him</add> lands in 1719 when <lb/>Yor. power was long before <sic corr="revoked ">revoakd</sic>, with a Salvo for his not paying <lb/>his <note target="n3"><sic corr="quit ">Quitt</sic> Rents</note> till the Year 1725 but <abbr expan="Colonel ">Collo.</abbr> <sic corr="Jenings ">Jennings</sic> undertakes <lb/>to pay all the rents of those Lands Yearly, So that matter will be no <lb/>longer a bone of Contention, The business of Downings Composition <lb/>We have agreed to refer to Lawyers, <note n="JH">Mr. Holloway's</note> opinion I <lb/>value as much as any mans in the Country when he <sic corr="sits ">Setts</sic> Judicialy <lb/>&amp; <sic corr="has ">hath </sic>heard both partys, but what he or any other Lawyer Says <lb/>upon the State of a Case from one Side <del>only</del> can be <sic corr="called ">calld</sic> but <lb/>An opinion Ex parte at the Most, <abbr expan="Colonel ">Collo.</abbr>  <sic corr="Jenings ">Jennings</sic> <sic corr="has ">hath </sic> <abbr expan="delivered ">deliver'd</abbr> <lb/>me up the rent rolls &amp; <sic corr="has ">hath </sic> made me fair promises in other <lb/>respects which if he <sic corr="performs ">performes</sic> believe he and I Shall hardly Quarrel&mdash;</p>
 
-<p>In the List You gave me You own there are several <lb/><sic corr="pieces">peices</sic> of Land that You owe me for the Composition of being <lb/>Granted after the Expiration of <abbr expan="Colonel">Collo.</abbr> Jennings Lease I <lb/>hope <sic corr="you'll">You'l</sic> find a time to do me Justice in these at least</p>
+<p>In the List You gave me You own there are several <lb/><sic corr="pieces ">peices</sic> of Land that You owe me for the Composition of being <lb/>Granted after the Expiration of <abbr expan="Colone l">Collo.</abbr> <sic corr="Jenings ">Jennings</sic> Lease I <lb/>hope <sic corr="you'll ">You'l</sic> find a time to do me Justice in these at least</p>
 
-<p>You hold Lands in <abbr expan="Westmoreland,">Westm.ld,</abbr> Stafford, Richmond <lb/>&amp; Northumberland, You are likewise <add place="supralinear"><sic corr="attorney">atturney</sic></add> to <note target="n3">Esq. Jeoffrys,</note> the heir <lb/>of Ashton in England &amp; are concernd with the management of <abbr expan="Colonel">Col.</abbr>
- <lb/>Fitzhughs Land<add resp="editor">[s]</add> It will be but reputable in You <note target="n4">to</note></p>
+<p>You hold Lands in <abbr expan="Westmoreland, ">Westm.ld,</abbr> Stafford, Richmond <lb/>&amp; Northumberland, You are likewise <add place="supralinear"><sic corr="attorney ">atturney</sic></add> to <note target="n4"><abbr expan="Esquire ">Esq. </abbr> Jeoffrys,</note> the heir <lb/>of Ashton in England &amp; are <sic corr="concerned ">concernd</sic> with the management of <note target="n5"><abbr expan="Colonel ">Col.</abbr> <lb/>Fitzhughs Land</note><add resp="editor">[s]</add> It will be but reputable in You <note target="n6">to</note></p>
 
 <closer><seg type="postscript"></seg></closer>
 
@@ -138,17 +136,24 @@
 
 <note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi>  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. Printed: <cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> pp. 106-107.</bibl></cit></note><lb/>
 
-<note>The county and state have been added for clarity to the name of Carter's home. It is clear from the context that this letter was sent to Thomas Lee.</note><lb/>
+<note>The county and colony have been added for clarity to the name of Carter's home. It is clear from the context that this letter was sent to Thomas Lee.</note><lb/><lb/>
 
-<note id="n1">[1] Thomas Lee (1690-1750) was the son of Richard Lee II, and nephew of Edmund Jenings; he would build "Stratford," and succeed RC on the Council. He had been deputy agent for the proprietors until his uncle returned from England in 1715.</note>
+<note id="n1">[1] Thomas Lee (1690-1750) was the son of Richard Lee II, and nephew of Edmund Jenings; he would build "Stratford," and succeed RC on the Council. He had been deputy agent for the proprietors until his uncle returned from England in 1715.</note><lb/><lb/>
 
-<note id="n2">[2] For Lady Fairfax, see the discussion of the North Neck proprietary accessed from the opening screen of this site.</note>
+<note id="n2">[2] For Lady Fairfax, see the discussion of the <xref to="/users/berkeley/#Northern Neck OR #Brent">North Neck proprietary</xref> accessed from the opening screen of this site.</note><lb/><lb/>
 
-<note id="n3">[3] Carter probably refers to Sir Jeffrey Jeffreys, MP, heir to the business affairs of his uncle, John Jeffreys (1614-1688), master of the Grocers Company and alderman in 1661.Carter had been interested in the Ashton lands for some time, and had written about them in a letter to William Dawkins on  25 March 1721. (<cit><bibl>J. R. Woodhead. <title>The Rulers of London 1660-1689.</title> [London: London and Middlesex Archaeological Society, 1965]. pp. 97-98;</bibl></cit> and  <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> pp. 607-612.)</bibl></cit> </note>
+<note id="n3">[3] Quit rent was the term used for the payment due from the holder of land to the "lord of the manor," in this case, to the proprietors of the Northern Neck. Carter as the proprietor's agent, collected these payments. No services were required of the landholder as had been true in mediaeval times.</note><lb/><lb/>
 
-<note id="n4">[4] This letter ends here as further pages of the letter book are missing.</note>
+<note id="n4">[4] Carter probably refers to Sir Jeffrey Jeffreys, MP, heir to the business affairs of his uncle, John Jeffreys (1614-1688), master of the Grocers Company and alderman in 1661.Carter had been interested in the Ashton lands for some time, and had written about them in a <xref to="C21c25a.xml">letter to William Dawkins</xref> on  25 March 1721. The lands probably were those on the Potomac River "known as Chatterton or Chatterton Landing and . . .  now located in King George Co." bequeathed by Colonel Peter Ashton to "James Ashton, his brother of Kirby Underwood County, Lincolnshire and to John Ashton his brother of Lowell, Lincolnshire. . . . " (<cit><bibl>J. R. Woodhead. <title>The Rulers of London 1660-1689.</title> [London: London and Middlesex Archaeological Society, 1965]. pp. 97-98;</bibl></cit>  <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> pp. 607-612);</bibl></cit>  <cit><bibl>ENG-CAMBRIDGESHIRE-L Archives" in RootsWeb, http://archiver.rootsweb.ancestry.com/th/read/ENG-CAMBRIDGESHIRE/2007-08/1188575208,  5/14/2009; </bibl></cit>  and <cit><bibl>"Elkins Genealogical Data" http://homepages.rootsweb.ancestry.com/~darburns/elkins/reports/chrono1.html   5/14/2009</bibl></cit></note><lb/>
+
+<note id="n5">[5] William Fitzhugh (1755-1701), lawyer,  emigrated from England, married, and settled at "Eagle's
+Nest" in Stafford County by 1674 where he became burgess and later, justice and militia officer. He became, with George Brent, agent for the proprietors in 1693 and held the office until his death. (<cit><bibl n="B5">Davis,  <title>William Fitzhugh. . . .</title> pp. 3-55.</bibl></cit>)</note><lb/>
+
+<note id="n6">[6] This letter ends here as further pages of the letter book are missing.</note><lb/><lb/>
 
 
+
+<lb/><lb/><note><hi rend="italics">This text revised May 12, 2009.</hi></note>
 
 
 </div1>
