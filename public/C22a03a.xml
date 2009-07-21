@@ -11,8 +11,8 @@
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
 <!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
-<!NOTATION html SYSTEM "HTML">
-<!ENTITY Ext1 SYSTEM "http://www.stratfordhall.org/learn/lees/thomaslee.php" NDATA html>
+<!NOTATION html SYSTEM "php">
+<!ENTITY Ext4 SYSTEM "http://www.stratfordhall.org/learn/lees/thomaslee.php" NDATA php>
  ]>
 <TEI.2 id="C22a03a">
 
@@ -143,7 +143,7 @@
 <note id="n1"> [1] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. ("Dictionary of  Financial Scam Terms." http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm. 8/22/2005)</note><lb/><lb/>
 
 
-<note id="n2">[2] Thomas Lee (1690-1750) of Westmoreland County was the son of Richard Lee II, and nephew of Edmund Jenings; he would build "Stratford," and succeed Carter on the Council. For a good article on Thomas Lee, see  <xref to="Ext1">  that on Stratford plantation's website.</xref>
+<note id="n2">[2] Thomas Lee (1690-1750) of Westmoreland County was the son of Richard Lee II, and nephew of Edmund Jenings; he would build "Stratford," and succeed Carter on the Council. For a good article on Thomas Lee, see  <xref to="Ext4">  that on Stratford plantation's website.</xref>
  (<cit><bibl>Burton J. Hendrick. <title>The Lees of Virginia: Biography of a Family.</title> [Boston: Little Brown, 1935]. pp. 48, 51, etc.</bibl></cit>)</note><lb/>
 
 <lb/><lb/><note><hi rend="italics">This text revised July 21, 2009.</hi></note>
