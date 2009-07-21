@@ -11,7 +11,7 @@
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
 <!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
-<!NOTATION html SYSTEM "php">
+<!NOTATION php SYSTEM "php">
 <!ENTITY Ext4 SYSTEM "http://www.stratfordhall.org/learn/lees/thomaslee.php" NDATA php>
  ]>
 <TEI.2 id="C22a03a">
