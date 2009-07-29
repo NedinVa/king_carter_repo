@@ -12,7 +12,6 @@ while (<>) {
                    
 $a =~ s/$/ /g;
 $a =~ s/>>/>/g;
-
 $a =~ s/<cell rend="right">/ <td align="right"> /g;
 
 $a =~ s/<!DOCTYPE TEI.2 system 'teilite.dtd' \[//g;
