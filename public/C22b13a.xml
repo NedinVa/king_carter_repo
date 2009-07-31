@@ -10,7 +10,11 @@
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+<!NOTATION php SYSTEM "php">
+<!ENTITY Ext4 SYSTEM "http://www.stratfordhall.org/learn/lees/thomaslee.php" NDATA php>
+
+ ]>
 <TEI.2 id="C22b13a">
 
 
@@ -18,7 +22,7 @@
              
 <fileDesc>
 <titleStmt>
-     <title type="245">Letter from William Cage to Robert Carter, February 13, [1722]</title>
+     <title type="245">Draft Letter from William Cage to Robert Carter, February 13, [1722]</title>
    <title type="gmd">[electronic resource]</title>
      <author>Cage, William</author>
    <respStmt>
@@ -45,7 +49,7 @@
 <sourceDesc>
      <biblFull>
      <titleStmt>
-     <title>Letter from William Cage to Robert Carter, February 13, [1722]</title>
+     <title>Draft Letter from William Cage to Robert Carter, February 13, [1722]</title>
      <author>William Cage</author>
 </titleStmt>
     <extent>2 p.</extent>
@@ -91,10 +95,10 @@
 <extent>2 p.</extent>
 <date value="1722-02-13"></date>
 <idno rend="suppress">C22b13a.xml</idno>
-<title>Letter from William Cage to Robert Carter, February 13, [1722]</title>
+<title>Draft Letter from William Cage to Robert Carter, February 13, [1722]</title>
 </bibl>
 </head>
-<p>William Cage, trustee of Lady Fairfax's estate, writes a draft letter to Robert Carter, February 13, [1722], concerning the affairs of the Northern Neck proprietary in Virginia, and especially the debts due the estate from Edmund Jenings, the leaseholder who preceded Carter. He authorizes Carter "to Act as you think fit" in attempting to collect the debts. He hopes Carter will be able to make improvements in the lease which he will share with Cage and Fairfax, and notes that they stand ready to negotiate a new lease with Carter for whatever length Carter may propose. He sees Lord Fairfax rarely because of the latter's army service, but sends Carter Fairfax's "humble service" and reminds Carter's of Fairfax's influence with the Board of Trade. </p>
+<p>William Cage, trustee of Lady Fairfax's estate, drafts a letter to Robert Carter, February 13, [1722], concerning the affairs of the Northern Neck proprietary in Virginia, and especially the debts due the estate from Edmund Jenings, the leaseholder who preceded Carter. He authorizes Carter "to Act as you think fit" in attempting to collect the debts. He hopes Carter will be able to make improvements in the lease which he will share with Cage and Fairfax, and notes that they stand ready to negotiate a new lease with Carter for whatever length Carter may propose. He sees Lord Fairfax rarely because of the latter's army service, but sends Carter Fairfax's "humble service" and reminds Carter's of Fairfax's influence with the Board of Trade. </p>
 </div1>                 
 </front>
 
@@ -102,7 +106,7 @@
 
 <body>
 <div1 type="letter" n="1">
-<head>Letter from <note n="WC">William Cage</note> to Robert Carter, February 13, [1722]</head>
+<head>Draft Letter from <note n="WC">William Cage</note> to Robert Carter, February 13, [1722]</head>
 <opener>
 <dateline>
 <pb n="1"/>
@@ -113,13 +117,12 @@
 
 </opener>
 
-<p><add resp="editor">[...]</add> so much in your <del>Honour</del> Integrity &amp;amp; ability that we <add resp="editor">[... our]</add> <lb/>selves happy at being in your Hands.  I am sorry <note n="EJ"><abbr expan="Colonel">Coll</abbr>
- Jenning<add resp="editor">['s]</add></note> <lb/>Circumstances are so bad that he <add resp="editor">[. . . ]</add> <add place="supralinear">endeavours</add> to make an Ac<add resp="editor">[coun]</add>t <add resp="editor">[...]</add><lb/>that is so plain &amp; pleads a Paragraph in my Letter to his Son <lb/>transposes the words (at least) wch were meant that there was ow<add resp="editor">ing</add> <lb/>at least two years Rent wch he knew or his Father misinformed <lb/>him so.  I do assure you <add place="supralinear"><abbr expan="when">wn</abbr> I wrote to the Boy </add>I did not know <add place="supralinear"><abbr expan="what">wt</abbr> was due but </add><note n="TF"><abbr expan="Lord">Ld</abbr> Fairfax</note> <lb/>said my <note target="n1">Lady</note> told him There was above 2 years Rent due  <lb/>His first payment <add place="supralinear">of 1907 pounds</add> wch he makes as paid by him to Lady Fairfax w<add resp="editor">[he]</add>n <lb/>he was in England was &pound;103 S1 P4 3/4 paid by Adamson for Mr. <note target="n2">Tho: <lb/>Lee</note> wch Voucher was mislaid therefore not then allowed but my <lb/>Ladys Receipt  for 100&pound; being found I for her allowed it to Mr <lb/>Lee <add place="supralinear">long before Jennings <add resp="editor">[...]</add> for the Estate </add>paid me part of the two years Arrears then due and <lb/>afterwards sold to <abbr expan="Colonel">Coll</abbr> Jenings and this is the 100&pound; that Jennings charged me <lb/>wth that had never seen one penny of my Ladys money  suppose <lb/>any <abbr expan="account">Act</abbr> whatsoever [...] but this 103 must be allowed as only <lb/>as part of 2400&pound; and whatever vouchers he can produce <lb/>dated since must be also allowed and the Ballance we hope <lb/><sic corr="you'll">you'l</sic> take all the care possible to get for us &amp; whatever <lb/><add place="supralinear">measures</add> you take to get it you have our Authority to Act as <lb/>you think fit. I am glad you will not be frightened wth the <lb/>threats of <note target="n3">Young Brent</note> &amp; Mother <add place="supralinear">nor any others</add>; but proceed to improve y<add resp="editor">[our]</add> <lb/>Estate to the utmost, I say yours because we have no <add resp="editor">[...]</add><lb/>design but that you shall have the Fruits of the improv<add resp="editor">[ments]</add> <lb/>but hope <sic corr="you'll">you'l</sic> allow us an equall share of it and we are <lb/>ready to Treat wth you for a farther Lease of w<add resp="editor">[ha]</add>t time you <lb/>shall propose.  I am sorry for the death of old <note n="MP">Mr. Perry</note> <lb/>but I think the <note n="MP2">young one</note> an honest Good man and he can <lb/>inform you we are not very pressing for money from <lb/>him not that we do it upon the Ac<add resp="editor">[coun]</add>t of the hard Bargain &amp; <lb/>dead time of Trade <add place="supralinear">you mention</add> but tht we know we are safe &amp; in the Hands <lb/>of a Man <add resp="editor">[...] </add>&amp; therefore shew it <add resp="editor">[...]</add> 
+<p><add resp="editor">[ . . . ]</add> so much in your <del>Honour</del> Integrity &amp;amp; ability that we <add resp="editor">[ . . . our]</add> <lb/>selves happy at being in your Hands.  I am sorry <note n="EJ"><abbr expan="Colonel ">Coll</abbr>  <sic corr="Jening">Jenning</sic><add resp="editor">['s]</add></note> <lb/>Circumstances are so bad that he <add resp="editor">[. . . ]</add> <add place="supralinear">endeavours</add> to make an Ac<add resp="editor">[coun]</add>t <add resp="editor">[ . . . ]</add><lb/>that is so plain &amp; pleads a Paragraph in my Letter to his Son <lb/>transposes the words (at least) wch were meant that there was ow<add resp="editor">ing</add> <lb/>at least two years Rent wch he knew or his Father misinformed <lb/>him so.  I do assure you <add place="supralinear"><abbr expan="when">wn</abbr> I wrote to the Boy </add>I did not know <add place="supralinear"><abbr expan="what">wt</abbr> was due but </add><note n="TF"><abbr expan="Lord ">Ld</abbr> Fairfax</note> <lb/>said my <note target="n1">Lady</note> told him There was above 2 years Rent due  <lb/>His first payment <add place="supralinear">of 1907 pounds</add> wch he makes as paid by him to Lady Fairfax w<add resp="editor">[he]</add>n <lb/>he was in England was &pound;103 S1 P4 3/4 paid by Adamson for Mr. <note target="n2"><abbr expan="Thomas ">Tho: </abbr> <lb/>Lee</note> wch Voucher was mislaid therefore not then allowed but my <lb/>Ladys Receipt  for 100&pound; being found I for her allowed it to Mr <lb/>Lee <add place="supralinear">long before <sic corr="Jenings ">Jennings</sic> <add resp="editor">[ . . . ]</add> for the Estate </add>paid me part of the two years Arrears then due and <lb/>afterwards sold to <abbr expan="Colonel ">Coll</abbr> Jenings and this is the 100&pound; that <sic corr="Jenings ">Jennings</sic> charged me <lb/>wth that had never seen one penny of my Ladys money  suppose <lb/>any <abbr expan="account ">Act</abbr> whatsoever <add resp="editor">[ . . . ]</add> but this 103 must be allowed as only <lb/>as part of 2400&pound; and whatever vouchers he can produce <lb/>dated since must be also allowed and the Ballance we hope <lb/><sic corr="you'll ">you'l</sic> take all the care possible to get for us &amp; whatever <lb/><add place="supralinear">measures</add> you take to get it you have our Authority to Act as <lb/>you think fit. I am glad you will not be frightened wth the <lb/>threats of <note target="n3">Young Brent</note> &amp; Mother <add place="supralinear">nor any others</add>; but proceed to improve y<add resp="editor">[our]</add> <lb/>Estate to the utmost, I say yours because we have no <add resp="editor">[ . . . ]</add><lb/>design but that you shall have the Fruits of the improv<add resp="editor">[ments]</add> <lb/>but hope <sic corr="you'll">you'l</sic> allow us an <sic corr="equal ">equall</sic> share of it and we are <lb/>ready to Treat wth you for a farther Lease of w<add resp="editor">[ha]</add>t time you <lb/>shall propose.  I am sorry for the death of old <note n="MP">Mr. Perry</note> <lb/>but I think the <note n="MP2">young one</note> an honest Good man and he can <lb/>inform you we are not very pressing for money from <lb/>him not that we do it upon the Ac<add resp="editor">[coun]</add>t of the hard Bargain &amp; <lb/>dead time of Trade <add place="supralinear">you mention</add> but tht we know we are safe &amp; in the Hands <lb/>of a Man <add resp="editor">[ . . . ] </add>&amp; therefore shew it <add resp="editor">[ . . . ]</add> 
 
 <pb n="2"/><lb/><lb/>
-<add resp="editor">[...]</add> Is of every<add resp="editor">[t]</add>hing that rel<add resp="editor">[...]</add><lb/><add resp="editor">[...]</add> does promise these shall be nothing <add resp="editor">[...]</add> <lb/>our sides to support your pretentions but we are both Ignor<add resp="editor">[ant]</add> <lb/>how you proceed in y<add resp="editor">[ou]</add>r Court but if you send the Case <add resp="editor">[...]</add> <lb/>&amp; Atorney &amp; Solicitor general's Opinion <add place="supralinear">as was mentioned</add> to you <add place="supralinear">as soon <add resp="editor">[as you]</add></add>  can   I shall <lb/>be glad to hear from you and am </p>
+<add resp="editor">[ . . . ]</add> Is of every<add resp="editor">[t]</add>hing that rel<add resp="editor">[ . . . ]</add><lb/><add resp="editor">[ . . . ]</add> does promise these shall be nothing <add resp="editor">[ . . . ]</add> <lb/>our sides to support your pretentions but we are both Ignor<add resp="editor">[ant]</add> <lb/>how you proceed in y<add resp="editor">[ou]</add>r Court but if you send the Case <add resp="editor">[ . . . ]</add> <lb/>&amp; Atorney &amp; Solicitor general's Opinion <add place="supralinear">as was mentioned</add> to you <add place="supralinear">as soon <add resp="editor">[as you]</add></add>  can   I shall <lb/>be glad to hear from you and am </p>
 
-<closer>Sr <lb/>Your Most obliged and Obedient <lb/>humble Servt<lb/><lb/> W<add resp="editor">[illiam]</add> C<add resp="editor">[age]</add><lb/><lb/>
+<closer><abbr expan="Sir ">Sr </abbr> <lb/>Your Most obliged and Obedient <lb/>humble Servt<lb/><lb/> W<add resp="editor">[illiam]</add> C<add resp="editor">[age]</add><lb/><lb/>
 <seg type="postscript">My Lord Fairfax who I see but <lb/>seldom by reason of his small post <lb/><add resp="editor">[in]</add> the Army <add place="supralinear">desired me</add> to give you his humble service <lb/>and I beg mine to your <note n="JC1">Son</note> who I <lb/>hope got safe to you &amp; if any Favour is required from the <lb/>Board of Trade he has so good an <lb/>Interest there that he does not <add resp="editor">[expect?]</add> <lb/>but to be gratified in any rea<add resp="editor">[sonable]</add> <lb/>request</seg></closer>
 
 
@@ -134,19 +137,18 @@
 <div1 type="back matter">
 <head>NOTES</head>
 
-<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Fairfax Papers, Box 1, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. </note><lb/>
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Fairfax Papers, Box 1, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. </note><lb/><lb/>
 
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note><lb/>
+<note>This letter is a draft; the top of the sheet has been extensively damaged with much loss of text. A date is written in the margin apparently by Cage, probably at a later date; it reads "Febry. the 13th: 1711" with the last figure very faint.  The reference to the death of "old Mr. Perry" in the text means, however, that this draft cannot be earlier than 1721 October 1 when Micajah Perry, Sr., died. Louis Wright, in a list of the Fairfax Papers appended to his <title>Letters of Robert Carter</title> dates this draft as 1718. The Huntington Library's file folder, during the editor's visit there in 1983, bore the date 1723[/24].  However, by the way in which Cage refers to the death of Perry, it seems that the death was recent, and the draft has, accordingly, been dated 1722. (<cit><bibl n="B22">Price. <title>Perry of London. . . . </title>p. 26</bibl></cit>; and <cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> p. 109.</bibl></cit> )</note><lb/><lb/>
 
-<note>This letter is a draft; the top of the sheet has been extensively damaged with much loss of text. A date is written in the margin apparently by Cage, probably at a later date; it reads "Febry. the 13th: 1711" with the last figure very faint.  The reference to the death of "old Mr. Perry" in the text means, however, that this draft cannot be earlier than 1721 October 1 when Micajah Perry, Sr., died. Louis Wright, in a list of the Fairfax Papers appended to his <title>Letters of Robert Carter</title> dates this draft as 1718. The Huntington Library's file folder, during the editor's visit there in 1983, bore the date 1723[/24].  However, by the way in which Cage refers to the death of Perry, it seems that the death was recent, and the letter has, accordingly, been dated 1722. (<cit><bibl n="B22">Price. <title>Perry of London. . . . </title>p. 26</bibl></cit>; and <cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> p. 109.)</bibl></cit> </note><lb/>
+<note id="n1">[1] Fairfax refers to his mother, Catherine Culpeper, widow of the fifth Lord Fairfax (d. 1710); from her father, the 2nd Lord Culpeper, she had inherited about 1689 his five-sixths interest in the Northern Neck Proprietary in Virginia. When she died in 1719, she bequeathed her Virginia property to her young son Tom, and made Wiliam Cage and Edward Filmer trustees of the proprietary. Filmer soon died, and Cage, a kinsman of the 6th Lord Fairfax, became the sole trustee. From his grandmother, Margaret Lady Culpeper, the 6th Lord Fairfax inherited the other one-sixth of the Proprietary. </note><lb/><lb/>
 
-<note id="n1">[1] Fairfax refers to his mother, Catherine Culpeper, widow of the fifth Lord Fairfax (d. 1710); from her father, the 2nd Lord Culpeper, she had inherited about 1689 his five-sixths interest in the Northern Neck Proprietary in Virginia. When she died in 1719, she bequeathed her Virginia property to her young son Tom, and made Wiliam Cage and Edward Filmer, trustees of the proprietary. Filmer soon died, and Cage, a kinsman of the 6th Lord Fairfax, became the sole trustee. From his grandmother, Margaret Lady Culpeper, the 6th Lord Fairfax inherited the other one-sixth of the Proprietary. </note>
+<note id="n2">[2] Thomas Lee (1690-1750) of Westmoreland County was the son of Richard Lee II, and nephew of Edmund Jenings; he would build "Stratford," and succeed Carter on the Council. For a good article on Thomas Lee, see  <xref to="Ext4">that on Stratford plantation's website.</xref>   (<cit><bibl>Burton J. Hendrick. <title>The Lees of Virginia: Biography of a Family.</title> [Boston: Little Brown, 1935]. pp. 48, 51, etc.</bibl></cit>)</note>
+<lb/><lb/>
 
-<note id="n2">[2] Thomas Lee (1690-1750) was the son of Richard Lee II, and nephew of Edmund Jenings; he would build "Stratford," and succeed RC on the Council.</note>
+<note id="n3">[3] George Brent  inherited from his grandfather (George Brent [d. 1699], of "Woodstock," Stafford County, was the "resident partner in Virginia" for the development of the Brent Town grant by Nicholas Hayward) the family's claim to a portion of the Brent Town grant. </note><lb/><lb/>
 
-<note id="n3">[3] George Brent  inherited from his grandfather (George Brent [d. 1699], of "Woodstock," Stafford County, was the "resident partner in Virginia" for the development of the Brent Town grant by Nicholas Hayward) the family's claim to a portion of the Brent Town grant. </note>
-
-
+<lb/><lb/><note><hi rend="italics">This text revised July 23, 2009.</hi></note>
 
 </div1>
 </back>
