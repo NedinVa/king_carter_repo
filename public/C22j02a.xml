@@ -90,7 +90,7 @@
 <abbr>ALS</abbr>
 <extent>2 p.</extent>
 <date value="1722-10-02"></date>
-<idno rend="suppress">C22j02a</idno>
+<idno rend="suppress">C22j02a.xml</idno>
 <title>Letter from John Carter to William Cage, October 2, 1722</title>
 </bibl>
 </head>
@@ -113,12 +113,14 @@
 
 </opener>
 
-<p>The moment after I had <abbr expan="received">receiv'd</abbr> those Bills,<lb/>I gave You the trouble of a Letter to prevent any de<lb/>lay in the payment. It was not my fault that I had not<lb/>the honour of hearing from You before yesterday. As to<lb/>the Discharge You mention, I ought to think myself guilty<lb/>of some obscurity in my last Letter, or You somewhat unac-<lb/>quainted with business of this nature. The Protested Bills<lb/>were sent to Virginia, but by some misfortune were never<lb/>delivered to My Father or <abbr expan="Colonel">Coll.</abbr> Jenings; and the <abbr expan="Colonel">Coll.</abbr> might<lb/>well have refused to send any fresh Bills before the delivery<lb/>of the other, had he not depended on my Father's honour that<lb/>it should not turn to his Prejudice. You <add place="supralinear">may</add> well think My Father<lb/>has spared no pains in Your Affairs, since he has <sic corr="persuaded">perswaded</sic><lb/><abbr expan="Colonel">Coll.</abbr> Jenings to mortgage his land in order to raise these six<lb/>hundred Pounds, and if You are displeased with the Methods<lb/>He has made use of for Your Service, You will hardly be able<lb/>to think of any more proper. I must therefore beg of You, Sir, <lb/>not to think I trifle with You, if I assure You that I will absolute<lb/>ly refuse to deliver up these Bills 'till You have obliged Your-<lb/>self to indemnify <abbr expan="Colonel">Coll.</abbr> Jenings and my Father from those which
+<p>The moment after I had <abbr expan="received ">receiv'd</abbr> those Bills,<lb/>I gave You the trouble of <note target="n1">a Letter</note> to prevent any de<lb/>lay in the payment. It was not my fault that I had not<lb/>the honour of hearing from You before yesterday. As to<lb/>the Discharge You mention, I ought to think myself guilty<lb/>of some obscurity in my last Letter, or You somewhat unac-<lb/>quainted with business of this nature. The Protested Bills<lb/>were sent to Virginia, but by some misfortune were never<lb/>delivered to My Father or <abbr expan="Colonel ">Coll.</abbr> Jenings; and the <abbr expan="Colonel ">Coll.</abbr> might<lb/>well have refused to send any fresh Bills before the delivery<lb/>of the other, had he not depended on my Father's honour that<lb/>it should not turn to his Prejudice. You <add place="supralinear">may</add> well think My Father<lb/>has spared no pains in Your Affairs, since he has <sic corr="persuaded ">perswaded</sic><lb/><abbr expan="Colonel ">Coll.</abbr> Jenings to mortgage his land in order to raise these six<lb/>hundred Pounds, and if You are displeased with the Methods<lb/>He has made use of for Your Service, You will hardly be able<lb/>to think of any more proper. I must therefore beg of You, Sir, <lb/>not to think I trifle with You, if I assure You that I will absolute<lb/>ly refuse to deliver up these Bills <abbr expan="until ">'till </abbr> You have obliged Your-<lb/>self to indemnify <abbr expan="Colonel ">Coll.</abbr> Jenings and my Father from those which
 
 <pb n="2"/><lb/><lb/>
 were protested. I hope You will not take any thing ill that<lb/>I have said on this Occasion, having only obeyed my Orders<lb/>from Virginia.</p> 
 
-<closer>I am, Sir, Your most Obedient<lb/>Humble Servant<lb/><lb/><signed><hi rend="bold">JOHN CARTER</hi><lb/><lb/></signed><seg type="postscript">I should be glad to wait on<lb/>You before my going to Virginia,<lb/>which will be about the fifteenth <lb/>or sixteenth of this Month</seg></closer>
+<closer>I am, Sir, Your most Obedient<lb/>Humble Servant<lb/><lb/>
+<signed><hi rend="bold"><hi rend="italics">JOHN CARTER</hi></hi></signed><lb/><lb/>
+<seg type="postscript">I should be glad to wait on<lb/>You before my going to Virginia,<lb/>which will be about the fifteenth <lb/>or sixteenth of this Month</seg></closer>
 
 
 </div1>
@@ -132,9 +134,11 @@ were protested. I hope You will not take any thing ill that<lb/>I have said on t
 <div1 type="back matter">
 <head>NOTES</head>
 
-<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi>  Fairfax Papers, Box 1, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. This is the recipient's copy entirely in John Carter's hand, and bearing his signature.</note><lb/>
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi>  Fairfax Papers, Box 1, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. This is the recipient's copy entirely in John Carter's hand, and bearing his signature.</note><lb/><lb/>
 
+<note id="n1">[1] John Carter refers to his letter to Cage of <xref to="C22i20a.xml">22 September 1722.</xref></note><lb/><lb/>
 
+<lb/><lb/><note><hi rend="italics">This text revised August 4, 2009.</hi></note>
 
 
 
