@@ -92,7 +92,7 @@
 <abbr>AL</abbr>
 <extent>1 p.</extent>
 <date value="1729-06-29"></date>
-<idno rend="suppress">C23f29a</idno>
+<idno rend="suppress">C23f29a.xml</idno>
 <title>Letter from Robert Carter [and Mann Page] to William Dawkins,  June 29, 1723</title>
 </bibl>
 </head>
@@ -116,11 +116,11 @@ Mr. Wm. Dawkins<lb/>Dawkins [sic]<lb/>
 
 </opener>
 
-<p>By the <name type="ship">Bailey</name> Captain <note target="n1">Adam Graves</note> you had <add resp="editor">[a]</add> <lb/>Bill of <sic corr="lading">ladeing</sic> for 19 <abbr expan="hogsheads">hhds</abbr> of <note n="NB">Mr. Burwells</note> Tobo consign'd <add resp="editor">you</add> <lb/>in that <sic corr="ship">Shipt</sic> some of the Choicest of the Crops</p>
+<p>By the <name type="ship">Bailey</name> Captain <note target="n1">Adam Graves</note> you had <add resp="editor">[a]</add> <lb/>Bill of <sic corr="lading ">ladeing</sic> for 19 hhds of <note n="NB">Mr. Burwells</note> Tobo <abbr expan="consigned ">consign'd </abbr> <add resp="editor">[to you] </add> <lb/>in that <sic corr="ship ">Shipt</sic> some of the Choicest of the Crops</p>
 
-	<p>You have herewith a <sic corr="invoice">Invoyce</sic> for some goods <lb/><sic corr="chiefly">Cheifly</sic> for the Childrens supply  what you have sent <lb/>hitherto hath bin very well liked &amp; we hope you will Still  <lb/>be able to please they are to be sent into York river &amp; delivered <lb/>at <note n="ECB">Mrs. Burwells</note> Either in your own or in some other good forward Ship.</p>
+<p>You have herewith a <sic corr="invoice ">Invoyce</sic> for some goods <lb/><sic corr="chiefly ">Cheifly</sic> for the Childrens supply  what you have sent <lb/>hitherto <sic corr="has ">hath </sic> bin very well liked &amp; we hope you will Still  <lb/>be able to please they are to be sent into York river &amp; delivered <lb/>at <note n="ECB">Mrs. Burwells</note> Either in your own or in some other good forward Ship.</p>
  
-	<p><add place="supralinear">There is a bill of Exchang.</add>There is one bill of Exch. we have drawn <lb/>on you upon Account of that Estate <add place="supralinear">Yet to Advise you of&mdash;</add> To witt for &pound;14:<abbr expan="shillings">S</abbr>8:<abbr expan="pence">d</abbr>0 to <lb/><abbr expan="Colonel">Collo</abbr> <note n="HA">Henry Armistead</note> which we desire your <abbr expan="payment">paymt</abbr> <lb/>of we are </p>
+<p><add place="supralinear">There is a bill of <abbr expan="exchange ">Exchang. </abbr></add>There is one bill of <abbr expan="exchange ">Exch. </abbr> we have drawn <lb/>on you upon Account of that Estate <add place="supralinear">Yet to Advise you of&mdash;</add> To <sic corr="wit ">witt</sic> for &pound;14:<abbr expan="shillings ">S</abbr>8:<abbr expan="pence ">d</abbr>0 to <lb/><abbr expan="Colonel ">Collo</abbr> <note n="HA">Henry Armistead</note> which we desire your <abbr expan="payment ">paymt</abbr> <lb/>of we are </p>
 
 <closer>Your humble Servts </closer>
 
@@ -137,11 +137,13 @@ Mr. Wm. Dawkins<lb/>Dawkins [sic]<lb/>
 
 <note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1723 June 16-1724 April 23, Robert Carter Papers, (acc. no. 3807), Albert H. Small Special Collections Library, University of Virginia.  </note><lb/>
 
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity. Although the corner of the letter book page bearing the year in which this draft was written has been torn off, the letters preceding and following this draft were written in 1723 and that date is accordingly assigned to this one.</note><lb/>
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity. Although the corner of the letter book page bearing the year in which this draft was written has been torn off, the letters preceding and following this draft were written in 1723 and that date is accordingly assigned to this one.</note><lb/><lb/>
 
-<note>While the name of Mann Page does not appear on the draft, it was written as if by two persons, and because Carter and Page looked after the affairs of Carter's widowed daughter, Elizabeth Burwell, it is likely that Page joined in this letter.</note><lb/>
+<note>While the name of Mann Page does not appear on the draft, it was written as if by two persons, and because Carter and Page looked after the affairs of Carter's widowed daughter, Elizabeth Burwell, it is likely that Page joined in this letter.</note><lb/><lb/>
 
-<note id="n1">[1] Adam Graves, was a son of Captain Thomas Graves, long a captain of vessels trading to Virginia, and a special friend of Robert Carter's. Adam Graves commanded the Bailey in 1725-1727, a ship that belonged to London merchant William Dawkins. (<cit><bibl>Survey Report 6800, and Adm. 68/194-196 found in the microfilms of the Virginia Colonial Records Project, Albert H. Small Special Collections Library, University of Virginia</bibl></cit>)</note>
+<note id="n1">[1] Adam Graves, was a son of Captain Thomas Graves, long a captain of vessels trading to Virginia, and a special friend of Robert Carter's. Adam Graves commanded the Bailey in 1725-1727, a ship that belonged to London merchant William Dawkins. (<cit><bibl>Survey Report 6800, and Adm. 68/194-196 found in the microfilms of the Virginia Colonial Records Project, Albert H. Small Special Collections Library, University of Virginia</bibl></cit>)</note><lb/><lb/>
+
+<lb/><lb/><note><hi rend="italics">This text revised August 14, 2009.</hi></note>
 
 
 </div1>

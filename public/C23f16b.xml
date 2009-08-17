@@ -106,22 +106,20 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Wmsburgh. [James City County, Virginia]</name><lb/>
+<name type="place">Wmsburgh. <add resp="editor">[James City County, Virginia]</add></name><lb/>
 <date value="1723-06-16">June. 16th. 1723</date><lb/>
 Mr. Micajh. Perry<lb/>
 </dateline>
 
 </opener>
 
-<p>This Serves only to accompany a bill of lading <lb/>for 13 <abbr expan="hogsheads">hhds</abbr> of <del>sweet</del> <add place="supralinear">fine</add> <abbr expan="stemmed">Stemd</abbr> Tobo on board <note target="n1"><abbr expan="Captain">Capt</abbr> Bradley</note> mark <lb/>AB made at a plantation of which <note n="NB">Mr Burwell</note> had the Profit <lb/>dureing his Life &amp; was as reputable a crop as any he <sic corr="shipped">shipd</sic> to <lb/>You and sold as well &amp; I doubt not will appear to be as good now <lb/>I have seen some of it myself &amp; deserves as good a Character as <lb/>any I have seen among his plan<add resp="editor">[tation]</add>s this crop <sic corr="does">dos</sic> not belong to the <lb/>Estate of Major Burwell the lands are mine &amp; so are the Slav<add place="supralinear">es</add> <lb/>&amp; every thing Else I purchased it to give my <note n="ECB">Daughter Burwell</note> <lb/>the Profitts of it <sic corr="during">dureing</sic> her life &amp; afterwards to settle the <lb/>Inheritance upon one of Mr Burwells sons by her <del>by her</del><lb/>she consents that this crop now going home The Produce of it should <lb/>go into the bulk of the Crops and I consign it to you as her father <lb/>&amp; her Childrens Guardian I tell you this <sic corr="story">Storey</sic> that you s<add resp="editor">[end]</add> <lb/>me a distinct <abbr expan="account">Acct</abbr> of this crop it is under the Mark it always <lb/>has bin &amp; the C in the Middle of it put in for the Sake of my name</p>
+<p>This Serves only to accompany a bill of lading <lb/>for 13 hhds of <del>sweet</del> <add place="supralinear">fine</add> <abbr expan="stemmed ">Stemd</abbr> Tobo on board <note target="n1"><abbr expan="Captain ">Capt</abbr> Bradley</note> mark <lb/>AB made at a plantation of which <note n="NB">Mr Burwell</note> had the Profit <lb/>dureing his Life &amp; was as reputable a crop as any he <sic corr="shipped ">shipd</sic> to <lb/>You and sold as well &amp; I doubt not will appear to be as good now <lb/>I have seen some of it myself &amp; deserves as good a Character as <lb/>any I have seen among his plan<add resp="editor">[tations] </add>s this crop <sic corr="does ">dos</sic> not belong to the <lb/>Estate of Major Burwell the lands are mine &amp; so are the Slav<add place="supralinear">es</add> <lb/>&amp; every thing Else I purchased it to give my <note n="ECB">Daughter Burwell</note> <lb/>the <sic corr="profits ">Profitts</sic> of it <sic corr="during ">dureing</sic> her life &amp; afterwards to settle the <lb/>Inheritance upon one of Mr Burwells sons by her <del>by her</del><lb/>she consents that this crop now going home The Produce of it should <lb/>go into the bulk of the Crops and I consign it to you as her father <lb/>&amp; her Childrens Guardian I tell you this <sic corr="story ">Storey</sic> that you s<add resp="editor">[end]</add> <lb/>me a distinct <abbr expan="account">Acct</abbr> of this crop it is under the Mark it always <lb/>has bin &amp; the C in the Middle of it put in for the Sake of my name</p>
  
-	<p>I also here in send you 10 <abbr expan="hogsheads">hhds</abbr>
- of my own Tobo 6 <lb/>of them are a <sic corr="particular">Pticular</sic> crop which I <sic corr="overhauled">overhalld</sic>  myself &amp; pleased <lb/>me as well as any I have seen this year the other 4 are under diff<lb/>erent Marks but by by <add resp="editor"> [<hi rend="italics">sic</hi>]</add> mistake are Stemd Strait laid Tobo. <lb/>likewise these 10 <abbr expan="hogsheads">hhds</abbr>
- I let Capt Bradley have when he was <lb/>under doubts of not getting Near his load in Service to his&mdash;Concern</p>
+<p>I also here in send you 10 hhds  of my own Tobo 6 <lb/>of them are a <sic corr="particular ">Pticular</sic> crop which I <sic corr="overhauled ">overhalld</sic>  myself &amp; pleased <lb/>me as well as any I have seen this year the other 4 are under diff<lb/>erent Marks but by by <add resp="editor"> [<hi rend="italics">sic</hi>]</add> mistake are <abbr expan="stemmed ">Stemd</abbr> Strait laid Tobo. <lb/>likewise these 10 hhds I let Capt Bradley have when he was <lb/>under doubts of not getting Near his load in Service to his&mdash;Concern</p>
 
-<p>Some drafts upon you by <note n="MP1">Coll. Page</note> &amp; myself more <lb/>then what you are yet advised of I shall mention to you here  </p>
+<p>Some drafts upon you by <note n="MP1"><abbr expan="Colonel ">Coll.</abbr> Page</note> &amp; myself more <lb/><sic corr="than">then </sic> what you are yet advised of I shall mention to you here  </p>
 
-<closer><seg type="postscript"></seg></closer>
+
 
 
 </div1>
@@ -135,14 +133,14 @@ Mr. Micajh. Perry<lb/>
 <div1 type="back matter">
 <head>NOTES</head>
 
-<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi>  Robert Carter letter book, 1723 June 16-1724 April 23, Carter Papers (acc. no. 3807), Albert H. Small Special Collections Library, University of Virginia.</note><lb/>
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi>  Robert Carter letter book, 1723 June 16-1724 April 23, Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note><lb/><lb/>
 
-<note>Robert Carter writes from the colonial capitol, Williamsburg. The county and state have been added for clarity.</note><lb/>
+<note>Robert Carter writes from the colonial capitol, Williamsburg. The county and colony have been added for clarity.</note><lb/>
 
 <note id="n1">[1] The <hi rend="italics">Micajah &amp; Philip </hi>was a large vessel of some 400 tons carrying a crew of 27. The captain's name varies from record to record as James Bradley or James Bradby. Thomas Jones wrote to his wife, then in England, concerning this ship in 1728, "The Micajah &amp; Philip that comes to James River is as good as the best Ships that Comes hither, but Bradby the master seems to be a little conceited and prodigal." (<cit><bibl>Adm. 68/194-196, found in the microfilms of the Virginia Colonial Records Project, Albert H. Small Special Collections Library, University of Virginia</bibl></cit>; and <cit><bibl><title>Virginia Magazine of History and Biography.</title> 26[1918]: 172, abstracting the Jones Papers at the Library of Congress.)</bibl></cit></note>
+<lb/>
 
-
-
+<lb/><lb/><note><hi rend="italics">This text revised August 6, 2009.</hi></note>
 
 
 </div1>

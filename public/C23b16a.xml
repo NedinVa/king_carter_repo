@@ -90,7 +90,7 @@
 <abbr>AL</abbr>
 <extent>1 p.</extent>
 <date value="1723-02-16"></date>
-<idno rend="suppress">C23b16a</idno>
+<idno rend="suppress">C23b16a.xml</idno>
 <title>Letter from Robert Carter to the Northern Neck Militia Officers, February 16, 1723</title>
 </bibl>
 </head>
@@ -106,15 +106,15 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place"><add resp="editor">Corotoman,</add> Lancaster County, <add resp="editor">Virginia</add></name><lb/>
-<date value="1723-02-16">Feby the 16th 1723</date><lb/>
+General Order<lb/><corr resp="editor">[Corotoman,] </corr>  Lancaster County,<name type="place"><add resp="editor"> <corr resp="editor">[Virginia]</corr> </add></name> Feby the 16th 1723<lb/>
+<date value="1723-02-16"></date><lb/>
 <lb/>
 </dateline>
 <salute>Sir,</salute>
 
 </opener>
 
-<p>The Governor having been pleased<lb/>to honour me with his Commission<lb/>to be <abbr expan="Colonel">Coln</abbr> &amp; <abbr expan="Lieutenant">Lieut:</abbr> of the several<lb/>counties of the Northern Neck and <lb/>having lately sent me his order to<lb/>cause the late Law for the regula=<lb/>=tion of the Militia forthwith to<lb/>be put in Execution, I do therefore<lb/>herewith send to you a copoy of the<lb/>said order hereby giving you directi=<lb/>=ons with the greatest expedition<lb/>to comply with the same in all<lb/>its parts and to return to me lists<lb/>of all the Militia under your<lb/>command according to the <add resp="editor">[...]</add><lb/>scheme to the end I may be able<lb/>to transmit the same to the Governor<lb/>in obedience to his Precept</p>
+<p>The Governor having been pleased<lb/>to honour me with his Commission<lb/>to be <abbr expan="Colonel ">Coln</abbr> &amp; <abbr expan="Lieutenant ">Lieut:</abbr> of the several<lb/>counties of the Northern Neck and <lb/>having lately sent me his order to<lb/>cause the late Law for the regula=<lb/>=tion of the Militia forthwith to<lb/>be put in Execution, I do therefore<lb/>herewith send to you a copy of the<lb/>said order hereby giving you directi=<lb/>=ons with the greatest expedition<lb/>to comply with the same in all<lb/>its parts and to return to me lists<lb/>of all the Militia under your<lb/>command according to the <unclear>[ . . . ]</unclear><lb/>scheme to the end I may be able<lb/>to transmit the same to the Governor<lb/>in obedience to his Precept</p>
 
 
 <closer>I am, Sir, your most<lb/>humble servant
@@ -132,12 +132,11 @@
 <div1 type="back matter">
 <head>NOTES</head>
 
-<note><hi rend="italics"><hi rend="bold">Source copy consulted:  </hi> </hi> Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia. These texts are all nineteenth-century copies. Apparently there was in existence a letter book of Robert Carter's&mdash;now lost&mdash;from which the unknown copyist recorded these texts. As they are the only texts, the punctuation and "corrections" obviously supplied by the copyist have been retained. </note>
-<lb/>
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:  </hi> </hi> Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia. These texts are all nineteenth-century copies. Apparently there was in existence a letter book of Robert Carter's&mdash;now lost&mdash;from which the unknown copyist recorded these texts. As they are the only texts, the punctuation and "corrections" obviously supplied by the copyist have been retained. </note><lb/><lb/>
 
-<note>The name of Robert Carter's  home and colony have been added for clarity to the draft letter.</note><lb/>
+<note>The names of Robert Carter's  home and colony have been added for clarity to the draft letter.</note><lb/><lb/>
 
-
+<lb/><lb/><note><hi rend="italics">This text revised August 6, 2009.</hi></note>
 
 
 </div1>

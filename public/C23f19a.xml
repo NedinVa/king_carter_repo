@@ -48,7 +48,7 @@
      <title>Letter from Robert Carter to William Dawkins, June 19, 1723</title>
      <author>Robert Carter</author>
 </titleStmt>
-    <extent> p.</extent>
+    <extent>1 p.</extent>
 <publicationStmt>
      <date></date>
    <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert H. Small Special Collections Library, University of Virginia.</idno>
@@ -114,13 +114,11 @@ Wm. Dawkins<lb/>
 
 </opener>
 
-<p>My last advised you <note n="MP1"><abbr expan="Colonel">Coll</abbr> Page </note> &amp; myself had <lb/>drawn upon you for &pound;70 to John Sutton to be paid on Acct of that <lb/><note target="n1">Estate </note>we have since drawn on you upon the Same <abbr expan="account">acct</abbr> for &pound;50 to <lb/><note target="n2">John Lewis</note> <abbr expan="Esquire">Esqr</abbr> for &pound;6 to <note n="JH">John Holloway</note> for &pound;5 to <note n="JC3">John Clayton</note> <lb/>which we desire you to pay also there is Nineteen <abbr expan="hogsheads">hhds</abbr> of Tobo <lb/>of that Estates on board of <note target="n3">Adam Graves</note> the <name type="ship">baily</name> committed to <lb/>your care <abbr expan="Colonel">Coll</abbr> Page hath sent the bill of <sic corr="lading">ladeing</sic></p>
+<p>My last advised you <note n="MP1"><abbr expan="Colonel ">Coll</abbr> Page </note> &amp; myself had <lb/>drawn upon you for &pound;70 to John Sutton to be paid on <abbr expan="account ">Acct </abbr> of that <lb/><note target="n1">Estate </note>we have since drawn on you upon the Same <abbr expan="account ">acct</abbr> for &pound;50 to <lb/><note target="n2">John Lewis</note> <abbr expan="Esquire ">Esqr</abbr> for &pound;6 to <note n="JH">John Holloway</note> for &pound;5 to <note n="JC3">John Clayton</note> <lb/>which we desire you to pay also there is Nineteen hhds of Tobo <lb/>of that Estates on board of <note target="n3">Adam Graves</note> the <name type="ship">baily</name> committed to <lb/>your care <abbr expan="Colonel ">Coll</abbr> Page <sic corr="has ">hath </sic> sent the bill of <sic corr="lading">ladeing</sic></p>
 
-<p>I have drawn upon you for &pound;3:10<abbr expan="shillings">S</abbr>
- upon my own <lb/><abbr expan="account">acct</abbr> payable to  the aforesaid Clayton</p> 
+<p>I have drawn upon you for &pound;3:10<abbr expan="shillings ">S</abbr>  upon my own <lb/><abbr expan="account">acct</abbr> payable to  the aforesaid Clayton</p> 
 
-	<p>herein I send you a bill of lading for 20 <abbr expan="hogsheads">hhds</abbr>
- of <lb/>my own  Tobo on board the baily which I <sic corr="shipped">shipt</sic> in Service to <abbr expan="your">yr.</abbr> <lb/>concern when Adam <add resp="editor">[Graves]</add> was out of all hopes of getting his load <lb/>it is all <abbr expan="stemmed">stemd</abbr> &amp; Straight laid made at some of my best <lb/>plantations &amp; managed with nicest care &amp; yet perhaps you are <lb/>got into such a road of complaining you will Exercise your <lb/>bileing still in giveing it a mean Character I am leaving <lb/>this place in a few days shall say no more at Present 
+<p>herein I send you a bill of lading for 20 <abbr expan="hogsheads">hhds</abbr>  of <lb/>my own  Tobo on board the baily which I <sic corr="shipped ">shipt</sic> in Service to <abbr expan="your ">yr.</abbr> <lb/>concern when Adam <add resp="editor">[Graves] </add> was out of all hopes of getting his load <lb/>it is all <abbr expan="stemmed ">stemd</abbr> &amp; Straight laid made at some of my best <lb/>plantations &amp; managed with nicest care &amp; yet perhaps you are <lb/>got into such a road of complaining you will Exercise your <lb/>bileing still in giveing it a mean Character I am leaving <lb/>this place in a few days shall say no more at Present 
 </p>
 
 <closer><seg type="postscript">Per the Baily </seg></closer>
@@ -139,15 +137,15 @@ Wm. Dawkins<lb/>
 
 <note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1723 June 16-1724 April 23, Robert Carter Papers, (acc. no. 3807), Albert H. Small Special Collections Library, University of Virginia.  </note><lb/>
 
-<note>Robert Carter writes from Williamsburg, the colonial capital of Virginia, where he has been attending a meeting of the Assembly. The county and state have been added for clarity.</note><lb/>
+<note>Robert Carter writes from Williamsburg, the colonial capital of Virginia, where he has been attending a meeting of the Assembly. The county and colony  have been added for clarity.</note><lb/><lb/>
 
-<note id="n1">[1] Carter refers to the estate of his deceased so-in-law, Nathaniel Burwell (d. 1721).</note>
+<note id="n1">[1] Carter refers to the estate of his deceased so-in-law, Nathaniel Burwell (d. 1721).</note><lb/><lb/>
 
-<note id="n2">[2] John Lewis (1669-1725) of "Warner Hall," Gloucester County, had been a member of the Council since 1704. (<cit><bibl>Louis B. Wright and Marion Tinling, <title>William Byrd of Virginia: The London Diary 1717-1721 and Other Writings. [New York: Oxford University Pres, 1958]. p. 458 </title></bibl></cit>)</note>
+<note id="n2">[2] John Lewis (1669-1725) of "Warner Hall," Gloucester County, had been a member of the Council since 1704. (<cit><bibl>Louis B. Wright and Marion Tinling, <title>William Byrd of Virginia: The London Diary 1717-1721 and Other Writings. [New York: Oxford University Pres, 1958]. p. 458 </title></bibl></cit>)</note><lb/><lb/>
 
-<note id="n3">[3] Adam Graves, was a son of Captain Thomas Graves, long a captain of vessels trading to Virginia, and a special friend of Robert Carter's. Adam Graves commanded the Bailey in 1725-1727, a ship that belonged to London merchant William Dawkins. (<cit><bibl>Survey Report 6800, and Adm. 68/194-196 found in the microfilms of the Virginia Colonial Records Project, Albert H. Small Special Collections Library, University of Virginia</bibl></cit>)</note>
+<note id="n3">[3] Adam Graves, was a son of Captain Thomas Graves, long a captain of vessels trading to Virginia, and a special friend of Robert Carter's. Adam Graves commanded the Bailey in 1725-1727, a ship that belonged to London merchant William Dawkins. (<cit><bibl>Survey Report 6800, and Adm. 68/194-196 found in the microfilms of the Virginia Colonial Records Project, Albert H. Small Special Collections Library, University of Virginia</bibl></cit>)</note><lb/>
 
-
+<lb/><lb/><note><hi rend="italics">This text revised August 6, 2009.</hi></note>
 
 
 </div1>

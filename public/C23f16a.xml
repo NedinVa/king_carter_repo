@@ -94,7 +94,7 @@
 <title>Letter from Robert Carter to William Dawkins, June 16, 1723</title>
 </bibl>
 </head>
-<p>Robert Carter writes to London merchant William Dawkins, June 16, 1723, reporting bill of exchange he and his son-in-law, Mann Page, have drawn on Dawkins on the account of the estate of another son-in-law, Nathaniel Burwell. He also reports that Captain Adam Graves will be sailing down the York River from West Point and will call at the Burwell's to take on tobacco from the estate. Graves has on board some of Carter's tobacco as well.</p>
+<p>Robert Carter writes to London merchant William Dawkins, June 16, 1723, reporting bills of exchange he and his son-in-law, Mann Page, have drawn on Dawkins on the account of the estate of another son-in-law, Nathaniel Burwell. He also reports that Captain Adam Graves will be sailing down the York River from West Point and will call at the Burwell's to take on tobacco from the estate. Graves has on board some of Carter's tobacco as well.</p>
 </div1>                 
 </front>
 
@@ -106,7 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">York river</name><lb/>
+<name type="place">York river, <corr resp="editor">[Virginia]</corr> </name><lb/>
 <date value="1723-06-16">June 16 [1723]</date><lb/>
 Mr. Wm. Dawkins<lb/>
 </dateline>
@@ -114,9 +114,9 @@ Mr. Wm. Dawkins<lb/>
 
 </opener>
 
-<p>The 4th Instant I advised you <note n="MP1">Coll. Page</note> &amp; <lb/>myself had drawn on you upon Accts of <note n="NB">Major Burwell's</note> <lb/>Estate for &pound;70 payable to John Sutton this is to Acquaint <lb/>You we have since drawn on you upon <abbr expan="account">Acct</abbr> of that Estate <lb/>for &pound;50 payable to John Lewiss Esqr. &amp;c this day both wch. <lb/>Sums we desire you to pay and place to the <abbr expan="account">Acct</abbr> of tht. Estate</p>
+<p>The 4th Instant I advised you <note n="MP1"><abbr expan="Colonel ">Coll.</abbr> Page</note> &amp; <lb/>myself had drawn on you upon <abbr expan="aaccounts ">Accts  </abbr>of <note n="NB">Major Burwell's</note> <lb/>Estate for &pound;70 payable to John Sutton this is to Acquaint <lb/>You we have since drawn on you upon <abbr expan="account ">Acct</abbr> of that Estate <lb/>for &pound;50 payable to <note target="n1">John <sic corr="Lewis ">Lewiss</sic></note> <abbr expan="Esquire ">Esqr. </abbr>&amp;c this day both wch. <lb/>Sums we desire you to pay and place to the <abbr expan="account ">Acct</abbr> of tht. Estate</p>
  
-	<p><note target="n1">Adam Graves</note> I hear is coming down from&mdash; <lb/><note target="n2">West Point</note> he calls <abbr expan="against">agst.</abbr> Mr. Burwells to take in 20 <abbr expan="hogsheads">hhds</abbr> <lb/>of the Estates Tobo. which I suppose fills him he hath also 20 <lb/><abbr expan="hogsheads">hhds</abbr> of my own Tobo. being the Needfull at Present from</p> 
+<p><note target="n2">Adam Graves</note> I hear is coming down from&mdash; <lb/><note target="n3">West Point</note> he calls <abbr expan="against ">agst.</abbr> Mr. Burwells to take in 20 hhds <lb/>of the Estates Tobo. which I suppose fills him he <sic corr="has ">hath </sic> also 20 <lb/>hhds of my own Tobo. being the Needfull at Present from</p> 
 
 <closer>Yor. humble Servt<lb/><lb/>
 <seg type="postscript">per the Burwell  </seg></closer>
@@ -133,13 +133,17 @@ Mr. Wm. Dawkins<lb/>
 <div1 type="back matter">
 <head>NOTES</head>
 
-<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1723 June 16-1724 April 23, Robert Carter Papers (acc. no. 3807), Albert H. Small Special Collections Library, University of Virginia.  </note><lb/>
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1723 June 16-1724 April 23, Robert Carter Papers (acc. no. 3807), Albert H. Small Special Collections Library, University of Virginia.  </note><lb/><lb/>
 
-<note>Carter probably was visiting the home of his widowed daughter, Elizabeth Burwell, at "Carter's Creek," Gloucester County, which lies on the York River.</note><lb/>
+<note>Carter probably was visiting the home of his widowed daughter, Elizabeth Burwell, at "Carter's Creek," Gloucester County, which lies on the York River.</note><lb/><lb/>
 
-<note id="n1">[1] Adam  Graves was a son of Captain Thomas Graves, long a captain of vessels trading to Virginia, and a special friend of Carter's; he also commanded vessels in the trade. </note>
+<note id="n1">[1] John Lewis (1669-1725) of "Warner Hall," Gloucester County, had been a member of the Council since 1704. (<cit><bibl>Louis B. Wright and Marion Tinling, <title>William Byrd of Virginia: The London Diary 1717-1721 and Other Writings. [New York: Oxford University Pres, 1958]. p. 458 </title></bibl></cit>)</note><lb/><lb/>
 
-<note id="n2">[2] West Point, located on the point where the Mattaponi and Pamunkey rivers converge to form the York, was also called Delaware, and appears on the Fry-Jefferson map under that name. (<cit><bibl>John W. Reps, <title>Tidewater Towns: City Planning in Colonial Virginia and Maryland.</title> Williamsburg,VA: The Colonial Williamsburg Foundation, 1972. p. 79.</bibl></cit>)</note>
+<note id="n2">[2] Adam  Graves was a son of Captain Thomas Graves, long a captain of vessels trading to Virginia, and a special friend of Carter's; he also commanded vessels in the trade. </note><lb/><lb/>
+
+<note id="n3">[3] West Point, located on the point where the Mattaponi and Pamunkey rivers converge to form the York, was also called Delaware, and appears on the Fry-Jefferson map under that name. (<cit><bibl>John W. Reps, <title>Tidewater Towns: City Planning in Colonial Virginia and Maryland.</title> Williamsburg,VA: The Colonial Williamsburg Foundation, 1972. p. 79.</bibl></cit>)</note><lb/><lb/>
+
+<lb/><lb/><note><hi rend="italics">This text revised August 6, 2009.</hi></note>
 
 
 </div1>
