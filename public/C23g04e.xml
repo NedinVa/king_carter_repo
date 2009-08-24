@@ -10,7 +10,15 @@
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; 
+
+<!NOTATION html SYSTEM "HTML">
+<!ENTITY Ext6 SYSTEM "http://www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm" NDATA html>
+
+
+<!ENTITY Ext7 SYSTEM "http://www.next1000.com\/family\/EC\/tarpley.johnI.html" NDATA html>
+
+]>
 <TEI.2 id="C23g04e">
 
 
@@ -95,7 +103,7 @@
 </bibl>
 </head>
 <p>Robert Carter writes to London merchant Micajah Perry, July 4 and 26, 1723, to give him the details of how he intends to pay his current obligation of one-half of Perry's advancement of &pound;1,500 for the purchase of the post of secretary of state of the colony for Carter's son John.<lb/><lb/>
-<hi rend="italics">This letter was revised 3 April 2002 to add the post script.</hi>
+
 </p>
 </div1>                 
 </front>
@@ -116,25 +124,24 @@ Mr Micaja Perry<lb/><lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 </opener>
 
-<p>In a former letter I promised <add place="supralinear">you</add> to be <note n="JC1">my <lb/>Sons</note> Security for the fifteen hundred pounds you advanced <lb/>in his behalf for his Secretarys Commission and undertook <lb/>to pay you the Money in Two Years, the one half by this <lb/>Shipping the other half per the next, I now come to f<add resp="editor">[ill]</add> <lb/>that Engagement in order thereto<lb/>
+<p>In a former letter I promised <add place="supralinear">you</add> to be <note n="JC1">my <lb/>Sons</note> Security for the fifteen hundred pounds you advanced <lb/>in his behalf for his Secretarys Commission and undertook <lb/>to pay you the Money in Two Years, the one half by this <lb/>Shipping the other half per the next, I now come to f<add resp="editor">[ulfill]</add> <lb/>that Engagement in order thereto<lb/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Turn Over</p>
 
 <pb n="2"/><lb/><lb/>
-<p>Herein I send you a bill of Exchange upon <note n="WD">Mr. <lb/>Dawkins</note> for 200&pound; one <abbr expan="ditto">Do</abbr> upon Mr. Stark of <sic corr="Glasgow">Glassgow</sic> <lb/>for 100&pound; These my own bills Mr. <note target="n1">Charles Grimes</note> bill on <lb/>yourself for 78&pound; and Mr. <note n="JG2">John Grimes</note> Ditto for 30&pound; 17<abbr expan="shillings">S</abbr>: 2<abbr expan="pence">d,</abbr> <lb/>The 4th of <sic corr="April">Aprill</sic> last I sent you a bill of <abbr expan="John">Jno</abbr> Tarpley on <lb/>William Western of <name type="place">Pool</name> for 110&pound;: 1s: 11d, Amounting in all to <lb/>Five hundred Eighteen pound Nineteen Shillings and one <lb/>penny what of this money will not be paid and what <lb/>remains after to make up the Entire sum of Seven hundred <lb/>and fifty pounds you are to make me  <sic corr="debtor">debter</sic> for in my <lb/>Accot: <sic corr="current">Currant</sic> I have already told you I wll pay no <lb/>Interest for this Money nor shall my Son either for reasons <lb/>I know you will not pretend to answer</p>
+<p>Herein I send you a <note target="n1">bill of Exchange</note> upon <note n="WD">Mr. <lb/>Dawkins</note> for 200&pound; one <abbr expan="ditto">Do</abbr> upon Mr. Stark of <sic corr="Glasgow "><name type="city">Glassgow</name></sic> <lb/>for 100&pound; These my own bills Mr. <note target="n2">Charles Grimes</note> bill on <lb/>yourself for 78&pound; and Mr. <note n="JG2">John Grimes</note> Ditto for 30&pound; 17<abbr expan="shillings ">S</abbr>: 2<abbr expan="pence ">d,</abbr> <lb/>The 4th of <sic corr="April">Aprill</sic> last I sent you a bill of <note target="n3"><abbr expan="John ">Jno</abbr> Tarpley</note> on <lb/>William Western of <name type="place">Pool</name> for 110&pound;: 1s: 11d, Amounting in all to <lb/>Five hundred Eighteen pound Nineteen Shillings and one <lb/>penny what of this money will not be paid and what <lb/>remains after to make up the Entire sum of Seven hundred <lb/>and fifty pounds you are to make me  <sic corr="debtor ">debter</sic> for in my <lb/>Accot: <sic corr="current">Currant</sic> I have already told you I wll pay no <lb/>Interest for this Money nor shall my Son either for reasons <lb/>I know you will not pretend to answer</p>
 
-<p>Mr Stark hath promised to pay my Money in <lb/>London without any <sic corr="discount">discompt</sic> for Exchange the Inclosed <lb/>Lettr to him is to that purpose however I undertake <lb/>to bear the charge of making <add place="supralinear">it</add> <abbr expan="London">Londo.</abbr>
- Money I shall mix <lb/>no other Affair with this but Conclude <abbr expan="Sir">Sr</abbr>
+<p>Mr Stark <sic corr="has ">hath </sic> promised to pay my Money in <lb/><name type="city">London</name> without any <sic corr="discount ">discompt</sic> for Exchange the Inclosed <lb/>Lettr to him is to that purpose however I undertake <lb/>to bear the charge of making <add place="supralinear">it</add> <abbr expan="London ">Londo.</abbr>  Money I shall mix <lb/>no other Affair with this but Conclude <abbr expan="Sir ">Sr</abbr>
   
 </p>
 
 <closer>Your humble Servt.<lb/><lb/>
 <seg type="postscript">A Clause to be added to the Lettr. <lb/>9 Leaves forward<lb/><lb/><add place="marginleft">A Clause to be added to the Lettr. 10 <abbr expan="leaves">Leavs.</abbr> forward</add><lb/><lb/>
 
-A clause to be added to Mr. Perrys Lettr. <abbr expan="about">abt.</abbr> bills of <abbr expan="exchange">Exche.</abbr><lb/>
+A clause to be added to Mr. Perrys Lettr. <abbr expan="about ">abt.</abbr> bills of <abbr expan="exchange ">Exche.</abbr><lb/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;July 26. 1723&mdash;<lb/><lb/>
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Herein are second bills of <abbr expan="exchange">Exche.</abbr> of those went <lb/>by the <name type="ship">Carter</name> as above Also two firsts one for &pound;35 on Yor. <lb/>Self By <abbr expan="Robert ">Robt.</abbr> Carter, <add place="supralinear"><abbr expan="Esquire">Esq</abbr></add>, the other for &pound;6"1"0" on <abbr expan="William">Wm.</abbr> Anderson <lb/>of Glasgow by James Buchanan, which I desire <abbr expan="credit">Credt. </abbr><lb/>for,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Herein are second bills of <abbr expan="exchange ">Exche.</abbr> of those went <lb/>by the <name type="ship">Carter</name> as above Also two firsts one for &pound;35 on Yor. <lb/>Self By <note n="RC2"><abbr expan="Robert ">Robt.</abbr> Carter,</note> <add place="supralinear"><abbr expan="Esquire ">Esq</abbr></add>, the other for &pound;6"1"0" on <abbr expan="William ">Wm.</abbr> Anderson <lb/>of Glasgow by James Buchanan, which I desire <abbr expan="credit ">Credt. </abbr><lb/>for,
 
 </seg></closer>
 
@@ -152,11 +159,16 @@ A clause to be added to Mr. Perrys Lettr. <abbr expan="about">abt.</abbr> bills 
 
 <note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1723 July 4 -1724 June 11, Carter Family Papers, Virginia Historical Society, Richmond. There is a 19th-century transcript in the Minor Papers in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, VA.</note><lb/>
 
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. His usual return address, the county, and state have been added for clarity to this unheaded draft.</note><lb/>
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. His usual return address, the county, and colony have been added for clarity to this unheaded draft.</note><lb/>
 
-<note id="n1">[1] Charles Grymes (c. 1692-1743) was the son of John Grymes of Middlesex County, but lived at "Morratico," Richmond County where he was sheriff, burgess, etc. (<cit><bibl>"The Grymes Family." <title>Virginia Magazine of History and Biography</title>. 28[1920]: 90-96, 187-94, 283-85, 374-75.</bibl></cit> and <bibl n="B31">Ryland. <title>Richmond County Virginia. . . . </title> pp. 500, 504, 514.</bibl></note>
+<note id="n1"> [1] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (<cit><bibl><xref to="Ext6">"Dictionary of  Financial Scam Terms."</xref> http://www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm. 8/22/2005</bibl></cit>)</note><lb/>
+
+<note id="n2">[2] Charles Grymes (c. 1692-1743) was the son of John Grymes of Middlesex County, but lived at "Morratico," Richmond County where he was sheriff, burgess, etc. (<cit><bibl>"The Grymes Family." <title>Virginia Magazine of History and Biography</title>. 28[1920]: 90-96, 187-94, 283-85, 374-75.</bibl></cit> and <bibl n="B31">Ryland. <title>Richmond County Virginia. . . . </title> pp. 500, 504, 514.</bibl></note><lb/>
+
+<note id="n3">[3] John Tarpley (1661-ca. 1739) was sheriff and a justice of  the peace in Richmond County. (<cit><bibl><xref to="Ext7">"Capt. John Tarpley I Family,"</xref>, http://www.next1000.com\/family\/EC\/tarpley.johnI.html. 8/24/2009</bibl></cit>)</note><lb/>
 
 
+<hi rend="italics">This letter was revised April  3, 2002 to add the post script, and again August 24, 2009.</hi>
 
 </div1>
 </back>
