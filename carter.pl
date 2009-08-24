@@ -402,6 +402,9 @@ $a =~ s/<xref to="Ext2">/<a href="http:\/\/www.angelfire.com\/journal\/millresto
 $a =~ s/<xref to="Ext3">/<a href="http:\/\/www.bodley.ox.ac.uk\/cgi-bin\/ilej\/image1.pl?item=page&seq=1&size=1&id=gm.1732.11.x.2.x.x.1082">/g;
 $a =~ s/<xref to="Ext4">/<a href="http:\/\/www.stratfordhall.org\/learn\/lees\/thomaslee.php">/g;
 $a =~ s/<xref to="Ext5">/<a href="http:\/\/xpda.com\/family\/default.htm?page=Fauntleroy-Moore-ind02073.htm">/g;
+$a =~ s/<xref to="Ext6">/<a href="http:\/\/www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm">/g;
+$a =~ s/<xref to="Ext7">/<a href="http:\/\/www.next1000.com\/family\/EC\/tarpley.johnI.html">/g;
+
 
 #generalized xrefs
 $a =~ s/<xref to="(C[^\"]*)">/<a href="http:\/\/etext.lib.virginia.edu\/etcbin\/browse-carter?id=$1.xml&images=images\/modeng&data=\/web\/data\/users\/berkeley\&tag=public"target="_wblank">/g;
