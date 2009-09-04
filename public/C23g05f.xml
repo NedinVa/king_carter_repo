@@ -10,7 +10,15 @@
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+
+<!NOTATION htm SYSTEM "htm">
+<!ENTITY Ext8 SYSTEM "http://homepages.rootsweb.com\/~kenzie/GenLEE.htm" NDATA htm>
+<!ENTITY Ext9 SYSTEM "http://www.shirleyassociation.com\/NewShirleySite\/NonMembers/Surnames\/LeeSurname.html" NDATA htm>
+<!ENTITY Ext10 SYSTEM "http://www.angelfire.com\/tx4\/custer\/ball.html" NDATA htm>
+<!ENTITY Ext11 SYSTEM "http://www.eagle.vsla.edu\/torrence\/virtua-basic.html" NDATA html>
+
+ ]>
 <TEI.2 id="C23f05f">
 
 
@@ -113,39 +121,37 @@ Mr: Wm: Dawkins<lb/>
 
 </opener>
 
-<p>Your goods in the <note n="CS">Carter</note> came in good order, the Sales of the Childrens <lb/>Tobacco are not so high as we had hopes they would have come <lb/>to, the Discounts of the Customs you take wholely to <sic corr="yourself">yr:Self</sic> <lb/>we cannot See upon a nice Calculation <del>upon</del> <add place="supralinear">of</add> the State of <lb/>that Acct: but a part of them Discounts justly belong to <lb/>the Children, you have had always their business, <add place="supralinear">&amp;</add> you have <lb/><sic corr="professed">profess't</sic> a great <sic corr="deal">deel</sic> of friendship for their Interest, it would <lb/>please us to See the fruits of it.</p>
+<p>Your goods in the <note n="CS">Carter</note> came in good order, the Sales of the Childrens <lb/>Tobacco are not so high as we had hopes they would have come <lb/>to, the Discounts of the Customs you take <sic corr="wholy ">wholely</sic> to <sic corr="yourself ">yr:Self</sic> <lb/>we cannot See upon a nice Calculation <del>upon</del> <add place="supralinear">of</add> the State of <lb/>that Acct: but a part of them Discounts justly belong to <lb/>the Children, you have had always their business, <add place="supralinear">&amp;</add> you have <lb/><sic corr="professed ">profess't</sic> a great <sic corr="deal">deel</sic> of friendship for their Interest, it would <lb/>please us to See the fruits of it.</p>
 
-<p>Hereweith you have a bill of loading for 7 hogsheads of the <lb/>Childrens <abbr expan="tobacco">Tob:</abbr>, it's all <abbr expan="stemmed">Stem'd</abbr>
- &amp; Stright laid we Saw it all <lb/>our Selves &amp; can say it is neatly handled &amp; good Tobacco <lb/>clean from Stem &amp; trash, we are fallen under Such hard <lb/>times, that It's Impossible to maintain the Children wth: <lb/>tollerable decency out of the fruits of their peoples <lb/>labour,</p>
+<p>Hereweith you have a bill of loading for 7 hogsheads of the <lb/>Childrens <abbr expan="tobacco ">Tob:</abbr>, it's all <abbr expan="stemmed ">Stem'd</abbr>  &amp; <sic corr="straight ">Stright</sic> laid we Saw it all <lb/>our Selves &amp; can say it is neatly handled &amp; good Tobacco <lb/>clean from Stem &amp; trash, we are fallen under Such hard <lb/>times, that It's Impossible to maintain the Children wth: <lb/><sic corr="tolerable ">tollerable</sic> decency out of the fruits of their peoples <lb/>labour,</p>
 
-<p>We are <sic corr="forced">forc't</sic> now to draw a bill upon you for &pound;18:13:&mdash; <lb/>to <abbr expan="Colonel">Coll:</abbr>
- Carter, it is all for Levys Quitt rents &amp; <sic corr="salary">Sallary</sic> to an <lb/>Overseer besides prizing the Tobacco to make it fitt for Shiping <lb/>wch: amounts to 16&pound;:</p>
+<p>We are <sic corr="forced">forc't</sic> now to draw a bill upon you for &pound;18:13:&mdash; <lb/>to <abbr expan="Colonel ">Coll:</abbr>  Carter, it is all for Levys <sic corr="quit ">Quitt</sic> rents &amp; <sic corr="salary ">Sallary</sic> to an <lb/>Overseer besides prizing the Tobacco to make it <sic corr="fit ">fitt</sic> for Shiping <lb/>wch: amounts to 16&pound;:</p>
 
-<p>We also herein Send you and Invoice for goods for the <lb/>Children &amp; their familys, it's the smallest that ever we <lb/>writt &amp; a very bare one it will be wch: we desire you'l <lb/>send in by the Carter or Some other good Ship bound hither</p>
+<p>We also herein Send you <sic corr="an ">and</sic> Invoice for goods for the <lb/>Children &amp; their <sic corr="families ">familys</sic>, it's the smallest that ever we <lb/><sic corr="wrote ">writt</sic> &amp; a very bare one it will be wch: we desire <abbr expan="you will ">you'l </abbr> <lb/>send in by the Carter or Some other good Ship bound hither</p>
 
-<p><note target="n1">Isaac Lee</note> may perhaps when he comes home be under <lb/>Straights for mony, if you find a necessity for it you may <lb/>advance 10&pound;: to him his claim comes to more We are <lb/>Sr: </p>
+<p><note target="n1">Isaac Lee</note> may perhaps when he comes home be under <lb/>Straights for mony, if you find a necessity for it you may <lb/>advance 10&pound;: to him his claim comes to more We are <lb/><abbr expan="Sir ">Sr: </abbr> </p>
 
-<closer>Yr: very humble Servts:<lb/><lb/>
+<closer><abbr expan="Your ">Yr: </abbr> very humble Servts:<lb/><lb/>
 
 <seg type="postscript">A Clause added to Mr Dawkins <lb/>last Lettr carried 1 Leaf forward<lb/><lb/>
 July 26. 1723.<lb/>
 
-Sir,  I now send You the following <lb/>four <add place="supralinear">fir<add resp="editor">[st]</add></add> bills of <abbr expan="exchange">Exche.</abbr>,To be carried to <lb/>
+Sir,  I now send You the following <lb/>four <add place="supralinear">fir<add resp="editor">[st] </add></add> bills of <abbr expan="exchange">Exche.</abbr>,To be carried to <lb/><lb/>
 
- <table><row><cell>My Credit to Witt <abbr expan="John">Jno.</abbr> Chilton on Your Self </cell><cell>&nbsp;</cell><cell>&pound;109" 4"&mdash;</cell></row>
+ <table><row><cell>&nbsp;&nbsp;My Credit to <sic corr="wit ">Witt </sic><abbr expan="John ">Jno.</abbr> Chilton on Your Self &nbsp;&nbsp;</cell><cell>&nbsp;</cell><cell>&nbsp;&nbsp;&pound;109" 4"&mdash;</cell></row>
 
-			<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="Charles">Chas </abbr>Burges on <abbr expan="ditto">Do.</abbr></cell><cell>&nbsp;</cell><cell>&nbsp;&nbsp;1"16" 6</cell></row>
+<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="Charles ">Chas </abbr><sic corr="Burgess ">Burges</sic> on <abbr expan="ditto ">Do.</abbr></cell><cell>&nbsp;</cell><cell>&nbsp;&nbsp;1"16" 6</cell></row>
 
-	<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eliza Nelmes on Josiah <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stevens In Plymouth </cell><cell>|</cell><cell>&nbsp;&nbsp;5" 0 "10</cell></row>
+<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eliza Nelmes on Josiah <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stevens In Plymouth </cell><cell>|</cell><cell>&nbsp;&nbsp;5" 0 "10</cell></row>
 
-	<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mark Harding &amp; <abbr expan="George">Geo</abbr> Ball</cell><cell>&nbsp;</cell><cell>&nbsp;&nbsp;5"16" 10</cell></row>
+<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mark Harding &amp; <abbr expan="George ">Geo</abbr> Ball</cell><cell>&nbsp;</cell><cell>&nbsp;&nbsp;5"16" 10</cell></row>
 
-<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;</cell><cell>_______</cell></row>
+<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;</cell><cell>____________</cell></row>
 
- 	<row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On Your Self&mdash;&mdash;&mdash;&mdash; </cell><cell>&nbsp;</cell><cell>&nbsp;&nbsp;121"18"2</cell></row>
+ <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On Your Self&mdash;&mdash;&mdash;&mdash; </cell><cell>&nbsp;</cell><cell>&nbsp;&nbsp;121"18"2</cell></row>
 </table><lb/><lb/>
 
-You are to know that <note target="n2">George Ball</note> Joins in the Draft for this Money being an <lb/><abbr expan="executor">Execr.</abbr> or <abbr expan="administrator">Adminr.</abbr> with the <sic corr="widow">Widdow</sic> <note target="n3">Mary Harding</note> which I Expect <note n="RL">Dick Lee</note> <lb/>Acquaints You with.</seg></closer>
+You are to know that <note target="n2">George Ball</note> Joins in the Draft for this Money being an <lb/><abbr expan="executor ">Execr.</abbr> or <abbr expan="administrator ">Adminr.</abbr> with the <sic corr="widow ">Widdow</sic> <note target="n3">Mary Harding</note> which I Expect <note n="RL">Dick Lee</note> <lb/>Acquaints You with.</seg></closer>
 
 
 </div1>
@@ -163,15 +169,15 @@ You are to know that <note target="n2">George Ball</note> Joins in the Draft for
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. His usual return address, the county, and colony have been added for clarity to this unheaded draft.</note><lb/>
 
-<note>This letter is written in the plural, and it probably was written by Carter and his son-in-law, Mann Page, on behalf of the children of Carter's deceased son-in-law, Nathaniel Burwell (1680-1721), on whose behalf the two had written previous letters. </note>
+<note>This letter is written in the plural, and it probably was written by Carter and his son-in-law, Mann Page, on behalf of the children of Carter's deceased son-in-law, Nathaniel Burwell (1680-1721), fr whom the two had written previous letters. </note><lb/>
 
-<note id="n1">[1] Isaac Lee (1701-1727) was a son of Hancock Lee and a "mariner." He did go to England where he died in Stepney. ("Isaac Allerton Of England And Plymouth Colony." http://www.shirleyassociation.com/isaac_allerton.htm)</note>
+<note id="n1">[1] Isaac Lee (1701-1727) was a son of Hancock Lee and his second wife, Sarah Allerton,  and a "mariner." He was a resident of Westmoreland County but went to England where he died in Stepney.  (<xref to="Ext8">Descendants of John Lee</xref> at http:/wwwhomepages.rootsweb.com\/~kenzie/GenLEE.htm, 5/11/04; and <xref to="Ext9">"Lee Surname"</xref>  on the Shirley Family Association's website, at  http://www.shirleyassociation.com\/NewShirleySite\/NonMembers/Surnames\/LeeSurname.html, 8/27/2009)</note><lb/>
 
-<note id="n2">[2] George Ball (1683-1746) was the third son of William Ball of Lancaster County. (http://www.angelfire.com/tx4/custer/ball.html)</note>
+<note id="n2">[2] George Ball (1683-1746) was the third son of William Ball of Lancaster County. (<xref to="Ext10">"Ball"</xref> at http://www.angelfire.com\/tx4/custer\/ball.html)</note><lb/>
 
-<note id="n3">[3] Mary Harding may have been the widow of William Harding of Essex County whose will was probated in Essex in September 1723. (Essex County  Wills, etc., No. 4, 1722-1730 (Reel 40) as indexed in the "Index to Wills and Administrations," Library of Virginia, http://eagle.vsla.edu/torrence/virtua-basic.html)</note>
+<note id="n3">[3] Mary Harding may have been the widow of William Harding of Essex County whose will was probated in Essex in September 1723. (Essex County  Wills, etc., No. 4, 1722-1730 [Reel 40] as found in the<xref to="Ext11"> "Index to Wills and Administrations,"</xref> Library of Virginia, at http://eagle.vsla.edu\/torrence\/virtua-basic.html)</note><lb/>
 
-
+<lb/><lb/><note><hi rend="italics">This text revised September 4, 2009.</hi></note>
 
 
 </div1>

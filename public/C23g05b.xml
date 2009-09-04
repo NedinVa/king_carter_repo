@@ -29,7 +29,7 @@
    </respStmt>
 </titleStmt>
 
-<extent>ca. 5 kilobytes </extent>
+<extent>ca. 6 kilobytes </extent>
 
 <publicationStmt>
      <publisher>University of Virginia Library.</publisher>
@@ -90,11 +90,11 @@
 <abbr>AL</abbr>
 <extent>1 p.</extent>
 <date value="1723-07-05"></date>
-<idno rend="suppress">C23g05b</idno>
+<idno rend="suppress">C23g05b.xml</idno>
 <title>Letter from Robert Carter to Robert Burridge, Jr., July 5, 1723</title>
 </bibl>
 </head>
-<p>Robert Carter writes to Lyme Regis merchant Robert Burridge, Jr., July 5, 1723, alerting him to a consignment of 20 hogsheads of tobacco on board a ship belonging to merchant Edward Tucker. He reports the wreck of a Bideford ship that was able to save only about 50 hogsheads.</p>
+<p>Robert Carter writes to Lyme Regis merchant Robert Burridge, Jr., July 5, 1723, alerting him to a consignment of 20 hogsheads of tobacco on board a ship belonging to Weymouth merchant Edward Tucker. He reports the wreck of a Bideford ship that was able to save only about 50 hogsheads.</p>
 </div1>                 
 </front>
 
@@ -114,7 +114,7 @@ Mr: Robt Burridge Junr:<lb/>
 
 </opener>
 
-<p>I have already told you of my freighting <lb/>a vessell of <note n="ET">Mr. <sic corr="Tucker's">Tukers</sic></note> to your port she is now either gon<add resp="editor">[e]</add> <lb/>or near going I have <sic corr="Ordered">orderd</sic> 20 hhds of my leaf <abbr expan="tobacco">Tobbo</abbr> to be <lb/>Consigned to you, hoping you will be able to do better <lb/>withit <add resp="editor"> [<hi rend="italics">sic</hi>]</add> <sic corr="than">then</sic> you did with the last, I can hear but of little <lb/><abbr expan="tobacco">Tobbo</abbr> coming to your place, A <name type="place"><sic corr="Bideford">Biddiford</sic></name> man the other <lb/>Day was cast away in our Bay bound out she saved but <lb/>50 hhds: I thought it necessary to give you this line <lb/>via <abbr expan="London">Lond</abbr> Remaining as</p>
+<p>I have already told you of my freighting <lb/>a <sic corr="vessel ">vessell</sic> of <note n="ET">Mr. <sic corr="Tucker's ">Tukers</sic></note> to your port she is now either <sic corr="gone ">gon</sic> <lb/>or near going I have <sic corr="ordered ">orderd</sic> 20 hhds of my leaf <abbr expan="tobacco ">Tobbo</abbr> to be <lb/>Consigned to you, hoping you will be able to do better <lb/>withit <add resp="editor"> [<hi rend="italics">sic</hi>]</add> <sic corr="than ">then</sic> you did with the last, I can hear but of little <lb/><abbr expan="tobacco ">Tobbo</abbr> coming to your place, A <name type="place"><sic corr="Biddeford ">Biddiford</sic></name> man the other <lb/>Day was cast away in our Bay bound out she saved but <lb/>50 hhds: I thought it necessary to give you this line <lb/>via <name type="city"><abbr expan="London ">Lond</abbr></name> Remaining as</p>
 
 <closer>Your humble Servant</closer>
 
@@ -132,9 +132,9 @@ Mr: Robt Burridge Junr:<lb/>
 
 <note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1723 July 4 -1724 June 11, Carter Family Papers, Virginia Historical Society, Richmond. </note><lb/>
 
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. His usual return address, the county, and state have been added for clarity to this unheaded draft.</note><lb/>
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. His usual return address, the county, and colony have been added for clarity to this unheaded draft.</note><lb/>
 
-
+<lb/><lb/><note><hi rend="italics">This text revised August 26, 2009.</hi></note>
 
 
 </div1>
