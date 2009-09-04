@@ -405,7 +405,7 @@ $a =~ s/<xref to="Ext5">/<a href="http:\/\/xpda.com\/family\/default.htm?page=Fa
 $a =~ s/<xref to="Ext6">/<a href="http:\/\/www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm">/g;
 $a =~ s/<xref to="Ext7">/<a href="http:\/\/www.next1000.com\/family\/EC\/tarpley.johnI.html">/g;
 $a =~ s/<xref to="Ext8">/<a href="http:\/\/www.homepages.rootsweb.com\/~kenzie\/GenLEE.htm">/g;
-$a =~ s/<xref to="Ext9">/<a href="http:\/\/www.shirleyassociation.com\/NewShirleySite\/NonMembers/Surnames\/LeeSurname.html">/g;
+$a =~ s/<xref to="Ext9">/<a href="http:\/\/www.shirleyassociation.com\/NewShirleySite\/NonMembers\/Surnames\/LeeSurname.html">/g;
 $a =~ s/<xref to="Ext10">/<a href="http:\/\/www.angelfire.com\/tx4\/custer\/ball.html">/g;
 $a =~ s/<xref to="Ext11">/<a href="http:\/\/www.eagle.vsla.edu\/torrence\/virtua-basic.html">/g;
 
