@@ -407,7 +407,7 @@ $a =~ s/<xref to="Ext7">/<a href="http:\/\/www.next1000.com\/family\/EC\/tarpley
 $a =~ s/<xref to="Ext8">/<a href="http:\/\/www.homepages.rootsweb.ancestry.com\/~kenzie\/GenLEE.htm">/g;
 $a =~ s/<xref to="Ext9">/<a href="http:\/\/www.shirleyassociation.com\/NewShirleySite\/NonMembers\/Surnames\/LeeSurname.html">/g;
 $a =~ s/<xref to="Ext10">/<a href="http:\/\/www.angelfire.com\/tx4\/custer\/ball.html">/g;
-$a =~ s/<xref to="Ext11">/<a href="http:\/\/www.ajax.lva.lib.va.us\/F\/?func=file&file_name=find-b-clas08&local_base=CLAS08.html">/g;
+$a =~ s/<xref to="Ext11">/<a href="http:\/\/www.lva.virginia.gov\/public\/using_collections.asp#_guides-BirthsDeathsMarriagesVitalRecords.html">/g;
 
 #generalized xrefs
 $a =~ s/<xref to="(C[^\"]*)">/<a href="http:\/\/etext.lib.virginia.edu\/etcbin\/browse-carter?id=$1.xml&images=images\/modeng&data=\/web\/data\/users\/berkeley\&tag=public"target="_wblank">/g;

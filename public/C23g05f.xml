@@ -16,7 +16,7 @@
 <!ENTITY Ext8 SYSTEM "http://www.homepages.rootsweb.ancestry.com\/~kenzie\/GenLEE.htm" NDATA htm>
 <!ENTITY Ext9 SYSTEM "http://www.shirleyassociation.com\/NewShirleySite\/NonMembers\/Surnames\/LeeSurname.html" NDATA htm>
 <!ENTITY Ext10 SYSTEM "http://www.angelfire.com\/tx4\/custer\/ball.html" NDATA html>
-<!ENTITY Ext11 SYSTEM "http://www.http://ajax.lva.lib.va.us\/F\/?func=file&file_name=find-b-clas08&local_base=CLAS08.html" NDATA html>
+<!ENTITY Ext11 SYSTEM "http://www.lva.virginia.gov\/public\/using_collections.asp#_guides-BirthsDeathsMarriagesVitalRecords.html" NDATA html>
 
  ]>
 <TEI.2 id="C23f05f">
@@ -175,7 +175,7 @@ You are to know that <note target="n2">George Ball</note> Joins in the Draft for
 
 <note id="n2">[2] George Ball (1683-1746) was the third son of William Ball of Lancaster County. (<xref to="Ext10">"Ball"</xref> at http://www.angelfire.com/tx4/custer/ball.html)</note><lb/>
 
-<note id="n3">[3] Mary Harding may have been the widow of William Harding of Essex County whose will was probated in Essex in September 1723. (Essex County  Wills, etc., No. 4, 1722-1730 [Reel 40] as found in the<xref to="Ext11"> "Index to Wills and Administrations," </xref> Library of Virginia, at [for search function]: http://www.ajax.lva.lib.va.us/F/?func=file&amp;file_name=find-b-clas08&amp;local_base=CLAS08.html)</note><lb/>
+<note id="n3">[3] Mary Harding may have been the widow of William Harding of Essex County whose will was probated in Essex in September 1723. (Essex County  Wills, etc., No. 4, 1722-1730 [Reel 40] as found in the<xref to="Ext11"> "Index to Wills and Administrations," </xref> under the heading "Births, Deaths, Marriages (Vital Records)" Library of Virginia, at http://www.lva.virginia.gov/public/using_collections.asp#_guides-BirthsDeathsMarriagesVitalRecords.html</note><lb/>
 
 
 <lb/><lb/><note><hi rend="italics">This text revised September 7, 2009.</hi></note>
