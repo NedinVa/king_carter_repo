@@ -10,7 +10,12 @@
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+<!NOTATION html SYSTEM "HTML">
+<!ENTITY Ext6 SYSTEM "http://www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm" NDATA html>
+
+
+ ]>
 <TEI.2 id="C23g05h">
 
 
@@ -94,8 +99,8 @@
 <title>Letter from Robert Carter to Edward Tucker, July 5 and 29, 1723</title>
 </bibl>
 </head>
-<p>Robert Carter writes to Weymouth merchant Edward Tucker, July 5, 1723, to inform him that he has drawn a bill of exchange on him to the London slave traders, Francis Chamberlaye and Francis Sitwell. He reports several other bills, including one from John Wormeley for a cask of Tucker's brandy. He closes by noting that he hopes to send 10-12 hogsheads of tobacco on board Capt. Wilson's ship but has not heard whether there will be room for  them on board. In a lengthy post script dated July 29th, Carter notes that Capt. Wilson has been delayed by sickness, and that the weather has reduced the expectations of a good crop. He tells Tucker that the news of a prohibition of importation of stemmed tobacco into England has been confirmed in Virginia, and suggests that Tucker and the other English merchants will need to learn to "Cheat as fast as they [the Scots]," they may be able to survive. He is not sure how long this sad state of affairs will last because most Scots ships have not found cargoes other than tar this year because they arrived so  late.<lb/><lb/>
-<hi rend="italics">This text was revised April 5, 2002, to include the post script.</hi></p>
+<p>Robert Carter writes to Weymouth merchant Edward Tucker, July 5, 1723, to inform him that he has drawn a bill of exchange on him to the London slave traders, Francis Chamberlaye and Francis Sitwell. He reports several other bills, including one from John Wormeley for a cask of Tucker's brandy. He closes by noting that he hopes to send 10-12 hogsheads of tobacco on board Captain Wilson's ship but has not heard whether there will be room for  them on board. In a lengthy post script dated July 29th, Carter notes that Captain Wilson has been delayed by sickness, and that the weather has reduced the expectations of a good crop. He tells Tucker that the news of a prohibition of importation of stemmed tobacco into England has been confirmed in Virginia, and suggests that Tucker and the other English merchants will need to learn to "Cheat as fast as they [the Scots]," they may be able to survive. He is not sure how long this sad state of affairs will last because most Scots ships have not found cargoes other than tar this year because they arrived so  late.</p>
+
 </div1>                 
 </front>
 
@@ -115,22 +120,22 @@ Mr. Edd: Tucker&mdash;&mdash;<lb/>
 
 </opener>
 
-<p>The chief occasion of this is to advise you that <lb/>I have this day drawn on you for 116&pound; 18<abbr expan="shillings">S:</abbr> 0<abbr expan="pence">d.</abbr> 1/2 payable to <sic corr="Messieurs">Messuers</sic> <lb/><note target="n1">Francis Chamberlain</note> and <add resp="editor">[Francis]</add> Sittwell which I desire you to answer <lb/>at time upon my Accot. I have been under a necessity of mak<add resp="editor">[ing]</add> <lb/>use of this money, pay them of the <sic corr="balance">ballance</sic> of their Negro <add resp="editor">[con]</add><lb/>cern, <sic corr="although">altho</sic> I have abundance of money lying out upon that <lb/>Accot that I cant command a penny of it&mdash;</p>
+<p>The chief occasion of this is to advise you that <lb/>I have this day drawn on you for 116&pound; 18<abbr expan="shillings ">S:</abbr> 0<abbr expan="pence ">d.</abbr> 1/2 payable to <sic corr="Messieurs ">Messuers</sic> <lb/><note target="n1">Francis Chamberlain</note> and <add resp="editor">[Francis] </add> Sittwell which I desire you to answer <lb/>at time upon my Accot. I have been under a necessity of mak<add resp="editor">[ing]</add> <lb/>use of this money, pay them of the <sic corr="balance ">ballance</sic> of their Negro <add resp="editor">[con]</add><lb/>cern, <sic corr="although ">altho</sic> I have abundance of money lying out upon that <lb/>Accot that I <abbr expan="cannot ">cant </abbr> command a penny of it&mdash;</p>
 
 
 <pb n="2"/><lb/><lb/>
-<p>Herein I send you two small bills of Exchange of <lb/>my own drawn upon your self, George Yerby for 6&pound;: 4<abbr expan="shillings">S</abbr>: 5<abbr expan="pence">d</abbr> <lb/>Kitt Garlinton on Ditto 3&pound;: 13<abbr expan=" shillings">S:</abbr> 4<abbr expan=" pence">d.</abbr></p>
+<p>Herein I send you two small <note target="n2">bills of Exchange</note> of <lb/>my own drawn upon your self, George Yerby for 6&pound;: 4<abbr expan=" shillings ">S</abbr>: 5<abbr expan="pence ">d</abbr> <lb/>Kitt Garlinton on Ditto 3&pound;: 13<abbr expan=" shillings ">S:</abbr> 4<abbr expan=" pence ">d.</abbr></p>
 
-<p>Herein you have also a bill of <abbr expan="exchange">Exche.</abbr> of <note target="n2">Mr. <lb/>Wormlys</note> payable to your self for 9&pound; and is for a cask of your <lb/>Brandy There <del>I think</del> is 2 Cask behind and <add place="supralinear">one</add> hath been drawn <lb/>to fill up the rest, and some I have made use of my self.</p>
+<p>Herein you have also a bill of <abbr expan="exchange ">Exche.</abbr> of <note target="n3">Mr. <lb/><sic corr="Wormeley's ">Wormlys</sic></note> payable to your self for 9&pound; and is for a cask of your <lb/>Brandy There <del>I think</del> is 2 Cask behind and <add place="supralinear">one</add> <sic corr="has ">hath </sic> been drawn <lb/>to fill up the rest, and some I have made use of my self.</p>
 
-<p>Willson they tell me will not get away this month <lb/>I have sent him word he shall have 10 or 12 hhds of me but <lb/>whether he will have room to take them in I have yet no anwer <lb/>finding you are so pestered with <sic corr="stripped">Strip</sic> <abbr expan="tobacco">Tobbo.</abbr> these I intend shall <lb/>be all Leaf which is the needfull at present from Sir &mdash;</p>
+<p><add resp="editor">[Captain]</add> <sic corr="Wilson ">Willson</sic> they tell me will not get away this month <lb/>I have sent him word he shall have 10 or 12 hhds of me but <lb/>whether he will have room to take them in I have yet no anwer <lb/>finding you are so pestered with <sic corr="stripped ">Strip</sic> <abbr expan="tobacco ">Tobbo.</abbr> these I intend shall <lb/>be all Leaf which is the needfull at present from Sir &mdash;</p>
 
-<closer>Your humble Servant
+<closer>Your humble Servant<lb/><lb/>
 <seg type="postscript"><lb/><lb/>Postscript to Mr. Tucker's last Lettr.&mdash;<lb/><lb/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rappa<add resp="editor">[hannock]</add> July 29th. 1723<lb/>
-Herein are the Seconds of the above mentioned Bills, <lb/><abbr expan="Captain">Capt.</abbr> Wilson meets with some delay by sickness, he <sic corr="reckoned">reckond</sic> to <lb/>be out in <note target="n3">the Bay</note> a Fortnight ago but is Still at my Storehouse <lb/>he hath 10 hhds. from me of Leaf Tobo., The Expectation of <lb/>a great Crop shrinks upon us Every day by the Unseasonable=<lb/>=ness of the Weather, Your Capt. Will see more of It before he goes,<lb/><lb/>
+Herein are the Seconds of the above mentioned Bills, <lb/><abbr expan="Captain ">Capt.</abbr> Wilson meets with some delay by sickness, he <sic corr="reckoned ">reckond</sic> to <lb/>be out in <note target="n4">the Bay</note> a Fortnight ago but is Still at my Storehouse <lb/>he <sic corr="has ">hath </sic> 10 hhds. from me of Leaf Tobo., The Expectation of <lb/>a great Crop shrinks upon us Every day by the Unseasonable=<lb/>=ness of the Weather, Your <abbr expan="Captain ">Capt.</abbr> Will see more of It before he goes,<lb/><lb/>
 
-We have it confirmd to Us. the Scotch have <lb/>got a Clause in the Tobo. Law prohibitting <sic corr="stemmed">Stemd</sic> Tobo. wch. <lb/>Seems to <sic corr="complete">compleat</sic> our Ruin &amp; to give us up Entirly as a prey <lb/>to them, this Sort of Tobo. the Scotch did not care to Dip in <lb/>It would not answer their designs, If you can find a way <lb/>to Cheat us fast as they, You may keep pace with them, but <lb/>tis our fate to be <sic corr="tied">tyed</sic> down to the whole Duty, &amp; if they can <lb/>bring Tobo. into the Nation, &amp; Sell it for less, &amp; yet gett Estates, <lb/>our Ruin is inevitable. But surely those things will <lb/>not last long, their Ships have but Indifferent luck this <lb/>Year, they come in So late, many of them will not get loaded <lb/>Some fill with Tarr, I am <sic corr="offered">offerd</sic> Freight now for Glasgow <lb/>for Six pound I am&mdash;<lb/><lb/> Sir Your Humble. Servt&mdash;</seg>
+We have it <sic corr="confirmed ">confirmd</sic> to Us. the <note target="n5">Scotch</note> have <lb/>got a Clause in the Tobo. Law <sic corr="prohibiting ">prohibitting</sic> <sic corr="stemmed ">Stemd</sic> Tobo. wch. <lb/>Seems to <sic corr="complete ">compleat</sic> our Ruin &amp; to give us up <sic corr="entirely ">Entirly</sic> as a prey <lb/>to them, this Sort of Tobo. the Scotch did not care to Dip in <lb/>It would not answer their designs, If you can find a way <lb/>to Cheat us fast as they, You may keep pace with them, but <lb/><abbr expan="it is ">tis </abbr> our fate to be <sic corr="tied ">tyed</sic> down to the whole Duty, &amp; if they can <lb/>bring Tobo. into the Nation, &amp; Sell it for less, &amp; yet gett Estates, <lb/>our Ruin is inevitable. But surely those things will <lb/>not last long, their Ships have but Indifferent luck this <lb/>Year, they come in So late, many of them will not get loaded <lb/>Some fill with <sic corr="tar, ">Tarr,</sic> I am <sic corr="offered ">offerd</sic> Freight now for Glasgow <lb/>for Six pound I am&mdash;<lb/><lb/> Sir Your Humble. Servt&mdash;</seg>
 
 </closer>
 
@@ -150,15 +155,19 @@ We have it confirmd to Us. the Scotch have <lb/>got a Clause in the Tobo. Law pr
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. His usual return address, the county, and colony have been added for clarity to this unheaded draft.</note><lb/>
 
-<note id="n1">[1] Francis Chamberlayne may have been the wealthy grocer of London whose daughter Elizabeth married John Francis Fauquier, an official of the mint and director of the Bank of England, between 1694 and 1702.  Carter had in 1720 acted as one of the Virginia agents for these London slave traders in the sale of a cargo of slaves. (<cit><bibl>http://www.geocities.com/markfreemn/francis_fauquier.html
-</bibl></cit>)</note>
+<note id="n1">[1] Francis Chamberlayne may have been the wealthy grocer of London whose daughter Elizabeth married John Francis Fauquier, an official of the mint and director of the Bank of England, between 1694 and 1702.  Carter had in 1720 acted as one of the Virginia agents for these London slave traders in the sale of a cargo of slaves. (<cit><bibl>http://www.geocities.com/markfreemn/francis_fauquier.html </bibl></cit>)</note><lb/>
 
-<note id="n2">[2] John Wormeley (1689-1727), a younger son of Ralph Wormeley (d.
-1701) for whom Carter had been a trustee in John's youth. When his older brother, Ralph died in 1714, John inherited all of their father's considerable estate in Middlesex and York counties.</note>
+<note id="n2"> [2] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (<cit><bibl><xref to="Ext6">"Dictionary of  Financial Scam Terms."</xref> at http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm. 8/22/2005</bibl></cit>)</note><lb/>
 
-<note id="n3">[3] Chesapeake Bay</note>
+<note id="n3">[3] John Wormeley (1689-1727), a younger son of Ralph Wormeley (d. 1701) for whom Carter had been a trustee in John's youth. When his older brother, Ralph died in 1714, John inherited all of their father's considerable estate in Middlesex and York counties.  He married Elizabeth ? and had six children. (<cit><bibl>See
+<xref to="/users/berkeley/#Wormeley Estate">  "Letters Concerning The Estate Of Ralph Wormeley"</xref> on the opening page of this web site</bibl></cit>; and <cit><bibl>Edmund Jennings Lee, <title>Lee of Virginia 1642-1892</title>. [Heritage Books, 2008 reprint found on Google Books, 9/10/2009], 147.</bibl></cit>)</note><lb/>
+
+<note id="n4">[4] Chesapeake Bay</note><lb/>
+
+<note id="n5">[5] The trading policies of Scots merchants were of considerable concern to Virginia planters and English  merchants at this time, and the matter came before Parliament in 1723. Vessels sent by Scots were crewed by captains and factors authorized to pay good prices in Virginia which enabled them to  obtain full cargoes. English merchants argued that the only way the Scots could afford to pay such good prices was their ability to avoid paying duties on the tobacco at home. Micajah Perry appeared before Parliament and gave statistics of the duties paid by his firm in earlier years and the far smaller amounts paid in the past several years because his ships could not obtain full cargoes in Virginia.  (<cit><bibl n="B22">Price. <title>Perry of London. . . . </title> pp. 64-65.</bibl></cit>)</note><lb/>
 
 
+<lb/><lb/><note><hi rend="italics">This text was first revised April 5, 2002, to include the post script, and was again revised September 10, 2009.</hi></note>
 
 </div1>
 </back>

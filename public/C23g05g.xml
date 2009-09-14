@@ -90,7 +90,7 @@
 <abbr>AL</abbr>
 <extent>1 p.</extent>
 <date value="1723-07-05"></date>
-<idno rend="suppress">C23g05g</idno>
+<idno rend="suppress">C23g05g.xml</idno>
 <title>Letter from Robert Carter to Solomon Low, July 5, 1723</title>
 </bibl>
 </head>
@@ -114,7 +114,7 @@ Mr&mdash; Solom. Low<lb/>
 
 </opener>
 
-<p>You are not so kind to let me receive a Lettr. <lb/>from you per the <note n="CS">Carter</note> last Year, It would have been <lb/>very welcome to have had an Accot. from you of my <lb/>Children while under your care and particularly of <note target="n1">Landon</note> <lb/>who still continues with you, and pray omitt not giving <lb/>yourself this Trouble the next Year, and let me have <lb/>your <sic corr="advice">advise</sic> candidly what you think may be the best <lb/>Imployment to Suit his Genious, I sent you a Virginia <lb/><note target="n2">Shoat</note> last year per <abbr expan="Captain">Capt</abbr> <note target="n3">Ben Graves</note> he tells me you had <lb/>it, I send you another this Year per him wishing you all <lb/>happiness I Conclude Sr, </p>
+<p>You are not so kind to let me receive a Lettr. <lb/>from you per the <name type="ship"><note n="CS">Carter</note></name> last Year, It would have been <lb/>very welcome to have had an Accot. from you of my <lb/>Children while under your care and particularly of <note target="n1">Landon</note> <lb/>who still continues with you, and pray <sic corr="omit ">omitt</sic> not giving <lb/>yourself this Trouble the next Year, and let me have <lb/>your <sic corr="advice ">advise</sic> candidly what you think may be the best <lb/><sic corr="employment ">Imployment</sic> to Suit his Genious, I sent you a Virginia <lb/><note target="n2">Shoat</note> last year per <abbr expan="Captain ">Capt</abbr> <note target="n3">Ben Graves</note> he tells me you had <lb/>it, I send you another this Year per him wishing you all <lb/>happiness I Conclude <abbr expan="Sir, ">Sr, </abbr> </p>
 
 <closer>Your very humble. Servt.</closer>
 
@@ -132,15 +132,15 @@ Mr&mdash; Solom. Low<lb/>
 
 <note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1723 July 4 -1724 June 11, Carter Family Papers, Virginia Historical Society, Richmond. There is a 19th-century copy of the letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia.</note><lb/>
 
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. His usual return address, the county, and colony have been added for clarity to this unheaded draft.</note><lb/>
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to personss abroad. His usual return address, the county, and colony have been added for clarity to this unheaded draft.</note><lb/>
 
-<note id="n1">[1] Landon Carter (1710-1778) was Carter's seventh child by his second wife, Elizabeth (Landon) Willis, and was the second child to bear the name Landon, the first having died shortly after his birth in 1708. Landon would live at "Sabine Hall," Richmond County, and marry three times, leaving many descendants, some of whom own "Sabine Hall" today. As an adult, he would keep a very interesting and useful diary. (<cit><bibl n="B30">Greene. <title>The Diary of Colonel Landon Carter. . . .</title></bibl></cit>)</note>
+<note id="n1">[1] Landon Carter (1710-1778) was Carter's seventh child by his second wife, Elizabeth (Landon) Willis, and was the second child to bear the name Landon, the first having died shortly after his birth in 1708. Landon would live at "Sabine Hall," Richmond County, and marry three times, leaving many descendants, some of whom own "Sabine Hall" today. As an adult, he would keep a very interesting and useful diary. (<cit><bibl n="B30">Greene. <title>The Diary of Colonel Landon Carter. . . .</title></bibl></cit>)</note><lb/>
 
-<note id="n2">[2] A shoat is a young pig.</note>
+<note id="n2">[2] A shoat is a young pig.</note><lb/>
 
-<note id="n3">[3] Benjamin Graves was the son of Captain Thomas Graves (d. <hi rend="italics">ante</hi> 1720), long a captain of vessels trading to Virginia, and a special friend of Carter. Benjamin also commanded vessels in the trade, especially the <hi rend="italics">Carter</hi>.  (<cit><bibl>Adm. 68/194-196, ff. 33r, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n3">[3] Benjamin Graves was the son of Captain Thomas Graves (d. <hi rend="italics">ante</hi> 1720), long a captain of vessels trading to Virginia, and a special friend of Carter. Benjamin also commanded vessels in the trade, especially the <hi rend="italics">Carter</hi>.  (<cit><bibl>Adm. 68/194-196, ff. 33r, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note><lb/>
 
-
+<lb/><lb/><note><hi rend="italics">This text revised September 9, 2009.</hi></note>
 
 </div1>
 </back>
