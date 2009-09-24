@@ -409,7 +409,7 @@ $a =~ s/<xref to="Ext9">/<a href="http:\/\/www.shirleyassociation.com\/NewShirle
 $a =~ s/<xref to="Ext10">/<a href="http:\/\/www.angelfire.com\/tx4\/custer\/ball.html">/g;
 $a =~ s/<xref to="Ext11">/<a href="http:\/\/www.lva.virginia.gov\/public\/using_collections.asp#_guides-BirthsDeathsMarriagesVitalRecords.html">/g;
 $a =~ s/<xref to="Ext12">/<a href="http:\/\/www.geocities.com\/Heartland\/Prairie\/3596\/Hayney\/d679.htm#P679">/g;
-$a =~ s/<xref to="Ext13">/<a href="http:\/\/www.angelfire.com/tx4\/custer\/ball.html">/g;
+$a =~ s/<xref to="Ext13">/<a href="http:\/\/www.angelfire.com\/tx4\/custer\/ball.html">/g;
 $a =~ s/<xref to="Ext14">/<a href="http:\/\/www.dinsdoc.com\/bruce-1-7.htm">/g;
 
 #generalized xrefs
