@@ -10,7 +10,14 @@
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; 
+
+<!NOTATION Ext15 SYSTEM "htm">
+<!ENTITY Ext15 SYSTEM "http://www.poslfit.homeip.ne\t\/cgi-bin\/genea2.pl?id=10301.htm" NDATA htm>
+<!NOTATION Ext16 SYSTEM "htm">
+<!ENTITY Ext16 SYSTEM "http://www.mathewscommunications.com\/mathews\/mw1\/mw1g93.htm#6068" NDATA htm>
+
+]>
 <TEI.2 id="C23g03d">
 
 
@@ -155,7 +162,7 @@ in Compassion to our Sufferings <sic corr="has ">hath </sic> adventured to p<add
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony y have been added for clarity.</note><lb/>
 
-<note id="n1">[1] This may have been Hannah (Roy) Chew, wife of  Larkin Chew (1676-1728) a burgess 1723-26, sheriff of Spottsylvania County, 1727-1728, where he owned 17,000 acres of land. (<cit><bibl>"Genealogical Record: Larkin Chew," http://poslfit.homeip.net/cgi-bin/genea2.pl?id=10301</bibl></cit>; and <cit><bibl>"Mathews-Williams Family Genealogy,"  http://www.mathewscommunications.com/mathews/mw1/mw1g93.htm#6068</bibl></cit>. both 8/20/2009)</note><lb/><lb/>
+<note id="n1">[1] This may have been Hannah (Roy) Chew, wife of  Larkin Chew (1676-1728) a burgess 1723-26, sheriff of Spottsylvania County, 1727-1728, where he owned 17,000 acres of land. (<cit><bibl><xref to="http://poslfit.homeip.net/cgi-bin/genea2.pl?id=10301">"Genealogical Record: Larkin Chew,"</xref>  at http://poslfit.homeip.net/cgi-bin/genea2.pl?id=10301</bibl></cit>; and <cit><bibl><xref to="http://www.mathewscommunications.com/mathews/mw1/mw1g93.htm#6068">"Mathews-Williams Family Genealogy,"</xref> at  http://www.mathewscommunications.com/mathews/mw1/mw1g93.htm#6068</bibl></cit>. both 8/20/2009)</note><lb/><lb/>
 
 <note id="n2">[2] The trading policies of Scots merchants were of considerable concern to Virginia planters and English  merchants at this time, and the matter came before Parliament in 1723. Vessels sent by Scots were crewed by captains and factors authorized to pay good prices in Virginia which enabled them to  obtain full cargoes. English merchants argued that the only way the Scots could afford to pay such good prices was their ability to avoid paying duties on the tobacco at home. Micajah Perry appeared before Parliament and gave statistics of the duties paid by his firm in earlier years and the far smaller amounts paid in the past several years because his ships could not obtain full cargoes in Virginia.  (<cit><bibl n="B22">Price. <title>Perry of London. . . . </title> pp. 64-65.</bibl></cit>)</note><lb/>
 
@@ -165,7 +172,7 @@ in Compassion to our Sufferings <sic corr="has ">hath </sic> adventured to p<add
  <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:45-51. 
 </bibl></cit></note><lb/>
 
-<lb/><lb/><note><hi rend="italics">This text revised August 20, 2009.</hi></note>
+<lb/><lb/><note><hi rend="italics">This text revised August 25, 2009.</hi></note>
 
 
 
