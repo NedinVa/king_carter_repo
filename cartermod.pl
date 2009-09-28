@@ -490,6 +490,20 @@ $a =~ s/<xref doc="(C[^\"]*)">/<a href="http:\/\/etext.lib.virginia.edu\/etcbin\
 $a =~ s/<xref to="Ext1">/<a href="http:\/\/www.abdn.ac.uk\/virtualmuseum\/index.php?page=object_detail&prefix=ABDUA&num=18746&firstview=true&mt=&sign=&viewnumber=&resultsperpage=9">/g;
 $a =~ s/<xref to="Ext2">/<a href="http:\/\/www.angelfire.com\/journal\/millrestoration\/history.html">/g;
 $a =~ s/<xref to="Ext3">/<a href="http:\/\/www.bodley.ox.ac.uk\/cgi-bin\/ilej\/image1.pl?item=page&seq=1&size=1&id=gm.1732.11.x.2.x.x.1082">/g;
+$a =~ s/<xref to="Ext4">/<a href="http:\/\/www.stratfordhall.org\/learn\/lees\/thomaslee.php">/g;
+$a =~ s/<xref to="Ext5">/<a href="http:\/\/xpda.com\/family\/default.htm?page=Fauntleroy-Moore-ind02073.htm">/g;
+$a =~ s/<xref to="Ext6">/<a href="http:\/\/www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm">/g;
+$a =~ s/<xref to="Ext7">/<a href="http:\/\/www.next1000.com\/family\/EC\/tarpley.johnI.html">/g;
+$a =~ s/<xref to="Ext8">/<a href="http:\/\/www.octhouse.com\/allertonreport.html">/g;
+$a =~ s/<xref to="Ext9">/<a href="http:\/\/www.shirleyassociation.com\/NewShirleySite\/NonMembers\/Surnames\/LeeSurname.html">/g;
+$a =~ s/<xref to="Ext10">/<a href="http:\/\/www.angelfire.com\/tx4\/custer\/ball.html">/g;
+$a =~ s/<xref to="Ext11">/<a href="http:\/\/www.lva.virginia.gov\/public\/using_collections.asp#_guides-BirthsDeathsMarriagesVitalRecords.html">/g;
+$a =~ s/<xref to="Ext12">/<a href="http:\/\/www.geocities.com\/Heartland\/Prairie\/3596\/Hayney\/d679.htm#P679">/g;
+$a =~ s/<xref to="Ext13">/<a href="http:\/\/www.angelfire.com\/tx4\/custer\/ball.html">/g;
+$a =~ s/<xref to="Ext14">/<a href="http:\/\/www.dinsdoc.com\/bruce-1-7.htm">/g;
+$a =~ s/<xref to="Ext15">/<a href="http:\/\/www.poslfit.homeip.ne\t\/cgi-bin\/genea2.pl?id=10301.htm">/g;
+$a =~ s/<xref to="Ext16">/<a href="http:\/\/www.mathewscommunications.com\/mathews\/mw1\/mw1g93.htm#6068">/g;
+
 
 #generalized xrefs
 $a =~ s/<xref to="(C[^\"]*)">/<a href="http:\/\/etext.lib.virginia.edu\/etcbin\/browse-cartermod?id=$1.xml&images=images\/modeng&data=\/web\/data\/users\/berkeley\&tag=public"target="_wblank">/g;
