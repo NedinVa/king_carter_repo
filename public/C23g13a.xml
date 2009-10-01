@@ -10,7 +10,13 @@
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+
+<!NOTATION html SYSTEM "HTML">
+<!ENTITY Ext17 SYSTEM "http://www.pbs.org\/wgbh\/aia\/part1\/1p269.html" NDATA html>
+
+
+ ]>
 <TEI.2 id="C23g13a">
 
 
@@ -154,13 +160,13 @@ past their labour that they are rather a charge <sic corr="than">then</sic> anyt
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. His usual return address, the county, and colony have been added for clarity to this unheaded draft.</note><lb/>
 
-<note id="n1">[1] The Royal African Company, founded in 1672, grew out of earlier slave-trading companies that had been founded in the middle of the  seventeenth century, and that held monopolies on the English trade in slaves. The trade proved so  profitable that Parliament was lobbied successfully to rescind the monopoly and open the trade to anyone which happened in 1698. Carter anticipates that the company will fight the proposed tax on imported slaves even through it is to be paid by the colonial purchasers, not the importers. He was correct for the law was not allowed to stand due to lobbying against it in England. (<cit><bibl>http://www.pbs.org/wgbh/aia/home.html</bibl></cit>; and <cit><bibl n="B27">Billings. <hi rend="italics">et al. </hi> <title>Colonial Virginia: A History.</title> p. 232.</bibl></cit>)</note>
+<note id="n1">[1] The Royal African Company, founded in 1672, grew out of earlier slave-trading companies that had been founded in the middle of the  seventeenth century, and that held monopolies on the English trade in slaves. The trade proved so  profitable that Parliament was lobbied successfully to rescind the monopoly and open the trade to anyone which happened in 1698. Carter anticipates that the company will fight the proposed tax on imported slaves even through it is to be paid by the colonial purchasers, not the importers. He was correct for the law was not allowed to stand due to lobbying against it in England. (<cit><bibl><xref to="http://www.pbs.org/wgbh/aia/part1/1p269.html">"Royal African Company Established,"</xref> </bibl></cit>; and <cit><bibl n="B27">Billings. <hi rend="italics">et al. </hi> <title>Colonial Virginia: A History.</title> p. 232.</bibl></cit>)</note><lb/>
 
 
-<note id="n2">[2] Francis Willis (1690-<hi rend="italics">post</hi> 1749) of Ware Parish, Gloucester County, who served as burgess. (<cit><bibl>"Willis Family." <title>William and Mary Quarterly.</title> 1st ser. 5(1896): 24-27, 171-176; 6(1897): 27-29, 206-214.)</bibl></cit></note>
+<note id="n2">[2] Francis Willis (1690-<hi rend="italics">post</hi> 1749) of Ware Parish, Gloucester County, who served as burgess. (<cit><bibl>"Willis Family." <title>William and Mary Quarterly.</title> 1st ser. 5(1896): 24-27, 171-176; 6(1897): 27-29, 206-214.)</bibl></cit></note><lb/>
 
 
-<note id="n3">[3] The preceding words in italics were entered by Carter between the lines of the clerk's draft.</note>
+<note id="n3">[3] The preceding words in italics were entered by Carter between the lines of the clerk's draft.</note><lb/>
 
 
 <note><hi rend="italics">Text revised 2007 Nov. 30.</hi></note>
