@@ -176,7 +176,7 @@ select="."/></FONT>
 
 
 <xsl:template match="table">
-        <table border="1"><xsl:apply-templates/></table>
+        <table border="0"><xsl:apply-templates/></table>
 </xsl:template>
 <xsl:template match="row">
        <tr><xsl:apply-templates/></tr> 
