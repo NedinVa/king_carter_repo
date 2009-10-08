@@ -504,6 +504,7 @@ $a =~ s/<xref to="Ext14">/<a href="http:\/\/www.dinsdoc.com\/bruce-1-7.htm">/g;
 $a =~ s/<xref to="Ext15">/<a href="http:\/\/www.poslfit.homeip.ne\t\/cgi-bin\/genea2.pl?id=10301.htm">/g;
 $a =~ s/<xref to="Ext16">/<a href="http:\/\/www.mathewscommunications.com\/mathews\/mw1\/mw1g93.htm#6068">/g;
 $a =~ s/<xref to="Ext17">/<a href="http:\/\/www.pbs.org\/wgbh\/aia\/part1\/1p269.html">/g;
+$a =~ s/<xref to="Ext18">/<a href="http:\/\/www.homepages.rootsweb.com\/~edburton\/fam03055.htm">/g;
 
 #generalized xrefs
 $a =~ s/<xref to="(C[^\"]*)">/<a href="http:\/\/etext.lib.virginia.edu\/etcbin\/browse-cartermod?id=$1.xml&images=images\/modeng&data=\/web\/data\/users\/berkeley\&tag=public"target="_wblank">/g;
