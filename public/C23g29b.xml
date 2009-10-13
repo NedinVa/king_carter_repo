@@ -10,7 +10,19 @@
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; 
+
+<!NOTATION html SYSTEM "HTML">
+<!ENTITY Ext19 SYSTEM "http://british-history.ac.uk\/report.aspx?compid=58704.html" NDATA html>
+
+<!NOTATION html SYSTEM "HTML">
+<!ENTITY Ext20 SYSTEM "http://18cnewenglandlife.org\/18cnel\/ofsilk.htm" NDATA html>
+
+
+
+
+]>
+
 <TEI.2 id="C23g29b">
 
 
@@ -116,14 +128,14 @@ Mr. Thos. Colemore<lb/>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For Harvey to write</p>
 
-<p>My Lettrs by the <name type="ship">Sarah</name> <abbr expan="Captain">capt.</abbr> Richardson <lb/>are seald up,  I have not Yet writ for any <sic corr="blue linen">blew Linnen</sic> <lb/>I find I cannot well Support my Family without It. <lb/>desire You therefore to send me in with my other Goods <lb/>Three hundred Yards of Narrow blews &amp; five hundred <lb/>Yards of blew <note target="n2"><abbr expan="Osnaburg">Oznabs.</abbr></note>&mdash;</p>
+<p>My Lettrs by the <name type="ship">Sarah</name> <abbr expan="Captain ">capt.</abbr> Richardson <lb/>are <sic corr="sealed ">seald</sic> up,  I have not Yet <sic corr="written ">writ</sic> for any <sic corr="blue linen ">blew Linnen</sic> <lb/>I find I cannot well Support my Family without It. <lb/>desire You therefore to send me in with my other Goods <lb/>Three hundred Yards of Narrow <sic corr="blues ">blews</sic> &amp; five hundred <lb/>Yards of <sic corr="blue ">blew</sic> <note target="n3"><abbr expan="Osnaburg ">Oznabs.</abbr></note>&mdash;</p>
 
-<p><abbr expan="Captain">Capt</abbr> Hopkins is <sic corr="arrived">arriv'd</sic> I have no Lettrs come <lb/>to hand Yet,  We have the News <sic corr="confirmed">confirmd</sic> that the Scotch Interest <lb/>hath obtained a Clause in the Tobo. Act, to prohibit the Importation  <lb/>of all <sic corr="stemmed">Stemd</sic> Tobo. which in consequence I reckon will Com=<lb/>=pleat our Ruin, Pray God grant I am mistaken I am </p>
+<p><abbr expan="Captain">Capt</abbr> Hopkins is <sic corr="arrived">arriv'd</sic> I have no Lettrs come <lb/>to hand Yet,  We have the News <sic corr="confirmed ">confirmd</sic> that the Scotch Interest <lb/><sic corr="has ">hath </sic>obtained a Clause in the Tobo. Act, to prohibit the Importation  <lb/>of all <sic corr="stemmed ">Stemd</sic> Tobo. which in consequence I reckon will Com=<lb/>=pleat our Ruin, Pray God grant I am mistaken I am </p>
 
 
 <closer>Sir Yor. most humble Servt.
-<seg type="postscript"><lb/><lb/>It seems that clause is to take <lb/>place the 1st. of next June so that <lb/>probably all the <sic corr="stemmed">Stemd</sic> Tobo. that is got <lb/>home before that time will be in the <lb/>Greater Esteem.<lb/><lb/>
-Herein are some 2d. bills <lb/>of <abbr expan="exchange">Exche.</abbr> the firsts went per <lb/>Richardson</seg></closer>
+<seg type="postscript"><lb/><lb/>It seems that clause is to take <lb/>place the 1st. of next June so that <lb/>probably all the <sic corr="stemmed ">Stemd</sic> Tobo. that is got <lb/>home before that time will be in the <lb/>Greater Esteem.<lb/><lb/>
+Herein are some 2d. bills <lb/>of <abbr expan="exchange ">Exche.</abbr> the firsts went per <lb/>Richardson</seg></closer>
 
 
 </div1>
@@ -141,12 +153,13 @@ Herein are some 2d. bills <lb/>of <abbr expan="exchange">Exche.</abbr> the first
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. His usual return address, the county, and colony have been added for clarity to the brief heading on the draft.</note><lb/>
 
-<note id="n1">[1] Thomas Colmore was a London merchant. (<cit><bibl>A 1740 London directory,<title> A Compleat Guide . . . ,</title> consulted by Francis L. Berkeley, Jr., in London listed Colmore as a resident of Pudding Lane, Eastcheap.</bibl></cit>)</note>
+<note id="n1">[1] Thomas Colmore was a London merchant. (<cit><bibl>A 1740 London directory,<title> A Compleat Guide . . . ,</title> consulted by Francis L. Berkeley, Jr., in London listed Colmore as a resident of Pudding Lane, Eastcheap.</bibl></cit>)</note><lb/>
 
+<note id="n1">[1]  "Blue was a colour much used on linen, since it was a good, fast dye under almost all conditions. It was therefore a common item stocked by retailers selling textiles. It was sometimes being abbreviated to blue. Valuations varied from 7d to 14d the yard. Not found in the OED." (<cit><bibl>Cox, Nancy,  and Karin Dannehl. <xref to="Ext19">'Blue - Blues,'</xref> <title>Dictionary of Traded Goods and Commodities, 1550-1820.</title> [2007]. Sponsored by the University of Wolverhampton online at  http://www.british-history.ac.uk/report.aspx?compid=58704. Date accessed: 12 October 2009.</bibl></cit>)</note><lb/> 
 
-<note id="n2">[2] Osnaburg is a coarse fabric named for the region of Germany in which it was first produced. It was commonly used for sacking and bagging.</note>
+<note id="n3">[3 Osnaburg is a coarse fabric named for the region of Germany in which it was first produced. It was commonly used for sacking and bagging. (<cit><bibl><xref to="Ext20">18th Century Trade Terms (Fabrics),</xref> "Of Silk, Terms Of Silk, Cotton, Linen and Wool," [Compiled from] <title>The Beekman Mercantile Paper</title> 1746 - 1799. Online at http://www.18cnewenglandlife.org/18cnel/ofsilk.htm,  Date azccessed 4 May 2007.</bibl></cit>)</note><lb/>
 
-
+<lb/><lb/><note><hi rend="italics">This text revised October 13, 2009.</hi></note>
 
 
 

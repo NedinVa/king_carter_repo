@@ -505,6 +505,8 @@ $a =~ s/<xref to="Ext15">/<a href="http:\/\/www.poslfit.homeip.ne\t\/cgi-bin\/ge
 $a =~ s/<xref to="Ext16">/<a href="http:\/\/www.mathewscommunications.com\/mathews\/mw1\/mw1g93.htm#6068">/g;
 $a =~ s/<xref to="Ext17">/<a href="http:\/\/www.pbs.org\/wgbh\/aia\/part1\/1p269.html">/g;
 $a =~ s/<xref to="Ext18">/<a href="http:\/\/www.homepages.rootsweb.com\/~edburton\/fam03055.htm">/g;
+$a =~ s/<xref to="Ext19">/<a href="http:\/\/www.british-history.ac.uk\/report.aspx?compid=58704.html">/g;
+$a =~ s/<xref to="Ext20">/<a href="http:\/\/www.18cnewenglandlife.org\/18cnel\/ofsilk.htm">/g;
 
 #generalized xrefs
 $a =~ s/<xref to="(C[^\"]*)">/<a href="http:\/\/etext.lib.virginia.edu\/etcbin\/browse-cartermod?id=$1.xml&images=images\/modeng&data=\/web\/data\/users\/berkeley\&tag=public"target="_wblank">/g;
