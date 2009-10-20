@@ -16,10 +16,10 @@
 <!ENTITY Ext6 SYSTEM "http://www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm" NDATA html>
 
 <!NOTATION html SYSTEM "HTML">
-<!ENTITY Ext18 SYSTEM "http://homepages.rootsweb.com\/~edburton\/fam03055.htm" NDATA html>
-
+<!ENTITY Ext18 SYSTEM "http://homepages.rootsweb.com\/~edburton\/\/fam03055.htm" NDATA html>
 
 ]>
+
 <TEI.2 id="C23g29a">
 
 
@@ -159,8 +159,8 @@ Jno. Burridge Esq&mdash;<lb/>
 
 <note id="n2"> [2] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (<cit><bibl><xref to="Ext6">"Dictionary of  Financial Scam Terms."</xref> http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm. 8/22/2005</bibl></cit>)</note><lb/>
 
-<note id="n3">[3] Willoughby Allerton (1664-1724) was a prominent citizen of Westmoreland County where he was burgess, sheriff, and militia officer.  (<xref to="Ext18">Allerton Genealogical Data</xref> at
-http://homepages.rootsweb.com/~edburton/fam03055.htm, 4/16/04; and <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 3[1705-1721]: 92,146,381,420. </bibl></cit>)</note><lb/>
+<note id="n3">[3] Willoughby Allerton (1664-1724) was a prominent citizen of Westmoreland County where he was burgess, sheriff, and militia officer.  (<xref to="Ext18">Allerton Genealogical Data</xref> at 
+http://homepages.rootsweb.com/~edburton//fam03055.htm, 4/16/04; and <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 3[1705-1721]: 92,146,381,420. </bibl></cit>)</note><lb/>
 
 <note id="n4">[4] Parliament had indeed passed an act forbidding the importation of stemmed tobacco in 1722. John Randolph was sent to England in 1729 as agent for Virginia to try to have the act overturned; his mission would be successful. (<cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> [Newport News, VA: Mariners' Museum, 1953], 116.</bibl></cit>)</note><lb/>
 
