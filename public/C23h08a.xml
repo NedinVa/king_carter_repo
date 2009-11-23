@@ -10,7 +10,13 @@
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; 
+
+<!NOTATION html SYSTEM "HTML">
+<!ENTITY Ext6 SYSTEM "http://www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm" NDATA html>
+
+
+]>
 <TEI.2 id="C23h08a">
 
 
@@ -94,7 +100,7 @@
 <title>Letter from Robert Carter to William Dawkins, August 8 and 19, 1723</title>
 </bibl>
 </head>
-<p>Robert Carter writes to London merchant William Dawkins, August 8, 1723, to report a bill of exchange he has drawn on the merchant against the account of the estate of his son-in-law, Nathaniel Burwell, to John Bagg. He mentions that among accounts sent by Dawkins he did not find one for the sales of the 20 Burwell hogsheads sent last year. In a post script dated August 19th, he refers to some second bills of exchange, and reports that rains have badly damaged crops. </p>
+<p>Robert Carter writes to London merchant William Dawkins, August 8, 1723, to report a bill of exchange he has drawn on the merchant against the account of the estate of his son-in-law, Nathaniel Burwell, to John Bagge. He mentions that among accounts sent by Dawkins he did not find one for the sales of the 20 Burwell hogsheads sent last year. In a post script dated August 19th, he refers to some second bills of exchange, and reports that rains have badly damaged crops. </p>
 </div1>                 
 </front>
 
@@ -114,12 +120,13 @@ Mr. Wm Dawkins<lb/>
 
 </opener>
 
-<p>I write to You this Lettr. Via Glasgow to Advise <lb/>You that Yesterday, as I am the Guardian to <note n="NB">Mr Burwell's</note> <lb/>Children I drew a bill of <abbr expan="exchange">Exche.</abbr>upon You for &pound;50, payable to <lb/>Mr <abbr expan="John">Jno.</abbr> Bagge directing You to Charge it to that Estate<lb/> I conclude the Bills In the plural Number Mr. Bagg is to carry <abbr expan="them">thm .</abbr><lb/>to <note n="MP1"><abbr expan="Colonel">Collo.</abbr> Page</note> for his Signing <note target="n1">also.</note></p>
+<p>I write to You this Lettr. Via Glasgow to Advise <lb/>You that Yesterday, as I am the Guardian to <note n="NB">Mr Burwell's</note> <lb/>Children I drew a <note target="n1">bill of <abbr expan="exchange ">Exche.</abbr></note> upon You for &pound;50, payable to <lb/>Mr <note target="n2"><abbr expan="John ">Jno.</abbr> Bagge</note> directing You to Charge it to that Estate<lb/> I conclude the Bills In the plural Number Mr. <sic corr="Bagge ">Bagg</sic> is to carry <abbr expan="them ">thm .</abbr><lb/>to <note n="MP1"><abbr expan="Colonel ">Collo.</abbr> Page</note> for his Signing <note target="n3">also.</note></p>
 
-<p>Amongst all the Accots. of Sales You sent per <note target="n2">Hopkins</note> I <lb/>See none Yet for the 20 hhds. of Mr. Burwells Tobo that we sent You <lb/>the last Year, if you have sent It to <abbr expan="Colonel">Collo.</abbr> Page, he hath forgot <lb/>to Mention It to me I am&mdash;&mdash; </p>
+<p>Amongst all the Accots. of Sales You sent per <note target="n4">Hopkins</note> I <lb/>See none Yet for the 20 hhds. of Mr. Burwells Tobo that we sent You <lb/>the last Year, if you have sent It to <abbr expan="Colonel ">Collo.</abbr> Page, he <sic corr="has ">hath </sic> <sic corr="forgotten ">forgot </sic><lb/>to Mention It to me I am&mdash;&mdash; </p>
 
-<closer>Yor. humble Servt.<seg type="postscript"><lb/><lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AugSt. 19th.. 1723<lb/>
-Per the Mazereen  Herein are Some second bills of <abbr expan="exchange">Exche.</abbr> the firsts <lb/>went by Richardson, Our Crops are miserably <sic corr="damaged">Damagd</sic> by the Rains <lb/>We have had, &amp; the Same Weather Still continues I think It may be safely <lb/><sic corr="reckoned">reckond</sic> there will be a Short Crop, and that not Very good,</seg></closer>
+<closer>Yor. humble Servt.<seg type="postscript"><lb/><lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="August ">AugSt. </abbr> 19th.. 1723<lb/>
+
+Per the Mazereen  Herein are Some second bills of <abbr expan="exchange">Exche.</abbr> the firsts <lb/>went by Richardson, Our Crops are miserably <sic corr="damaged ">Damagd</sic> by the Rains <lb/>We have had, &amp; the Same Weather Still continues I think It may be safely <lb/><sic corr="reckoned ">reckond</sic> there will be a Short Crop, and that not Very good,</seg></closer>
 
 
 </div1>
@@ -133,15 +140,19 @@ Per the Mazereen  Herein are Some second bills of <abbr expan="exchange">Exche.<
 <div1 type="back matter">
 <head>NOTES</head>
 
-<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1723 June 16-1724 April 23, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1723 June 16-1724 April 23, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note><lb/>
 
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note><lb/>
 
-<note id="n1">[1] The last sentence of this paragraph was a footnote.</note>
+<note id="n1"> [1] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (<cit><bibl><xref to="Ext6">"Dictionary of  Financial Scam Terms" at </xref> http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm. 8/22/2005</bibl></cit>)</note><lb/>
 
-<note id="n2">[2] Captain James Hopkins would be in command of the <hi rend="italics">Mary</hi> in 1727-1728. He was then working for London merchant Robert Cary. He is mentioned in Carter's diary. (<cit><bibl>Adm. 68/194, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n2">[2] This probably was John Bagge (1682?-1726), rector of St. Anne's Parish, Essex County, 1709-1711 and 1718-1726.  He had served Sittenburne Parish in Richmond County, 1711-1716. (<cit><bibl>John K. Nelson. <title>A Blessed Company: Parishes, Parsons, and Parishoners in Anglican Virginia, 1690-1776.</title> [Chapel Hill and London: University of North Carolina Press, 2001]. p. 304.</bibl></cit>)</note><lb/>
 
+<note id="n3">[3] The last sentence of this paragraph was a footnote.</note><lb/>
 
+<note id="n4">[4] Captain James Hopkins would be in command of the <hi rend="italics">Mary</hi> in 1727-1728. He was then working for London merchant Robert Cary. He is mentioned in Carter's diary. (<cit><bibl>Adm. 68/194, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text revised November 12, 2009.</hi></note>
 
 
 </div1>

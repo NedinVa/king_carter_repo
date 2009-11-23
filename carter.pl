@@ -419,6 +419,9 @@ $a =~ s/<xref to="Ext19">/<a href="http:\/\/www.british-history.ac.uk\/report.as
 $a =~ s/<xref to="Ext20">/<a href="http:\/\/www.18cnewenglandlife.org\/18cnel\/ofsilk.htm">/g;
 $a =~ s/<xref to="Ext21">/<a href="http:\/\/www.members.tripod.com\/~Bonestwo\/index-6.html">/g;
 $a =~ s/<xref to="Ext22">/<a href="http:\/\/www.gen.culpepper.com\/historical\/legends\/lords.htm">/g;
+$a =~ s/<xref to="Ext23">/<a href="http:\/\/www.encyclopedia.com\/doc\/1O79-Williamsburg.html">/g;
+$a =~ s/<xref to="Ext26">/<a href="http:\/\/www.haut-brion.com\/home\/en\/fiches\/chb.php">/g;
+$a =~ s/<xref to="Ext27">/<a href="http:\/\/www.artfund.org\/artwork\/2188\/mrs-peter-how-and-her-two-children-peter">/g;
 
 
 #generalized xrefs

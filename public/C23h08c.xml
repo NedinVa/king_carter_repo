@@ -10,7 +10,17 @@
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; 
+
+<!NOTATION Ext26 SYSTEM "php">
+<!ENTITY Ext26 SYSTEM "http://www.haut-brion.com\/home\/en\/fiches\/chb.php" NDATA php>
+
+
+<!NOTATION Ext27 SYSTEM "htm">
+<!ENTITY Ext27 SYSTEM "http://www.artfund.org\/artwork\/2188\/mrs-peter-how-and-her-two-children-peter" NDATA htm>
+
+
+]>
 <TEI.2 id="C23h08c">
 
 
@@ -114,29 +124,29 @@ Mr. John Stark&mdash;<lb/>
 
 </opener>
 
-<p>I have already Advisd You Via <abbr expan="London">Londo.</abbr> of my draft <lb/>Upon You for one hundred pounds to <note n="MP2">Mr. Perry</note> which I Expect You will <lb/>Comply with, without any Allowance for the <abbr expan="exchange">Exche.</abbr> which I take to be <lb/>the Meaning of Your Letter of the 11th of <abbr expan="October">Octor.</abbr> last.</p>
+<p>I have already <sic corr="advised ">Advisd</sic> You Via <name type="city"><abbr expan="London ">Londo.</abbr></name> of my draft <lb/>Upon You for one hundred pounds to <note n="MP2">Mr. Perry</note> which I Expect You will <lb/>Comply with, without any Allowance for the <abbr expan="exchange ">Exche.</abbr> which I take to be <lb/>the Meaning of Your Letter of the 11th of <abbr expan="October ">Octor.</abbr> last.</p>
 
-<p>I Shall Ship on Board <note target="n2"><abbr expan="Captain">Capt</abbr>
- Bowman</note> fifty hhds &amp; put <lb/>It on board with my Own Sloops For which I <del>hope illegible </del>expect I Shall be allowd.</p>
+<p>I Shall Ship on Board <note target="n2"><abbr expan="Captain ">Capt</abbr>  Bowman</note> fifty hhds &amp; put <lb/>It on board with my Own Sloops For which I <del>hope illegible </del>expect I Shall be <sic corr="allowed. ">allowd.</sic></p>
 
-<p>Mr. <note target="n3">James Read</note> hath bin with me this Week, &amp; Solicites <lb/>me Strongly For 20 or thirty hhds. freight which believe I Shall go <lb/>near to help him to, Upon Your Accot. but All this is in hopes, You will <lb/>think It proper to Allow me more for my Tobo. than You did last Year <lb/>I loose considerably by that Tobo, I may say that reckon Shrink=<lb/>=edge, Sallary Sloop hire, &amp; other charges, the Tobo. I Send You <lb/>Stands me in Above twelve Shillings per hundred weight <add place="supralinear">here</add>, Whatever is the reason I <lb/>can't tell, there is a Prodigious  difference between the <abbr expan="weights">Wts.</abbr> here &amp; <lb/>the <abbr expan="weights">Wts.</abbr> at Your Scales, <del>and I illegible</del> which is very Strange considering <lb/>I weigh All my Tobo. in Scales too, just before I ship it,</p>
+<p>Mr. <note target="n3">James Read</note> <sic corr="has "><sic corr="has ">hath </sic> </sic> bin with me this Week, &amp; <sic corr="solicits ">Solicites</sic> <lb/>me Strongly For 20 or thirty hhds. freight which believe I Shall go <lb/>near to help him to, Upon Your Accot. but All this is in hopes, You will <lb/>think It proper to Allow me more for my Tobo. than You did last Year <lb/>I <sic corr="lose ">loose</sic> considerably by that Tobo, I may say that reckon Shrink=<lb/>=edge, <sic corr="salary ">Sallary</sic> Sloop hire, &amp; other charges, the Tobo. I Send You <lb/>Stands me in Above twelve Shillings per hundred weight <add place="supralinear">here</add>, Whatever is the reason I <lb/>can't tell, there is a Prodigious  difference between the <abbr expan="weights ">Wts.</abbr> here &amp; <lb/>the <abbr expan="weights ">Wts.</abbr> at Your Scales, <del>and I illegible</del> which is very Strange considering <lb/>I weigh All my Tobo. in Scales too, just before I ship it,</p>
 
-<p>I have promissd <note n="ECB">my Daughter Burwell</note> who lives In <lb/>York river to write to You for a hhd of <sic corr="claret,">clarret,</sic> &amp; accordingly <lb/>I now desire You to Send her in one upon my Accot., The Wine <lb/>that You Sent in this Year to <abbr expan="several">Sevl.</abbr> Gentlemen has the character of <lb/>being very good, but Is the Dearest that Ever I heard of, I have had <lb/>Many a hhd of good <sic corr="claret">clarret,</sic> from Mr. Arbuckle of Belfast for Eight 
+<p>I have promissd <note n="ECB">my Daughter Burwell</note> who lives In <lb/>York <sic corr="River ">river</sic> to write to You for a hhd of <sic corr="claret, ">clarret,</sic> &amp; accordingly <lb/>I now desire You to Send her in one upon my Accot., The Wine <lb/>that You Sent in this Year to <abbr expan="several ">Sevl.</abbr> Gentlemen has the character of <lb/>being very good, but Is the Dearest that Ever I heard of, I have had <lb/>Many a hhd of good <sic corr="claret ">clarret,</sic> from Mr. Arbuckle of <name type="city">Belfast</name> for Eight 
 
 <pb n="2"/><lb/><lb/>
-<add resp="editor">[pounds]</add> per hhd and as good <note target="n4">Pontac</note> as Ever I drank in my Life <del>I paid</del> <add place="supralinear">he chargd me</add> <lb/>&pound;12 per hhd For, I would have this Wine of the best Sort but <lb/><add resp="editor">[ho]</add>pe You will be able to Send It at a much Cheaper rate than the <lb/>last Years came at, I am  </p>
+<add resp="editor">[pounds] </add> per hhd and as good <note target="n4">Pontac</note> as Ever I drank in my Life <del>I paid</del> <add place="supralinear">he <sic corr="charged ">chargd</sic> me</add> <lb/>&pound;12 per hhd For, I would have this Wine of the best Sort but <lb/><add resp="editor">[ho]</add>pe You will be able to Send It at a much Cheaper rate than the <lb/>last Years came at, I am  </p>
 
 <closer>Sir  <lb/>Your humble. Servt.
-<seg type="postscript"><lb/><lb/>Per the <name type="ship">Mazereen</name> <abbr expan="Captain"> Capt.</abbr> Kelsick <lb/>Copy.&mdash;<lb/><lb/>
+
+<seg type="postscript"><lb/><lb/>Per the <name type="ship">Mazereen</name> <note target="n5"><abbr expan="Captain"> Capt.</abbr> Kelsick </note><lb/>Copy.&mdash;<lb/><lb/>
 
 <lb/><lb/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rappahannock Augst. 15th. 1723&mdash;<lb/>
 Sir<lb/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The <note target="n5">Above</note> is a Copy of mine by the Mazereen this <abbr expan="accompanies">Accompas.</abbr> Capt. <lb/>Bowman &amp; Covers a bill of Lading for 51 hhds. of Tobo. on board his Ship pray God <lb/>Send It Safe to You, &amp; to a better Markett <sic corr="than">thn.</sic> the last met with, <sic corr="I'm">Im</sic> this day told <lb/>by one  of Your Townsmen that You gave Some other men a Farthing a pound <lb/>more <sic corr="than">thn.</sic> I had, <sic corr="I'm">Im</sic> Sorry the largeness of my Quantity Should depretiate me in price <lb/>I must desire You with the hhd of <sic corr="claret">clarret,</sic> I have writ to You for, for my <abbr expan="daughter">Daughr.</abbr> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The <note target="n6">Above</note> is a Copy of mine by the Mazereen this <abbr expan="accompanies ">Accompas.</abbr> <abbr expan="Captain ">Capt.</abbr> <lb/>Bowman &amp; Covers a bill of Lading for 51 hhds. of Tobo. on board his Ship pray God <lb/>Send It Safe to You, &amp; to a better <sic corr="market ">Markett</sic> <sic corr="than ">thn.</sic> the last met with, <sic corr="I am ">Im</sic> this day told <lb/>by one  of Your Townsmen that You gave Some other men a Farthing a pound <lb/>more <sic corr="than ">thn.</sic> I had, <sic corr="I am ">Im</sic> Sorry the largeness of my Quantity Should <sic corr="depreciate ">depretiate</sic> me in price <lb/>I must desire You with the hhd of <sic corr="claret ">clarret,</sic> I have <sic corr="written ">writ</sic> to You for, for my <abbr expan="daughter ">Daughr.</abbr> 
 
 <pb n="3"/><lb/><lb/>
-Burwell that You will Send her in a <abbr expan="quarter">Qr.</abbr> Cask of the Best french <add resp="editor">[brandy ?]</add> 
-	<lb/><lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm prepareing Some more Tobo. for Mr. Reid by whom I Sen<add resp="editor">[d letters]</add> <lb/>to Entertain You more at length, Every hhd of this Tobo. in Bo<add resp="editor">[wman] </add><lb/>I have carried to his Side In my own Craft, I hope You'l take c<add resp="editor">[are to?]</add> <lb/>Allowed for my Charge, Your Masters will Acquaint You, with the gre<add resp="editor">[at]</add> <lb/>Damage we have Sustaind In Our Crops  by the Rains &amp; hard Winds <add resp="editor">[ac]</add><lb/>=cording to the present report from most parts of the Country, Our Crops wil<add resp="editor">[l]</add> <lb/>be but Short, I am <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir&mdash; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yor. very humble Servant
+Burwell that You will Send her in a <abbr expan="quarter ">Qr.</abbr> Cask of the Best french <add resp="editor">[brandy ?] </add> 
+	<lb/><lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm <sic corr="preparing ">prepareing</sic> Some more Tobo. for Mr. <sic corr="Read ">Reid</sic> by whom I Sen<add resp="editor">[d letters] </add> <lb/>to Entertain You more at length, Every hhd of this Tobo. in Bo<add resp="editor">[wman] </add><lb/>I have carried to his Side In my own Craft, I hope <abbr expan="you will ">You'l </abbr> take c<add resp="editor">[are to?] </add> <lb/>Allowed for my Charge, Your Masters will Acquaint You, with the gre<add resp="editor">[at] </add> <lb/>Damage we have Sustaind In Our Crops  by the Rains &amp; hard Winds <add resp="editor">[ac]</add><lb/>=cording to the present report from most parts of the Country, Our Crops wil<add resp="editor">[l] </add> <lb/>be but Short, I am <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir&mdash; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yor. very humble Servant
 </seg></closer>
 
 
@@ -151,22 +161,23 @@ Burwell that You will Send her in a <abbr expan="quarter">Qr.</abbr> Cask of the
 <div1 type="back matter">
 <head>NOTES</head>
 
-<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1723 June 16-1724 April 23, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia. </note>
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1723 June 16-1724 April 23, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia. </note><lb/>
 
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note><lb/>
 
-<note id="n1">[1] John Stark was a merchant, probably the one to whom Carter referred when he wrote to Micajah Perry on 1723 July 4 that he had drawn an order on "Mr. Stark of Glasgow." On that same day, he wrote to a John Stark, referring to Captain Bowman.</note>
+<note id="n1">[1] John Stark was a merchant, probably the one to whom Carter referred when he wrote to Micajah Perry on 1723 July 4 that he had drawn an order on "Mr. Stark of Glasgow." On that same day, he wrote to a John Stark, referring to Captain Bowman.</note><lb/>
 
-<note id="n2">[2] Captain Samuel Bowman commanded the <hi rend="italics">Lucia.</hi> Carter mentioned this vessel in his diary in June 1724, and again on 1726 March 4 when he wrote that she "came in had 20 Weeks Passage."</note>
+<note id="n2">[2] Captain Samuel Bowman commanded the <hi rend="italics">Lucia.</hi> Carter mentioned this vessel in his diary in June 1724, and again on March 4, 1726,  when he wrote that she "came in had 20 Weeks Passage."</note><lb/>
 
-<note id="n3">[3] James Read (Reid) is not referred to as "captain" which means he was an official of John Stark's firm on a trading vessel who was empowered to do its business in Virginia. He was aboard the <hi rend="italics">Charles,</hi> a Glasgow ship that was owned by Stark. Carter specifically refers to "Your Ship" and "the Charles of Glasgow" in a letter to Stark of 1723 September 4. </note>
+<note id="n3">[3] James Read (Reid) is not referred to as "captain" which means he was an official of John Stark's firm on a trading vessel who was empowered to do its business in Virginia. He was aboard the <hi rend="italics">Charles,</hi> a Glasgow ship that was owned by Stark. Carter specifically refers to "Your Ship" and "the Charles of Glasgow" in a letter to Stark of <xref to="/users/berkeley/public/C23i04a.xml">September 4, 1723.</xref> </note><lb/>
 
-<note id="n4">[4] Carter knew of the long conection of the Pontac family with the Haut-Brion vineyards, and the wines produced in that region that came to be known as clarets. (<cit><bibl>"Chateau Haut-Brion" at http://haut-brion.com/chb/chbinitial.htm, found 4/16/02</bibl></cit>)</note>
+<note id="n4">[4] Carter knew of the long conection of the Pontac family with the Haut-Brion vineyards, and the wines produced in that region that came to be known as clarets. (<cit><bibl><xref to="26">"Chateau Haut-Brion"</xref> at http://www.haut-brion.com/home/en/fiches/chb.php, found 4/16/02</bibl></cit>)</note><lb/>
 
-<note id="n5">[5] This long postscript to the letter of August 8, 1723, was squeezed into the letter book below it.</note>
+<note id="n5">[5] Peter How was a merchant of Whitehaven (on the Irish sea in northwest England), who, with Richard Kelsick, traded with the Fredericksburg, Virginia, area from the early 18th century, establishing a store there in 1745. "He had interests in coal and iron-ore mines and set up an iron-working forge at Low Mill [England] in 1750. Debts incurred by the forge and the decline in the tobacco trade may have contributed to his bankruptcy in 1763." (<cit><bibl>Paula S. Felder. "Fredericksburg and Whitehaven Connection to English Port a Forgotten Chapter in Area's Colonial History Living-history Program," Fredericksburg <hi rend="italics">Free-Lance Star</hi>, 7/2/2005;</bibl></cit> and <cit><bibl><xref to="Ext27">Notes on a portrait</xref> of  "Mrs Peter How and her Two Children, Peter and Christian,"  http://www.artfund.org/artwork/2188/mrs-peter-how-and-her-two-children-peter, 11/19/2009. </bibl></cit>)</note><lb/>
 
+<note id="n6">[6] This long postscript to the letter of August 8, 1723, was squeezed into the letter book below it.</note>
 
-
+<lb/><lb/><note><hi rend="italics">This text revised November 23, 2009.</hi></note>
 
 
 </div1>

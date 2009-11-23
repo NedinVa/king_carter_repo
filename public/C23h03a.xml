@@ -11,7 +11,7 @@
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
 <!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
-<TEI.2 id="C23g03a">
+<TEI.2 id="C23h03a">
 
 
 <teiHeader type="aacr2">
@@ -114,14 +114,15 @@
 
 </opener>
 
-<p>By <note target="n1"><abbr expan="Captain">Capt.</abbr> Hopkins,</note> I have received my Accots. from <lb/><add resp="editor">[t]</add>he rest of the <abbr expan="merchants">Merchts.</abbr> but Yet See nothing from You which makes <lb/>me a little uneasie, Herewith comes a bill of Lading for <lb/>10 hhds of Tobo. on board <note target="n2"><abbr expan="Captain">Capt</abbr></note> Richardson 8 of them <sic corr="stemmed">Stemd</sic> my <lb/>Own Crop, The other two <sic corr="sweet scented">Sweat Sented</sic> Leaf, </p>
+<p>By <note target="n1"><abbr expan="Captain ">Capt.</abbr> Hopkins,</note> I have received my Accots. from <lb/><add resp="editor">[t]</add>he rest of the <abbr expan="merchants ">Merchts.</abbr> but Yet See nothing from You which makes <lb/>me a little <sic corr="uneasy, ">uneasie,</sic> Herewith comes a bill of Lading for <lb/>10 hhds of Tobo. on board <note target="n2"><abbr expan="Captain ">Capt</abbr></note> Richardson 8 of them <sic corr="stemmed ">Stemd</sic> my <lb/>Own Crop, The other two <note target="n3"><sic corr="sweet scented ">Sweat Sented</sic> Leaf, </note></p>
 
-<p>I have the Act of Parliament <sic corr="prohibiting">prohibitting</sic> all <lb/><sic corr="stemmed">Stemd</sic> Tobo. that Shall Arrive After the 1st of June next, It is <lb/>A very great  Shock to me, who have <sic corr="stemmed">Stemd</sic> all my Crops for <lb/>these Thirty Years together, The Great Argument I Suppose <lb/>hath bin the Encreasing The Kings <sic corr="customs">Custome,</sic> but I believe in <lb/>Experience that Will be found a great Mistake, a New <lb/>Door of Fraud will be indeed open for the Scotch, but there <lb/>I shall leave It, My Lettrs. Were <sic corr="sealed">seald</sic> up for Richardson <lb/>before my News by Hopkins came to which refer You,</p>
+<p>I have the <note target="n4">Act of Parliament </note><sic corr="prohibiting ">prohibitting</sic> all <lb/><sic corr="stemmed ">Stemd</sic> Tobo. that Shall Arrive After the 1st of June next, It is <lb/>A very great  Shock to me, who have <sic corr="stemmed ">Stemd</sic> all my Crops for <lb/>these Thirty Years together, The Great Argument I Suppose <lb/><sic corr="has ">hath </sic> bin the <sic corr="increasing ">Encreasing</sic> The Kings <sic corr="customs"><sic corr="customs, ">Custome,</sic></sic> but I believe in <lb/>Experience that Will be found a great Mistake, a New <lb/>Door of Fraud will be indeed open for the <note target="n5">Scotch,</note> but there <lb/>I shall leave It, My Lettrs. Were <sic corr="sealed ">seald</sic> up for Richardson <lb/>before my News by Hopkins came to which refer You,</p>
 
-<p>I Desire You to Send me in with the rest of my Goods, <lb/>40 Yards of Your Strongest sacking For Baggs, and 20 <abbr expan="yards">Yds.</abbr> <lb/>of Hair Cloth for prizing Cyder, Also a Strong good <sic corr="scythe fixed">Scyth fixd</sic> <lb/>with a proper handle and <add place="supralinear">Iron</add> Wedges, for Mowing Hay, pray take <lb/>Particular care in buying this <sic corr="scythe">Scyth,</sic> Let it be as Strong &amp; <lb/>good as money will Fetch, I had one come in two or three <lb/>Year Ago, which was a old Shopkeeper I Suppose, one <lb/>Days work <sic corr="spoiled">Spoild</sic> It, It wanted Strength in the back, These <lb/>hard times will Drive us into All the ways of husbandry <lb/>We are capable of, I have almost done  wth. the world, I hope <lb/>to make a Shift to rub through during my time and <lb/>for the Next Generation let them take care of themselves I <lb/>am&mdash; </p>
+<p>I Desire You to Send me in with the rest of my Goods, <lb/>40 Yards of Your Strongest sacking For <sic corr="bags, ">Baggs,</sic> and 20 <abbr expan="yards ">Yds.</abbr> <lb/>of <note target="n6">Hair Cloth</note> for prizing <sic corr="cider. ">Cyder,</sic> Also a Strong good <sic corr="scythe fixed">Scyth fixd</sic> <lb/>with a proper handle and <add place="supralinear">Iron</add> Wedges, for Mowing Hay, pray take <lb/>Particular care in buying this <sic corr="scythe ">Scyth,</sic> Let it be as Strong &amp; <lb/>good as money will Fetch, I had one come in two or three <lb/>Year Ago, which was a old Shopkeeper I Suppose, one <lb/>Days work <sic corr="spoiled ">Spoild</sic> It, It wanted Strength in the back, These <lb/>hard times will Drive us into All the ways of husbandry <lb/>We are capable of, I have almost done  wth. the world, I hope <lb/>to make a Shift to rub through during my time and <lb/>for the Next Generation let them take care of themselves I <lb/>am&mdash; </p>
 
-<closer>Sir&mdash;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yor. very humble Servt
-<seg type="postscript"><lb/><lb/>We are in hope this <lb/>Act of Parliament will <lb/>have a good Influence upon <lb/>the <sic corr="stemmed">Stemd</sic> Tobo now going home.</seg></closer>
+<closer>Sir&mdash;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yor. very humble Servt<lb/>
+
+<seg type="postscript"><lb/><lb/>We are in hope this <lb/>Act of Parliament will <lb/>have a good Influence upon <lb/>the <sic corr="stemmed ">Stemd</sic> Tobo now going home.</seg></closer>
 
 
 </div1>
@@ -135,16 +136,24 @@
 <div1 type="back matter">
 <head>NOTES</head>
 
-<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1723 June 16-1724 April 23, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia. There is a nineteenth-century transcript of this letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia. </note>
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1723 June 16-1724 April 23, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia. There is a nineteenth-century transcript of this letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia. </note><lb/>
 
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note><lb/>
 
-<note id="n1">[1] Captain James Hopkins would be in command of the <hi rend="italics">Mary</hi> in 1727-1728. He was then working for London merchant Robert Cary. He is mentioned in Carter's diary. (<cit><bibl>Adm. 68/194, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n1">[1] Captain James Hopkins would be in command of the <hi rend="italics">Mary</hi> in 1727-1728. He was then working for London merchant Robert Cary. He is mentioned in Carter's diary. (<cit><bibl>Adm. 68/194, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note><lb/>
 
-<note id="n2">[2] Captain [James?] Richardson commanded the <hi rend="italics">Sarah</hi> and was based in Weymouth.</note>
+<note id="n2">[2] Captain [James?] Richardson commanded the <hi rend="italics">Sarah</hi> and was based in Weymouth.</note><lb/>
+
+<note id="n3">[3] Parliament had passed an act forbidding the importation of stemmed tobacco in 1722. John Randolph was sent to England in 1729 as agent for Virginia to try to have the act overturned; his mission would be successful. (<cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> [Newport News, VA: Mariners' Museum, 1953], 116.</bibl></cit>)</note><lb/>
+
+<note id="n4">[4] Parliament had passed an act forbidding the importation of stemmed tobacco in 1722. John Randolph was sent to England in 1729 as agent for Virginia to try to have the act overturned; his mission would be successful. (<cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> [Newport News, VA: Mariners' Museum, 1953], 116.</bibl></cit>)</note><lb/>
+
+<note id="n5">[5] The trading policies of Scots merchants were of considerable concern to Virginia planters and English  merchants at this time, and the matter came before Parliament in 1723. Vessels sent by Scots were crewed by captains and factors authorized to pay good prices in Virginia which enabled them to  obtain full cargoes. English merchants argued that the only way the Scots could afford to pay such good prices was their ability to avoid paying duties on the tobacco at home. Micajah Perry appeared before Parliament and gave statistics of the duties paid by his firm in earlier years and the far smaller amounts paid in the past several years because his ships could not obtain full cargoes in Virginia.  (<cit><bibl n="B22">Price. <title>Perry of London. . . . </title> pp. 64-65.</bibl></cit>)</note><lb/>
+
+<note id="n6">[6] Hair cloth was a "fabric made of hair, used for various purposes, as for tents, towels, shirts of penitents and ascetics; also in drying malt, hops, or the like."  Carter probably used it to strain out the seeds and pulp in squeezing apples to produce cider.  (<cit><bibl><title>Oxford English Dictionary</title></bibl></cit>) </note><lb/><lb/>
 
 
-
+<lb/><lb/><note><hi rend="italics">This text revised November 9, 2009.</hi></note>
 
 
 

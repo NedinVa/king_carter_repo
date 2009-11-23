@@ -10,7 +10,15 @@
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; 
+
+<!NOTATION html SYSTEM "HTML">
+<!ENTITY Ext6 SYSTEM "http://www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm" NDATA html>
+
+
+]>
+
+
 <TEI.2 id="C23h08b">
 
 
@@ -114,12 +122,13 @@ Capt. Jno. Hyde &amp; Company<lb/>
 
 </opener>
 
-<p>I write to You this Lettr. Via Glasgow to advise <lb/>You that Yesterday, as I am the Guardian to <note n="NB">Mr. Burwells</note> Children <lb/>I drew a bill of <abbr expan="exchange">Exche.</abbr> upon You for &pound;50 payable to Mr. John Bagge <lb/>Directing You to Charge it to that Estate,<lb/> I Conclude the Bills in the Plural Number Mr Bagge is to carry <lb/><add resp="editor">[them]</add> to <note n="MP1"><abbr expan="Colonel">Collo.</abbr> Page</note> for his Signing Also</p>
+<p>I write to You this Lettr. Via <name type="city">Glasgow</name> to advise <lb/>You that Yesterday, as I am the Guardian to <note n="NB">Mr. Burwells</note> Children <lb/>I drew a <note target="n1">bill of <abbr expan="exchange ">Exche.</abbr></note> upon You for &pound;50 payable to Mr. <note target="n2">John Bagge</note> <lb/>Directing You to Charge it to that Estate,<lb/> I Conclude the Bills in the Plural Number Mr Bagge is to carry <lb/><add resp="editor">[them] </add> to <note n="MP1"><abbr expan="Colonel ">Collo.</abbr> Page</note> for his Signing Also</p>
 
-<p>The Damage Done our Crops by the late Rains and <lb/>Wind proves to be more considerably than we Expected &amp; now <lb/><sic corr="stemmed">Stemd</sic> Tobo. is prohibited, all broken leaves must go to the <lb/>Dunghill but Enough of this Already, I am&mdash;  </p>
+<p>The Damage Done our Crops by the late Rains and <lb/>Wind proves to be more considerably than we Expected &amp; now <lb/><sic corr="stemmed ">Stemd</sic> Tobo. is prohibited, all broken leaves must go to the <lb/>Dunghill but Enough of this Already, I am&mdash;  </p>
 
 <closer>Sirs Yor. most humble Servt.<lb/><lb/>
-<seg type="postscript">per the <name type="ship">Mazereen.</name> Herein is a Second bill of <abbr expan="Daniel">Danl.</abbr> Watts's </seg></closer>
+
+<seg type="postscript">per the <name type="ship">Mazereen.</name> Herein is a Second bill of <abbr expan="Daniel ">Danl.</abbr> Watts's </seg></closer>
 
 
 </div1>
@@ -133,11 +142,17 @@ Capt. Jno. Hyde &amp; Company<lb/>
 <div1 type="back matter">
 <head>NOTES</head>
 
-<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1723 June 16-1724 April 23, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia. </note>
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1723 June 16-1724 April 23, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia. </note><lb/>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note><lb/>
 
+<note id="n1"> [1] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (<cit><bibl><xref to="Ext6">"Dictionary of  Financial Scam Terms" at </xref> http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm. 8/22/2005</bibl></cit>)</note><lb/>
 
+
+<note id="n2">[2] This probably was John Bagge (1682?-1726), rector of St. Anne's Parish, Essex County, 1709-1711 and 1718-1726.  He had served Sittenburne Parish in Richmond County, 1711-1716. (<cit><bibl>John K. Nelson. <title>A Blessed Company: Parishes, Parsons, and Parishoners in Anglican Virginia, 1690-1776.</title> [Chapel Hill and London: University of North Carolina Press, 2001]. p. 304.</bibl></cit>)</note><lb/>
+
+
+<lb/><lb/><note><hi rend="italics">This text revised November 18, 2009.</hi></note>
 
 
 </div1>
