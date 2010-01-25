@@ -90,7 +90,7 @@
 <abbr>AL</abbr>
 <extent>1 p.</extent>
 <date value="1723-08-26"></date>
-<idno rend="suppress">C23h26d</idno>
+<idno rend="suppress">C23h26d.xml</idno>
 <title>Letter from Robert Carter to Micajah Perry, August 26, 1723</title>
 </bibl>
 </head>
@@ -114,7 +114,7 @@ Mr. Micajh Perry<lb/>
 
 </opener>
 
-<p>This complys wth. my Promise of sending You <lb/>Accots. of the <note n="LL">LL</note> <abbr expan="disbursements">Disbursemts.</abbr> from the Yr. 1714 down to <note n="RM">Mr. Meeks's </note><lb/>time, which is during the Management of <note n="GT"><abbr expan="Captain">Capt.</abbr>Turbervile</note> Mr. <lb/>Meek's has bin Already sent You, <note target="n1"><abbr expan="Colonel">Collo.</abbr> Tayloes</note> three <abbr expan="years">Yrs.</abbr> <lb/>I cannot tell wt. to say to he hath none of his papers left &amp; <lb/>I am not much better provided but If there be a necessity for <lb/>It, I will Endeavour to sett It in as good a light as I can&mdash; <lb/>hereafter, George Turbervile came to my house &amp; spent two <lb/>or three days with me, the other is too Elevated a person to <lb/>Expect such a favour from I am&mdash; </p>
+<p>This <sic corr="complies ">complys</sic> wth. my Promise of sending You <lb/>Accots. of the <note n="LL">LL</note> <abbr expan="disbursements ">Disbursemts.</abbr> from the <abbr expan="year ">Yr. </abbr> 1714 down to <note n="RM">Mr. Meeks's </note><lb/>time, which is during the Management of <note n="GT"><abbr expan="Captain ">Capt.</abbr><sic corr="Turberville ">Turbervile</sic></note> Mr. <lb/>Meek's has bin Already sent You, <note target="n1"><abbr expan="Colonel ">Collo.</abbr> Tayloes</note> three <abbr expan="years ">Yrs.</abbr> <lb/>I cannot tell wt. to say to he <sic corr="has ">hath </sic> none of his papers left &amp; <lb/>I am not much better provided but If there be a necessity for <lb/>It, I will Endeavour to <sic corr="set ">sett</sic> It in as good a light as I can&mdash; <lb/>hereafter, George <sic corr="Turberville ">Turbervile</sic> came to my house &amp; spent two <lb/>or three days with me, the other is too Elevated a person to <lb/>Expect such a favour from I am&mdash; </p>
 
 <closer>Sir, Yor. most humble Serv<add resp="editor">[t.]</add></closer>
 
@@ -130,13 +130,13 @@ Mr. Micajh Perry<lb/>
 <div1 type="back matter">
 <head>NOTES</head>
 
-<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1723 July 4 -1724 June 11, Carter Family Papers, Virginia Historical Society, Richmond. There is a 19th-century copy of the letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia.</note>
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1723 July 4 -1724 June 11, Carter Family Papers, Virginia Historical Society, Richmond. There is a 19th-century copy of the letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia.</note><lb/>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note><lb/>
 
 <note id="n1">[1] John Tayloe (1687-1747) of "Mt. Airy," Richmond County, who served as justice, burgess, colonel of militia, and as a member of the Council after 1732. (<cit><bibl n="B31">Ryland. <title>Richmond County Virginia. . . . </title> pp. 115-16.</bibl></cit>)</note>
 
-
+<lb/><lb/><note><hi rend="italics">This text revised January 22, 2010.</hi></note>
 
 
 </div1>

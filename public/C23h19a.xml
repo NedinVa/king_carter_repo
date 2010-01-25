@@ -29,7 +29,7 @@
    </respStmt>
 </titleStmt>
 
-<extent>ca. 5 kilobytes </extent>
+<extent>ca. 6 kilobytes </extent>
 
 <publicationStmt>
      <publisher>University of Virginia Library.</publisher>
@@ -81,7 +81,7 @@
 
 </teiHeader>
 
-<text id="T">
+<text id="C23h19aT">
 
 <front>
 <div1 type="summary" n="1">
@@ -94,7 +94,7 @@
 <title>Letter from Robert Carter to Micajah Perry, August 19, 1723</title>
 </bibl>
 </head>
-<p>Robert Carter summarizes for London merchant Micajah Perry, August 19, 1723, his recent letters to Perry including bills of exchange drawn, and his annuity. He then chides Perry for failing to inform him concerning the funds that were to be paid into Carter's account with Perry that were the result of an arbitration hearing with Wise's executors.<lb/><lb/><hi rend="italics">This text revised 2002 May 14.</hi></p>
+<p>Robert Carter summarizes for London merchant Micajah Perry, August 19, 1723, his recent letters to Perry including bills of exchange drawn, and his annuity. He then chides Perry for failing to inform him concerning the funds that were to be paid into Carter's account with Perry that were the result of an arbitration hearing with Wise's executors.<lb/><lb/></p>
 </div1>                 
 </front>
 
@@ -114,12 +114,12 @@ Mr. Micajh Perry<lb/>
 
 </opener>
 
-<p>My last was by the way of Glasgow <sic corr="advised">Advisd</sic> You <lb/>of a Bill of <abbr expan="exchange">Exche.</abbr> I had Drawn  on You to <abbr expan="Colonel">Collo.</abbr> Page for 70&pound;. then <lb/>Sent You a bill of his for &pound;49"13"6  Likewise told You that as far <lb/>As I could Understand from the Act of <sic corr="Parliament">Parliamt.</sic> the 5 percent Annu<lb/>=itys only were to be paid off If so mine Still remains, Expect <lb/>You  will take the first Opportunity to let me hear from You <sic corr="about">abt</sic> <lb/>this Matter 
+<p>My last was by the way of <name type="city">Glasgow</name> <sic corr="advised ">Advisd</sic> You <lb/>of a Bill of <abbr expan="exchange ">Exche.</abbr> I had Drawn  on You to <note n="MP1"><abbr expan="Colonel ">Collo.</abbr> Page</note> for 70&pound;. then <lb/>Sent You a bill of his for &pound;49"13"6  Likewise told You that as far <lb/>As I could Understand from the Act of <sic corr="Parliament ">Parliamt.</sic> the 5 percent Annu<lb/>=itys only were to be paid off If so mine Still remains, Expect <lb/>You  will take the first Opportunity to let me hear from You <sic corr="about ">abt</sic> <lb/>this Matter 
 
 <pb n="2"/><lb/><lb/>
-<add resp="editor">[...]</add>son tells me In the Difference between <note target="n1">Wise</note> and I that <lb/><add resp="editor">[was s]</add>ubmitted to Arbitration there was Awarded me against <lb/><add resp="editor">[Wis]</add>es <abbr expan="executors">Execrs.</abbr> One hundred &amp; Eighty pounds, to be paid Into Your <lb/>hands by Mr Saundwell one of Wises <abbr expan="executors">Execrs.</abbr> of this You take <lb/>no Manner of Notice, pray Accquaint me how tht. buisness lyes</p>
+<note n="JC1"><add resp="editor">[my]</add></note>son tells me In the Difference between <note target="n1">Wise</note> and I that <lb/><add resp="editor">[was s]</add>ubmitted to Arbitration there was Awarded me against <lb/><add resp="editor">[Wis]</add>es <abbr expan="executors ">Execrs.</abbr> One hundred &amp; Eighty pounds, to be paid Into Your <lb/>hands by Mr Saundwell one of Wises <abbr expan="executors. ">Execrs.</abbr> of this You take <lb/>no Manner of Notice, pray Accquaint me how tht. buisness <sic corr="lies">lyes</sic></p>
 
-<closer><seg type="postscript"><lb/><lb/></seg></closer>
+
 
 
 </div1>
@@ -133,14 +133,14 @@ Mr. Micajh Perry<lb/>
 <div1 type="back matter">
 <head>NOTES</head>
 
-<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1723 June 16-1724 April 23, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1723 June 16-1724 April 23, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note><lb/>
 
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note><lb/>
 
-<note id="n1">[1] Carter and Thomas Wise had "traded with each other in tobacco and bills of exchange between 1707 and 1717," but Wise "neglected his duty in returning those bills that were protested." Carter sued Wise in England to recover his money, and he won &pound;180. (Survey Report 10147 describing C24/1398 part 1, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia)</note>
+<note id="n1">[1] Carter and Thomas Wise had "traded with each other in tobacco and bills of exchange between 1707 and 1717," but Wise "neglected his duty in returning those bills that were protested." Carter sued Wise in England to recover his money, and he won &pound;180. (Survey Report 10147 describing C24/1398 part 1, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia)</note><lb/>
 
 
-
+<lb/><lb/><note><hi rend="italics">This text revised December 10, 2009.</hi></note>
 
 
 </div1>

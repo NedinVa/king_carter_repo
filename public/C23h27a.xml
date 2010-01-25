@@ -10,7 +10,13 @@
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; 
+
+<!NOTATION html SYSTEM "HTML">
+<!ENTITY Ext6 SYSTEM "http://www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm" NDATA html>
+
+
+]>
 <TEI.2 id="C23h27a">
 
 
@@ -114,8 +120,8 @@ John Burridge, Esq.<lb/>
 
 </opener>
 
-<p>I writ to You the other day by <abbr expan="Captain">Capt.</abbr>
- Willson at <lb/>large since which the <sic corr="enclosed">Enclosd. </sic>bills of <abbr expan="exchange">Exche.</abbr> are come to hand to Witt, <abbr expan="Colonel">Collo.</abbr> <lb/><note target="n1">Thomas Lee</note> on Yor.self for &pound;4"16"6. &amp; <abbr expan="ditto">Do.</abbr> Lee on <note target="n2"><abbr expan="Nathaniel">Nathl. </abbr>Gundry</note> <lb/>for &pound;15"3"6. both wch. sums I desire Yor. managemt. of,</p>
+<p>I <sic corr="wrote ">writ</sic> to You the other day by <abbr expan="Captain ">Capt.</abbr>
+<sic corr="Wilson "> Willson</sic> at <lb/>large since which the <sic corr="enclosed ">Enclosd. </sic><note target="n1">bills of <abbr expan="exchange ">Exche.</abbr></note> are come to hand to <sic corr="wit, ">Witt,</sic> <abbr expan="Colonel ">Collo.</abbr> <lb/><note target="n2">Thomas Lee</note> on <sic corr="yourself ">Yor.self</sic> for &pound;4"16"6. &amp; <abbr expan="ditto ">Do.</abbr> Lee on <note target="n3"><abbr expan="Nathaniel ">Nathl. </abbr>Gundry</note> <lb/>for &pound;15"3"6. both wch. sums I desire Yor. <abbr expan="management ">managemt. </abbr> of,</p>
 
 <p>You will have a lamentable storey of the Destruction of <lb/>Our Crops by the winds &amp; Rains, I think it may be very well asserted wth. <lb/>a great deal of probability we shall not make above half <lb/>Crops I am <lb/>Sir&mdash; </p>
 
@@ -133,16 +139,17 @@ John Burridge, Esq.<lb/>
 <div1 type="back matter">
 <head>NOTES</head>
 
-<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1723 July 4 -1724 June 11, Carter Family Papers, Virginia Historical Society, Richmond. </note>
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1723 July 4 -1724 June 11, Carter Family Papers, Virginia Historical Society, Richmond. </note><lb/>
 
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note><lb/>
 
-<note id="n1">[1] Thomas Lee (1690-1750) was the son of Richard Lee II, and nephew of Edmund Jenings; he would build "Stratford," and succeed Carter on the Council. (<cit><bibl>Burton J. Hendrick. <title>The Lees of Virginia: Biography of a Family.</title> [Boston: Little Brown, 1935]. pp. 48, 51, etc.</bibl></cit>)</note>
+<note id="n1"> [1] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (<cit><bibl><xref to="Ext6">"Dictionary of  Financial Scam Terms" at </xref> http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm. 8/22/2005</bibl></cit>)</note><lb/>
 
-<note id="n2">[2] Nathaniel Gundry was a merchant in Lyme Regis, Dorset, and mayor of that town several times. His son was a member of Parliament and later a judge. ( <cit><bibl>George Robert. <title>History and Antiquities of the Borough of Lyme Regis &amp; Charnmouth.</title> [London, 1834]. pp. 97, 383-4.</bibl></cit>; and  <cit><bibl n="B6">Sedgwick. <title>The History of Parliament . . . Commons.</title> pp. 91-92.</bibl></cit>)</note>
+<note id="n2">[2] Thomas Lee (1690-1750) was the son of Richard Lee II, and nephew of Edmund Jenings; he would build "Stratford," and succeed Carter on the Council. (<cit><bibl>Burton J. Hendrick. <title>The Lees of Virginia: Biography of a Family.</title> [Boston: Little Brown, 1935]. pp. 48, 51, etc.</bibl></cit>)</note><lb/>
 
+<note id="n3">[3] Nathaniel Gundry was a merchant in Lyme Regis, Dorset, and mayor of that town several times. His son was a member of Parliament and later a judge. ( <cit><bibl>George Robert. <title>History and Antiquities of the Borough of Lyme Regis &amp; Charnmouth.</title> [London, 1834]. pp. 97, 383-4.</bibl></cit>; and  <cit><bibl n="B6">Sedgwick. <title>The History of Parliament . . . Commons.</title> pp. 91-92.</bibl></cit>)</note>
 
-
+<lb/><lb/><note><hi rend="italics">This text revised January 25, 2010.</hi></note>
 
 
 </div1>
