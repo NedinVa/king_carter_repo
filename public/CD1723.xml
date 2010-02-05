@@ -15,6 +15,9 @@
 <!NOTATION html SYSTEM "HTML">
 <!ENTITY Ext7 SYSTEM "http://www.next1000.com\/family\/EC\/tarpley.johnI.html" NDATA html>
 
+<!NOTATION php SYSTEM "php">
+<!ENTITY Ext4 SYSTEM "http://www.stratfordhall.org\/learn\/lees\/thomaslee.php" NDATA php>
+
 
 ]>
 
@@ -133,7 +136,7 @@
 </opener>
 <p>
 
-<hi rend="italics">The editor is reviewing this text, and adding corrections and footnotes to it to improve the original posting. The work has reached folio 12 verso as of 1/29/2010.</hi>
+<hi rend="italics">The editor is reviewing this text, and adding expansions to the modern text, and footnotes to both, to improve the original posting. The work has reached folio 14 verso as of 2/5/2010.</hi>
 
 <pb n="folio 7 recto"/><lb/><lb/>
 
@@ -260,7 +263,7 @@ Mar 1   a warm day   So<add resp="editor">[utherl]</add>y <add resp="editor">[wi
 fair warm day  3d   a warm day  wind  <lb/>
 <abbr expan="southeast ">SoE. </abbr>   4th   <sic corr="rainy ">rainey</sic>  warm   wind <abbr expan="south ">So </abbr>   a <note target="n29.5">Chinch</note>  <lb/>
 <sic corr="appeared ">appeard</sic>   Kit came here   33 Lambs  <lb/>
-<note target="n16">mr Bell</note>  Doctor Mann her<add resp="editor">[e] </add>  Tapscott came  
+<note target="n16">mr Bell</note>  <note target="n14">Doctor Mann</note> her<add resp="editor">[e] </add>  Tapscott came  
 
 <pb n="folio 9 verso"/> 
 March 1722/3 <lb/> <lb/>
@@ -289,7 +292,7 @@ thing out of <sic corr="order ">Ordr</sic>   Morris &amp; <note target="n31">Wm 
 <sic corr="met ">mett</sic> me   set the Mill agoing before sun <lb/>
 down   ground all Night <lb/>
 9   my Son &amp; <note n="ECB">Daughter Burwell</note> came her <lb/>
-10   <sic corr="we ">wee</sic> went to Church   <note target="n32">mr Stepto</note>  Doctor  <lb/>
+10   <sic corr="we ">wee</sic> went to Church   <note target="n32">mr <sic corr="Steptoe ">Stepto</sic> </note>  Doctor  <lb/>
 <sic corr="Mann ">Man</sic>  <ref n="RL">D Lee</ref>  mr <sic corr="Turberville ">Turbervile</sic>  mr W Jones <lb/>
 <add place="interlinear"><note target="n20"><sic corr="Thomas Edwards ">T Edwds</sic></note></add> came home with me   went away on <lb/>
 Monday  <lb/>
@@ -493,7 +496,7 @@ to <ref n="MP2">mr <add resp="editor">[Micajah] </add> Perry</ref> executed   <a
 my Lettrs for Town to <ref n="EJ"><abbr expan="Colonel ">Coll</abbr> Jennings</ref> <lb/>
 <ref n="JC1">my <sic corr="son ">Sonn</sic></ref>  <ref n="JH">mr Holloway </ref>  Took my  <lb/>
 leave of Ben Graves <sic corr="about ">abt</sic> 6 in the <lb/>
-Evening   I gave him 4 shoats  one for  <lb/>
+Evening   I gave him 4 <note target="n52.1">shoats</note>  one for  <lb/>
 <note target="n52.5">Low,</note> 4 Barrel Corn  6 Gees  2 Turkey <lb/>
 6 gammons  29 <abbr expan="quarts ">qts </abbr> Cordial Water  1 <abbr expan="dozen ">doz </abbr>  <lb/>
 Made<add resp="editor">[ira] </add>  1 <abbr expan="pound ">lb </abbr> <note target="n48"><sic corr="Jesuits ">Jesiuts</sic> Bark</note>  2 Guineas <lb/>
@@ -600,162 +603,163 @@ W flew <sic corr="about ">abt</sic> to <abbr expan="west ">W </abbr>  blew very 
 <add resp="editor">[mi]</add>ghtily broke &amp; <sic corr="bruised ">bruisd</sic>   Trees <sic corr="broken ">brok</sic> down <lb/>
 <add resp="editor">[Cor]</add>n <sic corr="laid ">Layd</sic> &amp; a great deal broke. 
 
-@<pb n="folio13 recto"/> 
+<pb n="folio13 recto"/> 
 <abbr expan="August ">Augst </abbr> 2 1723 <lb/> <lb/>
 
 <abbr expan="Captain ">Capt </abbr> Fowler left his Negro with me   if I <lb/>
 keep him am to give 7500 &pound; for him <lb/>
 I am to give him for his best Jamaica rum  <lb/>
-3/8 Cash, his best Muscavad <sic corr="Sugar">Sugr</sic>  35S per hundred  <lb/>
-for 52 <abbr expan="pounds ">Lb </abbr> <sic corr="Liverpoo l">Larpool</sic> Goods at 1st Cost 10,000 lb <lb/>
+3/8 Cash, his best <note target="n64.5"><sic corr="muscovado ">Muscavad</sic> <sic corr="Sugar ">Sugr</sic></note>  35<abbr expan=" shillings ">S</abbr> per hundred  <lb/>
+for 52 <abbr expan="pounds ">Lb </abbr> <sic corr="Liverpool">Larpool</sic> Goods at 1st Cost 10,000 <abbr expan="pounds ">lb  </abbr><lb/>
 Tobo in 13 <abbr expan="hogsheads ">hds</abbr> <lb/>
 The Gardiner had Shirts  the Negro Wenches <lb/>
-Peticoats  Aprons   Phil a Shirt  <lb/>
+<sic corr="petticoats ">Peticoats</sic>  Aprons   Phil a Shirt  <lb/>
 Ship Sarah went by the House   <abbr expan="Captain "><abbr expan="Captain ">Captn</abbr>.</abbr> Rich<corr resp="editor">[ard]</corr> son <lb/>
-this day the Gardiner treated me very sawcily <lb/>
+this day the Gardiner treated me very <sic corr="saucily ">sawcily</sic> <lb/>
 told me <corr resp="editor">[he]</corr>  valued <add place="supralinear">not</add> beating  with many other im <lb/>
-pudent answers wch were to many to re  <lb/>
+pudent answers wch were <sic corr="too ">to</sic> many to re  <lb/>
 peat <lb/>
 5   <abbr expan="Captain "><abbr expan="Captain ">Captn</abbr>.</abbr> <abbr expan="Richardson ">Richdson </abbr> went out of the river   he carried <lb/>
 my second Bills of Exch<add>ange</add> &amp; many Lettrs  <lb/>
 I gave my daughter Harrison 2 guineas  <lb/>
-I gave <abbr expan="Captain "><abbr expan="Captain ">Captn</abbr>.</abbr> Rich<corr resp="editor">[ard]</corr> son a Shoat  barrel Corn  <lb/>
-4 Gammons  a <abbr expan="dozen ">doz </abbr> Chickens <lb/>
-<note target="n65">Tho Carter</note> last week had a Noat for 50 busl Corn <lb/>
-Major Fleet had [ . . . ] Lb <sic corr="Sugar">Sugr</sic> at 7 1/2 per l  <lb/>
-Sent an Invoice to <abbr expan="Captain ">Captn</abbr> Carter on fryday  <lb/>
+I gave <abbr expan="Captain "><abbr expan="Captain ">Captn</abbr>.</abbr> Rich<corr resp="editor">[ard]</corr> son a <note target="n52.1">Shoat</note>  barrel Corn  <lb/>
+4 <note target="n51.8">Gammons</note>  a <abbr expan="dozen ">doz </abbr> Chickens <lb/>
+<note target="n65">Tho Carter</note> last week had a <sic corr="note ">Noat</sic> for 50 <abbr expan="bushels ">busl </abbr> Corn <lb/>
+<note target="n65,5">Major Fleet</note> had <add resp="editor">[ . . . ]</add> <abbr expan="pounds ">Lb </abbr> <sic corr="Sugar ">Sugr</sic> at 7 1/2 per <abbr expan="pound ">l </abbr>   <lb/>
+Sent an Invoice to <abbr expan="Captain ">Captn</abbr> Carter on <sic corr="Friday ">fryday</sic>  <lb/>
 when George was sent for <lb/>
-My sloop went for <note target="n66">Wiccocomoco</note> 31th July <add place="supralinear">lay 3 daies for want of</add><lb/>
+My sloop went for <note target="n66">Wiccocomoco</note> 31th July <add place="supralinear">lay 3 <sic corr="days ">daies</sic> for want of</add><lb/>
 <add place="supralinear">Corn</add> <lb/>
-Coll Page sent my Lettrs per his man last <add place="supralinear">of</add> July <lb/>
+<note n="MP1"><abbr expan="Colonel ">Coll</abbr> Page</note> sent my Lettrs per his man last <add place="supralinear">of</add> July <lb/>
 my Daughter Harrison left me 30th July  <lb/>
 &mdash;&mdash;<lb/>
-with my Lettrs I had the <sic corr="packet">Paqt</sic> relating to the <lb/>
+with my Lettrs I had the <sic corr="packet ">Paqt</sic> relating to the <lb/>
 Case of the Weeks &amp; a Commission out of <lb/>
 the Chancery <lb/>
-<abbr expan="Captain ">Captn</abbr> Ric<abbr expan="hogsheads">hds</abbr>on brot  my <sic corr="packet">Paqt</sic> of Prints <lb/>
-5   mr Ja Reed &amp; <abbr expan="Captain ">Captn</abbr> Whiteside came  <lb/>
-here   stayd all night  went away be <lb/>
-fore I was up  Doctor Man went away <lb/>
-Capt Carter came here. <lb/>
+<abbr expan="Captain ">Captn</abbr> Ric<add resp="editor">[hards]</add>on brot  my <sic corr="packet ">Paqt</sic> of Prints <lb/>
+5   mr <note target="n66.5"><abbr expan="James ">Ja </abbr> Reed</note> &amp; <note target="n66.6"><abbr expan="Captain ">Captn</abbr> Whiteside</note> came  <lb/>
+here   <sic corr="stayed ">stayd</sic> all night  went away be <lb/>
+fore I was up  <note target="n14">Doctor <sic corr="Mann ">Man</sic></note> went away <lb/>
+<abbr expan="Captain ">Capt</abbr> Carter came here. <lb/>
 &mdash;&mdash;<lb/>
-6   Mart<add>h</add>a had 2 lb Coffee  1 lb powdr <sic corr="Sugar">Sugr</sic>  <lb/>
+6   Mart<add>[h]</add>a had 2 <abbr expan="pounds ">lb </abbr> Coffee  1 <abbr expan="pound ">lb </abbr> <sic corr="powdered ">powdr</sic> <sic corr="Sugar ">Sugr</sic>  <lb/>
 7   I sent to Mill   Ordered Charles to have his <lb/>
 meal measured <lb/>
 &mdash;&mdash; <lb/>
 mr <abbr expan="John ">Jno </abbr> Bagg here   I took a Mortgage from him  <lb/>
 of his home Plantation &amp; twenty Slaves as <lb/>
 Security for 200&pound; of <ref n="LB">mr Burwells</ref> money <lb/>
-wwch I gave him Bills for  <lb/>
-I prepare for making Cydr <lb/>
-<abbr expan="Captain ">Captn</abbr> Fowler sent me 11 <sic corr="pieces">Peices</sic> Linnen <lb/>
-27 Peices Fustians <lb/>
-8   Geo Thomas in my sloop brot  from <sic corr="Wiccocomoco">Wicoco</sic> 19 <abbr expan="hogsheads">hds</abbr> <lb/>
-1 hd from mr Tho Lees 
+wch I gave him Bills for  <lb/>
+I prepare for making <sic corr="cider ">Cydr</sic> <lb/>
+<abbr expan="Captain ">Captn</abbr> Fowler sent me 11 <sic corr="pieces">Peices</sic> <note target="n63.4"><sic corr="linen ">Linnen</sic></note> <lb/>
+27 <sic corr="pieces">Peices</sic> <note target="n66.7">Fustians</note> <lb/>
+8   <abbr expan="George ">Geo  </abbr>Thomas in my sloop brot  from <sic corr="Wiccocomoco">Wicoco</sic> 19 <abbr expan="hogsheads ">hds</abbr> <lb/>
+1 <abbr expan="hogshead ">hd</abbr> from mr <note target="n66.8"><abbr expan="Thomas ">Tho </abbr> Lees </note>
 
 <pb n="folio13 verso"/>
 
-Augst 1723 <lb/> <lb/>
-9th   I begun making <sic corr="Cider">Sydr</sic>  <lb/>
-Amy Cosby had 12 lb Musco <sic corr="Sugar">Sugr</sic> <lb/>
-15   Martha had a Loaf of <sic corr="Sugar">Sugr</sic>      19   Amy Cosby <lb/>
-had 3 oz <sic corr="ditto?">dd</sic> <sic corr="Sugar">Sugr</sic> <lb/>
-20   my <sic corr="sloop">sloopt</sic>  went to the falls   carried 11 <abbr expan="hogsheads">hds</abbr> <lb/>
-on board <abbr expan="Captain ">Captn</abbr> Ben <note target="n67">[Graves?]</note> <lb/>
-I had made 23 Butts <sic corr="Cider">Sydr</sic>  11 Coolers   next day <lb/>
-I <note target="n68">rid</note> wth my Son to all the Quarters   gave <lb/>
-him Wauney  a <sic corr="Madagascar">Madar</sic> Negro from Corotoman  <lb/>
+<sic corr="August ">Augst</sic> 1723 <lb/> <lb/>
+9th   I begun making <sic corr="Cider ">Sydr</sic>  <lb/>
+<note target="n6">Amy Cosby </note>had 12 lb <abbr expan="muscovado ">Musco</abbr> <sic corr="Sugar ">Sugr</sic> <lb/>
+15   Martha had a Loaf of <sic corr="sugar ">Sugr</sic>      19   Amy Cosby <lb/>
+had 3 <abbr expan="ounces ">oz </abbr> dd <sic corr="Sugar ">Sugr</sic> <lb/>
+20   my <sic corr="sloop ">sloopt</sic>  went to the falls   carried 11 <abbr expan="hogsheads ">hds</abbr> <lb/>
+on board <abbr expan="Captain ">Captn</abbr> Ben <note target="n67">[Graves] </note> <lb/>
+I had made 23 <note target="n68">Butts</note> <sic corr="Cider ">Sydr</sic>  11 Coolers   next day <lb/>
+I <del>writ</del>  <sic corr="rode ">rid</sic> wth my Son to all the Quarters   gave <lb/>
+him Wauney  a <sic corr="Madagascar ">Madar</sic> Negro from Corotoman  <lb/>
 21   I sent Jon Shaw &amp; two of the Sawyers to carry <lb/>
-up my Plank to the Mill &amp; to bring home a hd <sic corr="tobacco">To</sic> <lb/>
+up my Plank to the Mill &amp; to bring home a <abbr expan="hogshead ">hd </abbr> <sic corr="tobacco ">To</sic> <lb/>
 they came home the 23  carried but one Stock  <lb/>
 of Plank <lb/>
 24   Went to mr Wormeleys wth my Son   came  <lb/>
 home that Night   <add place="supralinear">slept in the boat good part of the way the  Awnning down</add><lb/>
 Wauney went wth him  <lb/>
 he had a Suit  fustian Jacket &amp; breeches  <lb/>
-of Linnen  shoos  Stockings &amp; hat <lb/>
-<abbr expan="Captain ">Captn</abbr> Eskridg was here  gave me a Noat on  <lb/>
-mr Burgess for part of his wine  3"10 Ster  <lb/>
-had a loaf of dd refind <sic corr="Sugar">Sugr</sic>   I writ to <abbr expan="Captain ">Captn</abbr>.  <lb/>
+of <sic corr="linen ">Linnen</sic>  shoos  Stockings &amp; hat <lb/>
+<note n="GE"><abbr expan="Captain ">Captn</abbr> <sic corr="Eskridge ">Eskridg</sic></note> was here  gave me a <sic corr="note ">Noat</sic> on  <lb/>
+mr Burgess for part of his wine  3"10 <abbr expan="sterling ">Ster  </abbr> <lb/>
+had a loaf of dd <sic corr="refined ">refind</sic> <sic corr="Sugar ">Sugr</sic>   I <sic corr="wrote ">writ</sic> to <abbr expan="Captain ">Captn</abbr>.  <lb/>
 <note target="n69">Hooper</note> by him  <lb/>
-26   gave Martha [ . . . ] <abbr expan="paid ">pd </abbr> powderd <sic corr="Sugar">Sugr</sic>   Overhald  <lb/>
-some Lockers of my <note target="n70">Wives</note> Store    found  <lb/>
-some Papers of <ref n="MJS">mrs Swanns</ref> &amp; sevl Goods  <lb/>
-I had forgot   gave Gardiner Shoos  Stockins  <lb/>
+26   gave Martha <add resp="editor">[ . . . ]</add> <abbr expan="pound ">pd </abbr> powderd <sic corr="Sugar ">Sugr</sic>   <sic corr="Overhaled ">Overhald</sic>  <lb/>
+some Lockers of my <note target="n70"><sic corr="wife's ">Wives</sic></note> Store    found  <lb/>
+some Papers of <ref n="MJS">mrs Swanns</ref> &amp; <abbr expan="several ">sevl </abbr> Goods  <lb/>
+I had forgot   gave Gardiner <sic corr="shoes ">Shoos</sic>  <sic corr="Stockings ">Stockins</sic>  <lb/>
 also Da<add>[nie]</add>l Mclean <lb/>
-my Son G<add>[eorge]</add> had a feavor Saturday night <lb/>
-took a Vomit Sunday   it workt 9 times   very  <lb/>
+my <note n="GC">Son G<add>[eorge]</add></note> had a <sic corr="fever ">feavor</sic> Saturday night <lb/>
+took a Vomit Sunday   it <sic corr="worked ">workt</sic> 9 times   very  <lb/>
 brisk &amp; well this morning  <lb/>
-Danl Carter came here  had away my <lb/>
-List of Negro Children  a bushl of new wheat  <lb/>
-mem<add>[oran]</add>d<add>[um]</add>  my Sloop from Petomak came home <lb/>
-the 22, Thursday  brot  73 <abbr expan="hogsheads">hds</abbr> Tobo from  <lb/>
+<abbr expan="Daniel ">Danl </abbr> Carter came here  had away my <lb/>
+List of Negro Children  a <sic corr="bushel ">bushl</sic> of new wheat  <lb/>
+mem<add>[oran]</add>d<add>[um]</add>  my Sloop from <sic corr="Potomac ">Petomak</sic> came home <lb/>
+the 22, Thursday  brot  73 <abbr expan="hogsheads ">hds</abbr> Tobo from  <lb/>
 Stafford   my West<add>[morelan]</add>d Tobo left behind   I had  <lb/>
-Lettrs from Hoopr  Cartr  Johnson  Dr Bell  Meeks <lb/>
+Lettrs from <sic corr="Hooper ">Hoopr</sic>  <sic corr="Carter ">Cartr</sic>  Johnson  Dr Bell  Meeks <lb/>
 this morning   I was taken a little lame in my <lb/>
 right Ancle   Attributed it to my walk <lb/>
 Sunday in the Evening  at noon I grew worse  <lb/>
 by five of Clock I prepared for a fit of the <lb/>
-Gout  at night could hardly stirr   went  <lb/>
-to bed at 1/2 an hour after ten. writ sevl  <lb/>
+Gout  at night could hardly <sic corr="stir ">stirr</sic>   went  <lb/>
+to bed at 1/2 an hour after ten. <sic corr="wrote ">writ</sic> sevl  <lb/>
 Lettrs for Eng<add>[lan]</add>d  in a great deal of pain  
 
 <pb n="folio14 recto"/>
 
-Augst 27th 1723  <lb/><lb/>
-I had a pretty good night   was feavorish <sic corr="about ">abt</sic> 2  <lb/>
+<sic corr="August ">Augst</sic> 27th 1723  <lb/><lb/>
+I had a pretty good night   was <sic corr="feverish ">feavorish</sic> <sic corr="about ">abt</sic> 2  <lb/>
 hours   slept well the latter part of the night <lb/>
-wakt pretty easie   continued so <sic corr="until">till</sic> I rise   Cap <lb/>
-Cennedy came here   I finisht my letters in  <lb/>
+<sic corr="waked ">wakt</sic> pretty <sic corr="easy ">easie</sic>   continued so <sic corr="until ">till</sic> I rise   <abbr expan="Captain ">Cap</abbr> <lb/>
+<sic corr="Kennedy ">Cennedy</sic> came here   I <sic corr="finished ">finisht</sic> my letters in  <lb/>
 a great deal of pain   <sic corr="about ">abt</sic> 11 he went away  <lb/>
 was carried into the parlor   drank 3 dishs <lb/>
 of Coffee &amp; milk   was brot  back to my own  <lb/>
 room   the two <note target="n26">scotch pills</note> I took at going  <lb/>
-to bed workt twice <sic corr="about ">abt</sic> 10 Clock   cant stirr  <lb/>
+to bed <sic corr="worked ">workt</sic> twice <sic corr="about ">abt</sic> 10 Clock   cant <sic corr="stir ">stirr</sic>  <lb/>
 but with a world of pain   took to my<lb/>
 Crutch   the least motion of the pained  <lb/>
-Ancle puts me on a rack   fallin came here  <lb/>
+<sic corr="ankle ">Ancle</sic> puts me on a rack   fallin came here  <lb/>
 to Settle Accots   I had 2 stools more at Night <lb/>
 <sic corr="about ">abt</sic> 4 in the afternoon I eat a porringer of Chicken  <lb/>
-brot h with bread in it also some of the minct <lb/>
-Chicken   drank a glass of Cydr &amp; Water   was very  <lb/>
+broth with bread in it also some of the <sic corr="minced ">minct</sic> <lb/>
+Chicken   drank a glass of <sic corr="cider ">Cydr</sic> &amp; Water   was very  <lb/>
 full of Pain all the rest of the day   removd into  <lb/>
-the Parlor at Sunsett  staid there <sic corr="until">till</sic> 10 Clock  <lb/>
-very full of Pain &amp; very restless <sic corr="until">till</sic> going to  <lb/>
-bed, after being in bed fell asleep for abot a Qr <lb/>
-of an hour   wakt in abundance of pain  <lb/>
-was very restless <sic corr="until">till</sic> 4 Clock    had a feavor &amp; <lb/>
-mighty difficulty of breathing    could <add>[not]</add> res <lb/>
-t nor find eas any where or in any pos<add>[i]</add>t<add>[io]</add>n  <lb/>
-<sic corr="about ">abt</sic> 5 Clock was somewhat easie    went <sic corr="off">of</sic> the <lb/>
-feavor   Slept <sic corr="until">till</sic> seven   drank water in  <lb/>
+the Parlor at <sic corr="sunset ">Sunsett</sic>  <sic corr="stayed ">staid</sic> there <sic corr="until ">till</sic> 10 <sic corr="o'clock ">Clock</sic>  <lb/>
+very full of Pain &amp; very restless <sic corr="until ">till</sic> going to  <lb/>
+bed, after being in bed fell asleep for <sic corr="about ">abot</sic> a <abbr expan="quarter ">Qr </abbr> <lb/>
+of an hour   <sic corr="waked ">wakt</sic> in abundance of pain  <lb/>
+was very restless <sic corr="until ">till</sic> 4 <sic corr="o'clock ">Clock</sic>    had a <sic corr="fever ">feavor </sic>&amp; <lb/>
+mighty difficulty of breathing    could <add>[not] </add> res <lb/>
+t nor find <sic corr="ease ">eas</sic> any where or in any pos<add>[i]</add>t<add>[io]</add>n  <lb/>
+<sic corr="about ">abt</sic> 5 <sic corr="o'clock ">Clock</sic> was somewhat <sic corr="easy ">easie</sic>    went <sic corr="off ">of</sic> the <lb/>
+<sic corr="fever ">feavor </sic>   Slept <sic corr="until ">till</sic> seven   drank water in  <lb/>
 the Night 2 or 3 times  did not agree with <lb/>
-me   several times I washt my mouth.   I rise  <lb/>
-<sic corr="about ">abt</sic> 8   drank a pott Sage Tee, The Pain <lb/>
-in my ancle continues as violent as evr  <lb/>
-can stir my foot without being upon <lb/>
+me   several times I <sic corr="washed ">washt</sic> my mouth.   I rise  <lb/>
+<sic corr="about ">abt</sic> 8   drank a <sic corr="pot ">pott</sic> Sage Tee, The Pain <lb/>
+in my <sic corr="ankle ">ancle</sic> continues as violent as <sic corr="ever ">evr </sic> <lb/>
+can<add resp="editor">['t] </add>  stir my foot without being upon <lb/>
 a rack   cant stand without a Crutch &amp;  <lb/>
 very badly with one.  was carried in a Cha<add resp="editor">[ir]</add>  <lb/>
-into the Parlor   at 11 Clock drank 3 dishes of Coff <lb/>
-ee &amp; milk wch sett very well   very restless  <lb/>
-with my Pain   howevr  had the Barbar to <lb/>
-Shave me   eat a porringer of greuel wth <lb/>
-Curr<add>[an]</add>ts   pleasd me well   had 3 loos stooles  <lb/>
+into the Parlor   at 11 a drank 3 dishes of Coff <lb/>
+ee &amp; milk wch <sic corr="set ">sett</sic> very well   very restless  <lb/>
+with my Pain   <sic corr="however ">howevr</sic>  had the Barbar to <lb/>
+Shave me   eat a porringer of <sic corr="gruel ">greuel</sic> wth <lb/>
+Curr<add>[an]</add>ts   <sic corr="pleased ">pleasd</sic> me well   had 3 <sic corr="loose ">loos</sic> <sic corr="stools ">stooles</sic>  <lb/>
 in the Evening  my pain very racking  if I did  <lb/>
-but stirr at night my left foot in some pain  <lb/>
-<abbr expan="John ">Jno </abbr> Lewis came here   staid all Night I <abbr expan="paid ">pd </abbr> him  <lb/>
-26S  18S for prising &amp; receiving 3 <abbr expan="hogsheads">hds</abbr> Tobo <lb/>
-8S for 2 Scabbords   I wa very uneasie <sic corr="until">till</sic>  <lb/>
-10 Clock   my left foot still growing wors   I <lb/>
+but <sic corr="stir ">stirr</sic> at night my left foot in some pain  <lb/>
+<note target="n70.5"><abbr expan="John ">Jno </abbr> Lewis</note> came here   <sic corr="stayed ">staid</sic> all Night I <abbr expan="paid ">pd </abbr> him  <lb/>
+26<abbr expan=" shillings ">S</abbr>  18<abbr expan=" shillings ">S</abbr> for <sic corr="prizing ">prising</sic> &amp; receiving 3 <abbr expan="hogsheads ">hds</abbr> Tobo <lb/>
+8<abbr expan=" shillings ">S</abbr>
+ for 2 Scabbords   I wa very <sic corr="uneasy ">uneasie</sic> <sic corr="until ">till</sic>  <lb/>
+10 <sic corr="o'clock ">Clock</sic>   my left foot still growing <sic corr="worse ">wors</sic>   I <lb/>
 had a Tankard of drink made  water <lb/>
-a little <add place="supralinear"><sic corr="Cider">Sydr</sic> loaf <sic corr="Sugar">Sugr</sic></add>   went to bed, soon was takin with  <lb/>
-a feavr  heat &amp; driness in my hands &amp; feet <lb/>
-&amp; great restlessness   tumblin <lb/>
+a little <add place="supralinear"><sic corr="Cider ">Sydr</sic> loaf <sic corr="Sugar ">Sugr</sic></add>   went to bed, soon was <sic corr="taken ">takin </sic>with  <lb/>
+a <sic corr="fever ">feavr</sic>  heat &amp; <sic corr="dryness ">driness</sic> in my hands &amp; feet <lb/>
+&amp; great restlessness   <sic corr="tumbling ">tumblin</sic> <lb/>
 &amp; tossing 
 
 <pb n="folio14 verso"/>
-
-1723 Augst 28 <lb/><lb/>
+@
+1723 <sic corr="August ">Augst</sic> 28 <lb/><lb/>
 &amp; shifting side every minute   broken  disturbd Sleep <lb/>
 <sic corr="until">till</sic> 3 Clock   had a Candle lightd  drank sevl times of  <lb/>
 my tankard   from 3 slept pretty easily <sic corr="until">till</sic> 7 <lb/>
@@ -1258,31 +1262,31 @@ here   dispatcht away <lb/>
 <head>NOTES</head>
 <note><hi rend="italics">Source copy consulted:</hi> Robert Carter Diary, 1722-1727, Robert Carter Papers, Acc. No. 3807, Albert H. Small Special Collections Library, University of Virginia. Charlottesville.</note><lb/>
 
-<note id="n1">[1] Josh Odar was one of RC's overseers and is mentioned often in the diary.</note><lb/>
+<note id="n1">[1] Josh Odar was one of Carter 's overseers and is mentioned often in the diary.</note><lb/>
 
-<note id="n2">[2] Mann Page (1691-1730) of "Rosewell," Gloucester County, married in late July or early August 1718 Judith Carter, RC's fifth child by his wife Judith Armistead. Page attended Eton and Oxford, and was appointed to the Council shortly after returning to Virginia.  In 1726 he began the house at "Rosewell" but he did not live to complete it. Mann Page II finished the construction; the house burned in 1916, and it is now a "romantic and  noble ruin." (<cit><bibl n="A16">"Council Proceedings," <title>Virginia Magazine. . . .</title></bibl></cit>; and <cit><bibl n="B25">O'Neal, <title>Architecture in Virginia</title>, 101.</bibl></cit>).</note><lb/>
+<note id="n2">[2] Mann Page (1691-1730) of "Rosewell," Gloucester County, married in late July or early August 1718 Judith Carter, Carter's fifth child by his wife Judith Armistead. Page attended Eton and Oxford, and was appointed to the Council shortly after returning to Virginia.  In 1726 he began the house at "Rosewell" but he did not live to complete it. Mann Page II finished the construction; the house burned in 1916, and it is now a "romantic and  noble ruin." (<cit><bibl n="A16">"Council Proceedings," <title>Virginia Magazine. . . .</title></bibl></cit>; and <cit><bibl n="B25">O'Neal, <title>Architecture in Virginia</title>, 101.</bibl></cit>).</note><lb/>
 
 <note id="n3">[3] Elizabeth Carter (1692-1734) married in 1709 Nathaniel Burwell (1680-1721) of "Carter's Creek," Gloucester County, and, in 1724, Dr. George Nicholas.</note><lb/>
 
-<note id="n4">[4] This probably was Ralph Wormeley (ca. 1681-1714), the older of Ralph Wormeley's (d. 1701) sons for whom RC was one of the trustees.</note><lb/>
+<note id="n4">[4] This probably was Ralph Wormeley (ca. 1681-1714), the older of Ralph Wormeley's (d. 1701) sons for whom Carter  was one of the trustees.</note><lb/>
 
 <note id="n5">[5] Jo Ring and Whiteside are presently unidentified.</note><lb/>
 
 <note id="n5.5">[5.5] Carter's meaning of the term "weathers"  is not clear, but the <title>Oxford English Dictionary</title> suggests that it can mean "the fleece obtained from the second or any subsequent shearing of a sheep."</note><lb/><lb/>
 
-<note id="n6">[6] Amy Cosby seems to have been an important house servant, probably the housekeeper for RC, then a widower, and is mentioned a number of times in the diary.</note><lb/>
+<note id="n6">[6] Amy Cosby seems to have been an important house servant, probably the housekeeper for Carter , then a widower, and is mentioned a number of times in the diary.</note><lb/>
 
-<note id="n7">[7] This may have been Thomas Booth of York County who held a power of attorney after 1709 from Robert Bristow (1688-1737), a prominent Englishman and member of Parliament, who had a plantation at Fleet's Bay, Northumberland County. RC had turned down the opportunity to be Bristow's Virginia agent. (<cit><bibl n="A5">Tyler, "Inscriptions on Old Tombs in Gloucester Co., Virginia."</bibl></cit>; and <cit><bibl n="B6">Sedgwick, Romney. <title>The History of Pariament. . . Commons.</title>p. 488.</bibl></cit></note><lb/>
+<note id="n7">[7] This may have been Thomas Booth of York County who held a power of attorney after 1709 from Robert Bristow (1688-1737), a prominent Englishman and member of Parliament, who had a plantation at Fleet's Bay, Northumberland County. Carter  had turned down the opportunity to be Bristow's Virginia agent. (<cit><bibl n="A5">Tyler, "Inscriptions on Old Tombs in Gloucester Co., Virginia."</bibl></cit>; and <cit><bibl n="B6">Sedgwick, Romney. <title>The History of Pariament. . . Commons.</title>p. 488.</bibl></cit></note><lb/>
 
-<note id="n8">[8]Fleet's Bay is at the east end of Northumberland County not far from Corotoman.</note><lb/>
+<note id="n8">[8] Fleet's Bay is at the east end of Northumberland County not far from Corotoman.</note><lb/>
 
-<note id="n9">[9] RC wrote  "Burwell" and struck it out, writing "Wormeley" above. </note><lb/>
+<note id="n9">[9] Carter  wrote  "Burwell" and struck it out, writing "Wormeley" above. </note><lb/>
 
-<note id="n10">[10] There are many references to Charles Stagg in RC's diary where he is usually referred to as "Mr." He seems to have been a major overseer.</note><lb/>
+<note id="n10">[10] There are many references to Charles Stagg in Carter's diary where he is usually referred to as "Mr." He seems to have been a major overseer.</note><lb/>
 
-<note id="n11">[11] "Wolf House" was a farm owned by RC located in Lancaster County relatively close to Corotoman.</note><lb/>
+<note id="n11">[11] "Wolf House" was a farm owned by Carter  located in Lancaster County relatively close to Corotoman.</note><lb/>
 
-<note id="n12">[12]"Corotoman," or "Buckles," was a property very close to RC's home, also called "Corotoman." But this property was under the direction of an overseer named John Buckles, and RC frequently refers to it as "Buckles."</note><lb/>
+<note id="n12">[12]"Corotoman," or "Buckles," was a property very close to Carter s home, also called "Corotoman." But this property was under the direction of an overseer named John Buckles, and Carter  frequently refers to it as "Buckles."</note><lb/>
 
 <note id="n13">[13] Armistead Churchill (1704-1763) was the son of William Churchill of "Bushy Park," Middlesex County. (<cit><bibl n="B4">Harrison, <title>Landmarks. . . . </title>, 346.</bibl></cit>)</note><lb/>
 
@@ -1292,7 +1296,7 @@ here   dispatcht away <lb/>
 
 <note id="n14.5">[14.5] A pinnace was "a small light vessel, generally two-masted, and schooner-rigged; often in attendance on a larger vessel as a tender, scout, etc." It could be rowed as well.  (<cit><bibl><title>Oxford English Dictionary</title></bibl></cit>)</note><lb/><lb/>
 
-<note id="n15">[15] Richard Meeks was described by RC in a letter of July 15, 1720, as the "general overseer" of the property that he consistently referred to by its tobacco mark of a double arrowhead or double "L"; it seems to have been the properties belonging to John Lloyd, widower of RC's niece, Elizabeth. Lloyd went to England about 1700. RC apparently leased the lands from him.</note><lb/>
+<note id="n15">[15] Richard Meeks was described by Carter  in a letter of July 15, 1720, as the "general overseer" of the property that he consistently referred to by its tobacco mark of a double arrowhead or double "L"; it seems to have been the properties belonging to John Lloyd, widower of Carter's niece, Elizabeth. Lloyd went to England about 1700. Carter  apparently leased the lands from him.</note><lb/>
 
 <note id="n16">[16] Dr. John Bell was the minister of Christ Church Parish.</note><lb/>
 
@@ -1312,21 +1316,21 @@ here   dispatcht away <lb/>
 
 <note id="n21.7">[21.7] Carter refers to the British merchants <note n="JB3">John</note> and <note n="RB3">Robert</note> Burridge.</note><lb/><lb/>
 
-<note id="n22">[22] A vessel named the <hi rend="italics">Carter</hi> traded to Virginia for many years; she is most often referred to as the <hi rend="italics">Carter Frigatt</hi>. The captain in 1706 was Thomas Graves who is mentioned in the Lancaster County Court Orders Book for judgements against him obtained by RC. Later, the <hi rend="italics">Carter</hi> would be commanded by Baily Kent, 1718-1721, Thomas Dove, and by Benjamin Graves. She was owned by RC and William Dawkins in 1720.</note><lb/>
+<note id="n22">[22] A vessel named the <hi rend="italics">Carter</hi> traded to Virginia for many years; she is most often referred to as the <hi rend="italics">Carter Frigatt</hi>. The captain in 1706 was Thomas Graves who is mentioned in the Lancaster County Court Orders Book for judgements against him obtained by Carter . Later, the <hi rend="italics">Carter</hi> would be commanded by Baily Kent, 1718-1721, Thomas Dove, and by Benjamin Graves. She was owned by Carter  and William Dawkins in 1720.</note><lb/>
 
-<note id="n23">[23]Benjamin Graves and his brot her, Adam (d. 1726), were the sons of Captain Thomas Graves, long a captain of vessels trading to Virginia, and a special friend of RC; they also commanded vessels in the trade. </note><lb/>
+<note id="n23">[23]Benjamin Graves and his brot her, Adam (d. 1726), were the sons of Captain Thomas Graves, long a captain of vessels trading to Virginia, and a special friend of Carter ; they also commanded vessels in the trade. </note><lb/>
 
 <note id="n23.5">[23.5] According to the <title>Oxford English Dictionary, a "tierce" is a third part of something.</title></note><lb/>
 
-<note id="n24">[24] William Ball (1686-1745) of "Millenbeck," Lancaster County, not far from "Corotoman," was a close friend of RC's, a justice, burgess, and wealthy and powerful man. (<cit><bibl n="A2"> Mann. "William Ball. . . ."</bibl></cit>)</note><lb/>
+<note id="n24">[24] William Ball (1686-1745) of "Millenbeck," Lancaster County, not far from "Corotoman," was a close friend of Carter's, a justice, burgess, and wealthy and powerful man. (<cit><bibl n="A2"> Mann. "William Ball. . . ."</bibl></cit>)</note><lb/>
 
-<note id="n25">[25]  Nan Vitty was a servant of RC's. Her name was found in the <bibl>Lancaster County Court Order Book 7, l721-1729, p.92, Archives Research Services, Library of Virginia.</bibl></note><lb/>
+<note id="n25">[25]  Nan Vitty was a servant of Carter's. Her name was found in the <bibl>Lancaster County Court Order Book 7, l721-1729, p.92, Archives Research Services, Library of Virginia.</bibl></note><lb/>
 
 <note id="n25.5">[25.5] The <hi rend="italics">Oxford English Dictionary.</hi> states that the term "physick," when used to refer to a medicine, means "cathartic or purge."</note><lb/>
 
 <note id="n26">[26] "Anderson's Scots Pills, a product of the 1630's" had been invented by Patrick Anderson, a Scot, who wrote in a book published in 1635 that he had learned the secret of the pills in Venice. He passed the formula to his daughter Katherine who in turn passed it to a doctor named Thomas Weir in 1686. Weir obtained letters patent on the formula from James II in 1687. (<cit><bibl>George B. Griffenhagen and James Harvey Young, "Old English Patent Medicines in America," in <title>Contributions From the Museum of History and Technology.</title> Washington, D.C.: Smithsonian Institution, 1959. Paper 10, 156-183.</bibl></cit>)</note><lb/>
 
-<note id="n27">[27] RC owned a number of volumes of sermons by Dr. John Tillotson; see <bibl n="A28">Wright, <title>Literary Interests of the First Carters...</title></bibl></note><lb/>
+<note id="n27">[27] Carter  owned a number of volumes of sermons by Dr. John Tillotson; see <bibl n="A28">Wright, <title>Literary Interests of the First Carters...</title></bibl></note><lb/>
 
 <note id="n28">[28] Yeaning means to bring forth a lamb.</note><lb/>
 
@@ -1338,23 +1342,23 @@ here   dispatcht away <lb/>
 
 <note id="n30">[30]"Rosegill" was the Wormeley home in Middlesex County; it lay between Rosegill Lake and Urbanna Creek, slightly up the Rappahannock from "Corotoman."</note><lb/>
 
-<note id="n31">[31] Waugh was an important overseer for RC until his death in January 1726; he seems to have been in charge of Jackson's mill as well.</note><lb/>
+<note id="n31">[31] Waugh was an important overseer for Carter  until his death in January 1726; he seems to have been in charge of Jackson's mill as well.</note><lb/>
 
 <note id="n32">[32] Captain John Steptoe lived on land that later (about 1778) would be known as Kilmarnock in Lancaster County. (<cit><bibl>B. Brainard Edmonds, <title>Kilmarnock</title>. Kilmarnock, Va.: Little Pebble Press, 1976, 6.</bibl></cit>)</note><lb/>
 
 <note id="n32.5"> [32.5] John Coppedge  (d. <hi rend="italics">ante</hi> 1724) appears as a justice of the peace in Northumberland County in 1714, but was not listed in 1726 there when the name appears as the surveyor of Lancaster County. (<cit><bibl>Louis des Cognets, Jr., <title>English Duplicates of Lost Virginia Records.</title> Baltimore: Genealogical Publishing Co., Inc. 1981, 27, 36.</bibl></cit>; and Carter to John Chelton, [1724 April 6] for death date.)</note><lb/>
 
-<note id="n33">[33] Collen was an indentured servant, a painter, whom RC called "an honest carefull Sober felow and may be able to gett a Comfortable livelyhood when he comes to his own man" in a letter of 1720 July 14 to the Perrys.</note><lb/>
+<note id="n33">[33] Collen was an indentured servant, a painter, whom Carter  called "an honest carefull Sober felow and may be able to gett a Comfortable livelyhood when he comes to his own man" in a letter of 1720 July 14 to the Perrys.</note><lb/>
 
 <note id="n33.5">[33.5] Philip Smith was sheriff of Northumberland County in 1723-1724. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>,  4[1721- 1739]: 34,67.</bibl></cit>) </note><lb/>
 
 <note id="n33.6">[33.6] Charles Grymes (c. 1692-1743) was the son of John Grymes of Middlesex County, but lived at "Morratico," Richmond County where he was sheriff, burgess, etc. He was a member of the Council (<cit><bibl>"The Grymes Family." <title>Virginia Magazine of History and Biography</title>. 28[1920]: 90-96, 187-94, 283-85, 374-75.</bibl></cit> and <bibl n="B31">Ryland. <title>Richmond County Virginia. . . . </title> pp. 500, 504, 514.</bibl></note><lb/>
 
-<note id="n34">[34]  The <hi rend="italics">Welcome</hi> was commanded at this time by John Trice (or Price) and was owned by London merchant James Bradley. The captain in 1730 as William Barnes. She was a vessel of about 100 tons. (See RC's letter to James Bradley May 17, 1727, and <cit><bibl>Adm. 68/195, ff.154r, Virginia Colonial Records Project, Albert H. Small Special Collections Library, University of Virginia. University of Virginia.</bibl></cit>)</note><lb/>
+<note id="n34">[34]  The <hi rend="italics">Welcome</hi> was commanded at this time by John Trice (or Price) and was owned by London merchant James Bradley. The captain in 1730 as William Barnes. She was a vessel of about 100 tons. (See Carter s letter to James Bradley May 17, 1727, and <cit><bibl>Adm. 68/195, ff.154r, Virginia Colonial Records Project, Albert H. Small Special Collections Library, University of Virginia. University of Virginia.</bibl></cit>)</note><lb/>
 
 <note id="n35">[35] Carter refers to this unidentified ship by its captain's name.</note><lb/>
 
-<note id="n36">[36] This may be the Charles Jones who was a long-time overseer for RC at Hills Quarter in Lancaster County.</note><lb/>
+<note id="n36">[36] This may be the Charles Jones who was a long-time overseer for Carter  at Hills Quarter in Lancaster County.</note><lb/>
 
 <note id="n37">[37] Nomini, or "Nomini Hall" as it would later be called, is in Westmoreland County on Nomini Creek, which flows into the Potomac River.</note><lb/>
 
@@ -1384,19 +1388,19 @@ here   dispatcht away <lb/>
 
 <note id="n41.5">[41.5] Captain John Steptoe lived on land in Lancaster County that later (about 1778) would be known as Kilmarnock. (<cit><bibl>B. Brainard Edmonds, <title>Kilmarnock</title>.[Kilmarnock, Va.: Little Pebble Press, 1976] p. 6.</bibl></cit>)</note><lb/> 
 
-<note id="n42">[42] "Town" was Williamsburg to RC.</note><lb/>
+<note id="n42">[42] "Town" was Williamsburg to Carter .</note><lb/>
 
-<note id="n43">[43] The "colledg" was the College of William and Mary in Williamsburg; RC was on its board and often served as Rector.</note><lb/>
+<note id="n43">[43] The "colledg" was the College of William and Mary in Williamsburg; Carter  was on its board and often served as Rector.</note><lb/>
 
 <note id="n43.5">[43.5] Falls is "the loose end of the tackle, to which the power is applied in hoisting," because it is "an apparatus for lowering bales, etc.; also Naut[ical] in pl[ural]."  (<cit><bibl><title>Oxford English Dictionary</title></bibl></cit>)</note><lb/>
 
-<note id="n44">[44] Robert Biscoe was one of RC's clerks who wrote his letters and kept the accounts for the business.</note><lb/>
+<note id="n44">[44] Robert Biscoe was one of Carter's clerks who wrote his letters and kept the accounts for the business.</note><lb/>
 
-<note id="n45">[45] Charles Jones was a long-time overseer for RC at Hills Quarter in Lancaster County. RC wrote to him there in 1727, and he appears in RC's will as the overseer on that property.</note><lb/>
+<note id="n45">[45] Charles Jones was a long-time overseer for Carter  at Hills Quarter in Lancaster County. Carter  wrote to him there in 1727, and he appears in Carter's will as the overseer on that property.</note><lb/>
 
-<note id="n46">[46] "Changlins" was a farm owned by RC located in Lancaster County relatively close to Corotoman.</note><lb/>
+<note id="n46">[46] "Changlins" was a farm owned by Carter  located in Lancaster County relatively close to Corotoman.</note><lb/>
 
-<note id="n47">[47] RC probably refers to his grandchildren, Carter (1716-1756) and Elizabeth Burwell (1718-?) who may have taken dancing lessons from Charles Stagg (d. c. 1735), the manager of the first theatre in Williamsburg, and a dancing master.</note><lb/>
+<note id="n47">[47] Carter  probably refers to his grandchildren, Carter (1716-1756) and Elizabeth Burwell (1718-?) who may have taken dancing lessons from Charles Stagg (d. c. 1735), the manager of the first theatre in Williamsburg, and a dancing master.</note><lb/>
 
 <note id="n47.5">[47.5]   Patrick Connelly appears on a 1716 list of titheables in Christ Church Parish, Lancaster County (<cit><bibl>"Tithables in Lancaster Co., 1716." <title>William and Mary Quarterly</title> 1st. ser., 21[July 1912]:107.</bibl></cit>)</note><lb/>
 
@@ -1421,7 +1425,9 @@ Grievances; and <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the C
 
 <note id="n51.8">[51.8] A gammon is large piece of cured pork, or bacon.</note>
 
-<note id="n52">[52] John Bashford (d. 1735), son of Symon and Grace Bashford, married Elizabeth Heath. In 1726 he was to present affaidavits in Northumberland County court to prove his parentage and marriage because "he had fallen heir to an estate in England." He had appealed to RC for help several years earlier, and RC had enlisted London merchant Micajah Perry to assist. (<cit><bibl>"The Heaths of Northumberland County, Virginia," <title>William and Mary Quarterly</title>1st ser. 24: 109-115]</bibl></cit>.)</note><lb/>
+<note id="n52">[52] John Bashford (d. 1735), son of Symon and Grace Bashford, married Elizabeth Heath. In 1726 he was to present affaidavits in Northumberland County court to prove his parentage and marriage because "he had fallen heir to an estate in England." He had appealed to Carter  for help several years earlier, and Carter  had enlisted London merchant Micajah Perry to assist. (<cit><bibl>"The Heaths of Northumberland County, Virginia," <title>William and Mary Quarterly</title>1st ser. 24: 109-115]</bibl></cit>.)</note><lb/>
+
+<note id="n52.1">[52.1] A shoat is a "young weaned pig."  (<cit><bibl><title>Oxford English Dictionary</title></bibl></cit>)</note><lb/>
 
 <note id="n52.5">[52.5] Solomon Low was Carter's sons' schoolmaster in England. See Carter's letter to hime of <xref to="/users/berkeley/public/C23g05g.xml">July 5, 1723</xref>. </note><lb/>
 
@@ -1442,7 +1448,7 @@ Grievances; and <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the C
 
 <note id="n55.4">[55.4] William Downman was a justice of Richmond County from 1718, sheriff  in 1722 and 1723, and a tobacco inspector in 1731 and 1732. (<cit><bibl n="B31">Ryland. <title>Richmond County Virginia. . . . </title> p. 504.</bibl></cit> and <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4(1721-1739): 12, 34, 238, 286</bibl></cit>)</note>
 
-<note id="n56">[56] RC took John Conway and George Davenport to court over a debt of &pound;64/16/5 due from a bond they had given in 1712. (<cit><bibl n="B28">Jones, Orders Book Entries. . . . p. 114.</bibl></cit>)</note><lb/>
+<note id="n56">[56] Carter  took John Conway and George Davenport to court over a debt of &pound;64/16/5 due from a bond they had given in 1712. (<cit><bibl n="B28">Jones, Orders Book Entries. . . . p. 114.</bibl></cit>)</note><lb/>
 
 <note id="n56.5">[56.5] The Coan River is located in Northumberland County flowing roughly northwest into the Potomac. <cit><bibl n="B29">Miller. <title>Place-Names . . . . </title>p. 31.</bibl></cit></note><lb/>
 
@@ -1450,9 +1456,9 @@ Grievances; and <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the C
 
 <note id="n57">[57] The end of each of the last four lines on this folio break off without obvious damage to the page.</note><lb/>
 
-<note id="n58">[58] There are several mentions of a ship named <hi rend="italics">Content</hi> in RC's diary and letters; various men commanded her at different times. She may have been a Liverpool vessel.</note><lb/>
+<note id="n58">[58] There are several mentions of a ship named <hi rend="italics">Content</hi> in Carter's diary and letters; various men commanded her at different times. She may have been a Liverpool vessel.</note><lb/>
 
-<note id="n59">[59] RC's daughter, Anne (1702-ca. 1743) had married in 1722 Benjamin Harrison IV of "Bromley," Charles City County.</note><lb/>
+<note id="n59">[59] Carter's daughter, Anne (1702-ca. 1743) had married in 1722 Benjamin Harrison IV of "Bromley," Charles City County.</note><lb/>
 
 <note id="n60">[60] John Grymes (1692-1748) of "Brandon," Middlesex County, served as deputy auditor of the colony and  would be appointed to the Council in 1725.</note><lb/>
 
@@ -1460,7 +1466,7 @@ Grievances; and <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the C
 
 <note id="n62">[62]  Betty, daughter of Ralph Wormeley, married John Lomax (1675-1729), in1703. He was born in North Shields, Northumberland, England, and came to Virginia in 1701.  Through his wife, he acquired "Portobogo," Essex (later, Caroline) County. He was a justice of the peace. (<cit><bibl n="M6">Lomax Family Bible records.</bibl></cit>.)</note><lb/>
 
-<note id="n63">[63] Mangorite (or Mangorike) was a farm in Richmond County "in the vicinity of present Downing Bridge spanning the Rappahannock and present-day Little Carter Creek. . . . It consisted of 1,800 acres belonging to Colonel Moore Fauntleroy in the seventeenth century." RC  bequeathed it to Landon Carter. (<cit><bibl n="B29">Miller, <title>Place-Names . . .</title>, p. 93.</bibl></cit>. <cit><bibl n="B30">Greene, <title>The Diary of Colonel Landon Carter . . .</title>, 5.</bibl></cit>)</note><lb/>
+<note id="n63">[63] Mangorite (or Mangorike) was a farm in Richmond County "in the vicinity of present Downing Bridge spanning the Rappahannock and present-day Little Carter Creek. . . . It consisted of 1,800 acres belonging to Colonel Moore Fauntleroy in the seventeenth century." Carter   bequeathed it to Landon Carter. (<cit><bibl n="B29">Miller, <title>Place-Names . . .</title>, p. 93.</bibl></cit>. <cit><bibl n="B30">Greene, <title>The Diary of Colonel Landon Carter . . .</title>, 5.</bibl></cit>)</note><lb/>
 
 <note id="n63.3">[63.3 ] Damask is "a rich silk fabric woven with elaborate designs and figures, often of a variety of colours. Also applied to figured materials of silk and wool, silk and cotton, or worsted or cotton only, used for furniture-covering, curtains, etc." (<cit><bibl><title>Oxford English Dictionary</title></bibl></cit>)</note>
 
@@ -1473,33 +1479,49 @@ Grievances; and <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the C
 
 <note id="n64">[64] Tarpley and Downman were prominent citizens of Richmond County, each serving as sheriff at various times. (<cit><bibl n="B31">Ryland, <title>Richmond County Virginia . . . ,</title> 500.</bibl></cit>)</note><lb/>
 
-<note id="n65"> [65] Thomas Carter (1672-1733) was the second of that name in Lancaster County, and may have been RC's first cousin as there is evidence that their fathers were brot hers. He lived at "Barford" in the northern part of the county. (<cit><bibl>Catherine Adams Jones, <title>The Early Thomas Carters of Lancaster County, Virginia</title>. Lancaster, Virginia: Mary Ball Washington Museum &amp; Library, 1982.</bibl></cit></note><lb/>
+<note id="n64.5">[64.5] Muscovado is "raw or unrefined sugar obtained from the juice of the sugar cane by evaporation and draining off the molasses."  (<cit><bibl><title>Oxford English Dictionary</title></bibl></cit>)</note><lb/>
 
-<note id="n66">[66] This was a farm owned by RC, probably located in Northumberland County where there is a creek of this name.</note><lb/>
+<note id="n65"> [65] Thomas Carter (1672-1733) was the second of that name in Lancaster County, and may have been Carter's first cousin as there is evidence that their fathers were brot hers. He lived at "Barford" in the northern part of the county. (<cit><bibl>Catherine Adams Jones, <title>The Early Thomas Carters of Lancaster County, Virginia</title>. Lancaster, Virginia: Mary Ball Washington Museum &amp; Library, 1982.</bibl></cit></note><lb/>
 
-<note id="n67"> [67] RC omitted the captain's last name.</note><lb/>
+<note id="n65.5">[66.5]  Henry Fleet (d. 1735) was the third member of a distinguished Lancaster County family to bear this name,  and was justice, sheriff in 1729-1730, coroner, surveyor of roads, and militia officer. ("Rebecca Banton Mysterious Woman of Wealth" in <cit><bibl n="B43">Brown and Sorrells. <title>People in
+Profile,</title> pp. 129-30.</bibl></cit>)</note>
 
-<note id="n68"> [68] RC struck out "writ" and wrote the word he intended, "rid."</note><lb/>
+<note id="n66">[66] This was a farm owned by Carter , probably located in Northumberland County where there is a creek of this name.</note><lb/>
+
+<note id="n66.5">[66.5] James Read (Reid) is not referred to as "captain" which means he was an official of John Stark's firm on a trading vessel who was empowered to do its business in Virginia. He was aboard the <hi rend="italics">Charles,</hi> a Glasgow ship that was owned by Stark. Carter specifically refers to "Your Ship"
+and "the Charles of Glasgow" in a letter to Stark of <xref to="/users/berkeley/public/C23i04a.xm">September 4, 1723</xref>. </note>
+
+<note id="n66.6">[66.6] William Whiteside commanded the <hi rend="italics">Lucy</hi> in 1727; she was a brigantine, and apparently called at Madeira, as Carter ordered wine from merchants there by her. (See Carter to Heyward, Miles &amp; Rider, <xref to="/users/berkeley/public/C27f29b.xml">June 29, 1727</xref>.)</note>
+
+<note id="n66.7">[66.7] Fustians is "coarse cloth of cotton and flax, thick twilled cotton with short nap." ((<cit><bibl>18th Century Trade Terms (Fabrics), "Of Silk, Terms Of Silk, Cotton, Linen and Wool,"[Compiled from] <title>The Beekman Mercantile Paper</title>1746 - 1799 at http://www.18cnewenglandlife.org/18cnel/ofsilk.htm,  5/4/ 2007</bibl></cit>) </note>
+
+<note id="n66.8">[66.8] Thomas Lee (1690-1750) of Westmoreland County was the son of Richard Lee II, and nephew of Edmund Jenings; he would build "Stratford," and succeed Carter on the Council. For a good article on Thomas Lee, see  <xref to="Ext4">that on Stratford plantation's website.</xref> (<cit><bibl>Burton J. Hendrick. <title>The Lees of Virginia: Biography of a Family.</title> [Boston: Little Brown, 1935]. pp. 48, 51, etc.</bibl></cit>)</note>
+
+<note id="n67"> [67] Carter  omitted the captain's last name.</note><lb/>
+
+<note id="n68">[68] A butt was a  "cask for wine or ale, of capacity varying from 108 to 140 gallons.  . . .  a measure of capacity = 2 hogsheads, i.e. usually in ale measure 108 gallons, in wine measure 126 gallons; but these standards were not always precisely adhered to."  (<cit><bibl><title>Oxford English Dictionary</title></bibl></cit>)</note>
 
 <note id="n69">[69] Thomas Hooper was appointed sheriff of Stafford County in 1719.</note><lb/>
 
-<note id="n70"> [70] RC's second wife, Elizabeth (Landon) Willis Carter, had died in 1719.</note><lb/>
+<note id="n70"> [70] Carter 's second wife, Elizabeth (Landon) Willis Carter, had died in 1719.</note><lb/>
 
-<note id="n71"> [71] RC owned <bibl>James Blair, <title>Our Saviour's Sermon on the Mount ... Explained ... in Divers Sermons and Discourses</title></bibl>. (<cit><bibl n="A28">Wright, <title>Literary Interests of the First Carters...</title>, p.55.</bibl></cit>)</note><lb/>
+<note id="n70.5">[70.5] John Lewis (1669-1725) of "Warner Hall," Gloucester County, had been a member of the Council since 1704. (<cit><bibl>Louis B. Wright and Marion Tinling, <title>William Byrd of Virginia: The London Diary 1717-1721 and Other Writings. [New York: Oxford University Pres, 1958]. p. 458 </title></bibl></cit>)</note><lb/>
+
+<note id="n71"> [71] Carter  owned <bibl>James Blair, <title>Our Saviour's Sermon on the Mount ... Explained ... in Divers Sermons and Discourses</title></bibl>. (<cit><bibl n="A28">Wright, <title>Literary Interests of the First Carters...</title>, p.55.</bibl></cit>)</note><lb/>
 
 <note id="n72"> [72] Reid was captain of the <hi rend="italics">Charles</hi>, a Glasgow ship.</note><lb/>
 
-<note id="n73">[73] Hugh Drysdale (<hi rend="italics">ca.</hi> (1670-1726) was lieutenant governor under the Earl of Orkney, the titular governor who never came to Virginia. Drysdale arrived in Virginia in September 1722 and ruled the colony until his death in July 1726. RC, as president of the Council, would succeed him.</note><lb/>
+<note id="n73">[73] Hugh Drysdale (<hi rend="italics">ca.</hi> (1670-1726) was lieutenant governor under the Earl of Orkney, the titular governor who never came to Virginia. Drysdale arrived in Virginia in September 1722 and ruled the colony until his death in July 1726. Carter , as president of the Council, would succeed him.</note><lb/>
 
 <note id="n74">[74] "Hickory Thicket" was located in Richmond County "northeast of Warsaw" according to  Miller's <title>Place-Names of the Northern Neck of Virginia</title>, p. 66. (<cit><bibl n="B29">Miller, <title>Place-Names . . .</title>, p. 93.</bibl></cit></note><lb/>
 
-<note id="n75"> [75] It is not clear what property RC refers to; he had an overseer named Roger Oxford in 1732, and it is possible that Oxford was already working for Carter in 1723. The property presumably was in Richmond or Westmoreland counties.</note><lb/>
+<note id="n75"> [75] It is not clear what property Carter  refers to; he had an overseer named Roger Oxford in 1732, and it is possible that Oxford was already working for Carter in 1723. The property presumably was in Richmond or Westmoreland counties.</note><lb/>
 
 <note id="n76">[76] "Cole's Point" was in Westmoreland County " in Coles Neck just east of Lower Machodoc Creek on the Potomac" according to Mary R. Miller. The property, of some 1,350 acres, descended to Robert Carter III, according to Louis Morton. (<cit><bibl n="B29">Miller, <title>Place-Names. . . .</title> p. 32.</bibl></cit> and <cit><bibl n="B32"> Morton, <title>Robert Carter. . . .</title> p. 70.</bibl></cit></note><lb/>
 
 <note id="n77"> [77] This farm has not been identified.</note><lb/>
 
-<note id="n78"> [78] <hi rend="italics">Old Ordinary</hi>, a tract in Westmoreland County, had 15 slaves, 87 hogs, 57 cattle, 27 sheep, and 6 horses in the 1732 inventory of RC's estate; James Whaley was then its overseer. (<cit><bibl n="A26">"Carter Papers: An Inventory. . . ."</bibl></cit>)</note><lb/>
+<note id="n78"> [78] <hi rend="italics">Old Ordinary</hi>, a tract in Westmoreland County, had 15 slaves, 87 hogs, 57 cattle, 27 sheep, and 6 horses in the 1732 inventory of Carter 's estate; James Whaley was then its overseer. (<cit><bibl n="A26">"Carter Papers: An Inventory. . . ."</bibl></cit>)</note><lb/>
 
 <note id="n79"> [79] "Belfield " (Bellfield) or "Rock Spring" is in Richmond County and "has belonged to the Bellfield family since the early eighteenth century, and was named for the spring one quarter mile below the house."(<cit><bibl n="B29">Miller, <title>Place-Names. . . .</title> p. 136.</bibl></cit>)</note><lb/>
 
@@ -1507,26 +1529,26 @@ Grievances; and <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the C
 
 <note id="n81">[81] Thomas Woodward commanded the <hi rend="italics">Providence</hi>, a London vessel of about 90 tons owned by John Hyde and Company. (<cit><bibl>There are a number of records concerning this vessel in Adm. 68/194 [ff. 27r, 77r, and 130r] and /195 [ff. 152v] which may be consulted in the records of the Virginia Colonial Records Project, Albert H. Small Special Collections Library, University of Virginia.</bibl></cit>)</note><lb/>
 
-<note id="n82"> [82] Falls Quarter was located in King George County, and had twenty-four slaves, three horses, and thirty-eight cattle in the 1732 inventory of Robert Carter's estate; it lay on lands patented in March 1704 by James Innes for RC. (<cit><bibl n="A26">"Carter Papers: An Inventory. . . ."</bibl></cit>; and <cit><bibl n="B4">Harrison, <title>Landmarks. . . . </title> p. 198.</bibl></cit>)</note><lb/>
+<note id="n82"> [82] Falls Quarter was located in King George County, and had twenty-four slaves, three horses, and thirty-eight cattle in the 1732 inventory of Robert Carter's estate; it lay on lands patented in March 1704 by James Innes for Carter . (<cit><bibl n="A26">"Carter Papers: An Inventory. . . ."</bibl></cit>; and <cit><bibl n="B4">Harrison, <title>Landmarks. . . . </title> p. 198.</bibl></cit>)</note><lb/>
 
 <note id="n83"> [83] John Coppedge appears as a justice of the peace in Northumberland County in 1714, but was not listed in 1726 there when the name appears as the surveyor of Lancaster County.   (<cit><bibl>Louis des Cognets, Jr., <title>English Duplicates of Lost Virginia Records.</title> Baltimore: Genealogical Publishing Co., Inc. 1981, 27, 36.</bibl></cit>)</note><lb/>
 
-<note id="n84">[84] Brent Town  was a speculative land development put together by Nicholas Hayward (d. ante 1697) of London, a notary public, merchant, and speculator. Hayward assembled a syndicate composed of London merchants Robert Bristow (1643-1707)  and Richard Foote (his brot her-in-law), and George Brent of "Woodstock," Stafford County. The syndicate purchased on January 10, 1686/87, from Lord Culpeper, by then the sole owner of the Northern Neck Proprietary, 30,006 acres in Stafford County "Between the Courses of the said Two Rivers, Rappahannock and Potowmack . . . upon and Between the Southwest and Northeast Branches of Ocaquant Creek. . . ." Hayward obtained a dispensation from King James II that would allow the Hugenots that he hoped to settle on the land to have "the full exercise  of their Religion." The town that Hayward hoped to build on the tract was called Brenton, "but this was corrupted by local [Virginia] usage into Brent Town, and that came to be the designation of the whole tract." Hayward was not successful in persuading Hugenots to move to the lands, and, after flirting with other possiblities, the tract remained unsettled and unsurveyed at the time of his death about 1697. The members of the syndicate and their heirs bequeathed and sold their rights in the Brenton tract for generations. RC was to have considerable trouble over the tract after becoming agent of the proprietors again in 1721. He was pressed to grant lands in the area of Brenton, but it was very difficult to do so because the tract had not been surveyed&mdash;and was not to be until 1737-1738.  (Fairfax Harrison, in a chapter entitled "Brent Town, Ravensworth and the Hugenots,"
+<note id="n84">[84] Brent Town  was a speculative land development put together by Nicholas Hayward (d. ante 1697) of London, a notary public, merchant, and speculator. Hayward assembled a syndicate composed of London merchants Robert Bristow (1643-1707)  and Richard Foote (his brot her-in-law), and George Brent of "Woodstock," Stafford County. The syndicate purchased on January 10, 1686/87, from Lord Culpeper, by then the sole owner of the Northern Neck Proprietary, 30,006 acres in Stafford County "Between the Courses of the said Two Rivers, Rappahannock and Potowmack . . . upon and Between the Southwest and Northeast Branches of Ocaquant Creek. . . ." Hayward obtained a dispensation from King James II that would allow the Hugenots that he hoped to settle on the land to have "the full exercise  of their Religion." The town that Hayward hoped to build on the tract was called Brenton, "but this was corrupted by local [Virginia] usage into Brent Town, and that came to be the designation of the whole tract." Hayward was not successful in persuading Hugenots to move to the lands, and, after flirting with other possiblities, the tract remained unsettled and unsurveyed at the time of his death about 1697. The members of the syndicate and their heirs bequeathed and sold their rights in the Brenton tract for generations. Carter  was to have considerable trouble over the tract after becoming agent of the proprietors again in 1721. He was pressed to grant lands in the area of Brenton, but it was very difficult to do so because the tract had not been surveyed&mdash;and was not to be until 1737-1738.  (Fairfax Harrison, in a chapter entitled "Brent Town, Ravensworth and the Hugenots,"
  in his <cit><bibl n="B4"><title>Landmarks of Old Prince William</title></bibl></cit> [from which all quotations used here are taken] tells the story of Brent Town  extremely well. <hi rend="italics">See also </hi><cit><bibl n="B5">Davis,  <title>William Fitzhugh. . . .</title> p. 191, fn 2, and other sources.</bibl></cit>)</note><lb/>
 
 <note id="n85">[85] Broad Run is a tributary of the Potomac River lying in Fairfax County.</note><lb/>
 
 <note id="n86">[86] Little Fork drains into what was named the  Hedgeman River, a branch of the Rappahannock, on the 1751 Fry-Jefferson map; modern maps label the Hedgeman as the main branch of the Rappahannock. It was in the area labeled as Prince William County by Fry and Jefferson.</note><lb/>
 
-<note id="n87">[87] RC probably acquired this Lancaster County property from Jackson; it is referred to in the Lancaster County Court Orders book as "Robert Carter . . . his mill formerly called Jackson's mill." (<cit><bibl n="B28">Jones, Orders Book Entries. . . . p. 321.</bibl></cit>)</note><lb/>
+<note id="n87">[87] Carter  probably acquired this Lancaster County property from Jackson; it is referred to in the Lancaster County Court Orders book as "Robert Carter . . . his mill formerly called Jackson's mill." (<cit><bibl n="B28">Jones, Orders Book Entries. . . . p. 321.</bibl></cit>)</note><lb/>
 
-<note id="n88">[88] Robert Carter (1704-1732) was RC's seventh child by his second wife, Elizabeth Landon (Willis) Carter. Robert had been sent to England to school in 1718 (see RC's letter to William Dawkins, July 9, 1718.), and here returns to his home. Robert would marry Priscilla Churchill and have two children, one of whom, Robert Carter III, would be known as "Councillor" Carter of "Nomini Hall." Robert Carter II would die a few months before his father.</note><lb/>
+<note id="n88">[88] Robert Carter (1704-1732) was Carter's seventh child by his second wife, Elizabeth Landon (Willis) Carter. Robert had been sent to England to school in 1718 (see Carter's letter to William Dawkins, July 9, 1718.), and here returns to his home. Robert would marry Priscilla Churchill and have two children, one of whom, Robert Carter III, would be known as "Councillor" Carter of "Nomini Hall." Robert Carter II would die a few months before his father.</note><lb/>
 
-<note id="n89">[89] This property is six miles southeast of Williamsburg; in his will, RC directed that it be called "Carter's Grove" in perpetuity, and this is the name it bears today. The house on the property was built by RC's grandson, Carter Burwell, beginning about 1750.</note><lb/>
+<note id="n89">[89] This property is six miles southeast of Williamsburg; in his will, Carter  directed that it be called "Carter's Grove" in perpetuity, and this is the name it bears today. The house on the property was built by Carter's grandson, Carter Burwell, beginning about 1750.</note><lb/>
 
 <note id="n90">[90] John Tarpley (1661-ca. 1739) was sheriff and a justice of  the peace in Richmond County (<cit><bibl>"Capt. John Tarpley I Family : ?England and Virginia. " http://www.next1000.com/family/EC/tarpley.johnI.html</bibl></cit>)</note><lb/>
 
-<note id="n91">[91] "In an action of debt between Charles Burges Gent plt &amp; Bryan Pullen deft for thirteen thousand pounds of Tobo . . .," the parties agreed to allow RC "finally to decide &amp; determine their difference on this suit from which they jointly agree not to appeal. . . ." (<cit><bibl n="B28">Jones, Orders Book Entries. . . . p. 116.</bibl></cit>)</note><lb/>
+<note id="n91">[91] "In an action of debt between Charles Burges Gent plt &amp; Bryan Pullen deft for thirteen thousand pounds of Tobo . . .," the parties agreed to allow Carter  "finally to decide &amp; determine their difference on this suit from which they jointly agree not to appeal. . . ." (<cit><bibl n="B28">Jones, Orders Book Entries. . . . p. 116.</bibl></cit>)</note><lb/>
 
 <note id="n92">[92] Edward Tucker (d. 1739) was a merchant in Weymouth, Dorset, and a prominent figure in that town, serving as mayor in 1705, 1716, 1721, 1725, and 1735, and as a member of Parliament. (<cit><bibl n="B6">Sedgwick, <title>The History of Pariament . . . Commons.</title> II, 484. </bibl></cit>)</note><lb/>
 
