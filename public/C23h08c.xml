@@ -13,11 +13,11 @@
 <!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; 
 
 <!NOTATION Ext26 SYSTEM "php">
-<!ENTITY Ext26 SYSTEM "http://www.haut-brion.com\/home\/en\/fiches\/chb.php" NDATA php>
+<!ENTITY Ext26 SYSTEM "http://www.haut-brion.com/home/en/fiches/chb.php" NDATA php>
 
 
 <!NOTATION Ext27 SYSTEM "htm">
-<!ENTITY Ext27 SYSTEM "http://www.artfund.org\/artwork\/2188\/mrs-peter-how-and-her-two-children-peter" NDATA htm>
+<!ENTITY Ext27 SYSTEM "http://www.artfund.org/artwork/2188/mrs-peter-how-and-her-two-children-peter" NDATA htm>
 
 
 ]>
