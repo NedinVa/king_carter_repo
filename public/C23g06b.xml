@@ -13,7 +13,7 @@
 <!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; 
 
 <!NOTATION Ext12 SYSTEM "php">
-<!ENTITY Ext12 SYSTEM "http://www.geocities.com/Heartland/Prairie/3596/Hayney/d679.htm#P679" NDATA php>
+<!ENTITY Ext12 SYSTEM "http://www.geocities.com/Heartland/Prairie/3596/Hayney/d679.htm" NDATA php>
 <!NOTATION Ext13 SYSTEM "html">
 <!ENTITY Ext13 SYSTEM "http://www.angelfire.com/tx4/custer/ball.html" NDATA html>
 <!NOTATION Ext14 SYSTEM "html">
