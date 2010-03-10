@@ -13,7 +13,7 @@
 <!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; 
 
 <!NOTATION Ext21 SYSTEM "htm">
-<!ENTITY Ext21 SYSTEM "http://www.members.tripod.com\/~Bonestwo\/index-6.html" NDATA htm>
+<!ENTITY Ext21 SYSTEM "http://www.members.tripod.com/~Bonestwo/index-6.html" NDATA htm>
 
 ]>
 <TEI.2 id="C16c21a">
