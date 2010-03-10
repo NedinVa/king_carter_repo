@@ -13,7 +13,7 @@
 <!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; 
 
 <!NOTATION html SYSTEM "HTML">
-<!ENTITY Ext6 SYSTEM "http://www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm" NDATA html>
+<!ENTITY Ext6 SYSTEM "http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm" NDATA html>
 
 ]>
 <TEI.2 id="C23g29c">
