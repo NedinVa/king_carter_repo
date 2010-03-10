@@ -13,7 +13,7 @@
 <!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
 
 <!NOTATION html SYSTEM "HTML">
-<!ENTITY Ext17 SYSTEM "http://www.pbs.org\/wgbh\/aia\/part1\/1p269.html" NDATA html>
+<!ENTITY Ext17 SYSTEM "http://www.pbs.org/wgbh/aia/part1/1p269.html" NDATA html>
 
 
  ]>
