@@ -13,7 +13,7 @@
 <!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
 
 <!NOTATION Ext14 SYSTEM "html">
-<!ENTITY Ext14 SYSTEM "http://www.dinsdoc.com\/bruce-1-7.htm" NDATA html>
+<!ENTITY Ext14 SYSTEM "http://www.dinsdoc.com/bruce-1-7.htm" NDATA html>
 
  ]>
 <TEI.2 id="C23g25a">
