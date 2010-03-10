@@ -13,10 +13,9 @@
 <!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; 
 
 <!NOTATION html SYSTEM "HTML">
-<!ENTITY Ext23 SYSTEM "http://www.encyclopedia.com\/doc\/1O79-Williamsburg.html" NDATA html>
+<!ENTITY Ext23 SYSTEM "http://www.encyclopedia.com/doc/1O79-Williamsburg.html" NDATA html>
 
-<!NOTATION html SYSTEM "html">
-<!ENTITY Ext24 SYSTEM "http://www.yulefamily.com\/newsletters\/yule24.htm" NDATA htm>
+<!ENTITY Ext24 SYSTEM "http://www.yulefamily.com/newsletters/yule24.htm" NDATA htm>
 
 <!NOTATION html SYSTEM "HTML">
 <!ENTITY Ext25 SYSTEM "http://www.next1000.com\/family\/EC\/tarpley.johnI.html" NDATA html>
