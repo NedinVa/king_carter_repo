@@ -13,7 +13,7 @@
 <!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; 
 
 <!NOTATION html SYSTEM "HTML">
-<!ENTITY Ext22 SYSTEM "http://gen.culpepper.com\/historical\/legends\/lords.htm" NDATA html>
+<!ENTITY Ext22 SYSTEM "http://gen.culpepper.com/historical/legends/lords.htm" NDATA html>
 
 
 ]>
