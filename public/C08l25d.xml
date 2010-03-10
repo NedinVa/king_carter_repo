@@ -1,5 +1,5 @@
 <!DOCTYPE TEI.2  SYSTEM  'teixlite.dtd' [ 
-<!NOTATION jpg  SYSTEM  <"jpeg"> 
+<!NOTATION jpg  SYSTEM  "jpeg"> 
 <!ENTITY filename  SYSTEM  "filename.jpg" NDATA jpg> 
 <!ENTITY % ISOlat1 SYSTEM  "ISOlat1.pen"> %ISOlat1; 
 <!ENTITY % ISOlat2 SYSTEM  "ISOlat2.pen"> %ISOlat2; 
