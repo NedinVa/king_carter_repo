@@ -13,14 +13,10 @@
 <!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; 
 
 <!NOTATION Ext28 SYSTEM "pdf">
-<!ENTITY Ext28 SYSTEM "http://www.nwta.com\/patterns\/pdfs\/111dict.pdf" NDATA pdf>
+<!ENTITY Ext28 SYSTEM "http://www.nwta.com/patterns/pdfs/111dict.pdf" NDATA pdf>
 
 <!NOTATION Ext29 SYSTEM "html">
-<!ENTITY Ext29 SYSTEM "http://www.scottish-towns.co.uk\/borders\/galashiels\/index.html" NDATA html>
-
-
-
-
+<!ENTITY Ext29 SYSTEM "http://www.scottish-towns.co.uk/borders/galashiels/index.html" NDATA html>
 
 
 ]>
