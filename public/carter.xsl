@@ -1,8 +1,9 @@
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/TR/WD-xsl" 
-xmlns:HTML="http://www.w3.org/Profiles/XHTML-transitional">
+<?xml version="1.0" ?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" 
+xmlns:HTML="http://www.w3.org/Profiles/XHTML-transitional" >
 
-  <xsl:template><xsl:apply-templates/></xsl:template>
-  <xsl:template match="text()"><xsl:value-of/></xsl:template>
+  <xsl:template match="*"><xsl:apply-templates/></xsl:template>
+  <xsl:template match="text()"><xsl:value-of select="."/></xsl:template>
 
   <xsl:template match="/">
     <HTML>
@@ -203,7 +204,7 @@ select="."/></FONT>
 	</xsl:attribute><xsl:apply-templates/></A><br/>
 	</xsl:template>    
 
-#typography
+<!-- #typography -->
 
 	<xsl:template match="hi">
 		<i><xsl:apply-templates/></i></xsl:template>
