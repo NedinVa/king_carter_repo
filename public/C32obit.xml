@@ -14,9 +14,8 @@
 "http://etext.virginia.edu/users/berkeley/public/fig1.jpg" NDATA jpg>  
 
 <!NOTATION html SYSTEM "HTML">
-<!ENTITY Ext3 SYSTEM "http://www.bodley.ox.ac.uk/cgi-
-bin/ilej/image1.pl?item=page&seq=1&size=1&id=gm.1732.11.x.2.x.x.1082"
-NDATA html>
+<!ENTITY Ext3 SYSTEM 
+"http://www.bodley.ox.ac.uk/cgi-bin/ilej/image1.pl?item=page&seq=1&size=1&id=gm.1732.11.x.2.x.x.1082" NDATA html>
 
 
 ]>
@@ -209,8 +208,8 @@ imissis PRINCIPIBUS GUIELMO, ANNA, GEORGIO <lb/>
 PRIMO et SECUNDO. </p>
 
 <p><hi rend="underline"><hi rend="italics">Original Latin
-Text</hi></hi></p><figDesc><lb/><hi rend="italics"><hi rend="bold">Photograph of the  Robert Carter Tomb</hi></hi></figDesc>
-</figure>
+Text</hi></hi></p><figure><figDesc><lb/><hi rend="italics"><hi rend="bold">Photograph of the  Robert Carter Tomb</hi></hi></figDesc>
+     </figure>
 <lb/><lb/>
 
 
