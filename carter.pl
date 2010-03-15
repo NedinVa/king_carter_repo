@@ -425,6 +425,7 @@ $a =~ s/<xref to="Ext27">/<a href="http:\/\/www.artfund.org\/artwork\/2188\/mrs-
 $a =~ s/<xref to="Ext28">/<a href="http:\/\/www.nwta.com\/patterns\/pdfs\/111dict.pdf">/g;
 $a =~ s/<xref to="Ext29">/<a href="http:\/\/www.scottish-towns.co.uk\/borders\/galashiels\/index.html">/g;
 $a =~ s/<xref to="Ext30">/<a href="http:\/\/answers.com\/topic\/potato.htm">/g;
+$a =~ s/<xref to="Ext31">/<a href="http:\/\/www.freepages.genealogy.rootsweb.ancestry.com\/~nelmstnms\/Virginia\/Richard%20Nelms.htm">/g;
 
 
 
