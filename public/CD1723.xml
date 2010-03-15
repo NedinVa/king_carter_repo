@@ -30,8 +30,13 @@
 <!NOTATION Ext31 SYSTEM "htm">
 <!ENTITY Ext31 SYSTEM "http://www.freepages.genealogy.rootsweb.ancestry.com\/~nelmstnms\/Virginia\/Richard%20Nelms.htm" NDATA htm>
 
-<!NOTATION html SYSTEM "HTML">
+<!NOTATION Ext6 SYSTEM "HTML">
 <!ENTITY Ext6 SYSTEM "http://www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm" NDATA html>
+
+<!NOTATION Ext20 SYSTEM "HTML">
+<!ENTITY Ext20 SYSTEM "http://18cnewenglandlife.org\/18cnel\/ofsilk.htm" NDATA html>
+
+
 
 
 ]>
@@ -1148,7 +1153,7 @@ week   settled an Accot   gave him for this <lb/>
 years Collections new Powers  <lb/>
 <abbr expan="December ">Decr </abbr> 5	 <note n="WW"><abbr expan="William ">W </abbr> Waugh</note> sent me the following Ac<add resp="editor">[coun]</add>t  <lb/>
 of Cattle recd of <note target="n89.6">Simon Sallard</note> <lb/><lb/>
-<list>
+<list style="list-style-type: none;">
   <item>1 Cow 8 years old wth Calf</item>
   <item>3 Cows 6 year Old </item>
   <item>2 heifers 3 years old wth Calf  </item>
@@ -1400,7 +1405,7 @@ here   <sic corr="dispatched ">dispatcht</sic> away <lb/>
 
 <note id="n40.5">[40.5] Urbanna was a town in Middlesex County built on lands orginally owned by Ralph Wormeley who resisted the idea after the town was  authorized by the act of 1680. But development began after his death in 1701 and the passage of the third town act in 1706. (<cit><bibl>John W. Reps. <title>Tidewater Towns: City Planning in Colonial Virginia and Maryland.</title> [Williamsburg,VA: The Colonial Williamsburg Foundation, 1972]. pp . 78-9.</bibl></cit>)</note><lb/>
 
-<note id="n41">[41]  Brick House Quarter was located in Lancaster County and was a "collection of parcels acquired before 1732 from various owners"; in the 1732 inventory, there were 20 slaves, 63 sheep, 45 hogs, and 46 cattle on the place. (<cit><bibl n="B44">Sorrells.<title>title>Landholders &amp; Landholdings.</title> </bibl></cit> p. 23; and <cit><bibl n="A26">"Carter Papers: An Inventory.. . ."</bibl></cit>) </note><lb/>
+<note id="n41">[41]  Brick House Quarter was located in Lancaster County and was a "collection of parcels acquired before 1732 from various owners"; in the 1732 inventory, there were 20 slaves, 63 sheep, 45 hogs, and 46 cattle on the place. (<cit><bibl n="B44">Sorrells.<title>Landholders &amp; Landholdings.</title> </bibl></cit> p. 23; and <cit><bibl n="A26">"Carter Papers: An Inventory.. . ."</bibl></cit>) </note><lb/>
 
 <note id="n41.2">[41.2] Coleman's was a farm apparently in Lancaster close to Brick House and Pursells.</note> <lb/>
 
@@ -1488,7 +1493,6 @@ Grievances; and <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the C
 
 <note id="n56.4"> [56.4] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (<cit><bibl><xref to="Ext6">"Dictionary of  Financial Scam Terms" at </xref> http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm. 8/22/2005</bibl></cit>)</note><lb/>
 
-
 <note id="n56.5">[56.5] The Coan River is located in Northumberland County flowing roughly northwest into the Potomac. <cit><bibl n="B29">Miller. <title>Place-Names . . . . </title>p. 31.</bibl></cit></note><lb/>
 
 <note id="n56.6">[56.6] Joseph Gregory "was a son of Thomas Carter II, and grandson of Thomas Carter the immigrant, of Barford on the Corotoman River near Merry Point." He would be appointed tobacco inspector in 1727 and a justice of Lancaster County in 1734. Apparently he was working for Robert Carter as a collector of quit rents and other fees at this time.  (<cit><bibl n="B43">Brown and Sorrells. <title>People in Profile.</title> p. 18;</bibl></cit> and <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:238, 320.</bibl></cit>)</note><lb/>
@@ -1513,7 +1517,8 @@ Grievances; and <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the C
 
 <note id="n63.4">[63.4] Linen is fabric made from flax. (<cit><bibl><title>Oxford English Dictionary</title></bibl></cit>)</note>
 
-<note id="n63.5">[63.5] Holland was a "a closely woven white linen used especially for shirts and bed linen." (<cit><bibl>"Of Silk, Cotton, Linen and Wool."  18c New England Life: Clothing &amp; Accoutrements. http://www.18cnewenglandlife.org/18cNEL/ofsilk.htm.1/8/04.</bibl></cit>) </note>
+<note id="n63.5">[63.5] Holland is, according to the <title>OED Online,</title> a "linen fabric, originally called, from the province of Holland in the Netherlands." <xref to="Ext 18">18cnewenglandlife.org</xref> states in its "Glossary of Textile Terms" that it was a "a closely woven white linen used especially for shirts and bed linen." (<cit><bibl>"Glossary of Textile Terms."  18c New England Life: Clothing &amp; Accoutrements. http://www.18cnewenglandlife.org/18cnel/glossary.htm.3/15/2010.</bibl></cit>) </note>
+
 
 <note id="n63.6">[63.6] Ell is a measure defined in the <title>Oxford English Dictionary</title> as "a measure of length varying in different countries. The English ell = 45 in[ches]."</note>
 
@@ -1537,9 +1542,9 @@ and "the Charles of Glasgow" in a letter to Stark of <xref to="/users/berkeley/p
 
 <note id="n66.7">[66.7] This may have been John Bagge (1682?-1726), rector of St. Anne's Parish, Essex County, 1709-1711 and 1718-1726.  He had served Sittenburne Parish in Richmond County, 1711-1716. Unfortunately, Carter did not note where the property was on which he took the mortgage which makes it difficult to determine the mortgagor. See letters to various merchants about this time reporting the bills of exchange that Carter wrote to pay the &pound;200 to Bagge.(<cit><bibl>John K. Nelson. <title>A Blessed Company: Parishes, Parsons, and Parishoners in Anglican Virginia, 1690-1776.</title> [Chapel Hill and London: University of North Carolina Press, 2001]. p. 304.</bibl></cit>)</note><lb/>
 
-<note id="n66.8">[66.8] Fustians is "coarse cloth of cotton and flax, thick twilled cotton with short nap." ((<cit><bibl>18th Century Trade Terms (Fabrics), "Of Silk, Terms Of Silk, Cotton, Linen and Wool,"[Compiled from] <title>The Beekman Mercantile Paper</title>1746 - 1799 at http://www.18cnewenglandlife.org/18cnel/ofsilk.htm,  5/4/ 2007</bibl></cit>) </note>
+<note id="n66.8">[66.8] Fustians is "coarse cloth of cotton and flax, thick twilled cotton with short nap." ((<cit><bibl>18th Century Trade Terms (Fabrics), "Of Silk, Terms Of Silk, Cotton, Linen and Wool,"[Compiled from] <title>The Beekman Mercantile Paper</title>1746 - 1799 at http://www.18cnewenglandlife.org/18cnel/ofsilk.htm,  5/4/ 2007</bibl></cit>) </note><lb/>
 
-<note id="n67">[67] Thomas Lee (1690-1750) of Westmoreland County was the son of Richard Lee II, and nephew of Edmund Jenings; he would build "Stratford," and succeed Carter on the Council. For a good article on Thomas Lee, see  <xref to="Ext4">that on Stratford plantation's website.</xref> (<cit><bibl>Burton J. Hendrick. <title>The Lees of Virginia: Biography of a Family.</title> [Boston: Little Brown, 1935]. pp. 48, 51, etc.</bibl></cit>)</note>
+<note id="n67">[67] Thomas Lee (1690-1750) of Westmoreland County was the son of Richard Lee II, and nephew of Edmund Jenings; he would build "Stratford," and succeed Carter on the Council. For a good article on Thomas Lee, see  <xref to="Ext4">that on Stratford plantation's website.</xref> (<cit><bibl>Burton J. Hendrick. <title>The Lees of Virginia: Biography of a Family.</title> [Boston: Little Brown, 1935]. pp. 48, 51, etc.</bibl></cit>)</note><lb/>
 
 <note id="n67.4">[67.4] The abbreviation "dd" that Carter used for the sugar may refer to double ground or refined, but "dd" is too common for the original meaning to be clear.</note><lb/>
 
@@ -1559,7 +1564,7 @@ and "the Charles of Glasgow" in a letter to Stark of <xref to="/users/berkeley/p
 
 <note id="n71"> [71] Carter  owned <bibl>James Blair, <title>Our Saviour's Sermon on the Mount ... Explained ... in Divers Sermons and Discourses</title></bibl>. (<cit><bibl n="A28">Wright, <title>Literary Interests of the First Carters...</title>, p.55.</bibl></cit>)</note><lb/>
 
-<note id="n71.5">[71.5] "The so-called Irish potato, a native of the Andes, was introduced into England in the sixteenth century. A ship is known to have carried potatoes from England to Bermuda in 1613, and in 1621 the governor of Bermuda sent to Governor Francis Wyatt of Virginia two large chests filled with plants and fruits then un-known to the colony, among them potatoes, which were planted and grown in the settlements along the James River. In 1622 a Virginia bark brought about twenty thousand pounds of potatoes from Bermuda to Virginia. Their cultivation did not spread widely, however, until a party of Scotch-Irish immigrants brought potatoes with them to Rockingham County, New Hampshire, in 1719. Because of this introduction and because potatoes had become a major crop in Ireland by the end of the seventeenth century, 'Irish' became a permanent part of the potato's name." (<cit><bibl><xref to="Ext30">"Potato" on Answers.com</xref>, citing the <title>Encyclopedia of American History,</title> at ttp://www.answers.com/topic/potato, reviewed 2/12/2010." </bibl></cit>" </note><lb/>
+<note id="n71.5">[71.5] "The so-called Irish potato, a native of the Andes, was introduced into England in the sixteenth century. A ship is known to have carried potatoes from England to Bermuda in 1613, and in 1621 the governor of Bermuda sent to Governor Francis Wyatt of Virginia two large chests filled with plants and fruits then un-known to the colony, among them potatoes, which were planted and grown in the settlements along the James River. In 1622 a Virginia bark brought about twenty thousand pounds of potatoes from Bermuda to Virginia. Their cultivation did not spread widely, however, until a party of Scotch-Irish immigrants brought potatoes with them to Rockingham County, New Hampshire, in 1719. Because of this introduction and because potatoes had become a major crop in Ireland by the end of the seventeenth century, 'Irish' became a permanent part of the potato's name." (<cit><bibl><xref to="Ext30">"Potato" on Answers.com</xref>, citing the <title>Encyclopedia of American History,</title> at ttp://www.answers.com/topic/potato, reviewed 2/12/2010.</bibl></cit></note><lb/>
 
 <note id="n71.6">[71.6] "Qualified" can mean "limited, modified, or restricted in some respect." Carter means that the cider h ad been dilued with water.  (<cit><bibl><title>Oxford English Dictionary</title></bibl></cit>)
 </note><lb/>

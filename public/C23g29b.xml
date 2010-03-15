@@ -13,9 +13,9 @@
 <!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; 
 
 <!NOTATION html SYSTEM "HTML">
-<!ENTITY Ext19 SYSTEM "http://british-history.ac.uk/report.aspx?compid=58704.html" NDATA html>
+<!ENTITY Ext19 SYSTEM "http://british-history.ac.uk\/report.aspx?compid=58704.html" NDATA html>
 
-<!ENTITY Ext20 SYSTEM "http://18cnewenglandlife.org/18cnel/ofsilk.htm" NDATA html>
+<!ENTITY Ext20 SYSTEM "http://18cnewenglandlife.org\/18cnel\/ofsilk.htm" NDATA html>
 
 
 
