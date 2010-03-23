@@ -4,7 +4,7 @@ $images = $ARGV[0];
 shift;
 $tag = $ARGV[0];
 shift;
-$tei2html="/lib_content5/etext/lv7/web/bin/etcbin/tei2html";
+$tei2html="etcbin/tei2html"; # "/lib_content5/etext/lv7/web/bin/etcbin/tei2html";
 
 open(OUTPUT, "| $tei2html");
 while (<>) {
