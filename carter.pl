@@ -420,6 +420,8 @@ $a =~ s/<xref to="Ext20">/<a href="http:\/\/www.18cnewenglandlife.org\/18cnel\/o
 $a =~ s/<xref to="Ext21">/<a href="http:\/\/www.members.tripod.com\/~Bonestwo\/index-6.html">/g;
 $a =~ s/<xref to="Ext22">/<a href="http:\/\/www.gen.culpepper.com\/historical\/legends\/lords.htm">/g;
 $a =~ s/<xref to="Ext23">/<a href="http:\/\/www.encyclopedia.com\/doc\/1O79-Williamsburg.html">/g;
+$a =~ s/<xref to="Ext24">/<a href="http:\/\/www.yulefamily.com\/newsletters\/yule24.htm">/g;
+$a =~ s/<xref to="Ext25">/<a href="http:\/\/www.next1000.com\/family\/EC\/tarpley.johnI.html" NDATA html">/g;
 $a =~ s/<xref to="Ext26">/<a href="http:\/\/www.haut-brion.com\/home\/en\/fiches\/chb.php">/g;
 $a =~ s/<xref to="Ext27">/<a href="http:\/\/www.artfund.org\/artwork\/2188\/mrs-peter-how-and-her-two-children-peter">/g;
 $a =~ s/<xref to="Ext28">/<a href="http:\/\/www.nwta.com\/patterns\/pdfs\/111dict.pdf">/g;
