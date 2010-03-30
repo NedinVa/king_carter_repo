@@ -13,28 +13,28 @@
 <!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; 
 
 <!NOTATION html SYSTEM "HTML">
-<!ENTITY Ext7 SYSTEM "http://www.next1000.com\/family/EC\/tarpley.johnI.html" NDATA html>
+<!ENTITY Ext7 SYSTEM "http://www.next1000.com/family/EC/tarpley.johnI.html" NDATA html>
 
 <!NOTATION php SYSTEM "php">
-<!ENTITY Ext4 SYSTEM "http://www.stratfordhall.org\/learn\/lees\/thomaslee.php" NDATA php>
+<!ENTITY Ext4 SYSTEM "http://www.stratfordhall.org/learn/lees/thomaslee.php" NDATA php>
 
 <!NOTATION htm SYSTEM "htm">
-<!ENTITY Ext30 SYSTEM "http://www.answers.com\/topic\/potato.htm" NDATA htm>
+<!ENTITY Ext30 SYSTEM "http://www.answers.com/topic/potato.htm" NDATA htm>
 
 <!NOTATION htm SYSTEM "htm">
-<!ENTITY Ext18 SYSTEM "http://homepages.rootsweb.com\/~edburton\/fam03055.htm" NDATA htm>
+<!ENTITY Ext18 SYSTEM "http://homepages.rootsweb.com/~edburton/fam03055.htm" NDATA htm>
 
 <!NOTATION htm SYSTEM "htm">
-<!ENTITY Ext24 SYSTEM "http://www.yulefamily.com\/newsletters\/yule24.htm" NDATA htm>
+<!ENTITY Ext24 SYSTEM "http://www.yulefamily.com/newsletters/yule24.htm" NDATA htm>
     
 <!NOTATION htm SYSTEM "htm">
-<!ENTITY Ext31 SYSTEM "http://www.freepages.genealogy.rootsweb.ancestry.com\/~nelmstnms\/Virginia/Richard%20Nelms.htm" NDATA htm>
+<!ENTITY Ext31 SYSTEM "http://www.freepages.genealogy.rootsweb.ancestry.com/~nelmstnms/Virginia/Richard%20Nelms.htm" NDATA htm>
 
 <!NOTATION html SYSTEM "HTML">
-<!ENTITY Ext6 SYSTEM "http://www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm" NDATA html>
+<!ENTITY Ext6 SYSTEM "http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm" NDATA html>
 
 <!NOTATION html SYSTEM "HTML">
-<!ENTITY Ext20 SYSTEM "http://18cnewenglandlife.org\/18cnel\/ofsilk.htm" NDATA html>
+<!ENTITY Ext20 SYSTEM "http://18cnewenglandlife.org/18cnel/ofsilk.htm" NDATA html>
 
 
 
