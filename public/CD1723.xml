@@ -15,26 +15,25 @@
 <!NOTATION html SYSTEM "HTML">
 <!ENTITY Ext7 SYSTEM "http://www.next1000.com/family/EC/tarpley.johnI.html" NDATA html>
 
+<!ENTITY Ext6 SYSTEM "http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm" NDATA html>
+
+<!ENTITY Ext20 SYSTEM "http://18cnewenglandlife.org/18cnel/ofsilk.htm" NDATA html>
+
 <!NOTATION php SYSTEM "php">
 <!ENTITY Ext4 SYSTEM "http://www.stratfordhall.org/learn/lees/thomaslee.php" NDATA php>
 
 <!NOTATION htm SYSTEM "htm">
 <!ENTITY Ext30 SYSTEM "http://www.answers.com/topic/potato.htm" NDATA htm>
 
-<!NOTATION htm SYSTEM "htm">
 <!ENTITY Ext18 SYSTEM "http://homepages.rootsweb.com/~edburton/fam03055.htm" NDATA htm>
 
-<!NOTATION htm SYSTEM "htm">
 <!ENTITY Ext24 SYSTEM "http://www.yulefamily.com/newsletters/yule24.htm" NDATA htm>
     
-<!NOTATION htm SYSTEM "htm">
 <!ENTITY Ext31 SYSTEM "http://www.freepages.genealogy.rootsweb.ancestry.com/~nelmstnms/Virginia/Richard%20Nelms.htm" NDATA htm>
 
-<!NOTATION html SYSTEM "HTML">
-<!ENTITY Ext6 SYSTEM "http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm" NDATA html>
 
-<!NOTATION html SYSTEM "HTML">
-<!ENTITY Ext20 SYSTEM "http://18cnewenglandlife.org/18cnel/ofsilk.htm" NDATA html>
+
+
 
 
 
@@ -298,7 +297,7 @@ all day all day <add resp="editor"> [<hi rend="italics">sic </hi>]</add> <sic co
 <note n="AG">Graves </note><sic corr="promised ">promist</sic> to Send round my  <lb/>
 Goods   <sic corr="called ">cald</sic> <sic corr="aboard ">abd</sic> the Carter   <sic corr="stayed ">staid</sic> there <lb/>
 1 1/2 hour   drunk some Mountain   came  <lb/>
-home   <sic corr="hauled ">hald</sic> up my <note target="n14.5">Pinnace</note>   Harry  <lb/>
+home   <sic corr="hauled ">hald</sic> up my <note target="n14.6">Pinnace</note>   Harry  <lb/>
 <sic corr="Tapscott ">Tapscot</sic> here <lb/>
 7   I sent <sic>I sent</sic>  Kitt away   <note target="n15">mr Meeks </note><lb/>
 books went with him  W<add resp="editor"> [ind] </add><abbr expan="southeast ">SoE </abbr>  warm <lb/>
@@ -1015,7 +1014,7 @@ Scheme of <note n="BT">Brent Town Land </note>  promises to finish all<lb/>
 my <sic corr="warrants ">Warrts</sic> on the <note target="n84">broad run</note>  Ball run &amp; in the <lb/>
 <note target="n85">little fork</note> this fall<lb/>  
 I gave him a <sic corr="note ">Noat</sic> to <note target="n85.5">James <sic corr="Webb ">Web</sic></note> for 2 steers<lb/>  
-I went to <note target="n86`">Jacksons Mill</note> gave Waugh <sic corr="orders ">Ordrs</sic> to <lb/>  
+I went to <note target="n86">Jacksons Mill</note> gave Waugh <sic corr="orders ">Ordrs</sic> to <lb/>  
 Strenthen the Mill Gang   came home <sic corr="about ">abt</sic> 3  <lb/>
 Set <sic corr="about ">abt</sic> packing up my <sic corr="things">thenigs</sic> for the falls   my<lb/> 
 boat was <sic corr="trimmed ">trimd</sic>	Tallowd &amp; launchd   my Sloop <lb/> 
@@ -1039,7 +1038,7 @@ day night lay at mrs Burwells  dined  <lb/>
 <del>there Coll</del> mrs Burwells Wilkinson <sic corr="shaved ">Shavd</sic> <lb/>
 me   gave him a <sic corr="milled ">mild</sic> half Crown  <lb/>
 went to <note target="n42">Town</note> on Monday  <sic corr="called ">calld</sic> at Mer <lb/>
-chts <note target="87">hundred</note>  got into Court 2 <sic corr="o'clock ">Clock</sic> <sic corr="Robin ">Robn</sic> <add place="supralinear">to town</add>  <lb/>
+chts <note target="n87">hundred</note>  got into Court 2 <sic corr="o'clock ">Clock</sic> <sic corr="Robin ">Robn</sic> <add place="supralinear">to town</add>  <lb/>
 went to town with me <lb/>
 <del>26</del>  lay at mrs <add resp="editor">Burwells</add>   2d <sic corr="day "> lay</sic>  of <sic corr="November ">Novemr</sic> at mrs Bur <lb/> 
 wells Wilkinson Shave<add resp="editor">[d] </add> me  <sic corr="dined ">dind</sic> at Coll  <lb/>
@@ -1047,7 +1046,7 @@ Pages  <abbr expan="Colonel ">Collo.</abbr> page came to me Monday  <lb/>
 Morn 4th <sic corr="November ">Octr</sic> came home wthin Night <lb/>
 Money paid away and given while 
 I was out <lb/> <lb/> 
-<table frame="0">
+<table>
 <row><cell><abbr expan="paid ">pd </abbr> to mrs Page for my Daughter</cell><cell>&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;</cell></row> 
 <row><cell>Harrison  her Accot at Pratts</cell><cell>&mdash;</cell><cell>&mdash;</cell><cell>11"13 </cell></row>
 <row><cell>to my D<add resp="editor">[aughte]</add>r Burwell for mrs Smith</cell><cell>&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;</cell></row>  
@@ -1064,7 +1063,7 @@ I was out <lb/> <lb/>
 </row>
 </table>
  <lb/>
-98 <note target="n87.5">dunghill fowles</note>  27 <sic corr="geese ">Gees</sic>  37 Turkeys ducks &amp;c <lb/> 
+98 <note target="n87">dunghill fowles</note>  27 <sic corr="geese ">Gees</sic>  37 Turkeys ducks &amp;c <lb/> 
 202 in all  <lb/>
 <abbr expan="November ">Novr </abbr> 6.   bot of Ruth Wood 11 Chickens <lb/> 
 of mrs Kirk 6 d<add resp="editor">[itt]</add>o for 2 <abbr expan="pounds ">lb </abbr> Wool <lb/>
@@ -1151,7 +1150,7 @@ week   settled an Accot   gave him for this <lb/>
 years Collections new Powers  <lb/>
 <abbr expan="December ">Decr </abbr> 5	 <note n="WW"><abbr expan="William ">W </abbr> Waugh</note> sent me the following Ac<add resp="editor">[coun]</add>t  <lb/>
 of Cattle recd of <note target="n89.6">Simon Sallard</note> <lb/>
-<table frame="0">
+<table>
   <row><cell>1 Cow 8 years old wth Calf</cell></row>
   <row><cell>3 Cows 6 year Old </cell></row>
   <row><cell>2 heifers 3 years old wth Calf  </cell></row>
@@ -1316,7 +1315,7 @@ here   <sic corr="dispatched ">dispatcht</sic> away <lb/>
 
 <note id="n14.5">[14.5] A whipsaw, according to the <title>Oxford English Dictionary, </title> was a "frame-saw with a narrow blade, used esp. for curved work." Apparently it was often fairly long with handles on each end. </note><lb/>
 
-<note id="n14.5">[14.5] A pinnace was "a small light vessel, generally two-masted, and schooner-rigged; often in attendance on a larger vessel as a tender, scout, etc." It could be rowed as well.  (<cit><bibl><title>Oxford English Dictionary</title></bibl></cit>)</note><lb/>
+<note id="n14.6">[14.6] A pinnace was "a small light vessel, generally two-masted, and schooner-rigged; often in attendance on a larger vessel as a tender, scout, etc." It could be rowed as well.  (<cit><bibl><title>Oxford English Dictionary</title></bibl></cit>)</note><lb/>
 
 <note id="n15">[15] Richard Meeks was described by Carter  in a letter of July 15, 1720, as the "general overseer" of the property that he consistently referred to by its tobacco mark of a double arrowhead or double "L"; it seems to have been the properties belonging to John Lloyd, widower of Carter's niece, Elizabeth. Lloyd went to England about 1700. Carter  apparently leased the lands from him.</note><lb/>
 
@@ -1398,7 +1397,7 @@ here   <sic corr="dispatched ">dispatcht</sic> away <lb/>
 
 <note id="n40">[40] Carter mentions a Captain Darracott in a letter of July 13, 1720, to John King, and a Captain John Darracott's wife, Cecilia, died and was buried at the home of her father, William Massie, of New Kent County. (<cit><bibl>"Personal Notices From the Virginia Gazette," <title>William and Mary Quarterly</title>, 1st. ser., 5(April 1897): 242</bibl></cit>;  and <cit><bibl>"Massie Family," <hi rend="italics">ibid.</hi>, 1st. ser., 13(January 1905): 202-3.</bibl></cit>)</note><lb/>
 
-<note id="n40.4">[40.4] Carter probably used the word "barge" in the sense of  "a rowing boat; esp. a ferry-boat." </note>(<cit><bibl><title>Oxford English Dictionary</title></bibl></cit>)<lb/>
+<note id="n40.4">[40.4] Carter probably used the word "barge" in the sense of  "a rowing boat; esp. a ferry-boat." (<cit><bibl><title>Oxford English Dictionary</title></bibl></cit>)</note><lb/>
 
 <note id="n40.5">[40.5] Urbanna was a town in Middlesex County built on lands orginally owned by Ralph Wormeley who resisted the idea after the town was  authorized by the act of 1680. But development began after his death in 1701 and the passage of the third town act in 1706. (<cit><bibl>John W. Reps. <title>Tidewater Towns: City Planning in Colonial Virginia and Maryland.</title> [Williamsburg,VA: The Colonial Williamsburg Foundation, 1972]. pp . 78-9.</bibl></cit>)</note><lb/>
 
@@ -1628,9 +1627,9 @@ and "the Charles of Glasgow" in a letter to Stark of <xref to="/users/berkeley/p
 
 <note id="n87.4">[87.4] Mrs. Sullivan ran the boarding house where Carter stayed while in Williamsburg.</note><lb/>
 
-<note id="n87.5">[87.5] The <title>Oxford English Dictionary</title> states that a dunghill fowls are "common barndoor fowls, as distinguished from the game-cock, etc. "</note><lb/>
+<note id="n87.5">[87.5] The <title>Oxford English Dictionary</title> states that dunghill fowls are "common barndoor fowls, as distinguished from the game-cock, etc. "</note><lb/>
 
-<note id="n87.7">[87.7] Richard Chichester (1657-1734) came to Virginia in 1702. He married Anne Fox Chinn, and settled in Lancaster County. <cit>"Virginia Gleanings in England," <title>Virginia Magazine of History and Biography</title>, 21 (1913):249-253.</cit></note><lb/>
+<note id="n87.7">[87.7] Richard Chichester (1657-1734) came to Virginia in 1702. He married Anne Fox Chinn, and settled in Lancaster County. (<cit><bibl>"Virginia Gleanings in England," <title>Virginia Magazine of History and Biography</title>, 21 (1913):249-253.</bibl></cit>)</note><lb/>
 
 <note id="n87.8">[87.8] Lancaster County Court Orders Book 7, 1721-1729, p. 129, as abstracted in <cit><bibl n="B28">Jones, <title>Orders Book Entries . . . Referring to "Robert Carter. . . ."</title></bibl></cit> </note><lb/>
 
