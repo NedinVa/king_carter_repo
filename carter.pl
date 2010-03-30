@@ -423,7 +423,7 @@ $a =~ s/<xref to="Ext23">/<a href="http:\/\/www.encyclopedia.com\/doc\/1O79-Will
 $a =~ s/<xref to="Ext24">/<a href="http:\/\/www.yulefamily.com\/newsletters\/yule24.htm">/g;
 
 $a =~ s/<xref to="Ext26">/<a href="http:\/\/www.haut-brion.com\/home\/en\/fiches\/chb.php">/g;
-$a =~ s/<xref to="Ext27">/<a href="http:\/\/www.artfund.org\/artwork\/2188\/mrs-peter-how-and-her-two-children-peter">/g;
+$a =~ s/<xref to="Ext27">/<a href="http:\/\/www.artfund.org\/artwork\/2188\/mrs-peter-how-and-her-two-children-peter.htm">/g;
 $a =~ s/<xref to="Ext28">/<a href="http:\/\/www.nwta.com\/patterns\/pdfs\/111dict.pdf">/g;
 $a =~ s/<xref to="Ext29">/<a href="http:\/\/www.scottish-towns.co.uk\/borders\/galashiels\/index.html">/g;
 $a =~ s/<xref to="Ext30">/<a href="http:\/\/answers.com\/topic\/potato.htm">/g;
