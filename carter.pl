@@ -411,7 +411,7 @@ $a =~ s/<xref to="Ext11">/<a href="http:\/\/www.lva.virginia.gov\/public\/using_
 $a =~ s/<xref to="Ext12">/<a href="http:\/\/www.geocities.com\/Heartland\/Prairie\/3596\/Hayney\/d679.htm#P679">/g;
 $a =~ s/<xref to="Ext13">/<a href="http:\/\/www.angelfire.com\/tx4\/custer\/ball.html">/g;
 $a =~ s/<xref to="Ext14">/<a href="http:\/\/www.dinsdoc.com\/bruce-1-7.htm">/g;
-$a =~ s/<xref to="Ext15">/<a href="http:\/\/www.poslfit.homeip.ne\t\/cgi-bin\/genea2.pl?id=10301.htm">/g;
+$a =~ s/<xref to="Ext15">/<a href="http:\/\/www.poslfit.homeip.net\/cgi-bin\/genea2.pl?id=10301.htm">/g;
 $a =~ s/<xref to="Ext16">/<a href="http:\/\/www.mathewscommunications.com\/mathews\/mw1\/mw1g93.htm#6068">/g;
 $a =~ s/<xref to="Ext17">/<a href="http:\/\/www.pbs.org\/wgbh\/aia\/part1\/1p269.html">/g;
 $a =~ s/<xref to="Ext18">/<a href="http:\/\/www.homepages.rootsweb.com\/~edburton\/\/fam03055.htm">/g;
