@@ -147,7 +147,8 @@ expan="dozen ">doz</abbr> of the 12s. and <sic corr="let
 ">lett</sic> them not be <lb/>made
 of black leather which all these are, they always <lb/>prove rotten I
 used to have the best <sic corr="shoes ">Shoos</sic> from <name
-type="city">Bristol</name> <lb/>of any port in <name type="place"><abbr
+type="city">Bristol</name> <lb/>of any port in <name
+type="place"><abbr
 expan="England">Engd.</abbr></name></p>
 
 	<p>Yor. <sic corr="market ">markett</sic> is very low and Freights
@@ -163,7 +164,8 @@ reasonable Freight,</p>
 &pound;15"14"&mdash; to <note
 target="n1"><abbr expan="Charles ">Chas.  </abbr><abbr
 expan="Burgess ">Burgs.</abbr></note>
-<lb/>wch. I desire You to pay, am Sorry my Tobo. in Darracot Stuck so
+<lb/>wch. I desire You to pay, am Sorry my Tobo. in <note
+target="n2"><sic corr="Darracott ">Darracot</sic></note> Stuck so
 <lb/>long in hand, my hopes were Its going so Early It would
 <lb/>have come to an Early <sic corr="market. ">Markett.</sic> I
 have not time to Say
@@ -173,7 +175,7 @@ have not time to Say
 
 <seg type="postscript">Yor. <sic corr="cider ">Cyder</sic> is not
 pleasant <lb/>&amp; <sic corr="yet ">yett</sic> It
-pleases me very well.<lb/><lb/>Per The <note target="n2">Tayloe
+pleases me very well.<lb/><lb/>Per The <note target="n3">Tayloe
 <sic corr="Galley ">Gally</sic></note> Bristol <lb/><abbr
 expan="Captain ">Captn.</abbr> John
 Heard</seg></closer>
@@ -208,7 +210,26 @@ Lancaster County and a member of the House of Burgesses in 1728 and
 later. (<cit><bibl n="B16">Torrance. <title>Virginia Wills and
 Administrations,1632-1800.</title> p. 62.)</bibl></cit></note><lb/>
 
-<note id="n2">[2] The <hi rend="italics">Tayloe</hi> was wrecked on
+<note id="n2">[2] Carter mentions a Captain Darracott in letters of
+1720 and 1721 to Bristol mechant John King, and a Captain John
+Darracott's wife, Cecilia, died in 1737 and was buried at the home of
+her father, William Massie (Massey), of New Kent County. A John
+Darracott's will was probated in Hanover County (whose records have
+chiefly been lost) also in 1737. (<cit><bibl>"Personal Notices From
+the Virginia Gazette," <title>William and Mary Quarterly</title>,
+1st. ser., 5(April 1897): 242;</bibl></cit> <cit><bibl>"John
+Darracott of Hanover Co., Va. &amp; his wives."  Darracott Family
+Genealogy Forum on Genealogy.com at
+http://genforum.genealogy.com/darracott/messages/38.html examined
+5/12/2010;</bibl></cit>  <cit><bibl>Online index of
+Wills/Administration of the online catalog, Library of Virginia at
+http://ajax.lva.lib.va.us/F/?func=file&file_name=find-b-
+clas08&local_base=CLAS08 examined 5/12/2010;</bibl></cit>  and
+<cit><bibl>"Massie Family," <hi rend="italics">ibid.</hi>, 1st. ser.,
+13(January 1905): 202-3.</bibl></cit>)</note><lb/>
+
+
+<note id="n3">[3] The <hi rend="italics">Tayloe</hi> was wrecked on
 the North Carolina coast in December 1726 and the mate and others
 accused of murdering Captain Heard. The Council concluded there was
 insufficient evidence to prosecute them. (<cit><bibl
@@ -216,7 +237,7 @@ n="B10">McIlwaine. <title>Executive Journals of the Council. . .
 .</title>,  4(1721-1739): 126-27.)</bibl></cit></note>
 
 <lb/><lb/><note><hi rend="italics">This text revised March 10,
-2009.</hi></note>
+2009, and again on May 12, 2010.</hi></note>
 
 </div1>
 </back>
