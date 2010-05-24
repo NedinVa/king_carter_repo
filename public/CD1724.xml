@@ -42,8 +42,14 @@
      <resp>Creation of machine-readable version: </resp>
      <name id="editor">Edmund Berkeley, Jr.</name>
      <resp>Conversion to TEI.2-conformant markup</resp>
-     <name>Edmund Berkeley, Jr., and the University of Virginia Library Electronic Text Center</name>
+          <name>Edmund Berkeley, Jr., and the University of Virginia Library Electronic Text Center</name>
+    <resp>Change of handwriting:</resp>
+         <name id="hand">unidentified clerk</name>
+     <resp>Author</resp>
+         <name id="author">Robert Carter</name>
+
 	</respStmt>
+
 </titleStmt>
 
 <extent>ca. 77 kilobytes </extent>
@@ -206,7 +212,7 @@ the 2d <abbr expan="February ">Febry</abbr> <sic corr="rained ">raind</sic> hard
 
 <pb n="ff 20r"/> <lb/> <lb/>
 <hi rend="italics">M<add resp="editor">[odern]</add> S<add resp="editor">[tyle]</add> 1724</hi>
-1723<note target="n4.5"><hi rend="italics">/4</hi></note>  <lb/> 
+1723<note target="n4.5"><hi rend="italics"><add resp="hand">/4</add></hi></note>  <lb/> 
 <abbr expan="February ">Febr </abbr> 3d   a rainy day	W<add resp="editor">[ind] </add> at  <add resp="editor">[fres]</add>h in the Night <lb/> 
 4   It <sic corr="snowed ">snowd</sic> all the morning  in the Evening  <lb/> 
 W<add resp="editor">[ind] </add> at <abbr expan="northwest ">NW </abbr>  froze hard  mr Dove came here <lb/> 
@@ -271,7 +277,7 @@ this month   <lb/>
 my Son	mrs Burwell &amp;c went away  <lb/>
 13   <note target="n9"><abbr expan="Thomas ">Tho </abbr> Edwds</note> &amp;c here <abbr expan="paid ">pd</abbr>  me some Bills  <lb/>
 I <sic corr="wrote ">writ</sic> to <note target="n10"><abbr expan="Colonel ">Coll</abbr> Mason</note> &amp;c   <lb/>
-14  my <sic corr="flat ">Flatt</sic> went <note target="n11">aboard <gap> resp="author"/><add resp="editor">[omission in text]</add></note> with 5 <abbr expan="hogsheads ">hds</abbr> 10 <abbr expan="hogsheads ">hds</abbr> <lb/>  
+14  my <sic corr="flat ">Flatt</sic> went <note target="n11">aboard <gap resp="author"/><add resp="editor">[omission in text]</add></note> with 5 <abbr expan="hogsheads ">hds</abbr> 10 <abbr expan="hogsheads ">hds</abbr> <lb/>  
 went in 2 <sic corr="flats ">flatts</sic> before  14 in my Sloop.  <lb/> 
 first fair day a great while   W<add resp="editor">[ind] </add> <abbr expan="northwest ">NW </abbr>   a Thun  <lb/> 
 der <sic corr="shower ">Showr</sic> last Night.  <lb/>
@@ -977,7 +983,7 @@ of this week  <lb/> <lb/>
 <pb n="ff27v"/> <lb/> <lb/>
 <abbr expan="December ">Decemr</abbr> 26 1724   <lb/>
 Came home my Smith &amp; Bricklayr   <lb/>
-in the <note id="n68"><name type="ship">Burwell</name></note><lb/> she arrivd 21th into York river  <lb/>
+in the <note target="n68"><name type="ship">Burwell</name></note><lb/> she arrivd 21<sic corr="st">th</sic> into York river  <lb/>
 28th   I agreed wth <abbr expan="John ">Jno</abbr>  <lb/>
  Smith to be miller at <note n="NH2">Nomini</note>  <lb/>
 29   I <abbr expan="paid ">pd</abbr> to Monsieur Harman Arigo in Cash 3<abbr expan=" shillings">S</abbr>10  <lb/>
@@ -1122,7 +1128,7 @@ the Hospital," had completed his service, indicated that he did not trust Harvey
 
 <note id="n29">[29] While Carter owned several mills, this is probably the one he sometimes called the "Small Mill." It was located in Lancaster County "on the Eastern branch of [the] Corotoman" River." The property of 40 acres had been purchased by John Carter II in 1670 from Thomas and Elizabeth Haynes. (<cit><bibl>Christine A. Jones. <hi rend="italics">John Carter II of "Corotoman" Lancaster County, Virginia.</hi> [Irvington, VA: Foundation for Historic Christ Church, 1978.], p. 73.)</bibl></cit></note><lb/>
 
-<note id="n28.5">[29.5] Moore Fauntleroy (1679-1739), a prominent citizen of Richmond County where he was a justice in 1714; he married Margaret Micou. (<cit><bibl>http://homepages.rootsweb.com/~marshall/esmd48.htm;</bibl></cit> and <cit><bibl>Beverley Fleet. <title>Virginia Colonial Abstracts . . .  Richmond County Records 1703-1724. </title> (Privately published, [1943?]. p. 97.</bibl></cit>)</note><lb/>
+<note id="n29.5">[29.5] Moore Fauntleroy (1679-1739), a prominent citizen of Richmond County where he was a justice in 1714; he married Margaret Micou. (<cit><bibl>http://homepages.rootsweb.com/~marshall/esmd48.htm;</bibl></cit> and <cit><bibl>Beverley Fleet. <title>Virginia Colonial Abstracts . . .  Richmond County Records 1703-1724. </title> (Privately published, [1943?]. p. 97.</bibl></cit>)</note><lb/>
 
 <note id="n29.6">[29.6] Nun's thread was a very fine bleached linen thread originally made by nuns, and used for lace making. (<cit><bibl>Louis Hammuth, <title>Dictionay of Textiles</title>. New York, 1915, p. 112. Digitized by Google.</bibl></cit>)  </note><lb/>
 
@@ -1138,7 +1144,7 @@ the Hospital," had completed his service, indicated that he did not trust Harvey
 
 <note id="n31">[31] Drugget was a "heavy cloth of wool, or of a mixture of wool and silk or wool and linen, used chiefly for clothing."  (<cit><bibl><title>Oxford English Dictionary Online </title></bibl></cit>)</note><lb/>
 
-<ref id="n31.5"> Mary R. Miller states that "Lawson's Island" lay in Lancaster County "adjacent to Island Neck Creek (now Whitehorse Creek)" and that "it may have been the land lying between Whitehorse Creek and the Rappahannock River." No island shows on the 1969 "Lancaster County Primary and Seconday Highway Systems" map. As this ar ea lies across Corotoman Creek from Carter's home, he would have been able to see what the two ships were doing. (<cit><bibl n="B29">Miller. <title>Place-Names . . . . </title>p. 83.</bibl></cit>) </ref>
+<note id="n31.5"> Mary R. Miller states that "Lawson's Island" lay in Lancaster County "adjacent to Island Neck Creek (now Whitehorse Creek)" and that "it may have been the land lying between Whitehorse Creek and the Rappahannock River." No island shows on the 1969 "Lancaster County Primary and Seconday Highway Systems" map. As this ar ea lies across Corotoman Creek from Carter's home, he would have been able to see what the two ships were doing. (<cit><bibl n="B29">Miller. <title>Place-Names . . . . </title>p. 83.</bibl></cit>) </note>
 
 <note id="n31.6">[31.6] In <xref to="/users/berkeley/public/C33inven.xml">the 1733 inventory.</xref> a John Webb was the overseer at Morattico which was a large farm of some 1,800 acres in Richmond County where there were several of that name. Carter had bought it from Moore Fauntleroy; "it was located on the hill just south of the present Totuskey Bridge. The farm had eight slaves, thirty-six hogs, and a horse  " (<cit><bibl n="B29">Miller, <title>Place-Names of the Northern Neck. . . .</title>,  19, 102-103,</bibl></cit> and <cit><bibl n="A26">"Carter Papers: An Inventory. . . ."</bibl></cit> )</note><lb/>
 
