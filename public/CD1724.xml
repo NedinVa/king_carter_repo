@@ -12,6 +12,8 @@
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
 <!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
 
+
+
 <!NOTATION htm SYSTEM "htm">
 <!ENTITY Ext21 SYSTEM "http://www.members.tripod.com\/~Bonestwo\/index-6.html" NDATA htm>
 
@@ -23,6 +25,9 @@
 
 
  ]>
+
+
+
 <TEI.2 id="CD1724">
 
 
@@ -266,7 +271,7 @@ this month   <lb/>
 my Son	mrs Burwell &amp;c went away  <lb/>
 13   <note target="n9"><abbr expan="Thomas ">Tho </abbr> Edwds</note> &amp;c here <abbr expan="paid ">pd</abbr>  me some Bills  <lb/>
 I <sic corr="wrote ">writ</sic> to <note target="n10"><abbr expan="Colonel ">Coll</abbr> Mason</note> &amp;c   <lb/>
-14  my <sic corr="flat ">Flatt</sic> went <note target="n11">aboard  . . . </note> with 5 <abbr expan="hogsheads ">hds</abbr> 10 <abbr expan="hogsheads ">hds</abbr> <lb/>  
+14  my <sic corr="flat ">Flatt</sic> went <note target="n11">aboard <gap> resp="author"/><add resp="editor">[omission in text]</add></note> with 5 <abbr expan="hogsheads ">hds</abbr> 10 <abbr expan="hogsheads ">hds</abbr> <lb/>  
 went in 2 <sic corr="flats ">flatts</sic> before  14 in my Sloop.  <lb/> 
 first fair day a great while   W<add resp="editor">[ind] </add> <abbr expan="northwest ">NW </abbr>   a Thun  <lb/> 
 der <sic corr="shower ">Showr</sic> last Night.  <lb/>
@@ -357,8 +362,8 @@ to Tom at Bocock   7/6 to <note n="JH">mr Holloway</note> Coachman   <lb/> <lb/>
  May 1724 <lb/> 
 While in Town <abbr expan="paid ">pd </abbr> <sic corr="barber ">barbar</sic> &amp; man 7/6 <lb/>  
  At my daughter Wormleys  I gave Joiles 5 <abbr expan=" shillings">Shill</abbr> <lb/>  
-<damage> . . . </damage> <add resp="editor">[I lef</add>]t wth my Daughter Page  30<abbr expan=" shillings">S</abbr> for  <lb/>
-Sarah <damage> . . . </damage> her Accot for my Girls  <lb/>
+<gap reason="damage"/> <add resp="editor">[I lef]</add>t wth my Daughter Page  30<abbr expan=" shillings">S</abbr> for  <lb/>
+Sarah <gap reason="damage"/><add resp="editor">[ . . . ]</add> her Accot for my Girls  <lb/>
 I was at Our Court  took the <note target="n19">Oaths</note>   <lb/>
 gave <note target="n19.5">mr <sic corr="Heale ">heal</sic></note> his Sheriffs Commission   <lb/>
 he gave me a <sic corr="pistole ">Pistol</sic> for It.   <lb/>
@@ -452,7 +457,7 @@ sheriffs Commissions Sent to them  <lb/> <lb/>
 <pb n="ff 22v"/> <lb/> <lb/>
  
  <add resp="editor">[June] </add> 1724  <lb/>
-<damage> . . . </damage> I <sic corr="wrote ">writ</sic> to <abbr expan="Colonel ">Coll</abbr> Lee with the military <abbr expan="commissions ">Comns</abbr>  <lb/>
+<gap reason="damage"/><add resp="editor">[ . . . ]</add> I <sic corr="wrote ">writ</sic> to <abbr expan="Colonel ">Coll</abbr> Lee with the military <abbr expan="commissions ">Comns</abbr>  <lb/>
 for <abbr expan="Westmoreland ">Westmd County</abbr>  <lb/>
 <sic corr="wrote ">Writ</sic> to <note target="n28.5"><abbr expan="Captain ">Captn</abbr>
 <sic corr="Russell ">Russel</sic></note> had 4 <abbr expan="hogsheads ">hds</abbr> at 5&pound; per <sic corr="tun ">Tunn</sic>   <lb/>
@@ -506,7 +511,7 @@ June 26 1724  <lb/>
 <abbr expan="Joseph ">Jo </abbr> Gregory went for <sic corr="Poto">Peto</sic><add resp="editor">[mac on Wed]</add>  <lb/>
 nesday the 24th   <abbr expan="Charles ">Cha </abbr> Coachman wen<add resp="editor">[t for Coroto]</add>  <lb/>
 man 25th   <lb/>
-July 2	 begun of my new Coffee   Martha had <damage>  . . .  </damage><lb/>
+July 2	 begun of my new Coffee   Martha had <gap reason="damage"/><add resp="editor">[ . . . ]</add><lb/>
 29 <abbr expan="hogsheads ">hds</abbr> of my <sic corr="tobacco ">Tob</sic> went aboard the Carolina  <lb/>
 my Sloop hove down  <lb/>
 48 <abbr expan="hogsheads ">hds</abbr> went aboard the <abbr expan="Forward ">Forwd</abbr>  <abbr expan="Captain "> Capt</abbr> <sic corr="Russell ">Russel</sic>   <lb/>
@@ -555,8 +560,8 @@ now he &amp; <sic corr="Russell ">Russel</sic> <sic corr="stopped ">stopt</sic> 
 <pb n="ff23v"/> <lb/> <lb/> 
 July 1724  <lb/>
 Gave to  Doctor Bell the following medicines  <lb/>
-<damage> . . .  </damage> duobus   2 <abbr expan="ounces ">oz</abbr> <sic corr="cantahrides, ">Cawtharides,</sic> 2 <abbr expan="ounces ">Oz </abbr> <abbr expan="some ">som</abbr> <note target="n41">Vitrio</note>  <lb/>
-<damage> . . .  </damage> <abbr expan="ounces ">oz</abbr> <abbr expan="white ">wt </abbr> Vitriol  Docto<add resp="editor">[r] </add> Edgar came here Thurs  <lb/>
+<gap reason="damage"/><add resp="editor">[ . . . ]</add>duobus   2 <abbr expan="ounces ">oz</abbr> <sic corr="cantahrides, ">Cawtharides,</sic> 2 <abbr expan="ounces ">Oz </abbr> <abbr expan="some ">som</abbr> <note target="n41">Vitrio</note>  <lb/>
+<gap reason="damage"/><add resp="editor">[ . . . ]</add> <abbr expan="ounces ">oz</abbr> <abbr expan="white ">wt </abbr> Vitriol  Docto<add resp="editor">[r] </add> Edgar came here Thurs  <lb/>
 day in the rain   <sic corr="stayed ">stayd</sic> with my Son <abbr expan="until ">til </abbr> sond<add resp="editor">[ay]</add>  <lb/>
 morning 26th   <lb/>
 <abbr expan="Colonel ">Coll</abbr> Barbar &amp; his Son came here 25th   <lb/>
@@ -972,7 +977,7 @@ of this week  <lb/> <lb/>
 <pb n="ff27v"/> <lb/> <lb/>
 <abbr expan="December ">Decemr</abbr> 26 1724   <lb/>
 Came home my Smith &amp; Bricklayr   <lb/>
-in the <name type="ship">Burwell</name> she arrivd 21th into York river  <lb/>
+in the <note id="n68"><name type="ship">Burwell</name></note><lb/> she arrivd 21th into York river  <lb/>
 28th   I agreed wth <abbr expan="John ">Jno</abbr>  <lb/>
  Smith to be miller at <note n="NH2">Nomini</note>  <lb/>
 29   I <abbr expan="paid ">pd</abbr> to Monsieur Harman Arigo in Cash 3<abbr expan=" shillings">S</abbr>10  <lb/>
@@ -992,7 +997,7 @@ Calm &amp; warm these 2 last <sic corr="days ">daies</sic>&mdash;&mdash;   <lb/>
 
 <note id="n1">[1] Alexander Spotswood (1646-1740) had been the governor from 1710 to 1722.</note><lb/>
 
-<note id="n1.4">[1.4] Thomas Woodward commanded the <hi rend="italics">Providence,</hi> a ship owned by Captain John Hyde &amp; Company, during a number of voyages to the colony, 1723-1729. (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194 and Survey Report 6801 summarizing Adm 68/195, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia,</bibl></cit> and <xref to="/users/berkeley/public/http://etext.lib.virginia.edu/etcbin/browse-carter?id=C23i17a.xml&images=images/modeng&data=/web/data/users/berkeley&tag=public">Carter's letter</xref> to the firm, September 17, 1723.)</note><lb/>
+<note id="n1.4">[1.4] Thomas Woodward commanded the <hi rend="italics">Providence,</hi> a ship owned by Captain John Hyde &amp; Company, during a number of voyages to the colony, 1723-1729. (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194 and Survey Report 6801 summarizing Adm 68/195, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia,</bibl></cit> and <xref to="/users/berkeley/public/C23i17a.xml">Carter's  letter</xref> to the firm, September 17, 1723.)</note><lb/>
 
 <note id="n1.5">[1.5] Henry Bell was the overseer at <note n="PE">Pewmonds End</note> plantation in the <xref to="/users/berkeley/public/C33inven.xml">1733 inventory</xref> of Carter's estate. (<cit><bibl n="A26">Carter Papers: An Inventory. . . ."</bibl></cit>)</note> <lb/>
 
@@ -1002,7 +1007,7 @@ Calm &amp; warm these 2 last <sic corr="days ">daies</sic>&mdash;&mdash;   <lb/>
 
 <note id="n3">[3] Carter had both an overseer and a "joyner" named Cole.</note><lb/>
 
-<note id="n4">[4] Thomas Woodward commanded the <hi rend="italics">Providence</hi>, a London vessel of about 90 tons owned by John Hyde and Company. (<cit><bibl>There are a number of records concerning this vessel in Adm. 68/194 [ff. 27r, 77r, and 130r] and /195 [ff. 152v] which may be consulted in the records of the Virginia Colonial Records Project, Albert H. Small Special Collections Library, University of Virginia.)</bibl></cit></note><lb/>
+<note id="n4">[4] Thomas Woodward commanded the <hi rend="italics">Providence</hi>, a London vessel of about 90 tons owned by John Hyde and Company. (<cit><bibl>There are a number of records concerning this vessel in Adm. 68/194 [ff. 27r, 77r, and 130r] and /195 [ff. 152v] which may be consulted in the records of the Virginia Colonial Records Project, Albert H. Small Special Collections Library, University of Virginia.</bibl></cit>)</note><lb/>
 
 <note id="n4.5">[4.5] The text in italics at this point was added by a later hand than Carter's.</note><lb/>
 
@@ -1266,6 +1271,7 @@ Northumberland County when RC's inventory was prepared in 1732. (<cit><bibl n="A
 
 <note id="n67">[67] William Camp (Kemp) was described by Carter as "the General Overseer of Mr Burwell's Affairs" and he wrote that Camp earned a salary "&pound;50 . . . for the year 1731." Carter and his son-in-law, Mann Page, were the trustees of Nathaniel Burwell's children after Burwell's death in 1721. Camp was a resident of Gloucester County where most of the Burwell estates lay, and he must also have supervised "Rippon Hall" in nearby York County. (Carter to George Braxton, 1729 November 20, and Carter to William Dawkins,1732  July 11. <cit><bibl><title>Virginia Tax Records.</title> [Baltimore: Genealogical Publishing Company, Inc., 1983.] p. 539.</bibl></cit>)</note><lb/>
 
+<note id="n68">[68] This vessel was commanded by Captain Constantine Cant and may have been  owned by William Dawkins and Micajah Perry as Carter reported her December 1723 arrival to each of them. (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194 and Survey Report 6801 summarizing Adm 68/195,, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note><lb/>
 
 
 
