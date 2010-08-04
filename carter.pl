@@ -401,7 +401,7 @@ $a =~ s/<xref to="Ext1">/<a href="http:\/\/www.abdn.ac.uk\/virtualmuseum\/index.
 $a =~ s/<xref to="Ext2">/<a href="http:\/\/www.angelfire.com\/journal\/millrestoration\/history.html">/g;
 $a =~ s/<xref to="Ext3">/<a href="http:\/\/www.bodley.ox.ac.uk\/cgi-bin\/ilej\/image1.pl?item=page&seq=1&size=1&id=gm.1732.11.x.2.x.x.1082">/g;
 $a =~ s/<xref to="Ext4">/<a href="http:\/\/www.stratfordhall.org\/learn\/lees\/thomaslee.php">/g;
-$a =~ s/<xref to="Ext5">/<a href="http:\/\/xpda.com\/family\/default.htm?page=Fauntleroy-Moore-ind02073.htm">/g;
+$a =~ s/<xref to="Ext5">/<a href="http:\/\/www.xpda.com\/family\/default.htm?page=Fauntleroy-Moore-ind02073.htm">/g;
 $a =~ s/<xref to="Ext6">/<a href="http:\/\/www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm">/g;
 $a =~ s/<xref to="Ext7">/<a href="http:\/\/www.next1000.com\/family\/EC\/tarpley.johnI.html">/g;
 $a =~ s/<xref to="Ext8">/<a href="http:\/\/www.octhouse.com\/allertonreport.html">/g;
@@ -426,7 +426,7 @@ $a =~ s/<xref to="Ext26">/<a href="http:\/\/www.haut-brion.com\/home\/en\/fiches
 $a =~ s/<xref to="Ext27">/<a href="http:\/\/www.artfund.org\/artwork\/2188/mrs-peter-how-and-her-two-children-peter-and-christian">/g;
 $a =~ s/<xref to="Ext28">/<a href="http:\/\/www.nwta.com\/patterns\/pdfs\/111dict.pdf">/g;
 $a =~ s/<xref to="Ext29">/<a href="http:\/\/www.scottish-towns.co.uk\/borders\/galashiels\/index.html">/g;
-$a =~ s/<xref to="Ext30">/<a href="http:\/\/answers.com\/topic\/potato.htm">/g;
+$a =~ s/<xref to="Ext30">/<a href="http:\/\/www.answers.com\/topic\/potato.htm">/g;
 $a =~ s/<xref to="Ext31">/<a href="http:\/\/www.freepages.genealogy.rootsweb.ancestry.com\/~nelmstnms\/Virginia\/Richard%20Nelms.htm">/g;
 $a =~ s/<xref to="Ext32">/<a href="http:\/\/www.angelfire.com\/journal\/pondlilymill\/glossary.html#anchor24973">/g;
 $a =~ s/<xref to="Ext33">/<a href="http:\/\/www.homepages.rootsweb.com\/~marshall\/esmd73.htm">/g;
