@@ -16,9 +16,11 @@
 <!ENTITY Ext32 SYSTEM "http://www.angelfire.com\/journal\/pondlilymill\/glossary.html#anchor24973" NDATA html>
 
 <!NOTATION htm  SYSTEM "htm">
+<!ENTITY Ext6 SYSTEM "http://www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm" NDATA htm>
+
+
 <!ENTITY Ext33 SYSTEM "http://www.homepages.rootsweb.com\/~marshall\/esmd73.htm" NDATA htm>
 
-<!ENTITY Ext6 SYSTEM "http://www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm" NDATA htm>
 
 
 
