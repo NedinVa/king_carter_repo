@@ -14,12 +14,12 @@
 
 <!NOTATION htm  SYSTEM "htm">
 <!ENTITY Ext32 SYSTEM "http://www.angelfire.com\/journal\/pondlilymill\/glossary.html#anchor24973" NDATA htm>
-
-<!NOTATION html SYSTEM "HTML">
-<!ENTITY Ext6 SYSTEM "http://www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm" NDATA html>
-
-<!NOTATION htm  SYSTEM "htm">
 <!ENTITY Ext33 SYSTEM "http://www.homepages.rootsweb.com\/~marshall\/esmd73.htm" NDATA htm>
+
+<!ENTITY Ext6 SYSTEM "http://www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm" NDATA htm>
+
+
+
 
 
 ]>
@@ -154,7 +154,7 @@ Gibson</note> <note id="n4">Ja<add resp="editor">[mes]</add> Whaley </note> brot
 5 Thomas Ashley Whaley went away fine, <add place="supralinear">warm weat<add resp="editor">[he]</add>r</add><lb/>
 6  a smart Snow weather Savage Newg<add resp="editor">[en]</add>t went<lb/>
 away Agreed wth <abbr expan="John  ">Jno </abbr> Connit for an Overseer <lb/>
-7   Smart frost W<add resp="editor">[ind]</add>. <abbr expan="northeast. ">NE. </abbr>. <note target="n4.5">Gibson</note> went away <lb/>
+7   Smart frost W<add resp="editor">[ind]</add>. <abbr expan="northeast. ">NE. </abbr>. Gibson went away <lb/>
 <sic corr="wrote ">writ</sic> by Connit to <note n="RM">Meeks</note> <note n="JC2">Ja<add resp="editor">[mes]</add> Carter</note> Arigo<lb/>
 Send 3 Deeds gave out to W Newgent 6 <add place="supralinear">Surveys for</add> Deeds <lb/>
 8 mr Meeks here mr Ja<add resp="editor">[mes]</add> Carter he had away 30<lb/>
@@ -249,7 +249,7 @@ a Gouge<lb/>
 Our Court very warm  <note target="n14"><abbr expan="Charles">Ch</abbr> Grimes</note> <note n="RL"><abbr expan="Dick ">D </abbr> Lee</note> came <lb/>
 home with me <sic corr="stayed ">staid</sic> <sic corr="until ">till</sic> Saturday morn<lb/>
 <abbr expan="William ">Wm</abbr> Jones came for my <note target="n14.5">hot Press</note> <lb/>
-<note id="n11.6"><abbr expan="Captain ">Capt</abbr> Woodward </note><lb/> had 4 <sic corr="hogs ">hoggs</sic> at 30<abbr expan=" shillings ">S</abbr> per <lb/>
+<note target="n11.6"><abbr expan="Captain ">Capt</abbr> Woodward </note><lb/> had 4 <sic corr="hogs ">hoggs</sic> at 30<abbr expan=" shillings ">S</abbr> per <lb/>
 <note target="n15"><sic corr="Biscoe ">Bisco</sic></note> had 3 more <abbr expan="Woodward ">Woodwd</abbr> is to pay for them<lb/>
 <note target="n15.5"><abbr expan="Charles ">Cha</abbr> <sic corr="Grymes ">Grimes</sic></note> undertakes <note target="n15.6">mr Wormley</note> shall pay<lb/>
 my Sons Fees in <note target="n15.7">Bills of <abbr expan="exchange ">Exche </abbr></note> at 20<abbr expan=" shillings ">S</abbr> per hundred weight<lb/>
@@ -570,7 +570,7 @@ also 3 <abbr expan="hogsheads ">hds</abbr> Corn <lb/>
 Crops <lb/>
 15   my Son <note target="n31">Robin took his Leave</note> of me <lb/>
 I gave him 5 <note target="n2.5"><sic corr="pistoles ">Pistols</sic></note>  2 <sic corr="doubloons ">ddloons</sic> <lb/>
-16  <note target="nCC1"> Charles</note> &amp; the rest of my Children goes <lb/>
+16  <note n="CC1">Charles</note> &amp; the rest of my Children goes <lb/>
 over the river wee had plentifull rains<lb/>
 this Night   I gave to Charles 20 <abbr expan=" shillings ">S</abbr> &amp; a <note target="n19.8"><sic corr="moidore ">Moydr</sic></note><lb/>
 to <note n="MCB">Mary</note> 10<abbr expan=" shillings ">S</abbr>  to <note n="LCF">Lucy</note> 5<abbr expan=" shillings ">S</abbr>  to <note n="GC">George</note> 5<abbr expan=" shillings ">S</abbr><lb/>
@@ -843,7 +843,7 @@ had a <sic corr="note ">Noat</sic> on <note n="RM">Meeks</note> for 1000 <abbr e
 <note target="n52"><abbr expan="Captain ">Capt</abbr> Lawrence</note> sent his men for my<lb/>
 Sloop Lawrence is to pay me 40<abbr expan=" shillings ">S</abbr><abbr expan="sterling "> Sterl</abbr><lb/>
 per <abbr expan="month ">mo</abbr> for my Storehouse.<lb/>
-This day very cold   <abbr expan="several ">sevl</abbr> Guns in <note target=" "><sic corr="Piankatank ">Peanketank</sic></note> <add resp="editor">[River]</add><lb/>
+This day very cold   <abbr expan="several ">sevl</abbr> Guns in <note target="n53"><sic corr="Piankatank ">Peanketank</sic></note> <add resp="editor">[River]</add><lb/>
 Suppose a Ship <abbr expan="gone ">gon</abbr> in there<lb/>
 <note target="n54">Keiling</note> arrivd then<lb/>
 smart cold weather <sic corr="until ">till</sic> the 30th a fine day &amp; 31th   mr Jones <note n="GT">mr<lb/>
@@ -890,9 +890,9 @@ smart cold weather <sic corr="until ">till</sic> the 30th a fine day &amp; 31th 
 
 <note id="n11.4">[11.4] This may have been Charles Barber who had been sheriff of Richmond County in 1704 and 1715, and its surveyor in 1721.  (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 3[1705-1721]: 271,398, and 540</bibl></cit>)</note>
 
-<note id="n11.6">[11.6] Thomas Woodward commanded the <hi rend="italics">Providence,</hi> a ship owned by Captain John Hyde &amp; Company, during a number of voyages to the colony, 1723-1729. (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194 and Survey Report 6801 summarizing Adm 68/195, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia,</bibl></cit> and Carter's <xref to="/users/berkeley/public/C23i17a.xml">letter</xref> to the firm, September 17,1723.)</note> 
-
 <note id="n11.5">[11.5] William Downman was a justice of Richmond County from 1718, sheriff  in 1722 and 1723, and a tobacco inspector in 1731 and 1732. (<cit><bibl n="B31">Ryland. <title>Richmond County Virginia. . . . </title> p. 504.</bibl></cit> and <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4(1721-1739): 12, 34, 238, 286</bibl></cit>)</note> 
+
+<note id="n11.6">[11.6] Thomas Woodward commanded the <hi rend="italics">Providence,</hi> a ship owned by Captain John Hyde &amp; Company, during a number of voyages to the colony, 1723-1729. (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194 and Survey Report 6801 summarizing Adm 68/195, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia,</bibl></cit> and Carter's <xref to="/users/berkeley/public/C23i17a.xml">letter</xref> to the firm, September 17,1723.)</note> 
 
 <note id="n11.7">[11.7] William Camp (Kemp) was described by Carter as "the General Overseer of Mr Burwell's Affairs" and he wrote that Camp earned a salary "&pound;50 . . . for the year 1731." Carter and his son-in-law, Mann Page, were the trustees of Nathaniel Burwell's children after Burwell's death in 1721. Camp was a resident of Gloucester County where most of the Burwell estates lay, and he must also have supervised "Rippon Hall" in nearby York County. (<cit><bibl>Carter to George Braxton, <xref to="/users/berkeley/public/C29k20a.xml">November 20, 1729</xref>,</bibl></cit> and <cit><bibl>Carter to William Dawkins, <xref to="/users/berkeley/public/C32g11a.xml">July 11, 1732</xref></bibl></cit>. <cit><bibl><title>Virginia Tax Records.</title> [Baltimore: Genealogical Publishing Company, Inc., 1983.] p. 539.</bibl></cit>)</note>
 
@@ -904,7 +904,7 @@ smart cold weather <sic corr="until ">till</sic> the 30th a fine day &amp; 31th 
 
 <note id="n13">[13] Carter omitted words at this point, but left no space in the text for them.</note> 
 
-<note target="n13.3">[13.3] The two references to "Whiteside" here and on April first are interesting and puzzling. Carter does not use the honorific of "Captain" either time as he is usually careful to do with ship's captains. Thus it is unlikely that he refers here to Captain William  Whiteside of the <hi rend="italics">Lucy</hi> who, in any case, first appears in Carter's papers in 1727. Yet this Whiteside arranges with Carter on April first to buy 560 bushels of wheat on behalf of "Coll Armistead," presumably Henry Armistead of "Hesse," GloucesterCounty. This was a very large quantity that would have filled some 160 barrels or roughly eighty hogsheads, probably a load larger than one of Carter's sloops could have carried.</note>
+<note id="n13.3">[13.3] The two references to "Whiteside" here and on April first are interesting and puzzling. Carter does not use the honorific of "Captain" either time as he is usually careful to do with ship's captains. Thus it is unlikely that he refers here to Captain William  Whiteside of the <hi rend="italics">Lucy</hi> who, in any case, first appears in Carter's papers in 1727. Yet this Whiteside arranges with Carter on April first to buy 560 bushels of wheat on behalf of "Coll Armistead," presumably Henry Armistead of "Hesse," GloucesterCounty. This was a very large quantity that would have filled some 160 barrels or roughly eighty hogsheads, probably a load larger than one of Carter's sloops could have carried.</note>
 
 <note id="n13.4">[13.4] This was probably Barnabas Burch "the boatbuildr" with whom Carter would have problems often in 1725 that would  cause him to describe Burch as "an idle Roug ever Since he came here  the work he has don hath  not answerd" in his diary entry for February 2nd. In June, Carter would learn that Burch and several others had stolen a gun and hidden it in the woods. In July Carter won a judgement against Burch for running away, and because Burch confessed "that he is totally ignorant of and unable to perform the trade &amp; misteries of a house carpenter for which he entered into Covenant with his sd Master in Great Britain." The court would add time to Burch's indenture, and order that he receive no salary during his term. (<cit><bibl n="B28">Jones, <title>Orders Book Entries . . . Referring to "Robert Carter. . . ."</title>  p. 120 abstracting Lancaster County Court Orders Book 7 1721-1729, page 181.</bibl></cit>)</note>
 
