@@ -4,7 +4,7 @@ $images = $ARGV[0];
 shift;
 $tag = $ARGV[0];
 shift;
-$tei2html="/lib_content5/etext/lv7/web/bin/etcbin/tei2html";
+$tei2html="etcbin/tei2html"; # "/lib_content5/etext/lv7/web/bin/etcbin/tei2html";
 
 open(OUTPUT, "| $tei2html");
 while (<>) {
@@ -411,7 +411,7 @@ $a =~ s/<xref to="Ext11">/<a href="http:\/\/www.lva.virginia.gov\/public\/using_
 $a =~ s/<xref to="Ext12">/<a href="http:\/\/www.geocities.com\/Heartland\/Prairie\/3596\/Hayney\/d679.htm#P679">/g;
 $a =~ s/<xref to="Ext13">/<a href="http:\/\/www.angelfire.com\/tx4\/custer\/ball.html">/g;
 $a =~ s/<xref to="Ext14">/<a href="http:\/\/www.dinsdoc.com\/bruce-1-7.htm">/g;
-$a =~ s/<xref to="Ext15">/<a href="http:\/\/www.poslfit.homeip.ne\t\/cgi-bin\/genea2.pl?id=10301.htm">/g;
+$a =~ s/<xref to="Ext15">/<a href="http:\/\/www.poslfit.homeip.net\/cgi-bin\/genea2.pl?id=10301.htm">/g;
 $a =~ s/<xref to="Ext16">/<a href="http:\/\/www.mathewscommunications.com\/mathews\/mw1\/mw1g93.htm#6068">/g;
 $a =~ s/<xref to="Ext17">/<a href="http:\/\/www.pbs.org\/wgbh\/aia\/part1\/1p269.html">/g;
 $a =~ s/<xref to="Ext18">/<a href="http:\/\/www.homepages.rootsweb.com\/~edburton\/\/fam03055.htm">/g;
@@ -420,12 +420,17 @@ $a =~ s/<xref to="Ext20">/<a href="http:\/\/www.18cnewenglandlife.org\/18cnel\/o
 $a =~ s/<xref to="Ext21">/<a href="http:\/\/www.members.tripod.com\/~Bonestwo\/index-6.html">/g;
 $a =~ s/<xref to="Ext22">/<a href="http:\/\/www.gen.culpepper.com\/historical\/legends\/lords.htm">/g;
 $a =~ s/<xref to="Ext23">/<a href="http:\/\/www.encyclopedia.com\/doc\/1O79-Williamsburg.html">/g;
+$a =~ s/<xref to="Ext24">/<a href="http:\/\/www.yulefamily.com\/newsletters\/yule24.htm">/g;
+
 $a =~ s/<xref to="Ext26">/<a href="http:\/\/www.haut-brion.com\/home\/en\/fiches\/chb.php">/g;
-$a =~ s/<xref to="Ext27">/<a href="http:\/\/www.artfund.org\/artwork\/2188\/mrs-peter-how-and-her-two-children-peter">/g;
+$a =~ s/<xref to="Ext27">/<a href="http:\/\/www.artfund.org\/artwork\/2188/mrs-peter-how-and-her-two-children-peter-and-christian">/g;
 $a =~ s/<xref to="Ext28">/<a href="http:\/\/www.nwta.com\/patterns\/pdfs\/111dict.pdf">/g;
 $a =~ s/<xref to="Ext29">/<a href="http:\/\/www.scottish-towns.co.uk\/borders\/galashiels\/index.html">/g;
 $a =~ s/<xref to="Ext30">/<a href="http:\/\/answers.com\/topic\/potato.htm">/g;
 $a =~ s/<xref to="Ext31">/<a href="http:\/\/www.freepages.genealogy.rootsweb.ancestry.com\/~nelmstnms\/Virginia\/Richard%20Nelms.htm">/g;
+$a =~ s/<xref to="Ext32">/<a href="http:\/\/www.angelfire.com\/journal\/pondlilymill\/glossary.html#anchor24973">/g;
+$a =~ s/<xref to="Ext32">/<a href="http:\/\/www.homepages.rootsweb.com\/~marshall\/esmd73.htm">/g;
+
 
 
 
