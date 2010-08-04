@@ -429,7 +429,7 @@ $a =~ s/<xref to="Ext29">/<a href="http:\/\/www.scottish-towns.co.uk\/borders\/g
 $a =~ s/<xref to="Ext30">/<a href="http:\/\/answers.com\/topic\/potato.htm">/g;
 $a =~ s/<xref to="Ext31">/<a href="http:\/\/www.freepages.genealogy.rootsweb.ancestry.com\/~nelmstnms\/Virginia\/Richard%20Nelms.htm">/g;
 $a =~ s/<xref to="Ext32">/<a href="http:\/\/www.angelfire.com\/journal\/pondlilymill\/glossary.html#anchor24973">/g;
-$a =~ s/<xref to="Ext32">/<a href="http:\/\/www.homepages.rootsweb.com\/~marshall\/esmd73.htm">/g;
+$a =~ s/<xref to="Ext33">/<a href="http:\/\/www.homepages.rootsweb.com\/~marshall\/esmd73.htm">/g;
 
 
 
