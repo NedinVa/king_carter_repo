@@ -4,7 +4,15 @@ $images = $ARGV[0];
 shift;
 $tag = $ARGV[0];
 shift;
-$tei2html="/lib_content5/etext/lv7/web/bin/etcbin/tei2html";
+if ( -e "/lib_content5/etext/lv7/web/bin/etcbin/tei2html" )
+{ $tei2html="/lib_content5/etext/lv7/web/bin/etcbin/tei2html"; }
+else 
+{ 
+# this allows this script to run without lib_content mounted
+   use File::Basename;
+   $basedir= dirname($0);
+   $tei2html=$basedir . "/etcbin/tei2html" ; 
+}
 
 open(OUTPUT, "| $tei2html");
 while (<>) {
