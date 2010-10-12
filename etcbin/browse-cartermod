@@ -1,6 +1,6 @@
 #!/usr/local/bin/perl
 
-$tei2html = "perl cartermod.pl"; # "/web/data/users/berkeley/cartermod.pl";
+$tei2html = "/web/data/users/berkeley/cartermod.pl";
 
 $QS=$ENV{'QUERY_STRING'};
 @QS = split(/&/,$QS);
@@ -34,13 +34,15 @@ if($title eq "") {
 }
 $title =~ s/\[.*\]//g;
 print STDOUT <<"EndofHeader";
+Content-type: text/html
+
 <HTML>
 <head>
 <TITLE>$title</TITLE>
 </head>
 <body bgcolor="#FFFFF0">
 
-<img src="../logo.gif" align="left" ALT="Robert King Carter's Correspondence and Diary">
+<img src="/users/berkeley/logo.gif" align="left" ALT="Robert King Carter's Correspondence and Diary">
 <br>
 <br>
 <font size="+2">&nbsp;&nbsp;&nbsp;<b><i>A Collection Transcribed <br>
@@ -48,8 +50,8 @@ print STDOUT <<"EndofHeader";
 &nbsp;&nbsp;&nbsp;by Edmund Berkeley, Jr.</i></b></font>
 <br>
 <br>
-<b><a href="index.html">List of Letters</a></b> | 
-<b><a href="../index.html">About This Collection</a></b><br>
+<b><a href="/users/berkeley/public/">List of Letters</a></b> | 
+<b><a href="/users/berkeley/">About This Collection</a></b><br>
 <br>
 
 <font size="-1"><a href="/">Electronic Text Center</a>, University of Virginia Library</font>
