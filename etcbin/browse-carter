@@ -1,6 +1,13 @@
 #!/usr/local/bin/perl
 
-$tei2html = "/web/data/users/berkeley/carter.pl";
+use File::Basename;
+
+$script=$ENV{'SCRIPT_NAME'}; # if there's a SCRIPT_NAME, assume we're running in CGI, else batch-cmd
+if ( $script && dirname( $script ) == "/etcbin" ) { $tei2html = "/web/data/users/berkeley" ; }
+else { $tei2html = dirname(dirname( $0 )); }
+if ( basename( $0 ) =~ "^browse-cartermod" )  { $tei2html =  $tei2html . "/cartermod.pl"; }
+elsif ( basename( $0 ) =~ "^browse-carter" )  { $tei2html = $tei2html . "/carter.pl"; }
+else { die "must be called as browse-cartermod* or browse-carter*" ; } 
 
 $QS=$ENV{'QUERY_STRING'};
 @QS = split(/&/,$QS);
@@ -39,10 +46,11 @@ Content-type: text/html
 <HTML>
 <head>
 <TITLE>$title</TITLE>
+<base href="/users/berkeley/public/" />
 </head>
 <body bgcolor="#FFFFF0">
 
-<img src="/users/berkeley/logo.gif" align="left" ALT="Robert King Carter's Correspondence and Diary">
+<img src="../logo.gif" align="left" ALT="Robert King Carter's Correspondence and Diary">
 <br>
 <br>
 
@@ -52,8 +60,8 @@ Content-type: text/html
 
 <br>
 <br>
-<b><a href="/users/berkeley/public/">List of Letters</a></b> | 
-<b><a href="/users/berkeley/">About This Collection</a></b><br>
+<b><a href="indexltrs.html">List of Letters</a></b> | 
+<b><a href="../index.html">About This Collection</a></b><br>
 <br>
 
 <font size="-1"><a href="/">Electronic Text Center</a>, University of Virginia Library</font>
