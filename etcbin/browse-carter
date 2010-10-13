@@ -3,8 +3,14 @@
 use File::Basename;
 
 $script=$ENV{'SCRIPT_NAME'}; # if there's a SCRIPT_NAME, assume we're running in CGI, else batch-cmd
-if ( $script && dirname( $script ) == "/etcbin" ) { $tei2html = "/web/data/users/berkeley" ; }
-else { $tei2html = dirname(dirname( $0 )); }
+if ( $script && dirname( $script ) == "/etcbin" ) { 
+	$tei2html = "/web/data/users/berkeley" ; 
+	$base = "<base href=\"/users/berkeley/public/\" />" ; 
+}
+else { 
+	$tei2html = dirname(dirname( $0 )); 
+	$base = "" ;
+}
 if ( basename( $0 ) =~ "^browse-cartermod" )  { $tei2html =  $tei2html . "/cartermod.pl"; }
 elsif ( basename( $0 ) =~ "^browse-carter" )  { $tei2html = $tei2html . "/carter.pl"; }
 else { die "must be called as browse-cartermod* or browse-carter*" ; } 
@@ -46,7 +52,7 @@ Content-type: text/html
 <HTML>
 <head>
 <TITLE>$title</TITLE>
-<base href="/users/berkeley/public/" />
+$base
 </head>
 <body bgcolor="#FFFFF0">
 
