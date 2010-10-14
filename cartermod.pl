@@ -148,8 +148,8 @@ $a =~ s/<!ENTITY % ISOtech SYSTEM  "ISOtech.pen"> %ISOtech;//g;
 $a =~ s/<\?xml version=\"1\.0\"\?>//g;
 $a =~ s/<\?xml-stylesheet href=\"carter\.xsl\" type=\"text\/xsl\"\?>//g; 
 
-$a =~ s/<note n="([^"]*)">/<a href="Cbiodir.html#$1">/g;
-$a =~ s/<bibl n="([^"]*)">/<a href="Cbibl.html#$1">/g;
+$a =~ s/<note n="([^"]*)">/<a href="http:\/\/etext.lib.virginia.edu\/users\/berkeley\/public\/Cbiodir.html#$1">/g;
+$a =~ s/<bibl n="([^"]*)">/<a href="http:\/\/etext.lib.virginia.edu\/users\/berkeley\/public\/Cbibl.html#$1">/g;
 $a =~ s/<\/bibl>/<\/a>/g;
 
 $a =~ s/<ref target="([^"]*)">/<a href="#$1">/g;
@@ -538,11 +538,11 @@ $a =~ s/<\/xref>/<\/a>/g;
 
 #images
 
-$a =~ s/<figure entity="fig1">/<img src="fig1.jpg" alt="Photograph of the Robert Carter Tomb" style="width:600px; float:right;"><br\/><\/image>/g;
+$a =~ s/<figure entity="fig1">/<img src="\/users\/berkeley\/public\/fig1.jpg" alt="Photograph of the Robert Carter Tomb" style="width:600px; float:right;"><br\/><\/image>/g;
 
-$a =~ s/<figure entity="Diary1">/<img src="Diary1.jpg" alt="" style="width:900px; float:right;"><br\/><\/image>/g;
+$a =~ s/<figure entity="Diary1">/<img src="\/users\/berkeley\/public\/Diary1.jpg" alt="" style="width:900px; float:right;"><br\/><\/image>/g;
 
-$a =~ s/<figure entity="church">/<img src="church.jpg"  alt="" style="width:600px; float:right;"><br\/><\/image>/g;
+$a =~ s/<figure entity="church">/<img src="\/users\/berkeley\/public\/church.jpg"  alt="" style="width:600px; float:right;"><br\/><\/image>/g;
 
 $a =~ s/<figDesc>/<span class="figdesc" style="display:none;">/g;
 $a =~ s/<\/figDesc>/<\/span>/g;
