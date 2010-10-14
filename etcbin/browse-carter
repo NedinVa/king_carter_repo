@@ -5,7 +5,7 @@ use File::Basename;
 $script=$ENV{'SCRIPT_NAME'}; # if there's a SCRIPT_NAME, assume we're running in CGI, else batch-cmd
 if ( $script && dirname( $script ) == "/etcbin" ) { 
 	$tei2html = "/web/data/users/berkeley" ; 
-	$base = "<base href=\"/users/berkeley/public/\" />" ; 
+	$base = "" ; # "<base href=\"/users/berkeley/public/\" />" ; 
 }
 else { 
 	$tei2html = dirname(dirname( $0 )); 
@@ -56,7 +56,7 @@ $base
 </head>
 <body bgcolor="#FFFFF0">
 
-<img src="../logo.gif" align="left" ALT="Robert King Carter's Correspondence and Diary">
+<img src="/users/berkeley/logo.gif" align="left" ALT="Robert King Carter's Correspondence and Diary">
 <br>
 <br>
 
@@ -66,8 +66,8 @@ $base
 
 <br>
 <br>
-<b><a href="indexltrs.html">List of Letters</a></b> | 
-<b><a href="../index.html">About This Collection</a></b><br>
+<b><a href="/users/berkeley/public/indexltrs.html">List of Letters</a></b> | 
+<b><a href="/users/berkeley/index.html">About This Collection</a></b><br>
 <br>
 
 <font size="-1"><a href="http://etext.lib.virginia.edu/">Electronic Text Center</a>, University of Virginia Library</font>
