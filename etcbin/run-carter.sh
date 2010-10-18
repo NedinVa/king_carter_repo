@@ -9,9 +9,9 @@ then
  export QUERY_STRING="id=${FILE}&images=XYZZY&data=.&tag=public"
  echo $QUERY_STRING
  echo "writing html/${BASE}.html..."
- perl etcbin/browse-carter  | etcbin/abs2relhref.pl | tr '\r' '\n' | tail +3 >html/${BASE}.html 
+ perl etcbin/browse-carter  | etcbin/abs2relhref.pl | tr '\r' '\n' | tail +3 | etcbin/inl.sh >html/${BASE}.html 
  echo "writing html/${BASE}.mod.html..."
- perl etcbin/browse-cartermod | etcbin/abs2relhref.pl | tr '\r' '\n' | tail +3 >html/${BASE}.mod.html
+ perl etcbin/browse-cartermod | etcbin/abs2relhref.pl | tr '\r' '\n' | tail +3 | etcbin/inl.sh >html/${BASE}.mod.html
 else
  echo "nothing?" 
 fi
