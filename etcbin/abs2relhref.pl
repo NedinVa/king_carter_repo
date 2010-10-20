@@ -1,5 +1,7 @@
 #!/usr/bin/perl
 
+# rewrite and fix links in static html files
+
 while ( <> ) {
 
  s/href="http:\/\/etext.lib.virginia.edu\/users\/berkeley\/public\/Cbiodir.html#([^"]*)"/href="Cbiodir.html#$1"/g ;
