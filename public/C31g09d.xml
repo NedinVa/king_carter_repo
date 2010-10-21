@@ -34,7 +34,7 @@
 <publicationStmt>
      <publisher>University of Virginia Library.</publisher>
      <pubPlace>Charlottesville, Va.</pubPlace>
-     <idno type="ETC">C31g09d.xml.xml</idno>
+     <idno type="ETC">C31g09d.xml</idno>
      <availability>
      <p>Publicly accessible</p>
      <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
@@ -90,7 +90,7 @@
 <abbr>AL</abbr>
 <extent>1 p.</extent>
 <date value="1731-07-09"></date>
-<idno rend="suppress">C31g09d.xml.xml</idno>
+<idno rend="suppress">C31g09d.xml</idno>
 <title>Letter from Robert Carter to Alderman [Micajah] Perry &amp; Company, July 9, 1731</title>
 </bibl>
 </head>

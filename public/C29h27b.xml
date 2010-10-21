@@ -36,7 +36,7 @@
 <publicationStmt>
      <publisher>University of Virginia Library.</publisher>
      <pubPlace>Charlottesville, Va.</pubPlace>
-     <idno type="ETC">C29h27b..xml.xml</idno>
+     <idno type="ETC">C29h27b..xml</idno>
      <availability>
      <p>Publicly accessible</p>
      <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
@@ -92,7 +92,7 @@
 <abbr>AL</abbr>
 <extent>2 p.</extent>
 <date value="1729-08-27"></date>
-<idno rend="suppress">C29h27b..xml.xml</idno>
+<idno rend="suppress">C29h27b..xml</idno>
 <title>Letter from Robert Carter to an Overseer, [August 27, 1729]</title>
 </bibl>
 </head>
