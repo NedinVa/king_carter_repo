@@ -4,15 +4,7 @@ $images = $ARGV[0];
 shift;
 $tag = $ARGV[0];
 shift;
-if ( -e "/lib_content5/etext/lv7/web/bin/etcbin/tei2html" )
-{ $tei2html="/lib_content5/etext/lv7/web/bin/etcbin/tei2html"; }
-else 
-{ 
-# this allows this script to run without lib_content mounted
-   use File::Basename;
-   $basedir= dirname($0);
-   $tei2html=$basedir . "/etcbin/tei2html" ; 
-}
+$tei2html="/lib_content5/etext/lv7/web/bin/etcbin/tei2html";
 open(OUTPUT, "| $tei2html");
 while (<>) {
         $a = $_;                                            
@@ -403,7 +395,7 @@ $a =~ s/<div[0-9] type="section" n="[^>]*">//g;
 
 #cross references
 
-$a =~ s/<xref doc="(C[^\"]*)">/<a href="http:\/\/etext.lib.virginia.edu\/etcbin\/browse-carter?id=$1.xml&images=images\/modeng&data=\/web\/data\/users\/berkeley\&tag=public" target="_wblank">/g;
+$a =~ s/<xref doc="([^\"]*)">/<a href="http:\/\/etext.lib.virginia.edu\/etcbin\/browse-carter?id=$1.xml&images=images\/modeng&data=\/web\/data\/users\/berkeley\&tag=public" target="_wblank">/g;
 $a =~ s/<xref to="Ext1">/<a href="http:\/\/www.abdn.ac.uk\/virtualmuseum\/index.php?page=object_detail&prefix=ABDUA&num=18746&firstview=true&mt=&sign=&viewnumber=&resultsperpage=9">/g;
 $a =~ s/<xref to="Ext2">/<a href="http:\/\/www.angelfire.com\/journal\/millrestoration\/history.html">/g;
 $a =~ s/<xref to="Ext3">/<a href="http:\/\/www.bodley.ox.ac.uk\/cgi-bin\/ilej\/image1.pl?item=page&seq=1&size=1&id=gm.1732.11.x.2.x.x.1082">/g;
