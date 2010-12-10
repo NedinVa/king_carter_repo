@@ -106,7 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place"><add resp="editor">[Rappahannock, Lancaster County, Virginia]</add></name><lb/>
+<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
 <date value="1723-12-27"><hi rend="underline">Decr: 27. 1723</hi></date><lb/>
 Mr Robt Alexander<lb/>
 </dateline>
@@ -114,9 +114,9 @@ Mr Robt Alexander<lb/>
 
 </opener>
 
-<p>I <abbr expan="received">recd:</abbr> Your letter or <sic corr="rather">reather</sic> <del>Entries</del> <add place="supralinear">suggestions</add> for <lb/>some Land <add place="supralinear">by</add> Your <sic corr="bearer">barer</sic> you grasp at a very great quan=<lb/>tity twice more than ever I granted to one person since <lb/>I have been <sic corr="concerned">concernd</sic> in the office and I believe very larg=<lb/>ly above Your size to make improvments upon the <lb/>bounds You give are very loose and <sic corr="unconfined">unconfin'd</sic> which <lb/>I always avoid giving Warrants upon. The two entries <lb/>for three Thousand Acres each beng a little more <lb/>particularly <sic corr="described">discrib'd</sic> I have sent You Warrants for <lb/>the other two <del>Entries</del> <add place="supralinear">suggestions</add> must lie for consideration till <lb/>I am better acquainted with Your circumstances <lb/>and the places where the Lands lie</p>
+<p>I recd: Your letter or <sic corr="rather ">reather</sic> <del>Entries</del> <add place="supralinear">suggestions</add> for <lb/>some Land <add place="supralinear">by</add> Your <sic corr="bearer ">barer</sic> you grasp at a very great quan=<lb/>tity twice more than ever I granted to one person since <lb/>I have been <sic corr="concerned ">concernd</sic> in the office and I believe very larg=<lb/>ly above Your size to make improvments upon the <lb/>bounds You give are very loose and <sic corr="unconfined ">unconfin'd</sic> which <lb/>I always avoid giving Warrants upon. The two entries <lb/>for three Thousand Acres each beng a little more <lb/>particularly <sic corr="described ">discrib'd</sic> I have sent You Warrants for <lb/>the other two <del>Entries</del> <add place="supralinear">suggestions</add> must lie for consideration till <lb/>I am better acquainted with Your circumstances <lb/>and the places where the Lands lie</p>
 
-<p>You are Mistaken as to my fees for an Entry and <lb/>Warrrant I charge an hundred and seventy <add place="supralinear">five</add> pounds <lb/><add resp="editor">[of]</add> <abbr expan="tobacco">Tob:</abbr> this <sic corr="reduced">reduc'd</sic> to <sic corr="money">mony</sic> at ten Shillings present <lb/><add resp="editor">[...]</add> comes to seventeen shillings and six pence <lb/><add resp="editor">[accord]</add>ingly I stop five and Thirty Shillings 
+<p>You are Mistaken as to my fees for an Entry and <lb/><gap reason="damage"/>Warrrant I charge an hundred and seventy <add place="supralinear">five</add> pounds <lb/><gap reason="damage"/><add resp="editor">[of]</add> <abbr expan="tobacco ">Tob:</abbr> this <sic corr="reduced ">reduc'd</sic> to <sic corr="money">mony</sic> at ten Shillings present <lb/><gap reason="damage"/><add resp="editor">[ . . . ] </add> comes to seventeen shillings and six pence <lb/><gap reason="damage"/><add resp="editor">[accord]</add>ingly I stop five and Thirty Shillings 
 
 <pb n="2"/><lb/><lb/>for Your two Entries and Warrants I am </p>
 
@@ -136,10 +136,12 @@ Mr Robt Alexander<lb/>
 
 <note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1723 June 16-1724 April 23, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
 
-<note id="n1">[1] The name "Robert Alexander" appears as a justice of the peace for Prince William County in the records of the Council for 1734 November 1. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[721-1739]: 339.</bibl></cit>
+<note>The name of Carter's home, the county, and colony have been added for clarity to this unheaded draft.</note>
+
+<note id="n1">[1] The name "Robert Alexander" appears as a justice of the peace for Prince William County in the records of the Council for November 1,  1734. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[721-1739]: 339.</bibl></cit>
 )</note>
 
-
+<lb/><lb/><note><hi rend="italics">This text revised December 3, 2010.</hi></note>
 </div1>
 </back>
 
