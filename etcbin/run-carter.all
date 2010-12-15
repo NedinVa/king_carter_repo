@@ -1,0 +1,8 @@
+#
+# this script should be run from it's parent directory 
+# which is the top directory of berkeley prj web site.
+#
+for X in public/*C*.xml 
+do
+ ./etcbin/run-carter.sh $X
+done
