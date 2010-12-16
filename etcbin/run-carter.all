@@ -1,6 +1,12 @@
 #
-# this script should be run from it's parent directory 
-# which is the top directory of berkeley prj web site.
+# process all berkeley king carter xml files 
+# output static html files into html directory
+#
+# this script should be run from it's parent directory :
+# (which should be the top level berkeley directory)
+cd $(dirname $0)
+cd $(pwd -P)
+cd ..
 #
 for X in public/*C*.xml 
 do
