@@ -10,7 +10,13 @@
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+
+<!NOTATION html SYSTEM "HTML">
+<!ENTITY Ext6 SYSTEM "http://www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm" NDATA html>
+
+
+ ]>
 <TEI.2 id="C24b13a">
 
 
@@ -39,7 +45,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
          </availability>
-     <date>2002</date>
+     <date>2002, 2011</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -107,26 +113,24 @@
 <dateline>
 <pb n="1"/>
 The other Book<lb/><lb/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;per Keiling
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;per Keiling<lb/>
 <date value="1724-02-13">Feb. 13th. 1723/4&mdash;</date><lb/>
-Mr. Wm. Dawkins<lb/>
+Mr. Wm. Dawkins&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
 </dateline>
 
 
 </opener>
 
-<p>I have been pretty <sic corr="plentiful">plentifull</sic> to You already <lb/>Shall say the less now herein You have a bill of Lading for fifty hhds. <lb/>of my Crop Tobo. wch. I have <sic corr="shipped">Shipd</sic> upon Your Charter, <note target="n1">Keiling</note> would <lb/>not Sign his bills under Eight pound Ten, although he did my other <lb/>Bills at Eight pound, In Yours of the 2d. of <abbr expan="August">Augst.</abbr> You tell me You were <lb/>to have the freight as the rest of the Ship went, I hope You will Set this <lb/>Matter to rights with <note n="MP2">Mr. Perry</note> &amp; do me justice, As I am not for <lb/>Sinking the freight too low, So I am as unwilling to give too much, <lb/>You may remember how Baily Kent fared by exacting 20<abbr expan=" shillings">s</abbr> upon his <lb/>freight wch. I am sure <sic corr="proved">provd</sic> to the damage of the <note n="CS"><name type="ship">Carter</name></note> some hundreds <lb/>of pounds, This Tobo. in general I have taken all Imaginable care <lb/>to manage in the Best manner, &amp; I hope will rise as well as the Year <lb/>Affords, but I must Advertise You of three hhds. No. 32. 33. 34. that <lb/>are but Indifferent &amp; as indifferently <sic corr="managed">manag'd</sic> My overseer was a Notori<lb/>=ous rogue &amp; <sic corr="passed">passd</sic> this Tobo. upon his Oath, I discoverd not his Villany <lb/><sic corr="until">till</sic> the Tobo. was <sic corr="marked &amp; ordered">markd &amp; orderd</sic> away, You must do the best with <lb/>it You can, but pray let it not discredit the rest of my Goods.</p>
+<p>I have been pretty <sic corr="plentiful ">plentifull</sic> to You already <lb/>Shall say the less now herein You have a bill of Lading for fifty hhds. <lb/>of my Crop Tobo. wch. I have <sic corr="shipped ">Shipd</sic> upon Your Charter, <note target="n1">Keiling</note> would <lb/>not Sign his bills under Eight pound Ten, although he did my other <lb/>Bills at Eight pound, In Yours of the 2d. of <abbr expan="August ">Augst.</abbr> You tell me You were <lb/>to have the freight as the rest of the Ship went, I hope You will Set this <lb/>Matter to rights with <note n="MP2">Mr. Perry</note> &amp; do me justice, As I am not for <lb/>Sinking the freight too low, So I am as unwilling to give too much, <lb/>You may remember how <note n="CS">Baily Kent</note> fared by exacting 20<abbr expan=" shillings ">S</abbr>  upon his <lb/>freight wch. I am sure <sic corr="proved ">provd</sic> to the damage of the <name type="ship">Carter</name> some hundreds <lb/>of pounds, This Tobo. in general I have taken all Imaginable care <lb/>to manage in the Best manner, &amp; I hope will rise as well as the Year <lb/>Affords, but I must Advertise You of three hhds. No. 32. 33. 34. that <lb/>are but Indifferent &amp; as indifferently <sic corr="managed ">manag'd</sic> My overseer was a Notori<lb/>=ous rogue &amp; <sic corr="passed ">passd</sic> this Tobo. upon his Oath, I discoverd not his Villany <lb/><sic corr="until ">till</sic> the Tobo. was <sic corr="marked &amp; ordered ">markd &amp; orderd</sic> away, You must do the best with <lb/>it You can, but pray let it not discredit the rest of my Goods.</p>
 
 
 
 <pb n="2"/><lb/><lb/>
-<p>Poor <note target="n2">Adam Graves</note> hath had the Misfortune to be taken <add resp="editor">[most grave]</add><lb/>=ly ill at York which kept him from his ship I think abov<add resp="editor">[e a fort]</add><lb/>=night, I saw him Yesterday, he had abundance of blood ta<add resp="editor">[ken]</add> <lb/>from him and looks very pittyfully, You may be sure this p<add resp="editor">[uts]</add> <lb/>no Small disadvantage to Your Concern they have but sixty <lb/>hhds. Yet on board, &mdash;We have had a very wet Spell there is n<add resp="editor">[o]</add> <lb/>rolling Tobo., and he tells me a great many peoples Tobo. that <add resp="editor">[he]</add> <lb/>Sends for are not ready &amp; upon One pretence or another not t<add resp="editor">[o]</add> <lb/>be got, what the Event of these difficulties will be I Shall not <lb/>foretell, I am Sending Out a Sloop and hands that carrys <lb/>70 hhds. to fetch Tobo. for him, I have another Sloop of the Same <lb/>bigness that he may have at an hours warning but he <lb/>protests to me he does not know where to Send her as Yet. <lb/>I tell both the Master and Mate, they must double their diligence <lb/>If they intend to do any thing considerable, &amp; I will not fail to <lb/>Spirit them every time they come cross me, &amp; they Shall want <lb/>no Assistance of mine that I am able to give them, thus You <lb/>have a short sketch of Your Affair here Graves hath underta=<lb/>=ken to sail by the 20th of March, herein You have a bill of <lb/><abbr expan="exchange">Exche.</abbr> on Yor. self Drawn by <abbr expan="John">Jno.</abbr> Hudnal for &pound; <add resp="editor">[omission in text]</add> <lb/>wch. I desire You'l Either credit me <del>for</del> or Protest&mdash;</p>
+<p>Poor <note n="2">Adam Graves</note> <sic corr="has ">hath </sic> had the Misfortune to be taken <gap reason="damage"/><add resp="editor">[most grave]</add><lb/>=ly ill at York which kept him from his ship I think abov<gap reason="damage"/><add resp="editor">[e a fort]</add><lb/>=night, I saw him Yesterday, he had abundance of blood ta<gap reason="damage"/><add resp="editor">[ken] </add> <lb/>from him and looks very <sic corr="pitiful, ">pittyfully,</sic> You may be sure this p<gap reason="damage"/><add resp="editor">[uts] </add> <lb/>no Small disadvantage to Your Concern they have but sixty <gap reason="damage"/><lb/>hhds. Yet on board, &mdash;We have had a very wet Spell there is n<gap reason="damage"/><add resp="editor">[o] </add> <lb/>rolling Tobo., and he tells me a great many peoples Tobo. that <gap reason="damage"/><add resp="editor">[he]</add> <lb/>Sends for are not ready &amp; upon One pretence or another not t<gap reason="damage"/><add resp="editor">[o]</add> <lb/>be got, what the Event of these difficulties will be I Shall not <lb/>foretell, I am Sending Out a Sloop and hands that <sic corr="carries ">carrys</sic> <lb/>70 hhds. to fetch Tobo. for him, I have another Sloop of the Same <lb/>bigness that he may have at an hours warning but he <lb/>protests to me he does not know where to Send her as Yet. <lb/>I tell both the Master and Mate, they must double their diligence <lb/>If they intend to do any thing considerable, &amp; I will not fail to <lb/>Spirit them every time they come cross me, &amp; they Shall want <lb/>no Assistance of mine that I am able to give them, thus You <lb/>have a short sketch of Your Affair here Graves <sic corr="has ">hath </sic> underta=<lb/>=ken to sail by the 20th of March, herein You have a <note n="3">bill of <lb/><abbr expan="exchange ">Exche.</abbr></note> on Yor. self Drawn by <abbr expan="John">Jno.</abbr> Hudnal for &pound; <add resp="editor">[omission in text]</add> <lb/>wch. I desire <sic corr="you'll ">You'l</sic> Either credit me <del>for</del> or Protest&mdash;</p>
 
-<p>Since the Above I had been on board of <abbr expan="Captain">Capt.</abbr>
- Graves he is grown <lb/>pretty brisk <sic corr="reckoned">reckond</sic> up to me promises that he has for <add resp="editor"> [<hi rend="italics">sic</hi>]</add> more Tobo. than his <lb/>Ship can carry, If Men will be but as good as their words.</p>
+<p>Since the Above I had been on board of <abbr expan="Captain ">Capt.</abbr>  Graves he is grown <lb/>pretty brisk <sic corr="reckoned ">reckond</sic> up to me promises that he has for <add resp="editor"> [<hi rend="italics">sic</hi>]</add> more Tobo. than his <lb/>Ship can carry, If Men will be but as good as their words.</p>
 
-<p>We flatter our selves with mighty hopes of wonders from our <lb/><sic corr="stemmed">Stemd</sic> Tobo. this Year it being the last we are to make, &amp; all the <abbr expan="merchants">Merchts.</abbr> <lb/>Your Self Especially <sic corr="encouraged">Encourag'd</sic> us to Send off all we could of that Sort <lb/>now it lyes at Your door to answer Your <sic corr="promises,">promisses,</sic> certainly if the consider<lb/>=able men of Your Number will Agree together to set it up at a good <lb/>price You will be Able to bring the <sic corr="smokers">smoakers</sic> into a Yeilding Temper <lb/>I am Sir&mdash;&mdash; </p>
+<p>We flatter our selves with mighty hopes of wonders from our <note n="4"><lb/><sic corr="stemmed ">Stemd</sic> Tobo.</note> this Year it being the last we are to make, &amp; all the <abbr expan="merchants ">Merchts.</abbr> <lb/>Your Self Especially <sic corr="encouraged ">Encourag'd</sic> us to Send off all we could of that Sort <lb/>now it <sic corr="lies ">lyes</sic> at Your door to answer Your <sic corr="promises, ">promisses,</sic> certainly if the consider<lb/>=able men of Your Number will Agree together to set it up at a good <lb/>price You will be Able to bring the <sic corr="smokers ">smoakers</sic> into a <sic corr="yielding ">Yeilding</sic> Temper <lb/>I am Sir&mdash;&mdash; </p>
 
 
 <closer>Your very humble Servt </closer>
@@ -152,10 +156,11 @@ Mr. Wm. Dawkins<lb/>
 
 <note id="n2">[2] Adam Graves was a son of Captain Thomas Graves [d. <hi rend="italics">ante</hi> 1720], long a captain of vessels trading to Virginia, and a special friend of Robert Carter's. Adam Graves commanded the <hi rend="italics">Bailey</hi> in 1725-1727, a ship that belonged to London merchant William Dawkins. (<cit><bibl>Survey Report 6800, and Adm. 68/194-196 found in the microfilms of the Virginia Colonial Records Project, Albert  and Shirley Small Special Collections Library, University of Virginia</bibl></cit>)</note>
 
+<note id="n3"> [3] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (<cit><bibl><xref to="Ext6">"Dictionary of  Financial Scam Terms" at </xref> http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm. 8/22/2005</bibl></cit>)</note>
 
+<note id="n4">[4] Parliament had passed an act forbidding the importation of stemmed tobacco in 1722. John Randolph would be sent to England in 1729 as agent for Virginia to try to have the act overturned; his mission would be successful. (<cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> [Newport News, VA: Mariners' Museum, 1953], 116.</bibl></cit>)</note>
 
-
-
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2002, was revised February 15, 2011, to add footnotes, and to strengthen the modern language version text.</hi></note>
 
 </div1>
 </back>

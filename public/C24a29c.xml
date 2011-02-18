@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
          </availability>
-     <date>2002</date>
+     <date>2002, 2011</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,9 +106,9 @@
 <opener>
 <dateline>
 <pb n="1"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;per Fowler<lb/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Copy Woodward<lb/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;per Fowler&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Copy Woodward<lb/>
+<lb/>
 <date value="1724-01-29">Janr. 29th. 1723/4&mdash;</date><lb/>
 Mr. Micajh. Perry<lb/>
 </dateline>
@@ -116,7 +116,7 @@ Mr. Micajh. Perry<lb/>
 
 </opener>
 
-<p>In Yors. of the 2d of <abbr expan="August">Augst.</abbr> You tell me the Method I had <lb/><sic corr="proposed">Proposd</sic> to repay You the fiveteen hundred Pound which You <lb/>Advancd for <note target="n1">my Son's place,</note> You were contented with.  In the <lb/>last fleet, I <sic corr="ordered">order'd</sic> You half the money &amp; in the Next that is by the <lb/>Summer Ships, I shall order You the Remainder, &amp; will like=<lb/>wise bear the <sic corr="burden">burthen</sic> of the Charge of his <sic corr="patent,">pattent,</sic> so that I reckon <lb/>no Interest will be due to You, although he tells me, he became <lb/><sic corr="obliged">Obligd</sic> to You in two Bonds for the payment of this money, which <lb/>in Justice You will think proper to return to him <sic corr="canclled,">cancelld,</sic> <lb/>The Four hundred pound which I <sic corr="ordered">order'd</sic> for his Equipage <lb/>in the half whereof You have <sic corr="charged">chargd</sic> me with &amp; the other half <lb/><note n="WD">Mr. Dawkins</note> paid to You, I <sic corr="believed">believ'd</sic> was sufficient for those <lb/>Expences, &amp; therefore reckon there remains behind no Incum=<lb/>=brances upon him, I have <sic corr="endeavoured">Endeavour'd</sic> to get into these secrets <lb/>but he hath always Avoided giving me sattisfaction, He <lb/>now lives In James river &amp; hath not been at my house these <lb/>six months past.</p>
+<p>In <abbr expan="yours ">Yors. </abbr> of the 2d of <abbr expan="August ">Augst.</abbr> You tell me the Method I had <lb/><sic corr="proposed ">Proposd</sic> to repay You the fiveteen hundred Pound which You <lb/>Advancd for <note target="n1">my Son's place,</note> You were contented with.  In the <lb/>last fleet, I <sic corr="ordered ">order'd</sic> You half the money &amp; in the Next that is by the <lb/>Summer Ships, I shall order You the Remainder, &amp; will like=<lb/>wise bear the <sic corr="burden ">burthen</sic> of the Charge of his <sic corr="patent ,">pattent,</sic> so that I reckon <lb/>no Interest will be due to You, although he tells me, he became <lb/><sic corr="obliged ">Obligd</sic> to You in two Bonds for the payment of this money, which <lb/>in Justice You will think proper to return to him <sic corr="canclled, ">cancelld,</sic> <lb/>The Four hundred pound which I <sic corr="ordered ">order'd</sic> for his Equipage <lb/>in the half whereof You have <sic corr="charged ">chargd</sic> me with &amp; the other half <lb/><note n="WD">Mr. Dawkins</note> paid to You, I <sic corr="believed ">believ'd</sic> was sufficient for those <lb/>Expences, &amp; therefore reckon there remains behind no Incum=<lb/>=brances upon him, I have <sic corr="endeavored ">Endeavour'd</sic> to get into these secrets <lb/>but he <sic corr="has ">hath </sic> always Avoided giving me <sic corr="satisfaction, ">sattisfaction,</sic> He <lb/>now lives In James river &amp; <sic corr="has ">hath </sic> not been at my house these <lb/>six months past.</p>
 
 <p>I need not tell You, You want not money of mine in Yor. <lb/>hands from which I reap no benefit to make You amends for the <lb/>Money You Advancd for my Sons place, So that my Expectation <lb/>as well as my precaution &amp; former resolution, of paying no Inter<lb/>=est for this money was Grounded upon a very reasonable founda<lb/>=tion,<lb/><lb/>
  
@@ -143,7 +143,7 @@ the other Book </p>
 
 <note id="n1">[1] Carter had arranged with Perry for the merchant to purchase for  &pound;1,500 the post of Secretary of the colony for Carter's son John.</note>
 
-
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2002, was revised February 14  2011,  to strengthen the modern language version text.</hi></note>
 
 
 </div1>

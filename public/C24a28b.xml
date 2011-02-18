@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
          </availability>
-     <date>2002</date>
+     <date>2002,2011</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -114,16 +114,16 @@ Mr. Jno. Pemberton<lb/>
 
 </opener>
 
-<p>I flatter'd my self once this Year to have got off to <lb/>you seventy hhds. of my <sic corr="stemmed">Stemd</sic> Tobo. but now I must be contented <lb/>with less than half the Number, Joe Eaton gave me his repeated <lb/><sic corr="promises">Promisses</sic> to take me in between twenty &amp; thirty hhds. the Tobo. was <lb/>got ready betimes but he went away without touching one of <lb/>them, Fowler in the <name type="ship">Content</name> hath servd me very Scurvily, at his <lb/>first coming in, I took forty hhds. <sic corr="positively">possitively</sic> upon him afterwards <lb/>he <sic corr="urged">Urg'd</sic> me for ten more which I also <sic corr="promised">promisd</sic> him &amp; yet after <lb/>All he hath taken in but three &amp; thirty hhds, Eleven tht. he had <lb/>Noats for up the River, he hath left after they were <sic corr="rolled">rolld</sic> for him <lb/>&amp; the rest that were ready at my house, he hath no room for, these <lb/>thirty three hhds. You have herein a bill of Lading for, the last <lb/>which You will have from me while that Inhumane <add resp="editor">[Act]</add> 
+<p>I <abbr expan="flattered ">flatter'd </abbr> my self once this Year to have got off to <lb/>you seventy hhds. of my <sic corr="stemmed ">Stemd</sic> Tobo. but now I must be contented <lb/>with less than half the Number, Joe Eaton gave me his repeated <lb/><sic corr="promises ">Promisses</sic> to take me in between twenty &amp; thirty hhds. the Tobo. was <lb/>got ready <note target="n1">betimes</note> but he went away without touching one of <lb/>them, Fowler in the <name type="ship">Content</name><sic corr="has ">hath </sic> <sic corr="served ">servd</sic> me very <note target="n2">Scurvily,</note> at his <lb/>first coming in, I took forty hhds. <sic corr="positively ">possitively</sic> upon him afterwards <lb/>he <sic corr="urged ">Urg'd</sic> me for ten more which I also <sic corr="promised ">promisd</sic> him &amp; yet after <lb/>All he <sic corr="has ">hath </sic> taken in but three &amp; thirty hhds, Eleven tht. he had <lb/><sic corr="notes ">Noats</sic> for up the River, he <sic corr="has ">hath </sic> left after they were <sic corr="rolled ">rolld</sic> for him <lb/>&amp; the rest that were ready at my house, he <sic corr="has ">hath </sic> no room for, these <lb/>thirty three hhds. You have herein a bill of Lading for, the last <lb/>which You will have from me while that Inhumane <gap reason="damage"/><note target="n3"><add resp="editor">[Act]</add></note> 
 
 <pb n="2"/><lb/><lb/>
-of Parliament Stands in force, We feed ourselves with large <lb/>hopes from the <sic corr="stemmed">Stemd</sic> Tobacco going home in this Fleet, what the Events <lb/>will be We must leave to time.</p>
+of Parliament Stands in force, We feed ourselves with large <lb/>hopes from the <sic corr="stemmed ">Stemd</sic> Tobacco going home in this Fleet, what the Events <lb/>will be We must leave to time.</p>
 
-<p>I drew upon You last <abbr expan="October">Octor.</abbr> for &pound;18 " to George Walker <lb/>which You are requested to answer, I think You have advice of all <lb/>my other drafts, We have had no News from Your parts a great <lb/>While, Fowler <sic corr="talks">taulk's</sic> of Ballandine's being Expected daily in <lb/>a large Ship, I hope You will meet with some opportunity <lb/>to let me have the Goods I writ to you for. I am,</p>
+<p>I drew upon You last <abbr expan="October ">Octor.</abbr> for &pound;18 " to George Walker <lb/>which You are requested to answer, I think You have advice of all <lb/>my other drafts, We have had no News from Your parts a great <lb/>While, Fowler <sic corr="talks ">taulk's</sic> of Ballandine's being Expected daily in <lb/>a large Ship, I hope You will meet with some opportunity <lb/>to let me have the Goods I <sic corr="wrote ">writ</sic> to you for. I am,</p>
 
 <closer>Sir Yor. very humble Servt. 
 <seg type="postscript"><lb/><lb/>per Fowler<lb/> 
-Copy per <del>Woodward&mdash;</del><add place="infralinear">Keiling</add></seg></closer>
+Copy per <del>Woodward&mdash;</del><add place="infralinear"><note target="n4">Keiling</note></add></seg></closer>
 
 
 </div1>
@@ -141,6 +141,15 @@ Copy per <del>Woodward&mdash;</del><add place="infralinear">Keiling</add></seg><
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
 
+<note id="n1">[1] Betimes can mean in Carter's context, "in a short time, soon, speedily, anon, forthwith." (<cit><bibl><title>Oxford English Dictionary Online</title></bibl></cit>)</note><lb/>
+
+<note id="n2">[2] Scurvily means "shabbily, meanly; sorrily, unsatisfactorily." (<cit><bibl><title>Oxford English Dictionary Online</title></bibl></cit>)</note><lb/>
+
+<note id="n3">[4] Parliament had passed an act forbidding the importation of stemmed tobacco in 1722. John Randolph would be sent to England in 1729 as agent for Virginia to try to have the act overturned; his mission would be successful. (<cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> [Newport News, VA: Mariners' Museum, 1953], 116.</bibl></cit>)</note>
+
+<note id="n4">[4] Captain William Keiling commanded the <hi rend="italics">Betty. </hi> (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194, Virginia Colonial Records Project, Albert and Shirley  Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2002, was revised January 11, 2011, to add footnotes, and to strengthen the modern language version text.</hi></note>
 
 
 
