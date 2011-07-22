@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
          </availability>
-     <date>2002</date>
+     <date>2002, 2011</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,16 +106,17 @@
 <opener>
 <dateline>
 <pb n="1"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;per the Bayley
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1724-03-25">Mar. 25. 1724&mdash;</date><lb/>
 Mr. Jno. Pemberton<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;per the Bayley&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name>
+<date value="1724-03-25">Mar. 25. 1724&mdash;</date><lb/>
+
 </dateline>
 
 
 </opener>
 
-<p>This is only a Short line by a <abbr expan="London">Londo.</abbr> Ship just ready <lb/>to Sail to Advise You of the Arrival of the <name type="ship">Vine</name> <abbr expan="Captain">Capt.</abbr> Watkinson my goods <lb/>are landed this Morning have not yet Seen the inside of them, Yor. Accots. <lb/>&amp;c are to my Entire <sic corr="satisfaction,">Sattisfaction,</sic> its <sic corr="admirable stripped">admireable Stripd</sic> leaf Should <lb/>not advance with You Surely a little patience will bring the <sic corr="smokers">Smoakers</sic> to <lb/>a better mind, I heartily wish You may be Successful in getting <add resp="editor">[the Act]</add> <lb/><sic corr="prohibiting stemmed">prohibitting Stemd</sic> Tobo. repeald, it is a cruel one to me having al<add resp="editor">[ways]</add> <lb/><sic corr="stemmed">Stemd</sic> my Crops these thirty Years &amp; more, I intend to try Your Mar:<add resp="editor">[ket]</add> with a <lb/>little more leaf Tobo. of our Common Sort if I can g<add resp="editor">[et]</add> <sic corr="freight,">freit,</sic> The follow<lb/>ing Clause is writ in a former Letter Which I duplicate here for <lb/>fear of Miscarriage, The rest is heartily to Wish Yor. Welfare &amp; to <lb/>Subscribe&mdash;&mdash;</p>
+<p>This is only a Short line by a <abbr expan="London ">Londo.</abbr> Ship just ready <lb/>to Sail to Advise You of the Arrival of the <name type="ship">Vine</name> <abbr expan="Captain ">Capt.</abbr> Watkinson my goods <lb/>are landed this Morning have not yet Seen the inside of them, Yor. Accots. <lb/>&amp;c are to my Entire <sic corr="satisfaction, ">Sattisfaction,</sic> its <sic corr="admirable stripped">admireable Stripd</sic> leaf Should <lb/>not advance with You Surely a little patience will bring the <sic corr="smokers ">Smoakers</sic> to <lb/>a better mind, I heartily wish You may be Successful in getting <note target="n1"><add resp="editor">[the Act] </add></note> <lb/><sic corr="prohibiting stemmed ">prohibitting Stemd</sic> Tobo. <sic corr="repealed, ">repeald,</sic> it is a cruel one to me having al<add resp="editor">[ways]</add> <lb/><sic corr="stemmed ">Stemd</sic> my Crops these thirty Years &amp; more, I intend to try Your Mar:<add resp="editor">[ket] </add> with a <lb/>little more leaf Tobo. of our Common Sort if I can g<add resp="editor">[et] </add> <sic corr="freight, ">freit,</sic> The follow<lb/>ing Clause is <sic corr="written ">writ</sic> in a former Letter Which I duplicate here for <lb/>fear of Miscarriage, The rest is heartily to Wish Yor. Welfare &amp; to <lb/>Subscribe&mdash;&mdash;</p>
 
 <closer>Sir <lb/>Yor. very humble Servt. </closer>
 
@@ -135,8 +136,9 @@ Mr. Jno. Pemberton<lb/>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
 
+<note id="n1">[1] Parliament had passed an act forbidding the importation of stemmed tobacco in 1722. John Randolph would be sent to England in 1729 as agent for Virginia to try to have the act overturned; his mission would be successful. (<cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> [Newport News, VA: Mariners' Museum, 1953], 116.</bibl></cit>)</note>
 
-
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2002, was revised March 7,  2011, to add a footnote, and to strengthen the modern language version text.</hi></note>
 
 </div1>
 </back>

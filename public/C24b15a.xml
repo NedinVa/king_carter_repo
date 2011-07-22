@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
          </availability>
-     <date>2002</date>
+     <date>2002, 2011</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -94,7 +94,7 @@
 <title>Letter from Robert Carter to John Pemberton, February 15, 1724</title>
 </bibl>
 </head>
-<p>Robert Carter writes to Liverpool merchant John Pemberton, February 15, 1724, to complain about the last shipment of slave shoes from him which the shoemaker--"a rank cheat "-- had marked as larger than they were. He orders replacement shoes to be "the best Strong plain Carmens Shoos that You can buy for Money."</p>
+<p>Robert Carter writes to Liverpool merchant John Pemberton, February 15, 1724, to complain about the last shipment of slave shoes from him because the shoemaker--"a rank cheat "-- had marked sizes as larger than they were. He orders replacement shoes to be "the best Strong plain Carmens Shoos that You can buy for Money."</p>
 </div1>                 
 </front>
 
@@ -114,13 +114,13 @@ Mr. Jno. Pemberton<lb/>
 
 </opener>
 
-<p>Since the Sailing of Fowler, I have <sic corr="overhauled">overhauld</sic> the <lb/><sic corr="shoes">Shoos</sic> You sent me last Year, they prove Very ordinary the <sic corr="shoemaker">Shoomaker</sic> <lb/>hath bin a rank cheat &amp; hath <sic corr="marked">markd</sic> many of the <sic corr="shoes">Shoos</sic> at high sizes <lb/>When the biggest of them do not Exceed the 12s. I shall be at a mighty loss <lb/>to <sic corr="fit">fitt</sic> my largest people, The <sic corr="shoes">Shoos</sic> You sent me the Year before <lb/>were very good &amp; <sic corr="answered">answerd</sic> their Sizes very well, I am doubtfull <lb/>Your next which I Expect are coming will be of the same Stamp wth. <lb/>these last, therefore for fear of the worst I desire You will take the <lb/><add resp="editor">[firs]</add>t Opportunity You have, to send me in Six <abbr expan="dozen">doz.</abbr> of the best Strong 
+<p>Since the Sailing of Fowler, I have <sic corr="overhauled ">overhauld</sic> the <lb/><sic corr="shoes ">Shoos</sic> You sent me last Year, they prove Very ordinary the <sic corr="shoemaker ">Shoomaker</sic> <lb/><sic corr="has ">hath </sic> bin a rank cheat &amp; <sic corr="has ">hath </sic> <sic corr="marked ">markd</sic> many of the <sic corr="shoes ">Shoos</sic> at high sizes <lb/>When the biggest of them do not Exceed the 12s. I shall be at a mighty loss <lb/>to <sic corr="fit ">fitt</sic> my largest people, The <sic corr="shoes ">Shoos</sic> You sent me the Year before <lb/>were very good &amp; <sic corr="answered ">answerd</sic> their Sizes very well, I am <sic corr="doubtful ">doubtfull</sic> <lb/>Your next which I Expect are coming will be of the same Stamp wth. <lb/>these last, therefore for fear of the worst I desire You will take the <lb/><gap reason="damage"/><add resp="editor">[firs]</add>t Opportunity You have, to send me in Six <abbr expan="dozen ">doz.</abbr> of the best Strong 
 
 <pb n="2"/><lb/><lb/>
-plain Carmens <sic corr="shoes">Shoos</sic> that You can buy for Money, one half of them <lb/>to be of the large 16s. the other of the 14s.  You must not stick at price <lb/>And I would also have  two <abbr expan="dozen">doz.</abbr> of large mens French Falls and <lb/>two <abbr expan="dozen">doz.</abbr> of <sic corr="womens,">Woms.,</sic> I am in hopes I may get these <sic corr="shoes">Shoos</sic> by next Fall <lb/>or at farthest Early in the Winter, I would beg Yor. Sons particular <lb/>care in the buying these <sic corr="shoes">Shoos</sic>, that I may be well <sic corr="served">servd</sic> according to <lb/>my desire, </p>
+plain <note target="n1">Carmens</note> <sic corr="shoes ">Shoos</sic> that You can buy for Money, one half of them <lb/>to be of the large 16s. the other of the 14s.  You must not stick at price <lb/>And I would also have  two <abbr expan="dozen ">doz.</abbr> of large mens <note target="n2">French Falls</note> and <lb/>two <abbr expan="dozen ">doz.</abbr> of <sic corr="womens, ">Woms.,</sic> I am in hopes I may get these <sic corr="shoes ">Shoos</sic> by next Fall <lb/>or at farthest Early in the Winter, I would beg Yor. Sons particular <lb/>care in the buying these <sic corr="shoes ">Shoos</sic>, that I may be well <sic corr="served ">servd</sic> according to <lb/>my desire, </p>
 
 <closer>Yors. to Command
-<seg type="postscript"><lb/><lb/>per <note target="n1">Keiling</note></seg></closer>
+<seg type="postscript"><lb/><lb/>per <note target="n3">Keiling</note></seg></closer>
 
 
 </div1>
@@ -138,8 +138,15 @@ plain Carmens <sic corr="shoes">Shoos</sic> that You can buy for Money, one half
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
 
-<note id="n1">[1] Captain William Keiling commanded the <hi rend="italics">Betty.
-</hi> (<cit><bibl>Survey Report 6800, Virginia Colonial Records Project, Albert and Shirley  Small Special Collections Library, University of Virginia</bibl></cit>)</note>
+<note id="n1">[1] A carman was a "man who drives a car; a carter, carrier," and Carter seems to mean here a worker who wears good, stout shoes for his job.  (<cit><bibl><title>Oxford English Dictionary Online</title></bibl></cit>)</note>
+
+ <note id="n2">[2] According to a variety of sources on the web including the <title>Encyclopedia Britannica Online, </title>French falls were a type of high buff leather boots with a wide top that was turned over forming a cuff around the leg. P.A. Bruce wrote in his <title>Economic History of Virginia in the Seventeenth Century</title> "The Assembly had, in 1660, adopted rules . . .  Each county was instructed to erect a tan-house and to employ tanners, carriers, and shoemakers. There was appointed for each house an overseer . . . To the persons presenting hides he was required to sell plain shoes at the rate of thirty pounds [of tobacco] a pair. French falls of the largest size were to be sold to such persons at the rate of thirty-five pounds [of tobacco] a pair, whilst those of the smallest were to be sold at twenty pounds."  A knowledgeable staff member at Colonial Williamsburg has emailed the editor "The main puzzlement is, that French Falls were made for men, women, and children, and for well over 100 years.  No one can fathom any known style or type of footwear that fits that description with certainty, at that price range, that's not slippers. The leading UK footwear historian, June Swann, has never found a definitive answer as to what they were either.  Maybe one day we'll figure it out."  ("Classics of American Colonial History," ttp://www.dinsdoc.com/bruce-1-0a.htm; 5/1/2007; p. 482; and email, Dominic Saguto to the editor, 5/22/2007)  </note>
+
+
+<note id="n3">[3] Captain William Keiling commanded the <hi rend="italics">Betty.</hi> (<cit><bibl>Survey Report 6800, Virginia Colonial Records Project, Albert and Shirley  Small Special Collections Library, University of Virginia</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2002, was revised February 21,  2011, to add footnotes, and to strengthen the modern language version text.</hi></note>
+
 
 
 </div1>

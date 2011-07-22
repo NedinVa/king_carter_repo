@@ -10,7 +10,14 @@
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; 
+
+<!NOTATION php SYSTEM "php">
+<!ENTITY Ext4 SYSTEM "http://www.stratfordhall.org\/learn\/lees\/thomaslee.php" NDATA php>
+
+
+
+]>
 <TEI.2 id="C29c04a">
 
 
@@ -146,13 +153,13 @@ The 11 acres is Clearly without <abbr expan="your">yr.</abbr> Entry and if <abbr
 
 <note>The county and colony have been added for clarity to the  heading on the draft.</note>
 
-<note id="n1">[1] Thomas Lee (1690-1750) of Westmoreland County was the son of Richard Lee II, and nephew of Edmund Jenings; he would build "Stratford," and succeed Carter on the Council. For a good article on Thomas Lee, see  that <A HREF="http://www.stratfordhall.org/thomas.html?RESEARCH">by Jeanne A. Calhoun </A>on Stratford plantation's website. (<cit><bibl>Burton J. Hendrick. <title>The Lees of Virginia: Biography of a Family.</title> [Boston: Little Brown, 1935]. pp. 48, 51, etc.</bibl></cit>)</note>
+<note id="n1">[1] Thomas Lee (1690-1750) of Westmoreland County was the son of Richard Lee II, and nephew of Edmund Jenings; he would build "Stratford," and succeed Carter on the Council. For a good article on Thomas Lee, see  that by Jeanne A. Calhoun on <xref to="Ext4">Stratford plantation's website</xref> at http://http://www.stratfordhall.org/learn/lees/thomas.php. (<cit><bibl>Burton J. Hendrick. <title>The Lees of Virginia: Biography of a Family.</title> [Boston: Little Brown, 1935]. pp. 48, 51, etc.</bibl></cit>)</note>
 
-<note id="n2">[2] Carter refers to a letter he had written to Lee <xref doc="C29b24a">1729 February 24</xref>.</note>
+<note id="n2">[2] Carter had written a letter to Lee <xref doc="C29b24a"> February 24, 1729.</xref>.</note>
 
-<note id="n3">[3] Carter refers to the fire that burned Lee's house at Machodoc on 1729 January 29. The <hi rend="italics">Maryland Gazette</hi>reported that "Col. Thomas Lee's fine House in Virginia was burnt, his Office, barns, and Out-houses: His Plate, Cash (to the Sum of 1000 &pound;) Papers, and every Thing intirely lost ...."  (See the <cit><bibl><hi rend="italics">Maryland Gazette</hi> for 1729 March 25-April 4</bibl></cit> for the report of Lee's loss.)</note>
+<note id="n3">[3] Carter refers to the fire that burned Lee's house at Machodoc on January 29, 1729. The <hi rend="italics">Maryland Gazette</hi>reported that "Col. Thomas Lee's fine House in Virginia was burnt, his Office, barns, and Out-houses: His Plate, Cash (to the Sum of 1000 &pound;) Papers, and every Thing intirely lost. . . ."  (See the <cit><bibl><hi rend="italics">Maryland Gazette</hi> for March 25-April 4, 1729.</bibl></cit> for the report of Lee's loss.)</note>
 
-<note id="n4">[4] James Thomas was surveyor of Lancaster County, and after 1727, of Westmoreland County. In 1736, he would be one of the surveyors involved in the work of the commission to determine the bounds of the Northern Neck proprietary. (<cit><bibl n="B8">Brown. <title>Virginia Baron. . . .</title> pp. 83, 92. See Carter to Peter Beverley, 1727 December 14.</bibl></cit>)</note>
+<note id="n4">[4] James Thomas was surveyor of Lancaster County, and after 1727, of Westmoreland County. In 1736, he would be one of the surveyors involved in the work of the commission to determine the bounds of the Northern Neck proprietary. (<cit><bibl n="B8">Brown. <title>Virginia Baron. . . .</title> pp. 83, 92. See Carter to Peter Beverley, <xref to="/users/berkeley/public/C27l14a.xml">December 14, 1727</xref>.</bibl></cit>)</note>
 
 <note id="n5">[5] Francis (Frank) Awbrey (1690?- 1741) was an active land speculator in the area that became Loudoun County, and was one of the first justices when Prince William County was organized in 1731. He was sheriff of that county in 1739. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:239, 439;</bibl></cit> and <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title>pp. 148, 150, 153-54 ff. </bibl></cit>)</note>
 
