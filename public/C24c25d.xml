@@ -10,7 +10,14 @@
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+
+<!NOTATION html SYSTEM "HTML">
+<!ENTITY Ext6 SYSTEM "http://www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm" NDATA html>
+
+
+
+ ]>
 <TEI.2 id="C24c25d">
 
 
@@ -39,7 +46,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
          </availability>
-     <date>2002</date>
+     <date>2002, 2011</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,21 +113,21 @@
 <opener>
 <dateline>
 <pb n="1"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;per the Bailey
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;per the <note target="n1">Bailey</note><lb/>
 <name type="place"><add resp="editor">[Rappahannock, Lancaster County, Virginia]</add></name><lb/>
 <date value="1724-03-25">Mar. 25. 1724&mdash;</date><lb/>
 Mr. Edward Tucker<lb/>
 </dateline>
-<salute></salute>
+
 
 </opener>
 
-<p>This is a Short line Via <abbr expan="London">Londo.</abbr> to advise You <lb/>that I have heard of Yor.small Vessel being in York delivering Goods <lb/>to Your friends there &amp; is reported to be coming our way after, <lb/>but see nothing of her Yet am in hopes I may have something in <lb/>her, if I send You any Tobo. this Year it must be leaf for my <sic corr="stemmed">Stemd</sic> <lb/>is all gon,  Mr. Lawrence I must own made me an Offer of <sic corr="freight">freit</sic> <lb/>but I had so far Engaged myself by <sic corr="promises">promisses</sic> to the Londoners that I <lb/>was afraid to let him have any, I have <sic corr="wished">wishd</sic> since I had, I <lb/>herein send You some Bills of <abbr expan="exchange">Exche.</abbr> drawn upon Yor. Self 
+<p>This is a Short line Via <abbr expan="London ">Londo.</abbr> to advise You <lb/>that I have heard of Yor.small Vessel being in York delivering Goods <lb/>to Your friends there &amp; is reported to be coming our way after, <lb/>but see nothing of her Yet am in hopes I may have something in <lb/>her, if I send You any Tobo. this Year it must be leaf for my <sic corr="stemmed">Stemd</sic> <lb/>is all <sic corr="gone, ">gon,</sic>  Mr. Lawrence I must own made me an Offer of <sic corr="freight ">freit</sic> <lb/>but I had so far Engaged myself by <sic corr="promises ">promisses</sic> to the Londoners that I <lb/>was afraid to let him have any, I have <sic corr="wished ">wishd</sic> since I had, I <lb/>herein send You some <note target="n2">Bills of <abbr expan="exchange ">Exche.</abbr> </note>drawn upon Yor. Self 
 
 <pb n="2"/><lb/><lb/>
-=to Witt <abbr expan="John">Jno.</abbr> Hudnals for &pound;19"11s &amp; John Sharpleigh for &pound;10"9"4 <lb/>to be <sic corr="placed">placd</sic> to my Accot. or Else to return protested, the rest is to <lb/>Wish Yor. health &amp; to Subscribe   </p>
+=to Witt <abbr expan="John ">Jno.</abbr> Hudnals for &pound;19"11s &amp; <note target="n3">John <sic corr="Shapley ">Sharpleigh</sic></note> for &pound;10"9"4 <lb/>to be <sic corr="placed ">placd</sic> to my Accot. or Else to return protested, the rest is to <lb/>Wish Yor. health &amp; to Subscribe   </p>
 
-<closer>Sir Yor. humble <abbr expan="servant">serv.</abbr></closer>
+<closer>Sir Yor. humble <abbr expan="servant ">serv.</abbr></closer>
 
 
 </div1>
@@ -138,8 +145,13 @@ Mr. Edward Tucker<lb/>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The address has  been added for clarity to this unheaded draft.</note>
 
+<note id="n1">[1] The <hi rend="italics">Bailey</hi> was a London ship owned by William Dawkins and commanded at various times by Adam Graves (1725-1730) and by Thomas Dove (1731-1732). She was a vessel of some 250 tons and carried 15-17 crew members. (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, 156v, and other data in Adm. 68/194 and /196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> A letter of Carter's to Dawkins <xref to="/users/berkeley/public/C32e12b.xml">May 12, 1732,</xref> refers to "your ship Bailey." as does a letter of May 10, 1738, from Carter's executors to Dawkins.)</note>
 
+<note id="n2"> [2] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (<cit><bibl><xref to="Ext6">"Dictionary of  Financial Scam Terms" at </xref> http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm. 8/22/2005</bibl></cit>)</note>
 
+<note id="n3">[3] John Shapley would be appointed a justice in Northumberland County in 1725. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>,  4[1721- 1739]: 82.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2002, was revised July 25,  2011, to add footnotes, and to strengthen the modern language version text.</hi></note>
 
 </div1>
 </back>
