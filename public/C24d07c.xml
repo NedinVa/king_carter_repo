@@ -29,7 +29,7 @@
    </respStmt>
 </titleStmt>
 
-<extent>ca. 5 kilobytes </extent>
+<extent>ca. 6 kilobytes </extent>
 
 <publicationStmt>
      <publisher>University of Virginia Library.</publisher>
@@ -50,7 +50,7 @@
 </titleStmt>
     <extent>1 p.</extent>
 <publicationStmt>
-     <date></date>
+     <date>2002, 2011</date>
    <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
 </publicationStmt>
 </biblFull>
@@ -102,7 +102,7 @@
 
 <body>
 <div1 type="letter" n="1">
-<head>Letter from Robert Carter to [<note n="JC3">John Clayton</note>], April 7, 1724</head>
+<head>Letter from Robert Carter to <note n="JC3">[John Clayton], </note> April 7, 1724</head>
 <opener>
 <dateline>
 <pb n="1"/>
@@ -114,7 +114,7 @@
 
 </opener>
 
-<p>When I was at the Oyer and Terminer I was discourse<lb/>ing you about your prosecuting an out Lawry against <note target="n1"><abbr expan="Thomas">Thos:</abbr> <lb/>Glasscock</note> for the <sic corr="murder">Murther</sic> he had committed in order to his <lb/>Conviction and Attainting which According to the best In<lb/>formation I can get from my Books is absolutely Necessary <lb/>to be done before his Lands can be granted as <note n="ES">Escheat</note> In ans<lb/>wer you told me the Oyer and Terminer was not a proper court <lb/>to begin the prosecution in it must be done in the <abbr expan="General">Genll:</abbr> Court <lb/>which drawing now very near I think it proper to put you in mind <lb/>of it that you may be prepared, <note n="JH">Mr. Holloway</note> and Mr Randall <lb/>you know are my Lawyers for the proprietors <sic corr="affairs">Affaires</sic> they <lb/>will be Assisting to you. for your trouble in this Matter I shall <lb/>think it but Justice to give you a fee who am Sr&mdash;</p>
+<p>When I was at the <note target="n1">Oyer and Terminer</note> I was <sic corr="discours">discourse</sic><lb/>ing you about your prosecuting an out Lawry against <note target="n2"><abbr expan="Thomas ">Thos:</abbr> <lb/>Glasscock</note> for the <sic corr="murder ">Murther</sic> he had committed in order to his <lb/>Conviction and Attainting which According to the best In<lb/>formation I can get from my Books is absolutely Necessary <lb/>to be done before his Lands can be granted as <note n="ES">Escheat</note> In ans<lb/>wer you told me the Oyer and Terminer was not a proper court <lb/>to begin the prosecution in it must be done in the <abbr expan="General ">Genll:</abbr> Court <lb/>which drawing now very near I think it proper to put you in mind <lb/>of it that you may be prepared, <note n="JH">Mr. Holloway</note> and Mr Randall <lb/>you know are my Lawyers for the <xref to="http://etext.lib.virginia.edu/users/berkeley/#Northern Neck"> proprietors <sic corr="affairs ">Affaires</sic></xref> they <lb/>will be Assisting to you. for your trouble in this Matter I shall <lb/>think it but Justice to give you a fee who am Sr&mdash;</p>
 
 <closer>Your most humble Servt.</closer>
 
@@ -134,8 +134,12 @@
 
 <note>The name of Carter's home, "Corotoman," the county, and colony have been added for clarity to this unheaded draft.</note>
 
-<note id="n1">[1] "William Forrester had been murdered on November 5, 1723, by Thomas Glascock whose son Gregory was named as an accessory." Carter had noted Glascock's capture in his diary on November 13th: "Collo Barber acquaints me me he had Seizd Glascocks who had fled for Murther his Estate Coll Tarpley in the behalf of Glascocks Heir offers to Enter the Land as Escheat " The lands reverted to the proprietors, and Carter apparently managed them for some years for the benefit of Glascock's heirs; he later acquired title to the properties which are mentioned in his will. (<cit><bibl n="B31">Ryland. <title>Richmond County Virginia. . . . </title> p. 101.</bibl></cit></note>
+<note id="n1">[1] "Oyer is French for to hear- i.e. hear in court or try; and terminer is French for to conclude. The words mean that the commissioners appointed are to hear and bring to an end all the cases in the county."  "In  I710  Queen Anne extended  the right  of habeas  corpus  to Virginia  and decreed  that  two courts  of oyer  and terminer  be held annually  to facilitate 'gaol  delivery.'  Such  courts  were  to sit the first  Tuesdays  of December  and June 7 ." "Free persons and indentured servants indicted for felony were tried in the General Court at Williamsburg if the justices found sufficient evidence to warrant a trial. Only slaves were tried in county courts for capital offenses. "
+ (<xref to="www.infoplease.com/dictionary/brewers/oyer-terminer.html"><title>Dictionary of Phrase and Fable</title></xref>. online at infoplease, 8/26/2011; Hugh  F. Rankin. "The General  Court Of Colonial  Virginia: Its  Jurisdiction  and  Personnel ." <title>Virginia Magazine of History and Biography.</title> 70[2(Apr., 1962)]: 144; and Rhys Isaac. <title>The Transformation of Virginia 1740-1790.</title> Williamsburg, VA:, Institute of Early American History and Culture, and Chapel Hill, NC, University of North Carolina Press, 1982; new edition [paperback], 1999., p. 92.)</note><lb/>
 
+<note id="n2">[2] "William Forrester had been murdered on November 5, 1723, by Thomas Glascock whose son Gregory was named as an accessory." Carter had noted Glascock's capture in his diary on November 13th: "Collo Barber acquaints me me he had Seizd Glascocks who had fled for Murther his Estate Coll Tarpley in the behalf of Glascocks Heir offers to Enter the Land as Escheat " The lands reverted to the proprietors, and Carter apparently managed them for some years for the benefit of Glascock's heirs; he later acquired title to the properties which are mentioned in his will. (<cit><bibl n="B31">Ryland. <title>Richmond County Virginia. . . . </title> p. 101.</bibl></cit></note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2002, was revised August 26,  2011, to add footnotes, and to strengthen the modern language version text.</hi></note>
 
 
 

@@ -29,7 +29,7 @@
    </respStmt>
 </titleStmt>
 
-<extent>ca. 5 kilobytes </extent>
+<extent>ca. 7 kilobytes </extent>
 
 <publicationStmt>
      <publisher>University of Virginia Library.</publisher>
@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
          </availability>
-     <date>2002</date>
+     <date>2002 2011</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -114,9 +114,9 @@
 
 </opener>
 
-<p>According to your advice to my <note n="JC1">Son</note> <lb/>I have <sic corr="written">writ</sic> to <note n="JC3">Mr. Attorney</note> to prosecute a out&mdash; <lb/>Lawry against the <sic corr="murderer">Murtherer</sic> <note target="n1"><abbr expan="Thomas">Tho</abbr> Glasscock</note> and&mdash; <lb/>have told him as you are my Lawyer for the propri<lb/>etors business would be ready to give him you Assis<lb/>tance.</p>
+<p>According to your advice to my <note n="JC1">Son</note> <lb/>I have <sic corr="written ">writ</sic> to <note n="JC3">Mr. Attorney</note> to prosecute a out&mdash; <lb/>Lawry against the <sic corr="murderer ">Murtherer</sic> <note target="n1"><abbr expan="Thomas ">Tho</abbr> Glasscock</note> and&mdash; <lb/>have told him as you are my Lawyer for the <xref to="http://etext.lib.virginia.edu/users/berkeley/#Northern Neck"> propri<lb/>etors business</xref> would be ready to give him you Assis<lb/>tance.</p>
   
-<p><note n="ECB">Mrs: Burwells</note> Imprudent Match with&mdash; <lb/><sic corr="Doctor">Dotor</sic> Nicolass It is likely may Engage me in some Law <lb/>Suits upon my own Accot: as I am Guardian to <note n="NB">Mr&mdash;<lb/>Burwells</note> Children And as I am his Acting Executor <lb/>As you are already my Lawyer I canot doubt of your&mdash; <lb/>Assistance in these Affairs <note n="MP1"><abbr expan="Colonel">Collo:</abbr> Page</note> I Expect hath al<lb/>ready <sic corr="written">writ</sic> to Engage you however having this Opor<lb/>tunity by <note n="GE"><abbr expan="Captain">Capt.</abbr> Eskridge</note> I thought it not amiss to let you <lb/>know the intire dependance I have upon you who <lb/>am <hi rend="underline">Sr</hi></p>
+<p><note n="ECB">Mrs: Burwells</note> Imprudent Match with&mdash; <lb/><sic corr="Doctor ">Dotor</sic> <sic corr="Nicolas ">Nicolass</sic> It is likely may Engage me in some Law <lb/>Suits upon my own Accot: as I am Guardian to <note n="NB">Mr&mdash;<lb/>Burwells</note> Children And as I am his Acting Executor <lb/>As you are already my Lawyer I canot doubt of your&mdash; <lb/>Assistance in these Affairs <note n="MP1"><abbr expan="Colonel ">Collo:</abbr> Page</note> I Expect <sic corr="has ">hath </sic> al<lb/>ready <sic corr="written ">writ</sic> to Engage you however having this Opor<lb/>tunity by <note n="GE"><abbr expan="Captain ">Capt.</abbr> Eskridge</note> I thought it not amiss to let you <lb/>know the intire dependance I have upon you who <lb/>am <hi rend="underline"><abbr expan="Sir">Sr </abbr></hi></p>
 
 <closer>Your most humble Servt:</closer>
 
@@ -136,10 +136,11 @@
 
 <note>The name of Carter's home, "Corotoman," the county, and colony have been added for clarity to this unheaded draft.</note>
 
-<note>In a letter to Attorney General John Clayton,  1724 April 7, that follows two on the same subjects in the letter book, Carter identifies his attornies as "Mr. Holloway and Mr. Randall." As one letter  indicates an acquaintanceship of long standing,  it has been selected as one directed to John Holloway, and this one to Randall who has not been identified.</note>
+<note>In a letter to Attorney General John Clayton, <xref to="/users/berkeley/public/http://etext.lib.virginia.edu/etcbin/browse-carter?id=C24d07c.xml&images=images/modeng&data=/web/data/users/berkeley&tag=public">April 7, 1724,</xref> that follows two on the same subjects in the letter book, Carter identifies his attornies as "Mr. Holloway and Mr. Randall." As one letter  indicates an acquaintanceship of long standing,  it has been selected as one directed to John Holloway, and this one to Randall who has not been identified.</note>
 
 <note id="n1">[1] "William Forrester had been murdered on November 5, 1723, by Thomas Glascock whose son Gregory was named as an accessory." Carter had noted Glascock's capture in his diary on November 13th: "Collo Barber acquaints me me he had Seizd Glascocks who had fled for Murther his Estate Coll Tarpley in the behalf of Glascocks Heir offers to Enter the Land as Escheat " The lands reverted to the proprietors, and Carter apparently managed them for some years for the benefit of Glascock's heirs; he later acquired title to the properties which are mentioned in his will. (<cit><bibl n="B31">Ryland. <title>Richmond County Virginia. . . . </title> p. 101.</bibl></cit></note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2002, was revised August 25,  2011, to strengthen the modern language version text.</hi></note>
 
 
 
