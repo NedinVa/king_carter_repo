@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
          </availability>
-     <date>2002</date>
+     <date>2002, 2011</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,16 +106,18 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;
 <date value="1724-10-06">Octob<hi rend="underline">er. 6th. 1724</hi></date><lb/>
 </dateline>
 <salute>Sir:</salute>
 
 </opener>
 
-<p>I have already writ to you in <lb/>full and have given <note n="MP2">Mr Perry</note> instructions to conclude <lb/>with <note n="TF">his Lordship</note> &amp; you upon a lease for <note target="n1">your Estate</note> <lb/>for seven years longer. I know the world is very censori=<lb/>ous &amp; tis impossible for men under any <sic corr="toldetable">tollerable</sic> <lb/>figure to live without <sic corr="enemies">enimies</sic> &amp; there may be some perhaps <lb/>so busy to give you unagreable <sic corr="stories">storys</sic> of my management <lb/>of your Estate, all the justice I Shall desire of you is tht <lb/>you will not receive any impressions to my prejudice <lb/><sic corr="until">untill</sic> you allow me the opportunity to be heard for <lb/>my Self &amp; I am not in the least doubt to <sic corr="demonstrate">demonstrat</sic> <lb/>tht every Step I have taken will redound to your interest <lb/>and those to whom the Estate will belong. pray My <lb/>humble respects to his Lordship I AM</p>
+<p>I have already <sic corr="written ">writ</sic> to you in <lb/>full and have given <note n="MP2">Mr Perry</note> instructions to conclude <lb/>with <note n="TF">his Lordship</note> &amp; you upon a lease for <xref to="http://etext.lib.virginia.edu/users/berkeley/#Northern Neck"> your Estate</xref> <lb/>for seven years longer. I know the world is very censori=<lb/>ous &amp; <abbr expan="it is ">tis </abbr> impossible for men under any <sic corr="tolerable ">tollerable</sic> <lb/>figure to live without <sic corr="enemies ">enimies</sic> &amp; there may be some perhaps <lb/>so busy to give you <sic corr="unagreeable ">unagreable</sic> <sic corr="stories ">storys</sic> of my management <lb/>of your Estate, all the justice I Shall desire of you is tht <lb/>you will not receive any impressions to my prejudice <lb/><sic corr="until ">untill</sic> you allow me the opportunity to be heard for <lb/>my Self &amp; I am not in the least doubt to <sic corr="demonstrate ">demonstrat</sic> <lb/>tht every Step I have taken will redound to your interest <lb/>and those to whom the Estate will belong. pray My <lb/>humble respects to his Lordship I AM</p>
 
-<closer> Sr. <lb/>Your most obedient Humble Servt. <lb/><signed><hi rend="bold">ROBERT CARTER</hi></signed></closer>
+<closer> Sr. <lb/>Your most obedient Humble Servt. <lb/>
+
+<signed><hi rend="bold"><hi rend="italics">ROBERT CARTER</hi></hi></signed></closer>
 
 
 </div1>
@@ -133,9 +135,9 @@
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to persons abroad. The county and colony have been added for clarity.</note><lb/>
 
-<note> Recipient's copy; the conjoined address leaf bears the following:  To | Wm: Cage Esqr  | Of Milgate In the Parish of Bearshead | In the county of | Kent | Via Glasgow. There is no endorsement. The letter was signed by Carter and sealed with his arms.</note>
+<note> This is the ecipient's copy; the conjoined address leaf bears the following:  To | Wm: Cage Esqr  | Of Milgate In the Parish of Bearshead | In the county of | Kent | Via Glasgow. There is no endorsement. The letter was signed by Carter in a very large and bold hand (indicated here by the use of bold italics) and sealed with his arms.</note>
 
-<note id="n1">[1] See the section, "Robert Carter and the Northern Neck Proprietary," available at the opening screen of this site.</note>
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2002, was revised September 16,  2011, to strengthen the modern language version text.</hi></note>
 
 
 

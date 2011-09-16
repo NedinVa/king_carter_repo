@@ -29,7 +29,7 @@
    </respStmt>
 </titleStmt>
 
-<extent>ca. 5 kilobytes </extent>
+<extent>ca. 9 kilobytes </extent>
 
 <publicationStmt>
      <publisher>University of Virginia Library.</publisher>
@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
          </availability>
-     <date>2002</date>
+     <date>2002, 2011</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -114,10 +114,10 @@ Mr. Jno Russell&mdash;&mdash;<lb/>
 
 </opener>
 
-<p><abbr expan="Captain">Capt</abbr> <note target="n2"><abbr expan="William">Wm.</abbr> Russell</note> tells me you are a liver Some <lb/>where near the <note target="n3">bull runn</note> upon Occaquan that you are <lb/>mighty well acquainted with the back woods that you <add resp="editor">[have]</add> given <lb/>him a Accot: of great quantities of very good Land to be <lb/>taken up upon the branches of bull runn and towards <lb/>the <note target="n4">Sugar Land Runn</note> and that you ae very desirous <lb/>and will be ready at any time to Serve me to be a Guid<add resp="editor">[e]</add> <lb/>and Assistant to the Surveyors in Showing them wher<add resp="editor">[e]</add> <lb/>the best of these Lands <sic corr="lie">lye</sic> and Accompanying th<add resp="editor">[em]</add> <lb/><sic corr="making">makeing</sic> their Surveys, <note target="n5">Mr. Savage</note> and <note target="n6">Mr. Barb<add resp="editor">[er]</add></note><lb/><del>they</del> are the Surveyors <sic corr="employed">Imployed</sic> by me whom I ha<add resp="editor">[ve]</add> 
+<p><abbr expan="Captain ">Capt</abbr> <note target="n2"><abbr expan="William ">Wm.</abbr> Russell</note> tells me you are a liver Some <lb/>where near the <note target="n3">bull <sic corr="run ">runn</sic></note> upon <note target="n4">Occaquan</note> that you are <lb/>mighty well acquainted with the back woods that you <add resp="editor">[have]</add> given <lb/>him a Accot: of great quantities of very good Land to be <lb/>taken up upon the branches of bull <sic corr="run ">runn</sic> and towards <lb/>the <note target="n5">Sugar Land <sic corr="Run ">Runn</sic></note> and that you ae very desirous <lb/>and will be ready at any time to Serve me to be a Guid<add resp="editor">[e]</add> <lb/>and Assistant to the Surveyors in Showing them wher<add resp="editor">[e]</add> <lb/>the best of these Lands <sic corr="lie ">lye</sic> and Accompanying th<add resp="editor">[em]</add> <lb/><sic corr="making ">makeing</sic> their Surveys, <note target="n6">Mr. Savage</note> and <note target="n7">Mr. Barb<add resp="editor">[er]</add></note><lb/><del>they</del> are the Surveyors <sic corr="employed ">Imployed</sic> by me whom I ha<add resp="editor">[ve]</add> 
 
 <pb n="2"/><lb/><lb/>
-Directed when they <sic corr="go">goe</sic> out upon those Lands to take you <lb/>for <del>your</del> <add place="supralinear"><hi rend="italics">their</hi></add> Guide I suppose you are so well <sic corr="stocked">Stock'd</sic> with <lb/>provison that you will be able to Supply them while <lb/>you are out for which I shall readily pay you as I shall <lb/>for your trouble and time <sic corr="hoping">hopeing</sic> you will behave <lb/>yourself as a Diligent honest man and Give them all <lb/>the light and best information you are capable of, For <lb/>Chain carries and markers I propose to get some of the <lb/><note target="n7">Germans,</note> but if they will not be prevailed with to <sic corr="go">goe</sic> <lb/>so far from their homes I reckon you may be able to <del>[illegible]</del><lb/><del>[illegible]</del> to <add resp="editor"> [<hi rend="italics">sic</hi>]</add>get some persons among your neighbours that <lb/>will Serve for these works, what Surveys are made for me <lb/>I would have very plainly <sic corr="marked">mark'd</sic> and bounded, <abbr expan="Captain">Capt.</abbr> <lb/>Russell informs me that the <note target="n8">Goose Creek</note> Lands are very&mdash; <lb/>good and full of timber with all other <sic corr="encouraging">Encourageing</sic> <lb/>Qualities which shall be all at present from&mdash; </p>
+Directed when they <sic corr="go ">goe</sic> out upon those Lands to take you <lb/>for <del>your</del> <add place="supralinear"><hi rend="italics">their</hi></add> Guide I suppose you are so well <sic corr="stocked ">Stock'd</sic> with <lb/>provison<add resp="editor">[s]</add> that you will be able to Supply them while <lb/>you are out for which I shall readily pay you as I shall <lb/>for your trouble and time <sic corr="hoping ">hopeing</sic> you will behave <lb/>yourself as a Diligent honest man and Give them all <lb/>the light and best information you are capable of, For <lb/>Chain carries and markers I propose to get some of the <lb/><note target="n8">Germans,</note> but if they will not be prevailed with to <sic corr="go ">goe</sic> <lb/>so far from their homes I reckon you may be able to <del>[illegible]</del><lb/><del>[illegible]</del> to <add resp="editor"> [<hi rend="italics">sic</hi>]</add>get some persons among your neighbours that <lb/>will Serve for these works, what Surveys are made for me <lb/>I would have very plainly <sic corr="marked ">mark'd</sic> and bounded, <abbr expan="Captain ">Capt.</abbr> <lb/>Russell informs me that the <note target="n9">Goose Creek</note> Lands are very&mdash; <lb/>good and full of timber with all other <sic corr="encouraging ">Encourageing</sic> <lb/>Qualities which shall be all at present from&mdash; </p>
 
 <closer>Your Friend&mdash;</closer>
 
@@ -139,21 +139,23 @@ Directed when they <sic corr="go">goe</sic> out upon those Lands to take you <lb
 
 <note id="n1">[1] No information about John Russell has presently been located.</note>
 
-<note id="n2">[2] William Russell (1680?-1741) was a well-known ranger and
-explorer who eventually settled in Prince William County (later Fauquier). Fairfax Harrison thinks he may have been one of the rangers who accompanied Spotswood's Knights of the Golden Horseshoe. (<cit><bibl n="B4">Harrison,  <title>Landmarks of Old Prince William.</title> p. 204.</bibl></cit>)</note>
+<note id="n2">[2] William Russell (1680?-1741) was a well-known ranger and explorer who eventually settled in Prince William County (later Fauquier). Fairfax Harrison thinks he may have been one of the rangers who accompanied Spotswood's Knights of the Golden Horseshoe. (<cit><bibl n="B4">Harrison,  <title>Landmarks of Old Prince William.</title> p. 204.</bibl></cit>)</note>
 
-<note id="n3">[3] Bull Run is a major tributary of the Occoquan River, forming the foundary between today's Prince William and Fairfax counties, and then between Prince  William and Loudoun counties.</note>
+<note id="n3">[3] Bull Run is a major tributary of the Occoquan River, forming the foundary between today's Prince William and Fairfax counties, and then between Prince  William and Loudoun counties. (<cit><bibl>Alexandria Drafting Company. <title>Regional Northern Virginia.</title> [Alexandria, VA: Alexandria Drafting Company, 2002.] </bibl></cit>  Coverage of Fairfax, Fauquier, Loudoun, and Prince William counties.)</note>
 
-<note id="n4">[4] Sugarland Run flows into the Potomac River in Fairfax County along the Loudoun County line.</note>
+<note id="n4">[4] The Occaquan River is a major tributary of  the Potomac River that lay in Stafford County in Carter's day. Much of the river today is known as the Bull Run, and forms the boundary between Fairfax and Prince William counties, and to the west, between Loudoun and Prince William  counties. (<cit><bibl>Alexandria Drafting Company. <hi rend="italics">op. cit.</hi></bibl></cit>)</note>
 
-<note id="n5">[5] John Savage was a surveyor, later (1734) to be employed by Lord Fairfax while attempting to establish the boundaries of the proprietary. (<bibl n="B4">Harrison. <title>Landmarks. . . .</title> p. 619.</bibl>)</note>
+<note id="n5">[5] Sugarland Run flows into the Potomac River in Fairfax County along the Loudoun County line. (<cit><bibl>Alexandria Drafting Company. <hi rend="italics">op. cit.</hi></bibl></cit>)</note>
 
-<note id="n6">[6] Thomas Barber of Richmond County was a surveyor, and would be appointed a justice of that county in 1730, tobacco inspector in1734, and sheriff in 1736. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]: 215, 342, and 369.</bibl></cit>)</note>
+<note id="n6">[6] John Savage was a surveyor, later (1734) to be employed by Lord Fairfax while attempting to establish the boundaries of the proprietary. (<bibl n="B4">Harrison. <title>Landmarks. . . .</title> p. 619.</bibl>)</note>
 
-<note id="n7">[7] Governor Alexander Spotswood had encouraged immigration of Germans into Virginia in 1714, and they settled "in what was then Stafford Co. . . .. later Prince William and now Fauquier."  The men worked in Spotswood's iron mines, but around 1718 took grants in the proprietary in what was then Stafford County. (See "Germantown" in <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title></bibl></cit> pp. 207-221. and <cit><bibl>Elizabeth Chapman Denny Vann and Margaret Collins Denny Dixon. <title>Virginia's First German Colony. </title> Richmond: Privately printed, 1961.</bibl></cit> p. 33.) </note>
+<note id="n7">[7] Thomas Barber of Richmond County was a surveyor, and would be appointed a justice of that county in 1730, tobacco inspector in1734, and sheriff in 1736. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]: 215, 342, and 369.</bibl></cit>)</note>
 
-<note id="n8">[8] Goose Creek flows into the Potomac River just east of Leesburg in Loudoun County.</note>
+<note id="n8">[8] Governor Alexander Spotswood had encouraged immigration of Germans into Virginia in 1714, and they settled "in what was then Stafford Co. . . .. later Prince William and now Fauquier."  The men worked in Spotswood's iron mines, but around 1718 took grants in the proprietary in what was then Stafford County. (See "Germantown" in <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title></bibl></cit> pp. 207-221. and <cit><bibl>Elizabeth Chapman Denny Vann and Margaret Collins Denny Dixon. <title>Virginia's First German Colony. </title> Richmond: Privately printed, 1961.</bibl></cit> p. 33.) </note>
 
+<note id="n9">[9] Goose Creek flows into the Potomac River just east of Leesburg in Loudoun County. (<cit><bibl>Alexandria Drafting Company. <hi rend="italics">op. cit.</hi></bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2002, was revised August 30, 2011, to strengthen footnotes and the modern language version text.</hi></note>
 
  
 
