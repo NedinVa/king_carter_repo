@@ -11,7 +11,7 @@
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
 <!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
-<TEI.2 id="C24">
+<TEI.2 id="C26g25a.xml">
 
 
 <teiHeader type="aacr2">
@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
          </availability>
-     <date>2003</date>
+     <date>2003 2011</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -48,7 +48,7 @@
      <title>Letter from Robert Carter to the Duke Of Newcastle, July 25, 1726</title>
      <author>Robert Carter</author>
 </titleStmt>
-    <extent> p.</extent>
+    <extent>2 p.</extent>
 <publicationStmt>
      <date></date>
    <idno type="callNo">Source copy consulted:  CO5/1337, Public Record Office, London</idno>
@@ -106,7 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Virginia</name><lb/>
+<name type="place">Virginia</name>&nbsp;&nbsp;
 <date value="1726-07-25">July the 25th 1726</date><lb/>
 
 </dateline>
@@ -116,18 +116,18 @@
 
 
 
-<p>The much lamented death of <note n="HD"><abbr expan="Colonel">Colo</abbr> Drysdale</note> his <lb/>Majestys Lieutenant Governor of this Colony, which <sic corr="happened">happen'd</sic> <lb/>on the 22d instant, gives occasion to my troubling Yor Grace with <lb/>the notification of this Event, whereby His Majesty has lost a <lb/>faithful and Zealous Servant, and this Country a good and Just <lb/>Ruler.</p>
+<p>The much lamented death of <note n="HD"><abbr expan="Colonel ">Colo</abbr> Drysdale</note> his <lb/>Majestys Lieutenant Governor of this Colony, which <sic corr="happened ">happen'd</sic> <lb/>on the 22d instant, gives occasion to my troubling Yor Grace with <lb/>the notification of this Event, whereby His Majesty has lost a <lb/>faithful and Zealous Servant, and this Country a good and Just <lb/>Ruler.</p>
 
-<p>He had some time before his death, upon the View of returning to <lb/>England for the recovery of his health, Suspended <note n="EJ">Mr. Jenings</note> the<lb/>first 
+<p>He had some time before his death, <add resp="editor">[been] </add>upon the View of returning to <lb/>England for the recovery of his health, <add resp="editor">[He] </add>Suspended <note n="EJ">Mr. Jenings</note> the<lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;first 
 
 <pb n="2"/><lb/><lb/>
-first of the Council, because of his incapacity to act as President <lb/>or to administer the Government during his absence: a full account of <lb/>which Suspension Yor Grace has had transmitted by <abbr expan="Colonel">Colo</abbr> Drysdale <lb/>himself in the Council Journal of the 24th and 25th of last month <lb/>to wch I beg leave to refer. By this means the Office of&mdash; <lb/>President and Commander in Chief of this Dominion in course devolves <lb/>on me, <sic corr="until">untill</sic> His Majesty <sic corr="shall">shal</sic> be pleased to dispose of the Government <lb/>into other hands.</p>
+first of the Council, because of his incapacity to act as President <lb/>or to administer the Government during his absence: a full account of <lb/>which Suspension Yor Grace has had transmitted by <abbr expan="Colonel ">Colo</abbr> Drysdale <lb/>himself in the Council Journal of the 24th and 25th of last month <lb/>to wch I beg leave to refer. By this means the Office of&mdash; <lb/>President and Commander in Chief of this Dominion in course devolves <lb/>on me, <sic corr="until ">untill</sic> His Majesty <sic corr="shall ">shal</sic> be pleased to dispose of the Government <lb/>into other hands.</p>
 
-<p>But as all the publick Acts of Government have been <lb/>so lately sent to Yor Grace, I <sic corr="shall">shal</sic> add no more to Your present troubles <lb/>than the assurance of my constant endevour to promote his <abbr expan="Majesty's">Maties</abbr> <lb/>Service, and the profession of that duty &amp; respect with wch I am </p>
+<p>But as all the <sic corr="public ">publick</sic> Acts of Government have been <lb/>so lately sent to Yor Grace, I <sic corr="shall ">shal</sic> add no more to Your present troubles <lb/>than the assurance of my constant endevour to promote his <abbr expan="Majesty's ">Maties</abbr> <lb/>Service, and the profession of that duty &amp; respect with wch I am </p>
 
 
 
-<closer>My Lord <lb/>Yor Grace's <lb/>Most dutiful <lb/>Most obliged <lb/>most obed humble Servant <lb/><hi rend="italics"><hi rend="bold">ROBERT CARTER</hi></hi></closer>
+<closer>My Lord <lb/>Yor Grace's <lb/>Most dutiful <lb/>Most obliged <lb/>most obed humble Servant <lb/><hi rend="italics"><hi rend="bold"><hi rend="italics">ROBERT CARTER</hi></hi></hi></closer>
 
 
 </div1>
@@ -141,11 +141,12 @@ first of the Council, because of his incapacity to act as President <lb/>or to a
 <div1 type="back matter">
 <head>NOTES</head>
 
-<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi>  CO5/1337, ff 90, Public Record Office, London. This the recipient's copy, signed by Carter.</note>
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi>  CO5/1337, ff 90, Public Record Office, London, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia. This is the recipient's copy, signed by Carter with his usual large and prominent signature.</note>
 
-<note id="n1">[1] Thomas Pelham-Holles, the 1st Duke of Newcastle, was Secretary of State in the Walpole government; Richard L. Morton notes that the duke carried on a policy of "`saluatory neglect' of the colonies which lasted until the Seven Years' War." (<cit><bibl n="B17">Morton. <title>Colonial Virginia.</title> p. 506.</bibl></cit>)
+<note id="n1">[1] Thomas Pelham-Holles, the 1st Duke of Newcastle, was Secretary of State in the Walpole government; Richard L. Morton wrote that the duke carried on a policy of "`saluatory neglect' of the colonies which lasted until the Seven Years' War." (<cit><bibl n="B17">Morton. <title>Colonial Virginia.</title> p. 506.</bibl></cit>)
 </note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2003, was revised September 22,  2011, to strengthen the modern language version text.</hi></note>
 
 
 

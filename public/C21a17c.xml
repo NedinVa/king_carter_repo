@@ -31,7 +31,7 @@ Library Electronic Text Center</name>
    </respStmt>
 </titleStmt>
 
-<extent>ca. 6 kilobytes </extent>
+<extent>ca. 12 kilobytes </extent>
 
 <publicationStmt>
      <publisher>University of Virginia Library.</publisher>
@@ -42,7 +42,7 @@ Library Electronic Text Center</name>
      <p n="public">URL:
 http://etext.lib.virginia.edu/users/berkeley/</p>
          </availability>
-     <date>2001</date>
+     <date>2001, 2011</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -133,8 +133,8 @@ Perry, Sr.</note> and
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <corr resp="editor">[Lancaster
-County, Virginia]</corr> </name><lb/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster
+County, Virginia] </add></name>&nbsp;&nbsp;
 <date value="1721-01-17"><abbr expan="January ">Jany.  </abbr>17th
 1720/21</date><lb/>
 Messrs. Perry<lb/><abbr expan="Senior ">Senr. </abbr> &amp; <abbr
@@ -159,51 +159,53 @@ they appointed their Agent
 <lb/>for their present <sic corr="affairs ">affarrs</sic> <add
 resp="editor"> [<hi rend="italics">sic</hi>]</add><add
 place="supralinear">400 pound</add> this <sic corr="met ">mett</sic>
-wth. a <sic corr="slur ">Slurr</sic> the <abbr
-expan="governor ">Goverr.</abbr>
- <lb/>would not pass It but upon Such Conditions Byrd would <lb/>not
+wth. a <sic corr="slur ">Slurr</sic> <note target="n3">the <abbr
+expan="Governor ">Goverr.</abbr>
+</note> <lb/>would not pass It but upon Such Conditions Byrd would
+<lb/>not
 come into, the particulars he will best tell when he <sic corr="gets
 ">getts</sic> <lb/>among
-You, The <abbr expan="governor ">Govr.</abbr> <sic corr="has ">hath
+You, The <abbr expan="Governor ">Govr.</abbr> <sic corr="has "><sic
+corr="has ">hath </sic>
 </sic> made no Secretary
 as <sic corr="yet ">Yett</sic> <lb/>he Executes the place himself
 all our Clerks Comissions 
 
 <pb n="2"/><lb/><lb/>
 run in his Name so much for <sic
-corr="politics">polliticks</sic>;mdash;</p>
+corr="politics ">polliticks</sic>&mdash;&mdash;</p>
 
 <p>We have few Ships among us hitherto Some <name
 type="city">Bristol</name> <lb/>Men &amp;
 Some from <name type="city"><sic corr="Liverpool
 ">Leverpool</sic></name> It seems the <name
-type="city">Londoners</name> were <lb/>not to sail till
+type="city">Londoners</name> were <lb/>not to sail <sic corr="until
+">till</sic>
 after Christmas. We may look out for them <lb/>I reckon in March. I
 believe there will be no want of <lb/>Tobo. when they come wish they
 may be modest in their de=<lb/>=mands for freight, the Bristol
 <sic corr="market ">Markett</sic> is the worst in England <lb/>&amp;
 <sic corr="yet ">yett</sic> I had 10
-<abbr expan=" pence">d</abbr> there for
+<abbr expan=" pence ">d</abbr> there for
 <abbr expan="stemmed ">Stemd</abbr> &amp; 10 1/2 at <sic
 corr="Liverpool, ">Leverpool,</sic></p>
 
-<p><note target="n3">James Walker</note> is lately dead &amp; so is
-<note target="n4">Mrs. Roscow,</note>  <note target="n5"><abbr
-expan="Colonel ">Collo.</abbr>
-&amp;Digges 
+<p><note target="n4">James Walker</note> is lately dead &amp; so is
+<note target="n5">Mrs. Roscow,</note>  <note target="n6"><abbr
+expan="Colonel ">Collo.</abbr> &amp;Digges 
 </note> <lb/><sic corr="has ">hath </sic> had a severe spell but I
 hear is recovering.
 all Yor. other <lb/>friends for what I know are well &amp; may this
 find You So.</p>
 
-<p><note target="n6">the Concluding Clause</note> of this Lettr.
+<p><note target="n7">the Concluding Clause</note> of this Lettr.
 from the other side.</p>
 
-	<p>I am not <sic corr="unthoughtful ">unthot.full</sic> how many
+<p>I am not <sic corr="unthoughtful ">unthot.full</sic> how many
 ways I have had of late <lb/>to make use of my Cash in Yor. hands,
 but You may Expect I <lb/>Shall Trespass no further for a good while,
 I'm <sic corr="afraid ">affraid</sic> <lb/>the <note
-target="n7">Mercury's</note> affair will
+target="n8">Mercury's</note> affair will
 produce me Some Considerable <lb/>protests wch. <sic corr="it is
 ">tis</sic> <corr resp="editor">[not]</corr>  to be doubted
 will be too common a Complaint <lb/>when the Ships arrive 
@@ -251,26 +253,43 @@ existed between William Byrd and Lieutenant Governor Alexander
 Spotswood. Byrd, as agent for the colony, opposed Spotswood's efforts
 to limit the power of the Council. For details of their quarrel, see
 Leonidas Dodson, <title>Alexander Spotswood, Governor of Colonial
-Virginia, 1710-22</title> (Philadelphia, 1932), 144 ff." (<cit><bibl
+Virginia, 1710-22</title> [Philadelphia, 1932], 144 ff." (<cit><bibl
 n="B12">Wright. <title>Letters of Robert Carter. . . .</title> p.
 62.)</bibl></cit></note>
 
-<note id="n3">[3] James Walker (d. 1721) was a merchant in Middlesex
+<note id="n3">[3] Alexander Spotswood (1646-1740), army officer with
+a succesful career, was a protege of George Hsamilton, first earl of
+Orkney,  the royal governor of Virginia, who sent Spotswood to
+Virginia in 1710 as lieutenant governor. His first five years in the
+colony were fairly successful ones, but  his policies concerning land
+quitrents and over the colonial church brought confrontation with
+powerful members of the Council. Their interests in England led to
+Spotswood's dismissal as governor in 1722. He had acquired large land
+holdings, and he went to England in 1724 where he married and worked
+on securing the titles to his Virginia land holdings. In 1730 he
+returned to Virginia and remained there.  ( (Gwenda Morgan. <xref
+to="http://www.oxforddnb.com/view/article/26164">"Alexander
+Spotswood,"</xref> in the <title>Oxfford Dictionary of National
+Biography.</title> See also Leonidas Dodson, <title>Alexander
+Spotswood, Governor of Colonial
+Virginia, 1710-22</title> (Philadelphia, 1932),)</note>
+
+<note id="n4">[4] James Walker (d. 1721) was a merchant in Middlesex
 County who, with his brother Richard, was one of the developers of
 Urbanna; he served as sheriff of Middlesex (<cit><bibl
 n="B16">Torrance. <title>Virginia Wills and Administrations,1632-
-1800.</title> p. 438.</bibl></cit>; <cit><bibl>"Answers to Queries,"
+1800.</title> p. 438;</bibl></cit> <cit><bibl>"Answers to Queries,"
 1<title>Virginia Magazine of History and Biography</title>, 1[1893-
-84]:470-1;</bibl></cit> <cit><bibl n="B39">Rutman and Rutman,
+84]:470-1;</bibl></cit> and <cit><bibl n="B39">Rutman and Rutman,
 <title>A Place in Time: Middlesex. . . . </title> pp. 228-
-31.)</bibl></cit></note>
+31.</bibl></cit>)</note>
 
-<note id="n4">[4] "Probably the wife of James Roscow, appointed
+<note id="n5">[5] "Probably the wife of James Roscow, appointed
 receiver-general of quitrents in 1716." (<cit><bibl n="B12">Wright.
 <title>Letters of Robert Carter. . . .</title> p.
 63.)</bibl></cit></note>
 
-<note id="n5">[5] Cole Digges (1692-1744), of "Belfield," York
+<note id="n6">[6] Cole Digges (1692-1744), of "Belfield," York
 County, came from a distinguished family. His father had been a
 member of the Council, and his grandfather the governor of Virginia.
 He was returned as a burgess from Warwick County in 1718, was
@@ -278,24 +297,41 @@ appointed to the Council the next year, and held the usual offices of
 justice and militia commander (for Elizabeth City, Warwick, and York
 counties). (<cit><bibl n="B41">Morton. <hi rend="italics">ed. </hi> 
 <title>The Present State of Virginia. . . by Hugh Jones.</title> p.
-239.)</bibl></cit></note>
+239.</bibl></cit>)</note>
 
-<note id="n6">[6] The draft of this letter ends just before the
+<note id="n7">[7] The draft of this letter ends just before the
 clause that begins "the Concludeing Clause. . . ." The following
 paragraph was originally dictated at the end of the preceding letter
 to the Perrys in the letter book, but Carter marked it to be copied
 as the concluding paragraph to this letter, and it has been placed
 here.</note>
 
-<note id="n7">[7] Carter and Robert Tucker were the agents for the
+<note id="n8">[8] Carter and Robert Tucker were the agents for the
 sale of slaves carried to Virginia by the <hi
 rend="italics">Mercury</hi> which was owned by Francis Chamberlayne
 and Francis Sitwell. See Carter's letters to Chamberlayne and Sitwell
-concerning this sale of slaves on July 26, 27, and September 27,
-1720, and on July 2, 1723.</note>
+concerning this sale of slaves on <xref
+to="/users/berkeley/public/http://etext.lib.virginia.edu/etcbin/browse
+-
+carter?id=C20g26a.xml&images=images/modeng&data=/web/data/users/berkel
+ey&tag=public">July 26</xref>, <xref
+to="/users/berkeley/public/http://etext.lib.virginia.edu/etcbin/browse
+-
+carter?id=C20g27a.xml&images=images/modeng&data=/web/data/users/berkel
+ey&tag=public">27</xref>, and <xref
+to="/users/berkeley/public/http://etext.lib.virginia.edu/etcbin/browse
+-
+carter?id=C20i27c.xml&images=images/modeng&data=/web/data/users/berkel
+ey&tag=public">September 27</xref>,
+1720, and on <xref
+to="/users/berkeley/public/http://etext.lib.virginia.edu/etcbin/browse
+-
+carter?id=C23g02a.xml&images=images/modeng&data=/web/data/users/berkel
+ey&tag=public">July 2, 1723</xref>.</note>
 
-<lb/><lb/><note><hi rend="italics">This text revised February 24,
-2009.</hi></note>
+<lb/><lb/><note><hi rend="italics">This text, originally posted in
+2001, was revised September 22,  2011, to add footnotes, and to
+strengthen the modern language version text.</hi></note>
 
 
 </div1>

@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
          </availability>
-     <date>2003</date>
+     <date>2003, 2011</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -50,7 +50,7 @@
 </titleStmt>
     <extent>2 p.</extent>
 <publicationStmt>
-     <date></date>
+     <date>2002, 2011</date>
    <idno type="callNo">Source copy consulted:  Fairfax Papers, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California.</idno>
 </publicationStmt>
 </biblFull>
@@ -94,7 +94,7 @@
 <title>Letter from Robert Carter to William Cage, July 21, 1726</title>
 </bibl>
 </head>
-<p>Robert Carter writes to William Cage, July 21, 1726, to  chide him for not writing at least annually which Carter hopes he willl do in the future. He believes that the Northern Neck case has been carried to England by the colony's attorney general. He notes that his receipts of quit rents from the Northern Neck propietary come in very slowly, and he hopes that Cage will not press for the lease rent each year. And he hopes that Cage will allow him credit for money that Edmund Jenings overpaid to the proprietors, and which Jenings has withheld from payments due Carter. </p>
+<p>Robert Carter writes to William Cage,  trustee of the Fairfax estate, July 21, 1726, to  chide him for not writing at least annually which Carter hopes he willl do in the future. He believes that the Northern Neck case has been carried to England by the colony's attorney general. He notes that his receipts of quit rents from the Northern Neck propietary come in very slowly, and he hopes that Cage will not press for the lease rent each year. And he hopes that Cage will allow him credit for money that Edmund Jenings overpaid to the proprietors, and which Jenings has withheld from payments due Carter. </p>
 </div1>                 
 </front>
 
@@ -106,7 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;
 <date value="1726-07-21">July the 21st: 1726</date><lb/>
 William Cage Esqr:<lb/>
 </dateline>
@@ -114,13 +114,12 @@ William Cage Esqr:<lb/>
 
 </opener>
 
-<p>I am sorry I have not bin so much in yor: <lb/><abbr expan="favor">favr:</abbr> to receive one Line from you this year, <note n="MP2">Mr. Perry</note> <lb/>indeed tells me he had <sic corr="promised">promisd</sic> you to <sic corr="solicit">Solicite</sic> the Stated case <lb/>of the Northern Neck at the board of trade, but that it was <lb/>not sent thither by our <note n="HD"><abbr expan="Governor">Govr:</abbr></note> who hath bin in a very ill <lb/>State of health for a great while, which probably may <lb/>have bin the Occasion of this Omission <note n="JC3">Mr. Clayton</note> the <lb/><sic corr="Attorney">Atturney</sic> General went for England in one of our forward <lb/>Ships I suppose he may have Carried it with him, Mr. Perry <lb/>hath Sent me your receipt for &pound;420"-"- <abbr expan="paid">pd:</abbr> you in March <lb/>last, my rent for the year, 1725 <abbr expan="Although">Altho</abbr> this money hath bin <lb/>so long paid from me, I have not yet <abbr expan="received">rec'd</abbr> the Sixth part of it <lb/>which I hope will be a moving Argument to you, to be as <lb/>patient as possible in Allowing me all the time you can <lb/>for the paying my rents in, The Mmerchants by keeping my <lb/><abbr expan="tobacco">Tobbo.</abbr>
- year after year unsold have laid me under difficu=<lb/>-lties I have not bin used to before,&mdash;</p>
+<p>I am sorry I have not bin so much in yor: <lb/><abbr expan="favor ">favr:</abbr> to receive one Line from you this year, <note n="MP2">Mr. Perry</note> <lb/>indeed tells me he had <sic corr="promised ">promisd</sic> you to <sic corr="Solicit ">Solicite</sic> the Stated case <lb/>of the <xref to="http://etext.lib.virginia.edu/users/berkeley/#Northern Neck">Northern Neck</xref> at the <note target="n1">board of trade,</note> but that it was <lb/>not sent thither by our <note n="HD"><abbr expan="Governor ">Govr:</abbr></note> who <sic corr="has ">hath </sic> bin in a very ill <lb/>State of health for a great while, which probably may <lb/>have bin the Occasion of this Omission <note n="JC3">Mr. Clayton</note> the <lb/><sic corr="Attorney ">Atturney</sic> General went for England in one of our forward <lb/>Ships I suppose he may have Carried it with him, Mr. Perry <lb/><sic corr="has ">hath </sic> Sent me your receipt for &pound;420"-"- <abbr expan="paid ">pd:</abbr> you in March <lb/>last, my rent for the year, 1725 <abbr expan="Although ">Altho</abbr> this money <sic corr="has ">hath </sic> bin <lb/>so long paid from me, I have not yet <abbr expan="received ">rec'd</abbr> the Sixth part of it <lb/>which I hope will be a moving Argument to you, to be as <lb/>patient as possible in Allowing me all the time you can <lb/>for the paying my rents in, The Merchants by keeping my <lb/><abbr expan="tobacco ">Tobbo.</abbr>  year after year unsold have laid me under difficu=<lb/>-lties I have not bin used to before,&mdash;</p>
 
-	<p>In my Letter dated July the 19th: 1725 I sent <lb/>you a Clear <abbr expan="account">Acct:</abbr> of your Case with <note n="EJ"><abbr expan="Colonel">Coll</abbr> Jennings,</note> in <lb/>which it appears plainly he overpaid you by my hands <lb/>Thirty nine pounds fourteen <abbr expan="shillings">Shill,</abbr> this money he Stop<add resp="editor">[s]</add> <lb/>from me as a <abbr expan="payment">paymt:</abbr> from him being Considerably in <lb/>my debt, and I had hopes to receive orders from you about <lb/>it, that I might be <sic corr="allowed">allowd</sic> to pay you so much Short of <lb/>my rent, which I think is but a reasonable proposal <lb/>I make my request to you now to have recourse to my <lb/>Letter and <abbr expan="account">Acct:</abbr> I sent you and that you will allow this <lb/>money to be discounted out of my next years rent</p>
+<p>In my Letter dated July the 19th: 1725 I sent <lb/>you a Clear <abbr expan="account ">Acct:</abbr> of your Case with <note n="EJ"><abbr expan="Colonel ">Coll</abbr> <sic corr="Jenings, ">Jennings,</sic></note> in <lb/>which it appears plainly he overpaid you by my hands <lb/>Thirty nine pounds fourteen <abbr expan="shillings ">Shill,</abbr> this money he Stop<add resp="editor">[s]</add> <lb/>from me as a <abbr expan="payment ">paymt:</abbr> from him being Considerably in <lb/>my debt, and I had hopes to receive orders from you about <lb/>it, that I might be <sic corr="allowed ">allowd</sic> to pay you so much Short of <lb/>my rent, which I think is but a reasonable proposal <lb/>I make my request to you now to have recourse to my <lb/>Letter and <abbr expan="account ">Acct:</abbr> I sent you and that you will allow this <lb/>money to be discounted out of my next years rent</p>
 
 <pb n="2"/><lb/><lb/>
-	<p>I have been <sic corr="informed">informd</sic> your Affairs <sic corr="chiefly lie">Cheifly lye</sic> in <lb/>the Country, that you are not fond of the <sic corr="fatigues">fateigues</sic> of the Town <lb/>however I cannot refrain desireing you will please to <lb/>allow me the favour to have a Letter from you one a year <lb/>at least, My humblist Service I desire may be presented <lb/>to his <note n="TF">Lordship</note> I am </p>
+<p>I have been <sic corr="informed ">informd</sic> your Affairs <sic corr="chiefly lie ">Cheifly lye</sic> in <lb/>the Country, that you are not fond of the <sic corr="fatigues ">fateigues</sic> of the <note target="n2">Town</note> <lb/>however I cannot refrain <sic corr="desiring ">desireing</sic> you will please to <lb/>allow me the favour to have a Letter from you once a year <lb/>at least, My <sic corr="humblest ">humblist</sic> Service I desire may be presented <lb/>to his <note n="TF">Lordship</note> I am </p>
 
 <closer><hi rend="underline">Sr</hi> <lb/>Yor: most <sic corr="Faithful Obedient">Faithfull Obedt:</sic> <lb/>humble Servant&mdash; <lb/><signed><hi rend="bold"><hi rend="italics">ROBERT CARTER</hi></hi></signed></closer>
 
@@ -136,12 +135,15 @@ William Cage Esqr:<lb/>
 <div1 type="back matter">
 <head>NOTES</head>
 
-<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi>  Fairfax Papers, BR 227,  folder 34, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. This is the recipient's copy signed by RC and sealed with a wafer. The conjoined address leaf reads: To |  William Cag Esqr: of Milgate | In the Parish of bearshead &amp; County | of Kent, | near Maidstone. Cage has endorsed it, interestingly, "Coll Lee's Letters of Virginia."Printed: <cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> pp. 122-23.</bibl></cit></note><lb/>
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi>  Fairfax Papers, BR 227,  folder 34, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. This is the recipient's copy signed by Carter and sealed with a wafer. The conjoined address leaf reads: To |  William Cag Esqr: of Milgate | In the Parish of bearshead &amp; County | of Kent, | near Maidstone. Cage has endorsed it, interestingly, "Coll Lee's Letters of Virginia."Printed: <cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> pp. 122-23.</bibl></cit></note><lb/>
 
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note><lb/>
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to correspondents abroad. The county and colony have been added for clarity.</note><lb/>
 
+<note id="n1">[1] Established in 1696 as successor to a similar body, the Lords Commissioners of Trade and Plantations was "an advisory group, subordinate to king and Privy Council, and with no executive, financial, or penalizing powers, the Board of Trade was nevertheless able . . . to exert a far reaching and often determining influence in colonial matters. . . . It prepared the royal instructions for the governors overseas. . . ." (<cit><bibl>Henry Hartwell, James Blair, and Edward Chilton. Hunter Dickinson Farish, <hi rend="italics">ed.</hi> <title>The Present State of Virginia, and the College.</title> [First published, 1940, by Colonial Williamsburg, Inc., and reprinted Charlottesville: University Press of Virginia, 1964.] pp. xvi-xvii.</bibl></cit>)</note>
 
+<note id="n2">[2] London</note><lb/>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2003, was revised September 22,  2011, to add footnotes, and to strengthen the modern language version text.</hi></note>
 
 </div1>
 </back>

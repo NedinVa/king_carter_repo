@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
          </availability>
-     <date>2002</date>
+     <date>2002, 2011</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,7 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;
 <date value="1725-07-28">July 28th: 1725</date><lb/>
 Wm: Cage Esqr.<lb/>
 </dateline>
@@ -114,9 +114,9 @@ Wm: Cage Esqr.<lb/>
 
 </opener>
 
-<p>	This is a short line to beg a <abbr expan="favor">favr:</abbr> of you, I have&mdash; <lb/><abbr expan="engaged">ingag'd</abbr> <note n="MP2">Mr: Perry</note> to make a Purchase of a virginia Estate&mdash; <lb/>for me, If he Effects it a great deal of Ready money will be <lb/>required, my request is that you will not call for this Currt: <lb/>years Rent for some months after it becomes due, <sic corr="until">untill</sic> Mr. <lb/>Perry is in Cash upon the Sales of my Tobacco now going <lb/>home, <abbr expan="favors">favrs:</abbr> of this Nature you have not hitherto <sic corr="denied">deny'd</sic> me <lb/>and I hope will not now who am </p>
+<p>	This is a short line to beg a <abbr expan="favor ">favr:</abbr> of you, I have&mdash; <lb/><abbr expan="engaged ">ingag'd</abbr> <note n="MP2">Mr: Perry</note> to make a Purchase of a virginia Estate&mdash; <lb/>for me, If he Effects it a great deal of Ready money will be <lb/>required, my request is that you will not call for this Currt: <lb/><xref to="http://etext.lib.virginia.edu/users/berkeley/#Northern Neck"> years Rent</xref> for some months after it becomes due, <sic corr="until ">untill</sic> Mr. <lb/>Perry is in Cash upon the Sales of my Tobacco now going <lb/>home, <abbr expan="favors ">favrs:</abbr> of this Nature you have not hitherto <sic corr="denied ">deny'd</sic> me <lb/>and I hope will not now who am </p>
 
-<closer>Sr <lb/><lb/>Yor: most <abbr expan="obedient">Obedt:</abbr> Humble Servant <lb/><signed><hi rend="bold">ROBERT CARTER</hi></signed></closer>
+<closer>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sr <lb/><lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor: most <abbr expan="obedient">Obedt:</abbr> Humble Servant <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<signed><hi rend="bold"><hi rend="italics">ROBERT CARTER</hi></hi></signed></closer>
 
 
 </div1>
@@ -132,10 +132,11 @@ Wm: Cage Esqr.<lb/>
 
 <note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi>  Fairfax Papers, BR 227, folder 32, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. Printed: <cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> p. 122.</bibl></cit></note><lb/>
 
-<note> This is one of two identical recipient's copies signed by RC, and sealed with his arms. The address leaf reads: To | William Cage Esquire of Milgate | in the County of Kent to be left at Mr. Micajah | Perrys Merchant of | London Per the Carter | Frigatt. There is no endorsement on either copy. The text of the second copy varies only in that the word "Copy" appears at the foot of the page.</note>
+<note> This is one of two identical recipient's copies signed by Carter with his large and prominent signature (indicated by the use of bold italics), and sealed with his arms. The conjoined address leaf reads: To | William Cage Esquire of Milgate | in the County of Kent to be left at Mr. Micajah | Perrys Merchant of | London Per the Carter | Frigatt. There is no endorsement on either copy. The text of the second copy varies only in that the word "Copy" appears at the foot of the page. Carter would have had his clerks prepare several copies for his signature, each of which was snet by a different ship to ensure the safe arrival in England of at least one copy.</note>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to persons abroad. The county and colony have been added for clarity.</note><lb/>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2002, was revised September 20,  2011, to add afootnote, and to strengthen the modern language version text.</hi></note>
 
 
 
