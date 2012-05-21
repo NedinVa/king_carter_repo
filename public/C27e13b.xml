@@ -10,7 +10,13 @@
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; 
+
+<!NOTATION html SYSTEM "HTML">
+<!ENTITY Ext6 SYSTEM "http://www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm" NDATA html>
+
+
+]>
 <TEI.2 id="C27e13b">
 
 
@@ -39,7 +45,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
          </availability>
-     <date>2003</date>
+     <date>2003, 2011</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,7 +112,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place"><add resp="editor">[Lancaster County,] Virginia</add></name><lb/>
+<name type="place"><add resp="editor">[Lancaster County,] Virginia</add></name>&nbsp;&nbsp;
 <date value="1727-05-13">May 13th: 1727</date><lb/>
 Josiah Burchet Esqr.<lb/>
 </dateline>
@@ -114,10 +120,10 @@ Josiah Burchet Esqr.<lb/>
 
 </opener>
 
-<p>The Occasion of this is to Enclose to <lb/>You a bill of <abbr expan="exchange">Exche.</abbr> for &pound;5:-:- on Mr. <note n="MP2"><abbr expan="Micajah">Micajh:</abbr> Perry</note> of Lond<add resp="editor">[on]</add> <lb/>being your fees for four <note target="n2"><sic corr="Mediterranean">Medeteranian</sic> passes,</note> which I have <lb/>Issued in the Time of my Administration of this <abbr expan="government">Governmnt:</abbr> I am</p>
+<p>The Occasion of this is to Enclose to <lb/>You a bill of <note target="n2"><abbr expan="exchange ">Exche.</abbr></note> for &pound;5:-:- on Mr. <note n="MP2"><abbr expan="Micajah ">Micajh:</abbr> Perry</note> of Lond<add resp="editor">[on] </add> <lb/>being your fees for four <note target="n3"><sic corr="Mediterranean ">Medeteranian</sic> passes,</note> which I have <lb/>Issued in the Time of my Administration of this <abbr expan="government ">Governmnt:</abbr> I am</p>
 
-<closer>Sir <lb/>Yor: most humble Servt:<seg type="postscript"><lb/><lb/>per Hopkins 
-<lb/>Copy per Woodward</seg></closer>
+<closer>Sir <lb/>Yor: most humble Servt:<seg type="postscript"><lb/><lb/><note target="n4">per Hopkins</note> 
+<lb/>Copy <note target="n5">per Woodward</note></seg></closer>
 
 
 </div1>
@@ -133,10 +139,19 @@ Josiah Burchet Esqr.<lb/>
 
 <note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. </note>
 
-<note id="n1">[1] Burchet is presumed to have been an Admiralty official responsible for collecting the fees for passes. See footnote #2.</note>
+<note id="n1">[1] Burchet is presumed to have been an Admiralty official responsible for collecting the fees for passes. See footnote #3.</note>
 
-<note id="n2">[2] "Mediterranean Passes were provided for English ships by the Admiralty in order to give protection against attack from the Corsairs of the Barbary Coast." This statement is given in describing copies of records of these passes found in ADM/7 in the Public Record Office available for purchase on microfilm.
+<note id="n2"> [2] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (<cit><bibl><xref to="Ext6">"Dictionary of  Financial Scam Terms,"</xref> 8/22/2005</bibl></cit>)</note>
+
+
+<note id="n3">[3] "Mediterranean Passes were provided for English ships by the Admiralty in order to give protection against attack from the Corsairs of the Barbary Coast." This statement is given in describing copies of records of these passes found in ADM/7 in the Public Record Office available for purchase on microfilm.
 (http://www.microform.co.uk/html/body_african.html, 1/23/03)</note>
+
+<note id="n4">[4] Captain James Hopkins commanded the <hi rend="italics">Mary</hi> in 1727-1728. He was then working for London merchant Robert Cary. He is mentioned in Carter's diary. (<cit><bibl>Adm. 68/194, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n5">[5] Thomas Woodward commanded the <hi rend="italics">Providence,</hi> a ship owned by Captain John Hyde &amp; Company, during a number of voyages to the colony, 1723-1729. (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194 and Survey Report 6801 summarizing Adm 68/195, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia,</bibl></cit> and Carter's letter to the firm,  <xref to="/users/berkeley/public/C23i17a.xml">September 17, 1723.</xref>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2003, was revised October 18, 2011, to add footnotes, and to strengthen the modern language version text.</hi></note>
 
 
 

@@ -106,7 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place"><add resp="editor">[Lancaster County,] </add>Virginia </name><lb/>
+<name type="place"><add resp="editor">[Lancaster County,] </add>Virginia </name>&nbsp;&nbsp;
 <date value="1727-01-05">Jany: the 5th: 1725/7</date><lb/>
 Rt. honble Duke of New Castle Principal Secty of State<lb/>
 </dateline>
@@ -116,7 +116,7 @@ Rt. honble Duke of New Castle Principal Secty of State<lb/>
 
 
 
-<p>I think it my duty to acquaint yor: Grace wth: my <lb/>receipt of the honour of his Majesty's Sign Manual on the 15th of <abbr expan="October">Octobr.</abbr> <lb/>&amp; I have now the honour of yor: Graces Letter of <abbr expan="September">Sept:</abbr> date Signifying his <lb/>Majestys Satisfaction in my continuing for the present in the Admin<lb/>istration of the <abbr expan="government">Governmt.</abbr> a Sickly Indisposition I have bin under <lb/>for the most part of this year which the winter hath in some meas<lb/>=ure removed, hath not allowd me to be so often or so long at the <note target="n2">Seat of <lb/>the <abbr expan="government">Governmt:</abbr></note> as might otherwise have bin Expected however am in <lb/>hopes nothing hath bin Omitted within the duty of my place for <lb/>his Majesty's Service or the good of the Colony I am with most <lb/>Dutifull respect&mdash;</p>
+<p>I think it my duty to acquaint yor: Grace wth: my <lb/>receipt of the honour of his Majesty's <note target="n2">Sign Manual</note> on the 15th of <abbr expan="October ">Octobr.</abbr> <lb/>&amp; I have now the honour of yor: Graces Letter of <abbr expan="September ">Sept:</abbr> date Signifying his <lb/>Majestys Satisfaction in my continuing for the present in the Admin<lb/>istration of the <abbr expan="government ">Governmt.</abbr> a Sickly Indisposition I have bin under <lb/>for the most part of this year which the winter <sic corr="has ">hath </sic> in some meas=<lb/>ure removed, <sic corr="has ">hath </sic> not <sic corr="allowed ">allowd</sic> me to be so often or so long at the <note target="n3">Seat of <lb/>the <abbr expan="Government ">Governmt:</abbr></note> as might otherwise have bin Expected however am in <lb/>hopes nothing <sic corr="has ">hath </sic> bin Omitted within the duty of my place for <lb/>his Majesty's Service or the good of the Colony I am with most <lb/><sic corr="Dutiful ">Dutifull</sic> respect&mdash;</p>
 
 <closer>My Lord <lb/>Yor: Graces <lb/>Most Obliged <lb/>Most Obedient <lb/>&amp; most humble servt <lb/><hi rend="italics"><hi rend="bold">ROBERT CARTER</hi></hi></closer>
 
@@ -132,12 +132,15 @@ Rt. honble Duke of New Castle Principal Secty of State<lb/>
 <div1 type="back matter">
 <head>NOTES</head>
 
-<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> CO5/CO5/1337, ff.95, Public Record Office, London. This is the recipient's copy signed by Carter. </note>
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> CO5/CO5/1337, ff.95, Public Record Office, London, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. This is the recipient's copy, signed by Carter with his usual large and prominent signature, indicated here by the use of bold italics.</note>
 
 <note id="n1">[1] Thomas Pelham-Holles, the 1st Duke of Newcastle, was Secretary of State in the Walpole government; Richard L. Morton notes that the duke carried on a policy of "`saluatory neglect' of the colonies which lasted until the Seven Years' War." (<cit><bibl n="B17">Morton. <title>Colonial Virginia.</title> p. 506.</bibl></cit>)</note>
 
-<note id="n2">[2] Williamsburg</note>
+<note id="n2">[2] A "sign manual, according to the <title>Oxford English Dictionary Online</title> is "an autograph signature, esp. that of the sovereign, serving to authenticate a document." (<xref to="http://www.oed.com/view/Entry/179594?redirectedFrom=sign%20manual">OED Online.</xref> 9/29/2011)</note><lb/>
 
+<note id="n3">[3] Williamsburg</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2003, was revised September 29,  2011, to add a footnote, and to strengthen the modern language version text.</hi></note>
 
 
 

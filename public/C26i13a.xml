@@ -92,7 +92,7 @@ type="Field650">LCSH</term></keywords>
 
 </teiHeader>
 
-<text id="T">
+<text id="C26i13aT">
 
 <front>
 <div1 type="summary" n="1">
@@ -101,7 +101,7 @@ type="Field650">LCSH</term></keywords>
 <abbr>ADS</abbr>
 <extent>1 p.</extent>
 <date value="1726-08-01"></date>
-<idno rend="suppress">C26i13a</idno>
+<idno rend="suppress">C26i13a.xml</idno>
 <title>Proclamation by Robert Carter as President of the Council to 
 Continue all Officers in Their Duties,  August 1, 1726 </title>
 </bibl>
@@ -145,17 +145,17 @@ Execution of their Several Trusts and offices</p><lb/><lb/>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Whereas his most sacred Majesty by
 Commission under the Great Seal of Great Britain in the<lb/>
 first Year of his Reign did constitute and appoint the right <abbr
-expan="Honorable ">Honable </abbr> George Earl of Orkney to be <abbr
-expan="Lieutenant">Lieut </abbr><lb/>
+expan="Honorable ">Honable </abbr> <note target="n1">George Earl of Orkney</note> to be <abbr
+expan="Lieutenant ">Lieut </abbr><lb/>
  and Governor General of this his Majesty's Colony and dominion of
 Virginia And by the said &nbsp;&nbsp;&mdash;<lb/>
-Commission hath (amongst other things) been <sic corr="Graciously
+Commission <sic corr="has ">hath </sic> (amongst other things) been <sic corr="Graciously
 ">Gatiously</sic> pleased to declare his Royal Will And
 &nbsp;&nbsp;&mdash;<lb/>
 pleasure That if upon the Death or Absence of the said George Earl
 of Orkney out of the said Colony<lb/>
 And there be no person upon the place Comissioned or appointed by
-his Majesty to be Lieut. <abbr expan="Governor">Governr. </abbr><lb/>
+his Majesty to be Lieut. <abbr expan="Governor ">Governr. </abbr><lb/>
 or <abbr expan="Commander ">Commandr. </abbr> in Chief that the
 Eldest Counsellor whose name is first placed in his <abbr
 expan="Majesty's ">Matys </abbr> <unclear>[Instructions ?]</unclear>
@@ -170,12 +170,12 @@ in the Same <sic corr="manner ">maner</sic> and to all Intents and
 Purposes as any other <abbr expan="Governor ">Governr </abbr> or
 Commander Chief <lb/>
 should or ought to do  until his Majesty's Pleasure be known therein
- <hi rend="bold">And Whereas</hi> it hath<lb/>
+ <hi rend="bold">And Whereas</hi> it <sic corr="has ">hath </sic><lb/>
  pleased God to call  out of this Transitory Life the <abbr
 expan="Honorable ">Honble  </abbr>Hugh Drysdale his Majesty's <sic
 corr="Lieutenant ">Lieutent</sic><lb/>
 <abbr expan="Governor ">Governr. </abbr> and Commander in Chief
-whereby and by the Suspension of Edmund Jenings <abbr expan="Esquire
+whereby and by the Suspension of <note n="EJ">Edmund Jenings</note> <abbr expan="Esquire
 ">Esqr </abbr> from<lb/>
 being  a Member of his Majesty's Council Administration of the
 Government is desolved on <lb/>
@@ -204,7 +204,7 @@ first&mdash;<lb/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Day of August 1726  In the
 Thirteenth Year of his Majestys Reign <lb/><lb/>
 <hi rend="bold">God</hi> Save the <hi
-rend="bold">King</hi>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="italics">Robert Carter</hi>
+rend="bold">King</hi>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="italics"><hi rend="bold">Robert Carter</hi></hi>
 </p>
 
 <closer><seg type="postscript"></seg></closer>
@@ -230,13 +230,14 @@ the obverse leaf: "For his Majesty's Service | To | The Sherif of the
 County of&mdash; | Prince George." It was endorsed, presumably by the
 clerk of Prince George County, "Proclamation | continuing Officers |
 August 1726&mdash; | Published Sept. 13th 1726." It bears a very
-large original signature of Robert Carter as is noted by the use of
+large original signature of Robert Carter as is noted by the use of bold
 italics. The document has been framed for many years, and there are
 some wrinkles along the right side that prevent a clear reading of
 several words.</note>
 
-<lb/><lb/><note><hi rend="italics">This text added to the site
-January 13, 2009.</hi></note>
+<note id="n1">[1]  George Douglas-Hamilton (1666-1737), first earl of Orkney, a distinguished general in the British army. was rewarded in part for his service by being given by Queen Anne the sinecure of governor of Virginia in 1710, a title he held until his death in 1737. He never visited the colony but sent a succession of deputies as lieutenant governors. (Lawrence B. Smith. <xref to="http://www.oxforddnb.com/view/article/12069?docPos=4">"Hamilton, George, first earl of Orkney"</xref> in <title>Oxford Dictionary of National Biography</title> online.)</note>
+
+<lb/><lb/><note><hi rend="italics">This text added to the site January 13, 2009, and reviewed September 26,  2011, to add footnotes, and to strengthen the modern language version text.</hi></note>
 
 
 
