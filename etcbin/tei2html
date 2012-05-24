@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/env perl
 # TEI to HTML script, including images 
 # Electronic Text Center, University of Virginia
 # July 1994 - Aug 1996. David Seaman (etext@virginia.edu).

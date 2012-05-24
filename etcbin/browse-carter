@@ -10,9 +10,11 @@ if ( $script && dirname( $script ) == "/etcbin" ) {
 }
 else { 
 	$tei2html = dirname(dirname( $0 )); 
-	$indexbase = ".." ;
+	$indexbase = "." ;
 	$indexltrs = "indexltrs.html" ;
 }
+
+
 if ( basename( $0 ) =~ "^browse-cartermod" )  { $tei2html =  $tei2html . "/cartermod.pl"; }
 elsif ( basename( $0 ) =~ "^browse-carter" )  { $tei2html = $tei2html . "/carter.pl"; }
 else { die "must be called as browse-cartermod* or browse-carter*" ; } 
@@ -72,7 +74,7 @@ Content-type: text/html
 <b><a href="$indexbase/index.html">About This Collection</a></b><br>
 <br>
 
-<font size="-1"><a href="http://etext.lib.virginia.edu/">Electronic Text Center</a>, University of Virginia Library</font>
+<font size="-1"><a href="http://www2.lib.virginia.edu/etext/">Electronic Text Center</a>, University of Virginia Library</font>
 <br clear="left">
 <br>
 <hr width="75%">
@@ -89,7 +91,6 @@ close(FILE);
 
 print "</BODY></HTML>\n";
 
-
 sub CheckUser {
         local($source)=$ENV{'REMOTE_ADDR'};
         local($host)=$ENV{'REMOTE_HOST'};
@@ -101,5 +102,4 @@ sub CheckUser {
 		print "</HTML>";
                 die;
         }
-}
-
+} 

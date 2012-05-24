@@ -7,7 +7,7 @@ then
  FILE=$(basename $1)
  BASE=$(basename $1 .xml)
  export QUERY_STRING="id=${FILE}&images=XYZZY&data=.&tag=public"
- echo $QUERY_STRING
+ echo $FILE
  echo "writing html/${BASE}.html..."
  perl etcbin/browse-carter  | etcbin/abs2relhref.pl | tr '\r' '\n' | tail -n +3 | etcbin/inl.sh >html/${BASE}.html 
  echo "writing html/${BASE}.mod.html..."

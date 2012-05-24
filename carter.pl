@@ -4,11 +4,12 @@ $images = $ARGV[0];
 shift;
 $tag = $ARGV[0];
 shift;
-$tei2html="/lib_content5/etext/lv7/web/bin/etcbin/tei2html";
+$tei2html="./etcbin/tei2html";
+
 open(OUTPUT, "| $tei2html");
 while (<>) {
-        $a = $_;                                            
-                   
+
+$a = $_;
 $a =~ s/$/ /g;
 $a =~ s/>>/>/g;
 $a =~ s/<cell rend="right">/ <td align="right"> /g;
@@ -453,4 +454,4 @@ $a =~ s/<\/figDesc>/<\/span>/g;
 
         print OUTPUT $a;
 }
-close(OUTPUT);        
+close(OUTPUT);
