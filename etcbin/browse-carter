@@ -10,7 +10,7 @@ if ( $script && dirname( $script ) == "/etcbin" ) {
 }
 else { 
 	$tei2html = dirname(dirname( $0 )); 
-	$indexbase = "." ;
+	$indexbase = ".." ;
 	$indexltrs = "indexltrs.html" ;
 }
 
