@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2003</date>
+     <date>2003, 2012</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -81,7 +81,7 @@
 
 </teiHeader>
 
-<text id="C27T">
+<text id="C27e18aT">
 
 <front>
 <div1 type="summary" n="1">
@@ -106,7 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;
 <date value="1727-05-18">May 18: 1727</date><lb/>
 Mr. Thos. Evans<lb/>
 </dateline>
@@ -120,8 +120,8 @@ Mr. Thos. Evans<lb/>
  besides what you already have will come by the <note n="CS">Carter </note><hi rend="italics">I wish</hi> <lb/>your prosperity and am </p>
 
 <closer>Sir <lb/>Yor: very humble Servt:-
-<seg type="postscript"><lb/><lb/>per Woodward
-<lb/>Copy per Hopkins</seg></closer>
+<seg type="postscript"><lb/><lb/>per <note target="n1">Woodward</note>
+<lb/>Copy per <note target="n2">Hopkins</note></seg></closer>
 
 
 </div1>
@@ -139,10 +139,13 @@ Mr. Thos. Evans<lb/>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note>The several words in italics were additions Carter made to the clerk's draft. It is interesting that he should be ordering from Evans as he knew that Evans' business had failed; he commented on it in a letter to William Dawkins (1727 May 13) that he had written a few days earlier.</note>
+<note>The several words in italics were additions Carter made to the clerk's draft. It is interesting that he should be ordering from Evans as he knew that Evans' business had failed; he commented on it in a <xref to="/users/berkeley/public//C27e13d.html">letter to William Dawkins</xref> (May 13, 1727) that he had written a few days earlier.</note>
 
+<note id="n1">[1] Thomas Woodward commanded the <hi rend="italics">Providence,</hi> a ship owned by Captain John Hyde &amp; Company, during a number of voyages to the colony, 1723-1729. (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194 and Survey Report 6801 summarizing Adm 68/195, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia,</bibl></cit> and Carter's letter to the firm,  <xref to="/users/berkeley/public/C23i17a.xml">September 17, 1723.</xref>)</note>
 
+<note id="n2">[2] Captain James Hopkins commanded the <hi rend="italics">Mary</hi> in 1727-1728. He was then working for London merchant Robert Cary. He is mentioned in Carter's diary. (<cit><bibl>Adm. 68/194, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2003, was revised July 3, 2012,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 </div1>
 </back>

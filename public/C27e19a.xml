@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2003</date>
+     <date>2003, 2012</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,7 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;
 <date value="1727-05-19">May 19th: 1727</date><lb/>
 Mr. John Stark<lb/>
 </dateline>
@@ -116,7 +116,7 @@ Mr. John Stark<lb/>
 
 
 
-<p><note target="n2"><abbr expan="Captain">Capt:</abbr> Bowman</note> after a tedious passage found <lb/>the way in at last. Your Several Letters and Accots: with my Accot: <lb/>Currt: I have now got and hope you will never let me be without <lb/>one so long again <note n="JP">Mr. Pemberton</note> complains bitterly to me for <lb/>Sending him a bill upon you tells me it cost him 2 1/2 perCent to <lb/>make his money good to him in London You know I have your <lb/>promise to pay my money in London without damge to me <lb/>This loss to make the old Gentleman Easie I have undertaken to <del>pay</del> bear,</p>
+<p><note target="n2"><abbr expan="Captain">Capt:</abbr> Bowman</note> after a tedious passage found <lb/>the way in at last. Your Several Letters and Accots: with my Accot: <lb/>Currt: I have now got and hope you will never let me be without <lb/>one so long again <note n="JP">Mr. Pemberton</note> complains bitterly to me for <lb/>Sending him a bill upon you tells me it cost him 2 1/2 perCent to <lb/>make his money good to him in London You know I have your <lb/>promise to pay my money in London without damge to me <lb/>This loss to make the old Gentleman <sic corr="Easy">Easie</sic> I have undertaken to <del>pay</del> bear,</p>
 
 <p>It is Something Strange you could not get <sic corr="off">of</sic> my 5 hhds: <lb/>of <abbr expan="tobacco">Tobbo:</abbr> to Close that Accot: when your market as is agreed by all <lb/>was so Empty, I hope it will prove to the best,</p>
 
@@ -126,11 +126,11 @@ Mr. John Stark<lb/>
 pay in London not doubting but you will take care to do it with<lb/>out any loss to me,</p>
 
 <p>I Sent you in a James River Ship the <name type="ship">Ann &amp; Eliza.</name> <lb/>Mc:Clean Master 13 hhds: of <abbr expan="tobacco">Tobbo:</abbr>
- 10 of my own and 3 of <note n="NB">Mr. <lb/>Burwells</note> Estate. I hear the Ship was driven a Shoar in a Storm <lb/>The Cargoe all Saved and the Ship like to be got <sic corr="off">of</sic>. of this I have <lb/>yet no Accot: from you.</p>
+ 10 of my own and 3 of <note n="NB">Mr. <lb/>Burwells</note> Estate. I hear the Ship was driven <sic corr="ashore">a Shoar </sic> in a Storm <lb/>The <sic corr="Cargo">Cargoe</sic> all Saved and the Ship like to be got <sic corr="off">of</sic>. of this I have <lb/>yet no Accot: from you.</p>
 
-<p>Capt: Bowman writes his own Storey I have prom<lb/>ised him 30 hhds: whether I Shall be able to do more I cannot <lb/>yet tell he pretends to wants freight mightily I shall say no <lb/>more at present but remain </p>
+<p><abbr expan="Captain ">Capt:</abbr> Bowman writes his own <sic corr="Story">Storey</sic> I have prom<lb/>ised him 30 hhds: whether I Shall be able to do more I cannot <lb/>yet tell he pretends to wants <add resp="editor"> [<hi rend="italics">sic </hi>]</add> freight mightily I shall say no <lb/>more at present but remain </p>
 
-<closer><hi rend="underline">Sir</hi> <lb/>Yor. very humble Servt:<seg type="postscript"><lb/><lb/>per Kelsick</seg></closer>
+<closer><hi rend="underline">Sir</hi> <lb/>Yor. very humble Servt:<seg type="postscript"><lb/><lb/>per <note target="n3">Kelsick</note></seg></closer>
 
 
 </div1>
@@ -148,12 +148,13 @@ pay in London not doubting but you will take care to do it with<lb/>out any loss
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] John Stark was a merchant, probably the one to whom Carter referred when he wrote to Micajah Perry on1723 July 4 that he had drawn an order on "Mr. Stark of Glasgow." On that same day, he wrote to a John Stark, referring to Captain Bowman.</note>
+<note id="n1">[1] John Stark was a  prominent Glasgow merchant in the sugar trade. He served as as baillie and provost (mayor) from 1725-1727. (<cit><bibl>John M'ure. <title>The History of Glasgow.</title> [Glasgow: D. Macvean and J. Wyllie &amp; Co., 1830] pp. 227-228</bibl></cit> as seen on Google books; and <cit><bibl>"Provosts of Glasgow" at <xref to="http://www.glasgow.gov.uk/en/AboutGlasgow/LordProvostsmessage/Provosts+of+Glasgow.htm">"Welcome to Glasgow"</xref>.</bibl></cit>)</note>
 
 <note id="n2">[2] Captain Samuel Bowman commanded the <hi rend="italics">Lucia.</hi> Carter mentioned this vessel in his diary in June 1724, and again on 1726 March 4 when he wrote that she "came in had 20 Weeks Passage."</note>
 
+<note id="n3">[3] Carter noted in his diary January 19,  1727, the arrival of the <hi  rend="italics">Mazareen</hi> at his house and a visit from her captain, Richard Kelsick, four days earlier.  Kelsick, with Peter How, a merchant of Whitehaven (on the Irish sea in northwest England), traded with the Fredericksburg, Virginia, area from the early 18th century.  (<cit><bibl>Paula S. Felder. "Fredericksburg and Whitehaven Connection to English Port a Forgotten Chapter in Area's Colonial History Living-history Program," <title>Fredericksburg Free-Lance Star, </title>7/2/2005.</bibl></cit>) </note>
 
-
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2003, was revised July 9, 2012,  to add a footnote and strengthen the modern language version text.</hi></note>
 
 
 </div1>

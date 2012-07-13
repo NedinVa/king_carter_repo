@@ -10,7 +10,13 @@
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; 
+
+<!NOTATION html SYSTEM "HTML">
+<!ENTITY Ext6 SYSTEM "http://www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm" NDATA html>
+
+]>
+
 <TEI.2 id="C27e17c">
 
 
@@ -29,7 +35,7 @@
    </respStmt>
 </titleStmt>
 
-<extent>ca. 9 kilobytes </extent>
+<extent>ca. 16 kilobytes </extent>
 
 <publicationStmt>
      <publisher>University of Virginia Library.</publisher>
@@ -39,7 +45,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2003</date>
+     <date>2003, 2012</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -90,7 +96,7 @@
 <abbr>AL</abbr>
 <extent>3 p.</extent>
 <date value="1727-05-17"></date>
-<idno rend="suppress">C27.xml</idno>
+<idno rend="suppress">C27e17c.xml</idno>
 <title>Letter from Robert Carter to Micajah Perry, May 17, 1727</title>
 </bibl>
 </head>
@@ -106,7 +112,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;
 <date value="1727-05-17">May 17th 1727</date><lb/>
 Mr. Micajh: Perry<lb/>
 </dateline>
@@ -116,32 +122,32 @@ Mr. Micajh: Perry<lb/>
 
 
 
-<p>I am now upon yor: Accots: in your Sales of my <lb/>60 hhds: per <note n="AG">Graves</note> in 1725 Twenty one of them is sold to Inland Cus<lb/>tomers in the Sale of the 47 hhds: by <note target="n1">Keeling</note> Thirty of them went also <lb/>to Inland Customers fifty one in the whole  upon these you allow <lb/>me no discounts I have demonstrated this matter to you largely <lb/>but you <add resp="editor">[aff]</add>ord me no Answer and delight in very Short Letters <lb/>I shall <add resp="editor">[be]</add> as Short in plainly <del>tell</del>letting you know untill you give <lb/>me Credit for the Discounts of these two Parcells of <abbr expan="tobacco">Tobbo:</abbr>
- I shall Cease <lb/>to give you any more of the trouble of my <abbr expan="tobacco">Tobbo:</abbr>  The <abbr expan="tobacco">Tobbo:</abbr> in Keeling <lb/>you Sold quickly after it got home and yet you have a Salvo in yor: <lb/>Acct: Currt: dated the 21st: of January following [when outstanding <lb/>Debts are come in &amp; which is what I never Saw in an Accot: of yours <lb/><del>before </del><add place="supralinear"><hi rend="italics">till now</hi></add> nor your familys before you] I reckon my ballance is in<lb/>tirely in your hands and you will have the Advantage of a great <lb/>deal of my money a much longer time <sic corr="than">then</sic> you can say I was <lb/>out of Cash for any of my <abbr expan="tobacco">Tobbo:</abbr> for this reason if there was no other <lb/>I think you ought to Credit me for my discounts In yor: Acct: Currt: <lb/>you place to me &pound;3:8:I allowed to <note target="n2">Colonel Bolling</note> for his Commission <lb/>I see no reason for it Colonel Bolling no doubt drew his commission here <lb/>I must tell you this <sic corr="Story">Storey</sic> I have bin <sic corr="Suing">Sueing</sic> these Several <lb/>Years for the debt <note target="n3">Harry Offly</note> owed me Colonel Bolling ships 56 hhds: <lb/>to the Randolphs in the <name type="ship">Williamsburgh</name> 8 in the <name type="ship">Sea Horse</name> 3 in Turner <lb/>to the Same Gentleman and 23 in the <name type="ship"><sic corr="Micajah">Micajh:</sic></name> to your Self <lb/>the produce of all these 90 hhds: to be paid into your hands on my <lb/>Accot: <note target="n4">Isham Randolphs</note> and <del>Daytons ?</del> Deighton bills of Lading I have. You <lb/>Accot: to me yet only for the 23 hhds: to your Self.</p>
+<p>I am now upon yor: Accots: in your Sales of my <lb/>60 hhds: per <note n="AG">Graves</note> in 1725 Twenty one of them is sold to Inland Cus<lb/>tomers in the Sale of the 47 hhds: by <note target="n1">Keeling</note> Thirty of them went also <lb/>to Inland Customers fifty one in the whole  upon these you allow <lb/>me no <note target="n2">discounts</note> I have demonstrated this matter to you largely <lb/>but you <add resp="editor">[aff]</add>ord me no Answer and delight in very Short Letters <lb/>I shall <add resp="editor">[be]</add> as Short in plainly <del>tell</del>letting you know untill you give <lb/>me Credit for the Discounts of these two <sic corr="Parcels">Parcells</sic> of <abbr expan="tobacco">Tobbo:</abbr>
+ I shall Cease <lb/>to give you any more of the trouble of my <abbr expan="tobacco">Tobbo:</abbr>  The <abbr expan="tobacco">Tobbo:</abbr> in Keeling <lb/>you Sold quickly after it got home and yet you have a Salvo in yor: <lb/>Acct: Currt: dated the 21st: of January following [when outstanding <lb/>Debts are come in &amp; which is what I never Saw in an Accot: of yours <lb/><del>before </del><add place="supralinear"><hi rend="italics">till now</hi></add> nor your familys before you] I reckon my <sic corr="balance ">ballance</sic> is in<lb/>tirely in your hands and you will have the Advantage of a great <lb/>deal of my money a much longer time <sic corr="than">then</sic> you can say I was <lb/>out of Cash for any of my <abbr expan="tobacco">Tobbo:</abbr> for this reason if there was no other <lb/>I think you ought to Credit me for my discounts In yor: Acct: Currt: <lb/>you place to me &pound;3:8:I allowed to <note target="n3">Colonel Bolling</note> for his Commission <lb/>I see no reason for it Colonel Bolling no doubt drew his commission here <lb/>I must tell you this <sic corr="Story">Storey</sic> I have bin <sic corr="Suing">Sueing</sic> these Several <lb/>Years for the debt <note target="n4">Harry Offly</note> owed me Colonel Bolling ships 56 hhds: <lb/>to the Randolphs in the <name type="ship">Williamsburgh</name> 8 in the <name type="ship">Sea Horse</name> 3 in Turner <lb/>to the Same Gentleman and 23 in the <name type="ship"><sic corr="Micajah">Micajh:</sic></name> to your Self <lb/>the produce of all these 90 hhds: to be paid into your hands on my <lb/>Accot: <note target="n5">Isham Randolphs</note> and <del>Daytons ?</del> Deighton bills of Lading I have. You <lb/>Accot: to me yet only for the 23 hhds: to your Self.</p>
 
-<p>I sent you Several bills of <abbr expan="exchange">Exche:</abbr> to a Considerable <lb/>value which I have not Credit for in your Accot: Conclude they <lb/>were not got to hand neither have I Credit for the Accot: of the Disb=<lb/>ursements <del>of </del><add place="supralinear"><hi rend="italics">upon</hi></add> the <note n="LL">LLs estate</note> for 1725.</p>
+<p>I sent you Several <note target="n6">bills of <abbr expan="exchange">Exche:</abbr></note> to a Considerable <lb/>value which I have not Credit for in your Accot: Conclude they <lb/>were not got to hand neither have I Credit for the Accot: of the Disb=<lb/>ursements <del>of </del><add place="supralinear"><hi rend="italics">upon</hi></add> the <note n="LL">LLs estate</note> for 1725.</p>
 
-	<p>You charge me &pound;15:10 paid to Mr. Blew for his <lb/>charges and trouble in <sic corr="Soliciting">Soliciteing</sic> <add place="supralinear"><hi rend="italics">the</hi></add> King and Council One of yor: <lb/>Letters mention<add resp="editor">[s]</add> you Should put me to the charge of &pound;10:-:- There <lb/><sic corr="happened">happend</sic> to be no Occasion for it however, if so much mony <lb/>was given I must be Contented</p>
+<p>You charge me &pound;15:10 paid to Mr. Blew for his <lb/>charges and trouble in <sic corr="Soliciting">Soliciteing</sic> <add place="supralinear"><hi rend="italics">the</hi></add> King and Council One of yor: <lb/>Letters mention<add resp="editor">[s]</add> you Should put me to the charge of &pound;10:-:- There <lb/><sic corr="happened">happend</sic> to be no Occasion for it however, if so much <sic corr="money ">mony</sic> <lb/>was given I must be Contented</p>
 
 <p>In relation to <note n="NP">Mr. Burwells</note> Estate <note n="MP1">Colonel Page </note>
 
 <pb n="2"/><lb/><lb/>
-and I have some Letters before you which you have not yet <sic corr="thought">thot</sic> <lb/>Fitt to Give an Answer to, <sic corr="We">Wee</sic> complain <del>[illegible]</del> <add place="supralinear">of Your</add> broken Accots: <lb/>your late sales of that Estate's <abbr expan="tobacco">Tobbo:</abbr> hath bin very low and your not <lb/>Allowing the Discounts upon the <note n="MH"><sic corr="Merchants Hundred">Merchts: hundd:</sic></note> <abbr expan="tobacco">Tobbo:</abbr>, which belongs <lb/>to one of his Children, a <add place="supralinear">re</add>fresh Occasions of Complaint, Certainly <lb/>Either <sic corr="Major">Majr:</sic> Burwells Estate or my own afforded money to Clear <lb/>these <abbr expan="Tobaccoes">Tobbos:</abbr>, for these reasons I have thought fit not to give you <lb/>the trouble of the <sic corr="Consignment">Consignmt.</sic> of any of these <abbr expan="Tobaccoes">Tobbos:</abbr> this year I shall <lb/>write to <note target="n5">Lewis Burwell</note> by some of our Ships He <add resp="editor">[des]</add>ires to be kept <lb/>at School a year longer to make himself more fit for the University <lb/>and promises a great deal of Diligence I wish he makes good his word <lb/>which will be greatly to the Satisfaction of his relations,</p>
+and I have some Letters before you which you have not yet <sic corr="thought">thot</sic> <lb/><sic corr="Fit ">Fitt</sic> to Give an Answer to, <sic corr="We">Wee</sic> complain <del>[illegible]</del> <add place="supralinear">of Your</add> broken Accots: <lb/>your late sales of that Estate's <abbr expan="tobacco">Tobbo:</abbr> <sic corr="has ">hath </sic> bin very low and your not <lb/>Allowing the Discounts upon the <note n="MH"><sic corr="Merchants Hundred">Merchts: hundd:</sic></note> <abbr expan="tobacco">Tobbo:</abbr>, which belongs <lb/>to one of his Children, a <add place="supralinear">re</add>fresh Occasions of Complaint, Certainly <lb/>Either <sic corr="Major">Majr:</sic> Burwells Estate or my own afforded money to Clear <lb/>these <abbr expan="Tobaccoes">Tobbos:</abbr>, for these reasons I have thought fit not to give you <lb/>the trouble of the <sic corr="Consignment">Consignmt.</sic> of any of these <abbr expan="Tobaccoes">Tobbos:</abbr> this year I shall <lb/>write to <note target="n7">Lewis Burwell</note> by some of our Ships He <add resp="editor">[des]</add>ires to be kept <lb/>at School a year longer to make himself more fit for the University <lb/>and promises a great deal of Diligence I wish he makes good his word <lb/>which will be greatly to the Satisfaction of his relations,</p>
 
-<p>I am now to advise you of the <del>[illegible]</del><add place="supralinear"><hi rend="italics">bills of <abbr expan="exchange">Exche:</abbr></hi></add> I have hith<lb/>erto drawn upon you (the bill for &pound;10:-:6 to <note target="n6">Mr. Leheup</note> you <lb/>have bin long Since acquainted with) to witt for One hundred <lb/>pounds to the <note n="GH">Lord Orkney.</note> To <note n="JG2">Mr. Grimes</note> for Nine pounds thirteen <lb/>and Six pence To <note n="JR">Mr. Randolph </note>for Six and Twenty pounds To <lb/><note target="n7">Josiah Burchett</note> for five pounds&mdash; <del>and</del>to Mr. <note target="n8">John Falconar</note> <abbr expan="Merchant">Merct:</abbr> <lb/>for Three hundred pounds <add place="supralinear"><hi rend="italics">&amp; to Mr. Bradley for one hundred pounds</hi></add> all which must desire you to pay at <lb/>Time</p>
+<p>I am now to advise you of the <del>[illegible]</del><add place="supralinear"><hi rend="italics">bills of <abbr expan="exchange">Exche:</abbr></hi></add> I have hith<lb/>erto drawn upon you (the bill for &pound;10:-:6 to <note target="n8">Mr. Leheup</note> you <lb/>have bin long Since acquainted with) to <sic corr="wit ">witt</sic> for One hundred <lb/>pounds to the <note n="GH">Lord Orkney.</note> To <note n="JG2">Mr. Grimes</note> for Nine pounds thirteen <lb/>and Six pence To <note n="JR">Mr. Randolph </note>for Six and Twenty pounds To <lb/><note target="n9">Josiah Burchett</note> for five pounds&mdash; <del>and</del>to Mr. <note target="n10">John Falconar</note> <abbr expan="Merchant">Merct:</abbr> <lb/>for Three hundred pounds <add place="supralinear"><hi rend="italics">&amp; to Mr. Bradley for one hundred pounds</hi></add> all which must desire you to pay at <lb/>Time</p>
 
-<p>Upon the Accot: of Mr. Burwells Estate I have drawn <lb/>upon you the following bills, to witt To Mr. Grimes for Thirteen <lb/>Pounds Nineteen Shillings, <add place="supralinear">&amp;</add> To William Camp for Fifty pounds <lb/>which Sums are to be paid and placed to the Accot: of that estate <lb/><del>[illegible]</del>I hope you yet retain that rellish for Mr. Burwells memory <lb/>that you will do all the kindness you can <del>for</del> <add place="supralinear">to</add> his son in his Edu<lb/>cation but if <add place="supralinear">you</add> decline any further Concern with him I shall order <lb/>the care of him to another person</p>
+<p>Upon the Accot: of Mr. Burwells Estate I have drawn <lb/>upon you the following bills, to <sic corr="wit ">witt </sic>To Mr. Grimes for Thirteen <lb/>Pounds Nineteen Shillings, <add place="supralinear">&amp;</add> To <note target="n11">William Camp</note> for Fifty pounds <lb/>which Sums are to be paid and placed to the Accot: of that estate <lb/><del>[illegible]</del>I hope you yet retain that rellish for Mr. Burwells memory <lb/>that you will do all the kindness you can <del>for</del> <add place="supralinear">to</add> his son in his Edu<lb/>cation but if <add place="supralinear">you</add> decline any further Concern with him I shall order <lb/>the care of him to another person</p>
 
 <p>If our Correspondence must <del>[illegible]</del> <sic corr="entirely">intirely</sic> break &amp; <lb/>my Stocks and the money that I Shall <del>have</del> <add place="supralinear"><hi rend="italics">leave</hi></add> in your hands <lb/>be a trouble to you to manage as Soon as I have Intelligence of <lb/>it I Shall <add place="supralinear"><hi rend="italics">take</hi></add> the first Opportunity to give Orders for the displacing <lb/>of them</p>
 
-<p>In one of your Letters you mention the Northern Neck <lb/>Case is <add place="supralinear"><hi rend="italics">at last</hi></add> referrd to the <sic corr="Attorney">Atturney</sic> Generals <add resp="editor"> [<hi rend="italics">sic</hi>]</add> to report upon but that <note n="WC">Colonel <lb/>Cage </note>declines to answer the Charge and that there it must <add place="supralinear"><hi rend="italics">rest unless </hi></add> I will do <lb/>it and that you will pay away no money for me without my 
+<p>In one of your Letters you mention the <xref to="http://etext.lib.virginia.edu/users/berkeley/#Northern Neck"> Northern Neck</xref> <lb/>Case is <add place="supralinear"><hi rend="italics">at last</hi></add> <sic corr="referred ">referrd</sic> to the <sic corr="Attorney">Atturney</sic> Generals <add resp="editor"> [<hi rend="italics">sic</hi>]</add> to report upon but that <note n="WC">Colonel <lb/>Cage </note>declines to answer the Charge and that there it must <add place="supralinear"><hi rend="italics">rest unless </hi></add> I will do <lb/>it and that you will pay away no money for me without my 
 
 <pb n="3"/><lb/><lb/>
 particular order that the charge will amount to fifteen guineas <lb/>You know that I have already paid for the Attorney Generals  &amp; <lb/>Solicitor Generals opinions upon that Case, and I have no reason <lb/>to fear but that the Attorneys Opinion will be as favourable as it <lb/>was, however if you can procure his Second opinion Suitable <lb/>to the former, I shall be Contented to bear this Charge also If I have <lb/>not Interest Enough with you the <abbr expan="Proprietors">Proprs:</abbr> will <add place="supralinear"><hi rend="italics">I hope</hi></add> to carry you into <lb/>this Service for their <add place="supralinear"><hi rend="italics">future</hi></add> advantage I am </p>
 
 <closer>Sir, <lb/>Yor: most humble Servt:
-<seg type="postscript"><lb/><lb/>per Hopkins 
-<lb/>Copy per Woodward</seg></closer>
+<seg type="postscript"><lb/><lb/>per <note target="n12">Hopkins</note> 
+<lb/>Copy per <note target="n13">Woodward</note></seg></closer>
 
 
 </div1>
@@ -161,29 +167,35 @@ particular order that the charge will amount to fifteen guineas <lb/>You know th
 
 <note>Words in italics were changes written by Carter in the clerk's draft of the letter.</note>
 
-<note id="n1">[1] Captain William Keiling commanded the <hi rend="italics">Betty.
-</hi> (<cit><bibl>Survey Report 6800, Virginia Colonial Records Project, Albert and Shirley  Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note>Moisture has lightened the ink of the words on the left side of the first page and those on the right side of the second page, making some words difficult to read.</note><lb/><lb/>
 
-<note id="n2">[2]  John Bolling (1677-1729), a great-grandson of John Rolfe and Pocahontas, was a prominet citizen of Henrico County where he served as delegate in the Assembly and as justice. He was a merchant of some stature in the colony. (<cit><bibl n="B42">Kneebone<hi rend="italics"> et al.</hi>  <title>Dictionary of Virginia Biography.</title> 2:61-62.</bibl></cit>)</note>
+<note id="n1">[1] Captain William Keiling commanded the <hi rend="italics">Betty. </hi> (<cit><bibl>Survey Report 6800, found in the records of the Virginia Colonial Records Project, Albert and Shirley  Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
-<note id="n3">[3] Harry Offley (Henry Offley) was a London merchant. (<cit><bibl>"Virginian tobacco dealer"  http://www.offleysociety.co.uk/nl_50.htm#A%20Shirley%20memorandum   5/20/2003</bibl></cit>; and <cit><bibl>"Descendants of Charles Anderson"  http://homepages.rootsweb.com/~anderson/va/trees/charles.html  5/20/2003</bibl></cit>)</note>
+<note id="n2">[2] Because English law allowed an English purchaser of imported tobacco to apply for rebates of the impost, or duty, if the tobacco was exported from the country, Carter probably expected a discount on the charges on his tobacco sold to English merchants, or inland sales.</note>
 
-<note id="n4">[4] Isham Randolph was captain of the <hi rend="italics">Williamsburgh</hi> in 1725-26. (<cit><bibl>Admiralty 68/194, ff. 39v, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n3">[3]  John Bolling (1677-1729), a great-grandson of John Rolfe and Pocahontas, was a prominent citizen of Henrico County where he served as delegate in the Assembly and as justice. He was a merchant of some stature in the colony. (<cit><bibl n="B42">Kneebone<hi rend="italics"> et al.</hi>  <title>Dictionary of Virginia Biography.</title> 2:61-62.</bibl></cit>)</note>
 
-<note id="n5">[5] Lewis Burwell (1711 or 1712-1756), Carter's grandson by Elizabeth Carter Burwell and her first husband, Nathaniel Burwell (1680-1721). He was educated at Eton and Cambridge, and inherited considerable property, living at "Fairfield," Gloucester County. He would be president of the Council in 1750-1751.(<cit><bibl n="B42">Kneebone <hi rend="italics">et al.</hi>,  <title>Dictionary of Virginia Biography.</title>  2:434-5.</bibl></cit> and <cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 114.</bibl></cit>)</note>
+<note id="n4">[4] Harry Offley (Henry Offley) was a London merchant. (<cit><bibl>"Virginian tobacco dealer"  http://www.offleysociety.co.uk/nl_50.htm#A%20Shirley%20memorandum   5/20/2003</bibl></cit>; and <cit><bibl>"Descendants of Charles Anderson"  http://homepages.rootsweb.com/~anderson/va/trees/charles.html  5/20/2003</bibl></cit>)</note>
 
-<note id="n6">[6] Peter Leheup, an English Treasury clerk, was Virginia's  and other colonies' agent in England for some years. He was related by marriage to the Prime Minister's brother who was secretary of the Treasury. His influence would be greater near the end of Carter's life.(<cit><bibl n="B22">Price. <title>Perry of London. . . . </title> pp. 75-77, 80, 83.</bibl></cit>)</note>
+<note id="n5">[5] Isham Randolph was captain of the <hi rend="italics">Williamsburgh</hi> in 1725-26. (<cit><bibl>Admiralty 68/194, ff. 39v, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
-<note id="n7">[7] Josiah Burchet is presumed to have been an Admiralty official responsible for collecting the fees for Mediterranean passes which merchant ships needed to protect themselves from Barbary pirates. See Carter's letter to Burchet, 1727 May 13.</note>
+<note id="n6"> [6] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (<cit><bibl><xref to="Ext6">"Dictionary of  Financial Scam Terms,"</xref> 8/22/2005</bibl></cit>)</note>
 
-<note id="n8">[8] John Falconar was a London merchant with whom Carter dealt. In 1728, Falconar and Henry Darnell formed an association of 29 London tobacco merchants to deal with the French tobacco purchasing agent as a group in order to keep the price as high as possible. The association lasted only lasted a year or two before dissolving because some of its members were dealing directly with the French agent and selling below the agreed-upon price. (<cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> Newport News, VA: Mariners' Museum, 1953. p. 129</bibl></cit>)</note>
+<note id="n7">[7] Lewis Burwell (1711 or 1712-1756), Carter's grandson by Elizabeth Carter Burwell and her first husband, Nathaniel Burwell (1680-1721). He was educated at Eton and Cambridge, and inherited considerable property, living at "Fairfield," Gloucester County. He would be president of the Council in 1750-1751.(<cit><bibl n="B42">Kneebone <hi rend="italics">et al.</hi>,  <title>Dictionary of Virginia Biography.</title>  2:434-5.</bibl></cit> and <cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 114.</bibl></cit>)</note>
 
+<note id="n8">[8] Peter Leheup, an English Treasury clerk, was Virginia's  and other colonies' agent in England for some years. He was related by marriage to the Prime Minister's brother who was secretary of the Treasury. His influence would be greater near the end of Carter's life.(<cit><bibl n="B22">Price. <title>Perry of London. . . . </title> pp. 75-77, 80, 83.</bibl></cit>)</note>
 
+<note id="n9">[9] Josiah Burchet is presumed to have been an Admiralty official responsible for collecting the fees for Mediterranean passes which merchant ships needed to protect themselves from Barbary pirates. See <xref to="/users/berkeley/public/C27e13b.html">Carter's letter</xref> to Burchet, May 13, 1727.</note>
 
+<note id="n10">[10] John Falconar was a London merchant with whom Carter dealt. In 1728, Falconar and Henry Darnell formed an association of 29 London tobacco merchants to deal with the French tobacco purchasing agent as a group in order to keep the price as high as possible. The association lasted only lasted a year or two before dissolving because some of its members were dealing directly with the French agent and selling below the agreed-upon price. (<cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> Newport News, VA: Mariners' Museum, 1953. p. 129</bibl></cit>)</note>
 
+<note id="n11">[11] William Camp (Kemp) was described by Carter as "the General Overseer of Mr Burwell's Affairs" and he wrote that Camp earned a salary "&pound;50 . . . for the year 1731." Carter and his son-in-law, Mann Page, were the trustees of Nathaniel Burwell's children after Burwell's death in 1721. Camp was a resident of Gloucester County where most of the Burwell estates lay, and he must also have supervised "Rippon Hall" in nearby York County. (<cit><bibl>Carter to George Braxton, <xref to="/users/berkeley/public/C29k20a.xml">November 20, 1729</xref>,</bibl></cit> and <cit><bibl>Carter to William Dawkins, <xref to="/users/berkeley/public/C32g11a.xml">July 11, 1732,</xref></bibl></cit> and <cit><bibl><title>Virginia Tax Records.</title> [Baltimore: Genealogical Publishing Company, Inc., 1983.] p. 539.</bibl></cit>)</note>
 
+<note id="n12">[12] Captain James Hopkins commanded the <hi rend="italics">Mary</hi> in 1727-1728. He was then working for London merchant Robert Cary. He is mentioned in Carter's diary. (<cit><bibl>Adm. 68/194, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
+<note id="n1">[13] Thomas Woodward commanded the <hi rend="italics">Providence,</hi> a ship owned by Captain John Hyde &amp; Company, during a number of voyages to the colony, 1723-1729. (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194 and Survey Report 6801 summarizing Adm 68/195, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia,</bibl></cit> and Carter's letter to the firm,  <xref to="/users/berkeley/public/C23i17a.xml">September 17, 1723.</xref>)</note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2003, was revised July 3, 2012,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 </div1>
