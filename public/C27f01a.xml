@@ -37,9 +37,9 @@
      <idno type="ETC">C27f01a.xml</idno>
      <availability>
      <p>Publicly accessible</p>
-     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
          </availability>
-     <date>2003</date>
+     <date>2003, 2012</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,7 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;
 <date value="1727-06-01">June the 1st: 1727</date><lb/>
 Mr. Robert Cary<lb/>
 </dateline>
@@ -114,10 +114,10 @@ Mr. Robert Cary<lb/>
 
 </opener>
 
-<p><sic corr="Yours">Yors:</sic> of the. 10th: of March came to my hands two days <lb/>ago. It brings me very bad news upon Several Accots: I take this <lb/>first Opportunity to answer it I heartily <sic corr="pity">pitty</sic> the hard fate of <lb/><note n="TE">Mr. Evans</note> with whom I have had <add place="supralinear">very</add> friendly Correspondance for <lb/>more <sic corr="than">then</sic> 20 Years but charity begins at home herewith I hand <lb/>you my Accot: against him as well as I can State it, Giving him <lb/>all the Credit that I know of in which the ballance due to me is <lb/>Three hundred Ninety three pounds Sixteen Shillings and a penny, <lb/>as you have bin so kind to take into your hands my 10 hhds: <lb/>of <abbr expan="tobacco">Tobbo:</abbr> per the <note target="n1"><name type="ship">Mansale</name></note> so I hope and Earnestly press you to take <lb/>the best measures you can to Secure for me as much of this Debt <lb/>as is to be got. Mr. Evans I ever took to be an honest man how<lb/>ever this ruinous misfortune comes to fall upon him and I <lb/>dare Say will readily own the truth of my Accot: and will do his <lb/>utmost to discharge it: I believe it will be necessary to Send you <lb/>a Power of Attorney which I cannot do <sic corr="until">untill</sic> the <note n="CS">Carter</note> or Some <lb/>other London Ship goes that I may have living witnesses to it</p>
+<p><sic corr="Yours">Yors:</sic> of the. 10th: of March came to my hands two days <lb/>ago. It brings me very bad news upon Several Accots: I take this <lb/>first Opportunity to answer it I heartily <sic corr="pity">pitty</sic> the hard fate of <lb/><note n="TE">Mr. Evans</note> with whom I have had <add place="supralinear">very</add> friendly Correspondance for <lb/>more <sic corr="than">then</sic> 20 Years but charity begins at home herewith I hand <lb/>you my Accot: against him as well as I can State it, Giving him <lb/>all the Credit that I know of in which the ballance due to me is <lb/>Three hundred Ninety three pounds Sixteen Shillings and a penny, <lb/>as you have bin so kind to take into your hands my 10 hhds: <lb/>of <abbr expan="tobacco">Tobbo:</abbr> per the <note target="n1"><name type="ship"><sic corr="Mansell">Mansale</sic></name></note> so I hope and Earnestly press you to take <lb/>the best measures you can to Secure for me as much of this Debt <lb/>as is to be got. Mr. Evans I ever took to be an honest man how<lb/>ever this ruinous misfortune comes to fall upon him and I <lb/>dare Say will readily own the truth of my Accot: and will do his <lb/>utmost to discharge it: I believe it will be necessary to Send you <lb/>a Power of Attorney which I cannot do <sic corr="until">untill</sic> the <note n="CS">Carter</note> or Some <lb/>other London Ship goes that I may have living witnesses to it</p>
 
 <p>It is another misfortune that my <abbr expan="tobacco">Tobbo:</abbr>
-<lb/>in the Mansel was so much damaged it was some of the first <lb/>of my home Crops and I think I can answer for the goodness of it <lb/>Our great Expectations from an Empty market and the forward<lb/>ness of its <sic corr="getting">geting</sic> home I hope will Enable you to put it <sic corr="off">of</sic> to an <lb/>Advantageous Sale, By the <name type="ship">Mary</name> who left us about a fortnight <lb/><sic corr="ago">agon</sic> I writ to you at large and Duplicated by the <name type="ship">Providence</name> <lb/>I shall not repeat here only that I am </p>
+<lb/>in the <sic corr="Mansell">Mansel</sic> was so much damaged it was some of the first <lb/>of my home Crops and I think I can answer for the goodness of it <lb/>Our great Expectations from an Empty market and the forward<lb/>ness of its <sic corr="getting">geting</sic> home I hope will Enable you to put it <sic corr="off">of</sic> to an <lb/>Advantageous Sale, By the <note target="n2"><name type="ship">Mary</name></note> who left us about a fortnight <lb/><sic corr="ago">agon</sic> I <sic corr="wrote ">writ</sic> to you at large and Duplicated by the <note target="n3"><name type="ship">Providence</name></note> <lb/>I shall not repeat here only that I am </p>
 
 <closer><hi rend="italics">Sir <lb/>Yor: most humble Servt:
 </hi><seg type="postscript"><lb/><lb/>Per the John &amp; David of Glasgow
@@ -139,10 +139,13 @@ Mr. Robert Cary<lb/>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft. Carter has added the complimentary close to the clerk's draft as is indicated by the italics.</note>
 
-<note id="n1">[1] Carter mentioned in his diary on 1726 July 29 the arrival of the <hi rend="italics">Mansel,</hi> Captain Trevisa.</note>
+<note id="n1">[1] Carter noted in his diary July 29, 1726,  the arrival of the <hi rend="italics">Mansell,</hi> Captain  Trevisa, and in his letter of <xref to="http://etext.lib.virginia.edu/etcbin/browse-carter?id=C27a14a.xml&images=images/modeng&data=/web/data/users/berkeley&tag=public">January 14, 1727,</xref> to the Board of Trade, gives the captain's full name as James Trevisa.</note>
 
+<note id="n2">[2] The <hi rend="italics">Mary</hi> was a London ship of 130 tons commanded by James Hopkins, and owned by merchant Robert Cary. (<cit><bibl>Admiralty 68/194,ff. 82r, abstracted in Survey Report 6801, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
+<note id="n3">[3] Thomas Woodward commanded the <hi rend="italics">Providence,</hi> a ship owned by Captain John Hyde &amp; Company, during a number of voyages to the colony, 1723-1729. (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194 and Survey Report 6801 summarizing Adm 68/195, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia,</bibl></cit> and Carter's letter to the firm,  <xref to="/users/berkeley/public/C23i17a.xml">September 17, 1723.</xref>)</note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2003, was revised July 16, 2012,  to  strengthen the modern language version text.</hi></note>
 
 </div1>
 </back>

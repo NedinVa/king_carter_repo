@@ -10,7 +10,12 @@
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+
+<!NOTATION html SYSTEM "HTML">
+<!ENTITY Ext6 SYSTEM "http://www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm" NDATA html>
+
+ ]>
 <TEI.2 id="C27f01b">
 
 
@@ -39,7 +44,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2003</date>
+     <date>2003, 2012</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -94,7 +99,7 @@
 <title>Letter from Robert Carter to Mrs. Sarah Parker, June 1, 1727</title>
 </bibl>
 </head>
-<p>Robert Carter responds to a worried Mrs. Sarah Parker, June 1, 1727, that he is not aware of her husband's being in the colony, but that a bill of exchange that he drew was cashed by John Parker, November 23, 1725.</p>
+<p>Robert Carter responds to a worried Mrs. Sarah Parker, June 1, 1727, that he is not aware of her husband's being in the colony, but that a bill of exchange that he drew on his Philadelphia correspondent was cashed by John Parker, November 23, 1725.</p>
 </div1>                 
 </front>
 
@@ -106,7 +111,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;
 <date value="1727-06-01">June 1st: 1727</date><lb/>
 Mrs. Sarah Parker<lb/>
 </dateline>
@@ -114,10 +119,12 @@ Mrs. Sarah Parker<lb/>
 
 </opener>
 
-<p>I <abbr expan="received">rec"d </abbr>yors: of the 9th of <abbr expan="February">Feby:</abbr> two days ago I am Sorry <lb/>I am <add resp="editor"> [<hi rend="italics">sic</hi>]</add> to let you know I have heard nothing of your husbands <lb/>Arrival into any part of this Country however I am not wth:<lb/>out hopes of his being well the money lent to my Steward <lb/>in Philadelphia I drew a bill of <abbr expan="exchange">Exche</abbr> for Six pounds Thirteen <lb/>and four pence in <abbr expan="Captain">Capt:</abbr> Hyde and <note n="JH2"><abbr expan="Company">Compa.</abbr></note> who charges me <lb/>with the payment of it in their Accot: Currt: <abbr expan="November">Nobr</abbr>: 23d: 1725 <lb/>Said to be paid to John Parker and thus I have answerd <lb/>the desire of your Letter I am </p>
+<p>I <abbr expan="received">rec"d </abbr>yors: of the 9th of <abbr expan="February">Feby:</abbr> two days ago I am Sorry <lb/>I am <add resp="editor"> [<hi rend="italics">sic</hi>]</add> to let you know I have heard nothing of your husbands <lb/>Arrival into any part of this Country however I am not wth:<lb/>out hopes of his being well the money lent to my Steward <lb/>in Philadelphia I drew a <note target="n1">bill of <abbr expan="exchange">Exche</abbr></note> for Six pounds Thirteen <lb/>and four pence on <note n="JH2"><abbr expan="Captain">Capt:</abbr> Hyde and <abbr expan="Company">Compa.</abbr></note> who charges me <lb/>with the payment of it in their Accot: Currt: <abbr expan="November">Nobr</abbr>: 23d: 1725 <lb/>Said to be paid to John Parker and thus I have answerd <lb/>the desire of your Letter I am </p>
 
-<closer><hi rend="italics">Yor. humble Servt:</hi><seg type="postscript"><lb/><lb/><name type="ship">The John &amp; David</name></seg></closer>
+<closer>Yor. humble Servt:<seg type="postscript"><lb/><lb/>The <note target="n2"><name type="ship">John &amp; David</name></note></seg></closer>
 
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2003, was revised August 3, 2012,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 </div1>
 
@@ -132,9 +139,11 @@ Mrs. Sarah Parker<lb/>
 
 <note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. </note>
 
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to persons abroad. The county and colony have been added for clarity to the  heading on the draft. Carter has added the complimentary close to the letter as is indicated by the italics.</note>
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to persons abroad. The county and colony have been added for clarity to the  heading on the draft. </note>
 
+<note id="n1"> [1] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (<cit><bibl><xref to="Ext6">"Dictionary of  Financial Scam Terms,"</xref> 8/22/2005</bibl></cit>)</note>
 
+<note id="n2">[2]  Carter sent a <xref to="/users/berkeley/public/C27f01a.xml">letter to Robert Cary</xref> by this Glasgow ship, Captain Smillie, on June 1, 1727. </note>
 
 
 </div1>
