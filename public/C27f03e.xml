@@ -10,7 +10,12 @@
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; 
+
+<!NOTATION html SYSTEM "htm">
+<!ENTITY Ext24 SYSTEM "http://www.yulefamily.com\/newsletters\/yule24.htm" NDATA htm>
+
+]>
 <TEI.2 id="C27f03e">
 
 
@@ -40,7 +45,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2003</date>
+     <date>2003, 2012</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -92,7 +97,7 @@
 <abbr>AL</abbr>
 <extent>1 p.</extent>
 <date value="1727-06-03"></date>
-<idno rend="suppress">C27.xml</idno>
+<idno rend="suppress">C27f03e.xml</idno>
 <title>Letter from Robert Carter to John Sterling and John Zuil, June 3, 1727
 </title>
 </bibl>
@@ -120,8 +125,8 @@ Messrs: John Sterling &amp; John Zuil<lb/>
 
 
 
-<p><note target="n2"><abbr expan="Captain">Capt:</abbr> Stephenson</note> acquainting me wth. <lb/>your partnership makes me address to you both my Freindship <lb/>is only with Mr. Zuil upon whose desire I now Send you 14 hhds <lb/>of <abbr expan="tobacco">Tobbo:</abbr> I will Say nothing in Commendation of it leaving it to <lb/>Speak for it Self only that the three hhds <sic corr="numbered">numbred</sic> with Letters <lb/>are Sweet Sented <abbr expan="tobacco">Tobbo:</abbr>
- and the whole Crop of a Small plantation <lb/>of mine a Bill of Lading for this <abbr expan="tobacco">Tobbo:</abbr> you have here <sic corr="enclosed">inclosd</sic> <lb/>I promised <abbr expan="Captain">Capt:</abbr> Stephenson 30 hhds: if he <sic corr="Stayed">Stayd</sic> long Enough <lb/>for my <sic corr="getting">geting</sic> it home and making it Shipable As he will tell you <lb/>but he hath bin so Expeditious in his business that I could not <lb/>be ready with any more for him and it was not worth his while <lb/>to wait my Time for the rest, If you please me in the Dispose of this <lb/>you will Entitle to your Selves to further business from </p>
+<p><note target="n2"><abbr expan="Captain">Capt:</abbr> Stephenson</note> acquainting me wth. <lb/>your partnership makes me address to you both my Freindship <lb/>is only with Mr. Zuil upon whose desire I now Send you 14 hhds <lb/>of <abbr expan="tobacco">Tobbo:</abbr> I will Say nothing in Commendation of it leaving it to <lb/>Speak for it Self only that the three hhds <sic corr="numbered">numbred</sic> with Letters <lb/>are <note target="n3">Sweet Sented </note><abbr expan="tobacco">Tobbo:</abbr>
+ and the whole Crop of a Small plantation <lb/>of mine a Bill of Lading for this <abbr expan="tobacco">Tobbo:</abbr> you have here <sic corr="enclosed">inclosd</sic> <lb/>I promised <abbr expan="Captain">Capt:</abbr> Stephenson 30 hhds: if he <sic corr="Stayed">Stayd</sic> long Enough <lb/>for my <sic corr="getting">geting</sic> it home and making it Shipable As he will tell you <lb/>but he <sic corr="has ">hath </sic> bin so Expeditious in his business that I could not <lb/>be ready with any more for him and it was not worth his while <lb/>to wait my Time for the rest, If you please me in the Dispose of this <lb/>you will Entitle to your Selves to further business from </p>
 
 <closer>Gentlemen <lb/>Yor: humble Servt:
 <seg type="postscript"><lb/><lb/>per <abbr expan="Captain">Capt:</abbr> Stephenson</seg></closer>
@@ -142,10 +147,15 @@ Messrs: John Sterling &amp; John Zuil<lb/>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] John Zuil probably was the ship's captain that Carter noted in his diary as having sailed 1722 August 1. This is the only letter to this new firm that is currently (6/4/2003) extant, and no other information about these men has been located.</note>
+<note id="n1">[1] John Zuil was a merchant and was probably the ship's captain that Carter mentioned in his diary August 1, 1722. "Zuil Saild Gave me a Bottle Snuff."  Carter recorded a diary note about him the following year as well: December 30, 1723,  "mr Zuil &amp; man came back" [from church]. In what British city Zuil lived is not clear, but it may have been Liverpool because city directories of 1767-1773 list a John Zuil as a merchant, first in
+Cable Street, and later, in King Street. This probably would have been a son of the man Carter knew, given the shorter lives at this period. (<cit><bibl><xref to="Ext24">"Yuil Family Newsletters,"</xref> Issue #24 Fall. 1998http://www.http://yulefamily.com/newsletters/yule24.htm, 11/6/2009.</bibl></cit>)</note><lb/>
 
-<note id="n2">[2] A Captain Stephenson was master of the <hi rend="italics">Content</hi> in 1721, but a ship of that name was commanded by Captain Morton in 1727.  (<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> pp. 92, 93, 102</bibl></cit>; and Carter to Pemberton, 1721 February 14, and 1727 June 28.)</note>
 
+<note id="n2">[2] The <hi rend="italics">Content</hi> was a Liverpool ship owned by John Pemberton and commanded by various masters including captains Stephenson (1721) , Fowler (1723), and Morton (1727). (<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> pp. 92, 93, 102</bibl></cit>; and Carter to Pemberton, <xref to="http://carter.lib.virginia.edu/html/C21b14d.html">February 14, 1721,</xref> and <xref to="http://carter.lib.virginia.edu/html/C27f28e.html">June 28, 1727.</xref> )</note>
+
+<note id="n3">[3]  There were two two major types of tobacco grown in Carter's day. Oronocco was "bulkier and coarser than sweetscented . . .  had a sharper leaf  'like a fox's ear,'" and was stronger in flavor "than sweetscented."  (<cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> Newport News, VA: Mariners' Museum, 1953.  p. 97</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2003, was revised October 2, 2012,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 

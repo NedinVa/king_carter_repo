@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2003</date>
+     <date>2003, 2012</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -94,7 +94,7 @@
 <title>Letter from Robert Carter to John Pemberton, June 3, 1727</title>
 </bibl>
 </head>
-<p>Robert Carter writes to Liverpool merchant John Pemberton, June 3, 1727, to advise the merchant of the arrival of his ship, the <hi rend="italics">Vine, </hi>and his attempts to get Captain Watkinson, "a very gruff old Gentleman," to take some tobacco left by another of Pemberton's ships. He has not heard of the arrival of Pemberton's slave ships which should have been sent earlier. Carter has drawn two bill of exchange on him payable to George Braxton for slaves that Carter was forced to buy because of many deaths among his slaves during the winter.</p>
+<p>Robert Carter writes to Liverpool merchant John Pemberton, June 3, 1727, to advise the merchant of the arrival of his ship, the <hi rend="italics">Vine, </hi>and his attempts to get Captain Watkinson, "a very gruff old Gentleman," to take some tobacco left by another of Pemberton's ships. He has not heard of the arrival of Pemberton's slave ships which should have done better had they arrived earlier. Carter has drawn two bill of exchange on him payable to George Braxton for slaves that Carter was forced to buy because of many deaths among his slaves during the winter.</p>
 </div1>                 
 </front>
 
@@ -106,9 +106,10 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+Mr. John Pemberton&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;
 <date value="1727-06-03">June 3d: 1727</date><lb/>
-Mr. John Pemberton<lb/>
+
 </dateline>
 <salute>Sir&mdash;</salute>
 
@@ -116,15 +117,15 @@ Mr. John Pemberton<lb/>
 
 
 
-<p><note target="n1">Watkinson</note> Arrived here the latter End of <lb/><sic corr="April">Aprill</sic> I have <sic corr="Prdered">Orderd</sic> him the <abbr expan="tobacco">Tobbo:</abbr> belonging to the <note target="n2"><name type="ship">John and <lb/>Betty</name></note> he refuses to take any more of it but what <sic corr="lies">lyes</sic> in <lb/>Corotoman I have promised him 30 hhds: of my own if he <lb/>does not leave me out A fortnight ago he writ me word he <lb/>had half his Load <del>my</del> in, I have <sic corr="pressed">presst</sic> him mightily to take <lb/>in all your <abbr expan="tobacco">Tobbo:</abbr> but he is a very gruff old Gentleman I <lb/>hear nothing yet of your two Negroes Ships It had bin Adv=<lb/>antageous to those <sic corr="Concerned">Concernd</sic> if they had bin here in the last <lb/>month.</p>
+<p><note target="n1">Watkinson</note> Arrived here the latter End of <lb/><sic corr="April">Aprill</sic> I have <sic corr="Prdered">Orderd</sic> him the <abbr expan="tobacco">Tobbo:</abbr> belonging to the <note target="n2"><name type="ship">John and <lb/>Betty</name></note> he refuses to take any more of it but what <sic corr="lies">lyes</sic> in <lb/>Corotoman I have promised him 30 hhds: of my own if he <lb/>does not leave me out A fortnight ago he <sic corr="wrote ">writ</sic> me word he <lb/>had half his Load <del>my</del> in, I have <sic corr="pressed">presst</sic> him mightily to take <lb/>in all your <abbr expan="tobacco">Tobbo:</abbr> but he is a very gruff old Gentleman I <lb/>hear nothing yet of your two Negroes Ships It had bin Adv=<lb/>antageous to those <sic corr="Concerned">Concernd</sic> if they had bin here in the last <lb/>month.</p>
 
 <p>The <sic corr="Chief">Cheif</sic> business of this is to advise you of bills <lb/>of Exchange I have drawn upon you this day for three hundred 
 
 <pb n="2"/><lb/><lb/>
-pounds payable to both <note n="MCB">George <sic corr="Braxton">Braxston</sic></note> a great many o<add resp="editor">[f]</add> <lb/>my Slaves have <sic corr="Died">Dyed</sic> this winter which hath Obliged me to <lb/>buy Early to Supply their rooms and Occasions this large <lb/>Draft upon you I bought near four Score in the middle of <lb/><sic corr="April">Aprill</sic> the Choice of the Ship three men to one woman at <lb/>Twenty pound per head it had bin a Satisfaction to me to <lb/>have laid out my money with you had either of your Ships <lb/>got it time Enough I hope <note target="n3"><abbr expan="Captain">Capt:</abbr> <sic corr="Morton">Moreton</sic></note> is safe with you <lb/>hear no news of him yet I Shall Conclude here </p>
+pounds payable to both <note n="MCB">George <sic corr="Braxton">Braxston</sic></note> a great many o<add resp="editor">[f]</add> <lb/>my Slaves have <sic corr="Died">Dyed</sic> this winter which <sic corr="has ">hath </sic> Obliged me to <lb/>buy Early to Supply their rooms and Occasions this large <lb/>Draft upon you I bought near four Score in the middle of <lb/><sic corr="April">Aprill</sic> the Choice of the Ship three men to one woman at <lb/>Twenty pound per head it had bin a Satisfaction to me to <lb/>have laid out my money with you had either of your Ships <lb/>got it time Enough I hope <note target="n3"><abbr expan="Captain">Capt:</abbr> <sic corr="Morton">Moreton</sic></note> is safe with you <lb/>hear no news of him yet I Shall Conclude here </p>
 
 <closer><hi rend="underline">Sir</hi> <lb/>Yor: very humble Servt:
-<seg type="postscript"><lb/><lb/>per the Dispatch <abbr expan="Captain">Capt</abbr> Barry</seg></closer>
+<seg type="postscript"><lb/><lb/>per the <note target="n4">Dispatch </note><abbr expan="Captain">Capt</abbr> Barry</seg></closer>
 
 
 </div1>
@@ -142,13 +143,15 @@ pounds payable to both <note n="MCB">George <sic corr="Braxton">Braxston</sic></
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] Watkinson was captain of the <hi rend="italics">Vine,</hi> a ship that may have been owned by Micajah Perry. (Carter to Pemberton, 1724 March 25)</note>
+<note id="n1">[1] Watkinson was captain of the <hi rend="italics">Vine,</hi> a ship that may have been owned by Micajah Perry. (<cit><bibl><xref to="http://carter.lib.virginia.edu/html/C24c25b.html">Carter to Pemberton,</xref> March 25, 1724.</bibl></cit>)</note>
 
-<note id="n2">[2] The <hi rend="italics">John &amp; Betty</hi> was a Liverpool ship owned by merchant John Pemberton. In 1726 the captain was John Gale, and in the next year, she was commanded by a Captain Denton. (<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> p. 18, n. 23.</bibl></cit>)</note>
+<note id="n2">[2] The <hi rend="italics">John &amp; Betty</hi> was a Liverpool ship owned by merchant John Pemberton; she often carried slaves into the colony. In 1726 the captain was John Gale, and in the next year, she was commanded by a Captain William Denton. The ship would be lost in 1729. (<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> p. 18, n. 23</bibl></cit>; <cit><bibl><xref to="http://carter.lib.virginia.edu/html/C30d15c.html">Carter to Pemberton,</xref> April 15, 1730;</bibl></cit> and <cit><bibl><xref to="http://carter.lib.virginia.edu/html/C27f28c.html">Carter to William Dawkins,</xref> June 28, July 26, and August 22, 1727, for Denton's first name.</bibl></cit>)</note>
 
-<note id="n3">[3] The <hi rend="italics">Content</hi> was a Liverpool ship owned by John Pemberton and commanded by various masters including captains Stephenson (1721) , Fowler (1723), and Morton (1727). (<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> pp. 92, 93, 102</bibl></cit>; and Carter to Pemberton, 1721 February 14, and 1727 June 28. )</note>
+<note id="n3">[3] The <hi rend="italics">Content</hi> was a Liverpool ship owned by John Pemberton and commanded by various masters including captains Stephenson (1721) , Fowler (1723), and Morton (1727). (<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> pp. 92, 93, 102</bibl></cit>; and Carter to Pemberton, <xref to="http://carter.lib.virginia.edu/html/C21b14d.html">February 14, 1721,</xref> and <xref to="http://carter.lib.virginia.edu/html/C27f28e.html">June 28, 1727.</xref> )</note>
 
+<note id="n4">[4] <cit><bibl>Elizabeth Donnan's <title><xref to="http://www.inmotionaame.org/texts/viewer.cfm;jsessionid=f830966901349083175778?id=1_017T&page=f1&bhcp=1">Documents Illustrative</xref> of the History of the Slave Trade to America. Volume II. The Eighteenth Century</title> (Washington, D.C.: Carnegie Institution of Washington, 1930, and a later edition: Buffalo, NY: William S. Hein &amp; Co., Inc., 2002)</bibl></cit> contains a good many references to a slave ship named the <hi rend="italics">Dispatch,</hi> a brigantine, owned in Bristol. and trading to Africa, the Caribbean, and the British colonies in North America. Her captain in 1727 was William Barry. " On October 7, 1725, a group of Bristol merchants, who then dominated the Biafra trade, directed Captain William Barry of the <title>Dispatch</title> to buy 240 'Choice slaves' from the obscure port of Andoni."  (<cit><bibl>G. Ugo Nwokeji. <title>The Slave Trade and Culture in the Bight of Biafra: An African Society. . . . </title> [London and New York:  Cambridge University Press, 2010. p. 145.)</bibl></cit>)</note><lb/>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2003, was revised September 28, 2012,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 
