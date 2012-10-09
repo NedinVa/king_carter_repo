@@ -1,7 +1,9 @@
 #
-# this script should be run from it's parent directory 
+# This script should be run from it's parent directory
 # which is the top directory of berkeley prj web site.
 #
+
+echo $1
 if [ -n "$1" -a -e "$1" ]
 then
  FILE=$(basename $1)
@@ -13,12 +15,13 @@ then
  echo "writing html/${BASE}.mod.html..."
  perl etcbin/browse-cartermod | etcbin/abs2relhref.pl | tr '\r' '\n' | tail -n +3 | etcbin/inl.sh >html/${BASE}.mod.html
 else
- echo "nothing?" 
+ echo "nothing?"
 fi
+
 #
-# 
+#
 # browse-carter & browser-cartermod are now the same file
 # browse-cartermod is a symbolic link to browse-carter.
 # The logic is the same except it then chains to either carter.pl or cartermod.pl,
-# depending on how it was invoked. 
+# depending on how it was invoked.
 #
