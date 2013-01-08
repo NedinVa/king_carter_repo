@@ -1,6 +1,5 @@
 #! /usr/bin/env bash
 
-# Get list of changed files.
 changed=$(svn diff -rPREV:HEAD --summarize)
 
 # Check for public/ revisions.
