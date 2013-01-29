@@ -10,7 +10,15 @@
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+
+<!NOTATION html SYSTEM "HTML">
+<!ENTITY Ext6 SYSTEM "http://www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm" NDATA html>
+
+<!NOTATION html SYSTEM "htm">
+<!ENTITY Ext24 SYSTEM "http://www.yulefamily.com\/newsletters\/yule24.htm" NDATA htm>
+
+ ]>
 <TEI.2 id="C27f27b">
 
 
@@ -40,7 +48,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2003</date>
+     <date>2003 2013</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -96,7 +104,7 @@
 </title>
 </bibl>
 </head>
-<p>Robert Carter writes to Glasgow merchant John Stark, June 27, 1727, concerning tobacco that he had shipped to Stark on the <hi rend="italics">Ann &amp; Elizabeth,</hi> a ship that went aground but whose cargo was saved. He reports a bill of exchange drawn on Stark, encloses a bill of lading (not present) for 34 hogsheads shipped on the <hi rend="italics">Lucia,</hi> and reminds Stark that he expects his tobacco to be sold promptly because he dislikes "Dribling lagg Sales." In a post script, he requests Stark find him several tradesmen. In a post script dated July 22, 1727, he reports others bills of exchange.</p>
+<p>Robert Carter writes to Glasgow merchant John Stark, June 27, 1727, concerning tobacco that he had shipped to Stark on the <hi rend="italics">Ann &amp; Elizabeth,</hi> a ship that went aground but whose cargo was saved. He reports a bill of exchange drawn on Stark, encloses a bill of lading (not present) for 34 hogsheads shipped on the <hi rend="italics">Lucia,</hi> and reminds Stark that he expects his tobacco to be sold promptly because he dislikes "Dribling lagg Sales." In a post script, he requests Stark find him several tradesmen. In a post script dated July 22, 1727, he reports others' bills of exchange.</p>
 </div1>                 
 </front>
 
@@ -127,14 +135,14 @@ Mr. John Stark<lb/>
 
 <p>	I intend to have Some particular goods from you <lb/>but have not Time now to write an Invoice Wishing you health <lb/>and prospertity I am </p>
 
-<closer>Sir&mdash;<lb/>Yor: very humble Servt:<seg type="postscript"><lb/><lb/>It may fall in your way to procure <lb/>for me the following Tradesmen. <lb/>A <sic corr="Gardener,">Gardner,</sic> a good <sic corr="Taylor,">Tayler,</sic> a Bricklayer <lb/>and a Barber Surgeon which if cannot meet with these Servants <lb/>at Glasgow I will have hope you may at Edinburgh or at least at <lb/>Dublin <sic corr="Although">Altho</sic> I have the worst Opinion of the Irish of any Country <lb/><lb/>per <note target="n6">Bowman</note><lb/>Copy per Dunlap<lb/><lb/>
+<closer>Sir&mdash;<lb/>Yor: very humble Servt:<seg type="postscript"><lb/><lb/>It may fall in your way to procure <lb/>for me the following Tradesmen. <lb/>A <sic corr="Gardener,">Gardner,</sic> a good <sic corr="Taylor,">Tayler,</sic> a Bricklayer <lb/>and a Barber Surgeon which if cannot meet with these Servants <lb/>at Glasgow I will have hope you may at Edinburgh or at least at <lb/>Dublin <sic corr="Although">Altho</sic> I have the worst Opinion of the Irish of any Country <lb/><lb/>per <note target="n4">Bowman</note><lb/>Copy per <note target="n6">Dunlap</note><lb/><lb/>
 
 </seg><seg type="postscript">Added to Mr. Starks last Letter by Bowman<lb/><lb/>
 Mr. John Stark<lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rappahannock, July 22d: 1727<lb/>
 Sir&mdash;<lb/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The above Entertains you with a repetition of <lb/>mine by <abbr expan="Captain">Capt:</abbr>Bowman I have little now to Say advise you of <abbr expan="another">anr.</abbr> <lb/>Bill Since drawn on you payable to Charles Burgess for &pound;6/--/-- <lb/>which desire your Acceptance of
 
-<lb/><lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Herein Send you three Small bills of <abbr expan="exchange">Exch.</abbr> to witt <lb/><abbr expan="Thomas">Thos:</abbr> Berry on John Zuil for &pound;9:19:5. <note target="n7">Henry Lee</note> on Neil <lb/>Buchannan for &pound;5"6"&mdash; <abbr expan="Alexander">Alexr:</abbr> Chrystils on <abbr expan="Charles">Chas:</abbr> Miller &amp; Company <lb/>for &pound;5"--"-- desire your receipt of this money for my Accot. or <lb/>returns of protest I have not lately heard how Nicholson goes for=<lb/>ward Shall give you no further at present I remain <lb/><lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir,<lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor: very humble Servt:<lb/><lb/>
+<lb/><lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Herein Send you three Small <note target="n7">bills of <abbr expan="exchange">Exch.</abbr></note> to <sic corr="wit">witt</sic> <lb/><abbr expan="Thomas">Thos:</abbr> Berry on <note target="n8">John Zuil</note> for &pound;9:19:5. <note target="n9">Henry Lee</note> on Neil <lb/>Buchannan for &pound;5"6"&mdash; <abbr expan="Alexander">Alexr:</abbr> Chrystils on <abbr expan="Charles">Chas:</abbr> Miller &amp; Company <lb/>for &pound;5"--"-- desire your receipt of this money for my Accot. or <lb/>returns of protest I have not lately heard how Nicholson goes for=<lb/>ward Shall give you no further at present I remain <lb/><lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir,<lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor: very humble Servt:<lb/><lb/>
 My Bill to <note n="MCB">Colonel Braxton</note> was <lb/>for &pound;300
 <lb/>per Dunlop</seg></closer>
 
@@ -156,24 +164,27 @@ My Bill to <note n="MCB">Colonel Braxton</note> was <lb/>for &pound;300
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. Rappahannock, the county, and colony have been added for clarity to this unheaded draft.</note>
 
-<note id="n1">[1] John Stark was a merchant, probably the one to whom Carter referred when he wrote to Micajah Perry on 1723 July 4 that he had drawn an order on "Mr. Stark of Glasgow." On that same day, he wrote to a John Stark, referring to Captain Bowman.</note>
+<note id="n1">[1] John Stark was a  prominent Glasgow merchant in the sugar trade. He served as as baillie and provost (mayor) from 1725-1727. (<cit><bibl>John M'ure. <title>The History of Glasgow.</title> [Glasgow: D. Macvean and J. Wyllie &amp; Co., 1830] pp. 227-228</bibl></cit> as seen on Google books; and <cit><bibl>"Provosts of Glasgow" at <xref to="http://www.glasgow.gov.uk/en/AboutGlasgow/LordProvostsmessage/Provosts+of+Glasgow.htm">"Welcome to Glasgow"</xref>.</bibl></cit>)</note>
 
-<note id="n2">[2] Carter had written Stark 1727 May 19, "I Sent you in a James River Ship the Ann &amp; Eliza. Mc:Clean Master 13 hhds: of Tobbo: 10 of my own and 3 of Mr. Burwells Estate. I hear the Ship was driven a Shoar in a Storm The Cargoe all Saved and the Ship like to be got of. of this I have yet no Accot: from you."</note>
+<note id="n2">[2] Carter had written Stark <xref to="http://carter.lib.virginia.edu/html/C27e19a.html">May 19, 1727</xref>, "I Sent you in a James River Ship the Ann &amp; Eliza. Mc:Clean Master 13 hhds: of Tobbo: 10 of my own and 3 of Mr. Burwells Estate. I hear the Ship was driven a Shoar in a Storm The Cargoe all Saved and the Ship like to be got of. of this I have yet no Accot: from you."</note>
 
-<note id="n3">[3] Captain Samuel Bowman commanded the <hi rend="italics">Lucia.</hi> Carter mentioned this vessel in his diary in June 1724, and again on 1726 March 4 when he wrote that she "came in had 20 Weeks Passage."</note>
+<note id="n3">[3] Captain Samuel Bowman commanded the <hi rend="italics">Lucia.</hi> Carter mentioned this vessel in his diary in June 1724, and again on March 4, 1726, when he wrote that she "came in had 20 Weeks Passage."</note>
 
-<note id="n4">[4] Quit rent was the term used for the payment due from the holder of land to the "lord of the manor," in this case, to the proprietors of the Northern Neck. Carter as the proprietor's agent collected these payments. No services were required of the landholder as had been true in mediaeval times.</note>
+<note id="n4">[4] Quit rent was the term used for "a (usually small) rent paid by a freeholder . . .  in lieu of services which might otherwise be required; a nominal rent paid (esp. in former British colonial territories to the Crown) as an acknowledgement of tenure," in this case, to the proprietors of the Northern Neck. Carter as the proprietor's agent, collected these payments. (<cit><bibl><title>Oxford English Dictionary Online </title></bibl></cit>)</note>
 
-<note id="n5">[5] James Read (Reid) is not referred to as "captain" which means he was an official or factor of John Stark's firm  who was empowered to do its business in Virginia. Carter had noted that Read was aboard the <hi rend="italics">Charles,</hi> a Glasgow ship that was owned by Stark, in a letter to Stark of 1723 September 4. </note>
+<note id="n5">[5] James Read (Reid) is not referred to as "captain" which means he was an official of John Stark's firm on a trading vessel who was empowered to do its business in Virginia. He was aboard the <hi rend="italics">Charles,</hi> a Glasgow ship that was owned by Stark. Carter specifically refers to "Your Ship"
+and "the Charles of Glasgow" in a <xref to="http://carter.lib.virginia.edu/html/C23i04a.html">letter to Stark</xref> of September 4, 1723. </note>
 
-<note id="n6">[6] Captain Samuel Bowman commanded the <hi rend="italics">Lucia.</hi> Carter mentioned this vessel in his diary in June 1724, and again on 1726 March 4 when he wrote that she "came in had 20 Weeks Passage."</note>
+<note id="n6">[6] The <hi rend="italics">Martha</hi>  was commanded by a Captain Dunlop and owned by Richard Oswald &amp; Company; see Carter to Richard Oswald &amp; Company <xref to="http://carter.lib.virginia.edu/html/C29h11a.html">August 11, 1729,</xref> and Carter to Oswald,  <xref to="http://carter.lib.virginia.edu/html/C31g27b.html">July 27,1731</xref>.</note>
 
-<note id="n7">[7] Henry Lee (1691-1747) was a son of Carter's old friend, Hancock Kee (1653-1709). He lived in Westmoreland County at "Lee Hall" and married Mary Bland. (<cit><bibl>Burton J. Hendrick. <title>The Lees of Virginia: Biography of a Family.</title> [Boston: Little Brown, 1935]. pp. 329-30.</bibl></cit>)</note>
+<note id="n7"> [7] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (<cit><bibl><xref to="Ext6">"Dictionary of  Financial Scam Terms,"</xref> 8/22/2005</bibl></cit>)</note>
 
+<note id="n8">[8] John Zuil was a merchant and was probably the ship's captain that Carter mentioned in his diary August 1, 1722, "Zuil Saild Gave me a Bottle Snuff."  Carter recorded a diary note about him the following year as well: December 30, 1723, "mr Zuil &amp; man came back" [from church]. In what British city Zuil lived is not clear, but it may have been Liverpool because city directories of 1767-1773 list a John Zuil as a merchant, first in
+Cable Street, and later, in King Street. This probably would have been a son of the man Carter knew, given the shorter lives at this period. (<cit><bibl><xref to="Ext24">"Yuil Family Newsletters,"</xref> Issue #24 Fall. 1998http://www.http://yulefamily.com/newsletters/yule24.htm, 11/6/2009.</bibl></cit>)</note><lb/>
 
+<note id="n9">[9] Henry Lee (1691-1747) was a son of Carter's old friend, Hancock Lee (1653-1709). He lived in Westmoreland County at "Lee Hall" and married Mary Bland. (<cit><bibl>Burton J. Hendrick. <title>The Lees of Virginia: Biography of a Family.</title> [Boston: Little Brown, 1935]. pp. 329-30.</bibl></cit>)</note>
 
-
-
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2003, was revised December 10, 2012,  to strengthen the footnotes and modern language version text.</hi></note>
 
 
 </div1>

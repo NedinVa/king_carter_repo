@@ -10,7 +10,12 @@
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+
+<!NOTATION html SYSTEM "HTML">
+<!ENTITY Ext6 SYSTEM "http://www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm" NDATA html>
+
+ ]>
 <TEI.2 id="C27f28a">
 
 
@@ -39,7 +44,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2003</date>
+     <date>2003, 2012</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -108,9 +113,8 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1727-06-28">June the. 28th: 1727</date><lb/>
-Mr. James Bradley<lb/>
+Mr. James Bradley&nbsp;&nbsp;&nbsp;&nbsp;Rappahannock [Lancaster County, Virginia] &nbsp;&nbsp;&nbsp;&nbsp;<date value="1727-06-28">June the. 28th: 1727</date><lb/>
+<lb/>
 </dateline>
 <salute><hi rend="underline">Sir</hi></salute>
 
@@ -118,10 +122,10 @@ Mr. James Bradley<lb/>
 
 <p>My last was of the 2d: Instant 20 <abbr expan="hogsheads">hhds</abbr> of my <lb/>Crop <abbr expan="tobacco">Tobbo:</abbr> are now <sic corr="gone">gon</sic> on board <note target="n2"><abbr expan="Captain">Capt:</abbr> Trice</note> whether he will want <lb/>any more from me or what I Shall have to Spare him dont yet <lb/>know report Says he will be a full Ship and be ready to Join the <lb/>next Fleet&mdash;</p>
 
-<p>The <sic corr="Chief">Cheif</sic> Occasion of this is to Send you three <lb/>bills of <abbr expan="exchange">Exche</abbr> two of them drawn upon your Self <note n="MP1">Colonel Pages </note><lb/>for One hundred pounds. <note target="n3">Colonel Tayloes </note>for &pound;5:&mdash;:&mdash; the other <abbr expan="Thomas">Thos:</abbr> <lb/>Massays on the Randolphs for &pound;6 which I desire my Accot. my <lb/>Accot: <add resp="editor"> [<hi rend="italics">sic</hi>]</add> may be Credited with. I am </p>
+<p>The <sic corr="Chief">Cheif</sic> Occasion of this is to Send you three <lb/><note target="n3">bills of <abbr expan="exchange">Exche</abbr></note> two of them drawn upon your Self <note n="MP1">Colonel Pages </note><lb/>for One hundred pounds. <note target="n4">Colonel Tayloes </note>for &pound;5:&mdash;:&mdash; the other <abbr expan="Thomas">Thos:</abbr> <lb/>Massays on the Randolphs for &pound;6 which I desire my Accot. my <lb/>Accot: <add resp="editor"> [<hi rend="italics">sic</hi>]</add> may be Credited with. I am </p>
 
 <closer>Sir <lb/>Yor: very humble Servt:
-<seg type="postscript"><lb/><lb/>per <note target="n4">Watkinson</note>
+<seg type="postscript"><lb/><lb/>per <note target="n5">Watkinson</note>
 <lb/><abbr expan="Captain">Capt:</abbr> per <abbr expan="Captain">Capt:</abbr> <add resp="editor"> [<hi rend="italics">sic</hi>]</add> Trice</seg><lb/><lb/>
 
 <seg type="postscript">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Added to his Letter the 28 June<lb/>
@@ -155,14 +159,17 @@ per the Carter
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
 
-<note id="n1">[1] James Bradley was a London merchant with whom Carter dealt from at least 1723 until his death. As noted in his letter to Bradley of 1727 May 17, Bradley owned the <hi rend="italics">Welcome,</hi> but little information about Bradley has been located.</note>
+<note id="n1">[1] James Bradley was a London merchant with whom Carter dealt from at least 1723 until his death. As noted in his letter to Bradley of <xref to="/users/berkeley/public/C27e17a.html">May 17, 1727,</xref> Bradley owned the <hi rend="italics">Welcome,</hi> but little information about Bradley has been located. There is a listing of the firm of Bradly &amp; Griffin, Merchants, Fenchurch-street, opposite the Mitre Tavern, on page 13 of <cit><bibl><title><xref to="freepages.history.rootsweb.com/~frpayments/KD1740/AB.htm">Kent's Directory </xref>For the Year 1740 Containing An Alphabetical List of the Names and Places of Abode of the Directors of Companies, Persons in Publick Business, Merchants, and other Eminent Traders in the Cities of London and Westminster, and the Borough of Southwark.</title>  [London: Printed and Sold by Henry Kent in Finch-Lane, near the Royal Exchange: and by the Booksellers and Pamphlets Shops of London and Westminster, 1740]. p. 39. Online, examined 8/12/2005 and 6/14/2012. </bibl></cit>)</note>
 
-<note id="n2">[2] The 140 ton <hi rend="italics">Welcome</hi> was owned by London merchant James Bradley to whom Carter would write about her on 1727 May 17. John Trice (Frice) was her captain, 1723-1727. (<cit><bibl>Adm 68/195, 154r, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n2">[2] The 140 ton <hi rend="italics">Welcome</hi> was owned by London merchant James Bradley to whom Carter  woite about her on <xref to="http://carter.lib.virginia.edu/html/C27e17a.html">May 17, 1727</xref>. John Trice (Frice) was her captain, 1723-1727. (<cit><bibl>Adm 68/195, 154r, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
-<note id="n3">[3] John Tayloe (1687-1747) of Mt. Airy, Richmond County, who served as justice, burgess, colonel of militia, and as a member of the Council after 1732. (<cit><bibl n="B31">Ryland. <title>Richmond County Virginia. . . . </title> pp. 115-16.</bibl></cit>)</note>
+ <note id="n3"> [3] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (<cit><bibl><xref to="Ext6">"Dictionary of  Financial Scam Terms,"</xref> 8/22/2005</bibl></cit>)</note>
 
-<note id="n4">[4] Watkinson was captain of the <hi rend="italics">Vine,</hi> a ship that may have been owned by Micajah Perry. (Carter to Pemberton, 1724 March 25)</note>
+<note id="n4">43] John Tayloe (1687-1747) of Mt. Airy, Richmond County, who served as justice, burgess, colonel of militia, and as a member of the Council after 1732. (<cit><bibl n="B31">Ryland. <title>Richmond County Virginia. . . . </title> pp. 115-16.</bibl></cit>)</note>
 
+<note id="54">[5] Watkinson was captain of the <hi rend="italics">Vine,</hi> a ship that may have been owned by Micajah Perry. (<xref to="http://carter.lib.virginia.edu/html/C24c25b.html">Carter to Pemberton</xref>, March 25, 1724.)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2003, was revised December 10, 2012,  to strengthen the footnotes and modern language version text.</hi></note>
 
 
 

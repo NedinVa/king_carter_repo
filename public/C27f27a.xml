@@ -40,7 +40,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2003</date>
+     <date>2003, 2013</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -109,9 +109,8 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place"><add resp="editor">[Rappahannock, Lancaster County, Virginia]</add></name><lb/>
+Mr. John Gale&nbsp;&nbsp;&nbsp;&nbsp;<name type="place"><add resp="editor">[Rappahannock, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;
 <date value="1727-06-27">June the 27th. 1727</date><lb/>
-Mr. John Gale<lb/>
 </dateline>
 <salute>Sir&mdash;</salute>
 
@@ -119,10 +118,10 @@ Mr. John Gale<lb/>
 
 
 
-<p>I do not find I have answered your <abbr expan="favour">favr:</abbr> of the <lb/>10th of November by <note target="n2"><abbr expan="Captain">Capt:</abbr> Kelsick</note> I am in no doubt of your <del>doing yor:</del><lb/>best Endeavour in the Dispose of my 12 hhds: by the <name type="ship">Crown</name> The goodness <lb/>of the <abbr expan="tobacco">Tobbo:</abbr> I am in hopes hath <sic corr="Carried">Carryed</sic> it of at the Top of your market <lb/>Yor: Countryman <note target="n3">Bowman</note> taking his leave of me this day I <sic corr="thought">thot</sic> <lb/>it proper to give you the trouble of this Line wishing you all Imagin<lb/>able prosperity I am </p>
+<p>I do not find I have answered your <abbr expan="favour">favr:</abbr> of the <lb/>10th of November by <note target="n2"><abbr expan="Captain">Capt:</abbr> Kelsick</note> I am in no doubt of your <del>doing yor:</del><lb/>best Endeavour in the Dispose of my 12 hhds: by the <name type="ship">Crown</name> The goodness <lb/>of the <abbr expan="tobacco">Tobbo:</abbr> I am in hopes <sic corr="hath">has</sic> <sic corr="Carried">Carryed</sic> it of at the Top of your market <lb/>Yor: Countryman <note target="n3">Bowman</note> taking his leave of me this day I <sic corr="thought">thot</sic> <lb/>it proper to give you the trouble of this Line wishing you all Imagin<lb/>able prosperity I am </p>
 
 <closer>Sir, Yor: most humble Servt:
-<seg type="postscript"><lb/><lb/>I am yet in want of a Gardner &amp;<lb/>Should be obliged to you if you can <lb/>procure one for me
+<seg type="postscript"><lb/><lb/>I am yet in want of a <sic corr="gardener">Gardner</sic> &amp;<lb/>Should be obliged to you if you can <lb/>procure one for me
 <lb/>per <abbr expan="Captain">Capt:</abbr> Bowman</seg></closer>
 
 
@@ -143,10 +142,11 @@ Mr. John Gale<lb/>
 
 <note id="n1">[1] John Gale was a Glasgow merchant about whom has little been discovered. Carter would write him several times in the period 1727-1729.</note>
 
-<note id="n2">[2] Richard Kelsick was captain of the <hi rend="italics">Mazareen</hi> as noted in Carter's diary entry for 1727 January 19.</note>
+<note id="n2">[2] Carter noted in his diary January 19,  1727, the arrival of the <hi  rend="italics">Mazareen</hi> at his house and a visit from her captain, Richard Kelsick, four days earlier.  Kelsick, with Peter How, a merchant of Whitehaven (on the Irish sea in northwest England), traded with the Fredericksburg, Virginia, area from the early 18th century.  (<cit><bibl>Paula S. Felder. "Fredericksburg and Whitehaven Connection to English Port a Forgotten Chapter in Area's Colonial History Living-history Program," <title>Fredericksburg Free-Lance Star, </title>7/2/2005.</bibl></cit>)</note>
 
 <note id="n3">[3] Captain Samuel Bowman commanded the <hi rend="italics">Lucia.</hi> Carter mentioned this vessel in his diary in June 1724, and again on 1726 March 4 when he wrote that she "came in had 20 Weeks Passage."</note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2003, was revised November 19, 2012,  to strengthen the footnotes and modern language version text.</hi></note>
 
 
 

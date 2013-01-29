@@ -34,12 +34,12 @@
 <publicationStmt>
      <publisher>University of Virginia Library.</publisher>
      <pubPlace>Charlottesville, Va.</pubPlace>
-     <idno type="ETC">C27f27b.xml</idno>
+     <idno type="ETC">C27f28b.xml</idno>
      <availability>
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2003</date>
+     <date>2003, 2018</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -117,7 +117,7 @@ Mr. Robert Cary<lb/>
 <p>The above is a Copy of what I <sic corr="wrote">writ</sic> to you by <lb/>the way of Glasgow I had <sic corr="written">writ</sic> to <note n="TE">Mr. Evans</note> for Some things for my <lb/>Self particularly for Some Garden Seeds that I might have them in <lb/>In Some Early Ship the last I had from him came so late they <lb/>were of little use to me I Suppose I am now to Expect nothing further 
 
 <pb n="2"/><lb/><lb/>
-from <note target="n1">Mr. Evans,</note> have therefore Sent a Copy of that Invoice for <lb/>Seeds to you herein desireing they may be carefully bought that <lb/>they are fresh and good and not old Seeds and Sent in in one of our <lb/>Early Ships I have not further trouble to give you at present only in <lb/>the favour of Conveying the Enclosed I am </p>
+from <note target="n1">Mr. Evans,</note> have therefore Sent a Copy of that Invoice for <lb/>Seeds to you herein <sic corr="desiring">desireing</sic> they may be carefully bought that <lb/>they are fresh and good and not old Seeds and Sent in in one of our <lb/>Early Ships I have not further trouble to give you at present only in <lb/>the favour of Conveying the Enclosed I am </p>
 
 <closer>Sir&mdash;<lb/>Yor: most humble Servt:
 <seg type="postscript"><lb/><lb/>per <note target="n2">Watkinson</note>
@@ -141,10 +141,11 @@ from <note target="n1">Mr. Evans,</note> have therefore Sent a Copy of that Invo
 
 <note id="n1">[1] Carter had recently learned that Evans's business had failed.</note>
 
-<note id="n2">[2] Watkinson was captain of the <hi rend="italics">Vine,</hi> a ship that may have been owned by Micajah Perry. (Carter to Pemberton, 1724 March 25)</note>
+<note id="n2">[2] Watkinson was captain of the <hi rend="italics">Vine,</hi> a ship that may have been owned by Micajah Perry. (<xref to="http://carter.lib.virginia.edu/html/C24c25b.html">Carter to Pemberton</xref>, March 25, 1724.)</note>
 
-<note id="n3">[3] George Buckeridge (Buckbridge) commanded the <hi rend="italics">Marlborough,</hi> a vessel of 100 tons and 14 men. (<cit><bibl>Admiralty 68/195, abstracted in Survey Report 6801, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n3">[3] The <hi rend="italics">Marlborough</hi> was a vessel of 100 tons and 14 men, commanded by George Buckeridge (Buckbridge). In a letter to London merchant John Falconar<xref to="http://carter.lib.virginia.edu/html/C27g24d.html"> July 24,  1727,</xref> Carter refers to this vessel as "yor. Marlborrough." (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2003, was revised January 2, 2013,  to strengthen the footnotes and modern language version text.</hi></note>
 
 
 

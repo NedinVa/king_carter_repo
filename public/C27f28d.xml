@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2003</date>
+     <date>2003, 2013</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -94,7 +94,7 @@
 <title>Letter from Robert Carter to Peter Leheup, June 28, 1727</title>
 </bibl>
 </head>
-<p>Robert Carter writes to Peter Leheup, the colony's agent in England, June 28, 1727, to inform him that it appears that the copies of the minutes of the Council and the other "publick paprs:" will not reach him in time to be sent by the current fleet. He is sending a copy of the Council's resolution establishing the embargo in case there is discussion of it at home.</p>
+<p>Robert Carter writes to Peter Leheup, the colony's agent in England, June 28, 1727, to inform him that it appears that the copies of the minutes of the Council and the other "publick paprs:" will not reach Carter in time to be sent by the current fleet. He is sending a copy of the Council's resolution establishing the embargo in case there is discussion of it at home.</p>
 </div1>                 
 </front>
 
@@ -106,9 +106,9 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+Peter Leheup Esqr.&nbsp;&nbsp;&nbsp;&nbsp;<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;
 <date value="1727-06-28">June the. 28th: 1727</date><lb/>
-Peter Leheup Esqr.<lb/>
+
 </dateline>
 <salute>Sir&mdash;</salute>
 
@@ -139,10 +139,11 @@ Peter Leheup Esqr.<lb/>
 
 <note id="n2">[2] Captain Vincent Pearse was the commander of the <hi rend="italics">Tartar,</hi> the British warship on station in the colony. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:136. </bibl></cit>)</note>
 
-<note id="n3">[3] Watkinson was captain of the <hi rend="italics">Vine,</hi> a ship that may have been owned by Micajah Perry. (Carter to Pemberton, 1724 March 25)</note>
+<note id="n3">[3] Watkinson was captain of the <hi rend="italics">Vine,</hi> a ship that may have been owned by Micajah Perry. (<xref to="http://carter.lib.virginia.edu/html/C24c25b.html">Carter to Pemberton</xref>, March 25, 1724.)</note>
 
 <note id="n4">[4] The <hi rend="italics">Marlborough</hi> was a vessel of 100 tons and 14 men, commanded by George Buckeridge (Buckbridge). (<cit><bibl>Admiralty 68/195, abstracted in Survey Report 6801, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2003, was revised January 9, 2013..</hi></note>
 
 
 

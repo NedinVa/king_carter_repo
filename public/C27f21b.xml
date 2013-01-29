@@ -10,7 +10,12 @@
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+
+<!NOTATION php SYSTEM "php">
+<!ENTITY Ext4 SYSTEM "http://www.stratfordhall.org\/learn\/lees\/thomaslee.php" NDATA php>
+
+ ]>
 <TEI.2 id="C27f21b">
 
 
@@ -39,7 +44,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2003</date>
+     <date>2003, 2012</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -94,7 +99,7 @@
 <title>Letter from Robert Carter to William Robertson, June 21, 1727</title>
 </bibl>
 </head>
-<p>Robert Carter writes to William Robertson, June 21, 1727, clerk of the Council, giving him information about the plan for the convoying of the merchant ships in the colony as they sail for Britain, and requesting that he be sent all the public papers so that he can see that they are sent off with the fleet. He is especially concerned that the "Order for the Embargo Should go."</p>
+<p>Robert Carter writes to William Robertson,  clerk of the Council, June 21, 1727, giving him information about the plan for the convoying of the merchant ships in the colony as they sail for Britain, and requesting that he be sent all the public papers so that he can see that they are sent off with the fleet. He is especially concerned that the "Order for the Embargo Should go."</p>
 </div1>                 
 </front>
 
@@ -106,9 +111,10 @@
 <opener>
 <dateline>
 <pb n="1"/>
+
 <name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
-<date value="1727-06-21">June the 21st: 1727</date><lb/>
-Mr. Wm. Robertson<lb/>
+Mr. Wm. Robertson&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<date value="1727-06-21">June the 21st: 1727</date><lb/>
+<lb/>
 </dateline>
 <salute><hi rend="underline">Sir</hi></salute>
 
@@ -116,11 +122,11 @@ Mr. Wm. Robertson<lb/>
 
 <p>I suppose <sic corr="before">er'e</sic> now you know what Effects my <lb/>last Letter had upon <note target="n1"><abbr expan="Captain">Capt:</abbr> Pearse</note> he Consents to make up the <lb/>Fleet at <note target="n2">Kiccotan</note> and Sets the 30th: for the Day of his Sailing and <lb/>will if possible have his Ship in a Condition to <sic corr="Join">Joyn</sic> the <sic corr="Later">latter</sic> <lb/>Fleet the 25th: of July,</p>
 
-<p>I have not much to Say to you now only an out <lb/>of the way Complaint from Maryland forcing me to Send <lb/>the <note target="n3">Complainer</note> to <note target="n4">Town</note> to the <note n="JR"><sic corr="Attorney">Atturney</sic> General</note> to have his dir<lb/>ections in <sic corr="Taking">takeing</sic> out the proper process I would not Slip the <lb/>Opportunity of Sending this Line <del>to you</del>. You must by all <lb/>means Send me all the <sic corr="public">publick</sic> Letters and papers time Enough <lb/><del>for me to Send them away by </del><add place="supralinear">that they may not fall Short of</add> this Fleet. Notice is Sent away <lb/>by Express to our Ships that they may hasten in their <sic corr="getting">geting</sic> down <lb/>am told there are Several near being ready <add place="supralinear"><note target="n5">Colonel Lees</note> <del>Express</del> <add place="supralinear">packet</add> is also got</add> got home last night <lb/>at Eleven aClock. Two Vessells before my Door had Just <sic corr="Cleared">Cleard</sic> out <lb/><note n="RC2">My Son</note> made a shift to get them under <note target="n6">Embargo Bonds</note> this <lb/>morning so that thus far things run Smooth,</p>
+<p>I have not much to Say to you now only an out <lb/>of the way Complaint from Maryland forcing me to Send <lb/>the <note target="n3">Complainer</note> to <note target="n4">Town</note> to the <note n="JR"><sic corr="Attorney">Atturney</sic> General</note> to have his dir<lb/>ections in <sic corr="Taking">takeing</sic> out the proper process I would not Slip the <lb/>Opportunity of Sending this Line <del>to you</del>. You must by all <lb/>means Send me all the <sic corr="public">publick</sic> Letters and papers time Enough <lb/><del>for me to Send them away by </del><add place="supralinear">that they may not fall Short of</add> this Fleet. Notice is Sent away <lb/>by Express to our Ships that they may hasten in their <sic corr="getting">geting</sic> down <lb/>am told there are Several near being ready <add place="supralinear"><note target="n5">Colonel Lees</note> <del>Express</del> <add place="supralinear">packet</add> is also got</add> got home last night <lb/>at Eleven <sic corr="o'clock">aClock</sic>. Two <sic corr="Vessels">Vessells</sic> before my Door had Just <sic corr="Cleared">Cleard</sic> out <lb/><note n="RC2">My Son</note> made a shift to get them under <note target="n6">Embargo Bonds</note> this <lb/>morning so that thus far things run Smooth,</p>
 
 <p>I heard of a Ship came into York Yesterday and <lb/>her Guns <sic corr="reached">reachd</sic> me but I could not Stay to hear her news&mdash;<lb/>All the <sic corr="minutes">minuits</sic> of the last  <add place="supralinear">Council</add> Journal cant be Sent away for want <lb/>of reading but it is Absolutely necessary the Order for the Embargo Should <lb/>go and and pray let it not be Omitted</p>
 
-<p>I am not at all well after my Journey and yet a flood <lb/>of business will not Suffer me to Indulge a Poor <sic corr="Shattered">Shatterd</sic> Contitution </p>
+<p>I am not at all well after my Journey and yet a flood <lb/>of business will not Suffer me to Indulge a Poor <sic corr="Shattered">Shatterd</sic> Constitution </p>
 
 <closer>I am &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor: most humble Servt:</closer>
 
@@ -139,21 +145,21 @@ Mr. Wm. Robertson<lb/>
 <note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. There is a nineteenth-century copy of this letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia. The unknown copyist recorded this text probably from the letter book which is used here as the copy text. 
 </note>
 
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
+<note>"Corotoman," the name of Carter's home, the count,y and colony have been added for clarity to the  unheaded draft.</note>
 
 <note id="n1">[1] Captain Vincent Pearse was the commander of the <hi rend="italics">Tartar,</hi> the British warship on station in the colony. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:136. </bibl></cit>)</note>
 
 <note id="n2">[2] Kecoughtan was the old name for the area later known as Elizabeth City; it is where the city of Hampton lies today. </note>
 
-<note id="n3">[3] The "Complainer" was Richard Thacker. See Carter's letter to Attorney General John Randolph of this same date.</note>
+<note id="n3">[3] The "Complainer" was Richard Thacker. See <xref to="http://carter.lib.virginia.edu/html/C27f21a.html">Carter's letter</xref> to Attorney General John Randolph of this same date.</note>
 
 <note id="n4">[4] Williamsburg</note>
 
-<note id="n5">[5] Thomas Lee (1690-1750) was the son of Richard Lee II, and nephew of Edmund Jenings; he would build "Stratford," and succeed Carter on the Council. (<cit><bibl>Burton J. Hendrick. <title>The Lees of Virginia: Biography of a Family.</title> [Boston: Little Brown, 1935]. pp. 48, 51, etc.</bibl></cit> See Carter's diary entry for this date for the identification of "Colonel Lee" as Thomas Lee.)</note>
+<note id="n5">[5]  Thomas Lee (1690-1750) of Westmoreland County was the son of Richard Lee II, and nephew of <note n="EJ">Edmund Jenings</note>; he would build "Stratford," and succeed Carter on the Council. For a good article on Thomas Lee, see  that<xref to="http://www.stratfordhall.org/thomas.html?RESEARCH"> by Jeanne A. Calhoun</xref> on Stratford plantation's website. (<cit><bibl>Burton J. Hendrick. <title>The Lees of Virginia: Biography of a Family.</title> [Boston: Little Brown, 1935]. pp. 48, 51, etc.</bibl></cit>)</note>
 
-<note id="n6">[6] Robert Carter II was the naval officer for Carter's home district. The Council at its meeting 1727 June 14 had established an embargo that prohibited ships leaving the colony unless they were in a convoy. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:138. </bibl></cit>)</note>
+<note id="n6">[6] Robert Carter II was the naval officer for Carter's home district. The Council at its meeting  June 14, 1727, had established an embargo that prohibited ships leaving the colony unless they sailed in a convoy. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:138. </bibl></cit>)</note>
 
-
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2003, was revised November 7, 2012,2.</hi></note>
 
 
 
