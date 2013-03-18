@@ -40,7 +40,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2003</date>
+     <date>2003, 2013</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -109,9 +109,9 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+Messrs: Hayward Miles &amp; Rider&nbsp;&nbsp;&nbsp;&nbsp;<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;
 <date value="1727-06-29">June the. 29th: 1727.</date><lb/>
-Messrs: Hayward Miles &amp; Rider<lb/>
+
 </dateline>
 <salute>Gent&mdash;</salute>
 
@@ -119,9 +119,9 @@ Messrs: Hayward Miles &amp; Rider<lb/>
 
 
 
-<p>The last wine I rec'd from you was by <note target="n1"><abbr expan="Captain">Capt.</abbr> <lb/>Woodward</note> in the <name type="ship">Providence</name> the wine I have had from time to time <lb/>from you Gentlemen hath hitherto proved very good I desire you will <lb/>please to Send me now two pipes of your best old wine pray let the Cask <lb/>have three Iron hoops on Each head. The Bearer <abbr expan="Captain">Capt:</abbr> <abbr expan="William">Wm:</abbr> Whiteside <lb/>in the Brigantine <name type="ship">Lucy</name> will taken it in for me please to draw yor. <lb/>Exchange for it on Mr. <note n="MP2"><abbr expan="Micajah">Micajh:</abbr> Perry</note> <abbr expan="Merchant">Mercht.</abbr> of London who I will take <lb/>care Shall answer the Money to your Order </p>
+<p>The last wine I rec'd from you was by <note target="n1"><abbr expan="Captain">Capt.</abbr> <lb/>Woodward</note> in the <name type="ship">Providence</name> the wine I have had from time to time <lb/>from you Gentlemen <sic corr="has">hath</sic> hitherto proved very good I desire you will <lb/>please to Send me now two pipes of your best old wine pray let the Cask <lb/>have three Iron hoops on Each head. The Bearer <abbr expan="Captain">Capt:</abbr> <abbr expan="William">Wm:</abbr> Whiteside <lb/>in the Brigantine <name type="ship">Lucy</name> will taken it in for me please to draw yor. <lb/>Exchange for it on Mr. <note n="MP2"><abbr expan="Micajah">Micajh:</abbr> Perry</note> <abbr expan="Merchant">Mercht.</abbr> of London who I will take <lb/>care Shall answer the Money to your Order </p>
 
-<closer>Gent&mdash;<lb/>Yor: most humble Servt:<seg type="postscript"><lb/><lb/>Per <abbr expan="Captain">Capt:</abbr> Whiteside <sic corr="Madeira">Medera</sic></seg></closer>
+<closer>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gent&mdash;<lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor: most humble Servt:<seg type="postscript"><lb/><lb/>Per <abbr expan="Captain">Capt:</abbr> Whiteside <sic corr="Madeira">Medera</sic></seg></closer>
 
 
 </div1>
@@ -139,8 +139,9 @@ Messrs: Hayward Miles &amp; Rider<lb/>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] Thomas Woodward commanded the <hi rend="italics">Providence,</hi> a ship owned by Captain John Hyde &amp; Company, during a number of voyages to the colony, 1723-1727. (<cit><bibl>Adm. 68/194 and 195, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia,</bibl></cit> and Carter's letter to the firm, 1723 September 17.)</note>
+<note id="n1">[1] William Whiteside commanded the <hi rend="italics">Lucy</hi> in 1727; she was a brigantine, and apparently called at Madeira, as Carter ordered wine from merchants there by her. (See <cit><bibl>Carter to Heyward, Miles &amp; Rider, <xref to="/users/berkeley/public/C27f29b.xml">June 29, 1727</xref></bibl></cit>; and <cit><bibl>Huw V. Bowen, Margarette Lincoln, Nigel Rigby, <hi rend="italics">eds.</hi>  <title>The Worlds of the East India Company.</title>  [reprint, Boydell &amp; Brewer, 2002], 156.</bibl></cit>.)</note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2003, was revised March 13, 2013,  to strengthen the footnotes and modern language version text.</hi></note>
 
 
 

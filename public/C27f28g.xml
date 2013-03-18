@@ -10,7 +10,12 @@
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+
+<!NOTATION html SYSTEM "HTML">
+<!ENTITY Ext6 SYSTEM "http://www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm" NDATA html>
+
+ ]>
 <TEI.2 id="C27f28g">
 
 
@@ -39,7 +44,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2003</date>
+     <date>2003, 2013</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,35 +111,36 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1727-06-28">June the. 28th: 1727</date><lb/>
-Mr. Edward Tucker<lb/>
+Mr. Edward Tucker&nbsp;&nbsp;&nbsp;&nbsp;<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1727-06-28">June the. 28th: 1727</date>
 </dateline>
 <salute>Sir&mdash;</salute>
 
 </opener>
 
-<p>Your <note target="n1"><name type="ship">Portland</name></note> is <sic corr="gone">gon</sic> to York to fill up I have <lb/>Six <abbr expan="hogsheads">hhds</abbr> of my Crop <abbr expan="tobacco">Tobbo:</abbr> on board her which Sent you a bill of Lading <lb/>had Russell bin at liberty to <add place="supralinear">have</add> Sent a Sloop for this <abbr expan="tobacco">Tobbo:</abbr>
- he might have <lb/>got <sic corr="ready">redy</sic> for this Fleet I must desire you to Send me in the next year <lb/>in one of your Ships a hogshead of your fine Dorchester Ale well and <lb/>Carefully bottled <sic corr="off">of</sic> and under very good Package Your Master <lb/><note target="n2">Britt</note> will tell you how I was abused in the last. The Southam Cyder <lb/>the Portland brought me I doubt will never be fine it is not yet 
+<p>Your <note target="n1"><name type="ship">Portland</name></note> is <sic corr="gone">gon</sic> to York to fill up I have <lb/>Six <abbr expan="hogsheads">hhds</abbr> of my Crop <abbr expan="tobacco">Tobbo:</abbr> on board her which Sent you a bill of Lading <lb/>had Russell bin at liberty to <add place="supralinear">have</add> Sent a Sloop for this <abbr expan="tobacco">Tobbo:</abbr>  he might have <lb/>got <sic corr="ready">redy</sic> for this Fleet I must desire you to Send me in the next year <lb/>in one of your Ships a hogshead of your fine Dorchester Ale well and <lb/>Carefully bottled <sic corr="off">of</sic> and under very good Package Your Master <lb/><note target="n2">Britt</note> will tell you how I was abused in the last. The Southam Cyder <lb/>the Portland brought me I doubt will never be fine it is not yet 
 
 <pb n="2"/><lb/><lb/>
 Bottled If you can Send me a hogshead of it in bottles that is right good <lb/>Such as I had two Years ago, it would <add resp="editor">[be]</add> Acceptable but in Cask I will <lb/>have no more I am with a great deal of Sincerity </p>
 
 <closer>Sir<lb/>Yor: very humble Servt:
-<seg type="postscript"><lb/><lb/>herein is a bill of Exchange upon <lb/>you drawn by <note target="n3">Hugh Brent</note> <lb/>for &pound;23:-: which I desire Credit for
-<lb/><lb/>per <note target="n4">Watkinson</note>
-<lb/>Copy per <note target="n5">Trice</note></seg>
+<seg type="postscript"><lb/><lb/>herein is a <note target="n3">bill of Exchange</note> upon <lb/>you drawn by <note target="n4">Hugh Brent</note> <lb/>for &pound;23:-: which I desire Credit for
+<lb/><lb/>per <note target="n5">Watkinson</note>
+<lb/>Copy per <note target="n6">Trice</note></seg>
 
-<seg type="postscript"><pb n="3"/><lb/><lb/>Mr. Edward Tucker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Added to his Letter the 28 June
-Rappahannock July 25th: 1727<lb/>
+<seg type="postscript"><pb n="3"/><lb/><lb/>Mr. Edward Tucker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Added to his Letter the 28 June&nbsp;&nbsp;Rappahannock July 25th: 1727<lb/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir&mdash;<lb/>	 
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You have already bin advised of a bill I drew <lb/>on <add resp="editor">[you]</add> to  <note n="MCB"><abbr expan="George">Geo:</abbr> Braxton</note> for &pound;200 I now Send you <add place="supralinear">some</add> Second <add place="supralinear">bills</add> <del>Hugh Brents bills</del><lb/>Likewise some first bills <add place="supralinear">on your Self</add> to witt, Henry Ashtons for &pound;4"12"- Peter <lb/>Hack for &pound;3"-"- <abbr expan="Thomas">Thos:</abbr> Berry for &pound;23"11"10 amounting to Thirty <lb/>one pounds three and Ten pence.<lb/><lb/>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Find your Dorchester ale is so pleasing to the company <lb/>I am forced to give Entertainmt <sic corr="to">too</sic> that Instead of one <abbr expan="hogshead">hhd</abbr> of it I desire 
+
+<p>You have already bin advised of a bill I drew<lb/> on <add resp="editor">[you]</add> to  <note n="MCB"><abbr expan="George">Geo:</abbr> Braxton</note> for &pound;200 <add place="supralinear">I</add> now Send you <add place="supralinear">some</add> Second <add place="supralinear">bills</add> <del>Hugh Brents bills</del><lb/>Likewise some first bills <add place="supralinear">on your Self</add> to <sic corr="wit,">witt,</sic> <note target="n7">Henry Ashtons</note> for &pound;4"12"- <note target="n8">Peter <lb/>Hack</note> for &pound;3"-"- <note target="n9"><abbr expan="Thomas">Thos:</abbr> Berry</note> for &pound;23"11"10 amounting to Thirty <lb/>one pounds three and Ten pence.</p>
+
+<p><corr resp="editor">]I]</corr> Find your Dorchester ale is so pleasing to the company <lb/>I am forced to give Entertainmt <sic corr="to">too</sic> that Instead of one <abbr expan="hogshead">hhd</abbr> of it I desire 
 
 <pb n="4"/><lb/><lb/>
-you to Send me in four hogsheads well and Carefully bottled <sic corr="off">of</sic> and Safely <lb/><sic corr="packed">packt</sic> up I have already given you an Accot: of the large loss I <sic corr="sustained">sustaind</sic> <lb/>by Breets man in the hogshead you Sent not less <sic corr="than">then</sic> four <abbr expan="dozen">doz:</abbr> and four bottles <lb/>came Short to me I would also desire you to Send me in three hogsheads of yor. <lb/>best Malt,<lb/><lb/>
+you to Send me in four hogsheads well and Carefully bottled <sic corr="off">of</sic> and Safely <lb/><sic corr="packed">packt</sic> up I have already given you an Accot: of the large loss I <sic corr="Sustained">Sustaind</sic> <lb/>by <note target="n10">Bretts men</note> in the hogshead you Sent not less <sic corr="than">then</sic> four <abbr expan="dozen">doz:</abbr> and four bottles <lb/>came Short to me I would also desire you to Send me in three hogsheads of yor. <lb/>best Malt,
+</p>
 
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sic corr="We">Wee</sic> have now news from Several parts that the Seige of <lb/>Gibralter is raised and the latest from new York tells us the Differences <lb/>between the Contending powers <del>is</del> <add place="supralinear">are</add> to be <del>Ended</del> <add place="supralinear">Settled</add> in a Congress I am <lb/>per Trice&mdash;<lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir&mdash;<lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor: very humble Servt.&mdash;<lb/>
+<p><sic corr="We">Wee</sic> have now news from Several parts that the <note target="n11">Seige of <lb/><sic corr="Gibraltar">Gibralter</sic></note> is raised and the latest from new York tells us the Differences <lb/>between the Contending powers <del>is</del> <add place="supralinear">are</add> to be <del>Ended</del> <add place="supralinear">Settled</add> in a Congress I am </p>
+
+per Trice&mdash;<lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir&mdash;<lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor: very humble Servt.&mdash;<lb/>
 </seg>
 
 </closer>
@@ -159,15 +165,26 @@ you to Send me in four hogsheads well and Carefully bottled <sic corr="off">of</
 
 <note id="n2">[2] John Brett (Britt) was master of Weymouth merchant Edward Tucker's ship, the <hi rend="italics">Princess Amelia,</hi> which had been commanded by a Captain Lawrence until he was drowned. (Survey Report 9729 detailing the Weymouth Port Books, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.)</note>
 
-<note id="n3">[3] Hugh Brent was a resident of Christ Church parish in the 1716 survey of tithables of Lancaster County, and he would be sheriff in 1734. (<cit><bibl>"Tithables in Lancaster Co., 1716." <title>William and Mary Quarterly</title> 1st. ser., 21[July 1912]: 106-11,</bibl></cit> and <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:319. </bibl></cit>)</note>
+<note id="3n"> [3] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (<cit><bibl><xref to="Ext6">"Dictionary of  Financial Scam Terms,"</xref> 8/22/2005</bibl></cit>)</note>
 
-<note id="n4">[4] Watkinson was captain of the <hi rend="italics">Vine,</hi> a ship that may have been owned by Micajah Perry. (Carter to Pemberton, 1724 March 25)</note>
+<note id="n4">[4] Hugh Brent was a resident of Christ Church parish in the 1716 survey of tithables of Lancaster County, and he would be sheriff in 1734. (<cit><bibl>"Tithables in Lancaster Co., 1716." <title>William and Mary Quarterly</title> 1st. ser., 21[July 1912]: 106-11,</bibl></cit> and <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:319. </bibl></cit>)</note>
 
-<note id="n5">[5] The 140 ton <hi rend="italics">Welcome</hi> was owned by London merchant James Bradley to whom Carter would write about her on 1727 May 17. John Trice (Frice) was her captain, 1723-1727. (<cit><bibl>Adm 68/195, 154r, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n5">[5] Watkinson was captain of the <hi rend="italics">Vine,</hi> a ship that may have been owned by Micajah Perry. (<xref to="http://carter.lib.virginia.edu/html/C24c25b.html">Carter to Pemberton</xref>, March 25, 1724.)</note>
 
+<note id="n6">[6] The 140 ton <hi rend="italics">Welcome</hi> was owned by London merchant James Bradley to whom Carter would write about her on <xref to="http://carter.lib.virginia.edu/html/C27e17a.html">May 17, 1727</xref>. John Trice (Frice) was her captain, 1723-1727. (<cit><bibl>Adm 68/195, 154r, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
+<note id="n7">[7] Henry Ashton (1670-1731) was a prominent citizen of Westmoreland County where he was burgess, justice, and sheriff. (<cit><bibl n="B38">Norris. <title>Westmoreland County, Virginia.</title> p. 107;</bibl></cit> and <cit><bibl>David W. Eaton. <title>Historical Atlas of Westmoreland County
+Virginia.</title> Richmond: Dietz Press, 1942, in an undated reprint. p. 43.</bibl></cit>)</note>
 
+<note id="n8">[8] A Peter Hack (1695-) would be appointed tobacco insector "at Andersons" in 1738. (Online citation at <cit><bibl>O.A. Keach. "The Hack Family." <title>Genealogies of Virginia Families: From Tyler's Quarterly ...,</title> Volume 1. Reprinted by Genealogical Publishing Company   , 153; </bibl></cit> and <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]: 414. </bibl></cit> )</note>
 
+<note id="n9"> [9] Thomas Berry (1683-1743) of Northumberland Cunty would be tobacco inspector at Wicomocco in 1731 and 1732. An abstract of his 1743 will is online through the <xref to="http://files.usgwarchives.net/va/northumberland/wills/berry01.txt">USGenWeb Project</xref>.  (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:238, 286. </bibl></cit>)</note>
+
+<note id="n10">[10] John Brett was master of Weymouth merchant Edward Tucker's ship, the <hi rend="italics">Princess Amelia,</hi> which had been commanded by a Captain Lawrence until he was drowned in 1725. <cit><bibl>(Survey Report 9729 detailing the Weymouth Port Books, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n10">10[] In early 1727, Britain was allied with France and Prussia against Spain and Austria, and the Spanish had laid siege to Gibraltar; it was not successful. The conflict would end in 1729 with the treaty of Seville by which Britain obtained Gibraltar.(<cit><bibl>J. H. Plumb. <title>England in the Eighteenth Century (1714-1815).</title> [Hammersmith, Middlesex: Penguin Books, 1953] pp. 64-65.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2003, was revised February 21, 2013,  to strengthen the footnotes and modern language version text.</hi></note>
 
 
 </div1>
