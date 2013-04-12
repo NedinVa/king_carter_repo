@@ -10,7 +10,12 @@
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; 
+
+<!NOTATION html SYSTEM "HTML">
+<!ENTITY Ext6 SYSTEM "http://www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm" NDATA html>
+
+]>
 <TEI.2 id="C27g03a">
 
 
@@ -39,7 +44,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2003</date>
+     <date>2003, 2013</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -88,7 +93,7 @@
 <head>
 <bibl>
 <abbr>AL</abbr>
-<extent> p.</extent>
+<extent>2 p.</extent>
 <date value="1727-07-03"></date>
 <idno rend="suppress">C27g03a.xml</idno>
 <title>Letter from Robert Carter to Mann Page, July 3 and 15, 1727</title>
@@ -106,23 +111,23 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
-<date value="1727-07-03">July the. 3d: 1727</date><lb/>
+<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1727-07-03">July the. 3d: 1727</date><lb/>
 </dateline>
 
 </opener>
 
 
 <p><hi rend="italics">Colonel Page<lb/>Hon:ble Sir&mdash;</hi></p><lb/><lb/>
-<p>Finding how unlikely it was for both of us to meet <lb/>together with <note n="ECB">Dr. Nicholas</note> about the Accot. of the profits of <note n="NB">Mr. Burwells</note> <lb/>Estate for the Years 1722 and 1723 I have Set about it with the Assistance <lb/>of <note target="n1">Mr. Edwards</note> and have brought it to a <sic corr="narrow">narro</sic> Compass <sic corr="In">Inn</sic> which I <lb/>hope we have Committed but few Errors Some of the particular Articles <lb/>remain unadjusted which you can most properly give light <sic corr="to,">too,</sic> The <lb/><abbr expan="Doctor">Doctr:</abbr> hath the Accounts with him to give you Satisfaction in the <lb/>Method we have taken,</p>
 
-<p>The ballance we make due to him for these Years fo<add resp="editor">[r]</add> <lb/>a third of the Profits after all proper deductions is three hundred Sixty <lb/>Seven pounds Eighteen Shillings and two pence which I have given him 
+<p>Finding how unlikely it was for both of us to meet <lb/>together with <note n="ECB">Dr. Nicholas</note> about the Accot. of the profits of <note n="NB">Mr. Burwells</note> <lb/>Estate for the Years 1722 and 1723 I have Set about it with the Assistance <lb/>of <note target="n1">Mr. Edwards</note> and have brought it to a <sic corr="narrow">narro</sic> Compass <sic corr="In">Inn</sic> which I <lb/>hope we have Committed but few Errors Some of the particular Articles <lb/>remain unadjusted which you can most properly give light <sic corr="to,">too,</sic> The <lb/><abbr expan="Doctor">Doctr:</abbr> <sic corr="has">hath</sic> the Accounts with him to give you Satisfaction in the <lb/>Method we have taken,</p>
+
+<p>The ballance we make due to him for these Years fo<add resp="editor">[r]</add> <lb/>a third of the Profits after all proper deductions is three hundred Sixty <lb/>Seven pounds Eighteen Shill<add resp="editor">[ings]</add> and two pence which I have given him 
 
 <pb n="2"/><lb/><lb/>
 Bills of Exchange for and he will address to you for your hand to them also <lb/>he will for Two hundred and Fifty pounds on <note n="MP2">Mr. Perry</note> and for One <lb/>hundred and Seventeen pounds Eighteen Shillings on <note n="WD">Mr. Dawkins
 </note></p>
 
-<p>The money <abbr expan="Major">Majr.</abbr> <note target="n2">Henry Willis</note> owed to the Estate coming <lb/>through your hands I desire it might be <sic corr="Lodged">lodgd</sic> with Mr. Dawkins, but <lb/>if I am right in Calculating Mr. Dawkins Accot. I think he will not <lb/>want it all and if it be not too late for you I could wish a hundred pou<add resp="editor">[nds]</add> <lb/>of that money were <sic corr="Ordered">Orderd</sic> to <note target="n3">Mr. Falconer</note> who I reckon will be the <lb/><add resp="editor">[...]</add>st of any of the Merchants unless <sic corr="we">wee</sic> may Conclude he will <lb/>be in Cash for the Ten hhds: Sent him by <note target="n4">Trevisa,</note> buy the Time <note target="n5">Buck<lb/>eridge</note> will arrive</p>
+<p>The money <abbr expan="Major">Majr.</abbr> <note target="n3">Henry Willis</note> owed to the Estate coming <lb/>through your hands I desire it might be <sic corr="Lodged">lodgd</sic> with Mr. Dawkins, but <lb/>if I am right in Calculating Mr. Dawkins Accot. I think he will not <lb/>want it all and if it be not too late for you I could wish a hundred pou<add resp="editor">[nds]</add> <lb/>of that money were <sic corr="Ordered">Orderd</sic> to <note target="n4">Mr. Falconer</note> who I reckon will be the <lb/><add resp="editor">[be]</add>st of any of the Merchants unless <sic corr="we">wee</sic> may Conclude he will <lb/>be in Cash for the Ten hhds: Sent him by <note target="n5">Trevisa,</note> by the Time <note target="n6">Buck<lb/>eridge</note> will arrive</p>
 
 <p>I have Sent to Mr. Perry for the large Invoice of goods <lb/>and to Mr. Dawkins for the Childrens things,</p>
 
@@ -149,16 +154,17 @@ Sir&mdash;<lb/>
 
 <note>The name of Carter's home, the county, and colony have been added for clarity to this draft letter to his son-in-law.</note>
 
-<note id="n1">[1] "Thos. Edwards, a little petty Fogging Lawyer the Clark of our
-County that hath as much Mettle and more cunning for Contention then his predecessor had" Carter wrote to Landon Jones, July 23, 1723. His opinion of Edwards later changed for there are more appreciate mentions of him in Carter's diary. Edwards was clerk of the Lancaster County court from 1720-1746. (<cit><bibl><title>Within the Court House at Lancaster.</title> Lively, VA: Lively Printing Services, Lively, VA: Lively Printing Services, [1976]. p. 15.</bibl></cit>)</note>
+<note id="n1">[1] "Thos. Edwards, a little petty Fogging Lawyer the Clark of our County that hath as much Mettle and more cunning for Contention then his predecessor had" Carter wrote to Landon Jones, <xref to="/users/berkeley/public/C23g22b.xml">July 22, 1723.</xref> His opinion of Edwards later changed for there are more appreciative mentions of him in Carter's diary. Edwards was clerk of the Lancaster County court from 1720-1746. (<cit><bibl><title>Within the Court House at Lancaster.</title> Lively, VA: Lively Printing Services, Lively, VA: Lively Printing Services, [1976]. p. 15.</bibl></cit>; and "Thomas Edwards, Gentleman, Clerk of the Court" in <cit><bibl n="B43">Brown and Sorrells. <title>People in Profile.</title> pp. 94-103.</bibl></cit>)</note>
 
-<note id="n2">[2] Henry Willis (1691-1740) of Fredericksburg. ("Willis Family Genealogy"  (http://homepages.rootsweb.com/~marshall/esmd73.htm as of 5/21/02; and <cit><bibl>"Willis Family." <title>William and Mary Quarterly.</title> 1st ser. 5(1896): 24-27, 171-176; 6(1897): 27-29, 206-214.)</bibl></cit>)</note>
+ <note id="n2"> [2] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (<cit><bibl><xref to="Ext6">"Dictionary of  Financial Scam Terms,"</xref> 8/22/2005</bibl></cit>)</note>
 
-<note id="n3">[3] John Falconar was a London merchant with whom Carter dealt. In 1728, Falconar and Henry Darnell formed an association of 29 London tobacco merchants to deal with the French tobacco purchasing agent as a group in order to keep the price as high as possible. The association lasted only lasted a year or two before dissolving because some of its members were dealing directly with the French agent and selling below the agreed-upon price. (<cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> Newport News, VA: Mariners' Museum, 1953. p. 129</bibl></cit>)</note>
+<note id="n3">[3] Henry Willis (1691-1740) of Fredericksburg. ("Willis Family Genealogy"  (http://homepages.rootsweb.com/~marshall/esmd73.htm as of 5/21/02; and <cit><bibl>"Willis Family." <title>William and Mary Quarterly.</title> 1st ser. 5(1896): 24-27, 171-176; 6(1897): 27-29, 206-214.)</bibl></cit>)</note>
 
-<note id="n4">[4] Carter noted in his diary 1727 July 29 the arrival of the <hi rend="italics">Mansell,</hi> Captain Trevisa.</note>
+<note id="n4">[4] John Falconar (d. <hi rend="italics">ca.</hi> 1729) was a London merchant with whom Carter dealt. In 1728, Falconar and Henry Darnell formed an association of 29 London tobacco merchants to deal with the French tobacco purchasing agent as a group in order to keep the price as high as possible. The association lasted only lasted a year or two before dissolving because some of its members were dealing directly with the French agent and selling below the agreed-upon price. (See <xref to="http://carter.lib.virginia.edu/html/C27g24d.html">Carter's letter to Falconar </xref> of July 24 and August 22, 1727, for details about the payment of &pound;200 to him. (See <xref to="http://carter.lib.virginia.edu/html/C30d16b.html">Carter to William Dawkins,</xref> for Falconar's death date. <cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> Newport News, VA: Mariners' Museum, 1953. p. 129</bibl></cit>)</note>
 
-<note id="n5">[5] The <hi rend="italics">Marlborough</hi> was a vessel of 100 tons and 14 men, commanded by George Buckeridge (Buckbridge). (<cit><bibl>Admiralty 68/195, abstracted in Survey Report 6801, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n5">[5]Carter noted in his diary July 29, 1726,  the arrival of the <hi rend="italics">Mansell,</hi> Captain  Trevisa, and in his letter of <xref to="http://etext.lib.virginia.edu/etcbin/browse-carter?id=C27a14a.xml&images=images/modeng&data=/web/data/users/berkeley&tag=public">January 14, 1727,</xref> to the Board of Trade, gives the captain's full name as James Trevisa.</note>
+
+<note id="n6">[6] The <hi rend="italics">Marlborough</hi> was a vessel of 100 tons and 14 men, commanded by George Buckeridge (Buckbridge). In a letter to London merchant John Falconar<xref to="http://carter.lib.virginia.edu/html/C27g24d.html"> July 24,  1727,</xref> Carter refers to this vessel as "yor. Marlborrough." (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
  
 
 
