@@ -1,0 +1,237 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C17j03a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to William Dawkins,
+1717 October 3</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia
+Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 7 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">filename</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL:
+http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to William Dawkins, 1717
+October 3</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date>unpublished</date>
+   <idno type="callNo">Source copy consulted: Minor-Blackford
+Papers, James Monroe Law Office and Museum, Fredericksburg,
+Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic
+Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text
+Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject
+Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1717-10-03</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term
+type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C17j03a.xmlT">
+
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 pp.</extent>
+<date value="1717-10-03"></date>
+<idno rend="suppress">C17j03a.xml</idno>
+<title>Letter from Robert Carter to William Dawkins, 1717 October
+3</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant William Dawkins, October
+3, 1717, an addition to an earlier letter (probably that of September
+16, 1717) hoping that the victory achieved by the Tories at the last
+session (of Parliament) will result in peace in the country and will
+"promote the real good of the community" and "the securities of [the]
+Protestant Religion." He comments that the colony understands that
+the repeal of the tobacco law has been accomplished and that planters
+are giving "orders to strip in the old way." He is glad to hear that
+the <hi rend="italics">Carter</hi> has reached home safely and hopes
+for her early return,
+and concludes with a comment that the recent "gust" has not damaged
+crops as badly as had been feared.</p>
+</div1>                 
+</front>
+
+
+<body>
+
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="WD">William
+Dawkins,</note> October 3, 1717</head>
+<opener>
+
+<dateline>
+<pb n="1"/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster
+County, Virginia]</add><lb/></name>
+<date value="1717-10-03">Octor: 3rd 1717.</date>
+To William Dawkins
+</dateline>
+<salute>Sir,</salute>
+</opener>
+
+
+<p>This, a short additional line <lb/>
+by a <note target="n1">Brig, Colman</note>.  Our great news <lb/>
+at this time is the triumph the <lb/>
+Torys have gained in the last Session. <lb/>
+May all these divisions end in the <lb/>
+peace of the nation.  Its no great <lb/> 
+matter to us who is uppermost, <lb/> 
+so they promote the real good of the <lb/> 
+community and the <sic corr="securty ">securtie</sic>  of <lb/> 
+<note target="n2">the Protestant Religion</note>.</p>
+
+<p>The <note target="n3">repeal of the Tobo. Law</note> is a <lb/> 
+believed truth and grounded on<lb/> some of the merchants letters.
+Mr. <lb/>
+<note n="MP">Perry</note> writes he took it to be neer <lb/> 
+effected: so <sic corr="we ">wee</sic> give orders to strip in <lb/> 
+the old way.
+
+The <note n="CS"><q><name type="ship">Carter's</name></q></note>
+<sic corr="safety ">saftie</sic> is a piece of
+<lb/> 
+pleasing news. I hope you'll think <lb/> 
+it proper to dispatch her back to us <lb/>
+<note target="n4">with the first</note>. I came a few <sic
+corr="days ">daies</sic> since
+from the <lb/> falls of our River.  
+
+<pb n="2"/><lb/><lb/>The gust <sic corr="has ">hath </sic> done
+little damage there.
+<lb/>They have generally pretty good crops <lb/>in the upper parts of
+the country and good in <lb/>quality too. There will not be that
+scarcity <lb/>of Tobo. as was expected from our storm
+</p>
+
+</div1>
+
+</body>
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics">Source copy consulted: </hi>  Minor-
+Blackford Papers, James Monroe Law Office and Museum, Fredericksburg,
+Virginia. These texts are all nineteenth-century copies. Apparently
+there was in existence a letter book of Robert Carter's&mdash;now
+lost&mdash;from which the unknown copiest recorded these texts. As
+they are the only texts, the punctuation and "corrections"
+obviously supplied by the copiest have been retained.</note>
+
+<note>Robert Carter generally used a return address of
+"Rappahannock" for the river on which he lived rather than
+"Corotoman," the name of his home, on his correspondence, especially
+to merchants abroad. The county and colony have been added for
+clarity.</note><lb/>
+
+
+<note id="n1">[1] Unidentified.</note>
+
+<note id="n2">[2] As the Whigs were firmly in control of both
+Parliament and the government at this time, it is not clear what RC
+means.</note>
+
+<note id="n3">[3] Governor Alexander Spotswood had gotten through
+the General Assembly in 1713 an act "for preventing frauds in Tobacco
+payments And for the better Improveing the Staple of Tobacco." Among
+other provisions (such as the establishment of tobacco inspections
+houses and of inspectors of tobacco), this law prohibited the
+stemming of tobacco. There was immediate opposition to
+the law, but Dodson in his biography of Spotswood notes that the
+lieutenant governor had the power of appointment of the tobacco
+inspectors, and "twenty-seven burgesses, a clear  majority, were
+tobacco agents" in 1714, which helped defeat amendments to the act
+that were brought up at that session.  The colonial opposition
+together with opposition from the English merchants led to the repeal
+of the act in 1717; the news was announced in Virginia on November
+12.  (<cit><bibl n="B21">Dodson. <title>Alexander Spotswood.</title>
+pp. 52-55; first quote from p. 54, fn. 53; second quote from p.
+57.</bibl></cit>)</note>
+
+<note id="n4">[4] The copyist has added a footnote: <q>meaning the
+first fleet of the season.</q></note>
+
+<lb/><lb/><note><hi rend="italics">This text revised September 30,
+2008.</hi></note>
+
+
+</div1>
+</back>
+</text>
+
+
+</TEI.2>

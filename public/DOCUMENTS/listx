@@ -1,0 +1,258 @@
+sed -f sedxx C01e22a.xml >C01e22a.xml2
+move C01e22a.xml2 C01e22a.xml
+
+sed -f sedxx C01e22b.xml >C01e22b.xml2
+move C01e22b.xml2 C01e22b.xml
+
+sed -f sedxx C01e28a.xml >C01e28a.xml2
+move C01e28a.xml2 C01e28a.xml
+
+sed -f sedxx C01f02a.xml >C01f02a.xml2
+move C01f02a.xml2 C01f02a.xml
+
+sed -f sedxx C01f02b.xml >C01f02b.xml2
+move C01f02b.xml2 C01f02b.xml
+
+sed -f sedxx C02d06a.xml >C02d06a.xml2
+move C02d06a.xml2 C02d06a.xml
+
+sed -f sedxx C02d08a.xml >C02d08a.xml2
+move C02d08a.xml2 C02d08a.xml
+
+sed -f sedxx C02f15a.xml >C02f15a.xml2
+move C02f15a.xml2 C02f15a.xml
+
+sed -f sedxx C02f15b.xml >C02f15b.xml2
+move C02f15b.xml2 C02f15b.xml
+
+sed -f sedxx C02f15c.xml >C02f15c.xml2
+move C02f15c.xml2 C02f15c.xml
+
+sed -f sedxx C02g15a.xml >C02g15a.xml2
+move C02g15a.xml2 C02g15a.xml
+
+sed -f sedxx C02g15b.xml >C02g15b.xml2
+move C02g15b.xml2 C02g15b.xml
+
+sed -f sedxx C02g21a.xml >C02g21a.xml2
+move C02g21a.xml2 C02g21a.xml
+
+sed -f sedxx C034e27a.xml >C034e27a.xml2
+move C034e27a.xml2 C034e27a.xml
+
+sed -f sedxx C03c01a.xml >C03c01a.xml2
+move C03c01a.xml2 C03c01a.xml
+
+sed -f sedxx C03e27a.xml >C03e27a.xml2
+move C03e27a.xml2 C03e27a.xml
+
+sed -f sedxx C03g20a.xml >C03g20a.xml2
+move C03g20a.xml2 C03g20a.xml
+
+sed -f sedxx C03g22a.xml >C03g22a.xml2
+move C03g22a.xml2 C03g22a.xml
+
+sed -f sedxx C03g24a.xml >C03g24a.xml2
+move C03g24a.xml2 C03g24a.xml
+
+sed -f sedxx C03g27a.xml >C03g27a.xml2
+move C03g27a.xml2 C03g27a.xml
+
+sed -f sedxx C03j01a.xml >C03j01a.xml2
+move C03j01a.xml2 C03j01a.xml
+
+sed -f sedxx C04e23a.xml >C04e23a.xml2
+move C04e23a.xml2 C04e23a.xml
+
+sed -f sedxx C04e23b.xml >C04e23b.xml2
+move C04e23b.xml2 C04e23b.xml
+
+sed -f sedxx C04e26a.xml >C04e26a.xml2
+move C04e26a.xml2 C04e26a.xml
+
+sed -f sedxx C04e27a.xml >C04e27a.xml2
+move C04e27a.xml2 C04e27a.xml
+
+sed -f sedxx C05b26a.xml >C05b26a.xml2
+move C05b26a.xml2 C05b26a.xml
+
+sed -f sedxx C05b26b.xml >C05b26b.xml2
+move C05b26b.xml2 C05b26b.xml
+
+sed -f sedxx C05b26c.xml >C05b26c.xml2
+move C05b26c.xml2 C05b26c.xml
+
+sed -f sedxx C05e05a.xml >C05e05a.xml2
+move C05e05a.xml2 C05e05a.xml
+
+sed -f sedxx C05e05e.xml >C05e05e.xml2
+move C05e05e.xml2 C05e05e.xml
+
+sed -f sedxx C05f07a.xml >C05f07a.xml2
+move C05f07a.xml2 C05f07a.xml
+
+sed -f sedxx C05f27a.xml >C05f27a.xml2
+move C05f27a.xml2 C05f27a.xml
+
+sed -f sedxx C05f28a.xml >C05f28a.xml2
+move C05f28a.xml2 C05f28a.xml
+
+sed -f sedxx C05g06a.xml >C05g06a.xml2
+move C05g06a.xml2 C05g06a.xml
+
+sed -f sedxx C05g06b.xml >C05g06b.xml2
+move C05g06b.xml2 C05g06b.xml
+
+sed -f sedxx C05g06c.xml >C05g06c.xml2
+move C05g06c.xml2 C05g06c.xml
+
+sed -f sedxx C05g11a.xml >C05g11a.xml2
+move C05g11a.xml2 C05g11a.xml
+
+sed -f sedxx C05h16a.xml >C05h16a.xml2
+move C05h16a.xml2 C05h16a.xml
+
+sed -f sedxx C05h20a.xml >C05h20a.xml2
+move C05h20a.xml2 C05h20a.xml
+
+sed -f sedxx C05i17a.xml >C05i17a.xml2
+move C05i17a.xml2 C05i17a.xml
+
+sed -f sedxx C05i17b.xml >C05i17b.xml2
+move C05i17b.xml2 C05i17b.xml
+
+sed -f sedxx C05i17c.xml >C05i17c.xml2
+move C05i17c.xml2 C05i17c.xml
+
+sed -f sedxx C06a11a.xml >C06a11a.xml2
+move C06a11a.xml2 C06a11a.xml
+
+sed -f sedxx C06a11b.xml >C06a11b.xml2
+move C06a11b.xml2 C06a11b.xml
+
+sed -f sedxx C06d19a.xml >C06d19a.xml2
+move C06d19a.xml2 C06d19a.xml
+
+sed -f sedxx C06e11a.xml >C06e11a.xml2
+move C06e11a.xml2 C06e11a.xml
+
+sed -f sedxx C06e11b.xml >C06e11b.xml2
+move C06e11b.xml2 C06e11b.xml
+
+sed -f sedxx C06e11c.xml >C06e11c.xml2
+move C06e11c.xml2 C06e11c.xml
+
+sed -f sedxx C06h20a.xml >C06h20a.xml2
+move C06h20a.xml2 C06h20a.xml
+
+sed -f sedxx C06h20b.xml >C06h20b.xml2
+move C06h20b.xml2 C06h20b.xml
+
+sed -f sedxx C06h20c.xml >C06h20c.xml2
+move C06h20c.xml2 C06h20c.xml
+
+sed -f sedxx C06h20d.xml >C06h20d.xml2
+move C06h20d.xml2 C06h20d.xml
+
+sed -f sedxx C06h20e.xml >C06h20e.xml2
+move C06h20e.xml2 C06h20e.xml
+
+sed -f sedxx C07b06a.xml >C07b06a.xml2
+move C07b06a.xml2 C07b06a.xml
+
+sed -f sedxx C07b06b.xml >C07b06b.xml2
+move C07b06b.xml2 C07b06b.xml
+
+sed -f sedxx C07d02a.xml >C07d02a.xml2
+move C07d02a.xml2 C07d02a.xml
+
+sed -f sedxx C07j24a.xml >C07j24a.xml2
+move C07j24a.xml2 C07j24a.xml
+
+sed -f sedxx C07l20a.xml >C07l20a.xml2
+move C07l20a.xml2 C07l20a.xml
+
+sed -f sedxx C07l20b.xml >C07l20b.xml2
+move C07l20b.xml2 C07l20b.xml
+
+sed -f sedxx C08a10a.xml >C08a10a.xml2
+move C08a10a.xml2 C08a10a.xml
+
+sed -f sedxx C08d03a.xml >C08d03a.xml2
+move C08d03a.xml2 C08d03a.xml
+
+sed -f sedxx C08d03b.xml >C08d03b.xml2
+move C08d03b.xml2 C08d03b.xml
+
+sed -f sedxx C08e25a.xml >C08e25a.xml2
+move C08e25a.xml2 C08e25a.xml
+
+sed -f sedxx C08l25a.xml >C08l25a.xml2
+move C08l25a.xml2 C08l25a.xml
+
+sed -f sedxx C08l25c.xml >C08l25c.xml2
+move C08l25c.xml2 C08l25c.xml
+
+sed -f sedxx C08l25d.xml >C08l25d.xml2
+move C08l25d.xml2 C08l25d.xml
+
+sed -f sedxx C09g04a.xml >C09g04a.xml2
+move C09g04a.xml2 C09g04a.xml
+
+sed -f sedxx C09h17a.xml >C09h17a.xml2
+move C09h17a.xml2 C09h17a.xml
+
+sed -f sedxx C10g20a.xml >C10g20a.xml2
+move C10g20a.xml2 C10g20a.xml
+
+sed -f sedxx C15a01a.xml >C15a01a.xml2
+move C15a01a.xml2 C15a01a.xml
+
+sed -f sedxx C17h03a.xml >C17h03a.xml2
+move C17h03a.xml2 C17h03a.xml
+
+sed -f sedxx C17i16a.xml >C17i16a.xml2
+move C17i16a.xml2 C17i16a.xml
+
+sed -f sedxx C17i16b.xml >C17i16b.xml2
+move C17i16b.xml2 C17i16b.xml
+
+sed -f sedxx C17j03b.xml >C17j03b.xml2
+move C17j03b.xml2 C17j03b.xml
+
+sed -f sedxx C17k04a.xml >C17k04a.xml2
+move C17k04a.xml2 C17k04a.xml
+
+sed -f sedxx C17l09a.xml >C17l09a.xml2
+move C17l09a.xml2 C17l09a.xml
+
+sed -f sedxx C17l10a.xml >C17l10a.xml2
+move C17l10a.xml2 C17l10a.xml
+
+sed -f sedxx C17l18a.xml >C17l18a.xml2
+move C17l18a.xml2 C17l18a.xml
+
+sed -f sedxx C18a27a.xml >C18a27a.xml2
+move C18a27a.xml2 C18a27a.xml
+
+sed -f sedxx C18c18a.xml >C18c18a.xml2
+move C18c18a.xml2 C18c18a.xml
+
+sed -f sedxx C18g09a.xml >C18g09a.xml2
+move C18g09a.xml2 C18g09a.xml
+
+sed -f sedxx C18g26a.xml >C18g26a.xml2
+move C18g26a.xml2 C18g26a.xml
+
+sed -f sedxx C18g27a.xml >C18g27a.xml2
+move C18g27a.xml2 C18g27a.xml
+
+sed -f sedxx CBIBL.xml >CBIBL.xml2
+move CBIBL.xml2 CBIBL.xml
+
+sed -f sedxx CD1722.xml >CD1722.xml2
+move CD1722.xml2 CD1722.xml
+
+sed -f sedxx biodir.xml >biodir.xml2
+move biodir.xml2 biodir.xml
+

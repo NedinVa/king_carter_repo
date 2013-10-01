@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C27l18a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Lewis Burwell, December 18, 1727</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 11 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C27l18a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2004</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Lewis Burwell, December 18, 1727</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1727-12-18</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C27l18aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent> p.</extent>
+<date value="1727-12-18"></date>
+<idno rend="suppress">C27l18a.xml</idno>
+<title>Letter from Robert Carter to Lewis Burwell, December 18, 1727</title>
+</bibl>
+</head>
+<p>Robert Carter writes to his grandson, Lewis Burwell, who was in England at school, December 18, 1727, to chide him for an unpleasant letter Burwell had written to his mother, and directing him to write an apologetic letter to his mother. Carter notes that he had opposed his daughter's second marriage, but her new husband "proves a very worthy kind 
+husband to her" and that he and his daughter are reconciled. He informs Burwell that he is to be sent to Cambridge in the spring where he is to keep his expenses low and to study hard. He concludes with family news and his blessing.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note target="n1">Lewis Burwell,</note> December 18, 1727</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1727-12-18">Dec 18th: 1727</date><lb/>
+<lb/>
+</dateline>
+<salute>D<add resp="editor">[ea]</add>r Lewis Burwell</salute>
+
+</opener>
+
+
+
+<p>Some time ago I received a letter from you to wch. <lb/><add resp="editor">[i]</add>f I remember right I sent you an Answer the next <add place="supralinear">you send</add> I will hope will <lb/>be in a more Acceptable <sic corr="Style">stile</sic> and <sic corr="written">writ</sic> in a better hand</p>
+
+<p><note n="ECB"><add resp="editor">[Your]</add> mother</note> had very much <sic corr="disobliged">di<add resp="editor">[s]</add>abliged</sic> me in ma-
+
+
+<pb n="2"/><lb/><lb/>
+rrying much against my inclination but it hath been her good <lb/>fortune to match with a gentleman that proves a very worthy kind <lb/>husband to her and she and I <add place="supralinear">are</add> perfectly reconciled it seems you have <lb/><sic corr="written">writ</sic> a very unkind letter to her which Occasioned a great deal of dis<lb/>turbance to her repose Certainly you have not forgot the duty you <lb/>owe to your parent and are not so unlearned to be ignorant of the seven <lb/>Curses denounced by the Almighty against <sic corr="undutiful">undetifull</sic> Children pray <lb/>write to her in another <sic corr="style">stile</sic> Acknowledge your fault and let her know <lb/>you are deeply Sorry for your youthfull imprudence in giving her <lb/>so much Uneasiness</p>
+
+<p>I have <sic corr="written">writ</sic> to <note n="MP2">Mr Perry</note> to send you to Cambridge <add place="supralinear">next spring</add> <lb/>and have Earnestly desired him to be as frugal as it is possible with de<lb/>cency in your Expenses and I lay the same charge upon you <abbr expan="Tobacco">Tobbo:</abbr> is <lb/>at this time a very poor <sic corr="commodity">comodity</sic> and we have no other way to get <lb/>money by you have spent a great deal of money Already and your <lb/>improvement god knows very mean May you make a better use of <lb/>your time at the University I have been told from Several that have <lb/>been there &pound;100 a year would maintain a youth <sic corr="tolerably">tollerably</sic> well <lb/>if your Expences upon all Accounts exceed that sum &pound;20 or &pound;30 <lb/>a year and <add place="supralinear">no more</add> I shall not find fault</p>
+
+<p>Your relations here are all in good health your <lb/>brother <note target="n2">Carter</note> I Expect to keep his <sic corr="Christmas">Christmass</sic> with me I pray god <lb/>Grant you may Escapte the vices of the age you are coming into and that <lb/>after all the money that hath been Spent upon your Education <lb/>you may prove a wise and good man to whose blessings I Commend <lb/>you who am </p>
+
+<closer>Your loving Grandfather</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1727 May-1728 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia. There is a 19th-century transcript of the letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to persons abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1] Lewis Burwell (1711 or 1712-1756), Carter's grandson by Elizabeth Carter Burwell and her first husband, Nathaniel Burwell (1680-1721) for whom Carter was guardian. He was educated at Eton and Cambridge, and inherited considerable property, living at "Fairfield," Gloucester County. He would be president of the Council in 1750-1751. (<cit><bibl n="B42">Kneebone <hi rend="italics">et al.</hi>,  <title>Dictionary of Virginia Biography.</title>  2:434-5.</bibl></cit> and <cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 114.</bibl></cit>)</note>
+
+<note id="n2">[2]  Carter Burwell (1716-1756) was Robert Carter's grandson by his daughter Elizabeth (Carter) Burwell and her first husband, Nathaniel Burwell (1680-1721). Carter Burwell would live at "Carter's Grove," and would marry Lucy Grymes in 1738. (<cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 128.</bibl></cit>)</note>
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

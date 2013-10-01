@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C07b06a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Thomas Corbin, February 6, 1707</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 10 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">filename</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Thomas Corbin, February 6, 1707</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date>unpublished</date>
+   <idno type="callNo">Source copy consulted:  Christ Church Parish, Lancaster County, Processioners' Returns, 1711-1783, and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond, 173.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1707-02-06</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C07b06aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 pp.</extent>
+<date value="1707-02-06">February 6, 1707</date>
+<idno rend="suppress">C07b06a</idno>
+<title>Letter from Robert Carter to Thomas Corbin, February 6, 1707</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant Thomas Corbin, February 6, 1707, of the news of the war (of the Spanish succession) that has arrived, some through Maryland. He sends Corbin some news from Virginia including a Council meeting to lay an embargo, their hope of learning soon who will be the new governor to succeed Edward Nott, that Ralph Wormeley's sons are due with the next fleet, and that William Churchill's move to the Wormeley's estate (through his marriage to Wormeley's widow) had given most of the responsibility for the management of the Wormeley's affairs over to him.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="TC">Thomas Corbin,</note> February 6, 1707</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Rappahannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1707-02-06">Feb: 6th. 1706 [07]</date><lb/>
+Mr: Tho Corbin<lb/>
+
+</dateline>
+</opener>
+
+<p>Yours by <note target="n1">Mr. Duncklys</note> Ship of <abbr expan="September ">Septr. </abbr> Date came to hand cont<add resp="editor">[aining a]</add> <lb/>short <note target="n2">history of the Campaign</note> to tht time from others I h<add resp="editor">[ad learned]</add> <lb/>also of the raising the Seige of Turin &amp;c to the 26th. of <add resp="editor">[July ?]</add> <lb/>three days ago a Report is brot to Us out of Maryland <add resp="editor">[of the]</add> <lb/><sic corr="Wonderful ">Wonderfull</sic> Successes &amp; also of the Safe Arrival of our F<add resp="editor">[leet]</add> <lb/>Said to be brot in thither by a vessel lately Arrived <add resp="editor">[there]</add> <lb/>and to be <sic corr="written ">writt</sic> into Mr. Bowles of Petuxant from <unclear>[ . . . ]</unclear> <lb/>Deal but not withstanding all these Circumstances <add resp="editor">[I fear]</add> <lb/>tis to great to be true.</p>  
+ 
+<p>All the News tht I can entertain you with from hence tht <add resp="editor">[your friends]</add> <lb/>are all well tht I know of Except <note target="n2">Your Sister Lee</note> of who<add resp="editor">[se death]</add> <lb/>Suppose you have long Since bin acquainted with <add resp="editor">[I received]</add> <lb/>from our <note target="n3">President</note> <abbr expan="about ">abt. </abbr> 2 days ago to Call me to a Cou<add resp="editor">[ncil for the]</add> <lb/>laying on the <sic corr="Embargo ">Imbargo</sic> what they have done in it dont <add resp="editor">[know]</add> <lb/>our Next intelligences we Expect will go near to bring us an<add resp="editor">[swers]</add> <lb/>who will Succeed to the <note target="n4">Governmt</note>. we hope you will all Joyn <add resp="editor">[the?]</add> <lb/>endeavours for the good and <sic corr="Welfare ">Wellfare</sic> of this poor Country to which <lb/>many of You owe your being &amp; most of you your Estates I have <lb/>an Accot the <note target="n5">Young Wormeleys</note> were well on the first of <abbr expan="October ">Oct. </abbr> last <add resp="editor">[We]</add> <lb/>are all in Expectation of thm. by the next Fleet Its high time they <lb/>were here to made acquainted wth. their own Affairs my removal <lb/>&amp; <note target="n6"><abbr expan="Colonel ">Collo. </abbr> <sic corr="Churchills ">Churchils</sic></note> Living upon the place together with his relation <lb/><add resp="editor">[gi]</add>ven him the Oppertunity to fix himself absolutely in the Gov<add resp="editor">[ernment]</add> <lb/>of tht Estate the managemt whereof is become very much a <add resp="editor">[trouble ?]</add> <lb/>to all Concerned I believe to me I am Sure it is but I may perh<add resp="editor">[aps]</add> <lb/>find it necessary hereafter to give you perticulars at length therefore W<add resp="editor">[ill leave]</add> <lb/>it here &amp; Conclude at present</p> 
+ 
+<closer> <abbr expan="Sir ">Sr </abbr> Your Affectionate Countryman &amp; <lb/>most humble Servt.</closer> 
+ 
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+<note><hi rend="italics">Source copy consulted:</hi>  Christ Church Parish, Lancaster County, Processioners' Returns, 1711-1783, and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond, 173.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The return address,county and colony have been added for clarity to this unheaded letter.</note><lb/>
+
+<note id="n1">[1] Robert Dunkley, a London merchant and alderman, was involved both in the Virginia and Russian trades in tobacco. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 3[1705-1721]: 17;</bibl></cit> and <cit><bibl>"Tobacco Trade in Russia, 1705," which includes a petition to the queen signed by a number of merchants including Dunkley. <title>William and Mary Quarterly, </title> 2d ser., 3(Oct., 1923): 250-258  )</bibl></cit> </note>
+
+<note id="n2">[2] Carter refers to campaigns in Europe of the War of the Spanish Succession.</note> 
+
+<note id="n2">[2] Letitia Corbin (1657-1706) married Richard Lee (1647-1715). (<cit><bibl>Burton J. Hendrick. <title>The Lees of Virginia: Biography of a Family.</title> [Boston: Little Brown, 1935]. Genealogical chart.</bibl></cit>)</note> 
+ 
+<note id="n3">[3] Edmund Jenings, president of the council, and acting governor since the death of Edward Nott on August 23, 1706.</note> 
+ 
+<note id="n4">[4] Carter refers to the identity of the next governor.</note>
+
+<note id="n5">[5] Carter often referred to in their youth as his "Cozns." Ralph Wormeley (ca. 1681-1714), Ralph Wormeley's (d.1701) oldest son; and John Wormeley (1689-1727) because their parents were his brother- and sister-in-law. He was one of the boys' trustees under their father's will.</note>
+
+<note id="n6">[6] William Churchill  (1649/50-1710) had married Ralph Wormeley's widow and moved to the Wormeley estate, "Rosegill," in Middlesex County.</note>
+
+<lb/><lb/><note><hi rend="italics">This text revised July 25, 2008.</hi></note>
+ 
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

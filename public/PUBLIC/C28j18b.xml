@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C28j18b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to [Robert Jones, October 18, 1728]</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 16  kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C28j18b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2004</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to [Robert Jones, October 18, 1728]</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>3 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1728 August 8-1730 May 15,  Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1728-10-18</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C28j18bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>3 p.</extent>
+<date value="1728-10-18"></date>
+<idno rend="suppress">C28j18b.xml</idno>
+<title>Letter from Robert Carter to [Robert Jones, October 18, 1728]</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Prince William County  resident [Robert Jones, October 18, 1728], to give his manager instructions about the care of hogs, the handling of corn, butter, and hides, construction at the new town of Falmouth, and the use of nails in adding laths to the slave cabins on the plantations under Jones's charge. He expresses the need to keep the slaves warm in the winter because it will mean fewer fatalities.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to [<note n="RJ">Robert Jones,</note> October 18, 1728]</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
+<date value="1728-10-18"></date><lb/>
+
+</dateline>
+
+
+</opener>
+
+<p><corr resp="editor">[...]</corr> the feet and the Cheek are Victuals I love very well as for the <sic corr="hi">hy</sic><corr resp="editor">[des]</corr> <lb/>dont know what to Say to them if Sage will take of all the <sic corr="hides">hydes</sic> <corr resp="editor">[that]</corr><lb/><corr resp="editor">[a]</corr>re there and all the <note target="n1">Murren</note> as well as the <sic corr="Slaughtered">Slaughterd</sic> <sic corr="hides">hydes</sic> and will <lb/><corr resp="editor">[illegible]</corr> of Pair of good <sic corr="Shoes">Shoose</sic> <sic corr="apiece">apeice</sic> for them big Enough for my Neg<corr resp="editor">[roes]</corr><lb/>with another I do not care if you let him have them Pray be <lb/>[...]ng <sic corr="careful">carefull</sic> that the meat be <sic corr="dressed">drest</sic> very <sic corr="Cleanly">Cleenly</sic> I think it was pretty well done last year&mdash;</p>
+
+<p>Now I come to the <sic corr="hogs">hoggs</sic> I would have the <abbr expan="several">sevl.</abbr> Overseers <lb/>call up their hogs every day and feed <abbr expan="them">thm.</abbr> and want them to the <lb/><abbr expan="Quarters">Qrs.</abbr> and as Soon as their Corn is gat<corr resp="editor">[he]</corr>rd to put up the killable hogs <lb/>[in]to <sic corr="Pens">Penns</sic> to be ready to be drove down about <abbr expan="Christmas">Xmas</abbr> I would <lb/>[have the . . . ] hogs that are for me <sic corr="killed">killd</sic> there and the way for <lb/><corr resp="editor">[...]</corr>for the future Shall be thus I will keep but half a <abbr expan="dozen">doz</abbr> <lb/><corr resp="editor">[...] </corr>that they to be well fed and when they are near Pigen <lb/><corr resp="editor">[put]</corr> into <sic corr="Pens">Penns</sic> and kept there till their <sic corr="Pigs">Piggs</sic> are near <lb/><corr resp="editor">[...]</corr> and I would have troughs made to feed <abbr expan="them">thm.</abbr> with <lb/><corr resp="editor">[...]</corr> set to have no more hogs raised <sic corr="than">then</sic> I can afford <lb/><corr resp="editor">[...]</corr> them in the Summer to want them to the Plantations <lb/><corr resp="editor">[...]</corr> good care I might very well Expect to have Twenty <lb/><corr resp="editor">[...]</corr> a year from Each plantation besides the Overseers the <lb/><corr resp="editor">[...]</corr> flesh for your house Workmen and the Doctor <lb/>[... S]hall be all I would desire As for the stocks of Cattle <lb/><corr resp="editor">[...]</corr>ously decreased and the Calves that are raised thi<corr resp="editor">[s]</corr><lb/>[...]<corr resp="editor"></corr>  of them very ordinary Particularly at the <note n="RF1"><abbr expan="Richland">Richld.</abbr></note> <lb/>[... g]reat deal of care taken of them Several I dare <lb/><corr resp="editor">[say ...]</corr> The Doctor must be <abbr expan="allowed">allowd</abbr> the Same beef &amp; hogs <lb/><corr resp="editor">[...]</corr> The <sic corr="pots">potts</sic> of Butter made at the <abbr expan="several">sevl.</abbr> <abbr expan="Plantations">Plans:</abbr> <lb/><corr resp="editor">[... mu]</corr>st be Sent down I would have them <sic corr="weighed">weighd</sic> and so <sic corr="marked">markt</sic> <lb/><corr resp="editor">[... th]</corr>at I may know from what <abbr expan="Quarters">Qrs.</abbr> they come I Expect butter <lb/><corr resp="editor">[fr]</corr>om <note target="n2">Threalkilld</note> a good deal <sic corr="althogh">altho</sic> I forgot to talk about it <abbr expan="when">wn.</abbr> <lb/><corr resp="editor">[I]</corr> was there he has Ten Calves very fine ones and his wife <lb/><corr resp="editor">[s]</corr>eems to be a good <sic corr="housewife">huswife</sic></p><pb n="2"/><lb/><lb/>
+
+
+	<p>Now to the Corn I would have the Corn at the <abbr expan="Several">Sevl.</abbr> <abbr expan="Quarters">Qrs.</abbr> when <lb/>it is all <sic corr="husked">huskd</sic> carefully measured and no Corn <sic corr="reckoned">reckond</sic> in bu<corr resp="editor">[t]</corr> <lb/>what is Actually measured at the time I would have the people's C<corr resp="editor">[orn]</corr> <lb/>measured <sic corr="off">of</sic> by its Self two hogsheads of Ears for every working han<corr resp="editor">[d]</corr> <lb/>and a hogshead of Ears for every two children. The Overseers  Corn I <corr resp="editor">[would]</corr> <lb/>have taken away Some Corn I would have measured <sic corr="off">of</sic><corr resp="editor">[...]</corr> <lb/>Cattle <sic corr="horses">hors's</sic> and hogs the rest of the Corn I would have kept by its <lb/>Self for <corr resp="editor">[...]</corr> use I would have all my Corn Yearly <sic corr="Shelled">Shelld</sic> out <lb/>in <corr resp="editor">[...]</corr> and <sic corr="put">putt</sic> into hogsheads that it may be known how tis <lb/>spent and I would have the Corn <sic corr="verified">verifyd</sic> every time <corr resp="editor">[...]</corr> <lb/>Plantations I will sell no Corn nor will have any bar<corr resp="editor">[rels made]</corr> <lb/>for any nor any removed from Plantation to a<corr resp="editor">[nother without]</corr> <lb/>my positive and written directions</p>
+
+<p>I think to have Daikens hors<corr resp="editor">[e ...]</corr> <lb/>and to let him have the Corn from the <note n="RO">red Oak</note> <corr resp="editor"> [Quarter ...]</corr></p>
+ 
+<p><note n="MP1">Colonel Pages</note> overseer Slaughter <sic corr="desired">desird</sic> <corr resp="editor">[to exchange?]</corr> <lb/>his Corn for Corn in the York I will Consult Colonel P<corr resp="editor">[age about it]</corr> <lb/>if he is willing I <sic corr="believe">beleive</sic> I Shall go near to let him <corr resp="editor">[have corn from ?]</corr> <lb/>Ashleys in Exchange but of this you shall hear more</p>
+
+<p>I hope you have bin<sic corr=" getting"> geting</sic> dow<corr resp="editor">[n ...]</corr> <lb/>Cart ready for the Sloop and that you will ma<corr resp="editor">[ke every effort ?]</corr> <lb/>to get the <abbr expan="Tobacco">Tobbo:</abbr> in the <note target="n3">Fork </note>as fast as it is <sic corr="Stripped">Stript</sic> a<corr resp="editor">[nd ...]</corr> <lb/>down to the red Oak before the hard winter wea<corr resp="editor">[ther comes as you] </corr><lb/>proposed to do and when this is done <corr resp="editor">[...]</corr> <lb/>of the way at your Leizuere resting the <corr resp="editor">[...]</corr> <lb/>Occasion,</p>
+
+<p>I have <sic corr="written">writ</sic> to <note target="n4">John Hurst</note> about my build<corr resp="editor">[ing]</corr> <lb/>at <note target="n5">Falmouth</note> and also of other things I Send the Letter ope<corr resp="editor">[n so that]</corr> <lb/>you know my Orders and take a Copy of them and be assis[<corr resp="editor">ting]</corr> <lb/>in the Execution of them I also write to <note target="n6">Tim Dargan</note> and <corr resp="editor">[send]</corr> <lb/>it open to you that you may let him know what he has to 
+
+<pb n="3"/><lb/><lb/>
+trust to and if you find any fault with him between this <lb/>&amp; <abbr expan="Christmas">Xmas</abbr> let me know it&mdash;</p>
+<p>My horses you have <corr resp="editor">[been]</corr> Instrumental in bringing them <lb/>to that wretched Low Condition they are in I hope you will take <lb/>Effectual care that they are so placed and taken care of that they <lb/>may be recruited again&mdash;</p>
+
+<p>I have sent you 10,000 Nails for Lathing &amp; filling in <lb/>all my <abbr expan="Quarters">Qrs.</abbr> and pray let it be done out of hand that the <abbr expan="Quarters">Qrs.</abbr> be made <lb/>as warm for the People as <sic corr="we">wee</sic> can I Expect the Overseers Shall <note target="n7">reave</note> <lb/>the Laths and <sic corr="nail">naile</sic> them up, I have <sic corr="spoken">spoke</sic> to Several of them about <lb/>it and they promised they would do it I have Sent I reckon more <lb/>Nails <sic corr="than">then</sic> will do pray take care tht. it be well done if <sic corr="we">wee</sic> can bu<corr resp="editor">[t]</corr> <lb/>Find a way to keep the People warm with warm <sic corr="houses">hous's </sic>warm <lb/><corr resp="editor">[b]</corr>edding and warm <sic corr="Clothes">Cloaths</sic> I cant <sic corr="believe">beleive</sic> but <sic corr="we">wee</sic> Should have <lb/><corr resp="editor">[f]</corr>ewer <sic corr="mortalities">mortailitys</sic> I am Sure I have done my part if the Overseers <lb/><corr resp="editor">[d]</corr>o but theirs There are a great many new hands in my Gangs <lb/><corr resp="editor">[Th]</corr>e <abbr expan="overseers">oversrs.</abbr> Should take care that the old hands does not Crow <lb/><corr resp="editor">[ov]</corr>er them be sure let them have their <sic corr="Bellies">Belly's</sic> full</p>
+
+<closer><seg type="postscript"><lb/><lb/></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. This date has been tentatively assigned because the letters immediately following it in the letter book were written in mid-October 1728. The earlier page or pages of this letter book are missing, and the pages on which this draft was written have lost material along their edges as well as a large section that is missing on one side.</note>
+
+<note>This letter was published in <cit><bibl n="A8">Berkeley. "Robert Carter as Agricultural Administrator: . . .", 273-295.</bibl></cit></note>
+
+<note>The name of Carter's home, "Corotoman," the county, and colony have been added for clarity to this unheaded draft. </note>
+
+<note id="n1">[1] Murrain are the hides of animals that have died either naturally or from diseases.</note>
+
+<note id="n2">[2] William Threalkill is mentioned in the inventory of Carter's estate as the overseer at Poplar Quarter, Stafford County. (<cit><bibl n="A26">Carter Papers: An Inventory. . . ."</bibl></cit>.)</note>
+
+<note id="n3">[3] Fork Quarter was a farm in Richmond County that would become a part of the "Sabine Hall" estate as it was bequeated to Landon Carter. In 1732, William Galloway, the overseer, supervised 16 slaves, 42 hogs, and 54 cattle. (<cit><bibl n="A26">Carter Papers: An Inventory. . . ."</bibl></cit>)</note>
+
+<note id="n4">[4] John Hust (or Hurst) was the overseer of "Hamstead Quarter," Stafford County, in the 1732 inventory, supervising  sixteen slaves with the assistance of one horse. Hust apparently was a carpenter because Carter mentions his doing carpentry work in various letters. (<cit><bibl n="A26">Carter Papers: An Inventory. . . ."</bibl></cit>)</note>
+
+<note id="n5">[5] The new town of Falmouth was created by the Assembly in February 1727. Carter, Mann Page, Nicholas Smith, William Thornton, John Fitzhugh, Charles Carter, and Henry Fitzhugh the younger were the "directors and trustees." The land chosen for the site of the new town lay in King George County, and deeds would have been recorded in its court records.  (<cit><bibl>William Waller Hening, <title>The Statutes at Large; Being a Collection of the Laws of Virginia . . . . </title>[Richmond, 1820. reprint, 1969]. IV, 234-39.</bibl></cit>)</note>
+
+<note id="n6">[6]  "In 1724, Robert Carter took out patents for, among others: the Licking Run tract of 10,227 acres which lay along and east of Licking Run above Germantown and across Owl and Turkey Runs, to what was then supposed to be the western boundary of the vast Brent Town Tract. Here Carter seated the Lodge Quarter mentioned in his will."  Timothy Dargan was its overseer in 1732. (<cit><bibl>Carl F. Cannon, Jr., "Robert ("King") Carter of "Corotoman." Unpublished doctoral dissertation, Duke University, 1956, p. 274;</bibl></cit> and <cit><bibl n="A26">Carter Papers: An Inventory. . . ."</bibl></cit>)</note>
+
+<note id="n7">[7] The word "reave" meant to rob or strip at Carter's time. Pehaps he meant that the overseers would prepare the laths for nailing onto the walls of the slave quarters.</note>
+
+
+
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

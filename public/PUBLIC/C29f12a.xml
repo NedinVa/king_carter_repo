@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C29f12a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Colonel Thomas Lee, June 12, 1729</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 11 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C29f12a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2005</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Colonel Thomas Lee, June 12, 1729</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1728 August 8-1730 May 15,  Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1729-06-12</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C29f12aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1729-06-12"></date>
+<idno rend="suppress">C29f12a.xml</idno>
+<title>Letter from Robert Carter to Colonel Thomas Lee, June 12, 1729</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Colonel Thomas Lee, June 12, 1729, concerning the collection of rents due on lands Lee owns in the Northern Neck proprietary, and a debt due Carter from his term as president of the Council.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to Colonel <note target="n1">Thomas Lee,</note> June 12, 1729</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Corotom[an], <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1729-06-12">June 12 1729</date><lb/>
+Colo Thos Lee<lb/>
+</dateline>
+<salute>Sir</salute>
+
+</opener>
+
+<p>your favour of the 26th of may I shall now Answer <lb/>
+According to your own method. I proposed to take <abbr expan="your">yr</abbr> Cash at the same <lb/>
+rate the <abbr expan="Receiver General">Recr Genl</abbr> does <add place="supralinear">the Kings</add> his  Rights and so I am ready to do he did me <lb/>
+the Favour to make me a visit not long since and then told me his way <lb/>
+is when he receives Cash to take 3/4 d <add place="supralinear">upon <del>the</del></add>  every pound to make it sterling <lb/>
+and this shall <sic corr="satisfy">satisfye</sic> me either in Silver or gold According to the Curr<corr resp="editor">[en]</corr>ce <lb/>
+or if it will suit as well with your <sic corr="Convenience">Conveniency</sic> to give me a bill I shall <lb/>
+be Contented to take a Scotch one rather than fail and make you the <lb/>
+same Allowance the <abbr expan="Receiver general">Recr genl</abbr> does<lb/>
+	your After reasoning About the 11 Acres is soft and<lb/>
+Cool <corr resp="editor">[damage]</corr><sic corr=" breaks"> breakes</sic> the bone in strict right I cannot<lb/>
+be convinced but my son should have them and your Warrant will<lb/>
+be <sic corr="complied">complyed</sic> with verbatim however if the prejudice will be so much<lb/>
+to you as you Conceive and so little to the Advantage of my son if you<lb/>
+don't like it let it be as you desire it and let my son be <abbr expan="served">serv'd</abbr><lb/>
+as you would please him we will have no longer Controversy about<lb/>
+it</p>
+
+<p>In respect to your rents you must Certainly be in the <lb/>
+wrong <corr resp="editor">[el]</corr>se minor hath <abbr expan="deceived">deceiv'd</abbr> me in the Stafford rent roles<lb/>
+Mr Carter Differs with <abbr expan="your">yr</abbr> Accot but 41 Acres you paid nothing<lb/>
+<corr resp="editor">[damage]</corr> minors Accot of what he receiv'd <add place="supralinear">for <abbr expan="your">yr</abbr> Staffd land</add> he gives me Credit but<lb/>
+<corr resp="editor">[damage]</corr> 62 Acres for one year so that According to your own Accot.<lb/>
+<corr resp="editor">[damage]</corr>hat According to <abbr expan="your">yr</abbr> own Accot here is 2844 Acres not Paid for<lb/>
+which is justly my due Either from you or Minor And I believe you<lb/>
+will not dispute there is more than 3 <corr resp="editor">[damage]</corr> years due to me upon<lb/>
+youir last deeds</p>
+
+<p>You will Allow me to put you in remembrance<lb/>
+
+
+<pb n="2"/><lb/><lb/>
+In your last Naval Offrs. Accot you Settled with me as <note target="n2">Pre=<lb/>
+sident</note> there was a <sic corr="balance">ballance</sic> in my favour of 19/ If I mist=<lb/>
+ake not if which I suppose your Accot will inform you of</p>
+
+<p>If you will be at the trouble it will be easy wth<lb/>
+Minor to settle this Accot of your Stafford lands as it Ought<lb/>
+to be I am<lb/><lb/>
+</p>
+
+<closer>Sir<lb/>
+your Most Humble servt.</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. </note>
+
+<note>The county and colony have been added for clarity to the  heading on the draft.</note>
+
+<note id="n1">[1] Thomas Lee (1690-1750) of Westmoreland County was the son of Richard Lee II, and nephew of Edmund Jenings; he would build "Stratford," and succeed Carter on the Council. For a good article on Thomas Lee, see  that <A HREF="http://www.stratfordhall.org/thomas.html?RESEARCH">by Jeanne A. Calhoun </A>on Stratford plantation's website. (<cit><bibl>Burton J. Hendrick. <title>The Lees of Virginia: Biography of a Family.</title> [Boston: Little Brown, 1935]. pp. 48, 51, etc.</bibl></cit>)</note>
+
+<note id="n2">[2] As president of the Council, Carter had been acting governor after the death of Hugh Drysdale in 1726, and was entitled to certain fees from naval officers.</note>
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

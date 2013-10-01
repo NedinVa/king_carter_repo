@@ -1,0 +1,10 @@
+To get around this please do the following. 
+
+1. Click start and then click run. 
+2. In the field provided, please type Services.msc and then hit enter.
+3. Please look for Sunbelt Personal Firewall and double click on it.
+4. Click on the recovery tab. Change each of the fields first failure, second failure, and third failure from take no action to run a program. 
+5. Under program type c:\windows\system32\net.exe start SPF4.
+6. Click ok on the bottom of that window to apply the settings. 
+7. Click on the X in the upper right hand corner of the services window to close it. 
+8. Please restart your computer. 

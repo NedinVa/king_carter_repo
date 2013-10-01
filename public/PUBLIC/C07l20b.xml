@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C07l20b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Francis Lee, December 20, 1707</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 7 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">filename</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Francis Lee, December 20, 1707</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date>unpublished</date>
+   <idno type="callNo">Source copy consulted:  Christ Church Parish, Lancaster County, Processioners' Returns, 1711-1783,and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond, p.177. Extract printed William and Mary Quarterly, 1st. ser, 17(1909): 263.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1707-12-20</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C07l20bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 pp.</extent>
+<date value="1707-12-20">December 20, 1707</date>
+<idno rend="suppress">C07l20b</idno>
+<title>Letter from Robert Carter to Francis Lee, December 20, 1707</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant Francis Lee, December 20, 1707, that he has written before of the safe arrival of Ralph Wormeley's sons in the colony, and that he hopes their education proves acceptable to their relations and to the "extravagant" clothing and fittings they have brought in. He hopes their estates will provide a living to support this style which he thinks Ralph's will while John's will be much less. He continues that he has been reviewing the papers relating to his work as one of the Wormeleys' trustees, and requests Lee send him several accounts of sales of tobacco shipped to him for sale as he must be ready to account to the other trustees for his actions.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="FL">Francis Lee,</note> December 20, 1707</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1707-12-20">Decr: 20th: 1707</date><lb/>
+Mr. Fra: Lee<lb/>
+</dateline>
+</opener>
+
+<p>I have already advised of the safe Arrival of the young <lb/>Wormelyes to the excessive Joy of a 
+passionate mother &amp; hope their<lb/>Education answerable to their relations desires &amp; their own 
+extra=<lb/>=ordinary charge their Equipment in my Esteem was a great deal too<lb/>extravagant however 
+if others they are pleased I have little to say<lb/>only wish their incomes may keep pace wth their goings 
+out else t'will<lb/>prove imprudent prodigality in the end Ralph has a very fine <lb/>well setled Virginia 
+Estate with tollerable good husbandry cannot do<lb/>amiss John under much narrower circumstances but 
+I'le make no further <note target="n1">descants</note>.</p> 
+ 
+<p>I have bin lately overhauling the papers relating to their aff<add resp="editor">[airs]</add> <lb/>as far as 
+they have passed thro my hands I miss an Accot of Sa<add resp="editor">[les]</add> <lb/>of yors of Twenty 
+hhds sent you in the <name type="ship">Lawrel</name> <name type="person">Jno Rimer</name> 
+M<add resp="editor">[aster]</add> <lb/>in the year 1702 &amp; likewise the Accot Currt for that year wch 
+are <lb/>mislaid by what accident I know not pray youl Send me <lb/>Fresh Accots. that I may be able to 
+give an Accot of my Stew<add resp="editor">[ard=]</add><lb/>=ship when thereto required The Tobo sent 
+you per Cap<add resp="editor">[tain ]</add> <add resp="editor">[James] Morgan</add> <add resp="editor">[on]</add> <lb/>the <note target="n2">Jno &amp; Margate</note> <add place="supralinear">in 1705 </add>I have yet no Accot. of but 
+expect it [next shipping] <lb/>next I have not to add but to wish you 
+prosper<add  resp="editor">[ity]</add></p> 
+ 
+ 
+<closer>Yor Countryman &amp; Hum<add  resp="editor">[ble Servt]</add> </closer> 
+ 
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+<note><hi rend="italics">Source copy consulted:</hi>  Christ Church Parish, Lancaster County, Processioners' Returns, 1711-1783, and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond, p.177. Extract printed <title>William and Mary Quarterly</title>, 1st. ser, 17(1909): 263. </note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note><lb/>
+
+
+<note id="n1">[1] Descants are carping criticisms.</note> 
+ 
+<note id="n2">[2] The <hi rend="italics">John &amp; Margaret</hi> was built in England, was of seventy tons, and carried six guns; she sailed from London under Captain <name type="person">James Morgan</name> [Naval officer's return, Rappahannock River, 1705 June 24-Sept. 29, CO5/1441, ff. 458]</note> 
+ 
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

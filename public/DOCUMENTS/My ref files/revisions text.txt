@@ -1,0 +1,174 @@
+https://staging.bridge.lib.virginia.edu
+
+The county and colony have been added for clarity.
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than
+"Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been
+added for clarity.</note><lb/>
+
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2003, was revised October xx, 2012, to strengthen the modern language version text.</hi></note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2003, was revised October 2, 2012,  to add footnotes and strengthen the modern language version text.</hi></note>
+
+found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. This is the recipient's copy, signed by Carter with his usual large and prominent signature, indicated here by the use of bold italics.. 
+
+INVENTORY:  http://etext.lib.virginia.edu/etcbin/browse-carter?id=C33inven.xml&images=images/modeng&data=/web/data/users/berkeley&tag=public
+WILL:  http://etext.lib.virginia.edu/etcbin/browse-carter?id=RCwill.xml&images=images/modeng&data=/web/data/users/berkeley&tag=public
+BIBL XREF "HREF=  <A HREF "Cbibl.html#xx">   </A>
+
+Fairfax Proprietary papers, 1675-1843, BR 227, The Huntington Library, Art Collections and Botanical Gardens
+
+XREF IN HTML FILE TO OTHER CARTER FILES, INC. XML ONES.
+<a href="/etcbin/browse-cartermod?id=C33inven.xml&images=images/modeng&data=/web/data/users/berkeley&tag=public">complete inventory </a>
+
+
+<xref to="SPECIFIC PARTS OF THE MAIN OR HOME PAGE: /users/berkeley/#"></xref>
+		Northern NeckLease:   http://etext.lib.virginia.edu/users/berkeley/#Northern Neck
+******************************************************************
+<xref to="ANOTHER PAGE IN CARTER SITE: "/users/berkeley/public/Cfilename"></xref>  
+****************************************************************
+<xref to="EXTERNAL LINKS: include full web address including http://"></xref> PUT BACK 
+SLASHES IN FRONT OF ALL FORWARDD SLASHES IN WEB ADDRESS IN !ENTITY ONLY!!!
+	CHANGE "EXT #" TO NEXT NUMBER, AND 
+
+*******ADD IT IN CARTER.PL  and in CARTERMOD.PL under "#cross references"
+$a =~ s/<xref to="Ext@@">/<a href="http:\/\/@@@">/g;
+
+
+
+***** SEE C22a03a.xml or C23g04c.xml FOR WORKING EXAMPLES*****
+
+<!NOTATION YYY  SYSTEM "@@@">
+<!ENTITY Ext@@ SYSTEM "http://www.@@@" NDATA YYY>
+
+[<!NOTATION html SYSTEM "htm">
+<!ENTITY Ext24 SYSTEM "http://www.yulefamily.com\/newsletters\/yule24.htm" NDATA htm>]
+
+
+
+
+
+Ext8: C23g05f				Ext26: C23h08c
+Ext9: C23g05f				Ext27: C23h08c
+Ex10: C23g05f				Ext28: C23i04a
+Ex11: C23g05f				Ext29: C23i04a
+Ext12: C23g06b				Ext30:  CD1723
+Ext13: C23g06b				Ext31:  CD1723							
+Ext14: C23g06b				Ext32:  CD1725				
+Ext15: C23g				Ext33: CD1725				
+Ext16: C23g				
+Ext17: C23g13a				
+Ext18: C23g29a				
+Ext19: C23g29b				
+Ext20: C23g29b				
+Ext21: C16c21a
+Ext22: C23
+Ext23: CD1722
+Ext24: CD1722
+Ext25: 
+
+Latest,7/8/2010, is Ext33--use Ext34 next
+
+
+$a =~ s/<xref doc="([^\"]*)">/<a href="http:\/\/etext.lib.virginia.edu\/etcbin\/browse-carter?id=$1.xml&images=images\/modeng&data=\/web\/data\/users\/berkeley\&tag=public" target="_wblank">/g;
+$a =~ s/<xref to="Ext1">/<a href="http:\/\/www.abdn.ac.uk\/virtualmuseum\/index.php?page=object_detail&prefix=ABDUA&num=18746&firstview=true&mt=&sign=&viewnumber=&resultsperpage=9">/g;
+$a =~ s/<xref to="Ext2">/<a href="http:\/\/www.angelfire.com\/journal\/millrestoration\/history.html">/g;
+$a =~ s/<xref to="Ext3">/<a href="http:\/\/www.bodley.ox.ac.uk\/cgi-bin\/ilej\/image1.pl?item=page&seq=1&size=1&id=gm.1732.11.x.2.x.x.1082">/g;
+$a =~ s/<xref to="Ext4">/<a href="http:\/\/www.stratfordhall.org\/learn\/lees\/thomaslee.php">/g;
+$a =~ s/<xref to="Ext5">/<a href="http:\/\/xpda.com\/family\/default.htm?page=Fauntleroy-Moore-ind02073.htm">/g;
+$a =~ s/<xref to="Ext6">/<a href="http:\/\/www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm">/g;
+$a =~ s/<xref to="Ext7">/<a href="http:\/\/www.next1000.com\/family\/EC\/tarpley.johnI.html">/g;
+$a =~ s/<xref to="Ext8">/<a href="http:\/\/www.octhouse.com\/allertonreport.html">/g;
+$a =~ s/<xref to="Ext9">/<a href="http:\/\/www.shirleyassociation.com\/NewShirleySite\/NonMembers\/Surnames\/LeeSurname.html">/g;
+$a =~ s/<xref to="Ext10">/<a href="http:\/\/www.angelfire.com\/tx4\/custer\/ball.html">/g;
+$a =~ s/<xref to="Ext11">/<a href="http:\/\/www.lva.virginia.gov\/public\/using_collections.asp#_guides-BirthsDeathsMarriagesVitalRecords.html">/g;
+$a =~ s/<xref to="Ext12">/<a href="http:\/\/www.geocities.com\/Heartland\/Prairie\/3596\/Hayney\/d679.htm#P679">/g;
+$a =~ s/<xref to="Ext13">/<a href="http:\/\/www.angelfire.com\/tx4\/custer\/ball.html">/g;
+$a =~ s/<xref to="Ext14">/<a href="http:\/\/www.dinsdoc.com\/bruce-1-7.htm">/g;
+$a =~ s/<xref to="Ext15">/<a href="http:\/\/www.poslfit.homeip.net\/cgi-bin\/genea2.pl?id=10301.htm">/g;
+$a =~ s/<xref to="Ext16">/<a href="http:\/\/www.mathewscommunications.com\/mathews\/mw1\/mw1g93.htm#6068">/g;
+$a =~ s/<xref to="Ext17">/<a href="http:\/\/www.pbs.org\/wgbh\/aia\/part1\/1p269.html">/g;
+$a =~ s/<xref to="Ext18">/<a href="http:\/\/www.homepages.rootsweb.com\/~edburton\/\/fam03055.htm">/g;
+$a =~ s/<xref to="Ext19">/<a href="http:\/\/www.british-history.ac.uk\/report.aspx?compid=58704.html">/g;
+$a =~ s/<xref to="Ext20">/<a href="http:\/\/www.18cnewenglandlife.org\/18cnel\/ofsilk.htm">/g;
+
+$a =~ s/<xref to="Ext22">/<a href="http:\/\/www.gen.culpepper.com\/historical\/legends\/lords.htm">/g;
+$a =~ s/<xref to="Ext23">/<a href="http:\/\/www.encyclopedia.com\/doc\/1O79-Williamsburg.html">/g;
+$a =~ s/<xref to="Ext24">/<a href="http:\/\/www.yulefamily.com\/newsletters\/yule24.htm">/g;
+
+$a =~ s/<xref to="Ext26">/<a href="http:\/\/www.haut-brion.com\/home\/en\/fiches\/chb.php">/g;
+$a =~ s/<xref to="Ext27">/<a href="http:\/\/www.artfund.org\/artwork\/2188\/mrs-peter-how-and-her-two-children-peter.htm">/g;
+$a =~ s/<xref to="Ext28">/<a href="http:\/\/www.nwta.com\/patterns\/pdfs\/111dict.pdf">/g;
+$a =~ s/<xref to="Ext29">/<a href="http:\/\/www.scottish-towns.co.uk\/borders\/galashiels\/index.html">/g;
+$a =~ s/<xref to="Ext30">/<a href="http:\/\/answers.com\/topic\/potato.htm">/g;
+$a =~ s/<xref to="Ext31">/<a href="http:\/\/www.freepages.genealogy.rootsweb.ancestry.com\/~nelmstnms\/Virginia/Richard%20Nelms.htm">/g;
+$a =~ s/<xref to="Ext32">/<a href="http:\/\/www.angelfire.com\/journal\/pondlilymill\/glossary.html#anchor24973">/g;
+$a =~ s/<xref to="Ext33">/<a href="http:\/\/www.homepages.rootsweb.com\/~marshall\/esmd73.htm">/g;
+
+
+************************************************************************
+
+<corr resp="editor" sic="^?[]">^&</corr> 
+<sic corr="^?[]">^&</sic>
+<add resp="editor"></add>
+<corr resp="editor"></corr> 
+Photograph of Christ Church, Lancaster County; <lb/>the Carter tombs are to the right of
+the building."
+
+
+<!NOTATION jpg SYSTEM "jpg">   
+<!ENTITY fig1 SYSTEM "http://etext.virginia.edu/users/berkeley/fig1.jpg" NDATA jpg>  
+
+<p><figure entity="fig1.jpg">
+<figDesc>Photograph of the Robert Carter Tomb</figDesc>
+</figure>
+</p>
+
+
+
+ Available online at a <xref to="Ext1">Bodley Library site.</xref>
+
+<!NOTATION php SYSTEM "php">
+<!ENTITY Ext4 SYSTEM "http://www.stratfordhall.org/learn/lees/thomaslee.php" NDATA php>
+
+
+
+You're right that the problem was not particularly an XML error but lay within the rather arcane Perl script 
+that helps parse the XML (carter.pl).  Near the end of that file, you'll see a "cross references" section that matches 
+up various "xref to" statements with their HTML links.  I've added a new one, named "Ext3" to the list.  Each new 
+link will require a similar statement in the carter.pl file with the same format (including the ugly \/ notation for 
+any forward slashes in the URL or HTML tags).
+
+
+There was not a similar process for images, so I've added one directly after the cross references section.  It matches 
+up (actually replaces) any use of in the XML file with the appropriate image file. 
+
+
+
+$a =~ s/<figure entity="fig1">/<img
+src="\/users\/berkeley\/public\/fig1.jpg" alt="Photograph of the Robert Carter Tomb" style="width: 600px"><br\/><\/image>/g;
+
+$a =~ s/<figure entity="Diary1">/<img src="\/users\/berkeley\/public\/Diary1.jpg" alt="Portion of 1725[26] diary page" style="width: 600px"><br\/><\/image>/g;
+
+$a =~ s/<figure entity="Church">/<img src="\/users\/berkeley\/public\/Church.jpg"  float="right" alt=""style="width: 600px"><br\/><\/image>/g;
+
+
+
+FOR HOME PAGE ONLY (?) --HTML
+
+<IMG
+SRC="http://etext.lib.virginia.edu/users/berkeley/public/king.jpg"
+WIDTH="250" HEIGHT="300" BORDER="1" BORDER-COLOR="ffffff" HSPACE='50'
+ALT="Portrait of Robert Carter" STYLE="Float: left">
+
+I believe the text editor you are using inserted line breaks after a certain number of characters, 
+leading to syntax errors.  Perl is a bit fussy about whitespace, so everything from the $a ~= to the semicolon 
+needs to be on one line.  I removed the extra breaks which seems to have fixed the problem.
+
+################################
+
+You have two options for creating links in both the modern and original spelling versions.  The first is to copy the Ext lines from
+carter.pl and paste them in cartermod.pl (the file that controls the modern spelling display).  
+
+

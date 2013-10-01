@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C2727g24d">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to John Falconar, July 24 and August 22, 1727</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 12 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C27g24d.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2003</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to John Falconar, July 24 and August 22, 1727</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1727-07-24</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C27g24dT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1727-07-24"></date>
+<idno rend="suppress">C27g24d.xml</idno>
+<title>Letter from Robert Carter to John Falconar, July 24 and August 22, 1727</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant John Falconar, July 24 and August 22, 1727, to send bills of lading (not present) for tobacco of his own, the Burwell estate, and his grandson, Carter Burwell. He sends an invoice (not present) for goods, and notes that he has some debts which he intends to have paid into Falconar's hands "to answer all my Occasions." In a lengthy post script dated August 22, 1727, he sends a copy of the earlier invoice (not present),  an invoice for medicines (not present), an order on Micajah Perry for &pound;200 (not present), and a bill of lading (not present)  for 17 hogsheads of tobacco that he wishes sold promptly. He also orders some silver long promised to his daughter, Elizabeth (Carter) Burwell Nicholas, and tells Falconar that Mr. Pratt, his old friend, will assist in this purchase.  </p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note target="n1">John Falconar,</note> July 24 and August 22, 1727</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1727-07-24">July the. 24th. 1727</date><lb/>
+Mr. John Falconar<lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+<p>My last went by <note target="n2">Hopkins</note> in the <name type="ship">Mary</name> by whom <lb/>Sent you 20 hhds: of <abbr expan="Tobacco">Tobbo:</abbr> this accompanys <abbr expan="Captain">Capt:</abbr> Buckeridge in yor: <lb/><note target="n3"><sic corr="Marlborough"><name type="ship">Marlborrough</name></sic></note> and bring<add resp="editor">[s]</add> you bills of Lading for the following <abbr expan="Tobacco">Tobbo:</abbr> <lb/>To witt 20 hogsheads of my own Crop. The 13 NB a Crop of <note n="NB">Mr. Burwells </note><lb/>The 14 NCB a Crop likewise on the Accot: of <note target="n4">Carter Burwell</note> one of <lb/>his Sons and is Equally <sic corr="valuable">valueable</sic> in reputation I think from all <lb/>this you may Conclude you grow into my Esteem apace I have <lb/>done my utmost to Serve your Ship and am glad to find you have <lb/>no dead freight to pay at last Accots: of this <abbr expan="Tobacco">Tobbo:</abbr> must be kept <lb/>Distinct I am afraid we Shall not be in full Cash with you for the <lb/>Clearing of all this <abbr expan="Tobacco">Tobbo:</abbr> what wee fall Short and you Assist us with <lb/>I shall <sic corr="Study">Studdy</sic> to oblige you Suitably hereafter this is <add place="supralinear">the</add> only year I <lb/>reckon <sic corr="we">wee</sic> Shall want of full Credit for our <del>Credt ?</del> Concern,</p>
+
+<p>Herein I Send an Invoice for Some goods I <sic corr="believe">beleive</sic> <lb/>will amount to near about Two hundred pounds in the Shipping <lb/>whereof I desire you will follow the directions I have Several Consid<lb/>erably <add resp="editor"> [<hi rend="italics">sic</hi>]</add> Sums of money due to me that I Expect to receive in a few <lb/>Months which intend to <sic corr="remit">remitt</sic> into your hands and hope will <lb/>be ready time Enough to answer all my Occasions. <abbr expan="Captain">Capt:</abbr> Buckeridge <lb/>now at my house is in very great <sic corr="haste">hast</sic> I can add no more but </p>
+
+<closer>Yor: very humble Servt:
+<seg type="postscript"><lb/><lb/>per Buckeridge
+<lb/>Copy per <note n="CS">Carter</note>&mdash;</seg>
+
+<seg type="postscript">
+<pb n="2"/><lb/><lb/>
+Sir&mdash;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rappahannock, <abbr expan="August">Augst:</abbr> the 22d: 1727<lb/><lb/>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;herewith I Send you a Copy of my Invoice also <lb/>a Small Invoice for some physick which I desire may be bought <lb/>at the Apothecarys hall that I may have the medicines fresh &amp; good <lb/>and truly made up according to the dispensatory and pray your <lb/>particular care in having them well and Safely <sic corr="Packed">Packt</sic> up.<lb/><lb/>
+
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;According to my former promise of remitting <lb/>Some money into your hands I now Send you an Order upon <note n="MP2">Mr. <lb/>Perry</note> for the sum of Two hundred pounds which I hope will well <lb/>Enough answer all my Occasions,<lb/><lb/>
+	
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;herein also is a bill of Lading for 17 hogsheads of Tobacco <lb/><sic corr="Consigned">Consignd</sic> by the Carter which I desire may be Sold as soon as it <lb/>comes home for Exportation at least that it be bonded and none of <lb/>my money laid out in the payment of the customs and Sold <sic corr="off">of</sic> as soon <lb/>as you can meet with a Suitable market accoding to the best <abbr expan="Judgement">Judgemt.</abbr> <lb/>you can make&mdash;<lb/><lb/>
+
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have bin long under a promise of laying out <lb/>&pound;50 for my <note n="ECB">Daughter Nicholas</note> in Such things as She Should desire <lb/>which she now Chooses to be laid out in the following Plate to <lb/>witt, A Two <sic corr="Eared">Eard</sic> <note target="n5">Caudle</note> Cup and Cover, to hold 2 quarts to be <lb/>round plain Substantial Plate, a Coffee <sic corr="Pot">Pott</sic> plain, to hold 1 <abbr expan="quart">qt.</abbr> <lb/>and a Tea <sic corr="Pot">Pott</sic> to hold a Pint, all the Plate to have my Coat of <lb/>Arms upon it. She writes to <note target="n6">Mr. Pratt</note> about it and so have I whos<add resp="editor">[e]</add> <lb/>care and Assistance in the well buying of it I doubt now he will <add place="supralinear">pleasingly</add> afford <lb/>to his old friends I Shall take my leave of you at present &amp; am <lb/>very Sincerely<lb/><lb/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor: <abbr expan="Esteemed">Esteem'd</abbr> friend &amp; humble Servt.<lb/><lb/>
+
+<add resp="editor">[per]</add>the Carter
+</seg>
+</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. </note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
+
+<note id="n1">[1] John Falconar was a London merchant with whom Carter dealt. In 1728, Falconar and Henry Darnell formed an association of 29 London tobacco merchants to deal with the French tobacco purchasing agent as a group in order to keep the price as high as possible. The association lasted only lasted a year or two before dissolving because some of its members were dealing directly with the French agent and selling below the agreed-upon price. (<cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> Newport News, VA: Mariners' Museum, 1953. p. 129</bibl></cit>)</note>
+
+<note id="n2">[2] Captain James Hopkins commanded the <hi rend="italics">Mary</hi> in 1727-1728. He was then working for London merchant Robert Cary. He is mentioned in Carter's diary. (<cit><bibl>Adm. 68/194, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n3">[3] The <hi rend="italics">Marlborough</hi> was a vessel of 100 tons and 14 men, owned by John Falconar (as is noted in this letter), and commanded by George Buckeridge (Buckbridge). (<cit><bibl>Admiralty 68/195, abstracted in Survey Report 6801, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n4">[4]  Carter Burwell (1716-1756) was Robert Carter's grandson by his daughter Elizabeth (Carter) Burwell and her first husband, Nathaniel Burwell (1680-1721). Carter Burwell would live at "Carter's Grove," and would marry Lucy Grymes in 1738. (<cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 128.</bibl></cit>)</note>
+
+<note id="n5">[5] A caudle cup was a "small, two-handled silver cup, usually with a cover, originally made in England during the second half of the 17th century and possibly used for caudle--warm ale or wine mixed with bread or gruel, eggs, sugar, and spices--which was administered to women after childbirth and to convalescents." (Encyclopedia Brittanica online, http://www.britannica.com/eb/article-9021870/caudle-cup. 8/27/2007)</note>
+
+<note id="n6">[6] John Pratt was a London merchant and an old friend of Carter's usually referred to him as "Daddy."</note>
+
+
+
+
+
+</div1>
+</back>
+<hi rend="italics">Revised 8/27/2007</hi>
+</text>
+
+</TEI.2>

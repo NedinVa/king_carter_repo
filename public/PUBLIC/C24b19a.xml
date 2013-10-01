@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C24b19a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to [Governor Hugh Drysdale], February 19, 1724</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 5 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C24b19a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2002,2011</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to [Governor Hugh Drysdale], February 19, 1724</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1724-02-19</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C24b19aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1724-02-19"></date>
+<idno rend="suppress">C24b19a.xml</idno>
+<title>Letter from Robert Carter to [Governor Hugh Drysdale], February 19, 1724</title>
+</bibl>
+</head>
+<p>Robert Carter writes to the governor, Hugh Drysdale, February 19, 1724, explaining that he will be unable to attend a meeting of the Council called by the governor because his gout has been so bad all winter that he has not been on a horse, has rarely  worn his shoes, and has only been able to attend church 2 or 3 times when he has gone in his coach.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to [Governor <note n="HD">Hugh Drysdale</note>], February 19, 1724</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Corot<add resp="editor">[o]</add>m<add resp="editor">[an, Lancaster County, Virginia]</add></name><lb/>
+<date value="1724-02-19"><hi rend="underline">Febr. 19th. 1723/4</hi></date><lb/>
+</dateline>
+<salute><sic corr="May it Please Your Honor,">May it Pleas yr. Honr.</sic></salute>
+
+</opener>
+
+<p>Your <abbr expan="honors '">honrs:</abbr> Express for a Council this day I had not <sic corr="until ">till</sic> last night <lb/>after candle light The necessity You are <sic corr="pleased ">pleas'd</sic> to say You are in for a full meet=<lb/>ing would oblige me to struggle with all the difficulties in the way were my <lb/>circumstances tolerable for the journey but the <note target="n1">Gout</note> hath been an inseperable <lb/>companion to me all this Winter and I have never <sic corr="bestried ">bestry'd</sic> a horse since <lb/>I left Williamsburg nor have I had my <sic corr="shoes ">Shoos</sic> on one whole day together <lb/>nor have I <sic corr="escaped ">escap'd</sic> <del>without</del> without <sic corr="swollen ">Swolen</sic> feet every night Indeed I have <lb/>been twice or thrice at our Church with the help of my Coach taking care <lb/>to wrap my feet very warm these reasons I hope will be a sufficient ex=<lb/>cuse for my absence otherwise I should gladly contribute my <del>[illegible]</del> assistance <lb/>in determining upon the weighty affairs now before Your <abbr expan="honor ">honr.</abbr> thinking <lb/>it an incumbent duty to approve myself with my utmost capacity </p>
+
+<closer>Your Honrs. <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Most Obedient <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And Most Humble Servant. </closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1723 June 16-1724 April 23, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note id="n1">[1] Gout is "a specific constitutional disease occurring in paroxysms, usually hereditary and in male subjects; characterized by painful inflammation of the smaller joints, esp. that of the great toe, and the deposition of sodium urate in the form of chalk-stones; it often spreads to the larger joints and the internal organs."  (<cit><bibl><title>Oxford English Dictionary Online</title></bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2002, was revised February 21,  2011, to add a footnote, and to strengthen the modern language version text.</hi></note>
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

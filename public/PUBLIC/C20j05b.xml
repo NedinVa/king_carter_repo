@@ -1,0 +1,243 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C20j05b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to [Lieutenant
+Governor Alexander Spotswood], October 5, 1720</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia
+Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 7 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">filename</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL:
+http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to [Lieutenant Governor
+Alexander Spotswood], October 5, 1720</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date>1940</date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter
+Book, 1720 July-1721 July, BR 227, Huntington Library, Art
+Collections, and Botanical Gardens, San Marino, California.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic
+Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text
+Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject
+Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1720-10-05</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term
+type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C20j05bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1720-10-05"></date>
+<idno rend="suppress">C20j05b.xml</idno>
+<title>Letter from Robert Carter to [Lieutenant Governor Alexander
+Spotswood],  October 5, 1720</title>
+</bibl>
+</head>
+<p>Robert Carter writes to the colony's governor, Alexander
+Spotswood, October 5, 1720, to send "my returns of the Militia In
+this County &amp; Northumberld." of which he is the commander. He
+gives some details, and notes some difficulties with the assignments
+in Northumberland, suggesting some changes for Spotswood's
+consideration, and that they might discuss the situation when Carter
+comes to the General Court meeting.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to [Lieutenant Governor <note
+target="n1">Alexander Spotswood],</note> October 5, 1720</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><abbr expan="Lancaster ">Lancr. </abbr> <corr
+resp="editor">[County,
+Virginia]</corr> </name><lb/>
+<date value="1720-10-05"><abbr expan="October ">Octr. </abbr> 5.
+1720</date><lb/>
+[Lieutenant Governor Alexander Spotswood]<lb/>
+</dateline>
+<salute>May It please Yor. <abbr expan="Honor ">Honr. </abbr></salute>
+
+</opener>
+
+<p>This <abbr expan="accompanies ">accompas. </abbr> my returns of
+the Militia <lb/>In this County
+&amp; <abbr expan="Northumberland ">Northumberld.</abbr>
+ in wch. I have endea=<lb/>=<sic corr="voured ">vourd</sic> as near
+as I could to follow Your
+<add place="supralinear"><abbr expan="Honors' ">Honrs.</abbr>
+</add> order <lb/>this County falls Naturally enough into two
+Can<add place="supralinear">tons</add> <lb/>each affording <add
+place="supralinear">a suitable number for</add> a Troop &amp; <sic
+corr="Foot ">Foote</sic>
+Company <lb/>Northumberland <sic corr="does ">doth</sic> not happen
+so well,
+Wico=<lb/>=comoco Canton is large enough to make two <abbr
+expan="companies ">Comps</abbr>
+ <lb/>of <sic corr="Foot ">Foote</sic> &amp; but one Troop.
+Fairfields the Same <lb/>to
+Divide these into more Cantons <sic corr="there ">their</sic> would
+<lb/>not be persons of ability to make a Troop in any <lb/>of them,
+If Yor. <abbr expan="Honor ">Honr.</abbr>
+ would think It proper to <lb/>order two <abbr
+expan="companies ">Compas.</abbr>
+ of foot in each of these Can=<lb/>=<sic corr="tons ">ton</sic>
+they might be well enough distinguished by <lb/><unclear>[ . . .
+]</unclear> upper &amp; Lower <del>any Method that <lb/>Yor. <abbr
+expan="Honor ">Honr. </abbr>
+Shall <corr resp="editor">[choose]</corr>  to direct Shall be <sic
+corr="satisfactory ">sattisfactory</sic> <lb/>to me who
+am</del> <abbr expan="Honorable ">Honble. </abbr> Sir. </p>
+
+<closer>Yor. <abbr expan="Honors' ">Honrs:</abbr> most <abbr
+expan="obedient ">obedt. </abbr> <lb/>&amp; most humble
+Servt.<lb/><lb/>
+
+<seg type="postscript">I have two <abbr
+expan="lieutenants ">Lieuts.</abbr>
+ Commissions <lb/>left one for the horse the other <lb/>for the
+<sic corr="foot. ">foote.</sic></seg><lb/><lb/>
+
+<seg type="postscript">I am not very well acquainted wth. the <abbr
+expan="gentlemen ">Gent.</abbr>
+ of the <lb/>upper parts of Northumberland County. Have the
+<lb/>return of their names from <note target="n2"><abbr
+expan="Colone l">Collo.</abbr>
+ Hack.</note> <lb/>If Yor. <abbr expan="Honor ">Honr. </abbr> be
+pleased <del>to think It c<sic corr="fitt "></sic></del> to
+delay the <lb/>filling up the Commissions till I wait upon You
+<lb/>at the General Court I shall <del>endeavour to</del> Inform
+my<lb/>self who may be the properest persons to have them.</seg>
+
+
+</closer>
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+<note><hi rend="italics">Source copy consulted:</hi>  Robert Carter
+Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art
+Collections, and Botanical Gardens, San Marino, California. Printed:
+<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . .
+.</title> p. 51.</bibl></cit>
+</note>
+
+<note>Robert Carter generally used a return address of
+"Rappahannock" for the river on which he lived rather than
+"Corotoman," the name of his home, on his correspondence, especially
+to merchants abroad. The colony and state have been added for
+clarity.</note><lb/>
+
+<note id="n1">[1] Alexander Spotswood (1646-1740) was the resident
+lieutenant governor from 1710 to 1722.</note><lb/>
+
+<note id="n2">[2] Peter Hack (<hi rend="italics">ca. </hi>1690-1717)
+was sheriff of Northumberland County in 1716 and 1717. (Dates from
+<cit><bibl>"Person Page 504," from M. K. Miles, <hi
+rend="italics">compiler,</hi> "The Miles Files, Version 7.0, Sep
+2007," [online at http://www.ghotes.net/milesfiles7/p504.htm,
+2/17/2009]</bibl></cit> and  <cit><bibl n="B10">McIlwaine.
+<title>Executive Journals of the Council. . . .</title>, 3[1705-
+1721]: 425, 448. </bibl></cit> Other information about Hack may be
+found in <cit><bibl>"Tithables of Lancaster County, 1654," <title>
+Virginia Magazine of History and Biography, </title> 5(1897)249-
+260</bibl></cit> an online Google book.)</note><lb/> 
+<note>Carter must have received the information about the
+Northumberland militia from Peter Hack after he 
+(Carter) was appointed militia commander of Lancaster and
+Northumberland counties in 1715 since Hack had died 
+several years before this letter was written. (<cit><bibl
+n="B10">McIlwaine. <title>Executive Journals of the 
+Council. . . .</title>, 3[1705-1721]: 419. </bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text revised February 17,
+2009.</hi></note>
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

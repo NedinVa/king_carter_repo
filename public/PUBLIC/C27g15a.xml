@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C27g15a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to William Camp, July 15, 1727</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 9 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C27g15a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2003</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to William Camp, July 15, 1727</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1727-07-15</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C27g15aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1727-07-15"></date>
+<idno rend="suppress">C27.xml</idno>
+<title>Letter from Robert Carter to William Camp, July 15, 1727</title>
+</bibl>
+</head>
+<p>Robert Carter writes to William Camp, the manager of the Burwell estates in Gloucester County, July 15, 1727, concerning his settlement of accounts with his son-in-law, George Nicholas, over those estates, and work to be done at Rippon Hall in York County.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note target="n1">William Camp,</note> July 15, 1727</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
+<date value="1727-07-15">July the 15th: 1727</date><lb/>
+Wm. Camp&mdash;<lb/>
+</dateline>
+
+
+</opener>
+
+
+
+<p>The foregoing is the Letter <note n="ECB">Mr. Nicholas</note> lost I have <lb/>Seen the Accots: <sic corr="Delivered">Deliverd</sic> to him there is one Accot: more you must get <lb/>ready which is how the Levys have bin paid with these Accots and your <lb/>Assistance if the Doctor and I can find a time to meet at <note n="MPP1">Colonel Pages</note> <lb/><sic corr="we">wee</sic> Shall bring all these little matters to a <abbr expan="Settlement">Settlemt.</abbr> and so will <lb/>leave them at present,</p>
+
+<p>You tell me you had a meeting with Hazlewood &amp; <lb/>that he will meet me at <note target="n2">Town</note> when I come there I am generally so <lb/><sic corr="busy">busie</sic> when I am there that it will be no proper place to make an <lb/><abbr expan="Agreement">Agreemt.</abbr> with him at Indeed the properest plase would be to see him <lb/>at <note target="n3">Rippon</note> but how to Contrive that I dont know as for his doing the <lb/>work by <note target="n4">Squares</note> it is a way I am not acquainted with I would make <lb/>a particular <abbr expan="agreement">agreemt.</abbr> with him what he is to do and know the Certainty <lb/>of what I must pay him for it. It is a large <sic corr="Job">Jobb</sic> and will be worth <lb/>his while to <sic corr="undertake">undertak</sic> it at a reasonable rate. I was telling you of <lb/>another Carpenter that lives near the Town whose name is out of my <lb/>head I think you told me you knew him that I had a very good 
+
+<pb n="2"/><lb/><lb/>
+Character of from <note n="WR">Mr. Robertson</note> and would be very glad of Such <lb/>a piece of work The next time you go to Rippon if you could get him a <lb/>long with you and know his Opinion of the work and what he will <lb/>take to do it would be very well I hope you will take care, that the <lb/><abbr expan="Tobacco">Tobbo:</abbr> house at rippon be very well built I shall add no more at present</p>
+
+
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1727 May-1728 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>The name of Carter's home, the county, and colony have been added for clarity to this unheaded draft.</note>
+
+<note id="n1">[1] William Camp was described by Carter as "the General Overseer of Mr Burwell's Affairs" and he wrote that Camp earned a salary "&pound;50 . . . for the year 1731." Carter and his son-in-law, Mann Page, were the trustees of Nathaniel Burwell's children after Burwell's death in 1721. Camp was a resident of Gloucester County where most of the Burwell estates lay, and he must also have supervised "Rippon Hall" in nearby York County. (Carter to George Braxton, 1729 November 20, and Carter to William Dawkins,1732  July 11. <cit><bibl><title>Virginia Tax Records.</title> [Baltimore: Genealogical Publishing Company, Inc., 1983.] p. 539.</bibl></cit>)</note>
+
+<note id="n2">[2] Williamsburg</note>
+
+<note id="n3">[3] Rippon Hall had been Edmund Jening's estate in York County which he had acquired in 1687 from John and Unity West when it was named "Poplar Neck." Jenings's bad financial circumstances forced him to mortgage the property to Carter who eventually acquired title to it. (<cit><bibl>"Notes and Queries." <title>William and Mary Quarterly.</title> 2[Apr. 1894]: 270-278.</bibl></cit>)</note>
+
+<note id="n4">[4] The carpenter Hazelwood apparently wished to charge for his work by the square which is a builder's term for the number of shingles or slates required to roof 100 square feet, or a square area of roof ten feet on a side.</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2003, was revised April 12, 2013,  to strengthen the footnotes and modern language version text.</hi></note>
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

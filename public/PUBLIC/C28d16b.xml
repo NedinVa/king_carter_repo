@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C28d16b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Robert Jones, April 16, 1728</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+      <resp>Change of handwriting:</resp>
+     <name id="hand">unidentified clerk</name>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 11 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C28d16b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2004</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Robert Jones, April 16, 1728</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1728-04-16</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C28d16bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent> p.</extent>
+<date value="1728-04-16"></date>
+<idno rend="suppress">C28d16b.xml</idno>
+<title>Letter from Robert Carter to Robert Jones, April 16, 1728</title>
+</bibl>
+</head>
+<p>Robert Carter writes to his manager Robert Jones, April 16, 1728, regretting the bad news he seems always to receive from Jones, and complaining about the harsh treatment that some of the overseers have giiven his "people" that he is sure led to unnecessary deaths. He notifies Jones of the  experienced slaves and indentured servants that he is sending.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="RJ">Robert Jones,</note> April 16, 1728</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
+<date value="1728-04-16">Aprll: 16th. 1728</date><lb/>
+Mr Robt Jones<lb/>
+</dateline>
+
+
+</opener>
+
+
+
+<p>I find my doom from you always must be to meet <lb/>with <sic corr="melancholy">melancholly</sic> stories when all proper care hath been taken with <lb/>my people and stocks if god is pleased to visit me with these calam<lb/>itys I must <sic corr="acquiese">acquiesse</sic> patiently under his providence but when proper <lb/>care is wanting I cannot be so easy under it as I <sic corr="believe">beleive</sic> it often 
+
+<pb n="2"/><lb/><lb/>
+is in my affairs above the falls I can never think. Cassety hath done <lb/>his duty in providing a sufficient quantity of fodder and in well <lb/>and carefully feeding the creatures if they had been kept in good <lb/>heart so many of them I think never would have <sic corr="died">dyed</sic> and the care<lb/>lessness and cruelty of the Overseers in turning the people out <lb/>in hard and bitter weather hath been <add place="supralinear">I fear</add> no small Occasion of so <lb/>great a mortallity</p>
+
+<p>I now send you with <note target="n1">Jack Ashley</note> ten <lb/>or Eleven people <add place="supralinear">all old hands</add> which you must disperse in my Gangs and I hope <lb/>it will make them All full again I cannot direct you how it will be <lb/>best to disperse of them A couple of them are boys above twelve years <lb/>old that will go for half <sic corr="sharers">shearers</sic> Jack Ashley is to have the white man <lb/>and I think he may very well take a woman with him he says he has <lb/>ground enough you have made a very imprudent bargain with <note target="n2">Mr. <lb/>England</note> the corn I am sure might have been sold for more and the <lb/>buyers would have been glad to have fetched it where it is but as it is <lb/>done you must go <abbr expan="through">thro</abbr> it As well as you can and that must be <lb/>with your Cart <add place="supralinear"><hi rend="italics"><add resp="hand">(it will quite demolish your horses to Carry it upon their backs)</add></hi></add> and this you must do Leisurely as the Oxen will <lb/>endure it to be sure they will want good feeding as for Owen Greenans <lb/>debt to you I beleive his crop will hold out <abbr expan="although">altho</abbr> he hath had a good <lb/>many goods from me I hope the Sloop is with you before now I pray <lb/>God prevent any more <sic corr="Mortalities">Mortalitys</sic> among you which is all at <lb/>present from your friend &amp;ca:
+</p>
+
+<closer><seg type="postscript"><lb/><lb/>It will be work enough for your horses to Carry corn to the new <lb/><abbr expan="Quarters">Qrs:</abbr> <note n="MP1"><abbr expan="Colonel">Collo</abbr> Page</note> intends to send you another boy that will be more <lb/>tractable</seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1727 May-1728 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>The name of Carter's home, "Corotoman," the county, and colony have been added for clarity to this unheaded draft.</note>
+
+<note>Carter has reviewed the clerk's draft and added a line in his hand as is indicated by the use of italics.</note>
+
+<note id="n1">[1] Jack Ashley is mentioned a number of times in Carter's diary; he lived in
+Spotsylvania County and apparently was an overseer for Carter at one time although he does not appear in the 1732 Inventory. (<cit><bibl n="B10">McIlwaine, H. R., ed. <title>Executive Journals of the Council. . . .</title>.  4 [1721-1739]:254</bibl></cit>).</note>
+
+<note id="n2">[2] This may be John England who directed "the Accakeek Iron Works
+in Stafford County for Augustine Washington and others beginning about 1726." (<cit><bibl>George Harrison Sanford King. <title>The Register of Overwharton Parish Stafford County Virginia 1723-1758 And Sundry Historical and Genealogical Notes.</title> [Fredericksburg, VA: privately printed, 1961], p.132.</bibl></cit>)</note>
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

@@ -1,0 +1,220 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C20i19b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Thomas Evans,
+September19, 1720</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia
+Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 7 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">filename</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL:
+http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Thomas Evans, September19,
+1720</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 pp.</extent>
+<publicationStmt>
+     <date>1940</date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter
+Book, 1720 July-1721 July, BR 227, Huntington Library, Art
+Collections, and Botanical Gardens, San Marino, California.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic
+Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text
+Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject
+Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1720-09-19</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term
+type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C20i19T">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 pp.</extent>
+<date value="1720-09-19"></date>
+<idno rend="suppress">C20i19b.xml</idno>
+<title>Letter from Robert Carter to Thomas Evans, September19,
+1720</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant Thomas Evans,
+September19, 1720, that he has received Evans' April letter and is
+pleased with the tobacco sales reported in it. He adds that this
+year's crop is plentiful and the best of it "superlatively good." He
+asks Evans to buy him a winter suit of broadcloth "of a suitable
+Colr." with two pairs of stockings of the same color; "Mr. How hath
+my Measure fitts me very well." He closes by reporting that he has
+not received the goods Evans sent to York River for him but expects
+them shortly.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="TE">Thomas Evans,</note>
+September19, 1720</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <corr resp="editor">[Lancaster
+County, Virginia]</corr> </name><lb/>
+<date value="1720-09-19"><abbr expan="September ">Sepr. </abbr> 19.
+1720.</date><lb/>
+Mr. <abbr expan="Thomas ">Thos. </abbr> Evans<lb/>
+</dateline>
+
+
+</opener>
+
+<p>I have now Yors. of the 15th &amp; 28th of April am <abbr
+expan="pleased ">pleas'd</abbr>
+ to <lb/>find my Tobo. was all <sic corr="gone ">Gon</sic> at
+11<abbr expan=" pence ">d</abbr> may
+the last Years Crop come <lb/>to as good a <sic corr="Market,
+">Markett,</sic> It is a living
+price &amp; truly to have less <lb/>will make but poor doings wth.
+us. This Year the <sic corr="vogue ">Voge</sic> is <lb/>we have <abbr
+expan="generally ">Genly.</abbr>
+ a <sic corr="plentiful ">plentifull</sic> harvest the best of It
+<lb/>will be, It will be
+superlatively good, God willing 
+
+<pb n="2"/><lb/><lb/>
+I resolve to be wonderfully nice in the handling <lb/>of mine.</p>
+
+<p>I hope the <name type="ship">Carter</name> is with You before
+this <lb/><unclear>[. . .]
+</unclear>I omitted Sending to You for any wearing <lb/><sic
+corr="Clothes, ">Cloths,</sic> but
+now find I shall want a winter Suit <lb/>before the return of the
+next Shipping Therefore If <lb/>this <sic corr="gets ">getts </sic>
+<unclear>[. . .]</unclear> brought to you please to send <lb/>me wool
+Suit of broad cloth <unclear>[. . .]</unclear>, <lb/>of a suitable
+<abbr expan="color ">Colr.</abbr>
+ to cost between 8 &amp; 10 pounds <lb/>a <abbr expan="pair">pr.
+</abbr>
+of fine worsted &amp; a <abbr expan="pair ">pr. </abbr> <abbr
+expan="milled ">Milld.</abbr>
+ Stockings <lb/>of the same Colour, Mr. How <sic corr="has ">hath
+</sic> my Measure
+<lb/><sic corr="fits ">fitts</sic> me very well </p>
+
+<p>I have not <sic corr="yet">yett</sic> got the Goods <lb/>You sent
+me into <name type="river">York river</name> but hope I shall <lb/>in
+a little time wch. Shall be all at present from </p>
+
+<closer>Sir <lb/>Yor. humble Servt.
+</closer>
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+<note><hi rend="italics">Source copy consulted:</hi>  Robert Carter
+Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art
+Collections, and Botanical Gardens, San Marino, California. Printed:
+<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . .
+.</title> p. 48.</bibl></cit>
+</note>
+
+<note>Robert Carter generally used a return address of
+"Rappahannock" for the river on which he lived rather than
+"Corotoman," the name of his home, on his correspondence, especially
+to merchants abroad. The county and colony have been added for
+clarity.</note><lb/>
+
+<note>At the beginning of the second page of the draft of this
+letter (folio 19r), the letter book paper is of a different type,
+much more absorbent, causing thicker lines and much bleed through. 
+In addition, the outer edge of each page has damp stains that affect
+the background color. However, some of the letters entered on this
+absorbant paper were written with an ink that was not as easily
+absorbed; while it has faded a good deal, it is often easier to read.
+</note>
+
+<lb/><lb/><note><hi rend="italics">This text revised January 28,
+2009.</hi></note>
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

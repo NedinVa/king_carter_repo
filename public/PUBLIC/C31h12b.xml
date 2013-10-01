@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C31h12b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Alderman [Micajah] Perry &amp; Company, August 12, 1731</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 9 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C31h12b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2006</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Alderman [Micajah] Perry &amp; Company, August 12, 1731</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1731-08-12</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C31h12bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1731-08-12"></date>
+<idno rend="suppress">C31h12b.xml</idno>
+<title>Letter from Robert Carter to Alderman [Micajah] Perry &amp; Company, August 12, 1731</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant Alderman [Micajah] Perry &amp; Company, August 12, 1731, concerning his grandson, Lewis Burwell, then a student at the University of Cambridge. As Burwell has ignored his advice, Carter will not bother him further, but asks Perry to reduce his expenses.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to Alderman <note n="MP2">[Micajah] Perry</note> &amp; Company, August 12, 1731</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1731-08-12">Augst 12. 1731</date><lb/>
+Alderman Perry<lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+
+
+<p>I have already been very particular <lb/>
+upon every Subject only have omitted saying anything of <note target="n1">Lewis<lb/>
+Burwell</note> since the 15th. of April since which I have <abbr expan="received">receiv'd</abbr> a letter<lb/>
+from him dated the 25. of January from <note target="n2"><sic corr="Caius">Cains</sic> <sic corr="College">Colledge</sic></note> he is the<lb/>
+writer of it but I daresay the matter is <sic corr="owing">oweing</sic> to the invention of a=<lb/>
+nother it is a frothy <abbr expan="piece">ps</abbr> of Stuff in <sic corr="Justification">Justifycation</sic> of his disobedience<lb/>
+to my order he talks as if he intended to stay two years at the University<lb/>
+it is in Vain for me to lay any new injunctions upon him.  the only<lb/>
+restrictions that I can impose must arise from your treatment of him<lb/>
+by a bridging <add resp="editor"> [<hi rend="italics">sic</hi>]</add> his Expences I can only repeat what I have already said to <abbr expan="you">yu</abbr><lb/>
+in relation to him to Which I desire you will <sic corr="please">pleas</sic> to be <abbr expan="referred.">referr'd.</abbr> I<lb/>
+write to him by this conveniency  but it is with Expectations that he<lb/>
+will take as little notice of what I say now as he did before if he runs<lb/>
+into any destructive courses the Effects of them will turn upon himself<lb/>
+I have done the duty of a Parent by him.  I shall mix nothing else here<lb/>
+with but am Sir 
+</p>
+
+<closer><abbr expan="Your">Yr.</abbr> most humble Servant </closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia. There is a 19th-century transcript of the letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1] Lewis Burwell (1711 or 1712-1756), Carter's grandson by Elizabeth Carter Burwell and her first husband, Nathaniel Burwell (1680-1721); Carter was his guardian. He was educated at Eton and Cambridge, and inherited considerable property, living at "Fairfield," Gloucester County. He would be president of the Council in 1750-1751. (<cit><bibl n="B42">Kneebone <hi rend="italics">et al.</hi>,  <title>Dictionary of Virginia Biography.</title>  2:434-5.</bibl></cit> and <cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 114.</bibl></cit>)</note>
+
+<note id="n2">[2] Burwell was attending Gonville and Caius College, one of the oldest of the several that make up the University of Cambridge. (John and J.A. Venn. <title>Alumni Cantabrigienses from the Earliest Times to 1900.</title> [Cambridge: Cambridge University Press, 1922-54]. 10 volumes, cited in an email to the editor from Jaqueline Cox, archivist, University of Cambridge, 5/10/06.)</note>
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

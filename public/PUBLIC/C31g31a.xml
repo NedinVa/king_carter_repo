@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C31g31a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Edward Athawes, July 31, 1731</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 9 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C31g31a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2006</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Edward Athawes, July 31, 1731</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1731-07-31</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C31g31aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1731-07-31"></date>
+<idno rend="suppress">C31g31a.xml</idno>
+<title>Letter from Robert Carter to Edward Athawes, July 31, 1731</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant Edward Athawes, July 31, 1731, to inform him of a recent discovery of a rich vein of ore in the works of the Frying Pa copper mine, and that the company's schooner has been sent to bring a load down to Carter's home. He reminds the merchant that the Bailey is bringing 67 barrels of previousl-excavatecd ore in her bilges.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="EA">Edward Athawes,</note> July 31, 1731</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1731-07-31">July 31. 1731</date><lb/>
+Mr. Edward Athawes<lb/>
+</dateline>
+<salute>Sir</salute>
+
+</opener>
+
+
+
+<p>On the 22d Instant the partners in the <lb/>
+<note target="n1">Frying company</note> writ to <abbr expan="you">yo.</abbr> <sic corr="joint"> joynt</sic> letter of that Affair I have only a <lb/>
+<del>Small</del> <add place="supralinear">Short</add> line to add <note target="n2">Tom Dove</note> <sic corr="has">hath</sic> a Sample of the last ore we <abbr expan="received">receiv'd</abbr> <lb/>
+I have had no fresh Accot from our general Overseer there but I have <lb/>
+<abbr expan="received">receiv'd</abbr> one from another who writes from a Court <add place="supralinear">abt 25 miles off Frying pan</add> on the 23d. Instant <lb/>
+Acquainting me that a person just come from thence told him that <lb/>
+our miners the Week before had <abbr expan="raised">rais'd</abbr> three tonns of that rich ore <lb/>
+who told him he would give &pound;50 a <sic corr="ton">tonn</sic> for it here in the Country <lb/>
+this was one Shaw a refiner who we had in our business for a year &amp; a <lb/>
+half before the miners came in this I <sic corr="believe">beleive</sic> you will take for a 
+
+<pb n="2"/><lb/><lb/>
+<note target="n3">Rodamantade</note> as I do giving large grains of Allowance Yet cannot <lb/>
+forbear Conceiving there is so much in it to add Pinions to the <lb/>
+Wings of Our Expectations. I have sent up a <sic corr="Schooner">Scooner</sic> a small Vessel <lb/>
+of the Companys bought for that Service for a load of ore if so much be <lb/>
+got down to the Landing her return will enable me to give you a more <lb/>
+Certain Accot of the truth of these <sic corr="Stories.">Storys.</sic> At Present I know not of any <lb/>
+Opportunity to send some <add place="supralinear">barrels</add> of this ore to <abbr expan="you">yo.</abbr> this Shipping You may <lb/>
+<sic corr="believe">beleive</sic> if this Vein does not prove illusive to us whe <add resp="editor"> [<hi rend="italics">sic</hi>]</add> shall push <lb/>
+our Work with our <sic corr="Utmost">Outmost</sic> Zeal. I thought this further hint <lb/>
+would not be unentertaining to you</p>
+
+<p>We have loaded on board the Bailey Sixty Seven Barrels <lb/>
+of the Ore We had by us as you have been already <abbr expan="advised">advis'd</abbr> <add place="supralinear">we reckon about 21000 weight</add> a bill of Lading <lb/>
+for it you have herein to save freight it is shot into the <note target="n4">Run</note> of the <lb/>
+Ship She is not <sic corr="hindered">hindred</sic> in her Loading by it one hogshead of tobacco We do not <lb/>
+expect it is very rich but we flatter <sic corr="ourselves">ourSelves</sic> it will do Something <lb/>
+more than pay freight &amp; Charges I have already <sic corr="written">writ</sic> an answer <lb/>
+to <abbr expan="your">yr.</abbr> Paragraph relating to <abbr expan="Captain">Capt.</abbr> Dove <add place="supralinear">&amp;</add> am 
+ </p>
+
+<closer>Sir<lb/> 
+Your very humble Servant.</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia. There is a 19th-century transcript of the letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1]  In 1728, Carter, his sons Robert and Charles, and his son-in-law Mann Page,  organized a company to mine for copper on a tract of some 27,000 acres that Louis Morton describes as lying "near the present boundary of Fairfax and Loudoun counties." Fairfax Harrison wrote that the tract was "on the  Horsepen of Broad." Today, there is a Frying Pan Park just east of the border of the Dulles Airport reservation, and there are other things with the name in the area. The company was not successful. (<cit><bibl n="B32">Morton. <title>Robert Robert Carter of Nomini Hall.</title> pp. 18-19;</bibl></cit> and <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> p. 342. </bibl></cit>)</note>
+
+<note id="n2">[2] The <hi rend="italics">Bailey</hi> was a London ship owned by William Dawkins and commanded at various times by Adam Graves (1725-1730) and by Thomas Dove (1731-1732). She was a vessel of some 250 tons and carried 15-17 crew members. (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, 156v, and other data in Adm. 68/194 and /196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> A letter of Carter's executors to Dawkins 1738 May 10 refers to "your ship Bailey.")</note>
+
+<note id="n3">[3] According to the <hi rend="italics">Oxford English Dictionary,</hi> a "rodomontade" is "a vainglorious brag or boast; an extravagantly boastful or arrogant saying or speech."</note>
+
+<note id="n4">[4] the bilges</note>
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

@@ -1,0 +1,205 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C09g04a">
+
+<teiHeader type="aacr2"> 
+              
+<fileDesc> 
+<titleStmt> 
+     <title type="245">Letter from Benjamin Graves to Robert Carter,
+1709 July 4</title> 
+   <title type="gmd">[electronic resource]</title> 
+     <author>Carter, Robert</author> 
+   <respStmt> 
+     <resp>Creation of machine-readable version: </resp> 
+     <name id="editor">Edmund Berkeley, Jr.</name> 
+     <resp>Conversion to TEI.2-conformant markup</resp> 
+     <name>Edmund Berkeley, Jr., and the University of Virginia
+Library Electronic Text Center</name> 
+   </respStmt> 
+</titleStmt> 
+ 
+<extent>ca. 4 kilobytes </extent> 
+ 
+<publicationStmt> 
+     <publisher>University of Virginia Library.</publisher> 
+     <pubPlace>Charlottesville, Va.</pubPlace> 
+     <idno type="ETC"></idno> 
+     <availability> 
+     <p>Publicly accessible</p> 
+     <p n="public">URL:
+http://etext.lib.virginia.edu/modeng.browse.html</p> 
+         </availability> 
+     <date>2001</date> 
+</publicationStmt> 
+ 
+<sourceDesc> 
+     <biblFull> 
+     <titleStmt> 
+     <title>Letter from Benjamin Graves to Robert Carter, 1709 July
+4</title> 
+
+     <author>Robert Carter</author> </titleStmt>
+
+    <extent> 1 p.</extent> 
+<publicationStmt> 
+     <date>1709-07-04</date> 
+   <idno type="callNo"> Source copy consulted: Carter Papers, Mss
+1(2468a6), Virginia Historical Society, Richmond. This is the
+recipient's copy; on the integral address leaf is: "To the Honble.
+Robert Carter Esqre. These."</idno> 
+</publicationStmt> 
+</biblFull> 
+</sourceDesc> 
+ 
+</fileDesc> 
+     <encodingDesc> 
+     <projectDesc> 
+     <p>Prepared for the University of Virginia Library Electronic
+Text Center.</p> 
+     </projectDesc> 
+<editorialDecl> 
+     <p>Some keywords in the header are a local electronic Text
+Center scheme to aid in establishing 
+analytical groupings.</p> 
+</editorialDecl> 
+ 
+<classDecl> 
+     <taxonomy id="LCSH"> 
+     <bibl> 
+     <title>Library of Congress Subject Headings</title> 
+     </bibl> 
+     </taxonomy> 
+</classDecl> 
+</encodingDesc> 
+ 
+<profileDesc> 
+     <creation> 
+     <date>1709-07-04</date> 
+     </creation> 
+     <langUsage> 
+     <language id="eng"></language> 
+     </langUsage> 
+     <textClass> 
+     <keywords> 
+     <term>non-fiction</term> 
+   <term>prose</term> 
+     </keywords> 
+     <keywords scheme="LCSH"> 
+     <term type="Field650">LCSH</term> 
+     </keywords> 
+     </textClass> 
+</profileDesc> 
+ 
+</teiHeader> 
+ 
+<text id="C09g04aT"> 
+
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>1 pp.</extent>
+<date value="1709-07-04"></date>
+<idno rend="suppress">C09g04a</idno>
+<title>Letter from Benjamin Graves to Robert Carter, July 4,
+1709</title>
+</bibl>
+</head>
+<p>Benjamin Graves writes to Robert Carter, July 4, 1709, from
+"Hobb's Hole" that he is sending a bundle of iron and a "pump Spear"
+and that he is sending men for the shallop which he hopes is ready;
+he requests Carter "to load her at your own 
+house."</p>
+</div1>                 
+</front>
+
+
+<body> 
+ 
+<div1 type="letter" n="1709-07-04"> 
+ 
+<head>Letter from <note target="n1">Benjamin Graves</note> to Robert
+Carter, July 4, 1709</head> 
+ 
+<opener> 
+ 
+<dateline>
+<pb n="1"/> 
+ Hobbs's hole [Essex County, Virginia]<lb/> 
+ 
+<date value="1709-07-04">Jule
+ the 4th: 1709<lb/></date>
+Coll Carter<lb/> 
+</dateline> 
+                                              
+<salute>Sr:</salute> 
+ 
+</opener> 
+ 
+<p>The bearer brings A bundle of Iron Work RC. 16 <add
+resp="editor">[identification mark]</add><lb/>&amp; A <note
+target="n2">pump Spear
+</note>Which is all 
+of yours, I send men for <lb/>the Shallop I hope she is now done; be
+plesed to load <lb/>her at your own 
+house, hoping you with family Are <lb/>in health, I conclude with my
+humble Service I am</p>  
+ 
+<closer><abbr expan="Sir ">Sr. </abbr> Your humble Servt. <lb/>
+<signed><abbr expan="Benjamin ">Benja: </abbr> Graves</signed>
+</closer> 
+ 
+</div1> 
+</body> 
+ 
+<back> 
+<div1 type="notes"> 
+<head>NOTES</head> 
+
+<note><hi rend="italics">Source copy consulted: </hi>  Carter
+Papers, Mss 1(2468a6), Virginia Historical Society, Richmond. This is
+the recipient's copy; on the integral address leaf is: "To | The
+Honble. Robert |Carter Esqre. | These." Hobbs Hole is Tappahannock
+today.</note>
+ 
+
+<note id="n1">[1] Benjamin and Adam (d. 1726) Graves were the sons
+of Captain Thomas Graves, long a captain of vessels trading to
+Virginia, and a special friend of RC; they also commanded vessels in
+the trade. </note> 
+
+<note id="n2">[2] A pump spear (or rod) is, according to the 1913
+Webster's /dictionary," is  the rod to which the bucket of a pump
+ is fastened, and which is attached to the brake or handle; the
+piston rod."  (<cit><bibl>"Webster's 1913 Dictionary:, online for
+this reference at: 
+http://www.webster-dictionary.org/definition/Pump%20spear.
+9/24/2008.</bibl></cit>) 
+</note>
+
+<lb/><lb/><note><hi rend="italics">This text revised September 24,
+2008.</hi></note>
+
+
+
+
+</div1> 
+</back> 
+</text> 
+ 
+
+</TEI.2>

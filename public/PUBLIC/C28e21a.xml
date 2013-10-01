@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C28e21a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Colonel George Braxton, May 21, 1728</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca.  kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C28e21a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2004</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Colonel George Braxton, May 21, 1728</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1728-05-21</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C28e21aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1728-05-21"></date>
+<idno rend="suppress">C28e21a.xml</idno>
+<title>Letter from Robert Carter to Colonel George Braxton, May 21, 1728</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Colonel George Braxton of King and Queen County, May 21, 1728, concerning the purchase of slaves from a ship of Braxton's that has just arrived, urging Braxton to have the ship tie up at Mann Page's landing so that Page can have the pick of the cargo for himself and Carter. He offers cash and bills of exchange.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to Colonel <note n="MCB">George Braxton,</note> May 21, 1728</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
+<date value="1728-05-21">May the 21st: 1728</date><lb/>
+Colonel Braxton<lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+<p>Yor. notification of the Arrival of your Negroe <lb/>Ship came last night <note n="MP1">Colonel Page </note>on Saturday writes me Colonel <note target="n1"><sic corr="Digges">Diggs</sic></note> <lb/>and <note target="n2">Mr. Nelson</note> was in daily Expectation of 400 Slaves from the <lb/>Same place the Ship had touchd at <sic corr="Barbados">Barbadoes</sic> and was to Sail <lb/>in a few days Colonel Page I know wants to buy I <sic corr="believe">beleive</sic> amongst <lb/>us we may take at least 30 From you if you will but please <lb/>us in Choice and Price I have two or three hundred Pounds <lb/>Cash that I would have you take in <abbr expan="Payment">Paymt.</abbr> at the <abbr expan="Discount">Disct.</abbr> of &pound;<lb/>15 perCt. I propose before any Sale that you bring <add place="supralinear">yor. Ship</add> up against <lb/>Colonel Page's the <abbr expan="management">managemt.</abbr> of this Affair I <sic corr="wholly">wholy</sic> leave to <lb/>Colonel Page on whom I order your Boy to wait in his way to yor. <lb/>Point. The Cash is at yor. Immediate call The bills of Exchange you <lb/>will not Expect till the return of yor. Ship I am </p>
+
+<closer>Sir&mdash;<lb/>Yor. most humble Servt.</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. </note>
+
+<note>The name of Carter's home, "Corotoman," the county, and colony have been added for clarity to this unheaded draft.</note>
+
+<note id="n1">[1] Cole Digges (1692-1744) lived at "Bellfield" in York County. He was appointed to the Council in 1719. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 3[1705-1721]: 518,</bibl></cit> and <cit><bibl>Louis B. Wright and Marion Tinling, <hi rend="italics"> eds.</hi> <title> William Byrd of Virginia:  The London Diary (1717-1721) and Other Writings.</title> [New York: Oxford University Press, 1958.] p. 459.</bibl></cit>)</note>
+
+<note id="n2">[2] Thomas Nelson (1667-1745), a resident of Yorktown, was a merchant and was sheriff of York County in 1722 and 1723. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:12,34,184;</bibl></cit> and <cit><bibl n="B30">Greene. <title>The Diary of Colonel Landon Carter. . . .</title>, p. 96.</bibl></cit>)</note>
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

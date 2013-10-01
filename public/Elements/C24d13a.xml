@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C24d13a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Thomas Barber, April 13, 1724</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 9 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C24d13a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2002</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Thomas Barber, April 13, 1724</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1724-04-13</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C24d13aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1724-04-13"></date>
+<idno rend="suppress">C24d13a.xml</idno>
+<title>Letter from Robert Carter to Thomas Barber, April 13, 1724</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Richmond County surveyor Thomas Barber, April 13, 1724, to give him instructions concerning surveys that Barber is to conduct for Carter at the colony's frontier in parts of present Prince William, Fairfax, and Loudoun counties. He directs Barber to  leave "barren" lands out of his surveys, and to keep a journal with notes on the water, timber, and quality of soil, and that he should carry on the work with "Vigour."</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note target="n1">Thomas Barber,</note> April 13, 1724</head>
+<opener>
+<dateline>
+<pb n="1"/>
+Instructions To Mr: Thos: Barber about the Surveys <lb/>he is to make for me
+<name type="place"><add resp="editor"><lb/><lb/>[Corotoman, Lancaster County, Virginia]</add></name><lb/>
+<date value="1724-04-13">April the 13th: 1723:4&mdash;</date><lb/>
+Mr. Barber&mdash;&mdash;<lb/>
+</dateline>
+
+
+</opener>
+
+<p>I have already acquainted you with the names of <lb/>the places where I am informed by <note target="n2"><abbr expan="Captain">Capt</abbr> Russell</note> there are great <lb/>quantities of Good Land to be taken up to Witt at least 15000 <lb/>Acres at the <note target="n3">thourrow fare of broad runn</note> and as large a <lb/>Quantity at the head of that runn he tells me that John <lb/>Russell Assures him there may taken up 40000 Thousand <lb/>Acres of very good Land <del>from</del> <add place="supralinear"><hi rend="italics">upon</hi></add> Bull runn <add place="supralinear"><hi rend="italics">its branches</hi></add> &amp; to the head of <note target="n4">Sugar <lb/>Land</note> runn and he further tells me that this Russell informs <lb/>him that there is a vast quantity of Extraordinary good <lb/>Land to be had upon the <note target="n5">Goose Creek</note> and that this <abbr expan="John">Jno.</abbr> <lb/>Russell is very desireous to Serve me, I have <sic corr="written">writ</sic> to both <lb/>these Russells to be your Guides and to Assist you in <lb/>what Surveys you shall make, &amp; I have also <sic corr="written">writ</sic> to the <lb/><note target="n6">Germans</note> to be your chain carriers <add place="supralinear">and markers</add> whose promise I have <lb/>alwayes to be ready to Serve me when I have Occasion, <lb/>I <sic corr="believe">beleive</sic> twill be necessary that you make your beginning <lb/>upon the Lands upon the broad runn, You ought to Spend <lb/>Some time in Veiwing these Lands before you begin your <lb/>Surveys,</p>
+
+<p><note target="n7">Mr. Savage</note> hath already warrants for the <lb/>Lands upon the broad runn and upon the <note target="n8">Bull runn,</note> as also <lb/>Directions about the Lands upon the Goose Creek, I would <lb/>not have you limitt yourself as <add place="supralinear"><hi rend="italics">to</hi></add> the particular quantities <lb/>you take up in each Tract but in that you must guide <lb/>yourself as you find the Lands. hold good where you <lb/>find the Lands are barren for a Considerable quantity to <lb/><add resp="editor">[...]</add> other there I would have them left out and new Surveys <lb/><add resp="editor">[be]</add>gun upon the better Lands  <del>and illegible</del> <add place="supralinear"><hi rend="italics">in what</hi></add> Surveys you <lb/><add resp="editor">[mak]</add>e I would have <add place="supralinear"><hi rend="italics">you</hi></add> take care that Your lines are plainly mark 
+
+<pb n="2"/><lb/><lb/>
+and that you take notice of all remarkable places an<add resp="editor">[d]</add> <lb/>keep a constant distinct Journall of the Qualities of all the <lb/>Land and the particular places you pass over how they are <lb/>Suppplied with Water Timber &amp;Ca: and also where they <lb/>are Stoney and what Nature the Soil is, I should be Glad <lb/>you would take a <sic corr="view">Veiw</sic> of the Lands upon Goose Creek <lb/>and upon the bull runn, I write to Mr. Savage to give you <lb/>his best advice and Assistance and tell him that for the <lb/>Surveys you lay <del>from</del> <sic corr="off">of</sic> upon any of the warrants he has You wi<add resp="editor">[ll]</add> <lb/>be Contented to take half pay and I desire you will so we<add resp="editor">[ll]</add> <lb/>agree with one another that the business may be carried <lb/>on with Vigour, which will be the only way to give <lb/>Satisfaction <add place="supralinear">to</add> me who am <del>Sr</del></p>
+
+<closer>Your humble Servt:</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1723 June 16-1724 April 23, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note id="n1">[1] Thomas Barber of Richmond County was a surveyor, and would be appointed a justice of that county in 1730, tobacco inspector in1734, and sheriff in 1736. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]: 215, 342, and 369.</bibl></cit>)</note>
+
+<note id="n2">[2] William Russell (1680?-1741) was a well-known ranger and
+explorer who eventually settled in Prince William County (later Fauquier). Fairfax Harrison thinks he may have been one of the rangers who accompanied Spotswood's Knights of the Golden Horseshoe. (<cit><bibl n="B4">Harrison,  <title>Landmarks of Old Prince William,</title> p. 204.</bibl></cit>)</note>
+
+<note id="n3">[3] In Carter's time, a "thoroughfare" was a gap through mountains.The thoroughfare of Broad Run (a branch of Occoquan River) is today called Thoroughfare Gap. It lies about five miles northwest of Gainesville in Prince William County. (<cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title>  p. 468.</bibl></cit> and <cit><bibl>Margaret T. Peters. <title>A Guidebook to Virginia's Historical Markers.</title> [Charlottesville: University Press of Virginia for the Virginia Historic Landmarks Commission, 1985.]   p. 17.</bibl></cit>)</note>
+
+<note id="n4">[4] Sugarland Run flows into the Potomac River in Fairfax County along the Loudoun County line.</note>
+
+<note id="n5">[5] Goose Creek flows into the Potomac River just east of Leesburg in Loudoun County.</note>
+
+<note id="n6">[6] Governor Alexander Spotswood had encouraged immigration of Germans into Virginia in 1714, and they settled "in what was then Stafford Co. . . .. later Prince William and now Fauquier."  The men worked in Spotswood's iron mines, but around 1718 took grants in the proprietary in what was then Stafford County. (See "Germantown" in <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title></bibl></cit> pp. 207-221. and <cit><bibl>Elizabeth Chapman Denny Vann and Margaret Collins Denny Dixon. <title>Virginia's First German Colony. </title> Richmond: Privately printed, 1961.</bibl></cit> p. 33.) </note>
+
+<note id="n7">[7] John Savage was a surveyor, later (1734) to be employed by Lord Fairfax while attempting to establish the boundaries of the proprietary. (<bibl n="B4">Harrison. <title>Landmarks. . . .</title> p. 619.</bibl>)</note>
+
+<note id="n8">[8] Bull Run is a major tributary of the Occoquan River, forming the foundary between todays Prince William and Fairfax counties, and then between Prince  William and Loudoun counties.</note>
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

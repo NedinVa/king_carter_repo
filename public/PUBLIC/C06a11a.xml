@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C06a11a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Rbert Carter to Thomas Corbin, January 11, 1706</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 4 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">filename</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Thomas Corbin, January 11, 1706</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>x p.</extent>
+<publicationStmt>
+     <date>unpublished</date>
+   <idno type="callNo"> Source copy consulted:  Christ Church Parish, Lancaster County, Processioners' Returns, 1711-1783, and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond, 168. Extract printed William and Mary Quarterly, 1st ser. 17(1909)259-60. </idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1706-01-11</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C06a11aT">
+
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 pp.</extent>
+<date value="1706-01-11">January 11, 1706</date>
+<idno rend="suppress">C06a11a</idno>
+<title>Letter from Robert Carter to Thomas Corbin, January 11, 1706</title>
+</bibl>
+</head>
+<p>[abstract here]</p>
+</div1>                 
+</front>
+
+ <body>
+<div1 type="letter" n="1706-01-11"> 
+<head>Letter from Robert Carter to <note n="TC">Thomas Corbin</note>, January 11, 1706</head> 
+ 
+<opener> 
+<dateline>
+<pb n="1"/> 
+<name type="place">Rappa<add  resp="editor">[hannock, Lancaster County, 
+Virginia]</add></name><lb/> 
+<date n="1706-01-11">January 11th: 1705 [06]<lb/></date> 
+ Mr. Tho: Corbin<lb/>
+ 
+</dateline> 
+ 
+<salute>Sr.</salute> 
+ 
+</opener> 
+ 
+<p>Yors of the 2d of August I received I pass over tht part of it relating to <note 
+n="FN">C[olonel] N[icholso]n</note> <lb/>
+You have now the <abbr expan="Gentleman ">Gent: </abbr> wth you &amp; if it be yor Fortune to have as full a <lb/> knowledge of the man as I have had I dare say you will be none of his admirers <lb/>nor account him one of the the friends of your Native Country I recd yor pipe <lb/>of Wine as I've already advised you we have the news of the Safe arrival of the <lb/><name type="ship">Corbin</name> doubt not you will put her under the Guidance of a better Steersman <lb/>&amp; then she may meet wth as good Success as her Neighbours  
+<abbr expan="I am ">I'me </abbr> apt to think <lb/><sic corr="you'll ">you'l</sic> Strive to get her away wth the next Fleet Freight Seems to be plenty  <lb/>enough here &amp; she may make a good Voyage, The <note target="n1">Young <sic corr="Wormelys ">Wormelyes</sic></note> are <lb/>already Sent for, The <sic corr="Chief ">Cheif</sic> Occasion of this is to advise you tht We have <lb/>lately drawn on you for &pound;79 paya to <abbr expan="Brother ">Bro: </abbr> Churchill being in <lb/><add resp="editor">[co]</add>nsideration for Negroes <sic corr="bought ">bot</sic> of him for the use 
+of the Young Wormelyes <lb/><add resp="editor">[I]</add> know the Bills will not be Sent away till next fleet however think it <lb/><add resp="editor">[no]</add>t amiss to Early in Advice I've discoursed  <note target="n2">mr Walker</note> <sic corr="about ">abt</sic> some Freight <lb/><add resp="editor">[on the]</add> <note target="n3"><name type="ship">Nynion</name> </note>  &amp; he <sic corr="has ">hath</sic> promised to let it be taken in I shall not trouble <lb/><add resp="editor">[you]</add> further  Only tht I am </p> 
+ 
+<closer> 
+<salute>Your most humble Servt <lb/>&amp; Countryman</salute> 
+</closer> 
+ 
+</div1> 
+ </body> 
+<back> 
+<div1 type="notes"> 
+<head>NOTES</head> 
+ 
+<note><hi rend="italics">Source copy consulted:</hi> Christ Church Parish, Lancaster County, Processioners' Returns, 1711-1783, and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond, 168. Extract printed <title>William and Mary Quarterly</title>, 1st ser. 17(1909): 259-60.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note><lb/>
+
+<note id="n1">[1] Carter often referred to in their youth as his "Cozns." Ralph Wormeley (ca. 1681-1714), Ralph Wormeley's (d.1701) oldest son; and John Wormeley (1689-1727) because their parents were his brother- and sister-in-law. He was one of the boys' trustees under their father's will.</note>
+
+<note id="n2">[2] Mr. Walker may have been the supercargo, or owner's representative, on the ship. </note> 
+
+<note id="n3">[3] This ship probably is a 75-ton, English-built ship named the <hi rend="italics">Nynion &amp; Benjamin</hi> commanded by Nenyon Masters. (<cit><bibl n="M10">Naval officer's return for 
+Rappahannock River, 1705 June 24-Sept. 29, CO5/1441, ff. 458.</bibl></cit>) </note> 
+
+
+<lb/><lb/><note><hi rend="italics">This text revised July 16, 2008.</hi></note>
+
+</div1> 
+</back> 
+ 
+</text> 
+
+</TEI.2>

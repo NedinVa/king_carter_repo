@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+
+<!NOTATION Ext14 SYSTEM "html">
+<!ENTITY Ext14 SYSTEM "http://www.dinsdoc.com/bruce-1-7.htm" NDATA html>
+
+ ]>
+<TEI.2 id="C23g25a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to John King, July 25, 1723</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 9 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C23g25a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2002</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to John King, July 25, 1723</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1723 July 4 -1724 June 11, Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1723-07-25</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C23g25aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1723-07-25"></date>
+<idno rend="suppress">C23g25a.xml</idno>
+<title>Letter from Robert Carter to John King, July 25, 1723</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Bristol merchant John King, July 25, 1723, concerning his recent intent to ship tobacco on board Captain Stretton's ship that was frustrated because Stretton was anchored so far up the river that communication was slow. When he received King's letter of February 10, 1723, telling him not to ship to Bristol, and relating the low prices, Carter decided against the shipment. He then turns to the reports in the colony of the bill nearing passage in Parliament that will prevent the importation of stripped and stemmed tobacco that has been pushed hard by the Scots merchants, complaining that the English  merchants did not work hard enough to make the Scots trade fairly. He concludes with an order for nails, hoes, and coal. </p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to<note n="JK"> John King,</note> July 25, 1723</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1723-07-25">July the 25th: <hi rend="underline">1723</hi></date><lb/>
+Mr. Jno: King<lb/>
+</dateline>
+<salute>Sr&mdash;&mdash;</salute>
+
+</opener>
+
+<p>Your ships run by my house so much in <sic corr="haste ">hast</sic> <lb/>that I have not had the <sic corr="opportunity ">Oportunity</sic> of writing direct I was in <lb/>treaty a pretty while with <note target="n1"><abbr expan="Captain ">Capt,</abbr> Streton</note> about a little freight <lb/>but he stood hovering about paying me for carrying it on <lb/>board I desired no more <sic corr="than ">then</sic> what I have from other ships <lb/>but he lay so high up our River that our writings to one <lb/>another met with delays <sic corr="until ">till</sic> at length comes yours from <lb/>London of the 10th. of <abbr expan="February ">Febr:y</abbr> <sic corr="discouraging ">discourageing</sic> me from shipping <lb/>any sort of <abbr expan="tobacco ">Tobbo.</abbr> to your port which removed all thoughts <lb/>of shipping that way out of my head, indeed your prices does <lb/>it Sufficiently, 8<abbr expan=" pence ">d</abbr>1/2 for <sic corr="stemmed ">Stemd</sic> <abbr expan="tobacco ">Tobbo: </abbr> and 7<abbr expan=" pence ">d</abbr>1/4 for Leaf are <lb/>prices I cant live by</p>
+
+<p>It seems the Scotch have not only baffled you <lb/>in your Attempt to make them <sic corr="fair ">faire</sic> Traders but at the 
+
+<pb n="2"/><lb/><lb/>
+passing the <note target="n2">bill about the Trade</note> have <sic corr="gained ">gain'd</sic> another unfore<lb/>seen advantage upon us which if True if they can be let alone <lb/>will <sic corr="entirely ">Intirely</sic> make us their province, The Story is thus a <lb/>Merchant out of Glasgow writes to his partner here of the 9th of <lb/>May that the <abbr expan="tobacco">Tobbo.</abbr>  bill had a Second reading and <add place="supralinear">was</add> ordered to be <lb/><abbr expan="engrossed ">Engross'd </abbr> <del>and</del> &amp; tht they have got a clause added prohibiting <lb/>all <sic corr="stripped ">Stripd</sic> <abbr expan="stemmed ">Stem'd </abbr> and <note target="n3">Lug</note> <abbr expan="tobacco ">Tobbo:</abbr> to take place the first of June <lb/>next this they Effected by the Strength of their Members and the <lb/>Assistance of the outports that the London Merchants go Stark <lb/>mad, this Letter I both Saw and read our <note target="n4">Scotch Merchants </note><lb/>here are very much Exalted at it and talk <sic corr="wonderful ">wonderfull</sic> big</p>
+
+<p>I would desire you when you have an <sic corr="opportunity ">Oportu<lb/>nity</sic> without paying freight to send me in the following goods <lb/>to <sic corr="wit ">witt</sic> 20<abbr expan=" thousand ">:m</abbr> 8<abbr expan=" penny ">d</abbr> <sic corr="nails ">Nailes</sic> 20<abbr expan=" thousand ">:m</abbr> 10<abbr expan=" penny ">d</abbr> <abbr expan="ditto ">Do</abbr> 10<abbr expan=" thousand ">:m</abbr> 20<abbr expan=" penny ">d</abbr> 6 <abbr expan="dozen ">Doz</abbr> broad <lb/>hoes 6 <abbr expan="dozen ">Doz</abbr> narrow hoes and a <note target="n5">Chaldron</note> of <sic corr="coals ">Coales</sic> but I <lb/>would not be put to the charge of hhds. to hold the Coales <lb/>which makes them prodigious dear Your <sic corr="nails ">Nailes</sic> are much <lb/>less and shorter of the sorts <sic corr="than ">then</sic> they used to be</p>
+
+<p>I hope your next will bring me an Accot. <lb/><sic corr="current">Currant</sic> that I may see how matters stand between us I am <lb/><hi rend="underline"><abbr expan="Sir">Sr</abbr></hi> </p>
+
+<closer>Your very humble Servt&mdash;</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1723 July 4 -1724 June 11, Carter Family Papers, Virginia Historical Society, Richmond. There is a 19th-century copy of the letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia.
+</note><lb/>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. His usual return address, the county, and colony have been added for clarity to the brief heading on the draft.</note><lb/>
+
+<note id="n1">[1] Joseph Stretton commanded the <hi rend="italics">Prince Eugene</hi> from Bristol. He had been accused in August 1721 of having traded with pirates in Madagascar, and was tried in England and found innocent. Money that had been withheld from him in Virginia he recovered by petitioning the Council. (<cit><bibl n="B10">McIlwaine, <title>Executive Journals of the Council. </title>3[1705-1721]:550, and 4[1721-1739]: 10.</bibl></cit>)</note><lb/>
+
+<note id="n2">[2] Parliament had indeed passed an act forbidding the importation of stemmed tobacco in 1722. John Randolph would be sent to England in 1729 as agent for Virginia to try to have the act overturned; his mission would be successful. (<cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> [Newport News, VA: Mariners' Museum, 1953], 116.</bibl></cit>)</note><lb/>
+
+<note id="n3">[3]  "The lowest grade [of tobacco] was known as lugs as early as 1686. . . ." (<cit><bibl>Philip A. Bruce. <title>Economic History of Virginia in the Seventeenth Century: An Inquiry into the Material Condition of the People, Based on Original and Contemporaneous Records.</title> [New York: MacMillan and Co., 1896], I:442 online at <xref to="Ext14">"Classics of American Colonial History."</xref> http://www.dinsdoc.com/bruce-1-7.htm</bibl></cit>) </note><lb/>
+
+<note id="n4">[4] The trading policies of Scots merchants were of considerable concern to Virginia planters and English  merchants at this time, and the matter came before Parliament in 1723. Vessels sent by Scots were crewed by captains and factors authorized to pay good prices in Virginia which enabled them to  obtain full cargoes. English merchants argued that the only way the Scots could afford to pay such good prices was their ability to avoid paying duties on the tobacco at home. Micajah Perry appeared before Parliament and gave statistics of the duties paid by his firm in earlier years and the far smaller amounts paid in the past several years because his ships could not obtain full cargoes in Virginia.  (<cit><bibl n="B22">Price. <title>Perry of London. . . . </title> pp. 64-65.</bibl></cit>)</note><lb/>
+
+<note id="n5">[5] Chaldron is "an obsolete form of cauldron" and meazns "a dry measure of 4 quarters or 32 bushels. . . ."  (<cit><bibl><title>Oxford English Dictionary</title></bibl></cit>)</note><lb/><lb/>
+
+
+
+<lb/><lb/><note><hi rend="italics">This text revised October 8, 2009.</hi></note>
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

@@ -1,0 +1,22 @@
+<html>
+<body>
+<table border="1">
+<tr><td><b>Title</b></td><td><b>Description</b></td></tr>
+<tr>
+<td>XML Developer's Guide</td>
+<td>An <i>in-depth look</i> at creating applications with <b>XML.</b>
+</td>
+</tr>
+<tr>
+<td>Midnight Rain</td>
+<td>A former architect battles:
+				<ul>
+<li><font color="red">corporate zombies,</font></li>
+<li><font color="green">an evil sorceress, </font></li>
+<li>and her own childhood</li>
+</ul> to become queen of the world.
+			</td>
+</tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C07j24a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Address from Robert Carter and the other members of the Council of Virginia to Queen Anne, 1707 October 24 </title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Robert Carter</author>
+<author>William Bassett</author> 
+<author>Henry Duke</author> 
+<author>John Smith</author> 
+<author>John Lewis</author> 
+<author>William Churchill</author> 
+<author>Edmund Jenings</author> 
+<author>Dudley Digges</author> 
+<author>Benjamin Harrison</author> 
+<author>John Custis</author> 
+<author>James Blair</author> 
+<author>Philip Ludwell</author> 
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 9 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">filename</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Address from Robert Carter and the other members of the Council of Virginia to Queen Anne, 1707 October 24 </title>
+<author>Robert Carter</author>
+<author>William Bassett</author> 
+<author>Henry Duke</author> 
+<author>John Smith</author> 
+<author>John Lewis</author> 
+<author>William Churchill</author> 
+<author>Edmund Jenings</author> 
+<author>Dudley Digges</author> 
+<author>Benjamin Harrison</author> 
+<author>John Custis</author> 
+<author>James Blair</author> 
+<author>Philip Ludwell</author> 
+
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date>unpublished</date>
+   <idno type="callNo">Source copy consulted:  Carter Family Papers, Virginia Historical Society, Richmond;  MSS4V8193a1. This is the recipient's copy bearing original signatures. It was enclosed in a letter, 1707 November 6, E[dmund] Jenings, the president of the Council, to My Lord [the Earl of Sunderland] which is also at the Society. 
+</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1707-10-24</date>October 24, 1707</creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C07h24aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ADS</abbr>
+<extent>1 pp.</extent>
+<date value="1707-10-24">October 24, 1707</date>
+<idno rend="suppress">C07h24a</idno>
+<title>Address from Robert Carter and the other members of the Council of Virginia to Queen Anne, 1707 October 24 </title>
+</bibl>
+</head>
+<p>Robert Carter and the other members of the Council of Virginia address Queen Anne, October 24, 1707, to congratulate her on the successful passage of the Act of Union that combined England and Scotland into one country.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Address from Robert Carter and the other members of the Council of Virginia to Queen Anne, 1707 October 24 </head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Council Chamber, <add resp="editor">[Williamsburg, Virginia]</add></name><lb/>
+<date value="1707-10-24">October the 24th<lb/>1707</date><lb/>
+To the Queen's most Excellent Majesty</dateline>
+</opener>
+
+<p>We Your Majesty's most dutiful and Loyal Subjects The President and Council of Your 
+<lb/>Majesty's Colony and Dominion of Virginia, being deeply Sensible of the great blessings attending 
+<lb/>the Long desired Union of England and Scotland, now by Your <abbr expan="Majesties ">Majties </abbr> wise Counsels and Royal 
+endeavors <lb/>brought to a happy Conclusion, the Religion, Peace, Trade and safety of Your Subjects of 
+both Kingdoms <lb/>being thereby not only secured at present, but likewise the apparent dangers of which 
+History and experience <lb/>presented us with a dismal prospect (if those Kingdoms should have fallen 
+again under separate Soveraigns <lb/>and interests) being most effectually prevented for the future: 
+Humbly beg Leave upon occasion of this so <lb/>universal Joy to offer up our most hearty 
+Congratulations, and withal to assure Your Sacred Majesty that <lb/>as we are particularly sensible of 
+Your Majesty's favour and Goodness to Your Plantation Subjects in <lb/>enlarging their Trade and 
+Navigation to all the Ports of Great Brittain, we shal reckon it our interest <lb/>as well as our Duty, 
+forgetting all National Differences and Divisions heartily to unite in Love to one <lb/>another, and in 
+gratitude to Your Sacred Majesty, the <sic corr="chief">Cheif</sic> Author under God of this and the other <lb/>Signal Blessings 
+all Your Subjects partake of, under Your Majties most prosperous Reign, for the long <lb/>continuance 
+whereof we heartily pray.</p> 
+ 
+<closer> 
+<signed>W<corr resp="editor">[ILLIA]</corr>M BASSETT</signed><lb/> 
+<signed>HEN<corr resp="editor">[RY]</corr> DUKE</signed><lb/> 
+<signed>JOHN SMITH</signed><lb/> 
+<signed>JOHN LEWIS</signed><lb/> 
+<signed>W<corr resp="editor">[ILLIAM]</corr> CHURCHILL</signed><lb/> 
+<signed>E<corr resp="editor">[DMUND]</corr> JENINGS, <abbr expan="President ">Presidt: </abbr></signed><lb/> 
+<signed>DUDLEY DIGGES</signed><lb/> 
+<signed>BENJA<corr resp="editor">[MIN]</corr> HARRISON</signed><lb/> 
+<signed>ROBERT CARTER</signed><lb/> 
+<signed><abbr expan="JOHN ">JNO. </abbr> CUSTIS</signed><lb/> 
+<signed>JAMES BLAIR</signed><lb/> 
+<signed>PHIL<corr resp="editor">[IP]</corr> LUDWELL</signed><lb/> 
+</closer> 
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+<note><hi rend="italics">Source copy consulted:</hi>  Carter Family Papers, Virginia Historical Society, Richmond;  MSS4V8193a1. This is the recipient's copy bearing original signatures. It was enclosed in a letter, November 6, 1707, from E[dmund] Jenings, the president of the Council, to "My Lord" [the Earl of Sunderland] which is also at the Society. </note>
+
+<note>"On 1 May 1707 England and Scotland (since 1603 a union of crowns) became the 'United Kingdom of GREAT BRITAIN'. The new united kingdom was to be represented by a 'union' flag and governed by a British parliament at Westminster and a shared head of state (with the contentious issue of monarchical succession now settled in favour of the protestant house of Hanover)." (<cit><bibl>Alexander Murdoch, "England, Scotland, and the Acts of Union (1707)." Oxford Dictionary of National Biography, http://www.oxforddnb.com/public/themes/96/96282.html, 2008 August 5.</bibl></cit>)</note>
+
+
+<lb/><lb/><note><hi rend="italics">This text revised August 5, 2008.</hi></note>
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

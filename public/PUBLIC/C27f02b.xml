@@ -1,0 +1,181 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; 
+
+<!NOTATION html SYSTEM "HTML">
+<!ENTITY Ext6 SYSTEM "http://www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm" NDATA html>
+
+]>
+<TEI.2 id="C27f02b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Micajah Perry, June 2, 1727</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 11 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C27f02b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2003, 2012</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Micajah Perry, June 2, 1727</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1727-06-02</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C27f02bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1727-06-02"></date>
+<idno rend="suppress">C27f02b.xml</idno>
+<title>Letter from Robert Carter to Micajah Perry, June 2, 1727</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant Micajah Perry, June 2, 1727, noting that captains Hopkins and Woodward sailed without waiting for the convoy, and that they had carried letters telling Perry that Carter would not deal with him further unless he rectified Carter's complaints. Perry had written Carter in March that they should once again pursue the purchase of John Lloyd's Virginia estates (which Carter is managing), and Carter agrees but states that the value has fallen because of the great loss of slaves. Perry should first be aware that Carter is calling on his accounts with him for nearly &pound;500 to pay for slaves he has purchased, but Perry may offer &pound;3000 for the estate with the former conditions. If Perry is to pay the last year's rent for the Northern Neck proprietary, he should deduct Edmund Jenings's debt, and see that it is paid to Carter to whom it is due. Carter informs Perry that merchant Robert Cary will attempt to recover failed merchant Thomas Evans's debts to Carter. </p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="MP2">Micajah Perry,</note> June 2, 1727</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;
+<date value="1727-06-02">June 2st: 1727</date><lb/>
+Mr. Micajh: Perry<lb/>
+</dateline>
+<salute>Sir&mdash;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to be Copyd</salute>
+
+</opener>
+
+<p>My last went by <note target="n1">Hopkins</note> and <note target="n2">Woodward</note> <lb/>who it seems took their fate and would not Stay to <sic corr="Join">Joyn</sic> the <lb/>next Fleet I then let you know the reasons that brought me to <lb/>a resolution of Sending you no <abbr expan="tobacco">Tobbo:</abbr> neither of my own nor <note n="NB">Mr. <lb/>Burwells</note> Concern <add place="supralinear">this year</add> it <sic corr="lies">lyes</sic> in your power to bring your Self <lb/>into a Share of mine and Mr. Burwell's business <add place="supralinear">again</add> if you think <lb/>fit to do no Justice in what <sic corr="we">wee</sic> complain of</p>
+
+<p>I have now <hi rend="italics"><sic corr="Yours">Yors:</sic> of 8th and 15th. of March</hi> I find you <lb/>are Stirring again <del>in the</del> towards the purchase of the <note n="LL">LLs</note> Estate <lb/>upon the Encouragement of <add place="supralinear">a</add> Letter of mine dated in <abbr expan="November">Novr:</abbr> which <lb/>gave you an Accot: of the great losses I had <sic corr="Suffered">Sufferd</sic> in my Slaves <lb/>to recruit which I have lately bought near four Score Slaves <lb/>(and must Suddenly value my Self upon you for near five <lb/>hundred pounds <sic corr="believing">beleiving</sic> our differences runs so high you will <lb/>not Concern your Self any further with the LLs Estate upon <lb/>my Accot:) and from this late Purchase you may Conclude 
+
+<pb n="2"/><lb/><lb/>
+I am become <add place="supralinear">more</add> Indifferent who has the LLs Estate and Considering <lb/>the losses that <sic corr="have ">hath </sic> fallen upon the Slaves I cannot think it now <lb/>worth above Three Thousand pounds, which if you think proper <lb/>to be further <sic corr="Concerned">Concernd</sic> with my Correspondence taking my <lb/>former Instructions along with it you may give provided <lb/>you have two years time of Payment at least that is not <lb/>above one <note target="n3">moiety</note> per year next fleet and another per the Fleet <lb/>after,</p>
+
+<p>how you manage in the <abbr expan="Proprietors">Proprs:</abbr> Affair I <lb/>dont know but if you pay the last years rent I Expect <sic corr="you'll">you'l</sic> <lb/>deduct <note n="EJ">Colonel Jennings's</note> debt is Thirty nine pounds fourteen <lb/>Shillings which is Justly due from them to him and from him <lb/>to me as by a former Accot: you already know,</p>
+
+<p>Mr. <note n="TE"><abbr expan="Thomas">Thos:</abbr> Evans</note> upon a Just ballance <lb/>owes me near four hundred pounds besides the 10 hhds. of <abbr expan="tobacco">Tobbo:</abbr> <lb/>I <sic corr="Consigned">Consignd</sic> him by <note target="n4"><name type="ship">Trevisa</name></note> which <note n="RC">Mr. Cary</note> hath taken up <lb/>for me and promises me to be Accountable for this <sic corr="has ">hath </sic> <lb/>bin a fatal year upon me for losses Additional to the <abbr expan="Several">Sevl.</abbr> <lb/>poor years that you know I have lately met with pray God <lb/>grant me a Christian resolution to bear with Submission <lb/>with <add place="supralinear">his</add> heavy hand and allow me life and health to retreive <lb/>these Severe losses I Shall Conclude this Melancholy <sic corr="Story">Storey</sic> <lb/>at present and am </p>
+
+<closer>Sir, Yor: most humble Servt:
+<seg type="postscript"><lb/><lb/>herein I Send you two <note target="n5">bills of <abbr expan="exchange">Exche:</abbr> </note><lb/>drawn upon your Self. <note n="RM"><abbr expan="Richard">Richd.</abbr> Meeks</note> <lb/>for &pound;35 and <note target="n6"><abbr expan="Captain">Capt:</abbr> Keelings</note> for &pound;33:7 <lb/>which are to be placed to my Credit
+<lb/>per Keeling&mdash;</seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. </note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
+
+<note>Carter has added a few words to the text himself which is indicated by the use of italics.</note><lb/><lb/>
+
+<note id="n1">[1] Captain James Hopkins commanded the <hi rend="italics">Mary</hi> in 1727-1728. He was then working for London merchant Robert Cary. He is mentioned in Carter's diary. (<cit><bibl>Adm. 68/194, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n2">[2] Thomas Woodward commanded the <hi rend="italics">Providence,</hi> a ship owned by Captain John Hyde &amp; Company, during a number of voyages to the colony, 1723-1727. (<cit><bibl>Adm. 68/194 and 195, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia,</bibl></cit> and Carter's letter to the firm, 1723 September 17.)</note>
+
+<note id="n3">[3] A moiety is "a half, one of two equal parts."  (<cit><bibl><title>Oxford English Dictionary Online</title></bibl></cit>)</note>
+
+<note id="n4">[4] Carter had noted in his diary July 29, 1727,  the arrival of the <hi rend="italics">Mansell,</hi> Captain Trevisa.</note>
+
+<note id="n5"> [5] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (<cit><bibl><xref to="Ext6">"Dictionary of  Financial Scam Terms,"</xref> 8/22/2005</bibl></cit>)</note>
+
+<note id="n6">[6] Captain William Keiling commanded the <hi rend="italics">Betty.
+</hi> (<cit><bibl>Survey Report 6800, Virginia Colonial Records Project, Albert and Shirley  Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2003, was revised August 6, 2012,  to add footnotes and strengthen the modern language version text.</hi></note>
+
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

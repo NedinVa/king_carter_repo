@@ -1,0 +1,287 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to xxx, </title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca.  kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">filename</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2002</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to ]</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent> p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert H. Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>xxxx-xx-xx</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="T">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent> p.</extent>
+<date value="xxxx-xx-xx"></date>
+<idno rend="suppress">C]</idno>
+<title>Letter from Robert Carter to ]</title>
+</bibl>
+</head>
+<p>[abstract goes here]</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to ]</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"></add></name><lb/>
+<date value="xxxx-xx-xx">[date from text]</date><lb/>
+[put addressee's name here]<lb/>
+</dateline>
+<salute></salute>
+
+</opener>
+
+<p>This hidenture made this IX day of April in the year of our</lb>
+Lord God MDCCI Between Robert Carter of Lanclaster] County Esquire of</lb>
+the one part and William Armistead of the County of Gloster</lb>
+ ent William Ball of the County of Lancaster gent & Man,</lb>
+Jones of the County of Nhddlesex Spinster of the other part Witnesseth</lb>
+that the sd Robert Carter for & in consideraton of a marriage</lb>
+already agreed upon & shortly by gods grace to be had & Solemnized</lb>
+between the sd Robert Carter & Betty Willis late the wife of Richlarld</lb>
+Willis of Midd[lesejx Couno, gent decd for the love & affection wch he the</lb>
+sd Robert Carter hath & beareth to her the sd Betty Willis for a full &</lb>
+competent jointure to be made unto her the sd Betty Willis during</lb>
+her natural life after the decease of the sd Robert Carter in case</lb>
+she shal survive him & in ful satisfaction & recompense of the dower</lb>
+of the sd Betty Willis & for diverse other weighty considerations him the</lb>
+sd Robert Carter Especially moving Hath granted alienated enfeoffed</lb>
+released & confirmed & by these psents doth grant alienate 26 inteoffe27</lb>
+release & confirm unto the sd William Armistead William Ball</lb>
+& Mary Jones their heirs and assigns all that tract tenement Neck or</lb>
+pcel of land situate lying and being in the Psh of Christ Church</lb>
+within the sd County of Lancaster being part of the tract of land</lb>
+whereon the sd Robert Carter liveth com[m]only called & known by the</lb>
+name of Johns neck lying & being upon the Creek that goes up to the</lb>
+Church of the sd psh bounded as followeth Beginning at the spring in a</lb>
+branch or swamp of the Southermost side of the sd neck about or near</lb>
+a quarter of a mile Northerly from the Quarter called the Old House</lb>
+Quarter running from the sd spring Northerly along the easternmost</lb>
+side of an old field & into a Creek or Cove into which the gate fence the</lb>
+eastermost end thereof now runs & so down along the old Creek or Co"Te</lb>
+on the Southern side thereof into the main Church Creek & so down along</lb>
+the sd Creek the several courses & meanders thereof & then Westerly along</lb>
+the Northennost side of the Creek or Cove called the Old house Creek the</lb>
+several courses thereof up to the aforesd Beginning Spring the sd neck</lb>
+containing by estimate[flon about sixty acres be it more or less & including</lb>
+art old feild wch was a Comefeild to the old house gang when John Ashford</lb>
+was an overseer of that gang & was first taken into come when William</lb>
+Short was overseer there with all & singular the right members & appurte[nances]</lb>
+thereunto belonging & all the woods pastures unto the sd neck or pcel of</lb>
+land belonging & every part thereof And also all that messuage28 tract or</lb>
+pcel of land lying near the Eastermost branch of Corotoman River in the</lb>
+County aforesd fonnerly pchased of Nicholas Wren by John Carter Esqr. Decd</lb>
+eldest brother to the sd Robt Carter & by him the sd John devised & bequeathed</lb>
+unto him the sd Robt Carter by his last wil & Testament29 being the</lb>
+plantation whereon John Plewgher now lives wch sd land was first</lb>
+44. taken up by one Will. Clappam & one Edwards & by the sd Clapparn sold</lb>
+unto the sd Wren containing by estimate[flon one hundred and twenty acres</lb>
+be it more or les together wth all houses edifices pastures woods under</lb>
+-woods & other the members & appurte[nances] unto the sd tract or pcel of land</lb>
+belonging or appertaining & every part & pcel thereof to have & to hold</lb>
+the sd neck tract & pcel of land & all & singular the premises before mentioned</lb>
+or meant or intended to be Qranted alienated infeotTed released & confirmed</lb>
+& every part thereof wth the appurte[nances) thereunto belonging unto the said</lb>
+William Armistead William Ball & Mary Jones & their heirs &</lb>
+assigns to the only uses intents & purposes hereafter in these psents</lb>
+ limited expressed & declared and to no other use intent or p[ur]pose</lb>
+</lb>
+wtsoever. that is to say to the only use & behoofe of him the sd Robt</lb>
+Carter & his heirs until the sd marriage shal be had & solemnized</lb>
+between the sd Robt Carter & Betty Willis & after the solemnization</lb>
+of the sd marriage between them to the use & behoof of the sd Robt</lb>
+Carter during his natural life without impeachrat of or for any</lb>
+manner of waste & after his decease to the use and Behoof of the sd</lb>
+Betty Willis for & during the term of her natural life for her jointure</lb>
+& in lieu & recompence of her dower & title [lithe' ] of dower and after her</lb>
+the sd Betty Willis decease to the use & behoof of the heirs of the sd</lb>
+Robt Carter forever and the sd Robt Carter doth further Covenant &</lb>
+grant for himself his heirs Execs & Adms by these psents to and</lb>
+with the sd William Armistead William Ball & Mary Jones their</lb>
+Execs & adms that he the sd Robt Carter his heirs Execs adms & assigns</lb>
+shall & wil at all times hereafter & from time to time sufficiently save</lb>
+</lb>
+harmless & indemnityed the sd tracts & pcels of land & other the.</lb>
+</lb>
+premises & every part thereof of & from all fonner other bargains false</lb>
+gifts & grants & free from all other charges & incunibrances N-Vtsoever had</lb>
+made or done by the sd Robt Carter or by any other pson or psons wtsoever</lb>
+by his consent or procurenit and the sd Robt Carter for himselfe his heirs</lb>
+Execs & Adms doth covenant pmise & grant to & with the sd William</lb>
+Armistead William Ball & Mary Jones their heirs & assigns by these</lb>
+psents that he the sd Robt Carter shal & Nvil from time to time & at all</lb>
+times hereafter during the space of five years next ensuing the date</lb>
+hereof further do make acknowledge and execute all & every such other</lb>
+reasonable act & acts thing & things devise & devises assurance and</lb>
+assurances in the Law wtsoe-ver as by the sd William Armistead William Ball</lb>
+& Mary Jones or either of them or their or any of their Council learned</lb>
+in the Law shal be reasonably desired or advised and at the cost and</lb>
+charges of the sd Robt Carter his heirs Execs or adins for the better</lb>
+and more pfect assuring & making sure of all & singular the premises to the</lb>
+sd Betty Willis for term of her life only in form aforesd And further that</lb>
+the sd Betty Willis from & after the decease of the sd Robt Carter during</lb>
+her natural life shal & may lease hold & quietly eqjoy the sd lands tenements</lb>
+all other the pinises without any Lawful court suits trouble or other</lb>
+interruption or disturbance of the heirs or assigns of the sd Robt Carter</lb>
+or of any other pson or psons; wtsoever lawfully obtaining by from or</lb>
+under him the sd Robt Carter his heirs or assigns and further the sd</lb>
+Robt Carter doth for himselfe his heirs Execs and adms by these psents</lb>
+covenant pmise & grant to & with the sd William Armistead William Ball</lb>
+& Mary Jones their heirs & assigns that if at any time after the date of these</lb>
+psents the sd Robt Carter or the sd Betty Willis during their or either of their</lb>
+natural lives shal be lawfully evicted or put out of or from the sd pmises or</lb>
+any part or pcel thereof that then & from henceforth the sd Robt Carter</lb>
+his heirs & assigns shal stand & be seized of & in such & so much of that</lb>
+messuage tenement or pcel of land lying and being in the p[ari]sh & county aforesd</lb>
+upon or towards the head of the Eastern branch of Corotoman river which</lb>
+now Doctor Innis lives upon containing by estimaton two hundred acres</lb>
+be it more or les the sd tract or pcel of land formerly belonging to Mrs</lb>
+Martha Norris decd and by her sold to the sd Robt Carter together'wth the</lb>
+houses orchards gardens woods underwoods & other the appurts to the</lb>
+sd messuage & land last mentioned belonging as shal amount to the</lb>
+value of such & so much of the sd messuage & other pinises first</lb>
+above mentioned as shal be so evicted or taken away as aforesd to the</lb>
+use of the sd Robt Carter for term of his natural life & after to the use of</lb>
+the sd Betty Willis for term of her natural life & after her decease to the</lb>
+use of the right heirs of the sd Robt Carter forever And lastly the sd Robt</lb>
+Carter for himself his heirs Execs adms doth covenant pmise & agree to &</lb>
+with the sd William Armistead William Ball & Mary Jones their heirs &</lb>
+assigns by these psents that at the time of such eviction or taking aNvay</lb>
+of the sd messuage & other the pmises first above named or any pte thereof</lb>
+& after the sd messuage & other the pinises last ment[floned during</lb>
+the natural life of the sd Robt Carter & after his decease during the</lb>
+natural life of the sd Betty Willis shal remain & be clearly discharged</lb>
+sufficiently saved kept harmless & indemnifyed of & from all & all manner</lb>
+of estates interest charges titles & incumbrances w-tsoever had made</lb>
+done or willingly suffered or hereafter to be had made done or willingly</lb>
+suffered bv the sd Robt Carter his heirs or assigns or by any p[er]son or p[er]sons</lb>
+having or lawfully obtaining or wch hereafter shal or may have or</lb>
+claim any estate right title or interest by from or under the sd Robt</lb>
+Carter his heirs or assigns In Witnes whereof the parties to these psent</lb>
+	Indenture" have interchangeably set to their hands and seals the day</lb>
+	& year first above written</lb>
+	Signed sealed & delivered in the		Robt Carter (his seal)</lb>
+	psence of	Recognit in Cur Cum Lanc[aste]r nono</lb>
+	Alexr. Swan	die Ap[ri]l 1701 per F[i]deili* Robert Carter</lb>
+	John Ball	et Recordat 14'11 die sequen</lb>
+	Win. Brownsford	per Jos: Tayloe Cl Cur</lb>
+</lb>
+	Know all men by these presents that I Mary Jones of the County of</lb>
+Middlesex spinster do nominate constitute & appoint Alexander Swan</lb>
+of the County of -Lancastr. my true & lawful attorney for me & to my use</lb>
+& behoof to rec. an acknowledgemt. of a deed from The Honble Col Robt</lb>
+Carter of Lanc Esqr. of Conveyance to Mr William Armistead Capt William</lb>
+Ball & me the sd Mary Jones bearing date wth these psents in the sd</lb>
+County Court of Lancr. ratifying & confirming all that my said</lb>
+</p>
+
+<closer><seg type="postscript"></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Papers (acc. no. 3807), Albert H. Small Special Collections Library, University of Virginia.  </note><lb/>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and state have been added for clarity.</note><lb/>
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

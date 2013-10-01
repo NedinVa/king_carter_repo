@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C29b24a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Colonel Thomas Lee, February 24, 1729</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca.  kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C29b24a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2005</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Colonel Thomas Lee, February 24, 1729</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1729-02-24</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C29b24aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1729-02-24"></date>
+<idno rend="suppress">C29b24a.xml</idno>
+<title>Letter from Robert Carter to Colonel Thomas Lee, February 24, 1729</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Colonel Thomas Lee of Westmoreland County, February 24, 1729, concerning militia commissions, and to sympathize with him over the loss of his house.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to Colonel <note target="n1">Thomas Lee,</note> February 24, 1729</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
+<date value="1729-02-24">Febry: 24. 1728/9</date><lb/>
+Colo: Thos: Lee<lb/>
+</dateline>
+
+
+</opener>
+
+
+
+<p>Herewith I send you all the commissions I <lb/>have for the Militia of your County when I came to <sic corr="Overhaul">Overhall</sic> <lb/>them find the <note n="WG"><abbr expan="Governors">Govrs:</abbr></note> Secretary has omitted putting up the <abbr expan="commission">comm:</abbr> <lb/>for the Two <sic corr="Companies">Companys</sic> of Foot of which the <abbr expan="Captains">Capts:</abbr> are dead <lb/>I shall send for <corr resp="editor">[them at]</corr> the first Opportunity <del>I have</del> and quickly <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;trans<corr resp="editor">[mit]</corr> 
+
+<pb n="2"/><lb/><lb/>
+them to you</p>
+
+<p>It is of the Latest to condole <del>with you upon</del> your d<corr resp="editor">[i]</corr>sm<corr resp="editor">[al]</corr> <lb/>Calamity my own Suffering in the <note target="n2">like nature</note> I do Assur y<corr resp="editor">[ou]</corr> <lb/>makes me Sympathise the more deeply with yours <sic corr="Although">Altho</sic> everyon<corr resp="editor">[e]</corr> <lb/>that wears the Compassion of a Christian cannot but entertain the <lb/>Story with a high regret I am </p>
+
+<closer>Sir<lb/><abbr expan="Your">Yr.</abbr> Most humble Servt</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>The name of Carter's home, "Corotoman," the county, and colony have been added for clarity to this unheaded draft. </note>
+
+<note id="n1">[1] Thomas Lee (1690-1750) of Westmoreland County was the son of Richard Lee II, and nephew of Edmund Jenings; he would build "Stratford," and succeed Carter on the Council. For a good article on Thomas Lee, see  that <A HREF="http://www.stratfordhall.org/thomas.html?RESEARCH">by Jeanne A. Calhoun </A>on Stratford plantation's website  . (<cit><bibl>Burton J. Hendrick. <title>The Lees of Virginia: Biography of a Family.</title> [Boston: Little Brown, 1935]. pp. 48, 51, etc.</bibl></cit>)</note>
+
+<note id="n2">[2] Carter refers to the fire that burned Lee's house at Machodoc on 1729 January 29 as well as the loss of his own fine new house at Corotoman in late January. The <hi rend="italics">Maryland Gazette</hi>reported that "Col. Thomas Lee's fine House in Virginia was burnt, his Office, barns, and Out-houses: His Plate, Cash (to the Sum of 1000 &pound;) Papers, and every Thing intirely lost ...."  (<cit><bibl>"Thomas Lee of Stratford, 1690-1750: Founder of a Virginia Dynasty." [http://www.stratfordhall.org/thomas.html?RESEARCH. 1/17/2005.]</bibl></cit>; <cit><bibl>See the <hi rend="italics">Maryland Gazette</hi> for 1729 March 25-April 4 for the report of Lee's loss, and the issue of for 1728/29 February 4-11 for Carter's</bibl></cit>; and see also <cit><bibl>Carter's letter of 1729  May 26 to Captain John Hyde &amp; Company.</bibl></cit></note>
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

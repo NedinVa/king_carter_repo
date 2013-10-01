@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C29i15a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter, <hi rend="italics">et al.</hi>,  to James Bradley, September 15, 1729</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca.11  kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C29i15a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2005</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter <hi rend="italics">et al.</hi>, to James Bradley, September 15, 1729</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>3 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1728 August 8-1730 May 15,  Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1729-09-15</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C29i15aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>3 p.</extent>
+<date value="1729-09-15"></date>
+<idno rend="suppress">C29i15a.xml</idno>
+<title>Letter from Robert Carter, <hi rend="italics">et al.</hi>, to James Bradley, September 15, 1729</title>
+</bibl>
+</head>
+<p>Robert Carter, <hi rend="italics">et al.</hi>, write to London merchant James Bradley, September 15, 1729, requesting his assistance in obtaining miners for their copper mining project.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter, <hi rend="italics">et al.</hi>, to <note target="n1">James Bradley,</note> September 15, 1729</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1729-09-15">Sepr 15 1729</date><lb/>
+Mr: James Bradly<lb/>
+</dateline>
+<salute>Sir.</salute>
+
+</opener>
+
+<p>A few days ago we sent on board the <note target="n2">Sarah</note> a <lb/>
+small Barrel of ore which we have had <sic corr="dug">dugg</sic> out of a <note target="n3">mounta=<lb/>
+nous piece of Land</note> belonging to us and with a line from <abbr expan="Colonel">Colo.</abbr><lb/>
+Carter requesting you would bear the trouble to make the Nicest <lb/>
+<sic corr="Trial">Tryal</sic> you Could of the Value of this Ore what part of it might be <lb/>
+Copper We have Since met with a Person <sic corr="skilled">skilld</sic> in these things <lb/>
+who before our faces <sic corr="has">hath</sic> Extracted out of some of the best of it <lb/>
+above a fourth Near a third of good Solid Copper which whets up <lb/>
+our humours to be as Vigorous as we Can in making Searches into <lb/>
+this Piece of land what body of Ore is to be found there and in or=<lb/>
+der to this our first Work must be to get in some Proper labourers <lb/>
+that are <sic corr="Skilled">Skilld</sic> in digging and raising this Ore of which we are told <lb/>
+there are great numbers in the mines both of <sic corr="Cornwall">Cornwal</sic> &amp; Derby <lb/>
+that would gladly be hired to come oversea at Moderate Wages being hardly <lb/>
+able to get their bread where they are a Couple of such we would requ<lb/>
+est you to Procure for us and send us in as soon as Possible the wag=<lb/>
+<corr resp="editor">[es]</corr> you shall agree for We will punctually Answer Our meaning is to have <lb/>
+a Couple of labourers that shall be leaders in the Work and raisers of the Ore <lb/>
+as for a head man we think we Can furnish our Selves here or at <lb/>
+least that it will be time Enough to be provided <del>with</del> <add place="supralinear">with</add> such an one <lb/>
+when We Come to find there is a foundation to give <abbr expan="Encouragement">Encouragemt</abbr> for <lb/>
+the further prosecution of this design. We also desire you to let us <lb/>
+fully in to as much as you Can learn about this Affair also what <lb/>
+<sic corr="duties">dutys</sic> this Ore will pay in England and what the duty would be <lb/>
+if it were run into Copper Your kind favour in all these particu
+
+<pb n="2"/><lb/><lb/>
+from the other side<lb/><lb/>
+
+lars will very much oblige 
+</p>
+
+<closer>Sir <lb/>
+your most Humble Servts.
+
+<seg type="postscript"><lb/><lb/><pb n="3"/><lb/><lb/>
+Sir<lb/><lb/>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This refiner for so he Calls himself tells us such men as we want <lb/>
+he thinks <add place="supralinear">are</add> to be brought in by the year Perhaps they may not care to come abroad<lb/>
+ unless they are hired <add place="supralinear">for</add> the longer time for two <del>year</del> or three <add place="supralinear">years</add> it may be this we must <lb/>
+leave to your management He says he has had Occasion to hire some to the <lb/>
+Northward to whom he gave &pound;3 pound per month but thinks were they to be <lb/>
+hired by the year they will take less if you oblige us to pay their Wages in <lb/>
+the <abbr expan="Current">Curr't</abbr> money of the Country it will be much Easier for us than Sterling <lb/>
+which does not go in Our <abbr expan="Current">Currt.</abbr> Payments Unless Expressly stipulated <lb/>
+And it is necessary that a Clause be added in the Indentures that if <lb/>
+they do not understand the business they are hired for they would be en=<lb/>
+titled to no wages or at least to no more than what is given to Common <lb/>
+labourers and such a Clause as this is Common in tradesmens indentures <lb/>
+that are sent into us</seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. There is a nineteenth-century copy of this letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia.
+</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
+
+<note>Because this letter is written in the plural and deals with the affairs of the Frying Pan Company that Carter and his son-in-law, Mann Page, and his sons Robert and Charles, organized for mining copper, it seems likely that they wrote it jointly.</note>
+
+<note id="n1">[1] James Bradley was a London merchant with whom Carter dealt from at least 1723 until his death. As noted in his letter to Bradley of 1727 May 17, Bradley owned the <hi rend="italics">Welcome,</hi> but little information about Bradley has been located. (There is a listing of the firm of Bradly &amp; Griffin, Merchants, Fenchurch-street, opposite the Mitre Tavern, on page 13 of <cit><bibl><title>Kent's Directory For the Year 1740 Containing An Alphabetical List of the Names and Places of Abode of the Directors of Companies, Persons in Publick Business, Merchants, and other Eminent Traders in the Cities of London and Westminster, and the Borough of Southwark.</title>  London: Printed and Sold by Henry Kent in Finch-Lane, near the Royal Exchange: and by the Booksellers and Pamphlets Shops of London and Westminster, 1740. p. 39. http://freepages.history.rootsweb.com/~frpayments/KD1740/AB.htm. 8/12/2005. </bibl></cit>)</note>
+
+<note id="n2">[2] The <hi rend="italics">Sarah</hi> was a 120 ton London vessel with a crew of 13 commanded by John Reynolds in 1728 and 1729.  (<cit><bibl>Adm 68/194 and 195,  found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n3">[3]  In 1728, Carter, his sons Robert and Charles, and his son-in-law Mann Page, organized a company to mine for copper on a tract of some 27,000 acres that Louis Morton describes as lying "near the present boundary of Fairfax and Loudoun counties." Fairfax Harrison wrote that the tract was "on the  Horsepen of Broad." Horsepen Run joins Broad Run on the northern border of Dulles airport. The company was not successful. (<cit><bibl n="B32">Morton. <title>Robert Robert Carter of Nomini Hall.</title> pp. 18-19;</bibl></cit> and <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> p. 342. </bibl></cit>)</note>
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

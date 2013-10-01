@@ -1,0 +1,27 @@
+<?xml-stylesheet type="text/xsl" href="sample.xsl"?>
+<catalog>
+	<book id="bk102">
+		<author>Ralls, Kim</author>
+		<title>Midnight Rain</title>
+		<genre>Fantasy</genre>
+		<price>5.95</price>
+		<publish_date>2000-12-16</publish_date>
+		<description>A former architect battles corporate zombies, an evil sorceress, and her own childhood to become queen of the world.</description>
+	</book>
+	<book id="bk105">
+		<author>Corets, Eva</author>
+		<title>The Sundered Grail</title>
+		<genre>Fantasy</genre>
+		<price>5.95</price>
+		<publish_date>2001-09-10</publish_date>
+		<description>The two daughters of Maeve, half-sisters, battle one another for control of England. Sequel to Oberon's Legacy.</description>
+	</book>
+	<book id="bk109">
+		<author>Kress, Peter</author>
+		<title>Paradox Lost</title>
+		<genre>Science Fiction</genre>
+		<price>6.95</price>
+		<publish_date>2000-11-02</publish_date>
+		<description>After an inadvertant trip through a Heisenberg Uncertainty Device, James Salway discovers the problems of being quantum.</description>
+	</book>
+</catalog>

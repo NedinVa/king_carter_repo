@@ -1,0 +1,1 @@
+This example is different than the prototype.  It has two .xsl files and the output of the .js is output.xml rather than output.txt.  The scenario pre-sorts an xml document.  The output of the sort is output.xml which needs a processing instruction at the top if it is going to be viewed in the browser.

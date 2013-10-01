@@ -1,0 +1,1 @@
+This example should include the runit.js file.  The .js file creates the parameter and calls the template with it.  When the example is run in the browser (by loading data.xml), the example shows the default value of the parameter bing used.

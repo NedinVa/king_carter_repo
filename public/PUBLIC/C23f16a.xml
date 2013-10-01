@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C23f16a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to William Dawkins, June 16, 1723</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 5 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">filename</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2002</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to William Dawkins, June 16, 1723</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert H. Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1723-06-16</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C23f16aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1723-06-16"></date>
+<idno rend="suppress">C23f16a.xml</idno>
+<title>Letter from Robert Carter to William Dawkins, June 16, 1723</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant William Dawkins, June 16, 1723, reporting bills of exchange he and his son-in-law, Mann Page, have drawn on Dawkins on the account of the estate of another son-in-law, Nathaniel Burwell. He also reports that Captain Adam Graves will be sailing down the York River from West Point and will call at the Burwell's to take on tobacco from the estate. Graves has on board some of Carter's tobacco as well.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="WD">William Dawkins,</note> June 16, 1723</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">York river, <corr resp="editor">[Virginia]</corr> </name><lb/>
+<date value="1723-06-16">June 16 [1723]</date><lb/>
+Mr. Wm. Dawkins<lb/>
+</dateline>
+
+
+</opener>
+
+<p>The 4th Instant I advised you <note n="MP1"><abbr expan="Colonel ">Coll.</abbr> Page</note> &amp; <lb/>myself had drawn on you upon <abbr expan="aaccounts ">Accts  </abbr>of <note n="NB">Major Burwell's</note> <lb/>Estate for &pound;70 payable to John Sutton this is to Acquaint <lb/>You we have since drawn on you upon <abbr expan="account ">Acct</abbr> of that Estate <lb/>for &pound;50 payable to <note target="n1">John <sic corr="Lewis ">Lewiss</sic></note> <abbr expan="Esquire ">Esqr. </abbr>&amp;c this day both wch. <lb/>Sums we desire you to pay and place to the <abbr expan="account ">Acct</abbr> of tht. Estate</p>
+ 
+<p><note target="n2">Adam Graves</note> I hear is coming down from&mdash; <lb/><note target="n3">West Point</note> he calls <abbr expan="against ">agst.</abbr> Mr. Burwells to take in 20 hhds <lb/>of the Estates Tobo. which I suppose fills him he <sic corr="has ">hath </sic> also 20 <lb/>hhds of my own Tobo. being the Needfull at Present from</p> 
+
+<closer>Yor. humble Servt<lb/><lb/>
+<seg type="postscript">per the Burwell  </seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1723 June 16-1724 April 23, Robert Carter Papers (acc. no. 3807), Albert H. Small Special Collections Library, University of Virginia.  </note><lb/><lb/>
+
+<note>Carter probably was visiting the home of his widowed daughter, Elizabeth Burwell, at "Carter's Creek," Gloucester County, which lies on the York River.</note><lb/><lb/>
+
+<note id="n1">[1] John Lewis (1669-1725) of "Warner Hall," Gloucester County, had been a member of the Council since 1704. (<cit><bibl>Louis B. Wright and Marion Tinling, <title>William Byrd of Virginia: The London Diary 1717-1721 and Other Writings. [New York: Oxford University Pres, 1958]. p. 458 </title></bibl></cit>)</note><lb/><lb/>
+
+<note id="n2">[2] Adam  Graves was a son of Captain Thomas Graves, long a captain of vessels trading to Virginia, and a special friend of Carter's; he also commanded vessels in the trade. </note><lb/><lb/>
+
+<note id="n3">[3] West Point, located on the point where the Mattaponi and Pamunkey rivers converge to form the York, was also called Delaware, and appears on the Fry-Jefferson map under that name. (<cit><bibl>John W. Reps, <title>Tidewater Towns: City Planning in Colonial Virginia and Maryland.</title> Williamsburg,VA: The Colonial Williamsburg Foundation, 1972. p. 79.</bibl></cit>)</note><lb/><lb/>
+
+<lb/><lb/><note><hi rend="italics">This text revised August 6, 2009.</hi></note>
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

@@ -1,0 +1,16 @@
+<html>
+<body>
+<ul><b>Ordered by Author</b><i> (using for-each loop)</i>
+<li>Corets, Eva - Maeve Ascendant</li>
+<li>Corets, Eva - Oberon's Legacy</li>
+<li>Corets, Eva - The Sundered Grail</li>
+<li>Randall, Cynthia - Lover Birds</li>
+</ul>
+<ul><b>Ordered by Author, ascending then Title, decending</b><i> (using apply-templates)</i>
+<li>Corets, Eva - The Sundered Grail</li>
+<li>Corets, Eva - Oberon's Legacy</li>
+<li>Corets, Eva - Maeve Ascendant</li>
+<li>Randall, Cynthia - Lover Birds</li>
+</ul>
+</body>
+</html>

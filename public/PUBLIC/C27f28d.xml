@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C27f27d">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Peter Leheup, June 28, 1727, </title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 7 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C2727d.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2003, 2013</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Peter Leheup, June 28, 1727</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1727-06-28</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C27f28dT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1727-06-28"></date>
+<idno rend="suppress">C27f28d.xml</idno>
+<title>Letter from Robert Carter to Peter Leheup, June 28, 1727</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Peter Leheup, the colony's agent in England, June 28, 1727, to inform him that it appears that the copies of the minutes of the Council and the other "publick paprs:" will not reach Carter in time to be sent by the current fleet. He is sending a copy of the Council's resolution establishing the embargo in case there is discussion of it at home.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note target="n1">Peter Leheup,</note> June 28, 1727</head>
+<opener>
+<dateline>
+<pb n="1"/>
+Peter Leheup Esqr.&nbsp;&nbsp;&nbsp;&nbsp;<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;
+<date value="1727-06-28">June the. 28th: 1727</date><lb/>
+
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+<p>The last trouble I gave you was of the 18th May <lb/>I <del>left</del> <add place="supralinear">got home from</add> <sic corr="Williamsburg">Williamsburgh</sic> the 22d: Instant <note n="WR">Mr. Robertson</note> our Clerk promised <lb/>me to prepare the <sic corr="minutes">minuits</sic> of the Council and the other <sic corr="public">publick</sic> <sic corr="papers">paprs:</sic> <lb/>and to Send them after me in time to be transmitted by this Fleet <lb/>what ever is the reason they are not yet come to my hands so that am <lb/>in doubt they must now <sic corr="lie">lye</sic> <sic corr="until">till</sic> the next Fleet The <sic corr="Government thought">Govermt thot:</sic> <lb/>it <sic corr="advisable">adviseable</sic> to lay an Embargo upon the Trade <add place="supralinear">that the</add> Ships might <lb/>depart in Fleets under the Convoy of <note target="n2"><abbr expan="Captain">Capt:</abbr> Pearse</note> of this Coast <lb/>perhaps this proceeding may Occasion <add place="supralinear">some</add> discourse I have therefore <lb/>thought it not amiss to Enclose to you a Copy of the order of Council <lb/>that you may be acquainted with the reasons of the Councils reso=<lb/>lution I am <lb/>Sir&mdash; </p>
+
+<closer>Yor: most Obedient <lb/>humble Servt:&mdash;<seg type="postscript"><lb/><lb/>per <note target="n3">Watkinson</note>
+<lb/>Copy per <note target="n4">Buckeridge</note></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. </note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to persons abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
+
+<note id="n1">[1] Peter Leheup, an English Treasury clerk, was Virginia's  and other colonies' agent in England for some years. He was related by marriage to the Prime Minister's brother who was secretary of the Treasury. His influence would be greater near the end of Carter's life.(<cit><bibl n="B22">Price. <title>Perry of London. . . . </title> pp. 75-77, 80, 83.</bibl></cit>)</note>
+
+<note id="n2">[2] Captain Vincent Pearse was the commander of the <hi rend="italics">Tartar,</hi> the British warship on station in the colony. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:136. </bibl></cit>)</note>
+
+<note id="n3">[3] Watkinson was captain of the <hi rend="italics">Vine,</hi> a ship that may have been owned by Micajah Perry. (<xref to="http://carter.lib.virginia.edu/html/C24c25b.html">Carter to Pemberton</xref>, March 25, 1724.)</note>
+
+<note id="n4">[4] The <hi rend="italics">Marlborough</hi> was a vessel of 100 tons and 14 men, commanded by George Buckeridge (Buckbridge). (<cit><bibl>Admiralty 68/195, abstracted in Survey Report 6801, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2003, was revised January 10, 2013..</hi></note>
+
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

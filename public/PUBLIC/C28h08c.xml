@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C28h08c">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to the Earl of Orkney, August 8 and 28, 1728</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <resp>Change of handwriting: </resp>
+     <name id="hand">unidentified clerk</name>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 5 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C28h08c.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2004</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to the Earl of Orkney, August 8 and 28, 1728</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1728 August 8-1730 May 15,  Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1728-08-08</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C28h08cT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1728-08-08"></date>
+<idno rend="suppress">C28h08c.xml</idno>
+<title>Letter from Robert Carter to the Earl of Orkney, August 8 and 28, 1728</title>
+</bibl>
+</head>
+<p>Robert Carter writes to the governor of the Colony, the Earl of Orkney, August 8, 1728, to send a bill of exchange for the governor's final portion of the fees collected during Carter's administration as acting lieutenant governor. He also requests an additional letter of recommendation for his son. In a post script dated August 28th, Carter responds to  a letter just received from Orkney from which he has learned that William Dawkins apparently has refused to honor a bill of exchange sent by Carter's son.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to the <note n="GH">Earl of Orkney,</note> August 8 and 28, 1728</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1728-08-08">Augst. 8th: 1728</date><lb/>
+The Rt honble George<lb/>
+Earl of Orkney<lb/>
+</dateline>
+<salute>My Lord&mdash;&mdash;</salute>
+
+</opener>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="italics"><add resp="hand">to be Copyd</add></hi><lb/><lb/>
+In mine of the 12th of <abbr expan="Decrembe.">Decr.</abbr> I remitted to your <lb/><abbr expan="Lordship">LdShip</abbr> my bills for your Salary to the End of my Administration and <lb/>for the <note target="n1"><sic corr="Moiety">Mojety</sic></note> of the perquisites then <abbr expan="received">rec'd</abbr> have Since got in the remainder <lb/>According to the Enclosed Accot. a <sic corr="moiety">mojety</sic> whereof I now Send a bill of Exchange <lb/>for being &pound;30:17:11 on <note n="WD">Mr. Dawkins</note> of London and I hope yor. <abbr expan="Lordship">LdShip</abbr> <lb/>will think I have done you Justice to a little I am not Conscious <lb/>to my Self of keeping back a farthing <del>I was so full</del></p>
+
+<p>I was so full of presumption in my last Letter <lb/>to <sic corr="beg">begg</sic> a favour of your <abbr expan="Lordship">Ld.Ship</abbr> in a recommendatory Letter to our <lb/><abbr expan="Governor">Govr.</abbr> and I am now so Impertinent to make a Second request for <lb/>the Same favour I Shall be proud to receive your <abbr expan="Lordship's">Ld.Ships</abbr> notice of <corr resp="editor">[...]</corr> <lb/>receipt of these two Letters and with the utmost Submission </p>
+
+<closer>Sir <lb/>Your Lordships <lb/>Most obedient Most Obliged &amp; <lb/>most humble Servt.
+<seg type="postscript"><lb/><lb/><corr resp="editor">[per the Car]</corr>ter
+<lb/><corr resp="editor">[Copy per]</corr> <note target="n2"><abbr expan="Captain">Capt.</abbr> Wilcox</note></seg>
+
+<seg type="postscript">
+
+<corr resp="editor">[M]</corr>y Lord&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="August">Augst:</abbr> the 28th. 1728<lb/>
+	Two days ago I <abbr expan="received">rec'd</abbr>  the <abbr expan="Honor">honr.</abbr> of your<lb/> <abbr expan="Lordship's">LdShips</abbr> <add place="supralinear">kind letter</add> of the 30th. of March the paragraph <sic corr="relating">relateing</sic> <lb/>to <note n="WD">Mr. Dawkins</note> is very <sic corr="Shocking">Shocken</sic> It would be vanity <lb/>to tell your <abbr expan="Lordship">Ld.Ship</abbr> how much that person is in my Debt, and <lb/>by my <abbr expan="Endorsement">Endorsemt.</abbr> that bill was my own and well as the other <lb/>&amp; in respect to my Son, I have a great deal of reason to Conclude he had no Occa=<lb/>sion to treat his bill with so much disrespect he is a peevish <abbr expan="Gentleman">Gent:</abbr> and parts wth. our <lb/>money with as much reluctance as if it were his own, All that I shall add I think <lb/>he <del>[illegible]</del> <add place="supralinear">would not be so inconsiderate</add> to Suffer that bill to be protested I <sic corr="beg">begg</sic> yor. <abbr expan="Lordship">Ld.Ship</abbr> not to Entertain <lb/>any harsh thoughts of my Son on this Accot. I am as before
+</seg>
+</closer>
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. There is a 19th-century transcript of the letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia. The leaf bearing this letter has suffered some marginal damage.</note>
+
+<note>A different clerk as entered the words "to be Copyd" at the head of the letter as is indicated by the use of italics.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
+
+<note id="n1">[1] A moiety is one of two approximately equal portions.</note>
+
+<note id="n2">[2] No information about Captain Wilcox has been located.</note>
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>
