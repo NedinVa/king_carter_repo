@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2003</date>
+     <date>2003, 2013</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,9 +106,8 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
-<date value="1727-08-07">Augt the 7th 1727</date><lb/>
-Dr. Nicholas<lb/>
+Dr. Nicholas&nbsp;&nbsp;&nbsp;&nbsp;<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1727-08-07">Augt the 7th 1727</date><lb/>
+<lb/>
 </dateline>
 <salute>Sr</salute>
 
@@ -116,7 +115,7 @@ Dr. Nicholas<lb/>
 
 
 
-<p>Yours by <note n="CS">Mr. Stagg</note> came to me last <lb/>night he tells me by a line he saw <note n="WR">Mr. Robertson</note> in the morning <lb/>that <note target="n1">his fever</note> had quite left him and his Surgeons had&mdash; <lb/>great hopes of his doing well</p>
+<p>Yours by <note n="CS">Mr. Stagg</note> came to me last <lb/>night he tells me by a line he saw <note n="WR">Mr. Robertson</note> in the Morning <lb/>that <note target="n1">his fever</note> had quite left him and his Surgeons had&mdash; <lb/>great hopes of his doing well</p>
 
 <p>The rest of your Lettr: needs no anwer <lb/>at present you ought to make it a Secret as you may be sure <lb/>I shall I hope this find your family all in good health <lb/>I am </p>
 
@@ -140,7 +139,7 @@ Dr. Nicholas<lb/>
 
 <note id="n1">[1] Robertson had broken his leg and his life had been dispaired of.</note>
 
-
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2003, was revised October 25, 2013..</hi></note>
 
 
 

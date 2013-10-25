@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2003</date>
+     <date>2003, 2013</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,9 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, ]</add>Virginia</name><lb/>
-<date value="1727-07-24">July the 24th: 1727</date><lb/>
-Sr Richd Everard<lb/>
+Sr Richd Everard&nbsp;&nbsp;&nbsp;&nbsp;<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, ]</add>Virginia</name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1727-07-24">July the 24th: 1727</date>
 </dateline>
 <salute>Sir&mdash;</salute>
 
@@ -116,9 +114,9 @@ Sr Richd Everard<lb/>
 
 
 
-<p>Your <sic corr="packet">pacquett</sic> Express <add place="supralinear">of the 19th Instant</add> came to me late <add place="supralinear">last</add> night <lb/>late upon perusal of the Examinations &amp; Depositions you have been <lb/>pleased to Send me Think there can be no doubt but your prisoners have <lb/>been guilty of piracy and ought to be <sic corr="Tried">Tryed</sic> as <sic corr="pirates">pyrates</sic> by the Commission <lb/>for that purpose under the Great Seal that is lodged in this <sic corr="Government;">Governmt;</sic> <lb/>Accordingly I have Appointed a Court of <add place="supralinear">Vice</add> Admiralty to be held at the <lb/>Capitol in the city of <abbr expan="Williamsburg">WmsBurgh</abbr> on the 15th day of August next <lb/>and have directed a <note target="n2">precept</note> to <name type="person"><abbr expan="William">Wm.</abbr> Gordon</name> <abbr expan="Gentleman">Gentmn:</abbr> Marshall of the <lb/>Said Court forthwith to repair to your Province and to receive into <lb/>his Custody all such persons as the Governour for the time being shall <lb/>cause to be delivered to him charged with piracy, &amp;C: Your Honor <lb/>will please to give the Assistance of your Authority to the Marshall <lb/>in directing a proper Guard for the Secure conveying the prisoners <lb/>into this Government and also that all the proper Evidence for the <lb/>proving the piracy may Appear at the Said Court, on the day of <lb/>Tryal</p>
+<p>Your <sic corr="packet">pacquett</sic> Express <add place="supralinear">of the 19th Instant</add> came to me late <add place="supralinear">last</add> night <lb/>late upon perusal of the Examinations &amp; Depositions you have been <lb/>pleased to Send me Think there can be no doubt but your prisoners have <lb/>been guilty of piracy and ought to be <sic corr="Tried">Tryed</sic> as <sic corr="pirates">pyrates</sic> by the Commission <lb/>for that purpose under the Great Seal that is lodged in this <sic corr="Government;">Governmt;</sic> <lb/>Accordingly I have Appointed a Court of <add place="supralinear">Vice</add> Admiralty to be held at the <lb/>Capitol in the <del>[illegible]</del> <add place="supralinear">city</add> of <abbr expan="Williamsburg">WmsBurgh</abbr> on the 15th day of August next <lb/>and have directed a <note target="n2">precept</note> to <name type="person"><abbr expan="William">Wm.</abbr> Gordon</name> <abbr expan="Gentleman">Gentmn:</abbr> <sic corr="Marshal">Marshall</sic> of the <lb/>Said Court forthwith to repair to your Province and to receive into <lb/>his Custody all such persons as the <sic corr="Governor">Governour</sic> for the time being shall <lb/>cause to be delivered to him charged with piracy, &amp;C: Your Honor <lb/>will please to give the Assistance of your Authority to the <abbr expan="Marshal">Marshall</abbr> <lb/>in directing a proper Guard for the Secure conveying the prisoners <lb/>into this Government and also that all the proper Evidence for the <lb/>proving the piracy may Appear at the Said Court, on the day of <lb/><sic corr="Trial">Tryal</sic></p>
 
-<p><del>Your Honor:</del>The Governour for the time being of your <lb/>Province the chief Justice and the <abbr expan="Councillors">Collrs:</abbr> are named Judges in the Commission <lb/>but I hope the method I have taken will give the least uneasiness to <lb/>your <abbr expan="Honor">Honr:</abbr> as well as to Sir, </p>
+<p><del>Your Honor:</del>The <sic corr="Governor">Governour</sic> for the time being of your <lb/>Province the chief Justice and the <abbr expan="Councillors">Collrs:</abbr> are named Judges in the Commission <lb/>but I hope the method I have taken will give the least uneasiness to <lb/>your <abbr expan="Honor">Honr:</abbr> as well as to Sir, </p>
 
 <closer>Your most <abbr expan="Obedient">Obedt</abbr> humble Servt:<seg type="postscript">
 <lb/><lb/>Sr. Richd Everard <del>Knt: &amp;</del> <sic corr="Baronet;">Barront;</sic></seg></closer>
@@ -139,7 +137,7 @@ Sr Richd Everard<lb/>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to persons outside Virginia. The county and colony have been added for clarity.</note>
 
-<note id="n1"> [1] Sir Richard Everard (1683-1733) was the  governor of the colony of North Carolina 1725-1731 when that colony was owned by lords proprietors. ("North Carolina Governors" in "North Carolina Encyclopedia" placed online by the State Library of North Carolina. [http://statelibrary.dcr.state.nc.us/nc/stgovt/governor.htm#lords, 8/4/03] )</note>
+<note id="n1"> [1] Sir Richard Everard (1683-1733) was the  governor of the colony of North Carolina 1725-1731 when that colony was owned by lords proprietors. <cit><bibl>(<xref to="http://ncpedia.org/biography/everard-sir-richard">"Everard, Sir Richard"</xref> placed online at "NCPedia," Sketch taken from the <title>Dictionary of North Carolina Biography.</title></bibl></cit> )</note>
 
 <note id="n2">[2] A precept is an order giving directions for action.</note>
 

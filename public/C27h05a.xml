@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2003</date>
+     <date>2003, 2013</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,9 +106,10 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place"><del>Rappahannock</del><add resp="editor">[Corotoman Lancaster County, Virginia]</add></name><lb/>
-<date value="1727-08-05">Augst. the 5th. 1727</date><lb/>
 Capt. Henry Morryson<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<name type="place"><del>Rappahannock</del><add resp="editor">[Corotoman Lancaster County, Virginia]</add></name>&nbsp;&nbsp;
+<date value="1727-08-05">Augst. the 5th. 1727</date><lb/>
+
 </dateline>
 <salute>Sir&mdash;</salute>
 
@@ -116,7 +117,7 @@ Capt. Henry Morryson<lb/>
 
 
 
-<p>I have appointed a Court of Admiralty <lb/>to be held at the Capitol in <sic corr="Williamsburg">Williamsburgh</sic> on the 15th: Instant for the <lb/><sic corr="trial">tryal </sic>of <del>some</del> <add place="supralinear">Certain</add> <sic corr="pirates">pyrates</sic> that were apprehended in Carolina and <lb/>by this time I reckon are brought to our publick <sic corr="Jail">Goal</sic><add resp="editor"> [<hi rend="italics">sic</hi>]</add> You as one <lb/>of the Kings Collectors are Constituted a Judge of this Court by the <lb/>Commission I do therefore hereby give you notice of the Said Court <lb/>and Time that you may give your Attendance Accordingly I am </p>
+<p>I have appointed a Court of Admiralty <lb/>to be held at the Capitol in <sic corr="Williamsburg">Williamsburgh</sic> on the 15th: Instant for the <lb/><sic corr="trial">tryal </sic>of <del>some</del> <add place="supralinear">Certain</add> <sic corr="pirates">pyrates</sic> that were apprehended in Carolina and <lb/>by this time I reckon are brought to our <sic corr="Public">Publick</sic> <sic corr="Jail">Goal</sic><add resp="editor"> [<hi rend="italics">sic</hi>]</add> You as one <lb/>of the Kings Collectors are Constituted a Judge of this Court by the <lb/>Commission I do therefore hereby give you notice of the Said Court <lb/>and Time that you may give your Attendance Accordingly I am </p>
 
 <closer>Sir&mdash;<lb/>Yor: most humble Servt:</closer>
 
@@ -138,6 +139,7 @@ Capt. Henry Morryson<lb/>
 
 <note id="n1">[1] Henry Morrison (Morryson) was a resident of Westmoreland County who was appointed a justice in 1732. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:268. </bibl></cit>) </note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2003, was revised October 24, 2013,  to strengthen the modern language version text.</hi></note>
 
 
 

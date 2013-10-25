@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2003</date>
+     <date>2003, 2013</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,19 +106,17 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1727-07-28">July the 28th: 1727</date><lb/>
-John Burridge Esqr<lb/>
+John Burridge Esqr&nbsp;&nbsp;&nbsp;&nbsp;<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1727-07-28">July the 28th: 1727</date>
 </dateline>
 <salute>Sir&mdash;</salute>
 
 </opener>
 
 <p>I have had no Opportunity of Shiping <abbr expan="Tobacco">Tobbo:</abbr>
- to <lb/>your port only in Will: Read and he would not take a hogshead to anybody <lb/>but his owners The Occasion of this is to advise you of a bill of Exchange <lb/>I drew upon you to <note n="CS1">Charles Stagg</note> for &pound;16"-"- which I desire <abbr expan="your">yor.</abbr> paymt. <lb/>of at Time I am </p>
+ to <lb/>your port only in Will: Read and he would not take a hogshead to anybody <lb/>but his owners The Occasion of this is to advise you of a <note target="n1">bill of Exchange </note><lb/>I drew upon you to <note n="CS1">Charles Stagg</note> for &pound;16"-"- which I desire <abbr expan="your">yor.</abbr> paymt. <lb/>of at Time I am </p>
 
 <closer>Sir&mdash;<lb/>Yor: most humble Servt:
-<seg type="postscript"><lb/><lb/>per <abbr expan="Captain">Capt:</abbr> Trice&mdash;</seg></closer>
+<seg type="postscript"><lb/><lb/>per <note target="n2"><abbr expan="Captain">Capt:</abbr> Trice&mdash;</note></seg></closer>
 
 
 </div1>
@@ -136,8 +134,9 @@ John Burridge Esqr<lb/>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
 
-<note id="n1">[1] The 140 ton <hi rend="italics">Welcome</hi> was owned by London merchant James Bradley to whom Carter would write about her on 1727 May 17. John Trice (Frice) was her captain, 1723-1727. (<cit><bibl>Adm 68/195, 154r, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n2">[2] The 140 ton <hi rend="italics">Welcome</hi> was owned by London merchant James Bradley to whom Carter would write about her on <xref to="http://carter.lib.virginia.edu/html/C27e17a.html">May 17, 1727</xref>. John Trice (Frice) was her captain, 1723-1727. (<cit><bibl>Adm 68/195, 154r, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2003, was revised June 14, 2013,  to strengthen the footnotes and modern language version text.</hi></note>
 
 
 

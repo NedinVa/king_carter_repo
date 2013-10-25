@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2003</date>
+     <date>2003, 2013</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,9 +106,8 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
-<date value="1727-08-07">Augt the 7th. 1727</date><lb/>
-Mr. Richd Hickman<lb/>
+Mr. Richd Hickman&nbsp;&nbsp;&nbsp;&nbsp;<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1727-08-07">Augt the 7th. 1727</date><lb/>
+<lb/>
 </dateline>
 <salute>Sir&mdash;</salute>
 
@@ -116,9 +115,9 @@ Mr. Richd Hickman<lb/>
 
 
 
-<p>Herewith I send you Six Military <lb/>Commissions <sic corr="Signed">Signd</sic> ordering you forth with to put the Seal <lb/>to them and to Dispatch them away by Express to <note n="NH"><abbr expan="Colonel">Collo:</abbr>&mdash; <lb/>Harrison</note> <note n="WR">Mr. Robertsons</note> <note target="n2">deplorable Condition</note> put me under <lb/>the necessity of giving you this trouble in which you must <lb/>not fail to be as Expeditious as possible let my Expres to <abbr expan="Colonel">Colln</abbr> <lb/>Harrison go with your Messenger I am </p>
+<p>Here with I send you Six Military <lb/>Commissions <sic corr="Signed">Signd</sic> ordering you forth with to put the Seal <lb/>to them and to Dispatch them away by Express to <note n="NH"><abbr expan="Colonel">Collo:</abbr>&mdash; <lb/>Harrison</note> <note n="WR">Mr. Robertsons</note> <note target="n2">deplorable Condition</note> put me under <lb/>the necessity of giving you this trouble in which you must <lb/>not fail to be as Expeditious as possible let my <sic corr="Express">Expres</sic> to <abbr expan="Colonel">Colln</abbr> <lb/>Harrison go with your Messenger I am </p>
 
-<closer>Sir <lb/>Yor: <del>most</del> humble Servt.</closer>
+<closer>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor: <del>most</del> humble Servt.</closer>
 
 
 </div1>
@@ -136,10 +135,11 @@ Mr. Richd Hickman<lb/>
 
 <note>The name of Carter's home, the county, and colony have been added for clarity to this unheaded draft.</note>
 
-<note id="n1"> [1]  Richard Hickman (d. 1732) had been deputy clerk of Middlesex County in 1709. After Governor Hugh Drysdale's death, the Council appointed him to manage the Governor's house and its gardens.  His name appears a number of times in the Council minutes as he was the doorkeeper, and as he took out land patents. From Carter's letter to William Robertson 1727 July 15, in which he complains that "Mr. Hickman is very dilatory with his probatted Administrations," it seems that Hickman must have done other work for the colonial government. (Edward W. James.  "Libraries in Colonial Virginia."   <title>William and Mary Quarterly.</title> 3[1,#4, Apr. 1895]:248-51 for Hickman's inventory recorded 1732 May 15  listing many books; "Notes from the Journal of the House of Burgesses, 1712-1726." <title>William and Mary Quarterly.</title> 21[1,#4, April 1913]:257 mentions his being Council doorkeeper; "Notes from the Journal of the House of Burgesses, 1727-1734, <title>William and Mary Quarterly.</title>22[1, #1, July 1913]:54,56-58, mentions his being clerk of the Committee of Propositions and Grievances; and <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:114. </bibl></cit>)</note>
+<note id="n1"> [1]  Richard Hickman (d. 1732) had been deputy clerk of Middlesex County in 1709. After Governor Hugh Drysdale's death, the Council appointed him to manage the Governor's house and its gardens.  His name appears a number of times in the Council minutes as he was the doorkeeper, and as he took out land patents. From <xref to="http://carter.lib.virginia.edu/html/C27g15b.html">Carter's letter</xref> to William Robertson  July 15, 1727, in which he complains that "Mr. Hickman is very dilatory with his probatted Administrations," it seems that Hickman must have done other work for the colonial government. (Edward W. James.  "Libraries in Colonial Virginia."   <title>William and Mary Quarterly.</title> 3[1,#4, Apr. 1895]:248-51 for Hickman's inventory recorded 1732 May 15  listing many books; "Notes from the Journal of the House of Burgesses, 1712-1726." <title>William and Mary Quarterly.</title> 21[1,#4, April 1913]:257 mentions his being Council doorkeeper; "Notes from the Journal of the House of Burgesses, 1727-1734, <title>William and Mary Quarterly.</title>22[1, #1, July 1913]:54,56-58, mentions his being clerk of the Committee of Propositions and Grievances; and <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:114. </bibl></cit>)</note>
 
 <note id="n2">[2] William Robertson, clerk of the Council, had broken his leg and his life had been in jeopardy.</note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2003, was revised October 25, 2013,  to strengthen the footnotes and modern language version text.</hi></note>
 
 
 

@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2003</date>
+     <date>2003, 2013</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,9 +106,8 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1727-08-05">Augst: the 5th: 1727</date><lb/>
-John Randolph Esqr.<lb/>
+John Randolph Esqr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;<date value="1727-08-05">Augst: the 5th: 1727</date><lb/>
+<lb/>
 </dateline>
 <salute>Sir&mdash;</salute>
 
@@ -116,9 +115,10 @@ John Randolph Esqr.<lb/>
 
 
 
-<p>Yors: of the 3d: reachd me this morning at <note n="RP"><add place="supralinear">Rosegill</add></note> <del>Middle<lb/>sex Court</del>  I <sic corr="met">mett</sic> with the unhappy account of Poor <note n="WR">William Robertsons</note> <lb/><note target="n1">Deplorable disaster</note> as he is desirous <note target="n2">you Should act</note> in his behalf <lb/>in this affair of the <sic corr="pirates">pyrates</sic> so am I too and do now Send you direct<add resp="editor">[ions]</add> <lb/>to dispatch away proper Letters for Summoning the Judges <abbr expan="Colonel">Coll.</abbr> Page <lb/>and <note n="JG2">Mr. Grimes</note> will need none having already promised me to be <lb/>there from Middlesex <add place="supralinear">Court</add> I writ to <note n="WR1">Colonel Robinson</note> and Shall give notice <lb/>Speedily to our <abbr expan="Collector">Collr:</abbr> and the <abbr expan="Collector">Collr:</abbr> of <sic corr="Potomac">Patowmack</sic> however if you think <lb/>Summons <del>necessary</del> to these three <abbr expan="Gentlemen">Gent.</abbr> <del>absolutely</del> necessary you <lb/> may do in it in respect to them as you think <sic corr="fit.">fitt.</sic> The Captains <lb/>of the men of <sic corr="War">Warr</sic> if any in place are in the Commission, If it <lb/>not be <add place="supralinear">im</add>proper in your Summons to <del>let</del> the <abbr expan="Gentlemen">Gent</abbr> of the Council <add place="supralinear">you <del>to let</del> may let them</add> know <lb/>that the Day after the <sic corr="trial">tryal</sic> I have appointed a Council, <sic corr="Although">Altho</sic> I <lb/><sic corr="Believe">beleive</sic> there will be little occasion for this I am with <del>a</del> great <lb/><del>deal of</del> Sincerity </p>
+<p>Yors: of the 3d: reachd me this morning at <del>Middle<lb/>sex Court</del> <note n="RP"><add place="supralinear">Rosegill</add></note> <add place="supralinear">After my letter was<sic corr="gone"> gon</sic></add> I <sic corr="met">mett</sic> with the unhappy account of Poor <note n="WR">William Robertsons</note> <lb/><note target="n1">Deplorable disaster</note> as he is desirous <note target="n2">you Should act</note> in his behalf <lb/>in this affair of the <sic corr="Pirates">Pyrates</sic> so am I too and do now Send you direct<add resp="editor">[ions]</add> <lb/>to dispatch away proper Letters for Summoning the Judges <abbr expan="Colonel">Coll.</abbr> Page <lb/>and <note n="JG2">Mr. Grimes</note> will need none having already promised me to be <lb/>there from Middlesex <add place="supralinear">Court</add> I <sic corr="wrote">writ</sic> to <note n="WR1">Colonel Robinson</note> and Shall give notice <lb/>Speedily to our <abbr expan="Collector">Collr:</abbr> and the <abbr expan="Collector">Collr:</abbr> of <sic corr="Potomac">Patowmack</sic> however if you think <lb/>Summons <del>necessary</del> to these three <abbr expan="Gentlemen">Gent.</abbr> <del>absolutely</del> necessary you <lb/> may do in it in respect to them as you think <sic corr="fit.">fitt.</sic> The Captains <lb/>of the men of <sic corr="War">Warr</sic> if any in place are in the Commission, If it <lb/>not be <add place="supralinear">im</add>proper in your Summons to <del>let</del> the <abbr expan="Gentlemen">Gent</abbr> of the Council <add place="supralinear">you <del>to let</del> may let them</add> know <lb/>that the Day after the <sic corr="trial">tryal</sic> I have appointed a Council, <sic corr="Although">Altho</sic> I <lb/><sic corr="believe">beleive</sic> there will be little occasion for this I am with <del>a</del> great <lb/><del>deal of</del> Sincerity </p>
 
-<closer>Sir&mdash;<lb/>Yor: most <add place="supralinear"><sic corr="Faithful">Faithfull </sic></add>humble Servt&mdash;</closer>
+<closer>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir&mdash;<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor: most <add place="supralinear"><sic corr="Faithful">Faithfull </sic></add>humble Servt&mdash;</closer>
 
 
 </div1>
@@ -136,7 +136,7 @@ John Randolph Esqr.<lb/>
 
 <note>Robert Carter generally did not use the return address  "Rappahannock" (for the river on which he lived) for letters sent to persons within the colony, but the clerk has written it here. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] Robertson had broken his leg. See Carter's letter to Nathaniel Harrison 1727 August 7.</note>
+<note id="n1">[1] Robertson had broken his leg. See <xref to="http://carter.lib.virginia.edu/html/C27h07a.html">Carter's letter</xref> to Nathaniel Harrison  August 7, 1727.</note>
 
 <note id="n2">[2] William Robertson was clerk of the Council and apparently also of the Vice Admiralty Court in which the pirates' trial was to be held. Randolph was attorney general, and could readily substitute for Robertson.</note>
 
