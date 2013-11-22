@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2003</date>
+     <date>2003, 2013</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,9 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
-<date value="1727-08-07">Augt the 7th 1727</date><lb/>
-Mr. Jno Randolph<lb/>
+Mr. Jno Randolph&nbsp;&nbsp;&nbsp;&nbsp;<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1727-08-07">Augt the 7th 1727</date>
 </dateline>
 <salute>Sr&mdash;</salute>
 
@@ -116,9 +114,9 @@ Mr. Jno Randolph<lb/>
 
 
 
-<p>Last night I <abbr expan="received">reced</abbr> an Express from the <lb/><note target="n1"><sic corr="Governor">Governour</sic></note> of North Carolina as you have undertaken to Act in <lb/>the behalf of <note n="WR">Mr. Robertson</note> in the Court of admiralty I think it <lb/>not amiss to send you a Copy of <sic corr="Sir">Sr</sic> Richards Letter the Same <lb/>day I writ to you I had the Opportunity of Sending a Summons <lb/>to <note target="n2"><abbr expan="Captain">Capt</abbr> Morryson</note> and intend to give Mr. Cockburne Notice <lb/>time Enough <note n="CS">Stagg</note> writes me last night he Saw Mr. Robertson <lb/>Yesterday morning that his fever had quite left him and the <lb/>Surgeons were in hopes of his doing well I am </p>
+<p>Last night I <abbr expan="received">reced</abbr> an Express from the <lb/><note target="n1"><sic corr="Governor">Governour</sic></note> of North Carolina as you have undertaken to Act in <lb/>the behalf of <note n="WR">Mr. Robertson</note> in the Court of admiralty I think it <lb/>not amiss to send you a Copy of <sic corr="Sir">Sr</sic> Richards Letter the Same <lb/>day I <sic corr="wrote">writ</sic> to you I had the Opportunity of Sending a Summons <lb/>to <note target="n2"><abbr expan="Captain">Capt</abbr> Morryson</note> and intend to give <note target="n3">Mr. Cockburne</note> Notice <lb/>time Enough <note n="CS">Stagg</note> writes me last night he Saw Mr. Robertson <lb/>Yesterday morning that his fever had quite left him and the <lb/>Surgeons were in hopes of his doing well I am </p>
 
-<closer>Sir&mdash;<lb/>Your most humble Servt&mdash;</closer>
+<closer>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir&mdash;<lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your most humble Servt&mdash;</closer>
 
 
 </div1>
@@ -140,7 +138,10 @@ Mr. Jno Randolph<lb/>
 
 <note id="n2">[2] Henry Morrison (Morryson) was a resident of Westmoreland County who was appointed a justice in 1732. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:268. </bibl></cit>) </note>
 
+<note id="n3">[3] This may hqve been Adam Cockburn, collector of the Rappahannock. In Carter's letter of  <xref to="http://carter.lib.virginia.edu/html/C27g24c.html">July 24, 1727,</xref> to Sir Richard Everard, governor of North Carolina, he notes that "chief Justice and the Collrs: are named Judges in the Commission."<cit><bibl>(Louis des Cognets, Jr. .<title>English Duplicates of Lost Virginia Records.</title>[Baltimore: Genealogical Publishing Company; 2008, reprint of the original 1958 edition], p. 30.</bibl></cit>)</note>
 
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2003, was revised October 28, 2013,  to strengthen the modern language version text.</hi></note>
 
 
 

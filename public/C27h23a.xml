@@ -10,7 +10,13 @@
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+
+<!NOTATION html SYSTEM "HTML">
+<!ENTITY Ext6 SYSTEM "http://www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm" NDATA html>
+
+ ]>
+
 <TEI.2 id="C27h23a">
 
 
@@ -39,7 +45,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2003</date>
+     <date>2003, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -102,13 +108,12 @@
 
 <body>
 <div1 type="letter" n="1">
-<head>Letter from Robert Carter to <note target="n1">John Pemberton,</note> August 23, 1727</head>
+<head>Letter from Robert Carter to <note n="JP">John Pemberton,</note> August 23, 1727</head>
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+Mr. John Pemberton&nbsp;&nbsp;&nbsp;&nbsp;<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;
 <date value="1727-08-23">Augst: 23d: 1727</date><lb/>
-Mr. John Pemberton<lb/>
 </dateline>
 <salute>Sir&mdash;</salute>
 
@@ -116,7 +121,7 @@ Mr. John Pemberton<lb/>
 
 
 
-<p>This is to Accompany thirty Second bills of <lb/>Exchange for Accot. of the Owners of the Ship <note target="n2"><name type="ship">John and Betty</name></note> <abbr expan="William">Wm:</abbr> <lb/>Denton <abbr expan="Master">Mr.</abbr> Amounting to Seventeen hundred and twenty nine <lb/><add resp="editor">[pounds]</add> Seventeen Shillings A list of them you have Enclosed The first of them <lb/>go by your own Ship together with Sundry other Papers relat<lb/>ing to the concern I am Sir </p>
+<p>This is to Accompany thirty Second<note target="n1"> bills of <lb/>Exchange</note> for Accot. of the Owners of the Ship <note target="n2"><name type="ship">John and Betty</name></note> <abbr expan="William">Wm:</abbr> <lb/>Denton <abbr expan="Master">Mr.</abbr> Amounting to Seventeen hundred and twenty nine <lb/><add resp="editor">[pounds]</add> Seventeen Shillings A list of them you have Enclosed The first of them <lb/>go by your own Ship together with Sundry other Papers relat<lb/>ing to the concern I am Sir </p>
 
 <closer>Yor: very humble Servt.--
 <seg type="postscript"><lb/><lb/>per the Carter</seg></closer>
@@ -137,11 +142,11 @@ Mr. John Pemberton<lb/>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] John Pemberton was a noted merchant of Liverpool with whom
-Carter did much business and to whom many of his letters are addressed.</note>
+<note id="n1"> [1] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (<cit><bibl><xref to="Ext6">"Dictionary of  Financial Scam Terms,"</xref> 8/22/2005</bibl></cit>)</note>
 
-<note id="n2">[2] The <hi rend="italics">John &amp; Betty</hi> was a Liverpool ship often carrying slaves owned by merchant John Pemberton. In 1726 the captain was John Gale, and in the next year, she was commanded by a Captain William Denton. The ship would be lost in 1729. (<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> p. 18, n. 23;</bibl></cit> Carter to Pemberton, 1730 April 15; and Carter to William Dawkins, June 28, July 26, and August 22, 1727, for Denton's first name.)</note>
+<note id="n2">[2] The <hi rend="italics">John &amp; Betty</hi> was a Liverpool ship often carrying slaves owned by merchant John Pemberton. In 1726 the captain was John Gale, and in the next year, she was commanded by a Captain William Denton. The ship would be lost in 1729. (<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> p. 18, n. 23;</bibl></cit> <xref to="http://carter.lib.virginia.edu/html/C30d15c.html">Carter to Pemberton,</xref> April 15;  1730, and <xref to="http://carter.lib.virginia.edu/html/C27f28c.html">Carter to William Dawkins,</xref> June 28, July 26, and August 22, 1727, for Denton's first name.)</note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2003, was revised November 22, 2013,  to strengthen the footnotes and modern language version text.</hi></note>
 
 
 

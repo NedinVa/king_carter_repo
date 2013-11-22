@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2003</date>
+     <date>2003, 2013</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,8 +106,8 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
-<date value="1727-08-22">Augst: the 22d: 1727</date><lb/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;
+<date value="1727-08-22">Augst: the 22d: 1727</date>
 
 </dateline>
 <salute>Dear Lewis&mdash;</salute>
@@ -138,6 +138,7 @@
 
 <note id="n1">[1] Lewis Burwell (1711 or 1712-1756), Carter's grandson by Elizabeth Carter Burwell and her first husband, Nathaniel Burwell (1680-1721). He was educated at Eton and Cambridge, and inherited considerable property, living at "Fairfield," Gloucester County. He would be president of the Council in 1750-1751. (<cit><bibl n="B42">Kneebone <hi rend="italics">et al.</hi>,  <title>Dictionary of Virginia Biography.</title>  2:434-5.</bibl></cit> and <cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 114.</bibl></cit>)</note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised November 13, 2013.</hi></note>
 
 
 

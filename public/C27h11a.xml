@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2003</date>
+     <date>2003, 2013</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,9 +106,8 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
-<date value="1727-08-09">Augst: the 11th: 1727</date><lb/>
-Mr. John King<lb/>
+Mr. John King&nbsp;&nbsp;&nbsp;&nbsp;Added to his former Letter<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1727-08-09">Augst: the 11th: 1727&mdash;</date><lb/>
 </dateline>
 <salute>Sir&mdash;</salute>
 
@@ -116,8 +115,7 @@ Mr. John King<lb/>
 
 
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Added to his former Letter<lb/><lb/>
-In a Letter of <sic corr="uours">yors:</sic> I <abbr expan="received">rec'd</abbr> Since the abbove you tell me <lb/>you would Send the goods I had <sic corr="written">writ</sic> for in <note target="n1"><abbr expan="Captain">Capt:</abbr> Hall</note> who is Arrived <lb/>into York river <del>I have</del> but hear of no Goods in him hope you will <lb/>take the first Opportunity to Send me in the above Goods I am </p>
+<p>In a Letter of <sic corr="uours">yors:</sic> I <abbr expan="received">rec'd</abbr> Since the abbove you tell me <lb/>you would Send the goods I had <sic corr="written">writ</sic> for in <note target="n1"><abbr expan="Captain">Capt:</abbr> Hall</note> who is Arrived <lb/>into York river <del>I have</del> but hear of no Goods in him hope you will <lb/>take the first Opportunity to Send me in the above Goods I am </p>
 
 <closer>Sir, Yor: very humble Servt:<seg type="postscript"><lb/><lb/>per Sweet</seg></closer>
 
@@ -137,8 +135,9 @@ In a Letter of <sic corr="uours">yors:</sic> I <abbr expan="received">rec'd</abb
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] Carter wrote in his diary 1725 December 5 "Capt Hall in the rising Sun from Bristol brot me Goods from King."</note>
+<note id="n1">[1] Carter wrote in his diary December 5, 1725, "Capt Hall in the rising Sun from Bristol brot me Goods from King."</note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2003, was revised November 1, 2013..</hi></note>
 
 
 

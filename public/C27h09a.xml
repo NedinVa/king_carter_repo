@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2003</date>
+     <date>2003, 2013</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,9 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
-<date value="1727-08-09">Augst: the 9th: 1727</date><lb/>
-Capt: Slaughter&mdash;<lb/>
+Capt: Slaughter&mdash;&nbsp;&nbsp;&nbsp;&nbsp;<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1727-08-09">Augst: the 9th: 1727</date>
 </dateline>
 <salute>Sir&mdash;</salute>
 
@@ -116,9 +114,9 @@ Capt: Slaughter&mdash;<lb/>
 
 
 
-<p>About Eight <sic corr="o'Clock">a Clock</sic> this morning I recd the <sic corr="Enclosed">Enclosd</sic> <lb/>Letter to <note target="n1"><abbr expan="Captain">Capt:</abbr> Pearse</note> which I think most proper forthwith to <add place="supralinear"><del>Expedite</del></add> dispatch <lb/>to you by Express <sic corr="believing">beleiveing</sic> it will be in your Power to give it the quick<lb/>est dispatch to him that you may know the Contents of it I send you the <lb/>Copy of a Letter that it came to me Enclosed in what measures you <lb/>will please to take with his Majestys Ship under yor Command to <lb/>answer our <note n="WG"><abbr expan="Governor's">Govrs:</abbr></note> desire I must leave to your Considerations who <lb/>am </p>
+<p>About Eight <sic corr="o'Clock">a Clock</sic> this morning I recd the <sic corr="Enclosed">Enclo'd</sic> <lb/>Letter to <note target="n1"><abbr expan="Captain">Capt:</abbr> Pearse</note> which I think most proper forthwith to <add place="supralinear"><del>Expedite</del></add> dispatch <lb/>to you by Express <sic corr="believing">beleiveing</sic> it will be in your Power to give it the quick<lb/>est dispatch to him that you may know the Contents of it I send you the <lb/>Copy of a Letter that it came to me Enclosed in what measures you <lb/>will please to take with his Majestys Ship under yor Command to <lb/>answer our <note n="WG"><abbr expan="Governor's">Govrs:</abbr></note> desire I must leave to your Considerations who <lb/>am </p>
 
-<closer>Sir&mdash;<lb/>Yor: most humble Servt.</closer>
+<closer>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir&mdash;<lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor: most humble Servt.</closer>
 
 
 </div1>
@@ -138,6 +136,7 @@ Capt: Slaughter&mdash;<lb/>
 
 <note id="n1">[1] Captain Vincent Pearse was the commander of the <hi rend="italics">Tartar,</hi> the British warship on station in the colony.  (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:136. </bibl></cit>)</note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2003, was revised November 1, 2013..</hi></note>
 
 
 

@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2003</date>
+     <date>2003, 2013</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,9 +106,8 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
-<date value="1727-08-22">Augt: 22d. 1727</date><lb/>
-Mr. Wm: Dawkins<lb/>
+Mr. Wm: Dawkins&nbsp;&nbsp;&nbsp;&nbsp;<date value="1727-08-22">Augt: 22d. 1727</date><lb/>
+<lb/>
 </dateline>
 <salute>Sr:</salute>
 
@@ -141,6 +140,7 @@ Mr. Wm: Dawkins<lb/>
 <note id="n1">[1] Hancock Lee (1653-1709) was an intimate friend of Robert Carter who was named in Lee's will as "a good friend," and appointed one of the trustees of his children. (<cit><bibl n="B11">Lee. <title>Lee Chronicle . . .</title></bibl></cit>
  pp. 33-35)</note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was reviewed November 18, 2013</note>
 
 
 
