@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2003</date>
+     <date>2003, 2013</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,9 +106,8 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
-<date value="1727-08-25">Augst: the 25th. 1727</date><lb/>
-Majr. Geo: Eskkridge<lb/>
+Majr. Geo: Eskkridge&nbsp;&nbsp;&nbsp;&nbsp;<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1727-08-25">Augst: the 25th. 1727</date>
+<lb/>
 </dateline>
 <salute>Sir&mdash;</salute>
 
@@ -116,15 +115,15 @@ Majr. Geo: Eskkridge<lb/>
 
 
 
-<p>Mr. <note target="n1">James Carter</note> and Mr. <note target="n2">Charles Brent</note> <lb/><del>long Since </del>my <abbr expan="Collectors">Collecrs.</abbr> in Stafford and King George <sic corr="Counties">Countys</sic> long Since <lb/>have <sic corr="informed">informd</sic> me that they have Several times demanded of Colonel <lb/><note n="WR1">William Robinson</note> of King George County the <note target="n4">Quit rents</note> due <lb/>to me out of his Lands that he holds in them two Countys and <lb/>upon much demand hath and doth Still refuse to pay in Sterling <lb/>money according to the Conditions of his Grants or in <abbr expan="Tobacco">Tobbo:</abbr> at the <lb/>rate of a penny per pound I do therefore hereby desire &amp; Empower <lb/>you to make one demand more of the Said Colonel Robinson for the <lb/>rents of his Lands as beforesaid and if he Still refuses to make <lb/>Immediate payment of his Said rents <add place="supralinear">as aforesaid</add> to desire and Empower <lb/>you forthwith as my <sic corr="Attorney">Atturney</sic> to prosecute in my name and <lb/>Stead the Said Robinson to the Law In either or both of the Said Countys <lb/>of Stafford and King George Hereby Giving you full power and <lb/>Authority to <add place="supralinear">do</add> all lawfull <add place="supralinear">act &amp;</add> acts thing and things for the recovery <lb/>of my Said rents as I my Self might or Could do where <add resp="editor"> [<hi rend="italics">sic</hi>]</add> I present 
+<p>Mr. <note target="n1">James Carter</note> and Mr. <note target="n2">Charles Brent</note> <lb/><del>long Since </del>my <abbr expan="Collectors">Collecrs.</abbr> in Stafford and King George <sic corr="Counties">Countys</sic> long Since <lb/>have <sic corr="informed">informd</sic> me that they have Several times demanded of Colonel <lb/><note n="WR1">William Robinson</note> of King George County the <note target="n4">Quit rents</note> due <lb/>to me out of his Lands that he holds in them two <sic corr="Counties">Countys</sic> and <lb/>upon much demand <sic corr="has">hath</sic> and <sic corr="does">doth</sic> Still refuse to pay in Sterling <lb/>money according to the Conditions of his Grants or in <abbr expan="Tobacco">Tobbo:</abbr> at the <lb/>rate of a penny per pound I do therefore hereby desire &amp; Empower <lb/>you to make one demand more of the Said Colonel Robinson for the <lb/>rents of his Lands as beforesaid and if he Still refuses to make <lb/>Immediate payment of his Said rents <add place="supralinear">as aforesaid</add> to desire and Empower <lb/>you forthwith as my <sic corr="Attorney">Atturney</sic> to prosecute in my name and <lb/>Stead the Said Robinson to the Law In either or both of the Said <sic corr="Counties">Countys</sic> <lb/>of Stafford and King George Hereby Giving you full power and <lb/>Authority to <add place="supralinear">do</add> all lawfull <add place="supralinear">act &amp;</add> acts thing and things for the recovery <lb/>of my Said rents as I my Self might or Could do where <add resp="editor"> [<hi rend="italics">sic</hi>]</add> I present 
 
 <pb n="2"/><lb/><lb/>
-present ratifying allowing and Confirming whatsoever you <lb/>Shall do in our about the Premises And  it is my further Order that <lb/>the <abbr expan="Judgement">Judgemt.</abbr> of either of the said Courts should go against me which <lb/>I cannot apprehend that you Appeal to the General Court In <lb/><sic corr="Witness">Wittness</sic> of the Premises I have hereunto Set my hand &amp; <lb/>Seal this 25th: day of <abbr expan="August">Augst:</abbr> 1727<lb/><lb/>
-<sic corr="Siigned Sealed">Signd Seald</sic> &amp; <sic corr="Delivered">Deliverd</sic>
-<lb/>In presence of us&mdash;
+present ratifying allowing and Confirming whatsoever you <lb/>Shall do in or about the Premises And  it is my further Order that <lb/>the <abbr expan="Judgement">Judgemt.</abbr> of either of the said Courts should go against me which <lb/>I cannot apprehend that you Appeal to the General Court In <lb/><sic corr="Witness">Wittness</sic> of the Premises I have hereunto Set my hand &amp; <lb/>Seal this 25th: day of <abbr expan="August">Augst:</abbr> 1727<lb/>
+<sic corr="Signed Sealed">Signd Seald</sic> &amp; <sic corr="Delivered">Deliverd</sic>
+<lb/>In presence of us&mdash;<lb/>
 <lb/><abbr expan="Major">Majr:</abbr> George Eskridge</p>
 
-<closer><seg type="postscript"><lb/><lb/></seg></closer>
+
 
 
 </div1>
@@ -144,12 +143,12 @@ present ratifying allowing and Confirming whatsoever you <lb/>Shall do in our ab
 
 <note id="n1">[1] James Carter (1684-1743), of Stafford County, was the younger brother of Carter's dear friend and associate, Captain Thomas Carter of Lancaster County, and was one of Carter's chief managers. (<cit><bibl>Joseph Lyon Miller, "Captain Thomas Carter and His Descendants," <title>William and Mary Quarterly.</title> 1st ser., 17(1908-09): 275-285.</bibl></cit>)</note>
 
-<note id="n2">[2] Charles Brent (d. 13 January 1756) of Overwharton Parish,
-Stafford County, married to Hannah Innes. He acted as collector of quit rents for Carter in the county.</note>
+<note id="n2">[2] Charles Brent (ca. 1695-1756) of Overwharton Parish, Stafford County, married to Hannah Innes. He acted as collector of quit rents for Carter in the county.<cit><bibl>(<xref to="http://wc.rootsweb.ancestry.com/cgi-bin/igm.cgi?op=GET&db=adgedge&id=I896">"Our Research";</xref></bibl></cit> and "<cit><bibl><xref to="http://wc.rootsweb.ancestry.com/cgi-bin/igm.cgi?op=GET&db=mrmarsha&id=I24242">1658-1758 Charles County MD The first 100 years.'"</xref></bibl></cit> )</note>
 
 
 <note id="n4">[4] Quit rent was the term used for the payment due from the holder of land to the "lord of the manor," in this case, to the proprietors of the Northern Neck. Carter as the proprietor's agent, collected these payments. No services were required of the landholder as had been true in mediaeval times.</note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2003, was revised November 25, 2013,  to strengthen the footnotes and modern language version text.</hi></note>
 
 
 
