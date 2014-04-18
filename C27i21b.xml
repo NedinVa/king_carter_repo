@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C27i21b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Major George Eskridge, September 21, 1727</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 8 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C27i21b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2003, 2014</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Major George Eskridge, September 21, 1727</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1727-09-21</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C27i21bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1727-09-21"></date>
+<idno rend="suppress">C27i21b.xml</idno>
+<title>Letter from Robert Carter to Major George Eskridge, September 21, 1727</title>
+</bibl>
+</head>
+<p>Robert Carter writes to his friend, Major George Eskridge of Westmoreland County, September 21, 1727, concerning the sale of slaves that will prevent him from attending a survey, and calling on Eskridge to help him find buyers for the slaves. He informs Eskridge that the packet from the governor of Maryland that Eskridge has forwarded concerns a robbery committed in Virginia by Maryland citizens, and that he has forwarded it to the new governor of Virginia.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to Major <note n="GE">George Eskridge,</note> September 21, 1727</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
+<date value="1727-09-21">Sepr: the 21st: 1727</date><lb/>
+Majr. George Eskridge<lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+<p><abbr expan="Your">Yor:</abbr> Son came to me last night on board <lb/>the Negro Ship and this morning I Send your Negroes away with <lb/>him to <note n="WB">Colonel Balls</note> one of them Since his coming <sic corr="ashore">a Shoar</sic> a fine <lb/>Youth proves a little lame in his knees as did two of my Sons <lb/>and one of my own which I reckon will Soon wear <sic corr="off">of</sic> I hope <lb/>they will please you to make you <sic corr="Easy">Easie</sic> in the Price I have <lb/>charged them, at &pound;42 per pair.</p>
+
+<p>Under the Circumstances I am it is impossible <lb/>for me to attend the Survey I have met with a Slave Sale have <lb/>not yet disposed of Fifty of the Slaves I can by no means be ab=<lb/>sent from it and must Earnestly desire your utmost care in Car<lb/>rying on the Survey the best you can In which I have already <lb/>Given as full Instructions as I am Capable I know not many <lb/>of your Jury Several of them I take to be men of no great Experience <lb/>let them but do me Justice and I think I cannot fear of Success</p>
+
+<p>I <add resp="editor">[do not]</add> doubt I must be forced to Sell a great many of the <lb/>Slaves for <abbr expan="Tobacco">Tobbo:</abbr> your Assistance may be of Service to me if you <lb/>can recommend to me any buyers that are good men and will <lb/>make ready pay I will take four thousand a <sic corr="Piece">Peice</sic> for women and <lb/>four thousand five hundred for men so proportionably 
+
+<pb n="2"/><lb/><lb/>
+for boys and Girls Be so kind to tell <note n="RM">Meeks</note> this <sic corr="Story">Storey</sic> and let him <lb/>recommend also I would have the <note target="n2"><abbr expan="Tobacco">Tobbo:</abbr> prized</note> to at least Eight <lb/>hundred neat and to be paid of mens own Crops I should be glad <lb/>to See you after the Survey is over can hardly think it possible <lb/>it Should be <sic corr="finished">finishd</sic> as Soon as you Say,</p>
+
+<p>The Packet you Sent me is from the <sic corr="Governor">Gor.</sic> of Mary<lb/>land <sic corr="relating">relateing</sic> to a robbery Committed in this <abbr expan="Government">Govermt.</abbr> by <lb/>Some Inhabitants there I dispatch it away to our <sic corr="Governor">Gor.</sic> and <lb/>herewith comes a Letter to <note target="n1"><sic corr="Governor">Govr.</sic> Calvert</note> which I desire yor. care <lb/>in forwarding as Soon as you can his <sic corr="has">hath</sic> bin <sic corr="traveling">travelling</sic> to <lb/>me ever Since the 22d. of last month I am </p>
+
+<closer>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. <abbr expan="Affectionate">Affecte:</abbr> humble Servt:&mdash;
+<seg type="postscript"><lb/><lb/>remember me to my Sons and <lb/>to your good family<lb/>Your Son will inform you how <lb/>likely the Slaves are if I could Sell <lb/>a Score in your Parts it would be a great <lb/>help to me</seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. There is a 19th-century transcript of the letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia.
+</note>
+
+<note>The name of Carter's home, "Corotoman," the county, and colony have been added for clarity to this unheaded draft.</note>
+
+<note id="n1">[1] Benedict Leonard Calvert (1700-1732) was governor, 1727-1731, of the colony of Maryland. ( <cit><bibl><xref to="http://msa.maryland.gov/msa/mdmanual/01glance/chron/html/chron17.html#1700">"Maryland at a Glance. Historical Chronology, 1700-1799."</xref> Posted on the web by the Maryland State Archives.</bibl></cit>) </note>
+
+<note id="n2">[2]  The online <title>Encyclopedia Virginia</title> has an <xref to="http://www.encyclopediavirginia.org/media_player?mets_filename=evm00003264mets.xml">illustration</xref> from  William Tatham, <title>An Historical and Practical Essay on the Culture and Commerce of Tobacco</title>, (published in 1800)  showing the steps in tobacco production, including prizing. There are many articles on tobacco and its production in the <title>Encyclopedia</title>.</note>
+
+
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2003, was revised April 15, 2014,  to strengthen the footnotes and modern language version text.</hi></note>
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

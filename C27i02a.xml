@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C27i02a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to William Robertson, September 2, 1727</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 9 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C27i02a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2003, 2014</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to William Robertson, September 2, 1727</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1727-09-02</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C27i02aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1727-09-02"></date>
+<idno rend="suppress">C27i02a.xml</idno>
+<title>Letter from Robert Carter to William Robertson, September 2, 1727</title>
+</bibl>
+</head>
+<p>Robert Carter writes to William Robertson, clerk of the Council, September 2, 1727, to thank him for an overabundance of military commissions and commenting on the news of the death of King George I, his pardoning of pirate John Vidal and the influence of Rev. Peter Fontaine on his decision, the militia expedition against the Indians, and Robertson's and his own health.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="WR">William Robertson,</note> September 2, 1727</head>
+<opener>
+<dateline>
+<pb n="1"/>
+Mr. Wm. Robertson&nbsp;&nbsp;&nbsp;&nbsp;<name type="place">Corotoman<add resp="editor">[, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1727-09-02">Sepr. 2d. 1727</date><lb/>
+<lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+
+
+<p>You have now <sic corr="Supplied">Supplyd</sic> me with Military <lb/>Commissions in abundance <del>twice illegible</del> <add place="supralinear">Several</add> more <add place="supralinear"><del>[illegible]</del> than</add> I <sic corr="wrote">writt</sic> for <lb/>however the proverb is a Store is no Sore,</p>
+
+<p>The news of the <note target="n1">Kings Death</note> is Attended with <lb/>so many Circumstances there Seems hardly room left to disbelieve <lb/>it and yet that the King Should <sic corr="die">dye</sic> at Hanover the latter End of June <lb/>and that the news Should be in new York above a fortnight ago its <lb/>pretty Difficult to be Accounted for,</p>
+
+<p>The Solicitation of <note target="n2">Mr. <sic corr="Fontaine">Fountain</sic></note> and the Intercession <lb/>of so many worthy Gentlemen <sic corr="has">hath</sic> <sic corr="prevailed">prevaild</sic> with me to reprieve <lb/><note target="n3"><sic corr="Vidal">Vidall</sic></note> <sic corr="although">altho</sic> I must own to you I have very little Compassion <lb/>for persons Convicted of his Crime and let what mincing soever <lb/>be made use of in his favour It appeard very plainly to me <lb/>from the Testimony against him as well as the rest that his heart was <lb/>fully prepared for perpetrating the blackest of <del>Crimes</del> <add place="supralinear"><sic corr="Villianies">Vilianys</sic></add> <sic corr="Although">Altho</sic> the <lb/><sic corr="design">designe</sic> was laid with the greatest Improbability of Success, but tht. <lb/>was no foundation of merit in the Contrivors however Charity Should <lb/>Cover a multitude of Sins And may <sic corr="we">wee</sic> all meet with mercy in the <lb/>day of our distress Pray give my Service to Mr. <sic corr="Fontaine">Fountain</sic> whose <lb/>Concern in this affair <sic corr="has">hath</sic> had a great Influence upon me</p>
+
+<p>I hope <note n="NH">Colonel Harrison</note> will be so <sic corr="Successful">Successfull</sic> in <note target="n4">his En<lb/>terprize</note> that our Frontier people in those parts will remain quiet <lb/>and unmolested in the Enjoyment of their little alls that some but <lb/><note target="n5">the <sic corr="Brutes">Bruits</sic></note> will Envy them</p>
+
+<p>When I hear of <note target="n6">your health</note> so soon when but a few <lb/>days before I had an Accot. of your life being in a great deal of dan<lb/>ger I cannot forbear having Some remains of hope <del>of our</del><add place="supralinear">that the report of the</add> Kings <del>decease be<lb/>ing yet alive</del>  <sic corr="Although accompanied">Altho accompanyd</sic> with such Strong Circumstances <lb/>may yet prove a mistake My Gout <sic corr="has">hath</sic> proved more favorable <lb/>to me <sic corr="than">then</sic> my wishes I am Still lame my foot and Ankle <sic corr="Swelled">Swelld</sic> <lb/>and Cant wear a <sic corr="Shoe">Shooe</sic> I heartily wish you your firm health &amp; am </p>
+
+<closer>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. most humble Servt.</closer>
+
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1727 May-1728 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>The county, and colony have been added for clarity to this draft.</note>
+
+<note id="n1">[1]George I (1660-1727) who reigned 1714-1727. (<cit><bibl><xref to="http://gwydir.demon.co.uk/jo/history/george1.htm">"George I."</xref></bibl></cit>)</note>
+
+<note id="n2">[2] Peter Fontaine (1691-1757) had been educated at Trinity Coillege, Dublin and was minister of James City Parish 1716-1720, and then of Westover Parish in Charles City County until his death. William Byrd was a parishoner and friend of Fontaine's who was chaplain of the boundary commission party in 1728-1729. (<cit><bibl>John K. Nelson. <title>A Blessed Company: Parishes, Parsons, and Parishoners in Anglican Virginia, 1690-1776.</title> [Chapel Hill and London: University of North Carolina Press, 2001]. pp. 98-99, 200, 310, 377, 396. </bibl></cit>)</note>
+
+<note id="n3">[3] John Vidal was one of the three pirates captured in North Carolina who had been convicted and sentenced to death in a Vice Admiralty Court in Williamsburg in August. Vidal's execution would be delayed by Carter, and he would later be pardoned by the King. The new lieutenant governor, William Gooch, would write to the Boarde of Trade on September 21, 1727, "And 'tis my duty now to acquaint y'r Lordships, that the third, John Vidal, an Irishman and a Protestant, whose execution was by a Reprieve from the Preswident before my Arrival . . . was represented to me as a proper Object of the King's Mercy: Upon which I thought fit to take the Advice of the Council, who in their opinion unanimously agreed, that in respect of his Majesty's accession to the Throne, and my first appearance among them, it was very becoming to begin my administration with an Act of Mercy, and therefore they did advise me to grant unto the said John Vidal his Majestys most gracious Pardon, hence it is my Lords, that I hope my compliance will be justified by your Lordships, and approved of by his Majecty." See Carter's letters, July 24, 1727,<xref to="http://carter.lib.virginia.edu/html/C27g24c.html"> to Sir Richard Everard,</xref> governor of North Carolina, and <xref to="http://carter.lib.virginia.edu/html/C27g24f.html">William Robertson,</xref> clerk of the Virginia Council. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:144,149-50. </bibl></cit>)</note>
+
+<note id="n4">[4] Carter refers to an expedition of the militia against the Indians that was being led by Nathaniel Harrison. See<ref target="nhttp://carter.lib.virginia.edu/html/C27h07a.html"> his letter</ref> to Harrison, August 7, 1727.</note>
+
+<note id="n5">[5] By "Bruits" Carter means the Indians.</note>
+
+<note id="n6">[6] Robertson had broken his leg and his life had been dispaired of. </note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2003, was revised March 17, 2014,  to strengthen the footnotes and modern language version text.</hi></note>
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

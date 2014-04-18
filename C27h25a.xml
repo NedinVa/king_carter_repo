@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C27h25a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Power of Attorney from Robert Carter to George Eskridge, August 25, 1727</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca.9  kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C27h25a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2003, 2013</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Power of Attorney from Robert Carter to George Eskridge, August 25, 1727</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1727-08-25</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C27h25aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AD</abbr>
+<extent>2 p.</extent>
+<date value="1727-08-25"></date>
+<idno rend="suppress">C27h25a.xml</idno>
+<title>Power of Attorney from Robert Carter to George Eskridge, August 25, 1727</title>
+</bibl>
+</head>
+<p>Robert Carter writes a power of attorey to George Eskridge, August 25, 1727, to empower him to collect quit rents due from William Robinson in the counties of Stafford and King George, taking Robinson to the county courts and to the General Court if necessary.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Power of Attorney from Robert Carter to <note n="GE">George Eskridge,</note> August 25, 1727</head>
+<opener>
+<dateline>
+<pb n="1"/>
+Majr. Geo: Eskkridge&nbsp;&nbsp;&nbsp;&nbsp;<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1727-08-25">Augst: the 25th. 1727</date>
+<lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+
+
+<p>Mr. <note target="n1">James Carter</note> and Mr. <note target="n2">Charles Brent</note> <lb/><del>long Since </del>my <abbr expan="Collectors">Collecrs.</abbr> in Stafford and King George <sic corr="Counties">Countys</sic> long Since <lb/>have <sic corr="informed">informd</sic> me that they have Several times demanded of Colonel <lb/><note n="WR1">William Robinson</note> of King George County the <note target="n4">Quit rents</note> due <lb/>to me out of his Lands that he holds in them two <sic corr="Counties">Countys</sic> and <lb/>upon much demand <sic corr="has">hath</sic> and <sic corr="does">doth</sic> Still refuse to pay in Sterling <lb/>money according to the Conditions of his Grants or in <abbr expan="Tobacco">Tobbo:</abbr> at the <lb/>rate of a penny per pound I do therefore hereby desire &amp; Empower <lb/>you to make one demand more of the Said Colonel Robinson for the <lb/>rents of his Lands as beforesaid and if he Still refuses to make <lb/>Immediate payment of his Said rents <add place="supralinear">as aforesaid</add> to desire and Empower <lb/>you forthwith as my <sic corr="Attorney">Atturney</sic> to prosecute in my name and <lb/>Stead the Said Robinson to the Law In either or both of the Said <sic corr="Counties">Countys</sic> <lb/>of Stafford and King George Hereby Giving you full power and <lb/>Authority to <add place="supralinear">do</add> all lawfull <add place="supralinear">act &amp;</add> acts thing and things for the recovery <lb/>of my Said rents as I my Self might or Could do where <add resp="editor"> [<hi rend="italics">sic</hi>]</add> I present 
+
+<pb n="2"/><lb/><lb/>
+present ratifying allowing and Confirming whatsoever you <lb/>Shall do in or about the Premises And  it is my further Order that <lb/>the <abbr expan="Judgement">Judgemt.</abbr> of either of the said Courts should go against me which <lb/>I cannot apprehend that you Appeal to the General Court In <lb/><sic corr="Witness">Wittness</sic> of the Premises I have hereunto Set my hand &amp; <lb/>Seal this 25th: day of <abbr expan="August">Augst:</abbr> 1727<lb/>
+<sic corr="Signed Sealed">Signd Seald</sic> &amp; <sic corr="Delivered">Deliverd</sic>
+<lb/>In presence of us&mdash;<lb/>
+<lb/><abbr expan="Major">Majr:</abbr> George Eskridge</p>
+
+
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1727 May-1728 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>The name of Carter's home, the county, and colony have been added to this unheaded draft.</note>
+
+<note id="n1">[1] James Carter (1684-1743), of Stafford County, was the younger brother of Carter's dear friend and associate, Captain Thomas Carter of Lancaster County, and was one of Carter's chief managers. (<cit><bibl>Joseph Lyon Miller, "Captain Thomas Carter and His Descendants," <title>William and Mary Quarterly.</title> 1st ser., 17(1908-09): 275-285.</bibl></cit>)</note>
+
+<note id="n2">[2] Charles Brent (ca. 1695-1756) of Overwharton Parish, Stafford County, married to Hannah Innes. He acted as collector of quit rents for Carter in the county.<cit><bibl>Lucy Jane Brent Palmer. "Charles Brent of Stafford County, Virginia, and Some of His Descendants" and a second part, ". . . (Concluded)." <title>The Virginia Magazine of History and Biography</title>   (34[2, Apr., 1926]) 180-183,  and [4 Oct., 1926]) 378-384.</bibl></cit>),  and "<cit><bibl><xref to="http://szsls.150m.com/nti/nti00875.htm">"Notes for Charles Brent."</xref></bibl></cit> )</note>
+
+<note id="n4">[4]Quit rent was the term used for "a (usually small) rent paid by a freeholder . . .  in lieu of services which might otherwise be required; a nominal rent paid (esp. in former British colonial territories to the Crown) as an acknowledgement of tenure," in this case, to the proprietors of the Northern Neck. Carter as the proprietor's agent, collected these payments. (<cit><bibl><title>Oxford English Dictionary Online </title></bibl></cit>)</note></note>
+
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2003, was revised April 3, 2014,  to strengthen the footnotes and modern language version text.</hi></note>
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>
