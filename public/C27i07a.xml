@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2003</date>
+     <date>2003, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -90,7 +90,7 @@
 <abbr>AL</abbr>
 <extent>2 p.</extent>
 <date value="1727-09-07"></date>
-<idno rend="suppress">C27.xml</idno>
+<idno rend="suppress">C27i07a.xml</idno>
 <title>Letter from Robert Carter to Captain James Christian, September 7, 1727</title>
 </bibl>
 </head>
@@ -106,15 +106,14 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
-<date value="1727-09-07">Sepr: the. 7th: 1727</date><lb/>
-Capt. James Christian&mdash;<lb/>
+Capt. James Christian&mdash;&nbsp;&nbsp;&nbsp;&nbsp;<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1727-09-07">Sepr: the. 7th: 1727</date><lb/>
+<lb/>
 </dateline>
 
 
 </opener>
 
-<p>I had two Letters Concerning you from <note n="JP">Mr. <lb/>Pemberton</note> one Dated the 31st. of <abbr expan="October">Octor.</abbr> the other the 15th: of <abbr expan="December">Decr. </abbr>in which <lb/>he tells me of you and your ship being <sic corr="gone">gon</sic> to <name type="place">Guinea</name> and bound <lb/>for Virginia and if you <sic corr="fixed">fixt</sic> at Rappahannock I am to have the preference of <lb/>selling the Slaves if I will take the trouble upon me whether it will <lb/>be best for you to come hither or to go further it is impossible for me <lb/>to Conjecture it Seems one half of your Cargo is Boys and Girls <lb/>and your men but few if you come hither I will do the best I can <lb/>for you you have <add resp="editor">[heard]</add> by this Time what abundance of Negroes 
+<p>I had two Letters Concerning you from <note n="JP">Mr. <lb/>Pemberton</note> one Dated the 31st. of <abbr expan="October">Octor.</abbr> the other the 15th: of <abbr expan="December">Decr. </abbr>in which <lb/>he tells me of you and your ship being <sic corr="gone">gon</sic> to <name type="place">Guinea</name> and bound <lb/>for Virginia and if you <sic corr="fixed">fixt</sic> at Rappahannock I am to have the preference of <lb/>selling the Slaves if I will take the trouble upon me whether it will <lb/>be best for you to come <sic corr="here">hither</sic> or to go further it is impossible for me <lb/>to Conjecture it Seems one half of your Cargo is Boys and Girls <lb/>and your men but few if you come <sic corr="here">hither</sic> I will do the best I can <lb/>for you you have <add resp="editor">[heard]</add> by this Time what abundance of Negroes 
 
 <pb n="2"/><lb/><lb/>
 have bin imported this year into this river <sic corr="we">wee</sic> have had above <lb/>Six hundred and into York I <sic corr="believe">beleive</sic> more <sic corr="than">then</sic> three Times as many <lb/>I think there is no great doubt at your Loading your Ship with <lb/>new <abbr expan="Tobacco">Tobbo</abbr> I have <sic corr="discoursed">discourst</sic> your Mate at large to whom Shall <lb/><sic corr="refer">referr</sic> you </p>
@@ -137,9 +136,9 @@ have bin imported this year into this river <sic corr="we">wee</sic> have had ab
 
 <note>The name of Carter's home, "Corotoman," the county, and colony have been added for clarity to this unheaded draft.</note>
 
-<note id="n1">[1] James Christian was captain of the <hi rend="italics">Rose,</hi> a vessel were owned by merchant John Pemberton of Liverpool. (See Carter to Pemberton, 1730 April 15.) </note>
+<note id="n1">[1] James Christian was captain of the <hi rend="italics">Rose,</hi> a vessel were owned by merchant John Pemberton of Liverpool. (See <xref to="http://carter.lib.virginia.edu/html/C30d15a.html">Carter to Pemberton,</xref> April 15, 1730.) </note>
 
-
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2003, was revised May 9, 2014,  to strengthen the footnotes and modern language version text.</hi></note>
 
 
 

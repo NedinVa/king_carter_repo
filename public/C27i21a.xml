@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2003</date>
+     <date>2003, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,22 +106,21 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1727-09-21">Sepr. the 21st. 1727</date><lb/>
 To his Excellency Bendt: Leond. Calvart<lb/>
-Govr. and Commr. in Cheif of the<lb/>
+Govr. and Commr. in Cheif of the&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1727-09-21">Sepr. the 21st. 1727</date><lb/>
 Province of Maryland<lb/>
+<lb/>
 </dateline>
 <salute>Sir&mdash;</salute>
 
 </opener>
 
-<p>The <abbr expan="honor">honr:</abbr> of your Letter of the 22d: Ultimo <add place="supralinear">relating to <note target="n1">Thacker</note></add> <lb/>came to my hands yesterday at four a Clock in the Afternoon, Our <lb/><note n="WG"><abbr expan="Governor">Govr:</abbr> Gooch</note> Arrived at <sic corr="Williamsburg">Williamsburgh</sic> the 8th: Instant <sic corr="Publishes">Publishd</sic> his <lb/>Commission the 11th: and <sic corr="proclaimed">proclaimd</sic> <note target="n3">King George</note> the Second the Same day <lb/>which put an End to my Administration I Shall think it my <lb/>Duty forthwith by Express to Send away your Excellencys packet <lb/>to our <abbr expan="Governor">Govr:</abbr> and having an Opportunity to <sic corr="Potomac">Patowmack</sic> river 
+<p>The <abbr expan="honor">honr:</abbr> of your Letter of the 22d: Ultimo <add place="supralinear">relating to <note target="n1">Thacker</note></add> <lb/>came to my hands yesterday at four <sic corr="o'clock">a Clock</sic> in the Afternoon, Our <lb/><note n="WG"><abbr expan="Governor">Govr:</abbr> Gooch</note> Arrived at <sic corr="Williamsburg">Williamsburgh</sic> the 8th: Instant <sic corr="Published">Publishd</sic> his <lb/>Commission the 11th: and <sic corr="proclaimed">proclaimd</sic> <note target="n3">King George</note> the Second the Same day <lb/>which put an End to my Administration I Shall think it my <lb/>Duty forthwith by Express to Send away your Excellencys packet <lb/>to our <abbr expan="Governor">Govr:</abbr> and having an Opportunity to <sic corr="Potomac">Patowmack</sic> river 
 
 <pb n="2"/><lb/><lb/>
 <sic corr="believe">beleive</sic> it to be necessary to let your Excellency know the part I <lb/>have Acted in it, what proceedings our <abbr expan="Governor">Gor:</abbr> may take in the Affair <lb/>I cannot determine I heartily wish your Excellency happy in <lb/>your <abbr expan="Government">Govermt.</abbr> and am </p>
 
-<closer>Sir&mdash;<lb/>Yor: Excellencys <lb/>Most Obedient <lb/>&amp; most Oblidged <lb/>Humble Servt.</closer>
+<closer>Sir&mdash;<lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor: Excellencys <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Most Obedient <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&amp; most Oblidged <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Humble Servt.</closer>
 
 
 </div1>
@@ -140,12 +139,13 @@ Province of Maryland<lb/>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to persons outside Virginia. The county and colony have been added for clarity to the  heading on the draft.</note>
 
-<note id="n1">[1] Benedict Leonard Calvert (1700-1732) was governor, 1727-1731, under the "Restored Proprietary Government" of Maryland. ("Governors under Restored Proprietary Government, 1715-1776." Archives of Maryland Historical List Governors of Maryland, 1715-1776. Posted on the web by the Maryland State Archives at http://www.mdarchives.state.md.us/msa/speccol/sc2600/sc2685/html/govintro.html.) </note>
+<note id="n1">[1] Benedict Leonard Calvert (1700-1732) was governor, 1727-1731, of the colony of Maryland. ( <cit><bibl><xref to="http://msa.maryland.gov/msa/mdmanual/01glance/chron/html/chron17.html#1700">"Maryland at a Glance. Historical Chronology, 1700-1799."</xref> Posted on the web by the Maryland State Archives.</bibl></cit>) </note>
 
-<note id="n2">[2] Richard Thacker of Virginia had accused Maryland residents of having robbed him.  See Calvert's letter to Carter 1727 August 22.</note>
+<note id="n2">[2] Richard Thacker of Virginia had accused Maryland residents of having robbed him.  See Calvert's <xref to="http://carter.lib.virginia.edu/html/C27h22b.html">letter to Carter</xref> August 22, 1727 .</note>
 
-<note id="n3">[3] King George II (1683-1760) reigned from 1727 until 1760. ("The Royal English Monarchy." <cit><bibl>http://scotlandroyalty.org/kings.html.</bibl></cit> 11/20/03)</note>
+<note id="n3">[3] King George II (1683-1760) reigned from 1727 until 1760. (<cit><bibl>George II [r. 1727-1760] "The Official <xref to="http://www.royal.gov.uk/HistoryoftheMonarchy/KingsandQueensoftheUnitedKingdom/TheHanoverians/GeorgeII.aspx">Website of the British Monarchy.</xref>"</bibl></cit>)</note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised May 9,, 2014,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 

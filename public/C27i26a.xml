@@ -10,7 +10,13 @@
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+
+<!NOTATION php SYSTEM "php">
+<!ENTITY Ext4 SYSTEM "http://www.stratfordhall.org\/learn\/lees\/thomaslee.php" NDATA php>
+
+
+ ]>
 <TEI.2 id="C27i26a">
 
 
@@ -39,7 +45,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2003</date>
+     <date>2003, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -115,9 +121,10 @@ May it Please yor. Honr:&mdash;<lb/>
 
 </opener>
 
-<p>Your <abbr expan="Hoonor's">Honrs:</abbr> Express for the <abbr expan="Governor">Govr.</abbr> <lb/>of Maryland did not Stay two <sic corr="minutes">minuits</sic> with me a liver <lb/>at <note target="n1">Colonel Lee's </note>was Just gone <add place="supralinear">from my house</add> by whom I <sic corr="dispatched">dispatchd</sic> it away <lb/>The news of the Spanish Privateer doing So much damage <lb/>on our Coast, As it was the blessing of Heaven to preserve <lb/>your <abbr expan="honor">honr.</abbr> from the danger, so I hope the care <sic corr="we">wee</sic> took in <lb/>laying Embargos upon <del>the Fleets</del> our Ships will meet wth. <lb/><del>favour</del><add place="supralinear"> Commend</add> able Interpretation, That your <abbr expan="Honor">Honr.</abbr> and Family <lb/>may always be happy in your <abbr expan="Governjment">Governmt.</abbr> none Shall more <lb/>heartily Contribute to, in the narrow Limits of my Sphere <lb/>as in Duty I am bound then </p>
+<p>Your <abbr expan="Hoonor's">Honrs:</abbr> Express for the <abbr expan="Governor">Govr.</abbr> <lb/>of Maryland did not Stay two <sic corr="minutes">minuits</sic> with me a liver <lb/>at <note target="n1">Colonel Lee's </note>was Just gone <add place="supralinear">from my house</add> by whom I <sic corr="dispatched">dispatchd</sic> it away <lb/>The news of the Spanish Privateer doing So much damage <lb/>on our Coast, As it was the blessing of Heaven to preserve <lb/>your <abbr expan="honor">honr.</abbr> from the danger, so I hope the care <sic corr="we">wee</sic> took in <lb/>laying <sic corr="Embargoes">Embargos</sic> upon <del>the Fleets</del> our Ships will meet wth. <lb/><del>favour</del><add place="supralinear"> Commend</add> able Interpretation, That your <abbr expan="Honor">Honr.</abbr> and Family <lb/>may always be happy in your <abbr expan="Governjment">Governmt.</abbr> None Shall more <lb/>heartily Contribute to in the narrow Limits of my Sphere <lb/>as in Duty I am bound then </p>
 
-<closer>Sir <lb/>Yor. <abbr expan="Honor's">Honrs:</abbr> <lb/>Most Obedient <lb/>Obliged &amp; most <lb/>Humble Servt.<seg type="postscript"><lb/><lb/></seg></closer>
+<closer>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. <abbr expan="Honor's">Honrs:</abbr> <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Most Obedient <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Obliged &amp; most <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Humble Servt.<lb/><lb/>
+<seg type="postscript">Corotoman<lb/><abbr expan="September">Sepr</abbr> 26th 1727<lb/></seg></closer>
 
 
 </div1>
@@ -136,9 +143,9 @@ May it Please yor. Honr:&mdash;<lb/>
 
 <note>The county and colony have been added for clarity to the  heading on the draft.</note>
 
-<note id="n1">[1] Thomas Lee (1690-1750) was the son of Richard Lee II, and nephew of Edmund Jenings; he would build "Stratford," and succeed Carter on the Council. (<cit><bibl>Burton J. Hendrick. <title>The Lees of Virginia: Biography of a Family.</title> [Boston: Little Brown, 1935]. pp. 48, 51, etc.</bibl></cit>)</note>
+<note id="n1">[1]  Thomas Lee (1690-1750) of Westmoreland County was the son of Richard Lee II, and nephew of Edmund Jenings; he would build "Stratford," and succeed Carter on the Council. For a good article on Thomas Lee, see  <xref to="http://www.stratfordhall.org/collections-research/staff-research/thomas-lee-of-stratford-1690-1750/">"Founder of a Virginia Dynasty"</xref> by Jeanne A. Calhoun on Stratford plantation's website. (<cit><bibl>Burton J. Hendrick. <title>The Lees of Virginia: Biography of a Family.</title> [Boston: Little Brown, 1935]. pp. 48, 51, etc.</bibl></cit>)</note>
 
-
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2003, was revised May 9,, 2014,  to strengthen the footnotes and modern language version text.</hi></note>
 
 
 </div1>

@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2003</date>
+     <date>2003, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,9 +106,8 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
-<date value="1727-09-27">Sepr: 27th. 1727</date><lb/>
-Mr. John Stark<lb/>
+Mr. John Stark&nbsp;&nbsp;&nbsp;&nbsp;<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1727-09-27">Sepr: 27th. 1727</date><lb/>
+<lb/>
 </dateline>
 <salute>Sir&mdash;</salute>
 
@@ -116,22 +115,19 @@ Mr. John Stark<lb/>
 
 
 
-<p>This comes by <abbr expan="Captain">Capt:</abbr> Nicholson and Encloses <lb/>a bill of Lading for 12 hhds of <abbr expan="Tobacco">Tobbo:</abbr> In mine by <note target="n2">Bowman</note> <lb/>I told you of Some things I should want from which I doubt <lb/>hath bin neglected hitherto but am in hopes it is not yet <sic corr="too">to</sic> late <lb/>I would desire you to Send me in by the first Opportunity One <lb/>hundred and Twenty of your best and largest Coverlets If I could <lb/>have them Six Inches longer and a foot broader and thicker <sic corr="than">then</sic><lb/> <add resp="editor">[illegible]</add> will much better Suit our Purposes 
+<p>This comes by <abbr expan="Captain">Capt:</abbr> Nicholson and Encloses <lb/>a bill of Lading for 12 hhds of <abbr expan="Tobacco">Tobbo:</abbr> In mine by <note target="n2">Bowman</note> <lb/>I told you of Some things I should want from <add resp="editor">[you]</add> which I doubt <lb/><sic corr="has">hath</sic> bin neglected hitherto but am in hopes it is not yet <sic corr="too">to</sic> late <lb/>I would desire you to Send me in by the first Opportunity One <lb/>hundred and Twenty of your best and largest Coverlets If I could <lb/>have them Six Inches longer and a foot broader and thicker <sic corr="than">then</sic><lb/> <add resp="editor">[illegible]</add> will much better Suit our Purposes 
 
 <pb n="2"/><lb/><lb/>
 <add resp="editor">[I shou]</add>ld also desire you to Send me the following <del>things
-</del> Goods <lb/>to witt One hundred and fifty Yards of broad white <lb/><sic corr="milled">mild</sic> plaiting One hundred Yards of Broad Rugland Grays, Six dozen <add place="supralinear">large</add> <lb/><sic corr="Milled">Milld </sic>plading hose for negro men with large feet&mdash;&mdash;<lb/>Five dozen <add place="supralinear">thick</add> Kilmarnock <sic corr="Milled">milld </sic> Caps to be very large in the head <lb/>for Negroes. These things <note target="n3">Mr. Reid</note> advises me will be very use<lb/>full for our Negroes I request you will take the first Opportun<lb/>ity to Send them in to me I am </p>
+</del> Goods <lb/>to <sic corr="wit">witt</sic> One hundred and fifty Yards of broad white <lb/><note target="n3"><sic corr="milled">mild</sic></note> <note target="n4">plaiting</note> One hundred Yards of Broad Rugland Grays, Six dozen <add place="supralinear">large</add> <lb/><sic corr="Milled">Milld </sic>plading hose for negro men with large feet&mdash;&mdash;<lb/>Five dozen <add place="supralinear">thick</add> <note target="n5">Kilmarnock <sic corr="Milled">milld </sic> Caps</note> to be very large in the head <lb/>for Negroes. These things <note target="n6">Mr. Reid</note> advises me will be very use<lb/><sic corr="ful">full</sic> for our Negroes I request you will take the first Opportun<lb/>ity to Send them in to me I am </p>
 
-<closer>Sir&mdash;<lb/>Yor. very humble Servt&mdash;<lb/>
+<closer>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir&mdash;<lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. very humble Servt&mdash;<lb/>
 <seg type="postscript"><lb/><lb/>Per Nicholson</seg></closer>
 
 
 </div1>
 
 </body>
-
-
-
 <back>
 
 <div1 type="back matter">
@@ -141,12 +137,22 @@ Mr. John Stark<lb/>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] John Stark was a merchant, probably the one to whom Carter referred when he wrote to Micajah Perry on 1723 July 4 that he had drawn an order on "Mr. Stark of Glasgow." On that same day, he wrote to a John Stark, referring to Captain Bowman.</note>
+<note id="n1">[1] John Stark (b. 1685) was a  prominent Glasgow merchant in the sugar trade.  "John Stark, another Revolutioner provost, was born in 1685, the son of a merchant, and was admitted a burgess by right of his father in 1706. He was brought into the magistracy in 1724 as dean of guild and then chosen as provost in 1725. Stark's election as provost was quite unusual, because, while all the provosts from the Union until 1724 had experience of serving as merchant-baillie, he had none. This probably indicates that Stark represented a new force of 
+urban politics which came into the council in 1724. . . . " He served as as baillie and provost (mayor) from 1725-1727. (<cit><bibl>Hisashi Kuboyama. "The Politics of the People in Glasgow and the West of Scotland, 1707-c. 1785." [Ph.D. thesis, University of Edinborough, 2012.], p. 66.</bibl></cit>; and <cit><bibl>"Provosts of Glasgow" at <xref to="https://www.glasgow.gov.uk/index.aspx?articleid=3052">"Welcome to Glasgow."</xref></bibl></cit>)</note>
 
 <note id="n2">[2] Captain Samuel Bowman commanded the <hi rend="italics">Lucia.</hi> Carter mentioned this vessel in his diary in June 1724, and again on 1726 March 4 when he wrote that she "came in had 20 Weeks Passage."</note>
 
-<note id="n3">[3] James Read (Reid) is not referred to as "captain" which means he was an official of John Stark's firm on a trading vessel who was empowered to do its business in Virginia. He was aboard the <hi rend="italics">Charles,</hi> a Glasgow ship that was owned by Stark. Carter specifically refers to "Your Ship" and "the Charles of Glasgow" in a letter to Stark of 1723 September 4. </note>
+<note id="n3">[3] Fabric that has been milled is "made of cloth thickened by fulling," that is, it has been treated by "the process of cleansing and thickening . . . by beating and washing. . . . " (<cit><bibl><title>Oxford English Dictionary</title> online.</bibl></cit>)</note>
 
+<note id="n4">[4] According to the <title>Oxford English Dictionary</title>, plaiting is " a thing made of plaited [braided] strands; a collection or construction of plaits or pleats." </note>
+
+<note id="n5">[5] By a "Kilmarnock cap" Carter means a cap similar to those made in the Scots town of Kilmarnok,  probably  "resembling a tam-o'-shanter."  "The Kilmarnock bonnet has gone through various stages of development over over a period of 250 years.  This a traditional Scottish hat that can be worn as part of formal or informal Highland dress and Dates back to at least the 16th century. It originally took it's <add resp="editor"> [<hi rend="italics">sic</hi>]</add> form as the form of a knitted, soft wool cap with a flat crown."  "Kilmarnock was known as early as 1656  for the "knitting of bonnets and spinning (sic) of Scottish cloth."  (<cit><bibl><title>Oxford English Dictionary</title> online; </bibl></cit> <cit><bibl> "House of Labhran--Vintage Gentleman's Wardrobe:  <xref to="http://houseoflabhran.com/blog/2013/09/20/kilmarnock-bonnet-scottish-hat-history/">Kilmarnock bonnet --Scottish hat history</xref>"; </bibl></cit>; and <cit><bibl>Robin Smith.<title> The Making of Scotland: A Comprehensive Guide to the Growth of Its Cities, Towns, and Villages.</title> [Edinbrough:  Canongate Books, 2001.]  p. 519.)</bibl></cit>) </note>
+
+<note id="n6">[6] James Read (Reid) is not referred to as "captain" which means he was an official of John Stark's firm on a trading vessel who was empowered to do its business in Virginia. He was aboard the <hi rend="italics">Charles,</hi> a Glasgow ship that was owned by Stark. Carter specifically refers to "Your Ship"
+and "the Charles of Glasgow" in a <xref to="http://carter.lib.virginia.edu/html/C23i04a.html">letter to Stark</xref> of September 4, 1723. </note>
+
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2003, was revised May 9, 2014,  to strengthen the footnotes and modern language version text.</hi></note>
 
 
 </div1>

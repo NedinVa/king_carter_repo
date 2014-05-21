@@ -106,7 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Corotom<add resp="editor">[a]</add>n <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<name type="place"><abbr expan="Corotoman">Corotomn.</abbr> <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
 <date value="1727-10-14">Oct. 14 1727</date><lb/>
 Wm: Camp<lb/>
 </dateline>
@@ -116,9 +116,9 @@ Wm: Camp<lb/>
 
 
 
-<p>I am now under a severe distemper with the <lb/><note target="n2">gripes</note> &amp; Tormenting pains in My left side which renders me <lb/>incapable of going to the first of the general court as I intended <lb/>have therefore sent a <sic corr="Messenger">Messanger</sic> to Order Peter back again how <lb/><lb/>long this Malady may continue upon me god only knows as soo<add resp="editor">[n]</add> <lb/>as I shall be able with safety to leave my home I intend to come to <lb/><note target="n3">town</note> but will have Peter meet me at Mrs: Wormeleys to a-<lb/>void the plague of getting Over <sic corr="Piankatank">Pyankitanck</sic> I will send you <lb/>word when I would have the <note target="n4">Calash </note>meet me there therefore pr<add resp="editor">[ay]</add> <lb/>have him always in <sic corr="readiness">readyness</sic> these grievous pains have <sic corr="followed">followd</sic> <lb/>me all this week especially in the nights allowing me very broken <lb/>&amp; little sleep &amp; the last night as bad as any you must be sure <lb/>to dispatch away these two packets for the <note n="HD"><sic corr="governor">governour</sic></note> &amp; the <lb/><note n="JC1">Secretary</note> As soon as you can give my respects to <note n="MP1"><abbr expan="Colonel">Coll:</abbr> Pages</note> <lb/>family I should be glad to hear he is well enough to Get to the first <lb/>of the Court</p>
+<p>I am now under a severe distemper with the <lb/><note target="n2">gripes</note> &amp; Tormenting pains in My left side which renders me <lb/>incapable of going to the first of the <note target="n3">general court</note> as I intended <lb/>have therefore sent a <sic corr="Messenger">Messanger</sic> to Order Peter back again how <lb/><lb/>long this Malady may continue upon me god only knows as soo<add resp="editor">[n]</add> <lb/>as I shall be able with safety to leave my home I intend to come to <lb/><note target="n4">town</note> but will have Peter meet me at Mrs: Wormeleys to a-<lb/>void the plague of getting Over <note target="n5"><sic corr="Piankatank">Pyankitanck</sic></note> I will send you <lb/>word when I would have the <note target="n6">Calash </note>meet me there therefore pr<add resp="editor">[ay]</add> <lb/>have him always in <sic corr="readiness">readyness</sic> these grievous pains have <sic corr="followed">followd</sic> <lb/>me all this week especially in the nights allowing me very broken <lb/>&amp; little sleep &amp; the last night as bad as any you must be sure <lb/>to dispatch away these two packets for the <note n="HD"><sic corr="governor">governour</sic></note> &amp; the <lb/><note n="JC1">Secretary</note> As soon as you can give my respects to <note n="MP1"><abbr expan="Colonel">Coll:</abbr> Pages</note> <lb/>family I should be glad to hear he is well enough to Get to the first <lb/>of the Court</p>
 
-<closer><seg type="postscript"><lb/><lb/></seg></closer>
+
 
 
 </div1>
@@ -136,14 +136,19 @@ Wm: Camp<lb/>
 
 <note>The county and colony have been added for clarity to the name of his home, "Corotoman." </note>
 
-<note id="n1">[1] William Camp (Kemp) was described by Carter as "the General Overseer of Mr Burwell's Affairs" and he wrote that Camp earned a salary "&pound;50 . . . for the year 1731." Carter and his son-in-law, Mann Page, were the trustees of Nathaniel Burwell's children after Burwell's death in 1721. Camp was a resident of Gloucester County where most of the Burwell estates lay, and he must also have supervised "Rippon Hall" in nearby York County. (Carter to George Braxton, 1729 November 20, and Carter to William Dawkins,1732  July 11. <cit><bibl><title>Virginia Tax Records.</title> [Baltimore: Genealogical Publishing Company, Inc., 1983.] p. 539.</bibl></cit>)</note>
+<note id="n1">[1]  William Camp (Kemp) was described by Carter as "the General Overseer of Mr Burwell's Affairs" and he wrote that Camp earned a salary "&pound;50 . . . for the year 1731." Carter and his son-in-law, Mann Page, were the trustees of Nathaniel Burwell's children after Burwell's death in 1721. Camp was a resident of Gloucester County where most of the Burwell estates lay, and he must also have supervised "Rippon Hall" in nearby York County. (<cit><bibl>Carter to George Braxton, <xref to="/users/berkeley/public/C29k20a.xml">November 20, 1729</xref>,</bibl></cit> and <cit><bibl>Carter to William Dawkins, <xref to="/users/berkeley/public/C32g11a.xml">July 11, 1732,</xref></bibl></cit> and <cit><bibl><title>Virginia Tax Records.</title> [Baltimore: Genealogical Publishing Company, Inc., 1983.] p. 539.</bibl></cit>)</note>
 
-<note id="n2">[2] The gripes are "pinching and spasmodic pain in the intestines; chiefly used in the plural."(On-Line Medical Dictionary. http://cancerweb.ncl.ac.uk/omd/. 3/3/04)</note>
+<note id="n2">[2] The gripes are "An intermittent spasmodic pain in the bowels. Usually pl., colic pains." (<cit><bibl><title>Oxford English Dictionary</title> online.</bibl></cit>)</note>
 
-<note id="n3">[3] Williamsburg</note>
+<note id="n3">[3] "The governor's Council, also known as the Council of State or simply the Council, consisted of about a dozen of colonial Virginia's wealthiest and most prominent men. Beginning in the 1630s the Crown appointed Council members. . . . Crown appointments were lifetime appointments. From 1625, when Virginia became a royal colony, until the outbreak of the American Revolution (1775-1783), the Council members advised the royal governor or his deputy, the lieutenant governor, on all executive matters. The Council and the governor together constituted the highest court in the colony, known initially as the Quarter Court and later as the General Court. The Council members also served as members of the General Assembly; from the first meeting of the assembly in 1619 until 1643 the governor, Council members, and burgesses all met in unicameral session. After 1643 the Council members met separately as the upper House of the General Assembly."  (<xref to="http://www.encyclopediavirginia.org/Governor_s_Council_The">"The Governor's Council"</xref> in <title>Encyclopedia Virginia</title>)</note>
 
-<note id="n4">[4] A calash was a light, four-wheeled carriage with a folding top.</note>
+<note id="n4">[4] Williamsburg</note>
 
+<note id="n5">[5] The Piankatank River lies between the Rappahannock and York rivers and was the boundary in Carter's time between Middlesex and Gloucester counties (as it is today except that Mathews County has been cut off from Gloucester).</note>
+
+<note id="n6">[6] A calash was "a kind of light carriage with low wheels, having a removable folding hood or top." (<cit><bibl><title>Oxford English Dictionary</title> online.</bibl></cit>).</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised May 2, 2014,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 

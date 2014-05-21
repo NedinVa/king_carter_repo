@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2003</date>
+     <date>2003, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,9 +106,9 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1727-09-26">Sepr. the 21st: 1727</date><lb/>
-To the honble: Wm: Gooch Esqr.<lb/>his Majtys. Leiut. Govr. &amp; Comndr.<lb/>in Cheif of the Colony &amp; Dominion<lb/>of Virginia<lb/>
+<lb/>
+<lb/>
+To the honble: Wm: Gooch Esqr.<lb/>his Majtys. Leiut. Govr. &amp; Comndr.<lb/>in Cheif of the Colony &amp; Dominion&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>of Virginia&nbsp;&nbsp;&nbsp;&nbsp;<date value="1727-09-26">Sepr. the 21st: 1727</date><lb/>
 </dateline>
 <salute>May it please yor. Honr.&mdash;</salute>
 
@@ -116,7 +116,7 @@ To the honble: Wm: Gooch Esqr.<lb/>his Majtys. Leiut. Govr. &amp; Comndr.<lb/>in
 
 <p>Yesterday in the Afternoon the Enclosed <lb/>Packet from the <note target="n1"><abbr expan="Governor">Govr.</abbr> of Maryland</note> in its worn Condition <lb/>came to my hands <del>Yesterday at four a Clock in the</del> Afternoon <lb/><sic corr="relating">relateing</sic> to a robbery Committed in this <abbr expan="government">governmt</abbr>. by Some <lb/>Inhabitants of Maryland I thought it my Duty to Send it by <lb/>Express to your honour <note n="JR">Mr. Randolph</note> the Kings Attorney was <lb/>advised with upon this Affair and directed the process he is ac<lb/>quainted with the Case what Determination you will please to <lb/>come to upon it I must Submit to your Determination I am <lb/>with all <sic corr="Dutiful">Dutifull</sic> respects Sir </p>
 
-<closer>Yor. Honours <lb/>Most Obedient <lb/><del>And </del>Obliged <lb/>and most Humble Servt.</closer>
+<closer>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. Honours <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Most Obedient <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<del>And </del>Obliged <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and most Humble Servt.</closer>
 
 
 </div1>
@@ -135,9 +135,9 @@ To the honble: Wm: Gooch Esqr.<lb/>his Majtys. Leiut. Govr. &amp; Comndr.<lb/>in
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
 
-<note id="n1">[1] Benedict Leonard Calvert (1700-1732) was governor, 1727-1731, under the "Restored Proprietary Government" of Maryland. ("Governors under Restored Proprietary Government, 1715-1776." Archives of Maryland Historical List Governors of Maryland, 1715-1776. Posted on the web by the Maryland State Archives at http://www.mdarchives.state.md.us/msa/speccol/sc2600/sc2685/html/govintro.html.) </note>
+<note id="n1">[1] Benedict Leonard Calvert (1700-1732) was governor, 1727-1731, of the colony of Maryland. ( <cit><bibl><xref to="http://msa.maryland.gov/msa/mdmanual/01glance/chron/html/chron17.html#1700">"Maryland at a Glance. Historical Chronology, 1700-1799."</xref> Posted on the web by the Maryland State Archives.</bibl></cit>) </note>
 
-
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2003, was revised May 9, 2014,  to strengthen the footnotes and modern language version text.</hi></note>
 
 
 </div1>

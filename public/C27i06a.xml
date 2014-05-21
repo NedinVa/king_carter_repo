@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2003</date>
+     <date>2003, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,17 +106,18 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1727-09-06">Sepr. the 6th. 1727</date><lb/>
 Treasury Chamber<lb/>Peter Leheup Esqr.<lb/>
+
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;
+<date value="1727-09-06">Sepr. the 6th. 1727</date><lb/>
 </dateline>
 <salute>Sir&mdash;</salute>
 
 </opener>
 
-<p>The last trouble I gave you was of the 24th of <lb/>July Since by the <note n="CS">Carter</note> the 23d: of last month I Sent away the <lb/><sic corr="publci">publick</sic> packets to the Secretary of State and to the <note target="n2">Lords of Trade</note> <lb/>I think it not amiss to acquaint you with the news we have <lb/>of the <note target="n3">King's Death</note> which came from new York about a fortnight ago <lb/><sic corr="Accompanied">Accompanyd</sic> with pretty Strong Circumstances last night <lb/>I was advised of a Sloop Just come from <name type="place">Barbadoes</name> into Jam<add resp="editor">[es]</add> <lb/>river the Master whereof reports The King was <sic corr="pproclaimed">proclaimd</sic> at <lb/>the Bridgetown before he came away by the name of George the <lb/>Second. here is no publick notification of this yet arrived to <lb/>this Government till I have directions from Whitehall I <lb/>must take no notice of these private advices By what way <lb/>I am to receive my Orders for proclaiming the King here or <lb/>whether our <abbr expan="Governor">Govr.</abbr> is at hand and bring brings them himself we are <lb/>yet to learn I am </p>
+<p>The last trouble I gave you was of the 24th of <lb/>July Since by the <note n="CS">Carter</note> the 23d: of last month I Sent away the <lb/><sic corr="public">publick</sic> packets to the Secretary of State and to the <note target="n2">Lords of Trade</note> <lb/>I think it not amiss to acquaint you with the news we have <lb/>of the <note target="n3">King's Death</note> <add place="supralinear">which</add> came from new York about a fortnight ago <lb/><sic corr="Accompanied">Accompanyd</sic> with pretty Strong Circumstances last night <lb/>I was advised of a Sloop Just come from <name type="place"><sic corr="Barbados">Barbadoes</sic></name> into Jam<add resp="editor">[es]</add> <lb/>river the Master whereof reports <note target="n4">The King</note> was <sic corr="proclaimed">proclaimd</sic> at <lb/>the Bridgetown before he came away by the name of George the <lb/>Second. here is no <sic corr="public">publick</sic> notification of this yet arrived to <lb/>this Government <sic corr="until">till</sic> I have directions from Whitehall I <lb/>must take no notice of these private advices By what way <lb/>I am to receive my Orders for proclaiming the King here or <lb/>whether <note n="WG">our <abbr expan="Governor">Govr.</abbr></note> is at hand and bring brings them himself we are <lb/>yet to learn I am </p>
 
-<closer>Sir<lb/>Yor: most humble Servt:<seg type="postscript"><lb/><lb/>By the <sic corr="Cranfield">Cranfeild</sic> <abbr expan="Captain">Capt:</abbr> Venn&mdash;</seg></closer>
+<closer>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir<lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor: most humble Servt:<seg type="postscript"><lb/><lb/>By the <sic corr="Cranfield">Cranfeild</sic> <abbr expan="Captain">Capt:</abbr> Venn&mdash;</seg></closer>
 
 
 </div1>
@@ -134,12 +135,15 @@ Treasury Chamber<lb/>Peter Leheup Esqr.<lb/>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to persons abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
 
-<note id="n1">[1] Peter Leheup, an English Treasury clerk, was Virginia's  and other colonies' agent in England for some years. He was related by marriage to the Prime Minister's brother who was secretary of the Treasury. His influence would be greater near the end of Carter's life.(<cit><bibl n="B22">Price. <title>Perry of London. . . . </title> pp. 75-77, 80, 83.</bibl></cit>)</note>
+<note id="n1">[1] Peter Leheup, an English Treasury clerk, was Virginia's (1722-1754)  and other colonies' agent in England for many years. "Peter Leheup was one of those almost invisible behind-the scenes personalities whose exsposure reveals so much about the character of eighteenth-century society and administration."  He became underclerk (later, chief clerk) at the Treasury in 1721, and married that year "Clara the daughter of William Lowndes, secretary of the treasury. . . . Very early his father-in-law . . .  made him a comptroller of exchequer bills. In addition, he served for decades (c. 1721-1742) as deputy to Horatio Walpole in his capacity as Auditor-General of Plantation Revenues." (<cit><bibl>Jacob M. Price, "The Excise Affair Revisited:  Administrative and Colonial Dimensions of a Parliamentary Crisis" in Stephen Barlow Baxter, <hi rend="italics">ed.</hi> <title>England's Rise to Greatness, 1660-1763.</title> [Los Angles:  University of California Press, 1983] 274-5</bibl></cit>; and <cit><bibl n="B22">Price. <title>Perry of London. . . . </title> pp. 75-77, 80, 83.</bibl></cit>)</note>
 
 <note id="n2">[2] Established in 1696 as successor to a similar body, the Lords Commissioners of Trade and Plantations was "an advisory group, subordinate to king and Privy Council, and with no executive, financial, or penalizing powers, the Board of Trade was nevertheless able . . . to exert a far reaching and often determining influence in colonial matters. . . . It prepared the royal instructions for the governors overseas. . . ." (<cit><bibl>Henry Hartwell, James Blair, and Edward Chilton. Hunter Dickinson Farish, <hi rend="italics">ed.</hi> <title>The Present State of Virginia, and the College.</title> [First published, 1940, by Colonial Williamsburg, Inc., and reprinted Charlottesville: University Press of Virginia, 1964.] pp. xvi-xvii.</bibl></cit>)</note>
 
-<note id="n3">[3] George I (1660-1727) who reigned 1714-1727. (<cit><bibl>"The Royal English Monarchy." http://www.scotlandroyalty.org/kings.html. 11/12/03</bibl></cit>)</note>
+<note id="n3">[3] King George I (1660-1727) who reigned 1714-1727. (<cit><bibl><xref to="http://gwydir.demon.co.uk/jo/history/george1.htm">"George I."</xref></bibl></cit>)</note>
 
+<note id="n4">[4] King George II (1683-1760) reigned from 1727 until 1760. (<cit><bibl>George II [r. 1727-1760] "The Official <xref to="http://www.royal.gov.uk/HistoryoftheMonarchy/KingsandQueensoftheUnitedKingdom/TheHanoverians/GeorgeII.aspx">Website of the British Monarchy.</xref>"</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2003, was revised May 9, 2014,  to strengthen the footnotes and modern language version text.</hi></note>
 
 
 

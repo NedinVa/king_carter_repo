@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2003</date>
+     <date>2003, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,15 +106,14 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
-<date value="1727-09-06">Sepr: the 6th: 1727&mdash;</date><lb/>
-Capt: Geo: Turbervile&mdash;<lb/>
+Capt: Geo: Turbervile&mdash;&nbsp;&nbsp;&nbsp;&nbsp;<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1727-09-06">Sepr: the 6th: 1727&mdash;</date><lb/>
+<lb/>
 </dateline>
 
 
 </opener>
 
-<p>I had <note target="n1">Frank Awbrys</note> Letter of the 5th: of June <lb/>and now I have yours repeating the Same places but they are so loose <lb/>and so unintelligible that I shall give no warrants upon Such un<lb/>certain places where it will <sic corr="lie">lye</sic> in the breast of the Persons taking them <lb/>out to lay <sic corr="off">of</sic> the Lands almost <add place="supralinear">where</add> they please nor do I think it proper <lb/>upon every fellows Letter that will write to me for warrants im<lb/>medately to Issue them without the Fees being paid I believe I have <lb/>now a hundred warrants out that I have never <abbr expan="received">rec'd</abbr> a <note target="n2">groat</note> for <lb/>nor I <sic corr="believe">beleive</sic> never shall there are Several large <sic corr="Entries">Entrys</sic> for Lands in <lb/>those parts which must be Served before Awbrys. <note target="n3">Colonel Mason</note> <lb/>had two warrants last week for some Lands thereabouts One <lb/>for four thousand Acres, <abbr expan="Captain">Capt:</abbr> Elliott made an Entry for four <lb/>thousand Acres when he was <del>up</del>down, <note n="MP1">Colonel Page</note> hath <sic corr="Entered">Enterd</sic> <lb/>for Ten thousand Acres and I have a large Warrant out upon <lb/>the Accot. of Some of my Children If when these are all Served <lb/>the Land Awbry aims at if he will <sic corr="describe">discribe</sic> it more Particularly <lb/>I will Endeavour no new offerer Shall have it,</p>
+<p>I had <note target="n1">Frank Awbrys</note> Letter of the 5th: of June <lb/>and now I have yours repeating the Same places but they are so loose <lb/>and so unintelligible that I shall give no warrants upon Such un<lb/>certain places where it will <sic corr="lie">lye</sic> in the breast of the Persons taking them <lb/>out to lay <sic corr="off">of</sic> the Lands almost <add place="supralinear">where</add> they please nor do I think it proper <lb/>upon every fellows Letter that will write to me for warrants im<lb/>medately to Issue them without the Fees being paid I believe I have <lb/>now a hundred warrants out that I have never <abbr expan="received">rec'd</abbr> a <note target="n2">groat</note> for <lb/>nor I <sic corr="believe">beleive</sic> never shall there are Several large <sic corr="Entries">Entrys</sic> for Lands in <lb/>those parts which must be Served before Awbrys. <note target="n3">Colonel Mason</note> <lb/>had two warrants last week for some Lands thereabouts One <lb/>for four thousand Acres, <abbr expan="Captain">Capt:</abbr> Elliott made an Entry for four <lb/>thousand Acres when he was <del>up</del>down, <note n="MP1">Colonel Page</note> <sic corr="has">hath</sic> <sic corr="Entered">Enterd</sic> <lb/>for Ten thousand Acres and I have a large Warrant out upon <lb/>the Accot. of Some of my Children If when these are all Served <lb/>the Land Awbry aims at if he will <sic corr="describe">discribe</sic> it more Particularly <lb/>I will Endeavour no new offerer Shall have it,</p>
 
 <p>I dont know what Deed you want from me <lb/>I Sent one Deed to <note n="RM">Meeks</note> long ago with Orders to deliver <add place="supralinear">it</add> you im<lb/>mediately and I now Send you another for 459 Acres which is all <lb/>the Deeds of yours in the Office that I can find Shall add no more at <lb/>Present but </p>
 
@@ -136,12 +135,14 @@ Capt: Geo: Turbervile&mdash;<lb/>
 
 <note>The name of Carter's home, "Corotoman," the county, and colony have been added for clarity to this unheaded draft.</note>
 
-<note id="n1">[1] Frank Awbrey (d. 1741) was an active land speculator in the area that became Loudoun County, and was one of the first justices when Prince William County was organiized in 1731. He was sheriff of that county in 1739. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:239, 439;</bibl></cit> and <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title>pp. 148, 150, 153-54 ff. </bibl></cit>)</note>
+<note id="n1">[1] Francis (Frank) Awbrey (1690?- 1741) was an active land speculator in the area that became Loudoun County, and was one of the first justices when Prince William County was organiized in 1731. He was sheriff of that county in 1739. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:239, 439;</bibl></cit> and <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title>pp. 148, 150, 153-54 ff. </bibl></cit>)</note>
 
-<note id="n2">[2] A groat is a small coin worth four British pennies.</note>
+<note id="n2">[2] A groat is "an old British coin worth four pennies." (Merriam Webster <xref to="http://www.merriam-webster.com/dictionary/groat"><title>Dictionary</title></xref>.)</note>
 
-<note id="n3">[3] George Mason III (c. 1690-1735), justice, sheriff, burgess, and
-county lieutenant of Stafford County, father of the constitutional theorist. (<cit><bibl n="B24">Copeland and MacMaster, <title>The Five George Masons.</title> pp. 50-86</bibl></cit>; and <cit><bibl>George Harrison Sanford King, <title>The Register of Overwharton Parish Stafford County Virginia 1723-1758 And Sundry Historical and Genealogical Notes</title>. [Fredericksburg, VA: privately printed, 1961.]</bibl></cit>)</note>
+<note id="n3">[3] George Mason III (c. 1690-1735), justice, sheriff, burgess, and county lieutenant of Stafford County, father of the constitutional theorist. (<cit><bibl n="B24">Copeland and MacMaster, <title>The Five George Masons.</title> pp. 50-86</bibl></cit>; and <cit><bibl>George Harrison Sanford King, <title>The Register of Overwharton Parish Stafford County Virginia 1723-1758 And Sundry Historical and Genealogical Notes</title>. [Fredericksburg, VA: privately printed, 1961.]</bibl></cit>)</note>
+
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2003, was revised May 9, 2014,  to strengthen the footnotes and modern language version text.</hi></note>
 
 
 
