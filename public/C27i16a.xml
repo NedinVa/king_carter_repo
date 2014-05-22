@@ -10,7 +10,12 @@
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+
+<!NOTATION php SYSTEM "php">
+<!ENTITY Ext4 SYSTEM "http://www.stratfordhall.org\/learn\/lees\/thomaslee.php" NDATA php>
+
+ ]>
 <TEI.2 id="C27i16a">
 
 
@@ -143,10 +148,12 @@ winter at hand und<add place="supralinear">er</add> all these ill Circumstances 
 
 <note id="n2">[2] Thomas Nelson (1667-1745), a resident of Yorktown, was a merchant and was sheriff of York County in 1722 and 1723. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:12,34,184;</bibl></cit> and <cit><bibl n="B30">Greene. <title>The Diary of Colonel Landon Carter. . . .</title>, p. 96.</bibl></cit>)</note>
 
-<note id="n3">[3] Thomas Lee (1690-1750) was the son of Richard Lee II, and nephew of Edmund Jenings; he would build "Stratford," and succeed Carter on the Council. (<cit><bibl>Burton J. Hendrick. <title>The Lees of Virginia: Biography of a Family.</title> [Boston: Little Brown, 1935]. pp. 48, 51, etc.</bibl></cit>)</note>
+<note id="n3">[3]  Thomas Lee (1690-1750) of Westmoreland County was the son of Richard Lee II, and nephew of Edmund Jenings; he would build "Stratford," and succeed Carter on the Council. For a good article on Thomas Lee, see  that <A HREF="http://www.stratfordhall.org/thomas.html?RESEARCH">by Jeanne A. Calhoun </A>on Stratford plantation's website. (<cit><bibl>Burton J. Hendrick. <title>The Lees of Virginia: Biography of a Family.</title> [Boston: Little Brown, 1935]. pp. 48, 51, etc.</bibl></cit>)</note>
 
-<note id="n4">[4] Several vessels named <hi rend="italics">The Loyalty</hi> sailed to Virginia. One commanded by Francis Wallis cleared from Poole for Virginia in 1726. Captain Loxom commanded  a vessel of this name in 1730 as did James Tarleton in1731. (Survey Report 9727, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. See Carter's letters to John Pemberton 1730 April 15 and 1731 August 4..)</note>
+<note id="n4">[4] Several vessels named <hi rend="italics">The Loyalty</hi> sailed to Virginia. One commanded by Francis Wallis cleared from Poole for Virginia in 1726. Captain Loxom commanded  a vessel of this name in 1729-1730 as did James Tarleton in 1731. (Survey Report 9727, Virginia Colonial Records Project,
+Albert and Shirley Small Special Collections Library, University of Virginia. See Carter's letters to John Pemberton <xref to="/users/berkeley/public/C30d15c.xml">April 15,1730</xref> and <xref to="/users/berkeley/public/C31h04a.xml">1731 August 4</xref>.)</note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised May 20, 2014,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 
