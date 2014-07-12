@@ -10,7 +10,12 @@
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; 
+
+<!NOTATION html SYSTEM "HTML">
+<!ENTITY Ext18 SYSTEM "http://homepages.rootsweb.com\/~edburton\/fam03055.htm" NDATA html>
+
+]>
 <TEI.2 id="C27l12b.xml">
 
 
@@ -39,7 +44,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,9 +111,9 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
+Mr. Attorney&nbsp;&nbsp;&nbsp;&nbsp;<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;
 <date value="1727-12-12">Decr. the 12th: 1727</date><lb/>
-Mr. Attorney<lb/>
+<lb/>
 </dateline>
 <salute>Sir&mdash;</salute>
 
@@ -116,11 +121,11 @@ Mr. Attorney<lb/>
 
 
 
-<p>having bin so long your <sic corr="Tenant">Tennant</sic> and having <lb/>now an Opportunity to <note target="n1">Town</note> could not <sic corr="omit">omitt</sic> paying you the <lb/>Compliment of welcome to Virginia and your Son that came <lb/>with you with wishes that you may have met with the Satisfact<lb/>ion of finding all things well here,</p>
+<p>having bin so long <note target="n1">your <sic corr="Tenant">Tennant</sic></note> and having <lb/>now an Opportunity to <note target="n2">Town</note> could not <sic corr="omit">omitt</sic> paying you the <lb/>Compliment of welcome to Virginia and your Son that came <lb/>with you with wishes that you may have met with the Satisfact<lb/>ion of finding all things well here,</p>
 
-<p>here is a Ship bound out in two or three days for <lb/><sic corr="Liverpool">Leverpool</sic> if you have a desire to write to London. I can undertake the <lb/>Safety of your Letters the dangers of the Sea's Excepted I am with a great <lb/>deal of Sincerity</p>
+<p>here is a Ship bound out in two or three days for <lb/><name type="city"><sic corr="Liverpool">Leverpool</sic></name> if you have a desire to write to <name type="city">London</name>. I can undertake the <lb/>Safety of your Letters the dangers of the Sea's Excepted I am with a great <lb/>deal of Sincerity</p>
 
-<closer>Sir <lb/>Yor: most humble Servt:<seg type="postscript"><lb/><lb/> I have a law Suit depending against <lb/>the heir of <note target="n2">Colonel Allerton </note>which I think <lb/>you are already <sic corr="Concerned">Concernd</sic> for me in</seg></closer>
+<closer>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor: most humble Servt:<seg type="postscript"><lb/><lb/> I have a law Suit depending against <lb/>the heir of <note target="n3">Colonel Allerton </note>which I think <lb/>you are already <sic corr="Concerned">Concernd</sic> for me in</seg></closer>
 
 
 </div1>
@@ -138,10 +143,14 @@ Mr. Attorney<lb/>
 
 <note>The name of Carter's home, "Corotoman," the county, and colony have been added for clarity to this unheaded draft</note>
 
-<note id="n1">[1] Williamsburg.</note>
+<note id="n1">[1] Carter apparently had rented Clayton's Williamsburg house while the attorney general was in England.</note>
 
-<note id="n2">[2] Willoughby Allerton (1664-1724) was a prominent citizen of Westmoreland County where he was burgess, sheriff, and militia officer.  (Allerton Genealogical Data at http://homepages.rootsweb.com/~edburton/fam03055.htm, 4/16/04; and <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 3[1705-1721]: 92,146,381,420. </bibl></cit>)</note>
+<note id="n2">[2] Williamsburg.</note>
 
+<note id="n3">[3] Willoughby Allerton (1664-1724) was a prominent citizen of Westmoreland County where he was burgess, sheriff, and militia officer.  (<cit><bibl><xref to="Ext18">Allerton Genealogical Data</xref> at http://homepages.rootsweb.com/~edburton/fam03055.htm, 4/16/04;</bibl></cit> and <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 3[1705-1721]: 92,146,381,420. </bibl></cit>)</note><lb/>
+
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised June 9, 2014,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 </div1>

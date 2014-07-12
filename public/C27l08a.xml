@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -116,14 +116,15 @@ Mr. Robt: Cary<lb/>
 
 <p>A Small <sic corr="Vessel">Vessell</sic> belonging to <name type="city">Bristol</name> that loaded high <lb/>up <note target="n1">our river</note> and is unexpectedly come down to clear out gives the Opportun<lb/>ity of this Short line to Advise you of the receipt of yours by Buckler, <note target="n2">Bradby</note> <lb/><del>in the Spotswood is also Arrived</del>, <note target="n3">Keeling</note> and <note target="n4">Brooks</note> are <add place="supralinear">also</add> in <del>Peankytank</del> what <lb/>more Ships to the Southward I dont yet hear <del>Coll Harr</del></p>
 
-<p><note n="NH">Colonel Harrison</note> our <add place="supralinear">Deputy</add> Auditor is lately dead it is <sic corr="talked">talkt</sic> <lb/>that Several will be Solicitous for his place who our <note n="WG"><abbr expan="Governor">Govr.</abbr></note> will put in in <lb/>his room or use his Interest for is not come to my knowledge, I am apt to <lb/>think if <note n="JC1">my Son</note> the Secretary <add place="supralinear">had</add> hopes of Success he would be one among the <lb/>number perhaps it may be Said the place he has already is favour Enough <lb/>for him but that you know was the Effects of his money and is not so <del>[illegible]</del> <add place="supralinear">profit</add><lb/>able a place as it is reckond by a great many I have no manner of In<del>[illegible]</del><lb/>timation of his Inclinations about it nor what his Interest may be at Court <lb/>My Lord Carteret Seems to be the favourite of his discourse who our <abbr expan="Governor">Govr.</abbr><lb/>thinks proper to recommend will go near to carry it I Suppose,</p>
+<p><note n="NH">Colonel Harrison</note> our <add place="supralinear">Deputy</add> <note target="n5">Auditor</note> is lately dead it is <sic corr="talked">talkt</sic> <lb/>that Several will be Solicitous for his place who our <note n="WG"><abbr expan="Governor">Govr.</abbr></note> will put in in <lb/>his room or use his Interest for is not come to my knowledge, I am apt to <lb/>think if <note n="JC1">my Son</note> the Secretary <add place="supralinear">had</add> hopes of Success he would be one among the <lb/>number perhaps it may be Said the place he has already is favour Enough <lb/>for him but that you know was the Effects of his money and is not so <del>[illegible]</del> <add place="supralinear">profit</add><lb/>able a place as it is reckond by a great many I have no manner of In<del>[illegible]</del><lb/>timation of his Inclinations about it nor what his Interest may be at Court <lb/><note target="n6">My Lord Carteret</note> Seems to be the favourite of his discourse who our <abbr expan="Governor">Govr.</abbr><lb/>thinks proper to recommend will go near to carry it I Suppose,</p>
 
-<p><sic corr="We">Wee</sic> have a Ship will be ready to leave us in about 8 or 10 <lb/>Days by her <del>th</del> Expect will be Several Letters about this Affair whether there <lb/>be any by this <sic corr="Vessel">Vessell</sic> may be a Question This place is in the Gift of Mr. <note target="n5">Horace <lb/>Walpole</note> <add place="supralinear">Auditor of the Plantations</add> I Shall leave it here and remain </p>
+<p><sic corr="We">Wee</sic> have a Ship will be ready to leave us in about 8 or 10 <lb/>Days by her <del>th</del> Expect will be Several Letters about this Affair whether there <lb/>be any by this <sic corr="Vessel">Vessell</sic> may be a Question This place is in the Gift of Mr. <note target="n7">Horace <lb/>Walpole</note> <add place="supralinear">Auditor of the Plantations</add> I Shall leave it here and remain </p>
 
 <closer>Sir&mdash; <lb/>Yor: most humble Servt.&mdash;
+
 <seg type="postscript"><lb/><lb/>per the <name type="ship">Western Snow</name><lb/>
-Berry <note target="n6">Danzay</note> &amp; <note target="n7">Holladay</note> are arrived<lb/>
-Copy per <note target="n8">Christian</note></seg></closer>
+Berry <note target="n8">Danzay</note> &amp; <note target="n9">Holladay</note> are arrived<lb/>
+Copy per <note target="n10">Christian</note></seg></closer>
 
 
 </div1>
@@ -143,23 +144,30 @@ Copy per <note target="n8">Christian</note></seg></closer>
 
 <note id="n1">[1] The Rappahannock River.</note>
 
+ 
 <note id="n2">[2] Captain James Bradby commanded the <hi rend="italics">Micajah and Philip </hi>(<cit><bibl>Survey report 6801 summarizing Adm. 68/195, ff. 74v, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
 <note id="n3">[3] Captain William Keiling commanded the <hi rend="italics">Betty.
 </hi> (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194, Virginia Colonial Records Project, Albert and Shirley  Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
-<note id="n4">[4] Christopher Brooks commanded the <name type="ship">Cambridge,</name> a vessel of 100 tons and 11 men owned by London merchants Haswell and Brooks in 1729. (Survey Report 6801 summarising Adm. 68/195, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.)</note>
+<note id="n4">[4] Christopher Brooks commanded the <name type="ship">Cambridge,</name> a vessel of 100 tons and 11 men owned by London merchants Haswell and Brooks in 1729. <cit><bibl>(Survey Report 6801 summarising Adm. 68/195, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
-<note id="n5">[5] Horace Walpole was the brother of Robert Walpole, the chief minister of England. He held the posts of "auditor general and surveyor general of the royal revenue in the colonies." (<cit><bibl n="B27">Billings. <hi rend="italics">et al. </hi> <title>Colonial Virginia: A History. </title></bibl></cit>)</note>
+<note id="n5">[5]  "The auditor was unquestionably a royal appointee, and held his commission under the great seal. He was, after 1680, upon the appointment of the auditor-general of the colonies, the deputy of that official. When the auditorship was established, it was stated that only councillors and those who had long resided in the colony were eligible to this office, and it seems that this principle was generally observed. . . . As the name of the office indicates, the auditor examined all the revenue accounts of the colony, except a few purely local ones under the supervision of the treasurer. Among these accounts were those of the royal collectors and naval officers, the quit-rents, the public claims, the fines and forfeitures. He swore to his accounts before the governor and the Council in April and October, and forwarded them through the auditor general to the lords of the treasury. . . . For a few years after the establishment of the office, the auditor received a salary from the Assembly; later, he was paid a salary as a royal official of &pound;100 a year out of the British treasury. His compensation was, however, largely in the form of a fee, which was gradually increased from three to seven and a half per cent of the revenue accounts audited, and amounted to about &pound;400 a year."  (<cit><bibl>Percy Scott Flippin. <title>The Financial Administration of the Colony of Virginia</title> [Johns Hopkins Press, 1915.]  38-39.</bibl></cit>)</note>
 
-<note id="n6">[6] Thomas Dansie commanded a London ship named the <hi rend="italics">Essex,</hi> 1725-1728. (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n6">[6] . How John Carter may have become acquainted with Lord Carteret is not known, but they were both in London at the same time during the second decade of the eighteenth century. (<cit><bibl>Cannon, John. "Carteret, John, second Earl Granville (1690-1763)." <title>Oxford Dictionary of National Biography.</title> Ed. H. C. G. Matthew and Brian Harrison. [Oxford: OUP, 2004]. <xref to="http://www.oxforddnb.com.proxy.its.virginia.edu/view/article/4804">Online ed.</xref> Ed. Lawrence Goldman. May 2006. 23 May 2014 .</bibl></cit>)</note>
+
+<note id="n7">[7] Horace Walpole was the brother of Robert Walpole, the chief minister of England. He held the posts of "auditor general and surveyor general of the royal revenue in the colonies." (<cit><bibl n="B27">Billings. <hi rend="italics">et al. </hi> <title>Colonial Virginia: A History. </title></bibl></cit>)</note>
+
+<note id="n8">[8] Thomas Dansie commanded a London ship named the <hi rend="italics">Essex,</hi> 1725-1728. (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
 
-<note id="n7">[7] William Holladay commanded a ship named the <hi rend="italics">Princess Carolina.</hi> (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n9">[9] William Holladay commanded a ship named the <hi rend="italics">Princess Carolina</hi>, a ship owned by merchant John Pemberton of London. (<cit><bibl>Survey Report 6800, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> and <cit><bibl>letter, Carter to Pemberton, <xref to="/users/berkeley/public/C24c25c.xml">March 25, 1724.</xref></bibl></cit>)</note>
 
-<note id="n8">[8] James Christian was captain of the <hi rend="italics">Rose,</hi> a vessel owned by merchant John Pemberton of Liverpool. (See Carter to Pemberton, 1730 April 15.) </note>
+<note id="n10">[10] James Christian was captain of the <hi rend="italics">Rose,</hi> a vessel owned by merchant John Pemberton of Liverpool. (See <xref to="http://carter.lib.virginia.edu/html/C30d15a.html">Carter to Pemberton,</xref> April 15, 1730.)  </note>
 
 
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised May 23, 2014,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 

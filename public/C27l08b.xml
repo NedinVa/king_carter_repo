@@ -11,7 +11,7 @@
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
 <!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
-<TEI.2 id="C27l06b">
+<TEI.2 id="C27l08b">
 
 
 <teiHeader type="aacr2">
@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,7 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<name type="place">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;
 <date value="1727-12-08">Decr. the 8th. 1727</date><lb/>
 Mr. William Dawkins<lb/>
 </dateline>
@@ -114,16 +114,17 @@ Mr. William Dawkins<lb/>
 
 </opener>
 
-<p>A Small <sic corr="Vessel">Vessell</sic> belonging to <name type="ship">Bristol</name> that loaded high <lb/>up our river and is unexpectedly come down to clear out gives the Opportu<lb/>nity of this Short line <note target="n1">Buckeridge</note> and <note target="n2">Bradby</note> are Arrived into York <lb/><note target="n3">Keeling</note> and <note target="n4">Brooks</note> into <sic corr="Piankatank,">Peankytank,</sic> what others to the Southward I<lb/> dont know, I have yours of the 9th. of October <sic corr="advising">adviseing</sic> the Safety of the <note n="CS"><name type="ship">Carter</name></note> <lb/>into <add place="supralinear">the</add> <sic corr="Downs">Doons</sic> and that you <sic corr="intended">intendd</sic> to dispatch her away forthwith if you <lb/>make her not an Early Ship her Success for what I know may be <sic corr="doubtful">doubtfull</sic> <lb/>It is reported a great many Ships from London are bound hither,</p>
+<p>A Small <sic corr="Vessel">Vessell</sic> belonging to <name type="ship">Bristol</name> that loaded high <lb/>up <note target="n1">our river</note> and is unexpectedly come down to clear out gives the Opportu<lb/>nity of this Short line <note target="n2">Buckeridge</note> and <note target="n3">Bradby</note> are Arrived into York <lb/><note target="n4">Keeling</note> and <note target="n5">Brooks</note> into <note target="n6"><sic corr="Piankatank,">Peankytank,</sic></note> what others to the Southward I<lb/> dont know, I have yours of the 9th. of October <sic corr="advising">adviseing</sic> the Safety of the <note n="CS"><name type="ship">Carter</name></note> <lb/>into <note target="n7"><add place="supralinear">the</add> <sic corr="Downs">Doons</sic></note> and that you <sic corr="intended">intendd</sic> to dispatch her away forthwith if you <lb/>make her not an Early Ship her Success for what I know may be <sic corr="doubtful">doubtfull</sic> <lb/>It is reported a great many Ships from London are bound hither,</p>
 
-<p><note n="NH">Colonel Harrison</note> our Deputy Auditor is lately <del>dead</del> <sic corr="gone">gon</sic> <lb/><sic corr="off">of</sic> I think on Saturday last well and Dead in three hours time a good place <lb/>in the Gift of Mr. <note target="n5"><sic corr="Horace">Horrace</sic> Walpole</note> <del>is become</del> Auditor of the plan<add resp="editor">[tation]</add>s is become <lb/>Vacant many no doubt will be Striving for it, whom our <note n="WG"><abbr expan="Governor">Govr.</abbr></note> recommends <lb/>I Suppose will have the fairest chance, I have no thoughts of such a thing 
+<p><note n="NH">Colonel Harrison</note> our <note target="n8">Deputy Auditor</note> is lately <del>dead</del> <sic corr="gone">gon</sic> <lb/><sic corr="off">of</sic> I think on Saturday last well and Dead in three hours time a good place <lb/>in the Gift of Mr. <note target="n9"><sic corr="Horace">Horrace</sic> Walpole</note> <del>is become</del> Auditor of the plan<add resp="editor">[tation]</add>s is become <lb/>Vacant many no doubt will be Striving for it, whom our <note n="WG"><abbr expan="Governor">Govr.</abbr></note> recommends <lb/>I Suppose will have the fairest chance, I have no thoughts of such a thing 
 
 <pb n="2"/><lb/><lb/>
-in my old infirm age if I had I have little Interest so must <sic corr="Si">Sitt</sic> Still <lb/>as a Spectator <add place="supralinear">(<sic corr="Although">Altho</sic> I have now Served the <abbr expan="Government">Gov.mt.</abbr> near Eight and Twenty years without a place of profit)</add> only wishing merit may take place.</p>
+in my old infirm age if I had I have little Interest so must <sic corr="Sit">Sitt</sic> Still <lb/>as a Spectator <add place="supralinear">(<sic corr="Although">Altho</sic> I have now Served the <abbr expan="Government">Gov.mt.</abbr> near Eight and Twenty years without a place of profit)</add> only wishing merit may take place.</p>
 
-<p>A <sic corr="Liverpool">Leverpoole</sic> Ship will be ready to depart hence in a few days <lb/>I Shall write to you again by her remain at present </p>
+<p>A <name type="city"><sic corr="Liverpool">Leverpoole</sic></name> Ship will be ready to depart hence in a few days <lb/>I Shall write to you again by her remain at present </p>
 
-<closer>Yor: very humble Servt.
+<closer>Yor: very humble Servt.<lb/><lb/>
+
 <seg type="postscript"><lb/><lb/>per <name type="ship">Western Snow</name></seg></closer>
 
 
@@ -142,17 +143,26 @@ in my old infirm age if I had I have little Interest so must <sic corr="Si">Sitt
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
 
-<note id="n1">[1] The <hi rend="italics">Marlborough</hi> was a vessel of 100 tons and 14 men, commanded by George Buckeridge (Buckbridge). In a letter to London merchant John Falconar 1727 July 24, Carter refers to this vessel as "yor. Marlborrough." (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n1">[1] the Rappahannock</note>
 
-<note id="n2">[2] Captain James Bradby commanded the <hi rend="italics">Micajah and Philip. </hi>(<cit><bibl>Survey report 6801 summarizing Adm. 68/195, ff. 74v, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n2">[2] The <hi rend="italics">Marlborough</hi> was a vessel of 100 tons and 14 men, commanded by George Buckeridge (Buckbridge). In a letter to London merchant John Falconar<xref to="http://carter.lib.virginia.edu/html/C27g24d.html"> July 24,  1727,</xref> Carter refers to this vessel as "yor. Marlborrough." (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
-<note id="n3">[3] Captain William Keiling commanded the <hi rend="italics">Betty.
+<note id="n3">[3] Captain James Bradby commanded the <hi rend="italics">Micajah and Philip. </hi>(<cit><bibl>Survey report 6801 summarizing Adm. 68/195, ff. 74v, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n4">[4] Captain William Keiling commanded the <hi rend="italics">Betty.
 </hi> (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194, Virginia Colonial Records Project, Albert and Shirley  Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
-<note id="n4">[4] Christopher Brooks commanded the <name type="ship">Cambridge,</name> a vessel of 100 tons and 11 men owned by London merchants Haswell and Brooks in 1729. (Survey Report 6801 summarising Adm. 68/195, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.)</note>
+<note id="n5">[5] Christopher Brooks commanded the <name type="ship">Cambridge,</name> a vessel of 100 tons and 11 men owned by London merchants Haswell and Brooks in 1729. (Survey Report 6801 summarising Adm. 68/195, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.)</note>
 
-<note id="n5">[5] Horace Walpole was the brother of Robert Walpole, the chief minister of England. He held the posts of "auditor general and surveyor general of the royal revenue in the colonies." (<cit><bibl n="B27">Billings. <hi rend="italics">et al. </hi> <title>Colonial Virginia: A History. </title></bibl></cit>)</note>
+<note id="n6">[6] The Piankatank is a small river between the Rappahannock and the York.</note>
 
+<note id="n7">[7]  "The part of the sea within the Goodwin Sands, off the east coast of Kent [England], a famous rendezvous for ships. [It lies opposite to the eastern termination of the North Downs.]"  (<cit><bibl><title>Oxford English Dictionary</title> online.</bibl></cit>)</note>
+
+<note id="n8">[8]  "The auditor was unquestionably a royal appointee, and held his commission under the great seal. He was, after 1680, upon the appointment of the auditor-general of the colonies, the deputy of that official. When the auditorship was established, it was stated that only councillors and those who had long resided in the colony were eligible to this office, and it seems that this principle was generally observed. . . . As the name of the office indicates, the auditor examined all the revenue accounts of the colony, except a few purely local ones under the supervision of the treasurer. Among these accounts were those of the royal collectors and naval officers, the quit-rents, the public claims, the fines and forfeitures. He swore to his accounts before the governor and the Council in April and October, and forwarded them through the auditor general to the lords of the treasury. . . . For a few years after the establishment of the office, the auditor received a salary from the Assembly; later, he was paid a salary as a royal official of &pound;100 a year out of the British treasury. His compensation was, however, largely in the form of a fee, which was gradually increased from three to seven and a half per cent of the revenue accounts audited, and amounted to about &pound;400 a year."  (<cit><bibl>Percy Scott Flippin. <title>The Financial Administration of the Colony of Virginia</title> [Johns Hopkins Press, 1915.]  38-39.</bibl></cit>)</note>
+
+<note id="n9">[9] Horace Walpole was the brother of Robert Walpole, the chief minister of England. Horace held the posts of "auditor general and surveyor general of the royal revenue in the colonies." (<cit><bibl n="B27">Billings. <hi rend="italics">et al. </hi> <title>Colonial Virginia: A History. </title></bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised May 29, 2014,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 

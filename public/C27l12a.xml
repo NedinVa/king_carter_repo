@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,9 +106,8 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappa:<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
-<date value="1727-12-12">Decemr 12th: 1727</date><lb/>
-Mr. James Bradley<lb/>
+Mr. James Bradley&nbsp;&nbsp;&nbsp;&nbsp;<name type="place">Rappa:<add resp="editor">[hannock, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1727-12-12">Decemr 12th: 1727</date><lb/>
+<lb/>
 </dateline>
 <salute>Sir</salute>
 
@@ -118,12 +117,12 @@ Mr. James Bradley<lb/>
 
 <p>This is a short line to own the receipt of yours of th<add resp="editor">[e]</add> <lb/>13th of <abbr expan="September">Sepr:</abbr> signifying the Arrival of the <note target="n2"><name type="ship">Welcome </name></note>&amp; <note target="n3"><name type="ship">Providence</name></note> <lb/><abbr expan="you">yo:</abbr> give a very discouraging Accot. of the Market of <abbr expan="tobacco">tobbo</abbr> I know som<add resp="editor">[e]</add> <lb/>of my Neighbours that have had 9 1/2  round who I have reason to thin<add resp="editor">[k]</add> <lb/>Do not make better <abbr expan="Tobacco">Tobbo</abbr> than myself</p>
 
-<p>Here in I send you <sic corr="Frank">Franck</sic> Lightfoots Excha<add resp="editor">[ge]</add> <lb/>on your self for &pound;33:2:8 which Desire credit for I <sic corr="dispersed">disperst</sic> your <lb/>letters came under my Cover with so much care that I <sic corr="believe">beleive</sic> none of <lb/>them will Miscarry most of your first Fleet are arrived if <note target="n2"><abbr expan="Captain">Capt</abbr> Trice</note> <lb/>comes not Away before <sic corr="Christmas">Christmass</sic> he will be no very Early ship <lb/>it is generally reckoned our crops this Year are much short of what <lb/>they were the last It will be no news to tell <abbr expan="you">yo:</abbr> of the Sudden Death <lb/>of <note n="NH"><abbr expan="Colonel">Collo</abbr> Harrison</note> by whose decease the <abbr expan="Deputy">D.</abbr> Auditors place is bec=<lb/>ome Vacant who Our <note n="WG"><abbr expan="Governor">Govr:</abbr></note> <del>hath</del> puts in his room for the present <lb/>I don't yet hear he that Can <sic corr="raise">rais</sic> up the best friends with Mr <note target="n4">Horace <lb/><sic corr="Walpole">Wallpoole</sic></note> 'tis reckoned will Carry it my wishes are that merit may <lb/>take place</p>
+<p>Here in I send you <sic corr="Frank">Franck</sic> Lightfoots Excha<add resp="editor">[ge]</add> <lb/>on your self for &pound;33:2:8 which Desire credit for I <sic corr="dispersed">disperst</sic> your <lb/>letters came under my Cover with so much care that I <sic corr="believe">beleive</sic> none of <lb/>them will Miscarry most of your first Fleet are arrived if <note target="n2"><abbr expan="Captain">Capt</abbr> Trice</note> <lb/>comes not Away before <sic corr="Christmas">Christmass</sic> he will be no very Early ship <lb/>it is generally reckoned our crops this Year are much short of what <lb/>they were the last It will be no news to tell <abbr expan="you">yo:</abbr> of the Sudden Death <lb/>of <note n="NH"><abbr expan="Colonel">Collo</abbr> Harrison</note> by whose decease the <note target="n4"><abbr expan="Deputy">D.</abbr> Auditors place</note> is bec=<lb/>ome Vacant who Our <note n="WG"><abbr expan="Governor">Govr:</abbr></note> <del>hath</del> puts in his room for the present <lb/>I don't yet hear he that Can <sic corr="raise">rais</sic> up the best friends with Mr <note target="n5">Horace <lb/><sic corr="Walpole">Wallpoole</sic></note> <abbr expan="it is">'tis</abbr> reckoned will Carry it my wishes are that merit may <lb/>take place</p>
 
-<p>I shall give yo no further trouble at present from </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I shall give yo no further trouble at present from </p>
 
-<closer>Sir <lb/>Yor: most humble servt
-<seg type="postscript"><lb/><lb/>per <note target="n5">Christian</note>
+<closer>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor: most humble servt
+<seg type="postscript"><lb/><lb/>per <note target="n6">Christian</note>
 <lb/>to be copyed</seg></closer>
 
 
@@ -142,17 +141,19 @@ Mr. James Bradley<lb/>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] James Bradley was a London merchant with whom Carter dealt from at least 1723 until his death. As noted in his letter to Bradley of 1727 May 17, Bradley owned the <hi rend="italics">Welcome,</hi> but little information about Bradley has been located.</note>
+<note id="n1">[1] James Bradley was a London merchant with whom Carter dealt from at least 1723 until his death. As noted in his letter to Bradley of <xref to="/users/berkeley/public/C27e17a.html">May 17, 1727,</xref> Bradley owned the <hi rend="italics">Welcome,</hi> but little information about Bradley has been located. (There is a listing of the firm of Bradly &amp; Griffin, Merchants, Fenchurch-street, opposite the Mitre Tavern, on page 13 of <cit><bibl><title><xref to="freepages.history.rootsweb.com/~frpayments/KD1740/AB.htm">Kent's Directory </xref>For the Year 1740 Containing An Alphabetical List of the Names and Places of Abode of the Directors of Companies, Persons in Publick Business, Merchants, and other Eminent Traders in the Cities of London and Westminster, and the Borough of Southwark.</title>  [London: Printed and Sold by Henry Kent in Finch-Lane, near the Royal Exchange: and by the Booksellers and Pamphlets Shops of London and Westminster, 1740]. p. 39. Online, examined 8/12/2005 and 6/14/2012. </bibl></cit>)</note>
 
-<note id="n2">[2] The 140 ton <hi rend="italics">Welcome</hi> was owned by London merchant James Bradley to whom Carter would write about her on 1727 May 17. John Trice (Frice) was her captain, 1723-1727. (<cit><bibl>Adm 68/195, 154r, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n2">[2] The 140 ton <hi rend="italics">Welcome</hi> was owned by London merchant James Bradley to whom Carter would write about her on <xref to="http://carter.lib.virginia.edu/html/C27e17a.html">May 17, 1727</xref>. John Trice (Frice) was her captain, 1723-1727. (<cit><bibl>Adm 68/195, 154r, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
-<note id="n3">[3] Thomas Woodward commanded the <hi rend="italics">Providence,</hi> a ship owned by Captain John Hyde &amp; Company, during a number of voyages to the colony, 1723-1727. (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194 and Survey Report 6801 summarizing Adm 68/195, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia,</bibl></cit> and Carter's letter to the firm, 1723 September 17.)</note>
+<note id="n3">[3] Thomas Woodward commanded the <hi rend="italics">Providence,</hi> a ship owned by Captain John Hyde &amp; Company, during a number of voyages to the colony, 1723-1729. (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194 and Survey Report 6801 summarizing Adm 68/195, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia,</bibl></cit> and Carter's letter to the firm,  <xref to="/users/berkeley/public/C23i17a.xml">September 17, 1723.</xref>)</note>
 
-<note id="n4">[4] Horace Walpole was the brother of Robert Walpole, the chief minister of England. He held the posts of "auditor general and surveyor general of the royal revenue in the colonies." (<cit><bibl n="B27">Billings. <hi rend="italics">et al. </hi> <title>Colonial Virginia: A History. </title></bibl></cit>)</note>  
+<note id="n4">[4]  "The auditor was unquestionably a royal appointee, and held his commission under the great seal. He was, after 1680, upon the appointment of the auditor-general of the colonies, the deputy of that official. When the auditorship was established, it was stated that only councillors and those who had long resided in the colony were eligible to this office, and it seems that this principle was generally observed. . . . As the name of the office indicates, the auditor examined all the revenue accounts of the colony, except a few purely local ones under the supervision of the treasurer. Among these accounts were those of the royal collectors and naval officers, the quit-rents, the public claims, the fines and forfeitures. He swore to his accounts before the governor and the Council in April and October, and forwarded them through the auditor general to the lords of the treasury. . . . For a few years after the establishment of the office, the auditor received a salary from the Assembly; later, he was paid a salary as a royal official of &pound;100 a year out of the British treasury. His compensation was, however, largely in the form of a fee, which was gradually increased from three to seven and a half per cent of the revenue accounts audited, and amounted to about &pound;400 a year."  (<cit><bibl>Percy Scott Flippin. <title>The Financial Administration of the Colony of Virginia</title> [Johns Hopkins Press, 1915.]  38-39.</bibl></cit>)</note>
 
-<note id="n5">[5] James Christian was captain of the <hi rend="italics">Rose,</hi> a vessel owned by merchant John Pemberton of Liverpool. (See Carter to Pemberton, 1730 April 15.) </note>
+<note id="n5">[5] Horace Walpole was the brother of Robert Walpole, the chief minister of England. Horace held the posts of "auditor general and surveyor general of the royal revenue in the colonies." (<cit><bibl n="B27">Billings. <hi rend="italics">et al. </hi> <title>Colonial Virginia: A History. </title></bibl></cit>)</note>  
 
+<note id="n6">[6] James Christian was captain of the <hi rend="italics">Rose,</hi> a vessel owned by merchant John Pemberton of Liverpool. (See <xref to="http://carter.lib.virginia.edu/html/C30d15a.html">Carter to Pemberton,</xref> April 15, 1730.)4</note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised June 9, 2014,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 
