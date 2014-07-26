@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,9 +106,9 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Cortom<add resp="editor">[a]</add>n.<add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+Collo Peter Beverley&nbsp;&nbsp;&nbsp;&nbsp;<name type="place">Cortom<add resp="editor">[a]</add>n.<add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;
 <date value="1727-12-14">Decembr 14th. 1727</date><lb/>
-Collo Peter Beverley<lb/>
+<lb/>
 </dateline>
 <salute>Honble. Sir</salute>
 
@@ -116,11 +116,11 @@ Collo Peter Beverley<lb/>
 
 
 
-<p><abbr expan="Captain">Capt.</abbr> <abbr expan="Thomas">Thos.</abbr> Newton Surveyor of Westmorelan<add resp="editor">[d]</add> <lb/>County is lately Dead &amp; Mr <abbr expan="James">Jas.</abbr> Thomas a liver in the <abbr expan="said">sd</abbr> County but <lb/>at present Surveyor of Lancaster is very desirous to have the place for <lb/>that County rather than this as much more Convenient for him &amp; <lb/>in order to Solicit for it is come down as <sic corr="far">farr</sic> as my house but the wea-<lb/>ther being bad &amp; the Difficulties in his way to you who now 'tis to be pre-<lb/>sumed may be at <sic corr="Williamsburg">Williamsbourgh</sic> scares him from proceeding It would <lb/>be agreeable to my desire if you think it proper to send a commission <lb/>to Mr. <abbr expan="Thomas">Thos.</abbr> to <sic corr="succeed">succed</sic> Newton &amp; if you will trust me with this aff<lb/>air <del>upon the</del> I will take care that upon the delivery of yo<add resp="editor">[ur]</add> com-<lb/>mission he shall sign the bond you require of him he hath left with <lb/>me a guinea for your fee which I shall Answer to you at our first me=<lb/>eting</p>
+<p><abbr expan="Captain">Capt.</abbr> <abbr expan="Thomas">Thos.</abbr> Newton Surveyor of Westmorelan<add resp="editor">[d]</add> <lb/>County is lately Dead &amp; Mr <abbr expan="James">Jas.</abbr> Thomas a liver in the <abbr expan="said">sd</abbr> County but <lb/>at present Surveyor of Lancaster is very desirous to have the place for <lb/>that County rather than this as much more Convenient for him &amp; <lb/>in order to Solicit for it is come down as <sic corr="far">farr</sic> as my house but the wea-<lb/>ther being bad &amp; the Difficulties in his way to you who now <abbr expan="it is">'tis</abbr> to be pre-<lb/>sumed may be at <sic corr="Williamsburg">Williamsbourgh</sic> scares him from proceeding It will <lb/>be agreeable to my desire if you think it proper to send a commission <lb/>to Mr. <abbr expan="Thomas">Thos.</abbr> to <sic corr="succeed">succed</sic> Newton &amp; if you will trust me with this aff<lb/>air <del>upon the</del> I will take care that upon the delivery of yo<add resp="editor">[ur]</add> com-<lb/>mission he shall sign the bond you require of him he <sic corr="has">hath</sic> left with <lb/>me a guinea for your fee which I shall Answer to you at our first me=<lb/>eting</p>
 
 <p><note n="WB"><abbr expan="Colonel">Collo.</abbr> Ball</note> I <sic corr="believe">beleive</sic> would be glad to have Lancas=<lb/>ter <sic corr="joined">joynd</sic> to his commission <add place="supralinear">and I almost think it hardly worth any <sic corr="body's">bdy's</sic> Else seeking for it</add> Sometime Since I sent a Warrant in your <lb/>name to <note target="n1">Mr Warner</note> To survey a thousand acres of Land for you that <lb/>I had information of was both good &amp; not very inconvenient and if you <lb/>desire it I shall speak to Mr <abbr expan="Thomas">Thos</abbr> to take up another piece of land in <lb/>Your name if he comes Across any that may be worth meddling with <lb/>wch: does not <sic corr="lie">lye</sic> too <sic corr="far">farr</sic> from a landing I am </p>
 
-<closer>Sir&mdash;&mdash;<lb/>Your most humble servant</closer>
+<closer>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir&mdash;&mdash;<lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your most humble servant</closer>
 
 
 </div1>
@@ -138,9 +138,12 @@ Collo Peter Beverley<lb/>
 
 <note>The county and colony have been added for clarity to this unheaded draft.</note>
 
+<note> "The Virginia Company of London appointed a surveyor general for Virginia in 1621, and the crown continued to appoint surveyors general after Virginia became a royal colony in 1624. From 1693 until the Revolutionary War, the College of William and Mary was responsible for the Office of the Surveyor General, which appointed official surveyors and received one-sixth of the fees that they collected." (<xref to="http://www.lva.virginia.gov/exhibits/mapping/surveyors/">"Surveors and Mapmakers"</xref> in "Mapping Virginia" on the website of the Library of Virginia.) </note>
+
 <note id="n1">[1] John Warner was the surveyor of King George County in 1727; he
 laid off the town of Falmouth in 1728. Later he worked for Lord Fairfax, and prepared an important map of his holdings. (<cit><bibl n="B4">Harrison,  <title>Landmarks of Old Prince William</title>, 626-628.</bibl></cit>)</note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised July 24, 2014,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 

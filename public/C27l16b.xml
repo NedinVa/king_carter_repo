@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -102,13 +102,13 @@
 
 <body>
 <div1 type="letter" n="1">
-<head>Letter from Robert Carter to Robert Cary, December 16, 1727</head>
+<head>Letter from Robert Carter to <note n="RC1">Robert Cary</note>, December 16, 1727</head>
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+Mr Robt Cary&nbsp;&nbsp;&nbsp;&nbsp;<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;
 <date value="1727-12-16">Decr. the 16th. 1727</date><lb/>
-Mr Robt Cary<lb/>
+<lb/>
 </dateline>
 <salute>Sir</salute>
 
@@ -116,15 +116,17 @@ Mr Robt Cary<lb/>
 
 
 
-<p>The Above a Copy Via Bristol I have little to <lb/>add <sic corr="only">onely</sic> to let you know that our <abbr expan="Governor">Govr</abbr> hath been so kind 
+<p>The Above a Copy Via Bristol I have little to <lb/>add <sic corr="only">onely</sic> to let you know that our <abbr expan="Governor">Govr</abbr> <sic corr="has"><sic corr="has">hath</sic></sic> been so kind 
 
 <pb n="2"/><lb/><lb/>
-to my son <note n="RC2"><abbr expan="Robert">Robt</abbr></note> to renew his commission for the Naval Officers <lb/>place of this river his <sic corr="securities">securitys</sic> are the same <note n="MP1"><abbr expan="Colonel">Collo:</abbr> Page</note> &amp; the <lb/><note n="JC1">Secretary</note> we reckon that he <add place="supralinear">must</add> give Security also to the Comissioners <lb/>of the Customs again &amp; it is my request to you that you will <lb/><sic corr="join">joyn</sic> with <note n="WD">Mr Dawkins</note> in being my sons security a second <lb/>time there</p>
+to my son <note n="RC2"><abbr expan="Robert">Robt</abbr></note> to renew his commission for the <note target="n1">Naval Officers <lb/>place</note> of this river his <sic corr="securities">securitys</sic> are the same <note n="MP1"><abbr expan="Colonel">Collo:</abbr> Page</note> &amp; the <lb/><note n="JC1">Secretary</note> we reckon that he <add place="supralinear">must</add> give Security also to the Comissioners <lb/>of the Customs again &amp; it is my request to you that you will <lb/><sic corr="join">joyn</sic> with <note n="WD">Mr Dawkins</note> in being my sons security a second <lb/>time there</p>
 
-<p><note target="n1">Mr Fitzwillams</note> our Surveyer General made some <lb/>Opposition to the place of my sons living for the Convenience of the <lb/>trade I <abbr expan="affirmed">affirm'd</abbr> in Answer he <abbr expan="lived">liv'd</abbr> a great Deal more Conven<lb/>ient than Urbana where the collector keeps his Office for thi<add resp="editor">[s]</add> <lb/>I appeal to your Masters that Use here I have written the Story at <lb/>length to Mr Dawkins if this gentleman should make any <lb/>representation to the Comissioners against my son in this ma=<lb/>tter I pray you will <sic corr="join">joyn</sic> Your interest with Mr Dawkins in <lb/>taking off the force of his objections <del>I am</del> in which you'll very <lb/>much oblidge 
+<p><note target="n2">Mr Fitzwillams</note> our Surveyer General made some <lb/>Opposition to the place of my sons living for the Convenience of the <lb/>trade I <abbr expan="affirmed">affirm'd</abbr> in Answer he <abbr expan="lived">liv'd</abbr> a great Deal more Conven<lb/>ient than <note target="n3">Urbana</note> where the collector keeps his Office for thi<add resp="editor">[s]</add> <lb/>I appeal to your Masters that Use here I have written the Story at <lb/>length to Mr Dawkins if this gentleman should make any <lb/>representation to the Comissioners against my son in this ma=<lb/>tter I pray you will <sic corr="join">joyn</sic> Your interest with Mr Dawkins in <lb/>taking off the force of his objections <del>I am</del> in which you'll very <lb/>much oblidge 
 </p>
 
-<closer>Sir <lb/>Your most humble Servt<seg type="postscript"><lb/><lb/>Decembr 16th. 1727 Last night I received a letter from the Secre<lb/>tary Advising me that he would push for the Auditors place with all <lb/>his strength and tells me his letters should come to my hand this day to go <lb/>by this ship which may be time enough if he is not too Dilatory
+<closer>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your most humble Servt
+
+<seg type="postscript"><lb/><lb/>Decembr 16th. 1727 Last night I received a letter from the Secre<lb/>tary Advising me that he would push for the <note target="n4">Auditors place</note> with all <lb/>his strength and tells me his letters should come to my hand this day to go <lb/>by this ship which may be time enough if he is not too Dilatory
 <lb/>to be copyed</seg></closer>
 
 
@@ -143,9 +145,15 @@ to my son <note n="RC2"><abbr expan="Robert">Robt</abbr></note> to renew his com
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] As Surveyor General of the Customs in the colonies in "South America," Richard Fitzwilliams was a member of the councils of Virginia, South Carolina, and Jamaica. He served with William Byrd on  the commission to survey the boundary between Virginia and North Carolina in 1728. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:93-4; 155-56. </bibl></cit>)</note>
+<note id="n1">[1] The naval officer was an official in the colony that reported to the Commissioners of Customs, a body that had first been established in 1663; the group was reorganized several times, especially after 1688. The board was "intrusted with collection of customs both in England and the colonies." The board helped write many of the instructions for colonial governors in collaboration with the Privy Council. "Their direct connection with the colonies was through the governors, who were instructed to correspond with the commissioners, and to send them, every three months, lists of clearances, and also reports of illegal trading. The governor's agent in matters of trade was the naval officer whom he was empowered to appoint, but who was required by the 7th and 8th William III to give security to the commissioners of customs." (<cit><bibl>Louise Phillips Kellogg. <title>The American Colonial Charter. A Study of English Administration in Relation Thereto, Especialy after 1688.</title>  [Annual Report, American Historical Association. Vol. 1, Govt. Print. Off., 1904], p. 226.</bibl></cit> For a recent study, see <cit><bibl>Alvin Rabushka. <title>Taxation in Colonial America</title> [Princeton, NJ: Princeton University Press, 2008.]</bibl></cit>)</note>
 
+<note id="n2">[2] As Surveyor General of the Customs in the colonies in "South America," Richard Fitzwilliams was a member of the councils of Virginia, South Carolina, and Jamaica. He served with William Byrd on  the commission to survey the boundary between Virginia and North Carolina in 1728. "The Virginia Company of London appointed a surveyor general for Virginia in 1621, and the crown continued to appoint surveyors general after Virginia became a royal colony in 1624. From 1693 until the Revolutionary War, the College of William and Mary was responsible for the Office of the Surveyor General, which appointed official surveyors and received one-sixth of the fees that they collected."   (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:93-4; 155-56; </bibl></cit> and <xref to="http://www.lva.virginia.gov/exhibits/mapping/surveyors/">"Surveors and Mapmakers"</xref> in "Mapping Virginia" on the website of the Library of Virginia.)</note>
 
+<note id="n3">[3] Urbanna was a town in Middlesex County built on lands orginally owned by Ralph Wormeley who resisted the idea after the town was  authorized by the act of 1680. But development began after his death in 1701 and the passage of the third town act in 1706. (<cit><bibl>John W. Reps, <title>Tidewater Towns: City Planning in Colonial Virginia and Maryland.</title> Williamsburg,VA: The Colonial Williamsburg Foundation, 1972. pp . 78-9.</bibl></cit>)</note>
+
+<note id="n4">[4]  "The auditor was unquestionably a royal appointee, and held his commission under the great seal. He was, after 1680, upon the appointment of the auditor-general of the colonies, the deputy of that official. When the auditorship was established, it was stated that only councillors and those who had long resided in the colony were eligible to this office, and it seems that this principle was generally observed. . . . As the name of the office indicates, the auditor examined all the revenue accounts of the colony, except a few purely local ones under the supervision of the treasurer. Among these accounts were those of the royal collectors and naval officers, the quit-rents, the public claims, the fines and forfeitures. He swore to his accounts before the governor and the Council in April and October, and forwarded them through the auditor general to the lords of the treasury. . . . For a few years after the establishment of the office, the auditor received a salary from the Assembly; later, he was paid a salary as a royal official of &pound;100 a year out of the British treasury. His compensation was, however, largely in the form of a fee, which was gradually increased from three to seven and a half per cent of the revenue accounts audited, and amounted to about &pound;400 a year."  (<cit><bibl>Percy Scott Flippin. <title>The Financial Administration of the Colony of Virginia</title> [Johns Hopkins Press, 1915.]  38-39.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised July 25, 2014,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 
