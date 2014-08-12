@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -88,7 +88,7 @@
 <head>
 <bibl>
 <abbr>AL</abbr>
-<extent> p.</extent>
+<extent>3 p.</extent>
 <date value="1727-12-22"></date>
 <idno rend="suppress">C27l22a.xml</idno>
 <title>Letter from Robert Carter to Colonel Mann Page, December 22, 1727</title>
@@ -106,9 +106,8 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
-<date value="1727-12-22">Decemr 22d: 1727</date><lb/>
-Collo Page<lb/>
+Collo Page&nbsp;&nbsp;&nbsp;&nbsp;<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1727-12-22">Decemr 22d: 1727</date><lb/>
+<lb/>
 </dateline>
 <salute>Honble: Sir</salute>
 
@@ -166,6 +165,7 @@ its probable the Councils will too in time</p>
 
 <note id="n6">[6] The transcription of this word is questionable, and it seems likely Carter dictated a word unfamiliar to the clerk. No other possible word has been discovered, however. Carter may refer to the impending birth of Judith (Carter) Page's last child, a daughter who apparently died soon after her birth in 1728. (<cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 252.</bibl></cit>)</note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised August 12, 2014,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 </div1>
 </back>

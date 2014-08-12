@@ -29,8 +29,9 @@
 <center>
 <font size="+3">
 <hr width="75%">
-<a href="/etcbin/ot2www-pubeng?specfile=/web/data/users/berkeley/search/carter.o2w"><I><B>SEARCH ALL DOCUMENTS</B></I></a>
-<hr width="75%"><BR>
+
+<form id="search" action="https://www.google.com/search" method="get">  <input type="search" id="search-query" name="q" results="5" autosave="carter" placeholder="Search entire site" />  <input type="submit" /></form> <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script><script>$(document).ready(function() {    $('form#search').submit(function(e) {      e.preventDefault();      var location = $(this).attr('action');      var compoased_query = "?q=inurl:carter.lib.virginia.edu " + $('#search-query').val();      window.location.replace(location + compoased_query);    });});</script><hr width="75%"><BR>
+
 <font size="+2"><i><B>LETTERS AND OTHER TEXTS:</B></i></font>
 <a href="#1702">1701-1715</a> | 
 <a href="#1716">1716-1719</a>  <BR>

@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,21 +106,21 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+Mr. John Pemberton&mdash;&nbsp;&nbsp;&nbsp;&nbsp;<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;
 <date value="1727-12-19">December the 19th. 1727</date><lb/>
-Mr. John Pemberton&mdash;<lb/>
+<lb/>
 </dateline>
 <salute>Sir&mdash;</salute>
 
 </opener>
 
-<p>This Encloses a bill of Lading for 30 hhds: of <abbr expan="sweet">swt.</abbr> <lb/>Scented <abbr expan="Tobacco">Tobbo:</abbr> of my own Crops on board the <note target="n1"><name type="ship">Rose</name></note> <abbr expan="Captain">Capt:</abbr> Christian pray God <lb/>Send the Ship Safe to you and I doubt not but they will rise Acceptably good <lb/>and meet the Top of your market,</p>
+<p>This Encloses a bill of Lading for 30 hhds: of <note target="n1"><abbr expan="sweet">swt.</abbr> <lb/>Scented <abbr expan="Tobacco">Tobbo:</abbr></note> of my own Crops on board the <note target="n2"><name type="ship">Rose</name></note> <abbr expan="Captain">Capt:</abbr> Christian pray God <lb/>Send the Ship Safe to you and I doubt not but they will rise Acceptably good <lb/>and meet the Top of your market,</p>
 
-<p>I have drawn on you for &pound; 2:19:- payable for <lb/>the <note target="n2">Impost</note> of the 29 hhds: on board the rose belonging to the Owners of the <note target="n3"><name type="ship">John <lb/>and Betty</name></note> and must be charged to that concern I omitted to advise there<lb/>of in my Letter to the Said Owners, I have also drawn upon you for <lb/>&pound;3"1"- the Impost of my own <abbr expan="Tobacco">Tobbo:</abbr> on board the Rose to <abbr expan="Captain">Capt:</abbr> Christian <lb/>for &pound;22"&mdash;"&mdash; to the Said Christian and for One hundred Nineteen <abbr expan="pounds">pds.</abbr> <lb/>Eight shillings and three pence to your Self and the rest of the Freighters of the <lb/>Rose these Sums to be paid on my own <abbr expan="Account">Acct:</abbr>&mdash; and Charged to my Debit</p>
+<p>I have drawn on you for &pound; 2:19:- payable for <lb/>the <note target="n3">Impost</note> of the 29 hhds: on board the rose belonging to the Owners of the <note target="n4"><name type="ship">John <lb/>and Betty</name></note> and must be charged to that concern I omitted to advise there<lb/>of in my Letter to the Said Owners, I have also drawn upon you for <lb/>&pound;3"1"- the Impost of my own <abbr expan="Tobacco">Tobbo:</abbr> on board the Rose to <abbr expan="Captain">Capt:</abbr> Christian <lb/>for &pound;22"&mdash;"&mdash; to the Said Christian and for One hundred Nineteen <abbr expan="pounds">pds.</abbr> <lb/>Eight shillings and three pence to your Self and the rest of the Freighters of the <lb/>Rose these Sums to be paid on my own <abbr expan="Account">Acct:</abbr>&mdash; and Charged to my Debit</p>
 
 <p>In <del>my</del> <add place="supralinear">the money</add> Accot. Currt. of the rose Concern I have drawn <lb/>my Salary upon the whole Sale as well the outstanding Debts as the bills <lb/>remitted and the <abbr expan="payment">paymt.</abbr> made to <abbr expan="Captain">Capt:</abbr> Christian and I could not well <lb/>make out the Accot. Otherways perhaps the <abbr expan="Oowners">Ownrs:</abbr> may think it not reas<lb/>onable <del>for</del> to allow my Salary before the money is remitted which upon <lb/>the outstanding Debts amounts to &pound;32:14 if you please rather <sic corr="than">then</sic> <lb/>there should be any <sic corr="Uneasiness">Uneasieness</sic> let this money be paid to them on my <abbr expan="Account">Acct.</abbr> <lb/>it will be only giving me Credit for it again when the Outstanding Debts <lb/>are Sent home. You will observe I take no Salary upon the <abbr expan="Tobacco">Tobboo.</abbr> but am <lb/>Contented you <add resp="editor">[will]</add> allow it me upon the <sic corr="net">neet</sic> Sales I write at large about <lb/>these two Concerns to which please to be <abbr expan="referred">referr'd</abbr> I Conclude here </p>
 
-<closer>Sir<lb/>Yor. most humble Servt:&mdash;
+<closer>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir<lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. most humble Servt:&mdash;
 <seg type="postscript"><lb/><lb/>per the Rose&mdash;</seg></closer>
 
 
@@ -139,13 +139,16 @@ Mr. John Pemberton&mdash;<lb/>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
 
-<note id="n1">[1] James Christian was captain of the <hi rend="italics">Rose,</hi> a vessel owned by merchant John Pemberton of Liverpool. (See Carter to Pemberton, 1730 April 15.) </note>
+<note id="n1">[1] Oronocco is a type of tobacco "bulkier and coarser than sweetscented . . .  had a sharper leaf  'like a fox's ear,'" and was stronger in flavor" than sweetscented." (<cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> Newport News, VA: Mariners' Museum, 1953.  p. 97</bibl></cit>)</note>
 
-<note id="n2">[2]  The impost was the duty imposed by Britain on imported tobacco, and the cocket (for which a fee was charged) was the certified document issued that the impost had been paid.</note>
+<note id="n2">[2] James Christian was captain of the <hi rend="italics">Rose,</hi> a vessel owned by merchant John Pemberton of Liverpool. (See <xref to="http://carter.lib.virginia.edu/html/C30d15a.html">Carter to Pemberton,</xref> April 15, 1730.) </note>
 
-<note id="n3">[3] The <hi rend="italics">John &amp; Betty</hi> was a Liverpool ship often carrying slaves owned by merchant John Pemberton. In 1726 the captain was John Gale, and in the next year, she was commanded by a Captain William Denton. The ship would be lost in 1729. (<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> p. 18, n. 23</bibl></cit>; Carter to Pemberton, 1730 April 15; and Carter to William Dawkins, June 28, July 26, and August 22, 1727, for Denton's first name.)</note>
+<note id="n3">[3]  The impost was the duty imposed by Britain on imported tobacco, and the cocket, for which a fee was charged, was the document bearing a cocket or seal issued by the "King's Customs House" that the impost had been paid. (See the definitions of each word in  <cit><bibl><title>Oxford English Dictionary Online.</title></bibl></cit>)</note>
+
+<note id="n3">[3]The <hi rend="italics">John &amp; Betty</hi> was a Liverpool ship owned by merchant John Pemberton; she often carried slaves into the colony. In 1726 the captain was John Gale, and in the next year, she was commanded by a Captain William Denton. The ship would be lost in 1729. (<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> p. 18, n. 23</bibl></cit>; <cit><bibl><xref to="http://carter.lib.virginia.edu/html/C27l19b.html">Carter to P3mberton</xref>, December 18, 1727;</bibl></cit>  <cit><bibl><xref to="http://carter.lib.virginia.edu/html/C30d15c.html">Carter to Pemberton,</xref> April 15, 1730;</bibl></cit> and <cit><bibl><xref to="http://carter.lib.virginia.edu/html/C27f28c.html">Carter to William Dawkins,</xref> June 28, July 26, and August 22, 1727, for Denton's first name.</bibl></cit>)</note>
 
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised August 8, 2014,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 
