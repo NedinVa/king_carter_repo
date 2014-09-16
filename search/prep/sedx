@@ -1,2 +1,0 @@
-s/TEI.2/TEI2/g;
-s/<text id="\([^"]*\)">/<text id="\1"><ID>\1<\/ID>/g;
