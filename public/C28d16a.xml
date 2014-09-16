@@ -10,7 +10,12 @@
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; 
+
+<!NOTATION html SYSTEM "HTML">
+<!ENTITY Ext6 SYSTEM "http://www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm" NDATA html>
+
+]>
 <TEI.2 id="C28d16a">
 
 
@@ -39,7 +44,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,8 +111,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
-<date value="1728-04-16">April 16th. 1728</date><lb/>
+<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1728-04-16">April 16th. 1728</date><lb/>
 Mr Jas. Carter<lb/>
 </dateline>
 
@@ -116,11 +120,11 @@ Mr Jas. Carter<lb/>
 
 
 
-<p>I writ to you a few days ago acquainted you that <lb/>a Sloop was coming for yours And Pontons tobacco desired you 
+<p>I <sic corr="wrote">writ</sic> to you a few days ago acquainted you that <lb/>a Sloop was coming for yours And Pontons tobacco desired you 
 
 
 <pb n="2"/><lb/><lb/>
-will let me hear from you Specially that I may know how much <lb/><abbr expan="tobacco">tobo</abbr> I may <sic corr="reckon">reackon</sic> upon this year from you I told you Mr <note n="LCF">Henry <lb/>Fitzhughs</note> bills of <abbr expan="Exchange ">Exch</abbr> that you took for &pound;14:8 were <abbr expan="returned">return'd</abbr> <lb/>me protested and that I would send them to you by the first safe Opp-<lb/>ortunity I had this is to let you know that I have this day drawn on you <lb/>for 800 pounds of tobacco payable to John Ashley and for 900 pounds of tobacco payable <lb/>to Owen Greenan which I desire you to Answer I should be mighty glad <lb/>to hear from you and <note target="n2">Charles Brent</note> too As soon as possible which is <lb/>the Needfull at present from your friend &amp;ca</p>
+will let me hear from you Specially that I may know how much <lb/><abbr expan="tobacco">tobo</abbr> I may <sic corr="reckon">reackon</sic> upon this year from you I told you Mr <note n="LCF">Henry <lb/>Fitzhughs</note> <note target="n2">bills of <abbr expan="Exchange ">Exch</abbr></note> that you took for &pound;14:8 were <abbr expan="returned">return'd</abbr> <lb/>me protested and that I would send them to you by the first safe Opp-<lb/>ortunity I had this is to let you know that I have this day drawn on you <lb/>for 800 pounds of tobacco payable to <note target="n3">John Ashley</note> and for 900 pounds of tobacco payable <lb/>to Owen Greenan which I desire you to Answer I should be mighty glad <lb/>to hear from you and <note target="n4">Charles Brent</note> too As soon as possible which is <lb/>the Needfull at present from your friend &amp;ca</p>
 
 
 
@@ -142,9 +146,13 @@ will let me hear from you Specially that I may know how much <lb/><abbr expan="t
 
 <note id="n1">[1] James Carter (1684-1743), of Stafford County, was the younger brother of Carter's dear friend and associate, Captain Thomas Carter of Lancaster County, and was one of Carter's chief managers. (<cit><bibl>Joseph Lyon Miller, "Captain Thomas Carter and His Descendants," <title>William and Mary Quarterly.</title> 1st ser., 17(1908-09): 275-285.</bibl></cit>)</note>
 
-<note id="n2">[2] Charles Brent (d. 13 January 1756) of Overwharton Parish,
-Stafford County, married to Hannah Innes. He acted as collector of quit rents for Carter in the county.</note>
+<note id="n2"> [2] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (<cit><bibl><xref to="Ext6">"Dictionary of  Financial Scam Terms,"</xref> 8/22/2005</bibl></cit>)</note>
 
+ <note id="n3">[3] Jack Ashley is mentioned a number of times in Carter's diary; he lived in Spotsylvania County and apparently was an overseer for Carter at one time although he does not appear in the 1733 inventory. (<cit><bibl n="B10">McIlwaine, H. R., ed. <title>Executive Journals of the Council. . . .</title>.  4 [1721-1739]:254</bibl></cit>).</note>
+
+<note id="n4">[4] Charles Brent (1695-1756) of Overwharton Parish, Stafford County, married to Hannah Innes. He acted as collector of quit rents for Carter in the county. (<xref to="http://www.mathewscommunications.com/mathews/mw1/mw1g18.htm">"Matthews-Williams Family Genealogy,</xref>" is as useful as any on the Brent family whose genealogy is complicated. )</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised September12, 2014,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 </div1>

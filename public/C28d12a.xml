@@ -10,7 +10,12 @@
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+
+<!NOTATION html SYSTEM "HTML">
+<!ENTITY Ext6 SYSTEM "http://www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm" NDATA html>
+
+ ]>
 <TEI.2 id="C28d12a">
 
 
@@ -39,7 +44,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -94,7 +99,7 @@
 <title>Letter from Robert Carter to Micajah Perry, April 12, 1728</title>
 </bibl>
 </head>
-<p>Robert Carter writes to London merchant Micajah Perry, April 12, 1728, concerning the affairs and expenses of the Lloyd estate which he manages, including the head overseer's salary, tobacco being shipped, etc., and his insistence on payment for his work with the estate.</p>
+<p>Robert Carter writes to London merchant Micajah Perry, April 12, 1728, concerning the affairs and expenses of the Lloyd estate which he manages, including the head overseer's salary, tobacco being shipped, etc., and his insistence on payment for his work with the estate. He encloses a bill of exchange (not present).</p>
 </div1>                 
 </front>
 
@@ -106,24 +111,23 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1728-04-12">Apl. the 12th: 1728</date><lb/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1728-04-12">Apl. the 12th: 1728</date><lb/>
 Micajh: Perry Esqr.<lb/>
 </dateline>
 <salute>Sir&mdash;</salute>
 
 </opener>
 
-<p>I am now taking my leave of <note target="n1"><abbr expan="Captain">Capt:</abbr> Keeling</note> <lb/>I have drawn upon you Payable to him for &pound;4"1"&mdash; the <note target="n2">Impost and <lb/><hi rend="underline"><sic corr="cocket">Cocquet</sic></hi></note> for the <note n="LL">LL</note> <abbr expan="Tobacco">Tobbo:</abbr> and to be placed to that Accot. herein Send you <lb/>a bill of Exchange of his for &pound;6:19:&mdash; my own money and to be Carried to <lb/>my Credit,</p>
+<p>I am now taking my leave of <note target="n1"><abbr expan="Captain">Capt:</abbr> <sic corr="Keiling">Keeling</sic></note> <lb/>I have drawn upon you Payable to him for &pound;4"1"&mdash; the <note target="n2">Impost and <lb/><hi rend="underline"><sic corr="cocket">Cocquet</sic></hi></note> for the <note n="LL">LL</note> <abbr expan="Tobacco">Tobbo:</abbr> and to be placed to that Accot. herein Send you <lb/>a <note target="n3">bill of Exchange</note> of his for &pound;6:19:&mdash; my own money and to be Carried to <lb/>my Credit,</p>
 
-<p>Since my Coming home I have <sic corr="Considered">Considerd</sic> my <abbr expan="Letters">Letts:</abbr> <lb/>of <abbr expan="December">Decr.</abbr> last Via <abbr expan="Liverpool">Leverpl.</abbr> (which I duplicated) and find I was so full <lb/>in them relating to the LL's Concern that I have the less to add here, I am <lb/>Suddenly to draw for &pound;35 to <note n="RM">Meeks</note> the head Overseer which is his Ann<lb/>nual Salary for the care of that Estate, all the under Overseers Shares <lb/>are <sic corr="packed">packt</sic> up in the <abbr expan="Tobaccoes">Tobbos:</abbr> now coming to you which I must charge wth. <lb/>the other disbursements for the Year 1727. The Levys. The <note target="n3">Quit rents,</note> The <lb/><sic corr="Clothes">Cloaths</sic> making. The rent. for <del>f...</del> two <abbr expan="plantations">plans:</abbr> for working Twenty odd <lb/>of the hands &amp;ca: Also I am to draw to <note n="JB"><abbr expan="Doctor">Doctr:</abbr> <sic corr="Belfield">Belfeild</sic></note> &pound;15 his <abbr expan="Year's">Yrs.</abbr> Salary</p>
+<p>Since my Coming home I have <sic corr="Considered">Considerd</sic> my <abbr expan="Letters">Letts:</abbr> <lb/>of <abbr expan="December">Decr.</abbr> last Via 4 (which I duplicated) and find I was so full <lb/>in them relating to the LL's Concern that I have the less to add here, I am <lb/>Suddenly to draw for &pound;35 to <note n="RM">Meeks</note> the head Overseer which is his Ann<lb/>nual Salary for the care of that Estate, all the under Overseers Shares <lb/>are <sic corr="packed">packt</sic> up in the <abbr expan="Tobaccoes">Tobbos:</abbr> now coming to you which I must charge wth. <lb/>the other disbursements for the Year 1727. The Levys. The <note target="n4">Quit rents,</note> The <lb/><sic corr="Clothes">Cloaths</sic> making. The rent. for <del>four</del> two <abbr expan="plantations">plans:</abbr> for working Twenty odd <lb/>of the hands &amp;ca: Also I am to draw to <note n="JB"><abbr expan="Doctor">Doctr:</abbr> <sic corr="Belfield">Belfeild</sic></note> &pound;15 his <abbr expan="Year's">Yrs.</abbr> Salary</p>
 
 <p>My Demand of &pound;30 a year for the care of this Estate for 
 
 <pb n="2"/><lb/><lb/>
-14 or 15 Years together I do insist upon and Claim as my due Loyd <lb/>to <del>[illegible]</del> <add place="supralinear">my</add> knowledge paid a hundred a year, and I have heard but how true <lb/>it is I cant tell that in the Chancery Cause between your family &amp; him <lb/>there was an Article charged of &pound;100 per Annum for the management <lb/>of the Estate. how much of this was allowd or how the decree ended I <lb/>dont know. my Confidence is in you that you will take care to See <lb/>that I have right done me my former Letters will inform you wt. <lb/>a great deal of Trouble I have had and the personal care I have taken <lb/>from year to year in the <abbr expan="Government">Governmt.</abbr> of this Estate Since it hath bin in <lb/>my hands Shall therefore Conclude here </p>
+14 or 15 Years together I do insist upon and Claim as my due <sic corr="Lloyd">Loyd</sic> <lb/>to <del>[illegible]</del> <add place="supralinear">my</add> knowledge paid a hundred a year, and I have heard but how true <lb/>it is I cant tell that in the Chancery Cause between your family &amp; him <lb/>there was an Article charged of &pound;100 per Annum for the management <lb/>of the Estate. how much of this was allowd or how the decree ended I <lb/>dont know. my Confidence is in you that you will take care to See <lb/>that I have right done me my former Letters will inform you wt. <lb/>a great deal of Trouble I have had and the personal care I have taken <lb/>from year to year in the <abbr expan="Government">Governmt.</abbr> of this Estate Since it <sic corr="has">hath</sic> bin in <lb/>my hands Shall therefore Conclude here </p>
 
-<closer>Sir <lb/>Yor. most humble Servt.
+<closer>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. most humble Servt.
 <seg type="postscript"><lb/><lb/></seg>per <abbr expan="Captain">Capt:</abbr> <sic corr="Keiling">Kelling</sic></closer>
 
 
@@ -145,10 +149,13 @@ Micajh: Perry Esqr.<lb/>
 <note id="n1">[1] Captain William Keiling commanded the <hi rend="italics">Betty.
 </hi> (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194, Virginia Colonial Records Project, Albert and Shirley  Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
-<note id="n2">[2]  The impost was the duty imposed by Britain on imported tobacco, and the cocket (for which a fee was charged) was the certified document issued that the impost had been paid.</note>
+<note id="n2">[2] The impost was the duty imposed by Britain on imported tobacco, and the cocket, for which a fee was charged, was the document bearing a cocket or seal issued by the "King's Customs House" that the impost had been paid. (See the definitions of each word in  <cit><bibl><title>Oxford English Dictionary Online.</title></bibl></cit>)</note>
 
-<note id="n3">[3] Quit rent was the term used for the payment due from the holder of land to the "lord of the manor," in this case, to the proprietors of the Northern Neck. Carter as the proprietor's agent, collected these payments. No services were required of the landholder as had been true in mediaeval times.</note>
+<note id="n3"> [3] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (<cit><bibl><xref to="Ext6">"Dictionary of  Financial Scam Terms,"</xref> 8/22/2005</bibl></cit>)</note>
 
+<note id="n4">[4] Quit rent was the term used for "a (usually small) rent paid by a freeholder . . .  in lieu of services which might otherwise be required; a nominal rent paid (esp. in former British colonial territories to the Crown) as an acknowledgement of tenure," in this case, to the proprietors of the Northern Neck. Carter as the proprietor's agent, collected these payments. (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised September 5, 2014,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 

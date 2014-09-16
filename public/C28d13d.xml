@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,8 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Corotoman, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1728-04-13">Apl. the 13th: 1728</date><lb/>
+<name type="place">Corotoman, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1728-04-13">Apl. the 13th: 1728</date><lb/>
 Mr. Sam: Smith<lb/>
 </dateline>
 <salute>Sir&mdash;</salute>
@@ -116,9 +115,9 @@ Mr. Sam: Smith<lb/>
 
 
 
-<p>This Accompanys your Brigantine the <note target="n2"><lb/><name type="ship">Mary</name></note> She hath taken One hundred and fifty two hogsheads and as <lb/><abbr expan="Captain">Capt:</abbr> Price Says is well <sic corr="Stowed">Stowd</sic> her Stay here hath bin much longer <lb/><sic corr="than">then</sic> I Expected indeed the weather hath bin prodigiously hard &amp; <lb/>unfit for business her <sic corr="disaster">diaster</sic> She met with coming up hath bin <lb/>one Occasion of her delay The Master hath <sic corr="fetched">fetchd</sic> but 14 hogsheads <lb/>all the rest hath bin brought to her Side by my Craft, I <del>hope</del> <add place="supralinear">desire</add> you <lb/>will take Effectual care to have Certificates <sic corr="returned">returnd</sic> that my <lb/>Bond may not rise in <abbr expan="Judgement">Judgemt.</abbr> <abbr expan="against">agst.</abbr> you nor I. I hope her Stay wth. <lb/>you will be but Short <add place="supralinear">the Master Expect not above 2 or 3 days.</add> Pray God Send her a good Voyage and you <lb/>and all <sic corr="Concerned">Concernd</sic> <sic corr="Successful">Successfull</sic> I am </p>
+<p>This Accompanys your Brigantine the <note target="n2"><lb/><name type="ship">Mary</name></note> She <sic corr="has">hath</sic> taken One hundred and fifty two hogsheads and as <lb/><abbr expan="Captain">Capt:</abbr> Price Says is well <sic corr="Stowed">Stowd</sic> her Stay here <sic corr="has">hath</sic> bin much longer <lb/><sic corr="than">then</sic> I Expected indeed the weather <sic corr="has">hath</sic> bin prodigiously hard &amp; <lb/>unfit for business her <sic corr="disaster">diaster</sic> She met with coming up <sic corr="has">hath</sic> bin <lb/>one Occasion of her delay The Master <sic corr="has">hath</sic> <sic corr="fetched">fetchd</sic> but 14 hogsheads <lb/>all the rest <sic corr="has">hath</sic> bin brought to her Side by my Craft, I <del>hope</del> <add place="supralinear">desire</add> you <lb/>will take Effectual care to have Certificates <sic corr="returned">returnd</sic> that my <lb/>Bond may not rise in <abbr expan="Judgement">Judgemt.</abbr> <abbr expan="against">agst.</abbr> you nor I. I hope her Stay wth. <lb/>you will be but Short <add place="supralinear">the Master Expects not above 2 or 3 days.</add> Pray God Send her a good Voyage and you <lb/>and all <sic corr="Concerned">Concernd</sic> <sic corr="Successful">Successfull</sic> I am </p>
 
-<closer>Sir <lb/>Yor. very humble Servt:</closer>
+<closer>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. very humble Servt:</closer>
 
 
 </div1>
@@ -138,8 +137,9 @@ Mr. Sam: Smith<lb/>
 
 <note id="n1">[1] Samuel Smith was a resident of King and Queen County where he was a justice, and would be sheriff in 1730 and 1731.(<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:215, 235. </bibl></cit>) </note>
 
-<note id="n2">[2] The <hi rend="italics">Mary</hi> was a ship owned by Samuel Smith; she was commanded by Thomas Price. (See Carter to Samuel Smith, January 22, 1728.)</note>
+<note id="n2">[2] The <hi rend="italics">Mary</hi> was a ship owned by Samuel Smith; she was commanded by Thomas Price. (See <xref to="http://carter.lib.virginia.edu/html/C28a22a.html">Carter to Samuel Smith</xref>, January 22, 1728.)</note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised September12, 2014,  to  strengthen the modern language version text.</hi></note>
 
 
 

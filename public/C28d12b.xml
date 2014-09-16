@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -88,7 +88,7 @@
 <head>
 <bibl>
 <abbr>AL</abbr>
-<extent> p.</extent>
+<extent>1 p.</extent>
 <date value="1728-04-12"></date>
 <idno rend="suppress">C28d12b.xml</idno>
 <title>Letter from Robert Carter to William Dawkins, April 12, 1728</title>
@@ -106,17 +106,18 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1728-04-12">Apl, 12th: 1728</date><lb/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1728-04-12">Apl, 12th: 1728</date><lb/>
 Mr. Wm: Dawkins<lb/>
 </dateline>
 <salute>Sir&mdash;</salute>
 
 </opener>
 
-<p>I have already <sic corr="written">writ</sic> to you by <note target="n1"><abbr expan="Captain">Capt.</abbr> Keeling</note> <lb/>his stay here being longer <sic corr="than">then</sic> he Expected gives me the Opportun<lb/>ity of this Short line. he will tell you how full of complaints all <lb/>the London Masters are of their falling Short Considerably of their <lb/>Loadings <note n="WD"><abbr expan="Captain">Capt:</abbr> Dove</note> went from me Just now and is <sic corr="gone">gon</sic> for Essex <lb/>Court and so to beat up <note target="n2">our river</note> what Success he will have <sic corr="neither">nether</sic> <lb/>he nor I knows <del>at</del> yet at this time I am <sic corr="doubtful">doubtfull</sic> he will hardly <lb/>reach what he did last year Keeling hath had most of his Load from <lb/>our river. <note target="n3">Brooks</note> a great deal and Several of the York Ships have <sic corr="fetched">fetchd</sic> <lb/>considerable Quantitys from hence and more agoing <sic corr="daily">dayly</sic>. here is <lb/><note target="n4">Trice,</note> Clack, <note target="n5">Woodward</note> and <note target="n6">Forwards</note> Ship who hath Set his <sic corr="freight">freit</sic> <lb/>at &pound;7 per <sic corr="Ton">Tun</sic> from whence all thse Ships are to be <sic corr="Supplied">Supplyd</sic> I <abbr expan="cannot">cant</abbr> <lb/>foresee I wish you health and I Shall Conclude at present </p>
+<p>I have already <sic corr="written">writ</sic> to you by <note target="n1"><abbr expan="Captain">Capt.</abbr> Keeling</note> <lb/>his stay here being longer <sic corr="than">then</sic> he Expected gives me the Opportun<lb/>ity of this Short line. he will tell you how full of complaints all <lb/>the London Masters are of their falling Short Considerably of their <lb/>Loadings <abbr expan="Captain">Capt:</abbr> Dove  went from me Just now and is <sic corr="gone">gon</sic> for Essex <lb/>Court and so to beat up <note target="n3">our river</note> what Success he will have <sic corr="neither">nether</sic> <lb/>he nor I knows <del>at</del> yet at this time I am <sic corr="doubtful">doubtfull</sic> he will hardly <lb/>reach what he did last year Keeling <sic corr="has">hath</sic> had most of his Load from <lb/>our river. <note target="n4">Brooks</note> a great deal and Several of the York Ships have <sic corr="fetched">fetchd</sic> <lb/>considerable <sic corr="Quantities">Quantitys</sic> from hence and more <sic corr="are going">agoing</sic> <sic corr="daily">dayly</sic>. here is <lb/><note target="n5">Trice,</note> Clack, <note target="n6">Woodward</note> and <note target="n7">Forwards</note> Ship who <sic corr="has">hath</sic> Set his <sic corr="freight">freit</sic> <lb/>at &pound;7 per <sic corr="Ton">Tun</sic> from whence all thse Ships are to be <sic corr="Supplied">Supplyd</sic> I <abbr expan="cannot">cant</abbr> <lb/>foresee I wish you health and I Shall Conclude at present </p>
 
-<closer>Sir <lb/>Yor very humble Servt:<seg type="postscript"><lb/><lb/>per Keeling&mdash;</seg></closer>
+<closer>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor very humble Servt:<seg type="postscript"><lb/>
+
+<lb/>per Keeling&mdash;</seg></closer>
 
 
 </div1>
@@ -137,16 +138,19 @@ Mr. Wm: Dawkins<lb/>
 <note id="n1">[1] Captain William Keiling commanded the <hi rend="italics">Betty.
 </hi> (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194, Virginia Colonial Records Project, Albert and Shirley  Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
-<note id="n2">[2] The Rappahannock.</note>
+<note id="n2">[2] The <hi rend="italics">Bailey</hi> was a London ship owned by William Dawkins and commanded at various times by Adam Graves (1725-1730) and by Thomas Dove (1731-1732). She was a vessel of some 250 tons and carried 15-17 crew members. (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, 156v, and other data in Adm. 68/194 and /196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> A letter of Carter's to Dawkins <xref to="/users/berkeley/public/C32e12b.xml">May 12, 1732,</xref> refers to "your ship Bailey." as does a letter of May 10, 1738, from Carter's executors to Dawkins.)</note>
 
-<note id="n3">[3] Christopher Brooks commanded the <name type="ship">Cambridge,</name> a vessel of 100 tons and 11 men owned by London merchants Haswell and Brooks in 1729. (<cit><bibl>Survey Report 6801 summarizing Adm. 68/195, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n3">[3] The Rappahannock.</note>
 
-<note id="n4">[4] The 140 ton <hi rend="italics">Welcome</hi> was owned by London merchant James Bradley to whom Carter would write about her on 1727 May 17.  John Trice (Frice) was her captain, 1723-1727. (<cit><bibl>Survey Report 6801 summarizing Adm 68/195, 154r, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n4">[4] Christopher Brooks commanded the <name type="ship">Cambridge,</name> a vessel of 100 tons and 11 men owned by London merchants Haswell and Brooks in 1729. (<cit><bibl>Survey Report 6801 summarizing Adm. 68/195, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
-<note id="n5">[5] Thomas Woodward commanded the <hi rend="italics">Providence,</hi> a ship owned by Captain John Hyde &amp; Company, during a number of voyages to the colony, 1723-1728. (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194 and Survey Report 6801 summarizing Adm 68/195, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia,</bibl></cit> and Carter's letter to the firm, 1723 September 17.)</note>
+<note id="n5">[5] The 140 ton <hi rend="italics">Welcome</hi> was owned by London merchant James Bradley to whom Carter would write about her on <xref to="http://carter.lib.virginia.edu/html/C27e17a.html">May 17, 1727</xref>. John Trice (Frice) was her captain, 1723-1727. (<cit><bibl>Adm 68/195, 154r, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
-<note id="n6">[6] The <hi rend="italics">Forward</hi> was a London ship of 150-200 tons  commanded in1728-29 by William Loney, and in 1731 by George Buckridge. (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194 and Survey Report 6801 summarizing Adm 68/195, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit> )</note>
+<note id="n6">[6] Thomas Woodward commanded the <hi rend="italics">Providence,</hi> a ship owned by Captain John Hyde &amp; Company, during a number of voyages to the colony, 1723-1728. (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194 and Survey Report 6801 summarizing Adm 68/195, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia,</bibl></cit> and Carter's letter to the firm, 1723 September 17.)</note>
+
+<note id="n7">[7] The <hi rend="italics">Forward</hi> was a London ship of 150-200 tons  commanded in1728-29 by William Loney, and in 1731 by George Buckridge. (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194 and Survey Report 6801 summarizing Adm 68/195, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit> )</note>
  
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised September 8, 2014,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 

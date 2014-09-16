@@ -10,7 +10,12 @@
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+
+<!NOTATION php SYSTEM "php">
+<!ENTITY Ext4 SYSTEM "http://www.stratfordhall.org\/learn\/lees\/thomaslee.php" NDATA php>
+
+ ]>
 <TEI.2 id="C28d13c">
 
 
@@ -41,7 +46,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -108,8 +113,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
-<date value="1728-04-13">Apl. the 13th: 1728</date><lb/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1728-04-13">Apl. the 13th: 1728</date><lb/>
 Mr. John Pemberton<lb/>
 </dateline>
 <salute>Sir&mdash;</salute>
@@ -118,10 +122,11 @@ Mr. John Pemberton<lb/>
 
 
 
-<p>This is only to Enclose to you some bills <lb/>of Lading for <abbr expan="Tobacco">Tobbo:</abbr> <sic corr="Shipped">Shipt</sic> in the <sic corr="Brigantine">Briggantine</sic> <note target="n1"><name type="ship">Mary</name></note> Thomas <lb/>Price <abbr expan="Master">Mr</abbr>. belonging to Some Gentlemen living in <abbr expan="Westmoreland">Westmd.</abbr> <lb/>and <abbr expan="Northumberland">Northd.</abbr> <sic corr="Counties">Countys</sic> and <sic corr="Consigned">Consignd</sic> to you on their Accounts <lb/>to wit Henry Ashton for 6 hogsheads <note target="n2">Thomas Lee</note> for 6 hogsheads <lb/><note target="n3">Henry Lee</note> for 2 hogsheads <note n="GT"><abbr expan="George">Geo:</abbr> <sic corr="Turberville">Tubervile</sic></note> for 8 hogsheads  <note n="RL">Richard Lee</note> <lb/>for 2 hogsheads all these <abbr expan="Gentlemmen">Gent.</abbr> Except Richard Lee lives in <lb/>Westmoreland he lives in Northumberland I am</p>
+<p>This is only to Enclose to you some<note target="n1"> bills <lb/>of Lading</note> for <abbr expan="Tobacco">Tobbo:</abbr> <sic corr="Shipped">Shipt</sic> in the <sic corr="Brigantine">Briggantine</sic> <note target="n2"><name type="ship">Mary</name></note> Thomas <lb/>Price <abbr expan="Master">Mr</abbr>. belonging to Some Gentlemen living in <abbr expan="Westmoreland">Westmd.</abbr> <lb/>and <abbr expan="Northumberland">Northd.</abbr> <sic corr="Counties">Countys</sic> and <sic corr="Consigned">Consignd</sic> to you on their Accounts <lb/>to wit <note target="n3">Henry Ashton</note> for 6 hogsheads <note target="n4">Thomas Lee</note> for 6 hogsheads <lb/><note target="n5">Henry Lee</note> for 2 hogsheads <note n="GT"><abbr expan="George">Geo:</abbr> <sic corr="Turberville">Tubervile</sic></note> for 8 hogsheads  <note n="RL">Richard Lee</note> <lb/>for 2 hogsheads all these <abbr expan="Gentlemmen">Gent.</abbr> Except Richard Lee lives in <lb/>Westmoreland he lives in Northumberland I am</p>
 
-<closer>Sir&mdash;<lb/>Yor. Humble Servt:
-<seg type="postscript"><lb/><lb/><add resp="hand"><note target="n4">per Capt: Price</note></add></seg></closer>
+<closer>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir&mdash;<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. Humble Servt:
+<seg type="postscript"><lb/><lb/><add resp="hand"><note target="n6"><hi rend="italics">per Capt: Price</hi></note></add></seg></closer>
 
 
 </div1>
@@ -139,14 +144,20 @@ Mr. John Pemberton<lb/>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] The <hi rend="italics">Mary</hi> was a London ship owned by merchant Robert Cary and commanded by Thomas Price. (See Carter to Samuel Smith, January 22, 1728.)</note>
+<note id="n1"> [1] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
-<note id="n2">[2] Thomas Lee (1690-1750) was the son of Richard Lee II, and nephew of Edmund Jenings; he would build "Stratford," and succeed Carter on the Council. (<cit><bibl>Burton J. Hendrick. <title>The Lees of Virginia: Biography of a Family.</title> [Boston: Little Brown, 1935]. pp. 48, 51, etc.</bibl></cit>)</note>
+<note id="n2">[2] The brigantine <hi rend="italics">Mary</hi> was a vessel owned by King and Queen County resident Samuel Smith; she was commanded by Thomas Price. (See <xref to="http://carter.lib.virginia.edu/html/C28a22a.html">Carter to Samuel Smith</xref>, January 22, 1728.)</note>
 
-<note id="n3">[3] Henry Lee (1691-1747) was a son of Carter's old friend, Hancock Lee (1653-1709). He lived in Westmoreland County at "Lee Hall" and married Mary Bland. (<cit><bibl>Burton J. Hendrick. <title>The Lees of Virginia: Biography of a Family.</title> [Boston: Little Brown, 1935]. pp. 329-30.</bibl></cit>)</note>
+<note id="n3">[3] Henry Ashton (1670-1731) was a prominent citizen of Westmoreland County where he was burgess, justice, and sheriff. (<cit><bibl n="B38">Norris. <title>Westmoreland County, Virginia.</title> p. 107;</bibl></cit> and <cit><bibl>David W. Eaton. <title>Historical Atlas of Westmoreland County
+Virginia.</title> Richmond: Dietz Press, 1942, in an undated reprint. p. 43.</bibl></cit></note>
 
-<note id="n4">[4] The words "per Capt: Price" were added in the hand of a different clerk than the one who wrote the body of the letter.</note>
+<note id="n4">[4] Thomas Lee (1690-1750) of Westmoreland County was the son of Richard Lee II, and nephew of Edmund Jenings; he would build "Stratford," and succeed Carter on the Council. For a good article on Thomas Lee, see  that <A HREF="http://www.stratfordhall.org/thomas.html?RESEARCH">by Jeanne A. Calhoun </A>on Stratford plantation's website. (<cit><bibl>Burton J. Hendrick. <title>The Lees of Virginia: Biography of a Family.</title> [Boston: Little Brown, 1935]. pp. 48, 51, etc.</bibl></cit>)</note>
 
+<note id="n5">[5] Henry Lee (1691-1747) was a son of Carter's old friend, Hancock Lee (1653-1709). He lived in Westmoreland County at "Lee Hall" and married Mary Bland. (<cit><bibl>Burton J. Hendrick. <title>The Lees of Virginia: Biography of a Family.</title> [Boston: Little Brown, 1935]. pp. 329-30.</bibl></cit>)</note>
+
+<note id="n4">[4] The words "per Capt: Price" were added in the hand of a different clerk than the one who wrote the body of the letter ass is indicatede by the use of italics.</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised September9, 2014,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 </div1>

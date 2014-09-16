@@ -25,7 +25,7 @@
      <resp>Creation of machine-readable version: </resp>
      <name id="editor">Edmund Berkeley, Jr.</name>
      <resp>Conversion to TEI.2-conformant markup</resp>
-										<resp>Change of handwriting: </resp>
+	<resp>Change of handwriting: </resp>
      <name id="hand">unidentified clerk</name>
      <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
    </respStmt>
@@ -41,7 +41,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -108,7 +108,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;
 <date value="1728-04-13">Aprill 13th. 1728</date><lb/>
 Mr. Jno. Pemberton<lb/>
 </dateline>
@@ -119,11 +119,12 @@ Mr. Jno. Pemberton<lb/>
 <p>I have your <sic corr="several">severall</sic> letters Accots: &amp;ca: as also my <lb/>goods <add place="supralinear">in</add> the <note target="n1"><abbr expan="Rappahannock">Rappa:</abbr></note> they are not yet <sic corr="Unpacked">Unpackt</sic> if there be that Mistake <lb/>you mention in a piece of <sic corr="Linen">Linnen</sic> I shall note it to you hereafter</p>
 
 <pb n="2"/><lb/><lb/>
-<p>Herewith comes a bill of Lading for 25 hogsheads of sweet <sic corr="scen">sen</sic><lb/>ted <abbr expan="tobacco">tobbo</abbr> of my own crops which I promise myself will rise <lb/>well and merit the top of your Market herein is also a bill <lb/>of Lading for 12 hogsheads belonging to <sic corr="Major">Majr</sic> <note n="GE">George Eskeridge</note> <lb/>which you are to Accot to him for <sic corr="although">altho</sic> the bill of Lading expre<lb/>sses but &pound;7. per <sic corr="Ton">Tonn</sic> he is to pay &pound;8: and the &pound;3&mdash; is to be <lb/><abbr expan="placed">plac'd</abbr> to my Credit I agreed with him to pay &pound;8: per <sic corr="Ton">Tonn</sic> <lb/>I have Already <sic corr="written">writ</sic> to the <abbr expan="freighters">freirs:</abbr> of the Ship <note target="n2">Rose</note> to which <lb/><sic corr="please">pleas</sic> to be <sic corr="referred">refered</sic> I am <note target="n3"><add resp="hand">to be Copyd</add></note></p>
+<p>Herewith comes a <note target="n3">bill of Lading</note> for 25 hogsheads of<note target="n4"> sweet <sic corr="scen">sen</sic><lb/>ted</note> <abbr expan="tobacco">tobbo</abbr> of my own crops which I promise myself will rise <lb/>well and merit the top of your Market herein is also a bill <lb/>of Lading for 12 hogsheads belonging to <sic corr="Major">Majr</sic> <note n="GE">George Eskeridge</note> <lb/>which you are to Accot to him for <sic corr="although">altho</sic> the bill of Lading expre<lb/>sses but &pound;7. per <sic corr="Ton">Tonn</sic> he is to pay &pound;8: and the &pound;3&mdash; is to be <lb/><abbr expan="placed">plac'd</abbr> to my Credit I agreed with him to pay &pound;8: per <sic corr="Ton">Tonn</sic> <lb/>I have Already <sic corr="written">writ</sic> to the <abbr expan="freighters">freirs:</abbr> of the Ship Rose to which <lb/><sic corr="please">pleas</sic> to be <sic corr="referred">refered</sic> I am <note target="n4"><add resp="hand"><hi rend="italics">to be Copyd</hi></add></note></p>
 
-<closer>Sir <lb/>Your very humble Servt:
-<seg type="postscript"><lb/><lb/>per the <note target="n4"><name type="ship">Mary
-</name></note><lb/>per <note target="n5">Denton&mdash;</note></seg></closer>
+<closer>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your very humble Servt:
+<seg type="postscript"><lb/><lb/>per the <note target="n6"><name type="ship">Mary
+</name></note><lb/>per <note target="n7">Denton&mdash;</note></seg></closer>
 
 
 </div1>
@@ -141,16 +142,21 @@ Mr. Jno. Pemberton<lb/>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
 
-<note id="n1">[1] There  were several vessels with this name. One was based in Liverpool and was commanded by a Captain Francis Etheridge in 1725; she was a 90 ton ship with 13 men. Another of which Charles Whate was captain was of 60 tons with 11 men in 1726/27. Carter's letters mention a Captain Brackhill in 1728, and Captain Loxum in 1733. (<cit><bibl>Adm. 68/194, ff.30, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n1">[1] There  were several vessels with this name. One was based in Liverpool and was commanded by a Captain Francis Etheridge in 1725; she was a ninety-ton ship with 13 men. Another of which Charles Whate was captain was of 60 tons with 11 men in 1726/27. Carter's letters mention a Captain Brackhill in 1728, and Captain Loxum in 1733. (<cit><bibl>Adm. 68/194, ff.30, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
-<note id="n2">[2] James Christian was captain of the <hi rend="italics">Rose,</hi> a vessel owned by merchant John Pemberton of Liverpool. (See Carter to Pemberton, 1730 April 15.) </note>
+<note id="n2">[2] James Christian was captain of the <hi rend="italics">Rose,</hi> a vessel owned by merchant John Pemberton of Liverpool.(See <xref to="http://carter.lib.virginia.edu/html/C30d15a.html">Carter to Pemberton,</xref> April 15, 1730.) </note>
 
-<note id="n3">[3] The words "to be Copyd" were added in the hand of a different clerk than the one who wrote the body of the letter.</note>
+<note id="n3"> [3] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
-<note id="n4">[4] The <hi rend="italics">Mary</hi> was a London ship of 130 tons commanded by James Hopkins, and owned by merchant Robert Cary. (<cit><bibl>Admiralty 68/194,ff. 82r, abstracted in Survey Report 6801, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n4">[4] Oronocco is a type of tobacco "bulkier and coarser than sweetscented . . .  had a sharper leaf  'like a fox's ear,'" and was stronger in flavor" than sweetscented." (<cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> Newport News, VA: Mariners' Museum, 1953.  p. 97</bibl></cit>)</note>
 
-<note id="n5">[5] The <hi rend="italics">John &amp; Betty</hi> was a Liverpool ship often carrying slaves owned by merchant John Pemberton. In 1726 the captain was John Gale, and in the next year, she was commanded by a Captain William Denton. The ship would be lost in 1729. (<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> p. 18, n. 23</bibl></cit>; Carter to Pemberton, 1730 April 15; and Carter to William Dawkins, June 28, July 26, and August 22, 1727, for Denton's first name.)</note>
+<note id="n5">[5] The words "to be Copyd" were added in the hand of a different clerk than the one who wrote the body of the letter; italics added to distinguish the change.</note>
 
+<note id="n6">[6] The <hi rend="italics">Mary</hi> was a London ship of 130 tons commanded by James Hopkins, and owned by merchant Robert Cary. (<cit><bibl>Admiralty 68/194,ff. 82r, abstracted in Survey Report 6801, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n7">[7] The <hi rend="italics">John &amp; Betty</hi> was a Liverpool ship owned by merchant John Pemberton; she often carried slaves into the colony. In 1726 the captain was John Gale, and in the next year, she was commanded by a Captain William Denton. The ship would be lost in 1729. (<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> p. 18, n. 23</bibl></cit>; <cit><bibl><xref to="http://carter.lib.virginia.edu/html/C27l19b.html">Carter to P3mberton</xref>, December 18, 1727;</bibl></cit>  <cit><bibl><xref to="http://carter.lib.virginia.edu/html/C30d15c.html">Carter to Pemberton,</xref> April 15, 1730;</bibl></cit> and <cit><bibl><xref to="http://carter.lib.virginia.edu/html/C27f28c.html">Carter to William Dawkins,</xref> June 28, July 26, and August 22, 1727, for Denton's first name.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised September 9, 2014,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 
