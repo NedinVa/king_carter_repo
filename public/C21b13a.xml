@@ -1,0 +1,209 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C21b13a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to William Dawkins,
+February 13, 1721</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia
+Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca.7  kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">filename</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL:
+http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to William Dawkins, February
+13, 1721</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 pp.</extent>
+<publicationStmt>
+     <date>1940</date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter
+Book, 1720 July-1721 July, BR 227, Huntington Library, Art
+Collections, and Botanical Gardens, San Marino, California.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic
+Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text
+Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject
+Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1721-02-13</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term
+type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C21b13aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 pp.</extent>
+<date value="1721-02-13"></date>
+<idno rend="suppress">C21b13a.xml</idno>
+<title>Letter from Robert Carter to William Dawkins, February 13, 
+1721</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant William Dawkins, February 13, 1721, to thank him for news of his sons studying in England, and comments on Dawkins' dismal reports "of the Stock Jobbing Trade." He then responds to Dawkins' complaints about the quality of his tobacco. He promises to let Captain Baily Kent "hear of this foolish prateling on both Sides of his Ears" for carrying false tales about a  part of Carter's tobacco production. There are outport ships in Virginia taking advantage of the larger merchants holding back their ships from an early voyage, and some colonists are rushing to obtain good freight rates. He hopes the <hi rend="italics">Carter</hi> will 
+arrive safely next month. </p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="WD">William Dawkins,</note> February 13, 1721</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <corr resp="editor">[Lancaster County, Virginia]</corr> </name><lb/>
+<date value="1721-02-13"><abbr expan="February ">Febr. </abbr> 13. 1720/21</date><lb/>
+Mr. <abbr expan="William ">Wm.  </abbr>Dawkins<lb/>
+</dateline>
+<salute>Sir&mdash;&mdash;</salute>
+
+</opener>
+
+<p>I received Yors. of the 27th of <abbr expan="October ">Octr.</abbr> the best news in it is the <lb/><sic corr="welfare ">welfair</sic> of my <note target="n1">Children,</note> 
+You tell a Dismal Storey of the fatal Effects <lb/>of the Stock Jobbing Trade and Every body Else <sic corr="chimes ">chymes</sic> 
+upon the <lb/>Same <sic corr="note ">noat</sic> thank God our Merchants had more foresight than to be <lb/><sic corr="caught ">catcht</sic> wth these <sic corr="treacherous ">Tricherus</sic> <sic corr="baits, ">baites,</sic> The worst part of Yor. 
+<sic corr="story ">Storey</sic> to <lb/>me is the Sad Account You give me of my Tobo. I am at a loss what <abbr expan="answer ">ansr.</abbr> <lb/>to make to You I 
+take as Vigilant a Care to prevent these things as <lb/>any man no one can boast of better Lands or better Materials <lb/>to work with. 
+My Overseers are under as Strict orders and as penal <lb/>obligations as I can put them&mdash; The <sic corr="chief ">cheif</sic> part of 
+the <abbr expan="tobaccoes ">Tobos. </abbr> <lb/>You had of me both in the <note n="CS"><name 
+type="ship">Carter </name></note>and the <name type="ship"><sic corr="Bailey ">Baily</sic></name> was made <lb/>at 
+some of my best <abbr expan="plantations ">plans. </abbr> after I have done my utmost there <lb/>will be some Indifferent hogsheads which must keep Company 
+
+<pb n="2"/><lb/><lb/>
+with the better Sort, You tell me of <add resp="editor">[Captain Baily]</add> Kents <sic corr="stories ">Storyes </sic>of the dammage 
+<lb/>of my Tobo. in the Country which I know he had from his Mate <lb/><add resp="editor">[Captain Thomas]</add> Dove there was indeed some 
+hogsheads that was <sic corr="caught ">catcht</sic> in rain a <lb/><sic corr="flat ">Flatt</sic> <add 
+resp="editor">[boat]</add> Load as I take It which did not go <sic corr="far ">farr</sic> in the Cask and this <lb/>must be made a noise of to The discredit of my 
+concern if I<lb/>live to see Kent he shall hear of this foolish <sic corr="pratling ">prateling</sic> on both <lb/>Sides of his Ears he was only the Trumpet to 
+Sound out the Information <lb/>of another, he saw nothing of It himself I dare say</p>
+
+<p>The Keeping Yor. Ships that they might not return back <lb/>
+upon You too Soon appears to be a very prudent resolution we in <lb/>
+Virginia have Reason to be very well pleasd with It, here are <lb/>
+Some Straggling Outport Ships among us That are loaded as fast <lb/>
+as they could take It in at nine and Ten pounds per <sic corr="ton ">Tun</sic> these <lb/>
+things are not in our power to help If the large Freighters will <lb/>
+not give It the Small ones will Such is the Madness of the <lb/>
+people That They will be Freighters and not Freighters as the <lb/>
+price Rises and falls here. I hope the Carter is now under a fair <lb/>
+Gale towards us and that we may see her safely here Some time <lb/>
+the next month, That This may find You all in good health <lb/>
+is the hearty desires of&mdash; </p>
+
+
+<closer>Sir <lb/>Yor. very humble Servt.<lb/><lb/>
+
+<seg type="postscript">Mr. <note n="RL"><abbr expan="Richard ">Rd.</abbr> Lee</note> and I drew on You for &pound;15. payable <lb/>
+to <abbr expan="Doctor ">Doctr. </abbr> <note target="n2"><abbr expan="Archibald ">Archd.</abbr> Blair</note> wch. we desire You to pay <lb/>
+on Accot. of the <abbr expan="orphans
+">orps </abbr> of Mr. <note target="n3"><abbr expan="Hancock ">Han. </abbr> Lee.</note></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics">Source copy consulted:</hi>  Robert Carter  Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. Printed: <cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> pp. 74-75.</bibl></cit></note> <lb/><lb/>
+
+<note>Robert Carter generally used a return address of 
+"Rappahannock" for the river on which he lived rather than 
+"Corotoman," the name of his home, on his correspondence, especially 
+to merchants abroad. The county and colony have been added for 
+clarity.</note><lb/>
+
+<note id="n1">[1] Carter's sons Robert (1704-1732), Charles (1707-1764), and Landon (1710-1778), were then in England for their 
+education. (<cit><bibl n="B30">Greene. <title>The Diary of Colonel Landon Carter. . . .</title>, p. 3.</bibl></cit>)</note><lb/><lb/>
+
+<note id="n2">[2] Archibald Blair (ca. 1665-1733) was the brother of 
+Commissary James Blair; he served from 1718 to his death as a burgess from Jamestown or James City County. From about 1702 in partnership
+with James and Philip Ludwell, he ran a store in in Williamburg. (<cit><bibl n="B2">Rouse. <title>James Blair of Virginia.</title> pp.
+176-178, 268.</bibl></cit>)</note><lb/><lb/>
+
+<note id="n3">[3] Hancock Lee (d. 1709) named Carter in his will as  "a good friend," and appointed him one of the trustees of his 
+children of whom Richard Lee (1691-1740) was one. (<cit><bibl n="B11">Lee. <title>Lee Chronicle. . . .</title> pp. 33-35</bibl> 
+</cit>, and <cit><bibl n="B12">Wright. <title>Letters of Robert 
+Carter. . . .</title> p. 28.)</bibl></cit></note><lb/><lb/>
+
+<lb/><lb/><note><hi rend="italics">This text revised March 3,
+2009.</hi></note>
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

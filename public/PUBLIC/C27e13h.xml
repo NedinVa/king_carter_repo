@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C27e13h">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Micajah Perry, May 13 and June 2, 1727</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 5 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C27e13h.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2003</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Micajah Perry, May 13 and June 2, 1727</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1727-05-13</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C27e13hT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1727-05-13"></date>
+<idno rend="suppress">C27e13h.xml</idno>
+<title>Letter from Robert Carter to Micajah Perry, May 13 and June 2, 1727</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant Micajah Perry, May 13, 1727, to report the arrival of accounts of sales and accounts current to which he will reply in another letter. He sends bills of lading (not present) for tobacco from Lloyd's plantation and some of his own from which the overseer's shares must be withdrawn, and he notes that he has drawn on the merchant for Richard Meeks' salary for 1726. In a postscipt dated June 2, 1727, Carter reports other bills of exchange.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="MP2">Micajah Perry,</note> May 13 and June 2, 1727</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1727-05-13">May 13th: 1727</date><lb/>
+Mr. Micajh: Perry<lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+<p>I am now in Possession of yor: <abbr expan="several">Sevl:</abbr> Packets <lb/>with the accots: of Sales and Accots: Currt: of my own and <note n="NB">Mr. Bu<add resp="editor">[r]</add><lb/>wells</note> Concern to all which I shall return an Answer in <abbr expan="another">anotr:</abbr> <lb/>Place.</p>
+
+<p>According to your direction I have <sic corr="shipped">Shipt</sic> the <lb/>most of the <note n="LL">LL Concern </note>on board the <note target="n1"><name type="ship">Betty</name></note>  herein is a bill of <lb/>Lading for 40 hhds: and I put 20 of my own on board in the <lb/>room of Twelve of the LLs that are on board the <note n="CS"><name type="ship">Carter</name></note> which make <lb/>up all the Quantity made at <sic corr="these">them</sic> plantations and there is <lb/>the Overseers Shares Excluded too, which I  must charge the <lb/>Estate D<add resp="editor">[ebto]</add>r: for in my next Accot: of Contingencies, I have already <lb/>advised you of great losses among <sic corr="the">them</sic> Slaves this winter	<lb/>I think the number of them is now come to 14 of the best Slaves <lb/>belonging to that Estate I have drawn upon you for   &pound;35 <lb/>payable to <note n="RM">Richard Meeks</note> the General Overseer for his Salary <lb/>for the Year 1726 which shall be all at present </p>
+
+<closer>Yor: humble Servt:
+<seg type="postscript"><lb/><lb/>from per Keiling
+<lb/>&amp;Copy per <note target="n2">Hopkins</note><lb/><lb/>June 2d. 1727
+<lb/>This Day <abbr expan="Captain">Capt:</abbr> Keeling hath <lb/>given me bills of Lading for the LLs <abbr expan="Tobacco ">Tobbo: </abbr> <lb/>and I have drawn upon you for the <lb/><note target="n3">Impost</note> of it for &pound;4:1:&mdash;herein is <abbr expan="another">anor.</abbr> <lb/>bill of <abbr expan="exchange">Exche:</abbr> of <abbr expan="Augustine">Aug:</abbr> Smith on your Self for <lb/>19:4 Endorsd Phillip Smith&mdash; </seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. </note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
+
+<note id="n1">[1] Captain William Keiling commanded the <hi rend="italics">Betty.
+</hi> (<cit><bibl>Survey Report 6800, Virginia Colonial Records Project, Albert and Shirley  Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n2">[2] Captain James Hopkins commanded the <hi rend="italics">Mary</hi> in 1727-1728. He was then working for London merchant Robert Cary. He is mentioned in Carter's diary. (<cit><bibl>Adm. 68/194, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n3">[3]  The impost was the duty imposed by Britain on imported tobacco, and the cocket, for which a fee was charged, was the document bearing a cocket or seal issued by the "King's Customs House" that the impost had been paid. (See the definitions of each word in  <cit><bibl><title>Oxford English Dictionary Online.</title></bibl></cit></note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2003, was revised June 5, 2012,  to strengthen the footnotes and modern language version text.</hi></note>
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

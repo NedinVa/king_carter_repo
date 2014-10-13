@@ -1,0 +1,3233 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+
+<!NOTATION jpg SYSTEM "jpg">   
+<!ENTITY church SYSTEM "http://etext.virginia.edu/users/berkeley/public/church.jpg" NDATA
+jpg>  
+
+ ]>
+
+<TEI.2 id="RCwill">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Robert Carter's will, October 16, 1732</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia
+Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 151 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">RCwill.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL:
+http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2002</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Robert Carter's will, October 16, 1732</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>51 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter will,
+1732 October 16, Carter Family Papers, Virginia Historical Society,
+Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic
+Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text
+Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject
+Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1732-10-16</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term
+type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="RCwillT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AD</abbr>
+<extent>51 p.</extent>
+<date value="1732-10-16"></date>
+<idno rend="suppress">RCwill.xml</idno>
+<title>Robert Carter's will, October 16, 1732</title>
+</bibl>
+</head>
+<p>Robert Carter makes disposition in his will begun in 1726 (with
+codicils in October 1726, September 1728, and June and July 1730) of
+his extensive lands, slaves, investments, and other property to his
+children with small bequests to his trustees and friends, his
+minister, and the parish poor.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="document" n="1">
+<head>Robert Carter's Will and Codicils, 1726-1732, Admitted to
+Probate in the General Court, October 16, 1732</head>
+<opener>
+<dateline>
+
+<name type="place"><add resp="editor">[Corotoman,] Lancaster County,
+Virginia</add></name><lb/>
+<date value="1732-10-16">August 22, 1726</date><lb/>
+
+</dateline>
+
+
+</opener>
+
+<pb n="page (1)"/><lb/><lb/>
+
+<figure entity="church">
+<figDesc><hi rend="italics"><hi rend="bold">Christ Church, Lancaster County; the Carter tombs are to the right of
+the building.</hi></hi> </figDesc></figure>
+
+
+<p>In the name of God Amen I Robert Carter <lb/> 
+of Lancaster County in the colony and Dominion of <lb/> 
+Virginia <abbr expan="Esquire">Esqr.</abbr> being in a sickly
+declining state of Body <lb/>
+but of sound mind and memory (to God be the praise) <lb/>
+and being now in the sixty third year of my age do make <lb/>
+this my last will and Testament.</p>
+
+<p>I resign my soul to God as into the hands of a Faithfull <lb/>
+Creator and my Body (when it shall please him to take <lb/>
+me out of this World to the earth) trusting in and through <lb/>
+the merits and Mediation of my ever blessed redeemer our <lb/>
+great and only high priest at the right hand of the Father <lb/>
+to have my sins pardoned and <sic corr="washed">washt</sic> away and
+to attain <lb/>
+to the resurection of the Just disclaiming any righteousness <lb/>
+of my own and firmly believing in the ever blessed Trin-<lb/>
+-ity Father Son and holy Ghost placing my only hopes in <lb/>
+in the Satisfaction and propitiation of my dear Lord and <lb/>
+Saviour Jesus Christ I order my body <del>body</del> to be laid
+in<lb/>
+the yard of Christ Church near and upon the right hand <lb/>
+of my Wives a decent funeral to be kept at my interment <lb/>
+a monument or tombstone to be sent for to be erected <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="italics">Christ Church, Lancaster County; the Carter tombs are to the right of the building.</hi><lb/>
+over my grave of about the value of my last wives Tombstone <lb/>
+with a proper Inscription at the discretion of my son John <lb/>
+or of my other executors in case of his Mortality and I <lb/>
+do dispose of that worldly estate which God hath <lb/>
+blessed me with <add place="supralinear">in</add> manner
+following.</p>
+
+
+<p>I give unto my son <note n="JC1">John Carter</note> <abbr
+expan="Esquire"><abbr expan="Esquire">Esqr.</abbr></abbr> and to his
+heirs Male <lb/>
+all my lands Houses and appurtenances, and all my slaves <lb/>
+and real Estate whatsoever lying and being in Lancaster <lb/>
+County (excepting such Land slaves and real estate as <lb/>
+I shall otherwise dispose of in this my will) likewise <lb/>
+my water Mill and the lands I bought of Richard <lb/>
+Sattimore adjoining whether lying in Lancaster or <lb/>
+Northumberland County.</p><lb/>
+
+
+<pb n="page (2)"/><lb/><lb/>
+
+<p>I give unto my said son John and to the heirs male issue of <lb/>
+his body lawfully begotten all that tract of Land I bought <lb/>
+of Mr John Spicer in Essex County <add
+place="supralinear">containing</add> seven and twenty<lb/>
+hundred acres with all housing Members and appurtenances  <lb/>
+with all the slaves and real estate thereon excepting the <lb/>
+slaves in this my will hereafter excepted.</p>
+
+                    
+<p>I give unto my said son John and to the heirs Male issue <lb/>
+of his Body Lawfully to be begotten my tract of Ten thou-<lb/>
+sand acres of Land upon the branches of <note
+target="n1">Occaquan,</note><lb/>
+upon Cedar run, Owl run &amp; <note target="n2">Licking run,</note>
+adjoining to <lb/>
+the Germans, granted to <abbr expan="Captain">Capt.</abbr><note
+n="GT"> George Turbervile,</note> and by <lb/>
+him conveyed to me, unto him my said son John, and <lb/>
+to the heirs male issue of his Body and for want of such <lb/>
+unto my son Charles, and to the heirs male issue of his <lb/>
+Body, and for want of such unto my son <note n="RC2">Robert</note>
+and to <lb/>
+the heirs male issue of his Body and for want of such  <lb/>
+unto my own right heirs forever.</p>
+
+<p>I give unto my said son John and to the heirs male issue of <lb/>
+of his Body Lawfully to be begotten, one moyety or half <lb/>
+part of all those lands I lately bought of <note target="n3">Robert
+Cary</note> <lb/>
+of London Merchant with their and every of their ap-  <lb/>
+-purts lying in Richmond &amp; Westmoreland Counties to <lb/>
+be equally divided as followeth. The division to begin <lb/>
+somewhere near the plantation of Peter Smith where <lb/>
+the <abbr expan="said">sd.</abbr> Smith lives and so to run away
+towards <abbr expan="Rappahannock">Rappa.</abbr>  <lb/>
+River in such manner <add place="supralinear">so</add> as to make
+pretty near equal <lb/>
+Quantities in each part consideration being had to <lb/>
+the conveniences of both parts of these lands and that <lb/>
+the <note target="n4">Fork of Totees Key</note> come in to the lower
+division the <lb/>
+lower half of this Land I given unto my said son <lb/>
+John and to the heirs male issue of his Body <lb/>
+and for want of such unto my son <lb/> <lb/>
+
+
+
+<pb n="page (3)"/><lb/><lb/>
+
+Robert and to the heirs male issue of his Body and for <lb/>
+want of such unto my son <note target="n5">Charles</note> and to the
+heirs male <lb/>
+of his Body and for want of such unto my own right heirs <lb/>
+forever.</p>
+
+<p>I give unto my said son John and to the heirs male <lb/>
+issue of his Body that tract of Land in King George County <lb/>
+that I bought of the said Cary, called the <note target="n6">round
+hills</note> being <lb/>
+esteemed to contained five hundred acres together with the <lb/>
+appurtenances thereunto belonging. All these Lands Tenements <lb/>
+Houses and appurtenances  slaves and real estate I devise will <lb/>
+and bequeath unto my said son John and the heirs male issue <lb/>
+of his Body lawfully begotten and if my said son John <sic
+corr="die">dye</sic> <lb/>
+without issue male or his issue male <sic corr="die">dye</sic>
+without issue male <lb/>
+then my will is that these lands House Slaves and real <lb/>
+estate given to my  said son John do go to my son Robert <lb/>
+and to his heirs male issue of his Body lawfully begotten <lb/>
+and if my son Robert <sic corr="die">dye</sic> without issue male or
+his issue <lb/>
+male <sic corr="die">dye</sic> without issue male then my will is
+that these <lb/>
+lands House Slaves and real estate given to my son John <lb/>
+do go to my son Charles and his heirs male issue of his <lb/>
+Body lawfully begotten and if my son Charles <sic
+corr="die">dye</sic> without <lb/>
+issue male or his issue male <sic corr="die">dye</sic> without issue
+male then <lb/>
+my will is that these Lands houses slaves, and real estate <lb/>
+given to my son John do go to my son <note target="n7">Landon</note>
+and his heirs male <lb/>
+issue of his Body lawfully begotten and if he <sic
+corr="die">dye</sic> without issue male <lb/>
+or his issue male <sic corr="die">dye</sic> without issue male that
+then these Lands <lb/>
+houses slaves and real estate given unto my said son <lb/>
+John do go unto my son <note target="n8">George,</note> and his
+heirs male issue of his <lb/>
+Body lawfully begotten and if he <sic corr="die">dye</sic> without
+issue male <lb/>
+or his issue male <sic corr="die">dye</sic> without issue male that
+then these lands <lb/>
+Houses slaves and real estate given unto my said son John do go <lb/>
+unto my Grandson <note target="n9">Carter Burwell</note> second son
+of my <lb/>
+daughter <note n="ECB">Elizabeth Nicholas</note> and to the heirs
+<add place="infralinear">male</add>  <lb/>  <lb/>
+
+<pb n="page (4)"/><lb/><lb/>
+
+male issue of his Body lawfully begotten and if my said Grandson <lb/>
+Carter Burwell do <sic corr="die">dye</sic> without issue male or
+his issue male <lb/>
+<sic corr="die">dye</sic> without issue male that then these lands,
+houses slaves <lb/>
+and real estate do go to my Grandson <note target="n10">Robert
+Burwell</note> and to <lb/>
+the heirs male issue of his body lawfully begotten and if my <lb/>
+said Grandson <abbr expan="Robert">Robt..</abbr> Burwell do <sic
+corr="die">dye</sic> without issue male <lb/>
+or his issue male <sic corr="die">dye</sic> without issue male that
+then these lands <lb/>
+,houses, slaves and real estate given to my son John do go to <lb/>
+my Grandson <note target="n11">Lewis Burwell</note> and to the heirs
+male issue of <lb/>
+his body lawfully begotten and if my said Grandson Lewis <lb/>
+do <sic corr="die">dye</sic> without issue male of his body that
+then these Lands <lb/>
+houses slaves and real estate shall go to my Grandson <lb/>
+<note target="n12">Mann Page</note> the son and heir of my daughter
+<note n="JCP">Judith <lb/>
+Page</note> and the heirs male issue of his body lawfully begotten
+<lb/>
+and if my said Grandson Mann Page <sic corr="die">dye</sic> without
+issue <lb/>
+male or his issue male <sic corr="die">dye</sic> without issue male
+that then <lb/>
+these lands, house slaves and real estate given to my <lb/>
+son John do go unto my said daughter Pages second <lb/>
+or living son if any such there be, to be baptized <lb/>
+Carter and to the heirs male issue of his Body lawfully <lb/>
+begotten and if such Second or living son of my said <lb/>
+daughter Judith Page do <sic corr="die">dye</sic> without issue male
+then <lb/>
+I give these lands, slaves, houses and real estate <lb/>
+given unto my said son John unto my own right <lb/>
+heirs forever</p>
+
+<p>I give and bequeath unto my son Robert <lb/>
+and <add place="supralinear">to</add> his heirs male issue of his
+Body lawfully begotten <lb/>
+all my lands houses slave appurtenances  and real estate what-  <lb/>
+soever lying and being in Westmorland <add resp="editor"> [<hi
+rend="italics">sic</hi>]</add>County and <lb/>
+likewise the M <hi rend="underline">ill,</hi> and lands adjoining in
+<lb/>
+Richmond County commonly called and known by the <lb/>
+name of <note n="DM">Dickersons Mill</note> also all my lands houses
+slaves appur-  <lb/>
+-tenances and real estate I have upon the branches of Wicocomoco <lb/>
+River in Northumberland County known by the name <lb/>  <lb/>
+
+<pb n="page (5)"/><lb/><lb/>
+
+of <note n="FP">Fieldings Plantation</note> and necks containing
+between eighteen <lb/>
+hundred and two thousand acres or thereabouts likewise all <lb/>
+my tract of land I bought of <abbr expan="Major">Majr.</abbr> <note
+n="JH">John Holloway</note> lying upon <lb/>
+Chappawamsick in <note target="n12.5">Hartford county</note> and
+also all my lands <lb/>
+lying upon the Branches of Ottaquan in the same County and <lb/>
+likewise the slaves tht. went from Middlesex since my <lb/>
+wifes death up to <note n="PE">pewmens Emd</note> which I have <add
+place="supralinear">likewise</add> before ex-  <lb/>
+-cepted  <add place="supralinear">out</add> of my gift to my said
+son John I give and de <lb/>
+-vise unto my son Robert and to the heirs male issue <lb/>
+of his Body lawfully begotten as also the following negroe <lb/>
+slaves (to wit) my negroe George the cooper and his wife <lb/>
+and Children The two negroes I have now bound out <lb/>
+as apprentices to Wm. Garland Also the Negroe Boy that <lb/>
+is an apprentice to George the Cooper also my negroe boy <lb/>
+David Tom Gumby's Brother and likewise my Cook <lb/>
+wench Priss her husband Old Robin and her children <lb/>
+all that she hath or shall have These lands houses <lb/>
+slaves appurtenances  and real estate I do give and devise unto my
+<lb/>
+said son Robert and his heirs male issue of his Body <lb/>
+lawfully begotten And if my son Robert <sic corr="die">dye</sic>
+without <lb/>
+issue male then my will is that these lands houses <lb/>
+slave appurtenances  and real estate given unto my said <lb/>
+son Robert do go to my son Charles and to the heirs <lb/>
+male issue of his Body lawfully begotten and if my son <lb/>
+Charles <sic corr="die">dye</sic> without issue male then my will is
+that these <lb/>
+lands house slave appurtenances and Real estate <lb/>
+given unto my son Robert do go to my son John and  <lb/>
+the heirs male issue of his Body lawfully begotten and if my <lb/>
+son John <sic corr="die">dye</sic> without issue male then my will
+is that <lb/>
+these lands house slave appurtenances  and real estate <lb/>
+given unto my son Robert do go to my son Landon and to the heirs <lb/>
+male issue of his Body lawfully begotten and if my said son Lan- 
+<lb/>
+-don <sic corr="die">dye</sic> without issue male then my will is
+that these lands <add place="infralinear">houses slaves appurtenances
+</add>  <lb/>  <lb/>
+
+<pb n="page (6)"/><lb/><lb/>
+
+ and real estate given unto my son Robert do go to my <lb/>
+son George and the heirs male issue of his Body lawfully <lb/>
+begotten and if my said son George <sic corr="die">dye</sic> without
+issue male <lb/>
+then my will is that these lands house slave <abbr
+expan="appurtenances">appurts</abbr>,  <lb/>
+given unto my son Robert do go to right heirs <add
+place="supralinear">forever</add> I give unto <lb/>
+my son Robert and to the heirs male issue of his Body all <lb/>
+that other <note target="n13">moiety</note> and half of the lands
+and appurtenances <lb/>
+that I bought of <abbr expan="Robert">Robt.</abbr> Cary lying in
+Richmond <lb/>
+and Westmoreland Counties being the upper Moiety of <lb/>
+these lands according to the division directed as afore-  <lb/>
+-said and in case of the death of my said son Robert <lb/>
+without issue male then this Moiety of the lands I bought <lb/>
+of Mr Robert Cary to go to my son John and to his issue <lb/>
+male and for want of issue male of the body of my son <lb/>
+John to go to my son Charles &amp; to the heirs male issue <lb/>
+of his Body lawfully begotten and for want of such <lb/>
+to my son Charles <add resp="editor"> [<hi
+rend="italics">sic</hi>]</add>and to the heirs male issue of his <lb/>
+Body lawfully begotten and if my said son Landon  <sic
+corr="die">dye</sic> <lb/>
+without issue male then to my son George and to the <lb/>
+heirs male issue of his Body lawfully begotten and if <lb/>
+my said son George <sic corr="die">dye</sic> without issue male then
+my <lb/>
+will is that this <sic corr="moiety">Moyety</sic> of these lands and
+<abbr expan="appurtenances">appurts</abbr>  <lb/>
+given to my said son Robert do go to my right heirs forever &mdash; 
+<lb/>
+I give unto my said son Robert that tract or parcel of <lb/>
+land I lately bought of William rust lying in Hartford <lb/>
+County upon the branches of Bull Run to him and <lb/>
+his heirs forever.</p>
+
+<p>I give these lands houses slaves Appurtenances and real estate
+<lb/>
+I do give and bequeath unto my said son Robert and to his heirs <lb/>
+male issue of his Body lawfully begotten and if my son Robert  <lb/>
+<sic corr="die">dye</sic> without issue male then my will is that
+(excepting the <lb/>
+lands I bought of Mr Cary which are settled on my son John <lb/> 
+in remainder as aforesaid and the lands I bought of <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<add place="infralinear">of </add><lb/>  <lb/> <pb n="page (7)"/><lb/><lb/>
+
+William Rust, which I have given unto my sad son Ro-  <lb/>
+bert in Fee simple) these lands houses slaves appurtenances  <lb/>
+real estate given unto my said son Robert do go <lb/>
+unto my son Charles and to the heirs male issue of his Body <lb/>
+lawfully begotten and if my said son Charles <sic
+corr="die">dye</sic> without <lb/>
+issue <add place="supralinear">male</add> then my will is that these
+lands house slaves &amp;  <lb/>
+real estate do go to my son John and to the heirs male issue of <lb/>
+his Body lawfully begotten and if my said son John <sic
+corr="die">dye</sic> without <lb/>
+issue male then my will is that these lands house and real <lb/>
+estate do go to my son Landon to the heirs male issue <lb/>
+of his Body lawfully begotten and if my said son Landen <add
+resp="editor"> [<hi rend="italics">sic</hi>]</add><lb/>
+<sic corr="die">dye</sic> without issue male then my will is that
+all these <lb/>
+lands houses slaves and real estate do go to my son <lb/>
+George and to the heirs male issue of his Body lawfully be-  <lb/>
+-gotten and if my son George <sic corr="die">dye</sic> without issue
+male <lb/>
+then it is my will that all these Lands house slaves and <lb/>
+real estate do go to my right heirs forever. &mdash;</p>
+
+<p>I give and bequeath unto my son Charles and to all the <lb/>
+heirs male issue of his Body lawfully begotten All my lands houses 
+<lb/>
+plantations and appurtenances in Lancaster and Northumber-  <lb/>
+-land Counties which formerly belonged to <abbr
+expan="Major">Majr.</abbr> William  <lb/>
+Lister as also the plantation and lands I bought of  <lb/>
+Mr <note target="n14">Robert Jones</note> commonly called <note
+target="n15">old plantation</note> <lb/>
+and likewise the plantation and Lands I <lb/>
+bought and purchased of John Sudley the Father <add resp="editor">
+[<hi rend="italics">sic</hi>]</add>  <lb/>
+and the son called <note target="n16">Blough point plantation</note>
+on where  <lb/>
+<note target="n17"><abbr expan="Thomas">Thos.</abbr> West</note> now
+lives and also I give unto said son <lb/>
+Charles and to the heirs male issue of his Body law-  <lb/>
+-fully begotten all lmy lands in King George and <lb/>
+Spotsylvania Counties lying above the falls of <lb/>
+Rappahannock River and also my Great tract of <lb/>
+land <add place="supralinear">lying</add> upon the Branches of
+Potomack whereon <lb/>  <lb/>
+
+<pb n="page (8)"/><lb/><lb/>
+
+I have three plantations now seated likewise I give <lb/>
+unto my said son Charles all the slaves that are upon <lb/>
+the said plantations Lands &amp; settlements herein given <lb/>
+to him and all the slaves that shall be upon the <abbr
+expan="said">sd.</abbr>  <lb/>
+plantations at the time of my death and I also give <lb/>
+unto my said son Charles my negroe Tom Gumby <lb/>
+and his wife &amp; children and also my negroe Frank the <lb/>
+Carpenter &amp; his wife and children &amp; my two negroes that <lb/>
+are apprentices to John Hurst and my negroe boy called <lb/>
+Cesar I also and devise to my said son Charles and <lb/>
+to the heirs male issue of his body apiece of Land about <lb/>
+two hundred acres lying between the line of the Great <lb/>
+Tract I live upon and the lands that were <lb/>
+where the brick store stands and joining upon the Glebe <lb/>
+being a piece of Land on which John Bradley lived also <lb/>
+the lands I bought of John Wale the son <add
+place="supralinear">of</add> Elizabeth Waugh <lb/>
+the relict of <note n="WW">William Waugh</note> also the lands I
+have lately <lb/>
+agreed for with <note target="n18">Simon Sallard</note> and Blanch
+his wife <lb/>
+for the executing deeds for the same I have Sallards bond <lb/>
+which deeds in case of my death before exempted it is <lb/>
+my will shall be past to my said son Charles and the <lb/>
+heirs male issue of his Body lawfully begotten.</p>
+<p>I give these lands plantations houses slaves appurtenances  <lb/>
+and estate I give unto my said son Charles and the  <lb/>
+heirs male of his Body lawfully begotten and if my son <lb/>
+Charles <sic corr="die">dye</sic> without issue male then my will is
+that <lb/>
+these lands plantations houses slaves and appurtenances and <lb/>
+estates given unto my said son Charles do go to my son Robert <lb/>
+&amp; the heirs male issue of his Body lawfully begotten and if my
+son <lb/>
+Robert <sic corr="die">dye</sic> without issue male then my will is
+that these lands plantations <lb/>
+houses slaves <abbr expan="appurtenances">appurts</abbr>	&amp;
+estates given unto my son Charles do <lb/>
+go to my son John and the heirs male issue of his Body lawfully
+begotten <lb/>  <lb/>
+
+<pb n="page (9)"/><lb/><lb/>
+
+And if my son John <sic corr="die">dye</sic> without issue male then
+my will is <lb/>
+that these lands plantations houses <add place="supralinear">slaves
+</add> appurtenances and estates <lb/>
+given unto my son Charles do go to my son Landon <lb/>
+and the heirs male issue of his Body lawfully begotten <lb/>
+and if my son Landen <add resp="editor"> [<hi
+rend="italics">sic</hi>]</add> <sic corr="die">dye</sic> without
+issue male then my <lb/>
+will is that these Lands plantations houses slaves <lb/>
+appurtenances and estate given unto my son Charles do go <lb/>
+to my son George and the heirs male issue of his Body <lb/>
+lawfully begotten and if my son George <sic corr="die">dye</sic>
+with-  <lb/>
+-out issue male then my will is that these lands <lb/>
+houses slaves appurtenances &amp; estates given unto my son <lb/>
+Charles do go to my right heirs forever.</p>
+<p>My will is that the respective stocks of Cattle horses <lb/>
+sheep and hoggs that are upon my several plantations,  <lb/>
+shall go to such of my sons as the Lands are given to according <lb/>
+to my aforesaid will and to be and be continued as an <lb/>
+appurtenace to the several plantations to which they belong.
+&mdash;</p>
+
+<p>My will is that all my lands slaves stocks of cattle &amp; hoggs
+<lb/>
+houses plantations and appurtenances to the said lands and real <lb/>
+estate belonging, lying upon <note n="MH">merchants hundred</note>
+in James river <lb/>
+beheld <add resp="editor"> [<hi rend="italics">sic</hi>]</add> &amp;
+enjoyed by my Daughter <note n="ECB">Elizabeth</note> formerly the
+relict <lb/>
+of <abbr expan="Nathaniel">Nathl.</abbr> Burwell <abbr
+expan="Gentleman">Gen.</abbr> <abbr expan="deceased">decd</abbr> and
+now the wife of Doctor George <lb/>
+Nicholas for and during the time of her natural life and the <lb/>
+profits of the <abbr expan="said">sd.</abbr> estate to belong to her
+and after her <lb/>
+decease my will is that these lands houses slaves <abbr
+expan="appurtenances">appurts</abbr> <lb/>
+stocks of Cattle &amp; hogs do go to my Grandson Carter Burwell
+&mdash;  <lb/>
+&amp; to the heirs male issue of his Body lawfully begotten, and for
+want <lb/>
+of such unto my Grandson <abbr expan="Robert">Robt.</abbr> Burwell,
+and the heirs <lb/>
+of his Body lawfully begotten and for want of such unto my Grand- 
+<lb/>
+-son Lewis Burwell &amp; to the heirs male issue of his Body
+lawfully begotten <lb/>
+and if my <abbr expan="said">sd.</abbr> Three Grandsons should <sic
+corr="die">dye</sic> without issue male, Then my <lb/>
+will is that these lands slaves, houses, appurtenances stocks of
+Cattle and hogs do go to <lb/>
+my Grandaughter <note target="n19">Elizabeth Burwell</note> and to
+the heirs male issue of her Body, and <lb/>
+if all my <abbr expan="said">sd.</abbr> grandchildren should <sic
+corr="die">dye</sic> without issue male then my <lb/>  <lb/>
+
+<pb n="page (10)"/><lb/><lb/> 
+
+Will is that these lands &amp; estate of <note n="MH">Merchant
+hundred</note> with the <lb/>
+slaves and <abbr expan="appurtenances">appurts</abbr> do go to my
+son John and the heirs male issue  <lb/>
+of his Body and for want of such unto my <add
+place="supralinear">all</add> sons in tail male <lb/>
+with the remainder over according to the disposition I have <lb/>
+already made of the rest of my lands slaves and real estates <lb/>
+in this my will, and my further will is that this estate in all <lb/>
+time to be called &amp; <add place="supralinear">to</add> go by the
+name of Carter Grove provided <lb/>
+<hi rend="underline"><sic corr="always">alwaies</sic></hi> &amp; it
+is my and meaning that the number of slaves <lb/>
+that are now upon the <abbr expan="said">sd.</abbr> plantation shall
+always be kept up <lb/>
+and that the mortalitys shall be still supply'd of the profits <lb/>
+of this estate, and that the number of Cattle and other <lb/>
+stocks shall always be kept up for the use and manure <lb/>
+of the <abbr expan="said">sd.</abbr> plantation to the same number
+they are at my demise <lb/>
+and that the  <add place="supralinear"><abbr expan="said">sd.</abbr>
+plantation</add> be always kept in good repair and that the contin- 
+<lb/>
+-gent charges of the <abbr expan="said">sd.</abbr> estate be born
+out of the profits ;&mdash;</p>
+<p>That whereas I have bought two tracts of Land of <abbr
+expan="Major">Maj.</abbr> <note n="JH">John <lb/>
+Holloway</note> lying in King &amp; Queen County which cost me <lb/>
+seven hundred pounds sterling six negroes of Mr. <note
+target="n20">Augus-  <lb/>
+-tine Moore</note> which cost me <del>[illegible]</del> <add
+place="supralinear">one</add> hundred &amp; twenty <lb/>
+pounds sterling and sundry negroes in number <lb/>
+twelve of Mr John Pratt which cost me one hundred <lb/>
+and eighty pounds ten shillings which <abbr expan="said">sd.</abbr>
+two tracts of <lb/>
+of <add resp="editor"> [<hi rend="italics">sic</hi>]</add> Land
+&amp; negroes are now in the possession of <note n="MP1">Mann
+Page</note> <abbr expan="Esquire">Esqr.</abbr>  <lb/>
+and my daughter <note n="JCP">Judith Page</note> his wife and no
+settlement <lb/>
+thereof made and having also given orders to the said Mann <lb/>
+Page to lay out a Debt due from him to me upon an ac-  <lb/>
+-count amounting to one hundred and six pounds <lb/>
+Eighteen shillings and two pence in slaves for a <lb/>
+further settlement upon the afore<abbr expan="said">sd.</abbr> Lands
+I do <lb/>
+therefore give and devise the <abbr expan="said">sd.</abbr> Lands
+&amp; slaves <lb/>
+that shall be bought with the <abbr expan="said">sd.</abbr> money
+unto my <lb/>
+said daughter Judith Page for and during the <lb/>  <lb/>
+
+<pb n="page (11)"/><lb/><lb/>
+
+Term of her natural life and the profit of the said land and <lb/>
+slaves and after the decease of my said daughter Judith Page <lb/>
+the said land &amp; slaves do go to my Grandson <note
+target="n21">Carter Page</note> &amp; to the <lb/>
+heirs male issue of his Body lawfully begotten and for want <lb/>
+of such to my Grandson <note target="n22">John Page</note> and to
+the heirs male issue of  <lb/>
+his Body lawfully begotten and for want of such to my <lb/>
+grandson <note target="n23">Mann Page</note> and to the the heirs
+male issue of his  <lb/>
+Body lawfully begotten and if the said Three Grandsons <lb/>
+should <sic corr="die">dye</sic> without issue male then my will is
+that these <lb/>
+lands and slaves &amp; appurtenances  do go to my Daughter Page's
+<lb/>
+issue Female and the heirs of their Bodies lawfully begotten <lb/>
+and in case of failure of heirs of the Body of my daughter <lb/>
+Judith, first by her present husband in whose posterity by my said
+<lb/>
+daughter my design is that this estate be <sic
+corr="fixed">fixt</sic> and for want of issue <lb/>
+by him then upon the issue of her Body by any other husband,  <lb/>
+but if no such issue be, to take this estate according to my intent
+<lb/>
+then it is my will that this estate after the death of my said <lb/>
+daughter's husband Mann Page <abbr expan="Esquire">Esqr.</abbr> who
+is to enjoy the profits of <lb/>
+it during his natural life these lands slaves Houses &amp;
+appurtenances  <lb/>
+do go to my son John and his heirs male and <add
+place="supralinear">so</add> to my other sons in <lb/>
+Tale male with the remainder over <abbr
+expan="according">accordg</abbr> <add resp="editor"> [<hi
+rend="italics">sic</hi>]</add> to the order and dis-  <lb/>
+-position of this my will as afore said and after the entail is <lb/>
+spent to revert And go to my own right heirs and my will <lb/>
+is that this estate be called and go by the name of Carter's Dale
+<lb/>
+in all times to come provided <sic corr="always">alwaies</sic> and
+it is my will and <lb/>
+meaning that the number of slaves that are <add
+place="supralinear">now</add> upon the <add
+place="supralinear">sd</add> plan-  <lb/>
+-tation, shall always be kept up and that the mortalitys shall be
+<lb/>
+still supplied out of the profits of this estate and the number <lb/>
+of Cattle and other stocks shall <hi rend="underline">alwaies</hi>
+be kept up for the <lb/>
+use and manner of the <abbr expan="said">sd.</abbr> plantation to
+the same number <lb/>
+they are at, at my decease and that the said plantation <lb/>
+be always kept in good repair and that the contingent Charges <lb/>
+of the <abbr expan="said">sd.</abbr>  estate be <sic
+corr="bourne">born</sic> out of the profits.</p>
+
+<pb n="page (12)"/><lb/><lb/>
+
+<p>That whereas I have bought a tract of Land of <abbr
+expan="Major">Maj:</abbr> Thomas <lb/>
+Randolph in henrico County with the <abbr
+expan="appurtenances">appurts</abbr> &amp; stocks <lb/>
+thereon which cost me two hundred and fifty pounds ster-  <lb/>
+-ling and another Tract of Lands in Surry County of Mr. Wil-  <lb/>
+-liam Macon and <add resp="editor">[gap in text]</add> his Wife
+which <lb/>
+cost me five hundred and sixty pounds sterling and also <lb/>
+Ten negroes which I bought of Mr Augustin More which cost <lb/>
+me Two hundred pounds sterling and three negroes more of <lb/>
+the said More which cost me sixty six pounds sterling all <lb/>
+which lands and negroes being now in the possession of Maj.  <lb/>
+<abbr expan="Benjamin">Benja.</abbr> Harrison &amp; my Daughter Anne
+his wife it is my will <lb/>
+&amp; so I do give and bequeath all these lands &amp; the said
+slaves and <lb/>
+stocks that now are and shall be upon the said lands of my <lb/>
+purchase unto my said Daughter Anne for and during <lb/>
+her natural life and to her second son to be christened Carter,  <lb/>
+and to the heirs male issue of his Body and for want of such to a
+<lb/>
+third son and to a the heirs male issue of his Body and for want <lb/>
+of such to the eldest son of my Daughter Anne and to the <lb/>
+heirs male issue of his Body and for want of <del>such</del> issue
+male <lb/>
+of my Daughter Anne's body to her my said Daughter's heirs <lb/>
+female and for want of issue male &amp; female of my said <lb/>
+Daughter these lands and slave to go to my son Robert and <lb/>
+to heirs male issue of his Body and for want of such to  <lb/>
+my son Charles and the heirs male issue of his Body and <lb/>
+for want of such to my son Landon and the the heirs male issue <lb/>
+of his Body and for want of such to <del>revert to</del> my son
+George <lb/>
+and the heirs male issue of his Body and for want of such <lb/>
+to revert to my right heirs forever provided always &amp; it is my
+<lb/>
+will that the number of slaves that I have now bought for the <lb/>
+settlement as aforesaid be made up by executors to the <lb/>
+number of Twenty five workers within three years after my de-  <lb/>
+-cease provided always and it is my will &amp; meaning that the <lb/>
+number of slaves that are now upon the said plantations or that
+shall be placed <lb/>
+there according to the intent of this my will shall always be kept
+up and that the <lb/>  <lb/>
+
+<pb n="page (13)"/><lb/><lb/>
+
+mortalitys shall be still supplied out of the profits of this estate
+<lb/>
+and the number of Cattle &amp; other stocks shall always be kept up
+for <lb/>
+the use and manner of the said plantations to the same number <lb/>
+they are at <add place="supralinear">at</add> my decease, and the
+said plantations be always <lb/>
+kept in good repair and the contingent Charges of the <lb/>
+said estate be <sic corr="bourne">born</sic> out of the profits.</p>
+<p>And it is my further will that if my said Daughter Anne be <lb/>
+living at the time of my decease there be five hundred <lb/>
+pounds sterling paid to her by my executors three years after my <lb/>
+decease And I do also given unto my said daughter Anne <lb/>
+forty pounds sterling to be in lieu &amp; satisfaction for her <lb/>
+claim to my negro wench Martha being unwilling she <lb/>
+shall be parted from her husband, The said forty pounds <lb/>
+to be laid out in negroes to be <note target="n32"><sic
+corr="entailed">intailed</sic></note> upon her my said <lb/>
+Daughter Anne &amp; upon her daughter <note
+target="n23">Betty.</note></p>
+<p>It is my will then when my Daughter Anne's Daughter Betty <lb/>
+shall arrive to the age of Twenty one years or to be Married there
+<lb/>
+shall be paid to her the <sic corr="sum">sume</sic> of five hundred
+pounds sterling <lb/>
+by my executors and that when my said daughter Anne's Daugh-  <lb/>
+-ter <note target="n24">Anne</note> shall arrive at the age of
+Twenty one years or to be <lb/>
+married there shall be paid to her the <hi rend="underline"> </hi>
+of five hundred  <lb/>
+pounds sterling by my executors and in case of the death of  <lb/>
+either of my said Grandaughters the whole ten hundred pounds <lb/>
+to be paid to the survivor when she arrives at the age of Twen-  <lb/>
+-ty one years or is married and if both of my <abbr
+expan="said">sd.</abbr>  Grandchild-  <lb/>
+-dren should <sic corr="die">dye</sic> before they arrive at such
+ages or marriage <lb/>
+then the said ten hundred pounds to be paid to such other son <lb/>
+or Daughter as shall be born of the body of my said Daughter <lb/>
+Anne when he or she shal <add resp="editor"> [<hi
+rend="italics">sic</hi>]</add> arrive at the age of twenty <lb/>
+one years or marriage. My will is that if my Daughter <note
+n="MCB">Mary</note> shall <lb/>
+live to the age of twenty one years unmarried or if she should <lb/>
+marry before with the consent and approbation of <abbr
+expan="Colonel">Col:</abbr> Mann Page <abbr
+expan="Major">Majr.</abbr>  <lb/>
+<note n="BH1">Benjamin Harrison</note> my son John &amp; her
+brothers Robert &amp; Charles or the major <lb/>
+part of them or the survivors of them that then there be paid to her
+by my <lb/>
+<abbr expan="executors''">extors</abbr> the <sic
+corr="sum">sume</sic> of two thousand pounds sterling to be paid in
+manner following (that is to say)  <lb/>  <lb/>
+
+
+<pb n="page (14)"/><lb/><lb/>
+
+at three yearly equal successive payments the first payment to be
+made <lb/>
+in eight months after my said Daughter's marriage with consent <lb/>
+as aforesaid or her coming to the age of twenty one, And my will <lb/>
+is that my said Daughter Mary have a genteel maintenance <lb/>
+out of my estate until she arrive at such age or marriage <lb/>
+and that she live with her sister <note n="JCP">Page </note>or her
+sister <note n="ACH">Har-  <lb/>
+-rison</note> as they shall agree to be best and <sic corr="most
+proper">properest</sic> for her <lb/>
+I also give to my said Daughter Mary thirty five pounds <lb/>
+sterling to be paid to my son John to be in lieu and sa-  <lb/>
+-tisfaction for her claim to my Mulatto Girl Molly and <lb/>
+her child <del>being</del> being unwilling she should be parted <lb/>
+from her husband also the spinning Girl phillis <lb/>
+and the Girl Nanny which she already calls hers to <lb/>
+her the said Mary, and to the heirs of her Body and <lb/>
+if she dies without such heirs unto my daughter Harri-  <lb/>
+-son, and the heirs of her Body forever. And I do order my <lb/>
+executors to send for, for my said Daughter Mary a gold <lb/>
+watch of thirty pounds price, and a pearl necklace of <lb/>
+twenty five pounds price when she arrives at sixteen <lb/>
+years of age, and it is my further will that if my said <lb/>
+Daughter Mary shall marry before she attains to the age <lb/>
+of twenty one years without the consent and approbation <lb/>
+of her brothers as aforesaid or the major part of the sur-  <lb/>
+-vivors of them that in such case I do revoke &amp; make <lb/>
+void all the aforesaid Legacies &amp; then order my executors to <lb/>
+pay to her my said Daughter Mary the <sic corr="sum">sume</sic> of
+Five hun-  <lb/>
+-dred pounds sterling and no more.</p>
+<p>My will is that if my Daughter <note n="LCF">Lucy</note> shall
+live to the age of twenty one years <lb/>
+unmarried or if she shall marry before with the consent and
+approbation of <lb/>
+<abbr expan="Colonel">Col.</abbr> Mann Page, <abbr
+expan="Major">Majr.</abbr>. <abbr expan="Benjamin">Benja.</abbr>
+Harrison my son John and her brothers Robert <lb/>
+and Charles that then there be paid to her by my Executors the <sic
+corr="sum">sume</sic> of eight-  <lb/>
+-een hundred pounds sterling to be paid in manner following (that is
+to <lb/>
+say) at three yearly equal successive payments the first payment to
+<lb/>
+be made in eight months after my said daughter's marriage with
+consent <lb/>
+as aforesaid, or her coming to the age of twenty one years and my
+<lb/>  <lb/>
+
+<pb n="page (15)"/><lb/><lb/>
+
+Will is that my said Daughter Lucy have a genteel maintenance <lb/>
+out of my estate until she arrive at such age or marriage, and <lb/>
+that she live with her sister Page, or her sister Harrison as <lb/>
+as they shall agree to be best and properest for her, I also give
+<lb/>
+unto my said daughter Lucy, the Madagascar Girl Belinda <lb/>
+and her child and Nausau's Girl Bridgett, and Toby's <add
+place="supralinear">Girl</add> Pricilla,  <lb/>
+to her the said Lucy, and the heirs of her Body and if she <sic
+corr="die">dye</sic> <lb/>
+without heirs of her Body unto my son Robert and the heirs of <lb/>
+his Body forever. And I do order my executors to send for, for my
+<lb/>
+said Daughter Lucy a gold watch of thirty pounds price, <lb/>
+and a pearl necklace of twenty five pounds price when she arrives 
+<lb/>
+at sixteen years of age. And it is my further will that <add
+place="supralinear">if</add> my said <lb/>
+Daughter Lucy shall marry before she attains to the age <lb/>
+of twenty one years without the consent and approba-  <lb/>
+-tion of her brothers as aforesaid, or the major part of the sur- 
+<lb/>
+-vivors of them that in such case I <sic corr="revoke">revoak</sic>
+&amp; make <lb/>
+void all the aforesaid Legacys and then order my executors to  <lb/>
+pay to her my said Daughter Lucy the <sic corr="sum">sume</sic> of
+five <lb/>
+hundred pounds sterling and no more.&mdash; </p> 
+
+<p>My will is that if either of my two youngest daughters <lb/>
+<del>dye</del> <sic corr="die">dye</sic> before she comes of age or
+is married <add place="supralinear">so that</add> she doth not  <lb/>
+come to enjoy the Legacies designed by this said will then <lb/>
+my will is there be paid by my executors to each of my sur-  <lb/>
+-viving daughters the <sic corr="sum">sume</sic> of two hundred
+pounds sterling <lb/>
+and if the other of my two youngest Daughters <sic
+corr="die">dye</sic> before <lb/>
+she come to enjoy the Legacies designed her by this will <lb/>
+then two hundred pounds more a peice to my surviving <lb/>
+Daughters, and in case of the death of my surviving daugh-  <lb/>
+-ters or either of them leaving Child or children <add
+place="supralinear">such child or children</add> to enjoy <lb/>
+the mothers part And Whereas I have in <sic
+corr="England">england</sic> in <note n="MP2">Mr.  <lb/>
+Perry's</note> &amp; <note n="WD">Mr. Dawkin's</note> hands Four
+thousand two hundred &amp; fifty pounds <lb/>
+Capitol Bank stock &amp; in Mr. Perry's hands a bank annuity of
+fifteen hun-  <lb/>
+-dred pounds and whereas I have sundry valuable debts due unto me in
+<lb/>
+Virginia upon Mortgage bonds &amp; Interest it is my will <add
+place="supralinear">that</add> these Bank Stocks and this Bank <lb/> 
+<lb/>
+
+<pb n="page (16)"/><lb/><lb/>
+
+annuity shall be kept upon the same foot they now are and also two
+<lb/>
+thousand pounds of my best debts, that are now out upon mortgage
+Bond and <lb/>
+interest as aforesaid still as the money shall be paid into my <abbr
+expan="executors''"><abbr expan="executors">extors</abbr></abbr> <lb/>
+hands shall be let out again unto me or more substantial person or
+<lb/>
+persons in Virginia with good security according to the discretion
+<lb/>
+of my executors upon mortgage or Bonds at interest &amp; so to be
+contin<add resp="editor"> [u]</add>-  <lb/>
+-ed at interest until my son George shall arrive at the age of
+twenty one <lb/>
+years, and that the interest for the first two years after my death
+to be <lb/>
+raised out of these bank stocks the bank annuity and the said  of
+<lb/>
+two thousand <add place="supralinear">pounds</add> shall go to my
+three elders son my executors &amp; shall <lb/>
+contribute to the payment of my Legacies the discharging the <lb/>
+incumbrances of this my will &amp; to the maintenance &amp; educat- 
+<lb/> 
+-tion of my Children <add place="supralinear">in</add> Britain and
+Virginia. </p> 
+
+<p>It is my will that when my son Landon shall arrive at the age <lb/>
+of twenty one years there shall then be paid to him &amp; delivered
+<lb/>
+by my executors one moiety or half part of my said Capitol Bank <lb/>
+stocks &amp; one moiety of my said Bank annuity and one moiety <lb/>
+or half part of the said two thousand pounds to be kept out at <lb/>
+interest as aforesaid and likewise one half part or moiety of <lb/>
+the interest that shall arise from the said Bank stocks <lb/>
+Bank Annuity and the <abbr expan="said">sd.</abbr> two thousand
+pounds after the afore-  <lb/>
+-said two years shall be run out &amp; expired.</p>
+<p>It is my will that when my son George shall arrive at the <lb/>
+age of one and twenty years the other moity <add resp="editor"> [<hi
+rend="italics">sic</hi>]</add> or half part <lb/>
+of my said Capitol Bank stocks the other moiety or  <lb/>
+half part of my said Bank annuity, and the other <lb/>
+moiety of half part of my <add place="supralinear">said</add> two
+thousand pounds ordered <lb/>
+to be placed out at interest as aforesaid together <lb/>
+with the interest that shall arise out of <del>out of</del>  <lb/>
+the said moiety of the said Capitol Bank stocks <lb/>
+<del>and</del> <add place="supralinear">&amp; </add> of the said
+Bank annuity and of the said<lb/>two thousand pounds after the <abbr
+expan="said">sd.</abbr>  two years <lb/>  <lb/>
+
+<pb n="page (17)"/><lb/><lb/>
+
+are expired and run out as aforesaid, shall be paid delivered and
+<lb/>
+assigned over to my executors or the survivors of them unto my said
+<lb/>
+son George.</p>
+<p>It is my will that if my son Landon <sic corr="die">dye</sic>
+before he arrives at the <lb/>
+age of one &amp; twenty years, so that according to the intent of
+this my will,  <lb/>
+he my son Landon will have no right to these Legacys designed him
+<lb/>
+when <add place="supralinear">he</add> comes to the age of one &amp;
+twenty years &amp; not before, that then <lb/>
+that moiety or half part of my said Capitol Bank stocks of <lb/>
+my said Bank annuity and of my said two thousand <lb/>
+pounds together with the interest that shall arise therefrom,  <lb/>
+after the expiration of the aforesaid two years (ordered to be <lb/>
+paid to my said son Landon by my said executors when he comes <lb/>
+to the age of one and twenty years) shall be also paid to my <lb/>
+son George when he shall arrive to the age of one &amp; twenty <lb/>
+years &amp; not before or otherwise.</p>
+<p>My will is that if my son George do <sic corr="die">dye</sic>
+before he arrives at the <lb/>
+age of one &amp; twenty years, so that the moiety or half part of my
+<lb/>
+said Capitol Bank Stock, the moiety of my said Bank Annuity <lb/>
+and the moiety or half of the said two thousand pounds with the <lb/>
+interest arrising therefrom as aforesaid after the said two <lb/>
+years are expired, ordered to be paid <del>to be paid</del> to my
+son George <lb/>
+when he comes to the age of one &amp; twenty years as aforesaid he
+my <lb/>
+said son George will have no right to, according to the intent <lb/>
+of this my will that then that moiety or half part of my said <lb/>
+Capitol Bank Stocks of said Bank Annuity and of my said two <lb/>
+thousand pounds together with the interest that shall arrise <add
+resp="editor"> [<hi rend="italics">sic</hi>]</add><lb/>
+therefrom after the expiration of the aforesaid two years <lb/>
+(ordered to be paid by my <add place="supralinear">said</add>
+executors to my said son George when <lb/>
+he comes to the age of one &amp; twenty years) shall be also paid
+&amp; assign-  <lb/>
+-ed over by my executors or the survivours of them unto my son
+Landon <lb/>
+when he shall arrive to the age of one &amp; twenty years
+<del>years</del> &amp;  <lb/>
+not before or otherwise.</p>
+
+<p>Whereas that if my said sons Landon &amp; George <sic
+corr="die">dye</sic> before they arrive at their <lb/>
+respective Ages of one &amp; twenty years so that in such case my
+said Bank <lb/>  <lb/>
+
+
+<pb n="page (18)"/><lb/><lb/>
+
+stocks my said Bank annuity &amp; my said two thousand pounds with
+<lb/>
+the Interest arising therefrom as aforesaid according to the <lb/>
+intent of this my Will will go and belong unto my three elder <lb/>
+<add resp="editor"> [sons]</add> John Robert &amp; Charles my <abbr
+expan="executors">extors</abbr> &amp; to the survivor or
+survivors<lb/>
+of them it is in such case my will that when this <lb/>
+contingency does happen if any of my three elder sons <lb/>
+should be dead John, Robert or Charles having legitimate <lb/>
+child or Children then alive that then such Child <lb/>
+or Children have and e <add resp="editor"> [n]</add>joy his or their
+Father's part <lb/>
+But it is my further Will that if my said three elder <lb/>
+sons or their Children as aforesaid come to have <lb/>
+and enjoy my aforesaid Bank stocks my aforesaid <lb/>
+Bank Annuity &amp; my aforesaid two thousand pounds <lb/>
+according to the intent of my will It shall be <lb/>
+upon this condition that they my three elder sons,  <lb/>
+John, Robert &amp; Charles &amp; the executors &amp; administrators
+of my said <lb/>
+Sons, if either of my said sons should <sic corr="die">dye</sic>
+before <del>be</del>  <lb/>
+<del>fore</del> the time shall be answerable for &amp; make <sic
+corr="payment">paiment</sic> <lb/>
+of the <sic corr="sum">sume</sic> of Four hundred pounds sterling to
+each <lb/>
+of my daughters that shall be then alive and if any <lb/>
+of my daughters should <sic corr="die">dye</sic> leaving Child or
+Children <lb/>
+the said Four hundred pounds designed for the Mother <lb/>
+shall be paid to such Child or Children and this will <lb/>
+be but an <sic corr="easy burden">easie burthen</sic> upon my said
+three Elder Sons <lb/>
+when this large addition comes to their estates provided al-  <lb/>
+<sic corr="-ways">-waies</sic> &amp; it is my will &amp; intent that
+my executors my sons <lb/>
+John, Robert &amp; Charles or the survivors of them or the major <lb/>
+part of them with the consent and approbation of my trustees and <lb/>
+more especially with the consent of Mann Page Esq.. if he shall be
+then <lb/>
+alive taking all prudent care for the security of these estates
+these Bank Stocks <lb/>
+this Bank annuity &amp; this two thousand pounds and the interest
+thereof <lb/>
+as aforesaid if any loss or lasses <add resp="editor"> [<hi
+rend="italics">sic</hi>]</add> do happen in any of these estates my
+<abbr expan="executors">extors</abbr> <lb/>
+shall not be answerable for any such loss or losses out of their own
+Estates.</p><lb/>
+
+
+<pb n="page (19)"/><lb/><lb/>
+
+<p>I give unto my son Landon, and to the heirs of his body &amp; for
+want of such <lb/>
+issue unto my son George and the heirs of his body forever Smith
+Robins <lb/>
+Girl Joan &amp; Nausaus two eldest Children (Bridget which was given
+<lb/>
+away before excepted) and my will is that Landon be kept <lb/>
+at school in his Education until he is seventeen years of age <lb/>
+&amp; then be disposed of in such <add place="supralinear">a</add>
+manner as my executors his brothers <lb/>
+shall judge most condusive to his future well being.  </p>
+
+<p>I give unto my son George and to the heirs of his body &amp; for
+<lb/>
+want of such issue unto my son Landon &amp; the heirs of his body
+<lb/>
+forever my Negroe Boy Scipio &amp; the mulatto boy Talbert &amp; the
+<lb/>
+girl Mary that is now in for a share at the old house &amp; her <lb/>
+Children &amp; increase and it is my will that my son George be <lb/>
+kept in Virginia &amp; that he be educated at the College of Wil- 
+<lb/>
+-liam and Mary so long as my sons his brothers shall think <lb/>
+fit to continue him there and then to be disposed of <add
+resp="editor"> [in]</add>  such <lb/>
+manner as my executors his Brothers shall judge most <lb/>
+conducive to his future well being.&mdash;</p>
+
+<p>I give unto my said two sons Landon &amp; George and to the <lb/>
+heirs male issue of their bodies lawfully begotten all my Estate <lb/>
+both real and Personal in Williamsburg &amp; if both my sons <lb/>
+<sic corr="die">dye</sic> without issue male then to my son John
+&amp; his issue male <lb/>
+And if my son John <sic corr="die">dye</sic> without issue male then
+to my son Robert <lb/>
+&amp; his issue male and if my son Robert <sic corr="die">dye</sic>
+without issue male, then <lb/>
+to my son Charles &amp; his issue male and in case of the Death of
+all sons with-  <lb/>
+-out issue male then to go to my own right heirs forever. And I do
+here-  <lb/>
+-by oblige my <del>my</del> son John to keep the said estate in good
+re-  <lb/>
+-pair out of the profits of the said estate. My will is that the <lb/>
+mortgage I have of Edmund Jennings <abbr
+expan="Esquire">Esqr.</abbr> of <note target="n25">Rippon hall</note>
+in <lb/>
+York County the Ten following negroes be placed upon the said plan- 
+<lb/>
+-tations immediately after my decease (to wit) Tom at the <note
+n="IT">indian <lb/>
+town</note> with his wife &amp; children, Sambo at <note
+n="CF">Changlings</note> with his wife <lb/>
+&amp; child or Children Nick Read's Jos at <note n="CO">Co<add
+resp="editor">[ro]</add>toman</note>  &amp; his wife and Children if
+<lb/>
+any a negroe Man &amp; his wife and Children if any from <note
+target="n26">Clough point</note> a negroe man <lb/>  <lb/>
+
+<pb n="page (20)"/><lb/><lb/>
+
+&amp; his wife &amp; Children if any from old plantation and also
+that there <lb/>
+be bought five more chase <add resp="editor"> [<hi
+rend="italics">sic</hi>]</add> working slaves to be seated &amp;
+settled there-  <lb/>
+-on, for the improvement of the said estate and that the stock of
+Cat-  <lb/>
+-tle thereon be made up at least to sixty head for manuring <lb/>
+the grounds and it is my will and meaning that the profits of these
+<lb/>
+lands and slaves do go and belong to my two sons Landon &amp; George
+<lb/>
+for and until my son George shall arrive to the age of twenty one
+<lb/>
+years and that then it is my will that upon my son George's pay- 
+<lb/>
+-ment of two hundred pounds Sterling to my son Landon that <lb/>
+this estate Lands slaves and stocks, I do will and devise to <lb/>
+my said son George the said mortgage Lands the said slaves <lb/>
+&amp; stocks in the following manner (that is to say) to my son <lb/>
+George &amp; the heirs male issue of his body and for want of such
+<lb/>
+to my son Landon and to the heirs male issue of his Body &amp;  <lb/>
+for want of such to my son John &amp; the heirs male issue of his
+Body <lb/>
+&amp; for want of such to my son Robert &amp; the heirs male issue
+of <lb/>
+his Body &amp; for want of such to my son Charles &amp; the heirs
+male issue of <lb/>
+his Body and for want of such to my own right heirs forever.<add
+resp="editor"> [<hi rend="italics">sic</hi>]</add>  <lb/>
+provided <sic corr="always">alwaies</sic> and it is my will and
+meaning that the num-  <lb/>
+-ber of slaves appointed by this my will shall always be kept <lb/>
+up to the number fifteen workers upon the said Lands <lb/>
+and that the <sic corr="mortalities">mortalitys</sic> <add
+resp="editor"> [<hi rend="italics">sic</hi>]</add> shall still be
+<sic corr="supplied">supplyed</sic> out of <lb/>
+the profits of the said estate until my said son George <lb/>
+comes to the age of twenty one years And it is my will <lb/>
+&amp; meaning that this mortgage of Rippon hall shall be taken <lb/>
+and understood to be in payment of one thousand <add
+place="supralinear">pounds</add> Virgin-  <lb/>
+-ia Debts given to my sons Landon &amp; George And my will <lb/>
+is that the houses upon the said rippon Hall planta-  <lb/>
+-tion be well repaired and kept in good repair <lb/>
+out of the profits of the said estate that is the <lb/>
+repairs to be immediately made by my son John <lb/>
+&amp; he to be repaid out <del>out</del><lb/><lb/>
+
+<pb n="page (21)"/><lb/><lb/>
+
+of the profits of the said estate as they shall arise and my will
+<lb/>
+is that the stock that is in Mr <note n="WD">Wm. Dawkins's
+</note>hands <abbr expan="merchant">Mercht.</abbr>  <lb/>
+in London there be bought into it two hundred &amp; fifty <lb/>
+pounds more than now it is by my executors in three years <lb/>
+after my decease to belong to my said two younger sons <lb/>
+Landon &amp; George in the same manner and under the <lb/>
+same direction that my stocks given to my said two <del>sons</del> 
+<lb/>
+younger sons are directed to be. </p>
+
+<p>It is my will that there be a true full &amp; perfect Inventory
+made <lb/>
+of all my estate as Slaves, Stocks, Goods Chattles moneys Debts
+&amp;  <lb/>
+both in Virginia &amp; Great Brittain <add resp="editor"> [<hi
+rend="italics">sic</hi>]</add>&amp; be recorded in the General <lb/>
+Court &amp; that no valuation or appraisement be made of my <lb/>
+estate &amp; that my <abbr expan="executors">extors</abbr> named and
+appointed in this my <lb/>
+will be not obliged to give security for my estate when they <lb/>
+take probate of my will.</p>
+
+<p>It is my will that the tobacco now to ship &amp; the crops both
+of <lb/>
+corn &amp; Tobo. that shall be made this year shall <add
+resp="editor"> [be]</add> accounted as <lb/>
+part of my estate &amp; shall be <abbr expan="shipped">ship'd</abbr>
+to Great Britain in <lb/>
+such probation as my <abbr expan="executors">extors</abbr> shall
+think <sic corr="fit">fitt</sic> &amp; to the Mer-  <lb/>
+-chants that I at present deal with if <del>if</del> my <add
+resp="editor"> [executors]</add> have no reason <lb/>
+to vary the consignments however leaving them at liberty <lb/>
+to whom to consign, taking care to trust substantial Men <lb/>
+and it is my will that the aforesaid Tobo. be <abbr
+expan="shipped">ship'd</abbr> in the <lb/>
+name of my executors And it is my will that the Crops of all <lb/>
+my slaves both of Tobacco and Corn that shall be made in <lb/>
+the next two succeeding years that is in one thousand seven hun- 
+<lb/>
+-dred &amp; twenty seven &amp; one thousand seven hundred and twenty
+<lb/>
+eight &amp; when my son Charles will come to age shall be <lb/>
+held deemed &amp; taken as my estate &amp; the Crops of Tobacco to
+<lb/>
+be shiped <add resp="editor"> [<hi rend="italics">sic</hi>]</add>in
+the name of my 
+09:49 12/4/2002
+executors as aforesaid and the produce <lb/>
+thereof to be accounted for to my estate for and towards the
+discharge of <lb/>
+my debts Legacies &amp; other incumbrances of this my will provided
+al-  <lb/>
+-ways there be allowed out of the produce of the said two years
+Crops two <lb/>
+hundred pounds sterling a piece per <abbr expan="annum">Ann:</abbr>
+to each of my three eldest sons for their <lb/>  <lb/>
+
+<pb n="page (22)"/><lb/><lb/>
+
+maintenance likewise that the family have suitable <sic
+corr="supplies">supplys</sic> for their <lb/>
+maintenance for the said two years &amp; the contingent charges of
+the <lb/>
+said estate to be <sic corr="bourne">born</sic> &amp; that my
+younger Children also have <lb/>
+a <sic corr="decent">descent</sic> maintenance and it is my will
+that the money <lb/>
+that is and shall be raised in Britain by the profits of my <lb/>
+plantations or by any other <sic corr="ways">waies</sic> than what
+will answer <lb/>
+my Debts Legacies Bequests &amp; orders made in this my will <lb/>
+be divided into three equal parts my two younger sons <lb/>
+Robert and Charles to have a thousand pounds more <lb/>
+apiece than my son John towards building &amp; Settling their <lb/>
+plantations And whereas several of my legacies are made <lb/>
+payable at some distance of time &amp; some of them upon <lb/>
+such Contingencies which perhaps may never happen It <lb/>
+is my will that upon the division of the money that shall <lb/>
+belong to my estate as aforesaid that my three elder sons <lb/>
+&amp;  <abbr expan="executors">extors</abbr> enter into reciprocal
+Bonds to one and the other <lb/>
+to be answerable in proportion for the respective Legacies <lb/>
+and bequests in this my Will when they shall become due &amp;
+payable.&mdash;</p>
+
+<p>It is my will that the charge maintenance &amp; education of <lb/>
+my two youngest sons Landon &amp; George <sic
+corr="according">acording</sic> to the direc-  <lb/>
+-tion &amp; intention of this my will shall be equally <sic
+corr="bourne">born</sic> <lb/>
+by my three eldest sons John Robert &amp; Charles, out of <lb/>
+the profits of their estate, during their minority.</p>
+
+<p>It is my will that if my <note n="JCP">daughter Page</note> shall
+be alive on <lb/>
+the Tenth day of May In the year seventeen hundred and <lb/>
+twenty nine that then there be paid to her my said Daughter <lb/>
+Page the sume of three hundred pounds sterling by my <lb/>
+three eldest sons my <abbr expan="executors">extors</abbr> out of
+the estates &amp; profits there-  <lb/>
+-of I have given them And it is my further Will that my <lb/>
+<abbr expan="executors">extors</abbr> shall pay to my Grandson Mann
+Page when he <lb/>
+arrives to the age of twenty one years the <sic
+corr="sum">sume</sic> of <lb/>
+three hundred pounds Sterling and it is my further Will <lb/>  <lb/>
+
+<pb n="page (23)"/><lb/><lb/>
+
+that my executors shall pay to my Grandson Carter Page when he <lb/>
+arrives at the age of Twenty one years the <sic
+corr="sum">sume</sic> of three hundred <lb/>
+pounds sterling and my further Will is that my Executors <lb/>
+shall pay to my Grandson John Page when he arrives at <lb/>
+the age of twenty one years the <sic corr="sum">sume</sic> of three
+hundred <lb/>
+pounds Sterling And my Will is that if one of my said <lb/>
+grandsons should <sic corr="die">dye</sic> before he comes to said
+age of Twenty <lb/>
+one years the whole nine hundred pounds shall be paid <lb/>
+to the two surviving Brothers when they arrive at the said <lb/>
+age of twenty one years And if two of my said Grandsons <lb/>
+should <sic corr="die">dye</sic> before they arrive to their
+respective ages <lb/>
+of twenty one years then the nine hundred pounds shall <lb/>
+be paid to the last surviving Brother when he shall  <lb/>
+arrive at the age of twenty one years.  </p>
+
+<p>It is my further will that if the large brick house now building
+by <lb/>
+<note n="MP1"><abbr expan="Colonel">Colo.</abbr> Page</note> in the
+room of the house that was unfortunately con-  <lb/>
+-sumed by fire shall be <sic corr="finished">finisht.</sic> and
+completed during <lb/>
+the life time of my said Daughter Page so that she shall <lb/>
+come to enjoy it &amp; to have her Tithe of Dower in it then it <lb/>
+is my Will and I do lay it as a charge upon my three eldest <lb/>
+sons John Robert and Charles my executors out of the profits of <lb/>
+the estates I have hereby given to them the <sic
+corr="sum">sume</sic> of one<lb/>
+hundred pounds one hundred pounds <add resp="editor"> [<hi
+rend="italics">sic</hi>]</add> apiece to be paid <lb/>
+to my son in Law Mann Page <abbr expan="Esquire">Esqr.</abbr> if he
+be then alive,<lb/>
+or else to my Daughter his now Wife towards furnishing <lb/>
+the said house. It is my Will that if <add resp="editor"> [my]</add>
+<note n="ECB">Daughter Elizabeth</note> <lb/>
+the wife of Doctor <abbr expan="George">Geo</abbr> Nicholas shall be
+alive on the <lb/>
+tenth day of May seventeen hundred and twenty nine <lb/>
+that then there be paid to my said Daughter Elizabeth the  <sic
+corr="sum">sume</sic><lb/>
+of three hundred pounds sterling by my Executors And I do also <lb/>
+give to my said Daughter a pair of Diamond Ear rings to cost <lb/>
+fifty pounds sterling, to be bought by such person as she shall <lb/>
+desire the money to be paid by <add resp="editor"> [my]</add>
+Executors And it is my Will that<lb/><lb/>
+
+<pb n="page (24)"/><lb/><lb/>
+
+when her eldest Son she hath by her <add
+place="supralinear">said</add> husband shall come to the age <lb/>
+of Twenty one years that there shall be paid to him by my <lb/>
+<abbr expan="executors">extors</abbr> one hundred pounds Sterling
+and when her youngest <lb/>
+son she hath by her said husband shall come to the age <lb/>
+of twenty one years that there shall be paid to him by my <lb/>
+<abbr expan="executors">extors</abbr> one hundred pounds sterling
+and if either of them <lb/>
+<sic corr="die">dye</sic> the whole  to be paid to the Survivor. </p>
+
+<p>It is my Will then <add resp="editor"> [<hi
+rend="italics">sic</hi>]</add> when my Grandson Lewis Burwell arrives
+<lb/>
+to the age of twenty five <add resp="editor"> [<hi
+rend="italics">sic</hi>]</add> years there shall be paid to him by
+<lb/>
+my Executors the <sic corr="sum">sume</sic> of three hundred pounds
+Sterling and <lb/>
+it is also my Will that my Executors shall pay to my Grandson <lb/>
+Carter Burwell when he arrives at the age of twenty one <lb/>
+years the <sic corr="sum">sume</sic> of three hundred pounds
+Sterling and it is <lb/>
+also my Will that my Executors shall pay to my Grandson <lb/>
+<abbr expan="Robert">Robt.</abbr> Burwell when he arrives to the age
+of twenty one <lb/>
+years the <sic corr="sum">sume</sic> of three hundred pounds
+Sterling and it <lb/>
+is my Will that if either of my three Grandsons should <sic
+corr="die">dye</sic> <lb/>
+before they come to the aforesaid ages in this my Will that <lb/>
+the whole nine hundred pounds shall be paid to <lb/>
+the two surviving Brothers when they arrive to their respec-  <lb/>
+-tive ages by this my Will And if two of my said Grandsons <lb/>
+should <sic corr="die">dye</sic> before they come to the ages
+aforesaid then the <lb/>
+said nine hundred pounds shall be paid to the last <lb/>
+surviving Brother when he comes to the age aforesaid in <lb/>
+this my said Will And it is my Will that there shall be <lb/>
+paid by my Executors to my Grandaughter Elizabeth Burwell <lb/>
+the sum of three hundred pounds Sterling when she shall <lb/>
+arrive at the age of twenty one years.&mdash;&mdash;</p>
+
+<p>I give unto my son John all my furniture in the new <lb/>
+house and half of the rest of the Furniture in my Kitchen &amp;
+other <lb/>
+houses about my mansion Dwelling the other half of my Furniture <lb/>
+I do give unto my sons Robert &amp; Charles to be <lb/>
+valued by four of the most substantial of my neighbours <lb/><lb/>
+
+<pb n="page (25)"/><lb/><lb/>
+
+and my son John to pay for them to my said Sons Robert &amp; Charles
+ac-  <lb/>
+-cording to the valuation unless it be the desire of my sons <lb/>
+Robert &amp; Charles to have them in kind.</p>
+
+<p>My Will is that my plate both old &amp; new be equally divided be-
+ <lb/>
+-tween my three elder Sons John Robert &amp; Charles my books to <lb/>
+be divided into four parts, my son John to have two parts <lb/>
+of them my sons Robert &amp; Charles to have the other two parts <lb/>
+my pictures each Child to have his own picture my son <add
+resp="editor"> [John]</add><lb/>
+to have my first picture and his mothers also my gold watch <lb/>
+and diamond ring my Son Robert to have my other picture &amp; his
+<lb/>
+mothers picture &amp; one half of my other rings &amp; watches my
+son Charles <lb/>
+to have the other half my sons Robert and Charles to have each of
+<lb/>
+them a gold watch sent for at the Charge of my estate to cost <lb/>
+to cost <add resp="editor"> [<hi rend="italics">sic</hi>]</add>
+thirty pounds each all my Goods that are coming in for <lb/>
+my <sic corr="families">familys</sic> to be disposed of among the
+<sic corr="families">Familys</sic> for their Sup-  <lb/>
+-ply as they were intended all my new Goods Tools nails <lb/>
+utensils &amp; not already disposed of to belong to my said three
+<lb/>
+sons, John Robert and Charles to be equally divided between them <lb/>
+or appraised and the Value answered to my <add
+place="supralinear">two</add> younger <lb/>
+sons as my Executors shall agree</p>
+
+<p>My Will is that thirty mourning rings be sent for to be distri- 
+<lb/>
+-buted by my <abbr expan="executors">extors</abbr> among my friends
+and relations and it <lb/>
+is my will that all the rest of my estate personal or real <lb/>
+not herein disposed of in Virginia or elsewhere do belong &amp; I do
+<lb/>
+give it unto my said three eldest sons John Robert and Charles <lb/>
+and their heirs forever. </p>
+
+<p>It is my Will that in regard those negroes which went from
+Middlesex <lb/>
+are now seated and settled upon my son John's plantation called <lb/>
+<note n="PE">pewmonds End</note> in Essex which slaves
+notwithstanding I have given <lb/>
+unto my son Robert It is my Will and desire that my son John <lb/>
+let my son Robert have other slaves of their Value either new <lb/>
+or old &amp; that after such Change made to the satis-  <lb/>
+faction of both my said sons <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;such<lb/><lb/><pb n="page (26)"/><lb/><lb/>
+such slaves be then deemed &amp; taken to be within the perview <lb/>
+of the intails aforesaid of my respective sons slave &amp; real
+estates.  </p>
+
+<p>I give my wearing apparel &amp; Cloths the best of them and what
+are <lb/>
+coming in for my own wearing &amp; my <sic corr="wigs,">wiggs,</sic>
+swords canes pistols <lb/>
+&amp;<add resp="editor"> [c]</add> to be divided among my three
+elder sons &amp; my other Cloths I <lb/>
+would have given to my good friends <abbr
+expan="Captain">Capt.</abbr> <note target="n28">Thomas Carter
+</note><lb/>
+&amp; Mr John Turbervile.&mdash;&mdash; </p>
+
+<p>I give unto my Son in Law <abbr expan="Colonel">Collo.</abbr>
+Mann Page twenty pounds <lb/>
+Sterling to buy him mourning also <abbr expan="Major">Majr.</abbr>
+<abbr expan="Benjamin">Benja.</abbr> Harrison <lb/>
+Twenty pounds for the same use And to Doctor George Nicholas <lb/>
+Ten pounds for the same use And I do order all my Children <lb/>
+<add place="supralinear">&amp; Grand Children</add> to go into
+decent mourning at the Charge of my estate.  </p>
+
+<p>It is my Will that what selling Goods I have coming in this <lb/>
+shipping when they arrive shall be delivered to <abbr
+expan="Captain">Capt.</abbr> Thomas <lb/>
+Carter to be by him sold &amp; disposed of together with the <lb/>
+Goods already under his care for good tobacco and money <lb/>
+or Bills of exchange to be accounted for as also all the <lb/>
+Tobaccos &amp; Debts due in the said Carters hands upon <lb/>
+the sales of Goods already sold out of the said Store <lb/>
+unto my said three eldest sons equally or the <lb/>
+survivors of them.</p>
+
+<p>It is my Will that my son John have &amp; enjoy the <lb/>
+Lease I have lately taken &amp; am now in possession of <lb/>
+the northern neck from <del>from</del> the proprietors &amp; he to
+<lb/>
+have and receive in his own right the profits of <lb/>
+the same and the management thereof and that my <lb/>
+son John out of his own estate do pay the yearly <lb/>
+rents for the said Lease that I stand engaged for <lb/>
+to the said proprietors, It is my request to my son <lb/>
+John that he release to his brothers Robert &amp;  <lb/>
+Charles the rents of their Lands during the <lb/>
+term of the said Lease.&mdash;<lb/></p>
+
+<pb n="page (27)"/><lb/><lb/>
+
+<p>I do name constitute and appoint my three elder sons John,  <lb/>
+Robert &amp; Charles to be Executors of this my will and to be guar-
+<lb/>
+dians of my younger Children &amp; their estates and I do re-  <lb/>
+quest constitute and appoint &amp; make my honorable &amp; good <lb/>
+friends &amp; relations the aforesaid Mann Page <abbr
+expan="Esquire">Esqr.</abbr> of Gloces-  <lb/>
+-ter County <abbr expan="Major">Majr.</abbr> <abbr
+expan="Benjamin">Benja.</abbr> Harrison of Charles City County <lb/>
+<abbr expan="Major">Majr.</abbr> <note n="GE"><abbr
+expan="George">Geo.</abbr> Eskridge </note>&amp; <abbr
+expan="Captain">Capt.</abbr> <note n="GT"><abbr
+expan="George">Geo.</abbr> Turbervile</note> of We <add
+resp="editor"> [s]</add>moreland <lb/>
+County Mr. <note n="RL">Richard Lee</note> of Northumberland County
+&amp;  <lb/>
+<abbr expan="Captain">Capt.</abbr> Thomas Carter of Lancaster County
+to be Assist-  <lb/>
+-ant to my Executors &amp; to be my trustees to see this my Will <lb/>
+performed &amp; to be consulted and advised with upon all <lb/>
+emergent occasions more especially the said Mann Page <abbr
+expan="Esquire">Esqr.</abbr> </p>
+
+<p>It is my Will and I do ordain that whenever the Vestry of <lb/>
+Christ Church Parish shall undertake to build a <lb/>
+brick Church in the place where the present Church <lb/>
+stands that there be paid out of my estate by my <lb/>
+three elder sons <add place="supralinear"> &amp; </add> Executors
+the sum of two hundred pounds <lb/>
+sterling money one half part of this money is to be paid <lb/>
+out of my son John's estate the other half is to be equal-  <lb/>
+-ly paid by my son Robert &amp; my son Charles out of <lb/>
+their part of my estate this money to remain in my <lb/>
+Executors hands until one half <del>one half</del> of the work is
+<lb/>
+<sic corr="completed">compleated</sic> provided <sic
+corr="always">alwaies</sic> the <hi rend="underline">Chancel</hi> be
+preserved <lb/>
+as a burial place place <add resp="editor"> [<hi
+rend="italics">sic</hi>]</add> for my family as the present <lb/>
+Chancel is, and that there be preserved to my family a <lb/>
+commodious pew in the new Chancel and it is my <lb/>
+further Will that the bricks that are now made &amp; bu<add
+resp="editor"> [r]</add>nt shall be <lb/>
+appropriated to the Building of the said BrickChurch <add
+resp="editor"> [<hi rend="italics">sic</hi>]</add> or as many <lb/>
+thereof as will perfect the building and likewise the bricks that
+<lb/>
+shall be made and be there at my decease and if my Son <lb/>
+John shall have occasion to make use of any of the said <lb/>
+bricks then he be obliged to make &amp; burn as many more for the
+use afore <lb/>
+said. I give twenty pounds Sterling to be laid out in a piece of
+plate for the <lb/>
+use of our Church to be sent for and engraved according <lb/><lb/>
+
+<pb n="page (28)"/><lb/><lb/>
+
+to the direction of my son John.</p>
+
+<p>My Will is that my white servants that are about my house <lb/>
+that are not tradesmen be divided amongst my three sons <lb/>
+John, Robert and Charles &amp; those that are tradesmen to be-  <lb/>
+-long to my said three sons and to be made use of as they <lb/>
+shall agree, in their respective trades and that the white <lb/>
+Servants that are abroad seated upon my plantations <lb/>
+belong to such of my said sons as the plantations are given to.  </p>
+
+<p>I give unto my son John, my Coach and four Coach horses also <lb/>
+my barge &amp; furniture, my own riding horse, my Chariot &amp;<add
+resp="editor">[c.]</add>  my <lb/>
+other two Coach horses my Will is my son Robert shall have <lb/>
+when he removes to live on his own Lands <add resp="editor">
+[.]</add> my two youngest <lb/>
+daughters to have each of them a riding horse &amp; side <lb/>
+saddle provided for them out of my estate and that <lb/>
+my sons Landon &amp; George have found for them Constant-  <lb/>
+-ly a good riding horse &amp; saddle out of my estate until <lb/>
+they come to their respective ages of twenty one years.</p>
+
+<p>My Will is that my son John have four of my best Cart <lb/>
+horses &amp; tht. all the rest of my horses &amp; mares be equally
+di-  <lb/>
+vided between my three sons John Robert &amp; Charles.</p>
+
+<p>Whereas there are sundry debts &amp; ballances due to me from <lb/>
+some of my friends &amp; poor neighbours to whom I have a <lb/>
+mind to be kind I do therefore ordain as followeth &amp;  <lb/>
+give the following directions that Robert Gordon be discharg-  <lb/>
+-ed of his whole debt he paying ten pounds Sterling to my <lb/>
+Executors that <note target="n29">John Hutchins</note> be discharged
+of his whole debt <lb/>
+he paying ten pounds sterling to my Executors. <abbr
+expan="Major">Majr.</abbr>  <lb/>
+<abbr expan="George">Geo.</abbr> Eskridge's Debt upon obligations
+&amp; all other <lb/>
+accounts between us he having lately paid me <lb/>
+a bill of Exchange of seventy pounds it is my <lb/>
+Will that all accounts <lb/>  <lb/>
+
+<pb n="page (29)"/><lb/><lb/>
+
+for his <sic corr="quit">Quitt</sic> Rents &amp; stand ballances
+between us the <lb/>
+debt he has of mine in his hands upon account of sales <lb/>
+of negroes out of the ship <note target="n30"><name
+type="ship">Mercury</name></note> he stands answera-  <lb/>
+-ble for, Mr. <note n="RL"><abbr expan="Richard">Richd.</abbr>
+Lee's</note> obligation I remitt.</p>
+
+<p>Whereas <abbr expan="Captain">Capt.</abbr> Thomas Carter hath
+gone through a series <lb/>
+of Business for me for several years together in selling <lb/>
+<sic corr="diverse">divers</sic> cargoes of Goods and upon other
+accounts of <lb/>
+whose honesty &amp; integrity I have always had a very <lb/>
+good opinion It is my Will that such accounts of my <lb/>
+afairs <add resp="editor"> [<hi rend="italics">sic</hi>]</add> as he
+can make up be received as satisfac-  <lb/>
+-tory from him by my Executors and that he be to no <lb/>
+trouble at law upon my account. </p>
+
+<p>That Whereas in this my Will I have given the lands I <lb/>
+bought of Mr. Robert Cary which cost me above Two thou-  <lb/>
+-sand pounds Sterling to my sons John &amp; Robert it is my <lb/>
+Will that they my said sons John &amp; Robert do pay unto <lb/>
+my estate some time within five years after my <lb/>
+decease each of them the <sic corr="sum">sume</sic> of five hundred
+<lb/>
+pounds out of their own estates to be accounted as <lb/>
+part of my estate to go towards the discharge of <lb/>
+my legacies &amp; incumbrances of this my Will. </p>
+
+<p>Whereas I have paid for my son John several <sic
+corr="sums">sumes</sic> of money <lb/>
+amounting to between twelve &amp; fourteen hundred pounds in <lb/>
+discharge of <abbr expan="Colonel">Colo.</abbr> <note
+target="n31">Edward Hills</note> debts &amp; Legacies for the securi-
+<lb/>
+-ty of the <sic corr="repayment">repaiment</sic> of part of the said
+money my said son John <lb/>
+hath mortgages certain negroes and for the payment of the rest <lb/>
+hath given me Bond and is obliged to pay me Interest for all <lb/>
+the said money until repayment thereof It is my Will that  <lb/>
+in Lieu and satisfaction of this money due to me upon my <lb/>
+said sons mortgage &amp; Bond that he my said son his Executors or
+<lb/>
+administrators shall repay unto my estate the <sic
+corr="sum">sume</sic> of eight hundred pounds <lb/>
+Sterling of the said money to be accounted as part of my estate
+&amp; to go <lb/>
+towards the discharging my Legacys &amp; incumbrances of this <lb/>
+my Will and that my executors my sons <lb/>  <lb/>
+
+<pb n="page (30)"/><lb/><lb/>
+
+Robert &amp; Charles have power to recover this said  <lb/>
+of eight hundred pounds sterling from my said son John his <lb/>
+Executors and <abbr expan="administrators">admors</abbr> under their
+Quality of their being my <abbr expan="executors">extors</abbr>.  </p>
+
+<p>Whereas I have given power to Mr <note n="MP2">Micajah
+Perry</note> of <abbr expan="London">Londo.</abbr>  <lb/>
+Merchant to purchase for me the whole estate of John L.  <lb/>
+Boyd <abbr expan="Esquire">Esqr.</abbr> deceased lying in Richmond
+&amp; Westmoreland <lb/>
+Counties the lands the negroes &amp; the stocks &amp; to give for
+the <lb/>
+same four thousand pounds Sterling Now if the said <lb/>
+Perry should make the said purchase which must <lb/>
+come out of the Estate of my three sons John Robert <lb/>
+and Charles <del> &amp; to be</del> <add place="supralinear">in case
+of my Death it is therefore my will and I do devise the said estate
+in common between my said three</add>  <lb/>
+<add place="supralinear">sons John Robert and Charles </add> &amp; to be
+divided equally between them <lb/>
+as they shall agree upon division each son to hold his <lb/>
+part both of Land &amp; slaves to him &amp; his heirs Male of <lb/>
+his Body lawfully begotten and so to be continued in Tail <lb/>
+Male as the rest of my said respective Sons Lands are to go <lb/>
+(excepting the Lands I bought of Mr Cary) which are under <lb/>
+a diferent <add resp="editor"> [<hi rend="italics">sic</hi>]</add>
+devise in respect of the remainders And where-  <lb/>
+-as the <sic corr="entail">intail</sic> of the lands bought of Mr.
+Cary is carried <lb/>
+<sic corr="down">dound</sic> no further than to the issue male
+<del>of male</del> of my <lb/>
+son Charles my further Will is that in case of failure <lb/>of issue
+male of my <abbr expan="said">sd.</abbr> son Charles that then these
+<lb/>
+lands bought of Mr Cary do go to my son Landon &amp; to <lb/>
+the heirs male issue of his body &amp; for want of such to <lb/>
+my son George &amp; the heirs male issue of his Body &amp; for <lb/>
+want of such to my right heirs forever.</p>
+
+<p>Whereas in the former part of <add place="supralinear">this</add>
+my Will <lb/>
+I have given <add place="supralinear">to</add> my son John Ten
+thousand acres <lb/>
+of Land upon the branches of Occaquan binding <lb/>
+upon the Germans conveyed to me by deed from <lb/>
+<abbr expan="Captain">Capt.</abbr> Geo Turbervile which said tract
+of Land I have <lb/>
+								
+<pb n="page (31)"/><lb/><lb/>
+
+intailed upon my said son John and his male issue <lb/>
+I do now <sic corr="revoke">revoak</sic> that part of my said Will
+and do <lb/>
+give the said tract of Land conveyed to me as <lb/>
+aforesaid unto my son John and his heirs forever <lb/>
+in Fee Simple desiring him to give Two thousand <lb/>
+acres <add place="supralinear">out of the said tract unto my Grand
+son <add resp="editor"> [<hi rend="italics">sic</hi>]</add> Robert
+Burwell and two Thousand</add> unto my Grandson John Page out of such
+<lb/>
+parts of the Land as he my said son John shall <lb/>
+think <sic corr="fit.">fitt.</sic></p>
+
+<p>Whereas I am now in possession of the Negroes &amp; personal <lb/>
+estate of <note target="n33">Thomas Glascock</note> which was
+forfeited to me as <lb/>
+the proprietors Agent upon the conviction of the said <lb/>
+Thomas Glascock for murder these negroes and per-  <lb/>
+-sonal estate I give to my son John &amp; his heirs desiring <lb/>
+him to be kind to the Children of the said Glascock <lb/>
+such of them as he shall think deserves it in some <lb/>
+proportion to the value of the estate as whereas there <lb/>
+is an outlawry prosecuting at the General Court in <lb/>
+order to attaint the said Glasc<add resp="editor">[oc]</add>k  that
+his lands may <lb/>
+be escheated which are also now in my possession my <lb/>
+Will is that if my son John comes to enjoy the said <lb/>
+Glascocks Lands under a good title that then he fur-  <lb/>
+-ther consider the said Glascocks Children in such <lb/>
+proportion as he shall think fitt or otherwise <sic
+corr="gratify">gratifie </sic><lb/>
+them according to his discretion.</p>
+
+<p>That whereas in the second item in the eighth sheet <lb/>
+in this my Will I have directed tht Merchants hundred <lb/>
+plantation with the slaves and Stocks to be held &amp; enjoyed  <lb/>
+by my daughter <note n="ECB">Elizabeth</note> for and during the
+term of <lb/>
+her natural life my intent &amp; meaning is <add
+place="supralinear">that</add> my Stocks <lb/>
+of Cattle &amp; hoggs &amp; other personal Goods belonging to the
+<lb/>
+said plantation be only lent to my said daughter Eli-  <lb/>
+zabeth during her life and no property Vested in <lb/>
+her, and she my said daughter to enjoy the profits of  <lb/>
+
+<pb n="page (32)"/><lb/><lb/>
+
+of the said stocks still keeping up the number that they shall <lb/>
+be at the time of my decease And my Will and meaning is the <lb/>
+same in respect of the other settlements I have made to my <lb/>
+daughter<add resp="editor">[s]</add> Page &amp; Harrison.</p>
+
+<p>It is my will that forty pounds worth of Coarse good be <lb/>
+sent for and to be distributed amongst the poor necessitous <lb/>
+people of the parish I live <add resp="editor">[in]</add> at the
+discretion of my executors.</p>
+
+<p>It is my Will and I do give to Mr. <note n="JB4">John Bell</note>
+our minister <lb/>
+Ten pounds sterling for mourning.</p>
+
+<p>It is my Will and I do give to my several friends my Trustees <lb/>
+in this my <add resp="editor"> [Will]</add> Ten pounds sterling a
+piece as an acknowledge-  <lb/>
+-ment for the trouble they will be at.</p>
+
+<p>I do hereby revoke all other and former Wills &amp; testaments
+heretofore by <lb/>
+me made &amp; do publish utter &amp; declare this to be my last will
+&amp; testament.  <lb/>
+In Witness whereof I have hereunto set my hand &amp; seal this
+twenty <lb/>
+second day of August one thousand seven hundred &amp; twenty six.</p>
+
+<p>NB the words in the Twelfth sheet, of this my Will (or the ma- 
+<lb/>
+-jor part of them or the survivors of them) &amp; the Words (to be
+<lb/>
+paid by my son John) and in the seventeenth sheet the <lb/>
+Words (so long as my sons his Brothers shall think fitt to <lb/>
+continue <add place="supralinear">him</add> there) interlined before
+signed.  <lb/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="bold">Robert Carter</hi> (LS)
+<lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Signed sealed &amp; published in<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;presence of us<lb/><lb/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<note target="n34">John Turbervile</note> <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1726 <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<note
+n="RL"><abbr expan="Richard">Rd.</abbr> Lee </note><lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<note
+target="n35">Thomas Edwards</note> <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<note
+target="n36">John Harvey</note> <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Solomon
+Aashead <add resp="editor"> [<hi rend="italics">sic</hi>]</add> <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I the aforesaid RobertCarter<lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;being of sound mindand<lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;memory.&mdash;&mdash;</p><pb
+n="page (33)"/><lb/><lb/>
+<p><add resp="editor">[First Codicil, 1726 October 1]</add></p>
+
+<p>Twenty Eighth sheet of my Will.  </p>
+
+<p>I do this day make this my further addition &amp; alteration inmy <lb/>
+aforegoing Will dated the twenty second day of August last to make<lb/>
+my son Robert equal to his other Brothers in number of slaves I <lb/>
+do give unto my said son Robert and the heirs male issue of his body<lb/>
+lawfully begotten under the same limitation as the rest of the <lb/>
+negroes are given the following slaves (to Wit) all those slaves Men<lb/>
+Women and Children that I bought and purchased of Mr  John Pratt <lb/>
+which were brought home to my house also the negroe called HarryBacon <lb/>
+and the negroe Boy called Sam both which run away from my <note n="NH2">Nomini</note> <lb/>
+plantation likewise four good Negroes out of these I have given to my son <lb/> 
+Charles two young men &amp; two young women also as many more slaves
+<lb/>
+out of these I have given to my son John half Males &amp; half
+Females not to be  <lb/>
+under the age of twelve years as will make up the number I have
+given to <lb/>
+him my said son Robert one hundred working slaves above the age of
+twelve years.</p>
+
+<p>My will and meaning is that my Negroe Harry one of Georges sons
+<lb/>
+shall be deemed to belong to my son Charles he now <del>he now</del>
+living at <lb/>
+my falls plantation.</p>
+
+<p>Whereas I have ordered <add place="supralinear">a</add> Quarter
+to be seated upon the Land I lately <lb/>
+bought of Mr Cary with Ten or twelve slaves from my Westmoreland <lb/>
+plantations which Quarter will belong to my son John by this my Will
+It <lb/>
+is notwithstanding my Will &amp; intent that these slaves as many of
+them as <lb/>
+shall be seated on the said new plantation at the time of my <lb/>
+Death shall be held and taken to belong to my  said son Roberts <lb/>
+number of slaves</p>
+
+<p>In Witness that this is a part of my will &amp; to be construed
+as <lb/>
+such I have hereunto set my hand and seal this eleventh day <lb/>
+of October one thousand seven hundred and twenty six.;&mdash;  <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	<hi rend="bold">Robert Carter </hi>(L.S.)  <lb/>Signed
+sealed &amp; published in presence <lb/>
+of <note n="RL"><abbr expan="Richard">Rd</abbr> Lee</note> <lb/>
+John Harvey <lb/>
+L Austin
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Twenty ninth sheet of my will.  <lb/>
+Solomon Ashead </p>
+
+<pb n="(34)"/><lb/><lb/>
+<p><add resp="editor">[Second Codicil, 1728 September 12 ]</add></p>
+
+
+<p>In the name of God Amen I Robert Carter <lb/>
+aforesaid since the making of my abovesaid Will consisting of twenty
+<lb/>
+nine sheets of paper having undergone several Changes and altera- 
+<lb/>
+-tions in my circumstances in relation to my temporal Estate <lb/>
+and for as much as by a late Act of Assembly made since the <lb/>
+making of my said Will to explain &amp; amend the act declar-  <lb/>
+-ing the negro mulatto &amp; Indian slaves within this Dominion <lb/>
+great alterations are made in the said act making negroes <lb/>
+a real estate under the consideration of which former Act <lb/>
+of Assembly I made my said Will being &amp; continuing to this <lb/>
+day thro' the mercy of God of sound mind &amp; memory do <lb/>
+make the following additions alterations <sic
+corr="revocations">Revokations</sic> <lb/>
+&amp; declarations in &amp; concerning my said Will as
+aforesaid.&mdash;  </p>
+
+<p>Whereas I have entailed upon my three eldest sons John <lb/>
+Robert &amp; Charles all my slaves belonging to my several <lb/>
+plantations in Virginia with several remainders over <lb/>
+which under the former Law I had power to do <lb/>
+giving all my said slaves in such Words unto my said <lb/>
+three sons as will give the property in all my said <lb/>
+slaves according to the interpretations &amp; meaning <lb/>
+of the said <note target="n37">late Law</note> which was never my
+purpose <lb/>
+or intent to do. I do hereby utterly <sic corr="revoke">revoak</sic>
+all those <lb/>
+gifts to my said three sons John Robert &amp; Charles here-  <lb/>
+-by declaring it is my full intent &amp; meaning that no <lb/>
+property shall be vested in any of my said three <lb/>
+sons to any of my said slaves and I do hereby de-  <lb/>
+-clare that it is my intent &amp; meaning that my said <lb/>
+three sons shall have only the use and profits of <lb/>
+my said slaves &amp; their increase for during and Continu-  <lb/>
+-ing their respective natural lives the said slaves and their <lb/>
+increase however to be annexed to my respective Lands and planta- 
+<lb/>
+-tions for the improvements of my said several plantations &amp; 
+<lb/>
+Lands according to the directions of my said Will.  </p>
+
+<pb n="page (35)"/><lb/><lb/>
+
+<p>It is my will that my several slaves that are to be annexed <lb/>
+according to the intent of my will to the lands and plantations <lb/>
+where I live which I hold as tenant in tail under the will <lb/>
+of <note n="JC">my Father</note> &amp; also all the slaves which
+<del>which</del> are to be <lb/>
+annexed to all the rest of the lands &amp; plantations which I <lb/>
+have given to my said son John in Tail the property in <lb/>
+all my said slave &amp; their increase lent to my said son <lb/>
+John as aforesaid I give unto my <note target="n38">Grandson
+John</note> my said <lb/>
+son John's son however to be annexed both <del>to</del> all the said
+<lb/>
+slaves and their increase unto the Lands &amp; plantations <lb/>
+that are intailed upon my said son John &amp; to continue <lb/>
+annexed &amp; to go with the Lands according to the intent <lb/>
+&amp; meaning of my said Will.&mdash;  </p>
+
+<p>It is my will that my several slaves that are to be annexed <lb/>
+according to the intent of my said Will to the Lands &amp; planta- 
+<lb/>
+tions which I have given to my son <note n="RC2">Robert</note> in
+Tail the property <lb/>
+in all my said slaves &amp; their increase lent to my said son <lb/>
+Robert as aforesaid I give unto my <note target="n39">Grandson
+Robert</note> my <lb/>
+said son Robert's son however to be annexed both all the <lb/>
+said slave &amp; their increase unto the Lands &amp; plantations <lb/>
+that are in tailed upon my said son Robert and to Contin-  <lb/>
+ue annexed <add place="supralinear">&amp;</add> to go with the Lands
+accord <add resp="editor"> [ng]</add> g to the intent &amp;  <lb/>
+meaning of my said Will.... </p>
+
+<p>p>It is my will that my several slaves that are to be annexed <lb/>
+according to the intent of my said Will to the Lands &amp;
+plantations <lb/>
+which I have given to my son Charles in Tail the property in<lb/>
+all my said slaves and their increase lent to my said son Charles as
+<lb/>
+aforesaid I do give unto my said son Charles, in trust to be by him
+<lb/>
+conveyed and made over unto the heirs male of my said son <lb/>
+Charles and to be continued annexed to the said <del>said</del>
+lands <lb/>
+entailed upon my said son Charles as aforesaid. </p>
+
+<p>That Whereas I have bought sundry tracts of Land for my three mar-
+ <lb/>
+-ried daughters And have bought sundry slaves for the improving <lb/>
+and working the said Lands which they are annexed unto <lb/><lb/>
+
+<pb n="page (36)"/><lb/><lb/>
+
+And whereas in the disposition of the said slaves I have used the
+<lb/>
+words [I give the said slaves unto my said Daughters respectively
+<lb/>
+for and during their natural lives or to this purpose] I do <lb/>
+<sic corr="revoke">revoak</sic>e the said Clauses and do only give
+the profits of the said <lb/>
+slaves &amp; their increase unto my said three Daughters for and <lb/>
+during their natural lives under the conditions aforesaid And <lb/>
+it is my further Will that <note n="MP1">Mann Page</note> <abbr
+expan="Esquire">Esqr.</abbr> do enjoy the pro-  <lb/>
+-fits of the lands &amp; negroes settled upon his Wife for and du- 
+<lb/>
+-ring the term of his natural life according to the intenti-  <lb/>
+-on of my afore said <add resp="editor"> [<hi
+rend="italics">sic</hi>]</add> Will under the conditions mentioned as
+<lb/>
+afore<abbr expan="said">sd.</abbr> And it is my further Will that
+<abbr expan="Major">Majr.</abbr> <note n="BH1">Benjamin Har-  <lb/>
+-rison</note> do enjoy the profits of the lands &amp; negroes
+settled upon <lb/>
+his Wife for and during the term of his natural life accord-  <lb/>
+-ing to the the intention of my aforesaid Will under the Conditi- 
+<lb/>
+-ons mentioned as aforesaid And I do give the property of the <lb/>
+said slave &amp; their increase unto my said Daughter's sons <lb/>
+&amp; the heirs of their Bodies to continue annexed to the said <lb/>
+lands and to go &amp; descend according to the intent of my said
+Will.</p>
+
+<p>And Whereas at the making of my said Will I had only <add
+place="supralinear">a</add> mort-  <lb/>
+-gage of Rippon Hall in York County &amp; the lands thereto
+belonging <lb/>
+upon the forfeiture whereof by the Judgement of the General <lb/>
+Court in Chancery the redemption of the said estate hath <lb/>
+been since foreclosed and I am now <sic corr="seized">seised</sic>
+in the said estate <lb/>
+as of an inheritance in fee simple &amp; have also seated the <lb/>
+said Estate <add place="supralinear">with</add> fourteen slaves It
+is my will that the profits <lb/>
+of the said estate and slaves do go and belong to my two <lb/>
+sons Landon &amp; George until my said son George arrives <lb/>
+to the age of twenty one years that then the said <add
+place="supralinear">slaves</add>  <lb/>
+&amp; their increase to belong to my said son George <lb/>
+he paying to my son Landon the <sic corr="sum">sume</sic> of one <lb/>
+hundred &amp; fifty pounds sterling And I do hereby <lb/>
+give and devise unto my son George the said estate of Rippon Hall
+<lb/><lb/>
+
+<pb n="page (37)"/><lb/><lb/>
+
+with the lands &amp; appurtenances thereunto belonging to him &amp; 
+the <lb/>
+heirs of his body lawfully begotten &amp; for want of such to my <lb/>
+son Landon &amp; the heirs of his body lawfully begotten &amp; for
+<lb/>
+want of such to my son John &amp; the heirs of his body lawfully <lb/>
+begotten &amp; for want of such to my son Robert &amp; the heirs of
+<lb/>
+his body lawfully begotten &amp; for want of such to my son Charles
+<lb/>
+&amp; the heirs <del>heirs</del> of his body lawfully begotten &amp;
+for want of <lb/>
+such to my right heirs forever.</p>
+
+<p>And Whereas I have given my estate in Williamsburg to  <lb/>
+my two sons Landon &amp; George It is now my Will &amp; I do here- 
+<lb/>
+-by devise unto my said son George all my said estate in <lb/>
+<abbr expan="Williamsburg">Wms.burg</abbr> to him &amp; the heirs of
+his body lawfully begotten &amp;  <lb/>
+for want of such to my son Landon &amp; the heirs of his body <lb/>
+lawfully begotten and for want of such to my son John <lb/>
+&amp; the heirs of his body lawfully begotten &amp; for want of such
+<lb/>
+to my son <abbr expan="Robert">Robt.</abbr> &amp; the heirs of his
+body lawfully begotten <lb/>
+&amp; for want of such to my son Charles &amp; the heirs of his <lb/>
+body lawfully begotten &amp; for want of such to my right <lb/>
+heirs forever.&mdash; </p>
+
+<p>And whereas in my said Will I have given to my two sons Landon
+<lb/>
+&amp; George my bank annuity of Fifteen hundred pounds which <lb/>
+hath since been paid into the hands of <note n="MP2">Micajah
+Perry</note> <abbr expan="Esquire">Esqr.</abbr>  <lb/>
+It is my Will that this Fifteen hundred pounds be paid to my <lb/>
+said son Landon when he shall come to <add
+place="supralinear">the</add> age of twenty one <lb/>
+years in three equal yearly payments in the following <lb/>
+manner <note target="n40">Viz.</note> the first payment to be made
+the first <lb/>
+shipping after my said <add resp="editor"> [son]</add> Landon
+arrives at his age of <lb/>
+twenty one the second payment the shipping after that &amp; the <lb/>
+third payment to be made the shipping after that &amp; that <lb/>
+he also have one moiety of my bank stocks in the hands <lb/>
+of the said Perry &amp; Mr. <note n="WD">William Dawkins</note> the
+other moiety <lb/>
+of my said Bank stocks to belong to my son George <lb/>
+according to the directions and in the manner of my said Will
+<lb/><lb/>
+
+
+<pb n="page (38)"/><lb/><lb/>
+
+And that there be further paid by my <abbr
+expan="executors">Extors</abbr> unto my said <lb/>
+son Landon when he shall arrive at the age of twenty one <lb/>
+years the <sic corr="sum">sume</sic> of eight hundred &amp; seventy
+five pounds <lb/>
+Sterling in three equal yearly payments according to <lb/>
+the manner afore<abbr expan="said">sd.</abbr>&mdash;  </p>
+
+<p>And it is my Will that my Executors do pay unto my <lb/>
+son George when he shall arrive at the age of twenty <lb/>
+one years the <sic corr="sum">sume</sic> of three hundred pounds
+sterling <lb/>
+to be paid in three years successively in three equal <lb/>
+payments after he comes of age And that they my <lb/>
+said sons Landon &amp; George have no further claim of <lb/>
+my debts due to me in Virginia notwithstanding <lb/>
+any thing contained before in my said Will.&mdash; </p>
+
+<p>I give unto my son Landon my new Negroe boy Called Tom that I <lb/>
+bought out of the <note target="n41"><name type="ship">John &amp;
+Betty</name></note> last year &amp; also my two <lb/>
+new Negroe Girls Named <add resp="editor"> [gap in text]</add> which
+I bought <lb/>
+of Colo. Braxton last year. </p>
+
+<p>I give to my son George my negroe Girl named Cloe <lb/>
+which I bought of <abbr expan="Colonel">Colo.</abbr> Tayloe this
+year. </p>
+
+<p>I give to my daughter <note n="MCB">Mary</note> my new negroe
+Girl named <lb/>
+Venus that I bought of <abbr expan="Colonel">Colo.</abbr> Tayloe. </p>
+
+<p>I give to my Daughter <note n="LCF">Lucy</note> my new negroe
+Girl named <lb/>
+<add resp="editor"> [gap in text]</add> which I bought last year of
+<abbr expan="Colonel">Colo.</abbr> Braxton</p>
+
+<p>I give to my son Charles my Mulatto Girl named Mary <lb/>
+Tom Gumbo's Wife's Daughter. </p>
+
+<p>It is my Will that five of the men &amp; two of the Women &amp; 
+three Boys <lb/>
+which I bought of <abbr expan="Colonel">Colo.</abbr> Tayloe, &amp;
+are now placed at my son Charles <lb/>
+plantations in Northumberland County be removed to my <lb/>
+son Roberts plantation in Westmoreland County &amp; be annexed to
+some <lb/>
+of the said plantations the profits of the said slave I give to my
+<lb/>
+son Robert during his life &amp; the property to my Grandson Robert
+<lb/>
+to Continue annexed to the said plantations them &amp; their
+increase <lb/><lb/>
+
+<pb n="page (39)"/><lb/><lb/>
+
+forever Item in Consideration hereof I do hereby <sic
+corr="revoke">revoak</sic> the <lb/>
+Clause in my will ordering two mean &amp; two Women slaves to <lb/>
+belong to my said son Robert from <add place="supralinear">of</add>
+<add resp="editor"> [<hi rend="italics">sic</hi>]</add> the
+plantations entailed <lb/>
+upon my said son Charles. </p>
+
+<p>It is my Will that when my <note target="n42">Grandaughter
+Elizabeth</note> my son Roberts <lb/>
+Daughter shall arrive at the age of twenty one years or marriage <lb/>
+that then there be paid her by my <abbr
+expan="executors">extors</abbr> equally between them <lb/>
+out of my estate given them the <sic corr="sum">sume</sic> of Five
+hundred pounds sterling <lb/>
+and whereas I have given by <add place="supralinear">my</add> will
+to my two Gransons <note target="n43">George</note> &amp;  <lb/>
+<note target="n44">John Nicholas</note> the <sic
+corr="sum">sume</sic> of one hundred pounds sterling a piece <lb/>
+under the Condition of their coming to age It is my Will that <lb/>
+there shall be paid to each of them by my Executors out of my  <lb/>
+estate instead of the <sic corr="sum">sume</sic> of one hundred
+pounds apiece <lb/>
+the <sic corr="sum">sume</sic> of three hundred pounds sterling a
+piece when <lb/>
+they shall arrive at their respective ages of twenty one years.  </p>
+
+<p>It is my Will that when my Grandsons <note target="n45"><sic
+corr="Matthew">Matthers</sic></note> <add resp="editor"> [<hi
+rend="italics">sic</hi>]</add>Page &amp; <note target="n46">Robert
+<lb/>
+Page</note> shall arrive at their respective Ages of twenty one
+years that <lb/>
+then there shall be paid to them by my <abbr
+expan="executors">extors</abbr> in equal por-  <lb/>
+-tions the <sic corr="sum">sume</sic> of three hundred pounds
+sterling a <sic corr="piece">peice.</sic> </p>
+
+<p>It is my Will that this addition to my said Will Contained in <lb/>
+five sheets of paper <sic corr="comprising">comprizing</sic> in the
+whole thirty four <lb/>
+sheets shall be taken as a part of my said Will &amp; shall be <lb/>
+interpreted as a declaration of my intent &amp; meaning and <lb/>
+shall be taken as a <sic corr="revocation">revokation</sic> to such
+parts and as an <lb/>
+addition to others &amp; as explanatory of the whole so that my <lb/>
+real &amp; true intent may be answered. In Witness whereof <lb/>
+I have hereunto set my hand &amp; afixed my seal this <lb/>
+twelfth day of September in the year of our Lord God one <lb/>
+thousand seven hundred &amp; twenty eight <lb/>
+Signed sealed &amp; published in presence of.  </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="bold">Robert Carter</hi> (L.S.)  </p><pb n="page (40)"/><lb/>
+<p>
+
+R. Lee <lb/>
+John Harvey <lb/>
+<note target="n47">Barnabus Burch</note> &nbsp;&nbsp;&nbsp;&nbsp;
+Thirty fourth sheet of my Will<lb/>
+<abbr expan="Richard">Richd.</abbr> Talent <lb/>
+<note target="n48">John Conner </note><lb/>
+Arthur Neale<lb/>
+
+<lb/><add resp="editor">[Third Codicil, 1730 June 9]</add> </p>
+
+<p>In the name of God Amen I Robert Carter <abbr
+expan="Esquire">Esqr.</abbr> of <lb/>
+Lancaster County being of sound mind <add resp="editor"> [and]</add>
+memory but in a Crazy <lb/>
+disordered Condition respecting my health do make this addition <lb/>
+alteration &amp; <sic corr="revocation">revokation</sic> to several
+parts of my Will which is <lb/>
+contained in four &amp; thirty sheets of paper, being made at <lb/>
+three several times the first bearing date the two and twentieth <lb/>
+day of August seventeen hundred &amp; twenty six the second <lb/>
+bearing date the eleventh day of October seventeen hundred <lb/>
+&amp; twenty six the third bearing date the twelfth day of Oc-  <lb/>
+-tober seventeen hundred and twenty eight all intended to be one <lb/>
+entire Will as far as can be made consistent and when altera-  <lb/>
+-tions are made the latter Clauses alway<add resp="editor">[s]</add>
+to be understood to <sic corr="control">controul</sic> <lb/>
+&amp; revoke the former this Will under these circumstances I do now
+<lb/>
+revive &amp; republish so far as it will stand &amp; consist with
+the <lb/>
+alterations additions &amp; <sic corr="revocation">revokation</sic>s
+that I am now about to make.  </p>
+
+<p>Notwithstanding the devises in my said Will I do now give <lb/>
+unto my son Landon all my lands &amp; plantations in <lb/>
+Northumberland County excepting the lands at the up-  <lb/>
+-per end of the said County called <note n="FP">Fieldings</note>
+which I <lb/>
+have given to my son Robert to him my son Landon <lb/>
+&amp; the heirs male issue of his body &amp; for want of such <lb/>
+unto my son Charles &amp; the heirs male issue of his <add
+resp="editor"> [body]</add>  <lb/>
+&amp; for want of such the Tail to be continued <lb/>
+according to the directions of my Will &amp; I also do <lb/>
+lend unto my said son Landon all the slaves that shall <lb/>
+belong to the said plantations now given him for and during <lb/> 
+<lb/>
+
+<pb n="page (41)"/><lb/><lb/>
+
+the Term of his natural life the property of the slaves to remain
+<lb/>
+and be in trust to my said son Landon to and for the use of <lb/>
+the heirs male issue of his body and I do give unto my said <lb/>
+son Landon all the stocks of Cattle hoggs &amp; sheep that are <lb/>
+upon the said plantations.&mdash;  </p>
+
+<p>Whereas I have been for some time upon a bargain for the <lb/>
+whole estate of Mr John L. Boyd Lands slaves stocks &amp;c <lb/>
+in Richmond County for which I have bin in the  <lb/>
+Court of Chancery  <add place="supralinear">in</add> Great Britain
+by the hands of <note n="MP2">Alder-  <lb/>
+man Perry</note> of London the <sic corr="sum">sume</sic> of three
+thousand eight <lb/>
+hundred pounds sterling five hundred pounds of which <lb/>
+money is already paid as a depositum into the said <lb/>
+Court of Chancery &amp; the remaining three thousand three <lb/>
+hundred pounds now lies in the hands of the said <lb/>
+Alderman Perry ready to consumate the said bargain,  <lb/>
+if the said bargain be concluded then my Will is, and I do <lb/>
+devise &amp; bequeath all the said lands plantations housing <lb/>
+&amp; appurtenances unto my said son Landon and to the  <lb/>
+heirs male issue of his Body lawfully begotten forever and <lb/>
+I do also lend unto my said son Landon for and during <lb/>
+the term of his natural life all the slaves contained in the <lb/>
+said purchase excepting only the slaves of the said estate that <lb/>
+are now seated upon my plantations above the falls of Rappaha-  <lb/>
+-nock the property of the said slaves to be in trust with my said
+<lb/>
+son Landon &amp; to be vested in him for the use of his issue male
+<lb/>
+after his decease I do also give unto my said son Landon Carter <lb/>
+all the stocks of Cattle hoggs houshold stuf<add
+resp="editor">[f]</add> &amp;c that do belong to the <lb/>
+said estate whether upon the said plantations or upon any other <lb/>
+lands and if my said son Landon should <sic corr="die">dye</sic>
+without issue male <lb/>
+then I do give and devise the said Lands slaves plantations  <lb/>
+stocks &amp;c contained within the said purchase unto my son <lb/>
+George &amp; the heirs male issue of his Body &amp; for want of the
+Tail <lb/>
+to <lb/>
+
+<pb n="page (42)"/><lb/><lb/>
+
+to be continued according to the direction of my Will but if <lb/>
+notwithstanding the proceedings that have been had towards <lb/>
+this bargain &amp; purchase of L. Boyds estate as aforesaid, it
+should <lb/>
+happen to be defeated &amp; not perfected then my Will is and I do
+<lb/>
+give unto my said son Landon, if he shall be alive to receive <lb/>
+the same at the several times of paymt hereby directed to be <lb/>
+made to him the <sic corr="sum">sume</sic> of three thousand pounds
+out of the <abbr expan="said">sd.</abbr>  <lb/>
+purchase money Lying in the hands of the said Perry as aforesaid <lb/>
+(to wit) one thousand pounds to be paid when he comes to the <lb/>
+ago of one &amp; twenty years one thousand pound <add resp="editor">
+[s]</add> two years after <lb/>
+and one thousand pounds two years after that provided if <lb/>
+he dies before these times of payment shall come leaving <lb/>
+Child or Children behind him such Child or Children to <lb/>
+have a right to this money. </p>
+
+<p>I give unto my <add place="supralinear">said</add> son Landon the
+plantation that is now seated <lb/>
+with some of the said slaves of this purchase called <note
+n="HT">Hickory <lb/>
+thicket</note> plantation &amp; a thousand acres of Land adjoining
+to <lb/>
+the said plantation part of the Land I bought of Mr. Robert <lb/>
+Cary to be laid <sic corr="off">of</sic> Contiguous to the said
+plantation so <lb/>
+that it shall not hurt the <note target="n49">Bridge Quarter</note>
+this thousand <lb/>
+acres of Land give unto my said son Landon &amp; the heirs male <lb/>
+issue of his Body lawfully begotten forever &amp; for want of such
+<lb/>
+the Tail to continue to my son Robert &amp; the heirs male issue <lb/>
+of his Body this devise of this thousand Acres of Land is intend- 
+<lb/>
+-ed to take effect upon Condition that this purchase be <lb/>
+made of Loyds estate but if my said son Landon Comes <lb/>
+to enjoy this Legacy of three thousand pounds then this <lb/>
+devise of this thousand acres of Land is not to subsist but <lb/>
+to be void and the Land to go with the rest of Carys Land <lb/>
+according to the directions of my Will excepting the peice of <lb/>
+Land called the <note target="n50">round hills</note> in King George
+County which <lb/>
+I do devise and give unto my said son Landon &amp; to the heirs male
+issue <lb/>
+
+<pb n="page (43)"/><lb/><lb/>
+
+of his Body &amp; for want of such unto my son Robert &amp; his
+heirs male.</p>
+
+<p>Whereas I have given unto my son Landon and my son George <lb/>
+my bank stock in the hands of Alderman Perry &amp; Mr. Dawkins <lb/>
+&amp; also other debts due to me in Virginia &amp; likewise the
+mortgage <lb/>
+of Rippon Hall I do revoke and alter my Will in these respects <lb/>
+&amp; do direct as followeth first I do give and devise unto my <lb/>
+son George all my lands and estate of Rippon Hall and the <lb/>
+Lands adjoining thereto which were mortgaged to me by <lb/>
+Colonel <note n="EJ"><sic corr="Jenings">Jenyings</sic></note> and
+also the mill that I have bought since <lb/>
+likewise the Lands I bought of Joseph Wade &amp; my houses <lb/>
+&amp; estate in Williamsburg &amp; also the Lands I lately bought
+<lb/>
+of <abbr expan="Major">Majr.</abbr> <abbr
+expan="Benjamin">Benja.</abbr> Robinson &amp; his Wife at Arnolds
+Ferry lying <lb/>
+lying <add resp="editor"> [<hi rend="italics">sic</hi>]</add> in
+King &amp; Queen County, all these Lands plantations hous-  <lb/>
+-es &amp; real estate I give and devise unto my said son George and
+<lb/>
+to the heirs Male issue of his Body forever, as also the slaves <lb/>
+that belong to &amp; are now seated upon Rippon plantation &amp; in
+case <lb/>
+of failure of issue male of my son George then I do give these <lb/>
+houses Lands &amp; slaves unto my son Landon, &amp; the heirs male
+<lb/>
+issue of his Body &amp; for want of such to my son Robert &amp; his
+heirs male.&mdash;</p>
+
+<p>It is my Will that my bank stock in the hands of Mr. Perry &amp;
+Mr.  <lb/>
+Dawkins be kept at Interest as it is until my son George <lb/>
+comes to the age of one &amp; twenty years that the Interest of the
+<lb/>
+said money be carried to the credit of my Executors for the <lb/>
+answering my Legacies &amp; incumbrances &amp; maintenance of <lb/>
+my younger Children particularly my son George three <lb/>
+thousand pounds of my said Bank <add resp="editor"> [stock]</add> it
+is my Will be paid <lb/>
+&amp; delivered unto my son George when he comes of age the <lb/>
+remaining twelve hundred &amp; fifty pounds of Bank stock <lb/>
+if the said bargain takes effect for L Boyds estate as <lb/>
+aforesaid so that the said Landon doth not enjoy any of the said
+three <lb/>
+thousand pounds pounds, <add resp="editor"> [<hi
+rend="italics">sic</hi>]</add> but comes to the estate upon the bar- 
+<lb/>
+-gain as aforesaid then it is my will that one moiety <lb/>
+of the said twelve hundred &amp; fifty pounds <lb/>  <lb/>
+
+
+<pb n="page (44)"/><lb/><lb/>
+
+Bank stock do go unto my son Landon the other moiety to belong to
+<lb/>
+my three eldest sons for discharging my Legacies &amp;
+incumbrances.</p>
+
+<p>I do give and devise unto my son Charles the lands I bought <lb/>
+of <note target="n51">John Mercer</note> &amp; his Wife adjoining to
+the Lands of my <note n="FQ">Falls <lb/>
+Quarter</note> to him my son Charles &amp; the heirs male issue of
+<lb/>
+his Body lawfully begotten &amp; for want of such to accord=  <lb/>
+-ing to the intail of the rest of the Lands given unto my <lb/>
+said son Charles.</p>
+
+<p>I do give and devise unto my son George three thousand <lb/>
+acres of Land part of my Great Tract upon the Branches <lb/>
+of Potomac Creek in Stafford County to be laid off at the <lb/>
+upper end of the said Tract to include and take in the <lb/>
+plantation called <note n="PQ">Carters Park</note> the negroes
+however who are <lb/>
+upon the said Park Quarter plantation to belong to my son <lb/>
+Charles accord<add resp="editor"> [in]</add>g to the direction of my
+Will these three thousand <lb/>
+acres of Land I devise to my said son George &amp; the heirs male
+<lb/>
+issue of his Body lawfully begotten &amp; for want of such unto <lb/>
+my son Landon &amp; the heirs male issue of his Body lawfully <lb/>
+begotten &amp; for want of such to go according to the intail <lb/>
+o f my Will.</p>
+
+<p>I do give unto my son George the negroes I lately bought out of
+<lb/>
+<note n="MP1">Mr. Pages</note> estate being in number twenty six to
+be seated <lb/>
+&amp; planted &amp; kept upon the said three thousand acres of <lb/>
+Land for the use &amp; profit of my said son George.</p>
+
+<p>Whereas I have given unto my son John my tract of Land <lb/>
+called the <note target="n52">lodge</note> upon Cedar run, it is my
+Will that he <lb/>
+my son John have &amp; enjoy the slaves &amp; stocks that are <lb/>
+upon the said Land.&mdash;</p>
+
+<p>It is my will that my son George be kept at school at the College
+<lb/>
+of <abbr expan="William">Wm.</abbr> &amp; Mary two years longer and
+that then he be sent to the <lb/>
+university of Cambridge for an education the Charge of his edu-  <lb/>
+-cation to be <sic corr="bourne">born</sic> by my executors and out
+of the interest of my said  <lb/>  <lb/>
+
+<pb n="page (45)"/><lb/><lb/>
+
+son Georges Bank stock &amp; if my executors his Brothers see it so
+<lb/>
+fitting that he my son George may be entered first at the <lb/>
+Inns of Court, that if his inclination &amp; capacity Lead <lb/>
+that way he may be bred to the Law. </p>
+
+<p>It is my Will and I do appoint my son Landon to be <lb/>
+one of the <abbr expan="executors">extors</abbr> of this my Will. </p>
+
+<p>Whereas I have given to my son Charles my negroe man <lb/>
+Tom Gumby his Wife and Children I revoke that part of <lb/>
+my Will &amp; I do give them to my son Robert excepting the<lb/>
+Girl Mary which I leave to my son Charles.</p>
+
+<p>It is my Will that some young negroes of those I have given <lb/>
+to my son George be bred up Trades men Carpenters &amp; Coopers <lb/>
+for the use of his plantations.</p>
+
+<p>It is my Will that when my Grandson <note target="n53">Robin
+Carter Nicholas</note> <lb/>
+arrives to the age of ten years there be paid to his Father <lb/>
+by my executors the sum of three hundred pounds sterling to <lb/>
+be by him put out to interest for the use &amp; benefit and <lb/>
+toward the maintenance of my said Grandson.</p>
+
+<p>Whereas in the dispose of those slaves that are to belong to my
+son Robert <lb/>
+I have done my endeavour to annex them so to his Lands to prevent
+his <lb/>
+sale and dispose of them from his posterity, however
+notwithstanding, in <lb/>
+Regard his present <note n="RC2">Wife</note> brought to her husband
+my said son Robert <lb/>
+a considerable fortune, I think it but justice to declare that it is
+my <lb/>
+Will that she my said son Roberts Wife, if she survive her said hus-
+<lb/>
+band, shall have her right of Dower out of the said slave during <lb/>
+her natural life. </p>
+
+<p>Whereas Mann Page <abbr expan="Esquire">Esqr.</abbr> my sons
+Robert &amp; Charles with myself <lb/>
+are in a company for the Working &amp; Carrying on a Copper Mine
+upon a Cer-  <lb/>
+tain tract of Land going &amp; known by the name of <note
+target="n54">Frying pan</note> &amp; that we <lb/>
+have already seated the said Land being at great Charges in taking
+up <lb/>
+large Quantities of Lands contiguous and are under several contracts
+<lb/>
+to one another for the working and carrying on the said Cop-  <lb/>
+per mine it is my Will and desire that the subsisting <lb/>
+contract shall all be <lb/>  <lb/>
+
+<pb n="page (46)"/><lb/><lb/>
+
+performed &amp; I do Will and devise all my part in the said estate
+<lb/>
+as Lands slaves servants &amp;c unto my son John &amp; to <add
+resp="editor"> [the]</add> heirs male <lb/>
+issue of his body lawfully begotten for want of such unto my <lb/>
+son Landon and to the heirs male issue of his Body lawfully <lb/>
+begotten &amp; for want of such unto my son George &amp; to the <lb/>
+heirs Male issue of his Body lawfully begotten, &amp; for want of
+<lb/>
+such to be a joint estate unto my sons Robert &amp; Charles <lb/>
+&amp; their heirs forever.</p>
+
+<p>It is my Will that if my daughters <note n="MCB">Mary</note>
+&amp; <note n="LCF">Lucy</note> shall be alive five <lb/>
+years after my decease that then there be paid to each of them <lb/>
+the <sic corr="sum">sume</sic> of two hundred pounds sterling more
+than the Legacies <lb/>
+I have given them by this <add place="supralinear">my</add> Will,
+and that <add resp="editor"> [if]</add>  either of my said <lb/>
+daughters should <sic corr="die">dye</sic> before that time leaving
+Child or <lb/>
+Childred <add resp="editor"> [<hi rend="italics">sic</hi>]</add>
+behind them that then such sum be paid to such <lb/>
+Child or Children when the said term of time is expired by <lb/>
+my Exetors out of the estate I have given to them.</p>
+
+<p>It is my Will that notwithstanding any thing contained in my <lb/>
+aforesaid Will my debts in Virginia shall belong to and be deed- 
+<lb/>
+-ed a part of my estate for the satisfying my legacies &amp;  <lb/>
+incumbrances.</p>
+
+<p>It is my Will that the aforesaid Writing contained in four sheets
+<lb/>
+of Paper be constructed deemed &amp; taken to be a part of my said
+Will <lb/> 
+&amp; to be a revocation of so much of it as it contradicts In
+Witness <lb/>
+whereof I have hereunto set my hand &amp; seal this ninth day <lb/>
+of June in the year of our Lord one thousand seven hundred  <lb/>
+&amp; thirty. </p>
+
+<p>It is my earnest desire to my sons &amp; to every one of them
+respectively <lb/>
+that they always &amp; upon all occasions behave themselves as
+loving <lb/>
+brethren to one another &amp; that upon any controversies or
+diferences <lb/>
+that may arise between them they <sic corr="always">alwaies</sic>
+submit the deter-  <lb/>
+mination thereof to their Friends &amp; relations &amp; that they do
+<lb/>
+not haul one another to the Law.</p>
+
+<pb n="page (47)"/><lb/><lb/>
+
+<p>Signed sealed &amp; published <lb/>
+in presence of us
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Robert Carter (L.S.)  <lb/>RichardChapman <lb/>
+<abbr expan="Richard">Richd.</abbr> Talent
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fourth sheet of this additiontomyWill <lb/>
+John Conner
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RobertCarter <lb/>
+John Toulton <lb/><lb/>
+
+<add resp="editor">[Fourth Codicil, 1730 July 23]</add></p>
+
+<p>In the Name of God amen I Robert Carter of Lancaster <lb/>
+County being in a declining state of Body but of sound mind <lb/>
+&amp; memory Whereas I have made my last will &amp; Testa-  <lb/>
+ment at sundry periods of time to wit on the twenty <lb/>
+second day of August seventeen hundred &amp; twenty <lb/>
+six on the eleventh day of October seventeen hundred <lb/>
+&amp; twenty six on the twelfth day of September seventeen <lb/>
+hundred &amp; twenty eight &amp; on the ninth day of June <lb/>
+seventeen hundred &amp; thirty since which time by  <lb/>
+losses, the great fall of Tobacco &amp; various other misfortunes
+<lb/>
+my circumstances are very much reduced at this day <lb/>
+And Whereas in my said Will I have given &amp; ordered <lb/>
+large legacies to my Children &amp; Grand Children which <lb/>
+my estate is no <sic corr="ways">waies</sic> able to support to
+prevent the <lb/>
+ruin &amp; undoing of my sons I do revoke &amp; reduce the said  <lb/>
+Legacies in the following manner,</p>
+
+<p>My <note n="ACH">Daughter Harrison's</note> Legacy of Five
+hundred pounds <lb/>
+I reduce to two hundd.. &amp; fifty pounds.</p>
+
+<p>Her daughter Betty's Legacy of Five hundred pounds <lb/>
+I reduce to two hundred pounds.</p>
+
+<p>Her daughter Ann's Legacy of Five hundred pounds <lb/>
+I reduce to two hundred pounds.</p>
+
+<p>My <note n="JCP">daughter Page's</note> Legacy of three hundred
+pounds <lb/>
+I reduce to two <add resp="editor">[hundred?]</add> &amp; fifty
+pounds.</p>
+
+<p>Her son Mann Page's Legacy conditionally as my Will directs of
+three<lb/><lb/>
+
+<pb n="page (48)"/><lb/><lb/>
+
+hundred pounds I reduce to one hundred pounds.</p>
+
+<p>My Legacy of three hundred pounds to Carter Page payable <lb/>
+as my Will directs I reduce <add resp="editor"> [to]</add> one
+Hundred &amp; fifty pounds.</p>
+
+<p>The Legacy to John Page payable as aforesaid of the three <lb/>
+hundred pounds I reduce to one hundred pounds.</p>
+
+<p>My Legacy of three hundred pounds to my daughter Ni-  <lb/>
+-cholas I reduce to two hundred &amp; fifty pounds.</p>
+
+<p>Memorandum the fifty pounds given to my daugh-  <lb/>
+-ter Nicholas for ear rings I have already paid her in plate.</p>
+
+<p>Her son John's Legacy after the manner I have expressed <lb/>
+in my Will, first mentioned <add resp="editor"> [as]</add> a hundred
+pounds &amp; then <lb/>
+three hundred pounds I reduce to one hundred pounds.&mdash;</p>
+
+<p>My said daughter's son George's Legacy in the manner as <lb/>
+is exprest <abbr expan="although">altho'</abbr> it's twice mentioned
+is to be but a <lb/>
+hundred pounds.</p>
+
+<p>My Grandson Lewis Burwell's Legacy instead of three <lb/>
+hundred pounds is to be but one hundred pounds under <lb/>
+the condition mentioned.</p>
+
+<p>Carter Burwells Legacy under the Condition mentioned <lb/>
+of three hundred pounds I reduce to one hundred <lb/>
+pounds.</p>
+
+<p>Robert Burwell's Legacy of three hundred pounds under <lb/>
+the condition mentioned I reduce t one hundred &amp;  <lb/>
+fifty pounds.</p>
+
+<p>Elizabeth Burwell's Legacy of three hundred pounds <lb/>
+under the condition mentioned I reduced to one hundred <lb/>
+pounds The Legacy of fifteen hundred pounds to my son <lb/>
+Landon &amp; the Legacy of eight hundred &amp; seventy five pounds
+to <lb/>
+him both these legacies I reduce to five hundred pounds to be <lb/>
+paid at two successive yearly payments after he comes of age.</p>
+
+<p>The half of my Bank stock, first given to him my son <lb/>
+Land I have already <sic corr="revoke">revoak</sic>ed.</p>
+
+<pb n="page (49)"/><lb/><lb/>
+
+<p>The Legacy of three hundred pounds, given to my son George <lb/>
+at his age I make payable at three yearly payments.</p>
+
+<p>The Legacy of Five hundred pounds to my son Roberts <lb/>
+Daughter Elizabeth under the Condition mentioned I  <lb/>
+reduce to three hundred pounds. </p>
+
+<p>The three hundred pounds Legacy to my Grandson Mathew <lb/>
+Page I reduce to one hundred pounds. </p>
+
+<p>The Legacy of three hundred pounds to my Grandson Robert <lb/>
+Page I reduce to one hundred pounds under the Condition <lb/>
+mentioned. </p>
+
+<p>The legacy of three thousand pounds bank stock to my <lb/>
+son George I reduce to fifteen hundred pounds. </p>
+
+<p>The legacy of half the remaining part of my Bank stock <lb/>
+to my son Landon I <sic corr="entirely">intierly</sic> revoke having
+made other <lb/>
+provision for him. </p>
+
+<p>The Legacy of three hundred pounds to my Grandson <lb/>
+Robert Carter Nicholas under the Condition mentioned <lb/>
+I reduce to two hundred pounds. </p>
+
+<p>The Legacies of two hundred pounds apiece to my Daughters <lb/>
+<note n="MCB">Mary</note> &amp; <note n="LCF">Lucy</note> payable
+five years after my decease I re-  <lb/>
+duce to <add place="supralinear">a</add> hundred pounds to each </p>
+
+<p>And instead of my daughter Lucy receiving the portion <lb/>
+I have given her in three yearly equal payments my <lb/>
+Will is it be paid to her in six yearly equal payments. </p>
+
+<p>And also my Will is that my Executors have five years to <lb/>
+pay my daughter Mary's portion in by equal payments <lb/>
+from her age or marriage.</p> 
+
+<p>And Whereas I have given in several parts of my <lb/>
+Will the use &amp; profits of my slaves only to my sons <lb/>
+and have endeavoured to vest the property in their <lb/>
+sons &amp; heirs to prevent their Fathers selling or <lb/>
+disposing of them all the Clauses of this nature <lb/><lb/>
+
+<pb n="page (50)"/><lb/><lb/>
+
+I do absolutely &amp; intirely revoke &amp; I do give my slaves to
+my re-  <lb/>
+-spective sons according to my designation in my Will unto my <lb/>
+said respective sons &amp; to their heirs forever as a real estate
+&amp;  <lb/>
+descendible according to the terms of our late Negroe Law.</p>
+
+<p>And Whereas I have ordered my son George an University educa- 
+<lb/>
+-tion I have seen such bad effects of it, that I leave the care <lb/>
+of him to the disposal of his Brothers particularly my son <lb/>
+John and after a years stay more at the College, if he <lb/>
+thinks <sic corr="fit">fitt</sic> to breed him up in the secretary's
+office.</p>
+
+<p>My Will is that if my Grandson <abbr
+expan="Benjamin">Benja.</abbr> Harrison live to the age <lb/>
+of ten years there be paid to him by my Executors the sum of two <lb/>
+hundred pounds to be laid out in young Negroes between the <lb/>
+ages of ten &amp; fifteen years one half of them to be females. </p>
+
+<p>My Will is that if my Grandson Robert Carter live to the <lb/> 
+age of ten years there be paid to him by my Executors the <lb/>
+ of two hundred pounds to be laid out in young negroes be-  <lb/>
+-tween the ages of ten &amp; fifteen years one half of them to be
+females. </p>
+
+<p>It is my Will that this Writing contained in two sheets of <lb/>
+paper be deemed &amp; taken to be a part of my Will &amp; to be a
+<lb/>
+revocation of my Legacies as far as it goes as also an <lb/>
+alteration of my Will as far as it is cointradictory to it. </p>
+
+<p>In Witness whereof I have hereunto set my hand &amp; seal this
+<lb/>
+three &amp; twentieth day of July in the years of our Lord one <lb/>
+thousand seven hundred &amp; thirty </p>
+
+<p>signed sealed &amp; published in <lb/>
+the presence of us .............................Robert Carter (L.S.)
+<lb/>
+<abbr expan="Richard">Rich.</abbr> Chapman <lb/>
+<abbr expan="Richard">Rich.</abbr>Talent <lb/>
+John Conner <lb/>
+John Toulton <lb/><lb/>
+
+<pb n="page (51)"/><lb/><lb/>
+
+Virginia &amp;c. </p>
+
+<p>Memorandum that the General Court of this <lb/>
+dominion begun and held at his Majesty's Royal Capitol <lb/>
+in the City of Williamsburg the sixteenth day of October <lb/>
+in the year of our Lord MDCCXXXii this Will con-  <lb/>
+-tained in forty sheets of Paper was presented in Court <lb/>
+&amp; proved by diverse of the witnesses thereto that is to say <lb/>
+the former part thereof contained in twenty eight sheets <lb/>
+of Papers was proved by the Oaths of <note n="RL">Richard Lee</note>
+and <lb/>
+Thomas Edwards Other part thereof Contained in the <lb/>
+next sheet by the oath of the said Lee other part of <lb/>
+the same contained in the five next sheets by the Oaths  <lb/>
+of the said Lee and John Conner and the rest of the  <lb/>
+Will contained in the six last sheets by the Oaths <lb/>
+of Richard Chapman and the said Conner &amp; <note n="JC1">John  <lb/>
+Carter</note> <abbr expan="Esquire">Esqr.</abbr> Charles Carter
+&amp; Landon Carter Gen<add resp="editor">[tlemen]</add> Ex<add
+resp="editor">[ecu]</add>-  <lb/>
+-tors therein named made oath thereto according to law <lb/>
+and there upon the same was by the Court ordered to be <lb/>
+recorded And certificate for obtaining a probate there-  <lb/>
+-of in form was granted to the said Executors &mdash;  </p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Test Matt: Kempe C &amp;:Cwd.&mdash;</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Copy </p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Teste</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="underline">WilsonAllen</hi>C.G.C.<lb/><lb/>
+
+</p>
+
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy
+consulted:</hi></hi> Robert Carter will, 1732 October 16, Carter
+Family Papers, Virginia Historical Society, Richmond. The text is
+contained in a bound volume and is a copy of a copy of the original
+probated in the General Court whose records were destroyed in the
+Richmond fire at the end of the Civil War. This copy was prepared and
+is attested to by Wilson Allen, Clerk of the General Court. Its
+source was a copy of the original made and attested to by Matthew
+Kemp, appointed clerk of the General Court about 1731. Given the
+number of duplicated words and other errors in this text, one must be
+sympathetic to the boredom of Allen in transcribing this long and
+tedious text. </note>
+
+<note>The will was published first in the <cit><bibl><title>Virginia
+Magazine of History and Biography,</title> 5(May 1898):408-428;
+6(July 1898):1-32.</bibl></cit> The latest publication is <cit><bibl>Lloyd T. Smith, Jr.,  <hi rend="italics">ed.</hi>, 
+<hi rend="italics">Robert Carter of Corotoman 1663-1732: An Analysis of His Last Will and Testament.</hi> 
+(Irvington, VA: Foundation for Historic Christ Church, 2009.)</bibl></cit> This publication is based on a second 
+manuscript copy of the will known as the St. Leger Landon Carter copy.  Aside from the will and its codicils, the book
+ contains some other material such as "epitaphs of John Carter and Robert Carter" which St. Leger Landon Carter
+ had copied from the stones at Christ Church.</note><lb/>
+
+<note>In the Minor-Blackford Papers, James Monroe Museum and Memorial Library, Fredericksburg, Virginia, 
+there is a nineteenth-century copy of Carter's will made by the person who planned a biography of Carter, and who
+ copied texts of Carter letters from a letter book, now lost. 1n 1963, the Minor-Blackford Papers were loaned to the 
+Library of Virginia, and photostatic copies made, including Carter's will. Many of the Minor-Blackford Papers were 
+microfilmed by the University of Virginia Library at this same period.</note><lb/>
+
+<note id="n1">[1] The Occaquan River is a tributary of  the Potomac
+River that lies in what was Stafford County until Prince William
+County was formed in 1730. Much of the river today is known as the
+Bull Run, and forms the boundary between Fairfax and Prince William
+counties, and to the west, between Loudoun and Prince William 
+counties. Cedar and other runs converge to form it </note>
+
+<note id="n2">[2] Licking Run is a tributary of Cedar Run lying in
+today's Fauquier County south of Germantown, but which, in Carter's
+day, lay in Stafford County.</note>
+
+<note id="n3"> [3] Robert Cary (1685-1751), a London merchant and
+member of a family  of which many members were involved in colonial
+trade. Carter purchased lands from him in King George, Richmond, and
+Westmoreland counties. (<cit><bibl>Jacob M. Price. "Who Was John
+Norton? A Note on the Historical Character of Some Eighteenth-Century
+Virginia Firms."  <title>William and Mary Quarterly. </title> 3rd.
+ser. 19[July 1962]:401.</bibl></cit>)</note>
+
+<note id="n4">[4] Totuskey Fork farm lay "in the fork between the
+two branches of Totuskey Creek at the hill of the same name" in
+Richmond County. After 1806 the property would be known as "Richmond
+Hill." (<cit><bibl n="B29">Miller. <title>Place-Names . . . .
+</title>pp. 135, 158.</bibl></cit>)</note>
+
+<note id="n5">[5] Charles Carter (1707-1764), Robert Carter's tenth
+child with his second wife, Elizabeth (Landon) Willis Carter. He
+would live at "Cleve," King George County, and inherit a number of
+properties in that area from his father.</note>
+
+<note id="n6">[6]  Round Hills was a tract of about 500 acres in
+King George County which, as Carter notes here, he had purchased from
+London merchant Robert Cary. While Carter here bequeathes the
+property to John, he would later giive it to Landon.</note>
+
+<note id="n7">[7] Landon Carter (1710-1778) was Carter's seventh
+child by his second wife, Elizabeth (Landon) Willis, and was the
+second child to bear the name Landon, the first having died shortly
+after his birth in 1708. Landon would live at "Sabine Hall," Richmond
+County, and marry three times, leaving many descendants, some of whom
+own "Sabine Hall" today. As an adult, he would keep a very
+interesting and useful diary. (<cit><bibl n="B30">Greene. <title>The
+Diary of Colonel Landon Carter. . . .</title></bibl></cit>)</note>
+
+<note id="n8">[8]  George Carter (<hi rend="italics">ca.</hi> 1718-
+<hi rend="italics">ca.</hi>1741-42) was Carter's fifteenth child; his
+mother was Betty Landon Willis Carter. He attended the College of
+William and Mary and was sent to London after his father's death to
+study law. He died there unmarried. (<cit><bibl n="B3">Carleton.
+<title>A Genealogy. . .  of Robert Carter. . . .</title> p.
+457.</bibl></cit>)</note>
+
+<note id="n9">[9]  Carter Burwell (1716-1756) was Robert Carter's
+grandson by his daughter Elizabeth (Carter) Burwell and her first
+husband, Nathaniel Burwell (1680-1721). Carter Burwell would live at
+"Carter's Grove," and would marry Lucy Grymes in 1738. (<cit><bibl
+n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . .
+.</title> p. 128.</bibl></cit>)</note>
+
+<note id="n10">[10]  Robert Carter Burwell (1720-1777) was Robert
+Carter's grandson by his daughter Elizabeth (Carter) Burwell and her
+first husband, Nathaniel Burwell (1680-1721). Robert Burwell would
+live in Isle of Wight County, and marry twice, first in 1742 to Sally
+Nelson, and later Mary Blair Braxton.(<cit><bibl n="B3">Carleton.
+<title>A Genealogy. . .  of Robert Carter. . . .</title> p.
+174.</bibl></cit>)</note>
+
+<note id="n11">[11] Lewis Burwell (1711 or 1712-1756) was Carter's
+grandson by Elizabeth Carter Burwell and her first husband, Nathaniel
+Burwell (1680-1721). He was educated at Eton and Cambridge, and
+inherited considerable property, living at "Fairfield," Gloucester
+Coounty. He would be president of the Council in 1750-
+1751.(<cit><bibl n="B42">Kneebone <hi rend="italics">et al.</hi>, 
+<title>Dictionary of Virginia Biography.</title> 2:434-
+5;</bibl></cit> and <cit><bibl n="B3">Carleton. <title>A Genealogy. .
+.  of Robert Carter. . . .</title> p. 114.</bibl></cit>) </note>
+
+<note id="n12">[12] Mann Page (1718-1778)  was Robert Carter's
+grandson by his daughter Judith (Carter) Page and her husband Mann
+Page (1691-1730). He  would inherit "Rosewell," Gloucester County,
+from his father, and marry first Alice Grymes (1724-1746) in 1743, 
+and in 1748, Ann Corbin Tayloe. (<cit><bibl n="B3">Carleton. <title>A
+Genealogy. . .  of Robert Carter. . . .</title> p.
+212.</bibl></cit>)</note>
+
+<note id="n12.5">[12.5]  Fairfax Harrison wrote that in 1726 there
+was a bill before the House of Burgesses proposing to "divide
+Stafford [County] at Aquia creek and create above that boundary a
+county to be named <hi rend="italics">Hartford,</hi> but after debate
+the proposal was rejected." (<cit><bibl n="B4">Harrison.
+<title>Landmarks. . . .</title> pp. 311-312, citing the <title>
+Journals of the House of Burgesses, 1727-1740.</title> pp. 408-
+414.</bibl></cit>)</note>
+
+<note id="n13">[13] A moiety is one of two approximately equal
+portions.</note>
+
+<note id="n14">[14] Robert Jones was the son of William Jones of
+Northumberland County; he moved to Prince William County where he was
+a justice and sheriff, 1731-32. He was a head overseer for Carter in
+the upper country between 1727 and 1729. (<cit><bibl n="B4">Harrison.
+<title>Landmarks. . . .</title> p. 339;</bibl></cit> and <cit><bibl
+n="A8">Berkeley. "Robert Carter as Agricultural Administrator: . .
+.", 273-295.</bibl></cit>)</note>
+
+<note id="n15">[15] Old Plantation was in Northumberland County. In
+Carter's inventory, Dennis Sullivant was the property's overseer of 8
+slaves, 36 sheep, 75 hogs, 66 cattle, and "a Mare called Mopsy 10
+yers ," etc. The property was bequeathed to Carter's son Landon.
+(<cit><bibl n="A26">Carter Papers: An Inventory. . . .";</bibl></cit>
+and <cit><bibl n="B30">Greene. <title>The Diary of Colonel Landon
+Carter. . . .</title> p. 4.</bibl></cit>)</note>
+
+<note id="n16">[16] Blough (Bluff) Point plantation was in
+Northumberland County "on Jarvis Creek about four miles from
+Kilmarnock in Bluff Point Neck."  As noted in the will, Carter  had
+purchased the property from "John Sudley, the Farther <add
+resp="editor"> [<hi rend="italics">sic</hi>]</add> and the Son . . ."
+and bequeathed it to Landon. (<cit><bibl n="B29">Miller. <title>Place-
+Names . . . . </title>. p. 82.</bibl></cit>; and <cit><bibl
+n="B30">Greene. <title>The Diary of Colonel Landon Carter. . .
+.</title>, p. 4.</bibl></cit>)</note>
+
+<note id="n17">[17] Thomas West was the overseer at Blough Point
+Quarter in
+Northumberland County when Carter's inventory was prepared in 1732.
+(<cit><bibl n="A26">Carter Papers: An Inventory. . .
+."</bibl></cit>.)</note>
+
+<note id="n18">[18]  Simon Sallard (d. 1747) was referred to in the
+1732 inventory of Carter's property as "Mr." He was then the manager
+of the plantations in Richmond and Westmoreland counties, and the
+overseer of Brick House Quarter in Richmond County. (<cit><bibl
+n="A26">"Carter Papers: An Inventory. . . ."</bibl></cit>; <cit><bibl
+n="B32">Morton. <title>Robert Robert Carter of Nomini Hall.</title>
+p. 33;</bibl></cit> and <cit><bibl n="B30">Greene. <title>The Diary
+of Colonel Landon Carter. . . .</title> p. 304.</bibl></cit>)</note>
+
+<note id="n19">[19]  Elizabeth Burwell (1718- ?) was Carter's
+grandaughter by his daughter, Elizabeth, and her first husband,
+Nathaniel Burwell. She would marry in 1738 William Nelson of
+Yorktown.(<cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of
+Robert Carter. . . .</title> p. 143.</bibl></cit>)</note>
+
+<note id="n20">[20] Augustine Moore (c. 1685-c.1734) of "Chelsea,"
+King
+William County, a justice and prominent leader. (<cit><bibl>J.H.P.,
+"The Gorsuch and Lovelace Families," <title>Virginia Magazine of
+History and Biography.</title> 25(1917): 431-444.</bibl></cit>)</note>
+
+<note id="n21">[21] Carter Page (1724-?)  was Robert Carter's
+grandson by his daughter Judith (Carter) Page and her husband Mann
+Page (1691-1730). He would die unmarried.  (<cit><bibl
+n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . .
+.</title> p. 252.</bibl></cit>)</note> 
+
+<note id="n22">[22] John Page (1720-1774)  was Robert Carter's
+grandson by his daughter Judith (Carter) Page and her husband Mann
+Page (1691-1730). He would live at "North End," Gloucester County,
+and marry Jane Byrd in 1746. (<cit><bibl n="B3">Carleton. <title>A
+Genealogy. . .  of Robert Carter. . . .</title> p.
+221.</bibl></cit>)</note>
+
+<note id="n23">[23] Elizabeth (Harrison) Randolph (1724-1745) was
+called "Betty." She was Carter's granddaughter by his daughter Anne
+and her husband, Benjamin Harrison IV. Betty would marry Peyton
+Randolph, and their son, Benjamin Harrison V, would be a signer of
+the Declaration of Independence, and governor of Virginia.
+(<cit><bibl>"Harrison of James River," <title>Virginia Magazine of
+History and Biography. </title> 32(1924): 97;</bibl></cit> and
+<cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert
+Carter. . . .</title> p. 259.</bibl></cit>)</note>
+
+<note id="n24">[24]  Anne (Harrison) Randolph (<hi
+rend="italics">ca.</hi> 1722-1745) was Carter's granddaughter by his
+daughter Anne and her husband, Benjamin Harrison IV.  She would marry
+William Randolph of "Wilton," Henrico County in 1735.
+(<cit><bibl>"Harrison of James River," <title>Virginia Magazine of
+History and Biography. </title> 32(1924): 97;</bibl></cit> and
+<cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert
+Carter. . . .</title> p. 254.</bibl></cit>)</note>
+
+<note id="n25">[25] Rippon Hall was Edmund Jening's estate in York
+County which he had acquired in 1687 from John and Unity West when it
+was named "Poplar Neck." Jenings's bad financial circumstances forced
+him to mortgage the property to Carter who eventually acquired title
+to it. (<cit><bibl>"Notes and Queries." <title>William and Mary
+Quarterly.</title> 2[Apr. 1894]: 270-278.</bibl></cit>)</note>
+
+<note id="n26">[26] The clerk copying the will made a mistake in
+writing "Clough" for "Blough." No record of a "Clough Point" property
+has been found. For Blough (Bluff) Point plantation, see # 15
+above.</note>
+
+<note id="n28">[28] Thomas Carter (1672-1733) was the second of that
+name in
+Lancaster County, and may have been Carter's first cousin as there
+is evidence that their fathers were brothers. He lived at "Barford"
+in the northern part of the county. (<cit><bibl>Catherine Adams
+Jones, <title>The Early Thomas Carters of Lancaster County,
+Virginia.</title> Lancaster, Virginia: Mary Ball Washington Museum
+&amp; Library, 1982.</bibl></cit>)</note>
+
+<note id="n29">[29] The name "John Hutchins" appears as a resident
+of Christ Church Parish in the 1716 Lancaster County tithables list.
+(<cit><bibl>"Tithables in Lancaster Co., 1716." <title>William and
+Mary Quarterly</title> 1st. ser., 21[July 1912]: 106-
+11.</bibl></cit>)</note>
+
+<note id="n30">[30]  The <hi rend="italics">Mercury</hi> was a slave
+ship owned by Bristol merchants Francis Chamberlayne and Francis
+Sitwell. See Carter's letters of July 1720 to these men and others
+concerning his participation in a sale of a quantity of slaves that
+reached the colony in 1720 on board this ship. (<cit><bibl
+n="B12">Wright. <title>Letters of Robert Carter. . . .</title> p.
+40.</bibl></cit> )</note>
+
+<note id="n31">[31] Edward Hill was John Carter's father-in-law
+through his marriage to Elizabeth Hill; John came into possession of 
+"Shirley" in Charles City County near Williamsburg from Edward Hill.
+He  also acquired many of his father-in-law's debts as the will
+notes.</note>
+
+<note id="n32">[32] Property that is entailed in a will is
+restricted so that it may pass only to certain types, often male, of
+descendants.</note>
+
+<note id="n33">[33] "William Forrester had been murdered on November
+5, 1723, by Thomas Glascock whose son Gregory was named as an
+accessory." Carter had noted Glascock's capture in his diary on
+November 13th: "Collo Barber acquaints me me he had Seizd Glascocks
+who had fled for Murther his Estate Coll Tarpley in the behalf of
+Glascocks Heir offers to Enter the Land as Escheat " The lands
+reverted to the proprietors, and Carter apparently managed them for
+some years for the benefit of Glascock's heirs; he later acquired
+title to the properties which are mentioned in his will. (<cit><bibl
+n="B31">Ryland. <title>Richmond County Virginia. . . . </title> p.
+101.</bibl></cit></note>
+
+<note id="n34">[34] John Turbervile (d. 1728) was a justice,
+burgess, and sheriff of Lancaster County. (<cit><bibl>"Tithables in
+Lancaster Co., 1716." <title>William and Mary Quarterly</title> 1st.
+ser., 21[July 1912]: 106-11;</bibl></cit> and <cit><bibl>"Turberville
+Family of VA," 
+http://members.tripod.com/~Bonestwo/index-6.html,  reviewed and
+downloaded 10/31/2002 </bibl></cit>)</note>
+
+<note id="n35">[35] "Thos. Edwards, a little petty Fogging Lawyer
+the Clark of our
+County that hath as much Mettle and more cunning for Contention then
+his predecessor had" Carter wrote to Landon Jones, July 23, 1723.
+Edwards was clerk of the Lancaster County court from 1720-1746.
+(<cit><bibl><title>Within the Court House at Lancaster.</title>
+Lively, VA: Lively Printing Services, Lively, VA: Lively Printing
+Services, [1976]. p. 15.</bibl></cit>)</note>
+
+<note id="n36">[36]  Carter had a clerk named John Harvey, and there
+are notes on some of his letters, "Harvey to copy." A John Harvey
+witnessed his will, and some of its codicils, which is logical if
+Harvey had written it out for Carter. However, on 1729 November 14,
+Carter wrote to Micajah Perry that Harvey, "whom you sent me from the
+Hospital," had completed his service, indicated that he did not trust
+Harvey, and intimated that Harvey may have stolen some accounts of
+the Burwell estate of which he requested copies from Perry.</note>
+
+<note id="n37">[37] Carter refers to an act  of the Assembly of 1727
+February, "1st George II, Chap. XI," entitled "<hi rend="italics">An
+Act to explain and amend the Act,</hi>" For declaring the Negro,
+Mulatto, and Indian Slaves, within this Dominion, to be Real Estate.
+. . ." (<cit><bibl>William Waller Hening. <title>The Statutes at
+Large; being A Collection of All the Laws of Virginia. . . .</title> 
+[Richmond: privately printed, 1820. Facsimile reprint, 1969.] 4:222-
+228.</bibl></cit>)</note>
+
+<note id="n38">[38] John Carter (b. <hi rend="italics">ca.</hi>
+1725) was Carter's grandson by his son John and his wife Elizabeth
+(Hill) Carter whom he married in 1723. Little is known of the
+grandson who was alive in 1728 when Carter wrote the second codicil
+to his will.</note>
+
+<note id="n39">[39] Robert Carter (1728-1804) was Carter's grandson
+by his son Robert  (1704-1732) and his wife Priscilla (Churchill)
+Carter. The grandson would inherit his father's home at Nomini, and
+would be known as "Councillor" Carter. He would marry Frances A.
+Tasker of Maryland in 1754. (<cit><bibl n="B32">Morton. <title>Robert
+Robert Carter of Nomini Hall;</title></bibl></cit> and <cit><bibl
+n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . .
+.</title> p. 332.</bibl></cit>)</note>
+
+<note id="n40">[40] "Viz." is an abbreviation for the Latin word
+"videlicet" which means "namely."</note>
+
+<note id="n41">[41] The <hi rend="italics">John &amp; Betty</hi> was
+a Liverpool ship owned by merchant John Pemberton. In 1726 the
+captain was John Gale, and in the next year, she was commanded by a
+Captain Denton. (<cit><bibl n="B12">Wright. <title>Letters of Robert
+Carter. . . .</title> p. 18, n. 23.</bibl></cit>)</note>
+
+<note id="n42">[42] Elizabeth (Carter) Willis (1725-<hi
+rend="italics">post</hi> 1763)was Carter's granddaughter by his son
+Robert. She would marry Francis Willis (1717-1797) of "'White Hall,"
+Gloucester County in 1742. (<cit><bibl n="B3">Carleton. <title>A
+Genealogy. . .  of Robert Carter. . . .</title> p.
+312.</bibl></cit>)</note>
+
+<note id="n43">[43] George Nicholas (1726-1771) was Robert Carter's
+grandson by his daughter Elizabeth (Carter) Burwell and her second
+husband, Dr. George Nicholas. He would marry Elizabeth Ruffin.
+(<cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert
+Carter. . . .</title> p. 176.</bibl></cit>)</note>
+
+<note id="n44">[44] John Nicholas (1725-1790) was Robert Carter's
+grandson by his daughter Elizabeth (Carter) Burwell and her second
+husband, Dr. George Nicholas. He would marry Martha Fry in 1758.
+(<cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert
+Carter. . . .</title> p. 174.</bibl></cit>)</note>
+
+<note id="n45">[45] Matthew Page (<hi rend="italics">ca.</hi> 1726-
+?)  was Robert Carter's grandson by his daughter Judith (Carter) Page
+and her husband Mann Page (1691-1730). He would die unmarried.
+(<cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert
+Carter. . . .</title> p. 252.</bibl></cit>)</note>
+
+<note id="n46">[46] Robert Page (<hi rend="italics">ca.</hi> 1722-
+1768)  was Robert Carter's grandson by his daughter Judith (Carter)
+Page and her husband Mann Page (1691-1730). He would live at
+"Broadneck," Hanover County, and marry Sarah Walker in 1750.
+(<cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert
+Carter. . . .</title> p. 241.</bibl></cit>)</note>
+
+<note id="n47">[47] This was probably Barnabas Burch "the
+boatbuildr" with whom Carter had problems causing him to describe
+Burch as "an idle Roug ever Since he came here  the work he has don
+hath not answerd" in his diary entry for 1725 February 2. In June of
+that year, Carter learned the Burch and several others had stolen a
+gun and hidden it in the woods. In July Carter won a judgement
+against Burch for running away, and because Burch confessed "that he
+is totally ignorant of and unable to perform the trade &amp;
+misteries of a house carpenter for which he entered into Covenant
+with his sd Master in Great Britain." The court added time to Burch's
+indenture, and ordered that he receive no salary during his term. 
+(<cit><bibl n="B28">Jones, <title>Orders Book Entries . . . Referring
+to "Robert Carter. . . ."</title> p. 120 abstracting Lancaster County
+Court Orders Book 7 1721-1729, page 181.</bibl></cit>)</note>
+
+<note id="n48">[48] Carter's 1732 inventory listed a John Conner as
+a "Taylor" at Corotoman.</note>
+
+<note id="n49">[49] Bridge House Quarter was located in Riichmond
+County and lay close to Hickory Thicket "northeast of Warsaw." In
+Carter's 1732 inventory, Charles Campbell was the overseer of 9
+slaves, 8 horses, 41 hogs, and 31 cattle. (<cit><bibl n="B29">Miller.
+<title>Place-Names . . . . </title>p. 16;</bibl></cit> and <cit><bibl
+n="A26">"Carter Papers: An Inventory. . . ."</bibl></cit>)</note>
+
+<note id="n50">[50] This note eliminated. See fn 6.</note>
+
+<note id="n51"> [51] John Mercer (1704-1768) emigrated from Ireland
+where he had been
+trained as an attorney. "He settled at Marlboroughtown in 1726 as a
+practicing attorney and at once allowed a facile pen to get him into
+trouble with the government." He eventually lost his license to
+practice law, and turned to the land speculation that he had begun as
+soon as he reached Virginia. (<cit><bibl n="B4">Harrison.
+<title>Landmarks of Old Prince William</title> p. 315.</bibl></cit>
+and <cit><bibl n="B24">Copeland and MacMaster. <title>The Five George
+Masons.</title></bibl></cit>)</note>
+
+
+<note id="n52">[52] "In 1724, Robert Carter took out patents for,
+among others: the Licking Run tract of 10,227 acres which lay along
+and east of Licking Run above Germantown and across Owl and Turkey
+Runs, to what was then supposed to be the western boundary of the
+vast Brent Town Tract. Here Carter seated the Lodge Quarter mentioned
+in his will." (<cit><bibl>Carl F. Cannon, Jr., "Robert ("King")
+Carter of "Corotoman." Unpublished doctoral dissertation, Duke
+University, 1956, p. 274.</bibl></cit>)</note>
+
+<note id="n53">[53] Robert Carter Nicholas (1728-?) was Robert
+Carter's grandson by his daughter Elizabeth (Carter) Burwell and her
+second husband, Dr. George Nicholas. He would marry Ann Cary in 1751.
+(<cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert
+Carter. . . .</title> p. 176.</bibl></cit>)</note>
+
+<note id="n54">[54]  In 1728, Carter, his sons Robert and Charles,
+and his son-in-law Mann Page,  organized a company to mine for copper
+on a tract of some 27,000 acres that Louis Morton describes as lying
+"near the present boundary of Fairfax and Loudoun counties." Fairfax
+Harrison wrote that the tract was "on the Horsepen of Broad."
+Horsepen Run joins Broad Run on the northern border of Dulles
+airport. The company was not successful. (<cit><bibl n="B32">Morton.
+<title>Robert Robert Carter of Nomini Hall.</title> pp. 18-
+19;</bibl></cit> and <cit><bibl n="B4">Harrison. <title>Landmarks. .
+. .</title> p. 342. </bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text revised June 6, 2009.</hi></note>
+
+
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

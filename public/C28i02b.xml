@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C28i02b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to John Stark, September 2 &amp;amp; 13, 1728</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca.7  kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C28i02b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2004</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to John Stark, September 2 &amp; 13, 1728</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1728-09-02</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C28i02bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent> p.</extent>
+<date value="1728-09-02"></date>
+<idno rend="suppress">C28i02b.xml</idno>
+<title>Letter from Robert Carter to John Stark, September 2 &amp; 13, 1728</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Glasgow merchant John Stark, September 2, 1728, to inform him that he has been unable to ship tobacco in "Mr. Cheaps Ship" because she was full when she reached his house. He also reports several bills of exchange that he has lately drawn on Stark, and in a post script dated September 13th reports another.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note target="n1">John Stark,</note> September 2 &amp; 13, 1728</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1728-09-02">Sepr. the. 2d. 1728</date><lb/>
+Mr. John Stark<lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+
+
+<p>Twelve <abbr expan="hogsheads">hhds:</abbr> I proposed to Send you by <note target="n2">Mr. Cheaps</note> <lb/>Ship I am disappointed of his Sloop came indeed before I was ready <lb/>after I had got my <abbr expan="Tobacco">Tobbo:</abbr> in order I Send to the Master about it Desire<lb/>ing he would take it in when he came down against my house <lb/>but now he is full my <abbr expan="Tobacco">Tobbo:</abbr> <sic corr="lies">lyes</sic> by me without present Prospect of Shipping it any where,</p>
+
+<p>This comes by the Ship and is to advise you tht. <lb/>I have lately drawn on your for &pound;100 payable to Colonel <note target="n3">John <lb/>Tayloe</note> and &pound;14 to Mr. <note n="TC1">Thomas Carter</note> making this money as <lb/><sic corr="easy">easie</sic> to the Bristol men as you can you will oblige me My Invoice <lb/>I Sent you Via London and also by <note target="n4"><abbr expan="Captain">Capt:</abbr> Sharp</note> by whom writ <lb/>to you at large Shall take my Leave at present </p>
+
+<closer><seg type="postscript">Sir Yor. very humble Servt.
+<lb/><lb/>P:S: I believe I Shall <lb/>Suddenly have Occasion to draw upon you for &pound;40 more, 
+<lb/><lb/>per <note target="n5">Dunlop
+</note><lb/>Copy per Raymond</seg>
+
+<seg type="postscript"><lb/><lb/>Sir<lb/>Sepr. 13th: 1728&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	I have this day drawn upon you for &pound;41 payable to <note n="RM"><abbr expan="Richard">Richd.</abbr> Meeks</note></seg>
+
+
+</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1] John Stark was a merchant, probably the one to whom Carter referred when he wrote to Micajah Perry on 1723 July 4 that he had drawn an order on "Mr. Stark of Glasgow." On that same day, he wrote to a John Stark, referring to Captain Bowman.</note>
+
+<note id="n2">[2] Mr. Cheap has not been identified. He may have been a factor on a ship commanded by someone else since Carter does not refer to him as "captain."</note>
+
+<note id="n3">[3] John Tayloe (1687-1747) of Mt. Airy, Richmond County, who served as justice, burgess, colonel of militia, and as a member of the Council after 1732. (<cit><bibl n="B31">Ryland. <title>Richmond County Virginia. . . . </title> pp. 115-16.</bibl></cit>)</note>
+
+<note id="n4">[4] The <hi rend="italics">Martha</hi>  was commanded by a Captain Dunlop; see Carter to Richard Oswald &amp; Company 1729 August 11.</note>
+
+<note id="n5">[5] No information has been found about captains Sharp and Raymond.</note>
+
+ 
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

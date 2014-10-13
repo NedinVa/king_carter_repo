@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C29f27d">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Captain John Hyde &amp; Company, June 27, 1729</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca.  kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C29f27d.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2005</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Captain John Hyde &amp; Company, June 27, 1729</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1728 August 8-1730 May 15,  Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1729-06-27</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C29f27dT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1729-06-27"></date>
+<idno rend="suppress">C29f27d.xml</idno>
+<title>Letter from Robert Carter to Captain John Hyde &amp; Company, June 27, 1729</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchants  Captain John Hyde &amp; Company, June 27, 1729, to notify the firm of tobacco shipped earlier and of a bill of exchange as well as of an order for wine. He sends an invoice, 2 bills of exchange, and a bill of lading for tobacco belonging to the estate of Nathaniel Burwell.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to Captain <note n="JH2">John Hyde</note> &amp; Company, June 27, 1729</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1729-06-27">June 27th. 1729</date><lb/>
+Capt. John Hyde &amp; Company<lb/>
+</dateline>
+<salute>Gent&mdash;</salute>
+
+</opener>
+
+<p>I writ to you by <note target="n1"><abbr expan="Captain">Capt.</abbr>. Woodward</note> by whom sent <abbr expan="you">yu.</abbr><lb/>
+40 hhds. of <abbr expan="Tobacco">Tobbo:</abbr> then advised you of a bill of Exchange I had drawn on you<lb/>
+for&pound;40 <add place="supralinear">12:3</add> to him also desired your orders by him to <sic corr="Madeira ">Madera </sic>next year for<lb/>
+2 Pipes of the best wine and <sic corr="mentioned">mention</sic> some other things to which I desire <lb/>
+You to be <sic corr="referred">referrd</sic>.</p>
+
+<p>	Now I send you an Invoice for some things for my 3<lb/>
+Younger Children in the buying and <sic corr="shipping">shiping</sic> them I desire the Directions<lb/>
+therein given may be followed,</p>
+
+<p>Herein I send you 2 small bills of Exchange one of <abbr expan="Charles">Chas:</abbr><lb/>
+Broadwaters for &pound;3"1"1 the other of <note target="n2"><abbr expan="Charles">Chas:</abbr> Lee's</note> for &pound;5"6"- both upon yor.<lb/>
+selves which I desire Credit for.</p>
+
+<p>Herein comes to you a bill of Lading for 10 hhds.<lb/>
+belonging to the <note n="NB"><abbr expan="Nathaniel Burwell's">NBs:</abbr></note> Estate, you have the last years Crop of that Plantation<lb/>
+to Accot. for as also all the <abbr expan="Tobacco">Tobbo.</abbr> I sent you last year. Yor. sales of the<lb/>
+York river <abbr expan="Tobacco">Tobbo:</abbr> belonging to Mr. Burwells' Estate I <sic corr="believe">beleive</sic> will keep pace<lb/>
+with most of the rest of the sales of that Concern some that are <sic corr="Concerned">Concernd</sic> in it<lb/>
+think otherways and yet I must own it to be my fault you have more<lb/>
+of that <abbr expan="Tobacco">Tobbo:</abbr> this Year It is <sic corr="chiefly">cheifly</sic> all <sic corr="shipped">shipt</sic> in <note n="MP2">Mr. Perrys</note> ships who<lb/>
+hath bin very <sic corr="obliging">obligeing</sic> to us. however I intend to make you amends the next<lb/>
+Crop I am
+</p>
+
+<closer>Sir<lb/>
+Yor. most humble Servt.&mdash;
+<seg type="postscript"><lb/><lb/><note n="MP1">Colonel Page</note> and myself have drawn<lb/>
+on you for &pound;100 on the Accot. of Mr.<lb/>
+Burwells Estate Payable to Mr. <abbr expan="Emanuel">Emanul.</abbr> Jones Clerk which you are to<lb/>
+Charge to the Accot. of that Estate,<lb/><lb/>
+Per <note target="n3"><sic corr="Bailey">Baily</sic></note></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. </note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
+
+<note id="n1">[1] Thomas Woodward commanded the <hi rend="italics">Providence,</hi> a ship owned by Captain John Hyde &amp; Company, during a number of voyages to the colony, 1723-1729. (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194 and Survey Report 6801 summarizing Adm 68/195, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia,</bibl></cit> and Carter's letter to the firm, 1723 September 17.)</note>
+
+<note id="n2">[2] Charles Lee (1684-1735) of Cobb's Hall, Northumberland County. </note>
+
+<note id="n3">[3] The <hi rend="italics">Bailey</hi> was a London ship owned by William Dawkins and commanded at various times by Adam Graves (1725-1730) and by Thomas Dove (1731-1732). She was a vessel of some 250 tons and carried 15-17 crew members. (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, 156v, and other data in Adm. 68/194 and /196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> A letter of Carter's executors to Dawkins 1738 May 10 refers to "your ship Bailey.")</note>
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

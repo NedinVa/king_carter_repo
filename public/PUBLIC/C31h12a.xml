@@ -1,0 +1,188 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C31h12a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Lewis Burwell, August 12, 1731</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 11 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C31h12a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2006</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Lewis Burwell, August 12, 1731</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1731-08-12</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C31h12aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent> p.</extent>
+<date value="1731-08-12"></date>
+<idno rend="suppress">C31h12a.xml</idno>
+<title>Letter from Robert Carter to Lewis Burwell, August 12, 1731</title>
+</bibl>
+</head>
+<p>Robert Carter writes to his grandson Lewis Burwell, a student at Cambridge, August 12, 1731, to chide him for having someone else draft his last letter, and to point out that if Burwell remains at the university for another two years, he will spend nearly all of his inheritance from his father.
+</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to Lewis Burwell, August 12, 1731</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1731-08-12">Augst. 12. 1731</date><lb/>
+Mr. Lewis Burwell<lb/>
+</dateline>
+
+
+</opener>
+
+
+
+<p>I <abbr expan="received">receiv'd</abbr> your letter of the 25th of January from <note target="n2"><sic corr="Caius">Cains</sic><lb/>
+<sic corr="College">Colledge</sic></note> by the difference in the Style <del>[illegible]</del><lb/>
+from all the rest of the Epistles I have had from you I <sic corr="looked">lookt</sic> upon<lb/>
+it as the <del>[illegible]</del> effects of anothers invention and not the product<lb/>
+of your own brain and therefore Shall not run into the particulars<lb/>
+of such a Conceited <abbr expan="piece">ps</abbr> of Stuff, it tells me you are under close <sic corr="applica">applyca</sic><lb/>
+tion after the <sic corr="Search">Serch</sic> of knowledge I pray god send amongst your<lb/>
+great gettings you promise yourself where you are that you may get<lb/>
+Wisdom and such that will be your guide in a Virginia Life<lb/>
+which must be your doom if you do not Fall into Courses that will<lb/>
+threaten your ruin in the end As for Scholarship your head seems<lb/>
+not to be <abbr expan="turned">turn'd</abbr> to make any large improvements that Way what<lb/>
+good the conversation of the University will do you I shall not<lb/>
+prognosticate but I think I may fairly suppose you will come<lb/>
+into your own country very indifferently <abbr expan="equipped">equ'pt</abbr> with talents<lb/>
+proper to govern your affairs here.</p>
+
+<p>You have broke <abbr expan="through">thro'</abbr> my orders and<abbr expan="it is"> 'tis </abbr>in vain for<lb/>
+me to lay any more upon you <note n="MP2">Mr. Perry</note> tells me that you intend in the<lb/>
+next Shipping you talk of staying two years where you are which<lb/>
+will reduce to A low Ebb the money that you will have to Claim out<lb/>
+of <note n="NB">your fathers</note> Estate and you will be put to the refuge of living upon<lb/>
+the produce of <abbr expan="Your">Yr.</abbr> crops which you may be <sic corr="informed">informd</sic> by Mr. Perry<lb/>
+will do very little in these dead times If you are Capable of serious<lb/>
+thoughts the consideration of this <sic corr="melancholy">melancholly</sic> cloud over us will<lb/>
+stick close to you and put you upon thinking that money does not<lb/>
+grow out of the tops of Our trees</p>
+
+<pb n="2"/><lb/><lb/>
+<p><note n="ECB">Your mother</note> is Now here with <note target="n3">your Sister Betty</note><lb/>
+and a son by her last husband she writes to you <sic corr="herself">her Self</sic> Your <note target="n4">uncle<lb/>
+Landon</note> &amp; <note n="MCB">Aunt Mary</note> send their loves to you.  I am <sic corr="though">tho</sic> <abbr expan="disobliged">disoblig'd</abbr> 
+
+</p>
+
+<closer><seg type="postscript"><lb/><lb/></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia. There is a 19th-century transcript of the letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to persons abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1] Lewis Burwell (1711 or 1712-1756), Carter's grandson by Elizabeth Carter Burwell and her first husband, Nathaniel Burwell (1680-1721); Carter was his guardian. He was educated at Eton and Cambridge, and inherited considerable property, living at "Fairfield," Gloucester County. He would be president of the Council in 1750-1751. (<cit><bibl n="B42">Kneebone <hi rend="italics">et al.</hi>,  <title>Dictionary of Virginia Biography.</title>  2:434-5.</bibl></cit> and <cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 114.</bibl></cit>)</note>
+
+<note id="n2">[2] Burwell was attending Gonville and Caius College, one of the oldest of the several that make up the University of Cambridge. (John and J.A. Venn. <title>Alumni Cantabrigienses from the Earliest Times to 1900.</title> [Cambridge: Cambridge University Press, 1922-54]. 10 volumes, cited in an email to the editor from Jaqueline Cox, archivist, University of Cambridge, 5/10/06.)</note>
+
+<note id="n3">[3]  Elizabeth Burwell (1718- ?) was Carter's grandaughter by his daughter, Elizabeth, and her first husband, Nathaniel Burwell. She married in 1738 William Nelson of Yorktown. (<cit><bibl n="B3">Carleton. <title>A Genealogy . . .  of Robert Carter. . . .</title> p. 143.</bibl></cit>)</note>
+
+<note id="n4">[4] Landon Carter (1710-1778) was Carter's seventh child by his second wife, Elizabeth (Landon) Willis. Landon would live at "Sabine Hall," Richmond County, and marry three times, leaving many descendants, some of whom own "Sabine Hall" today. As an adult, he would keep a very interesting and useful diary. A reproduction of a portrait of him may be found on the website of the <xref doc="http://www.christchurch1735.org/history/robert_carter.html">Foundation of Historic Christ Church.</xref> (<cit><bibl n="B30">Greene. <title>The Diary of Colonel Landon Carter. . . .</title></bibl></cit>)</note>
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

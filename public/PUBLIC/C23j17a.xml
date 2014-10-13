@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C23j17a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Micajah Perry, October 17, 1723</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 7 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C23j17a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2002</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Micajah Perry, October 17, 1723</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1723-10-17</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C23j17aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent> p.</extent>
+<date value="1723-10-17"></date>
+<idno rend="suppress">C23j17a.xml</idno>
+<title>Letter from Robert Carter to Micajah Perry, October 17, 1723</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant Micajah Perry, October 17, 1723, requesting his assistance in obtaining a post on the Council of Virginia for his son John in the place of William Bassett who has just died. He has just returned from a trip up the Rappahannock to the falls on which he found only poor crops. The <hi rend="italics">Harrison</hi> has arrived, and he  has heard guns and assumes others have as well. If all the ships that are expected arrive, freight rates will be lower than what he understands Perry has chartered for.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="MP2">Micajah Perry,</note> October 17, 1723</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1723-10-17">October  17th. 1723&mdash;</date><lb/>
+Mr. Micajh Perry<lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+<p>This is <sic corr="occasioned ">occasion'd</sic> by the News came to me two days ago <lb/>of the death of <note target="n1"><abbr expan="Colonel">Collo.</abbr>  Bassett</note> which makes a Vacancy in the Council <lb/><note n="JC1">My Son</note> <sic corr="has ">hath </sic> told me the <note n="HD"><abbr expan="governor ">Govr.</abbr></note> hath <sic corr="promised ">promissd</sic> him to reccommend him <lb/>In the first place and indeed as he is Secretary there seems to be <lb/>a Sort of Justice due to him to have it, I cannot doubt but upon the <lb/><sic corr="earliest ">Earlyest</sic> Intelligence You will Exert Your utmost Strength in <lb/>his favour, <note target="n2">he was Married</note> the third of this Month &amp; <sic corr="has ">hath </sic> Years <lb/>Enough over his head, as also an Education <sic corr="equal ">Equall</sic> to any post <lb/>In the Country, there is another person whom You will <sic corr="guess ">ghess</sic> <lb/>without my <sic corr="naming ">Nameing</sic> that has Ambition Enough I'm sure &amp; <lb/>perhaps will push for the <sic corr="precedency ">Preceedency</sic> his dependance I know will <lb/>be upon the favour of Mr. <note target="n3">Horace Walpole,</note> I Shall think it an <lb/>Injustice to my Son in many respects, If he Should be rankd <lb/>before him,</p>
+
+<p>The <name type="ship">Harrison</name> has bin in these ten days &amp; a Ship <lb/>from Brooks, I have heard Guns these two or three days past <lb/>believe there are more of them in,</p>
+
+<p>I am Just come home from the falls of <note target="n4">our River</note> 
+
+<pb n="2"/><lb/><lb/>
+<add resp="editor">[ . . . ] </add> Seen Abundance of Crops, You may depend upon it Crops <lb/><add resp="editor">[are?] </add> <abbr expan="generally ">Genly.</abbr> mean both in quantity &amp; Quality, <note n="MP1"><abbr expan="Colone l">Collo.</abbr> Page</note> <sic corr="has ">hath </sic> <lb/>Sent me Your Lettrs., and Your <sic corr="packets ">packetts</sic> of News, It Seems You <lb/>have <sic corr="chartered ">Charterd</sic> at &pound;8/10 per <sic corr="ton ">Tun</sic> If all the Ships come that <lb/>Are <sic corr="talked ">Taulkd</sic> of, I can hardly think the <sic corr="freight ">freit</sic> will run so high <lb/>I Shall give no particular Answer to Yor. Lettrs., at present <lb/>but remain </p>
+
+<closer>Sir &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. most humble Servt.</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1723 June 16-1724 April 23, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia. There is a nineteenth-century transcript of this letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia. </note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1] William Bassett (1670-1723) of "Eltham," New Kent County. (<cit><bibl n="B42">Kneebone<hi rend="italics"> et al.</hi>,  <title>Dictionary of Virginia Biography.</title>1:387-88.</bibl></cit>
+)</note>
+
+<note id="n2">[2] John Carter (1689/90-1742) married October 3,  1723, Elizabeth Hill(? - 1771) of "Shirley," by whom he would have four children. (<cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> pp. 3-4.</bibl></cit>)</note>
+
+<note id="n3">[3] Horace Walpole was the brother of Robert Walpole, the chief minister of England. He held the posts of "auditor general and surveyor general of the royal revenue in the colonies." (<cit><bibl n="B27">Billings. <hi rend="italics">et al. </hi> <title>Colonial Virginia: A History. </title></bibl> p. 197.</cit>)</note>
+
+<note id="n4">[4] The Rappahannock.</note>
+
+
+<lb/><lb/><note><hi rend="italics">This text revised November 19, 2010.</hi></note>
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C24d07b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to [Mr. Randall], April 7, 1724</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 5 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C24d07b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2002</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to [Mr. Randall], April 7, 1724</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1724-04-07</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C24d07bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1724-04-07"></date>
+<idno rend="suppress">C24d07b.xml</idno>
+<title>Letter from Robert Carter to [Mr. Randall], April 7, 1724</title>
+</bibl>
+</head>
+<p>Robert Carter writes to [Mr. Randall], April 7, 1724, to inform the attorney that he has written the attorney general to initiate "out lawry" proceedings against the murderer, Thomas Glascock, and has let Clayton know that Randall will assist in the matter. He alerts Randall that his daughter Elizabeth Burwell's "Imprudent Match" with Dr. George Nicholas will likely produce some law suits as he is the guardian for the Burwell children, and is acting executor of the Burwell estate. He expects Randall's assistance in these legal matters.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to [Mr. Randall], April 7, 1724</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
+<date value="1724-04-07">Aprill the 7th: <hi rend="underline">17234</hi> <add resp="editor"> [<hi rend="italics">sic</hi>]</add></date><lb/>
+
+</dateline>
+
+
+</opener>
+
+<p>According to your advice to my <note n="JC1">Son</note> <lb/>I have <sic corr="written">writ</sic> to <note n="JC3">Mr. Attorney</note> to prosecute a out&mdash; <lb/>Lawry against the <sic corr="murderer">Murtherer</sic> <note target="n1"><abbr expan="Thomas">Tho</abbr> Glasscock</note> and&mdash; <lb/>have told him as you are my Lawyer for the propri<lb/>etors business would be ready to give him you Assis<lb/>tance.</p>
+  
+<p><note n="ECB">Mrs: Burwells</note> Imprudent Match with&mdash; <lb/><sic corr="Doctor">Dotor</sic> Nicolass It is likely may Engage me in some Law <lb/>Suits upon my own Accot: as I am Guardian to <note n="NB">Mr&mdash;<lb/>Burwells</note> Children And as I am his Acting Executor <lb/>As you are already my Lawyer I canot doubt of your&mdash; <lb/>Assistance in these Affairs <note n="MP1"><abbr expan="Colonel">Collo:</abbr> Page</note> I Expect hath al<lb/>ready <sic corr="written">writ</sic> to Engage you however having this Opor<lb/>tunity by <note n="GE"><abbr expan="Captain">Capt.</abbr> Eskridge</note> I thought it not amiss to let you <lb/>know the intire dependance I have upon you who <lb/>am <hi rend="underline">Sr</hi></p>
+
+<closer>Your most humble Servt:</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1723 June 16-1724 April 23, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>The name of Carter's home, "Corotoman," the county, and colony have been added for clarity to this unheaded draft.</note>
+
+<note>In a letter to Attorney General John Clayton,  1724 April 7, that follows two on the same subjects in the letter book, Carter identifies his attornies as "Mr. Holloway and Mr. Randall." As one letter  indicates an acquaintanceship of long standing,  it has been selected as one directed to John Holloway, and this one to Randall who has not been identified.</note>
+
+<note id="n1">[1] "William Forrester had been murdered on November 5, 1723, by Thomas Glascock whose son Gregory was named as an accessory." Carter had noted Glascock's capture in his diary on November 13th: "Collo Barber acquaints me me he had Seizd Glascocks who had fled for Murther his Estate Coll Tarpley in the behalf of Glascocks Heir offers to Enter the Land as Escheat " The lands reverted to the proprietors, and Carter apparently managed them for some years for the benefit of Glascock's heirs; he later acquired title to the properties which are mentioned in his will. (<cit><bibl n="B31">Ryland. <title>Richmond County Virginia. . . . </title> p. 101.</bibl></cit></note>
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

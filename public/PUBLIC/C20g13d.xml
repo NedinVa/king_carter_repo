@@ -1,0 +1,346 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C20g13d">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to William Dawkins,
+1720 July 13</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia
+Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 14 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">filename</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL:
+http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to William Dawkins, 1720 July
+13</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>3 p.</extent>
+<publicationStmt>
+     <date>unpublished</date>
+   <idno type="callNo">Source copy consulted:  Source copy
+consulted:   Robert Carter Letter Book, 1720 July-1721 July, BR 227,
+Huntington Library, Art Collections, and Botanical Gardens, San
+Marino, California.
+</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic
+Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text
+Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject
+Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1720-07-13</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term
+type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C20g13dT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>3 pp.</extent>
+<date value="1720-07-13"></date>
+<idno rend="suppress">C20g13d</idno>
+<title></title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant July 13, 1720, in a
+letter by the <hi rend="italics">Carter</hi> that he is shipping 60 hogsheads of tobacco on
+her, and 10 more in the <hi rend="italics">Mercury</hi>; he expects 11 pence per pound or he
+will lose money. He reports that all goods came in good order but
+coats for his two daughters were not included and should be sent next
+season. He sends an order for more goods, writing "You tell me You
+lay out my money wth. as much Caution as If It were Yor. own, This I
+must Confess is all I can desire, yett give me leave to Say some of
+them seems to be extraordinary Dear,"   and chides Dawkins about his
+suggestion that Carter should follow Mrs. Heath's example in his
+spending. "I must cutt my Coat according to my own Cloth and bless
+God I am able to Do so well as I Do," he concludes. He presses
+Dawkins to find employment for Ben Graves, the son of Carter's old
+friend, ship captain Thomas Graves, and then discusses debts due
+Dawkins from Thomas Cunningham, Patrick Connolly, and Mr. Heath. He
+adds that he wants Dawkins to give him more information about his
+sons, then in England at school, and especially about their expenses
+which Carter thinks high and suggests that he may move them to the
+Manchester School. He reports a bill of exchange, drawn on Dawkins,
+that he has given Edmund Jenings, and that he has had numerous deaths
+in his slave "familys" which are costing him a great deal to replace.
+He also chides Dawkins for suggesting that they sell the <hi rend="italics">Carter</hi>
+pointing out "unless another Ship Supplys her place Yor. business
+will soon droope here." He asks for accounts from the <hi rend="italics">Catherine</hi>, and
+expresses the hope that he will make some money from the <hi rend="italics">Carter's</hi>
+voyage that will offset his losses from "Hastewell's estate."
+
+
+</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="WD">William
+Dawkins,</note> July 13, 1720</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappa<corr resp="editor">[hannock, Lancaster
+County, Virginia]</corr> </name><lb/>
+<date value="1720-07-13">July 13. 1720</date><lb/>
+Mr. <abbr expan="William ">Wm. </abbr> Dawkins<lb/>
+Sir.&mdash;</dateline>
+</opener>
+
+<p>This Accompanys the <note n="CS"><name type="ship">Carter</name></note> She is loaded at &pound;10 <lb/>per
+<sic corr="ton">Tun</sic> wch I hope will in some measure <sic
+corr="retrieve">retreive </sic>the great <lb/>Great losses upon
+he<corr resp="editor">[r] </corr> late Voyages, <abbr expan="Captain ">Capt.</abbr> > <corr resp="editor">[Baily]</corr>  Kent is threatned <lb/>Mightily to be
+remembred when a Scarce Year comes but <lb/>that humour will go neer
+soon to blow over There is no <lb/>reason that we who venture our
+money Should be losers <lb/>by It&mdash;</p>
+
+<p>There is in her 60 hogsheads of my Crop Tobo. coming to <lb/>You,
+and 10 more Stemmed are designd to you per the <name
+type="ship">Mercury</name> <lb/>wch. makes Yor. Quota 100 hhds
+according to Yor. Desire. If <lb/>You Do not give us Eleven pence per
+pound. now <sic corr="Freights">Freits</sic> are so high <lb/>we shall gett nothing, 
+</p>
+
+<p>The Goods You sent me came in good order, but the <lb/>two Coats
+for <add place="supralinear">my</add> two Youngest Girls were never
+sent, pray <lb/>lett me have Them the next Year all that were at the
+<sic corr="opening">opning</sic> <lb/>the Goods that came for my
+Children can vouch for the truth <lb/>of this, </p>
+
+<p>Herein is an <sic corr="Invoice ">Invoyce</sic> for Goods to Supply my <lb/><sic corr="Families ">Family's</sic> the
+next Year wherein I have bin as good a husband <lb/>as possibly I
+can, You tell me You lay out my money <lb/>wth. as much Caution as If
+It were Yor. own, This I must Con=<lb/>=fess is all I can desire,
+<sic corr="yet ">yett</sic> give me leave to Say some <lb/>of them seems to be extraordinary
+Dear, The earrings and <lb/>the <note target="n1">Tomb Stone</note>
+cost abundance more than I expected or <lb/>Intended. I shall be
+<sic corr="obliged ">obligd</sic> to You to lett me be the Master of <lb/>my own money, You <sic
+corr="talk">taulk</sic> vainly to me in making <lb/><note
+target="n2">Mrs. Heath</note> my Pattern, had I but one Daughter and
+<lb/>She the Descendant of Two Successive Muck worms, perhaps <lb/>a
+parallel might not be improper, my Circumstances <lb/>are other ways.
+I must <sic corr="cut ">cutt</sic> my Coat according to my own <lb/>Cloth and bless God I am
+able to Do so well as I Do
+</p>
+
+<p>I'm heartily sorry for poor <note target="n3">Ben Graves's</note>
+misfortune <lb/>he's an honest brick man and I believe will hardly
+long want <lb/>an Employ I shall be very well pleasd to hear he <sic corr="gets ">getts</sic>
+<lb/>a Good one. His bro[<corr resp="editor">the]</corr> r Adam made a
+wrong Step when <lb/><lb/>he left the <name type="ship">Carter</name>
+however <sic corr="I think ">mythinks</sic> You Should be <lb/>So Generous to the memory of That
+Good man 
+
+<pb n="2"/><lb/><lb/>
+his father to find him a suitable birth in Some of Yor. <lb/>Ships
+&amp; If my word will go any length wth. You <sic corr="it is ">tis</sic> my <lb/>Desire You
+take care of him. </p>
+
+<p>Yor. Debts I take the Same care of as I do of my own <lb/>gett
+them when I can wth. out Law. <name type="person"><abbr expan="Thomas ">Thos. </abbr>
+Cunningham</name> <sic corr="has ">hath </sic> <lb/><abbr expan="paid ">pd.</abbr> me upon Yor. Accot. his Debt of 26/3.
+<note target="n4"><name type="person">Patrick Conolly</name></note>
+is <lb/>in my Debt as well as Yors. he <sic corr="has ">hath </sic> two hogsheads on board
+the <lb/>Carter to whom he Intends them <sic corr="yET ">Yett</sic> I dont know I shall
+<lb/>Give You a line more <abbr expan="about ">abt. </abbr> <add place="supralinear">some</add>
+other of Yor. Debts in another <lb/>Letter. 
+</p>
+
+<p>Mr. Heaths Debts are so scatter'd I dont know wt. <lb/>will
+become of many of them but we shall write to him <lb/>A Joint Lettr.
+I find he dos not come into my proposal <lb/><abbr expan="About ">Abt. </abbr> Mr. Jacksons Debt
+To give him <sic corr="Satisfaction ">Sattisfaction</sic> In that <lb/>matter I have sent him the
+Stated Accot. from our <lb/>records of that Estate whereby It appears
+I have paid <lb/>off more Debts, Than the Estate amounted to
+Including the <lb/>value of the land I sold &amp; sure Mr. Heath is
+not such a <lb/>violent lover of money to Desire I Should pay other
+<lb/>mens Debts out of my own Estate.</p>
+
+<p>I Should be oblig'd to You If You took more frequent
+<lb/><sic corr="Opportunities ">Opportunitys</sic> to give me an accot. of the welfare of my Sons
+<lb/>I have not had one line concerning them since The Carter <lb/>I
+want very much to know w<add resp="editor">[ha]</add>t. I am to trust
+to In relation <lb/>of their maintenance, You gave me Yor. opinion
+The two <lb/>Eldest would stand me in &pound;40 <sic corr="apiece">a
+Ps.</sic> If you run me out any <lb/>more money upon them I'm upon
+<sic corr="thoughts"><abbr expan="Thoughts ">Thots. </abbr></sic> of removing them <lb/>to <note
+target="n5">Manchester School</note> where I am well <sic corr="advised ">advisd</sic> I can
+main-<lb/>=tain them for a great deal less &amp; their education
+<lb/>Every <sic corr="bit ">whitt</sic> as Good.,</p>
+
+<p>I drew on You the other Day for &pound;200 payable to <lb/><note
+n="EJ">Edmund Jennings</note> <abbr expan="Esquire ">Esqr </abbr> wch. request You to Ans<corr resp="editor">[we]</corr> r at time <lb/>Some more Drafts I Shall be
+<sic corr="forced ">forc't</sic> to make <sic corr="before ">er'e</sic> long <lb/>have had great losses of my Negroes in
+my <sic corr="families ">familys</sic> <lb/>this last winter The recruiting of wch. Swallows a
+great <lb/>Deal of money, If You had sent me an Accot. Currt. <lb/>I
+could have bin more Exact in my Care not to outrun <lb/>The
+Constable,</p>
+
+<p>You press me to Send You a Certificate <lb/>for the Cannister of
+Tea You sent me two Year ago 
+
+<pb n="3"/><lb/><lb/>
+It is here inclosed according to Yor. form, Sign'd by Mr. Pra<corr resp="editor">[tt]</corr>  <lb/>&amp; <note target="n6"><name
+type="person">Mrs. <abbr expan="John ">Jno. </abbr> Robinson</name></note> whose hands and
+persons are both well <lb/>enough known in England,</p>
+
+<p>You make a proposal <abbr expan="about ">abt. </abbr> selling the <lb/>Carter I have reason to
+fall into It I'm sure, I can hardly <lb/>believe You are in earnest
+when that time comes You'l be the <lb/>Greatest Sufferer, unless
+another Ship <sic corr="Supplies ">Supplys</sic> her place <lb/>Yor. business will soon <sic corr="drop ">droope</sic>
+here,</p> 
+
+<p>The Ship <name type="ship">Catherine's</name> Accots. You say are
+not <sic corr="Yet ">Yett</sic> <lb/>made up when They are I shall be glad to gett some of
+my <lb/>money back again, I hope If The Carter makes any thing by
+<lb/>this voyage I shall be in the way of Getting my Debt <lb/>from
+<note target="n7">Hastewells Estate,</note> You must Expect never to
+Escape <lb/>Dunning till You have <sic corr="licked ">lickd</sic> me whole in that matter
+<lb/>wch. Shall Conclude me at present </p>
+
+<closer>Sir Yor. very humble Servt</closer>
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics">Source copy consulted:</hi>  Robert Carter
+Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art
+Collections, and Botanical Gardens, San Marino, California. Printed:
+<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . .
+.</title> pp. 10-13.</bibl></cit></note>
+
+<note>Robert Carter generally used a return address of
+"Rappahannock" for the river on which he lived rather than
+"Corotoman," the name of his home, on his correspondence, especially
+to merchants abroad. The county and colony have been added for
+clarity.</note><lb/>
+
+<note id="n1">[1] RC's second wife, <note n="EWC">Elizabeth (Landon)
+Willis,</note> had died in 1719, and the tombstone probably was to
+mark her grave at Christ Church.</note>
+
+<note id="n2">[2] When Louis Wright edited this letter for his 1940
+edition, he speculated that Mrs. Heath might be a Mrs. Samuel Heath
+of Northumberland County. According to more recent research by Alan
+Simpson, Mrs. Heath probably was Katherine (Bailey) Heath, daughter
+of <note n="AB2">Arthur Bailey, Jr.</note> and granddaughter of <note
+n="RB2">Robert Bristow.</note> Bailey and Bristow had been partners
+in a London mercantile firm and had owned ships in the Virginia
+trade. Carter had lived in the Bailey household in the six years that
+he spent at school and would have known Arthur Bailey's wife well. As
+an heir to both wealthy men, Mrs. Heath could readily afford the
+expensive jewelry of which Dawkins wrote Carter. (<cit><bibl
+n="B12">Wright. <title>Letters of Robert Carter. . . .</title> p.
+11</bibl></cit>; and <cit><bibl n="A3">Simpson. "Robert Carter's
+Schooldays." p. 173.)</bibl></cit></note>
+
+<note id="n3">[3] Benjamin and Adam Graves were the sons of Captain
+Thomas Graves, long a captain of vessels trading to Virginia, and a
+special friend of RC.</note>
+
+<note id="n4">[4] Patrick Connelly appears on a 1716 list of
+titheables in Christ Church Parish, Lancaster County
+(<cit><bibl>"Titheables in Lancaster Co., 1716." <title>William and
+Mary Quarterly.</title> 1st. ser., 21(1912): 106-112, on p.
+107</bibl></cit>)</note>
+
+<note id="n5">[5] RC undoubtedly knew of the Manchester Grammar
+School, in 1720 already over 200 years old. </note>
+
+<note id="n6">[6] Katherine (Armistead) Hone Beverley married John
+Robinson (1683-1749) about 1701; they lived in Middlesex County. 
+(See the discussion of John Robinson in <bibl n="B39">Rutman and
+Rutman, <title>A Place in Time: Middlesex. . . .
+</title></bibl>)</note>
+
+<note id="n7">[7] This was probably Edward Hastewell, a London
+merchant who signed on November 23, 1699&mdash;as did <note
+n="MP">Micajah Perry</note> and <note n="JG">John
+Goodwin</note>&mdash; a memorial, on behalf of themselves and others
+trading to Virginia, to the Commissioners for Trade and Plantations.
+In a letter of July 13, 1720, to the Perrys, RC referred to Hastewell
+as one of the owners of the <hi rend="italics">Carter.</hi> </note>
+
+<lb/><lb/><note><hi rend="italics">This text revised November 20, 2008.</hi></note>
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

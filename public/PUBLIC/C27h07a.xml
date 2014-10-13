@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C27h07a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to [Nathaniel Harrison,] August 7. 1727</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 13 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C27h07a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2003</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to [Nathaniel Harrison,] August 7. 1727</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1727-07-07</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C27h07aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1727-07-07"></date>
+<idno rend="suppress">C27h07a.xml</idno>
+<title>Letter from Robert Carter to [Nathaniel Harrison,] August 7. 1727</title>
+</bibl>
+</head>
+<p>Robert Carter writes to [Nathaniel Harrison,] August 7. 1727, militia commander in Surry County, concerning depredations by and threats from Indians, the need to alert the militia, the failure of William Robertson, clerk of the Council, to have prepared militia commissions that were promised to Harrison, and the steps that Carter has taken to have the commissions completed and sent to Harrison since Robertson has broken his leg and been seriously ill.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="NH">[Nathaniel Harrison,]</note> August 7. 1727</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1727-07-07">Augt. the 7th: 1727</date><lb/>
+</dateline>
+<salute>Sir</salute>
+
+</opener>
+
+<p>I recd your express last night am Sorry to <lb/>find this Governmt. is never to be at rest from our Brutal Neighbours <lb/><del>the Indians</del>You know how very much a Stranger I am to the nature <lb/>and ways of these people by the Accots you Send me the <sic corr="Catawbas">Cautaubaus</sic> <lb/>seem to have bad designs <del>in their heads</del> against their fellow Indians &amp; <lb/>if they come down with such a power as they threaten tis very <lb/>likely that our Frontier Inhabitants in those parts will be in dan<lb/>ger of suffering in their Stocks <del>at least if</del> and Corn fields <lb/>at least if in nothing Else what ever measures you shall think <lb/>proper to take for the Defence of our people from the Insults <lb/>of these villans You shall not want the Countenance of my <lb/>Authority to <sic corr="justify">justifie</sic> you in the best method I can think of <lb/>is forthwith to send orders to the Militia <add place="supralinear">in those parts</add> to be upon their <lb/>Guard and upon the first Notice of these Indians Appearing <lb/>to go out for the Security of the Frontier Inhabitants &amp; <lb/>to prevent them from making inroads into <del>the</del> <add place="supralinear">our</add> bounds <del>of our <lb/></del> <del>[illegible]</del></p>
+
+<p>As for the <sic corr="Attack">Attacque</sic> of the Western Indians <lb/>upon the <sic corr="Meherirns">Maherins</sic> and killing so many of them I never <lb/>heard a Syllable of <sic corr="until">til</sic> your Intelligence</p>
+ 
+<p>The dangerous condition poor <note n="WR">Will <lb/>Robertson</note> <sic corr="lies">lyes</sic> in at <sic corr="Gloucester">Glocester</sic> Court by a broken <sic corr="Leg">Legg</sic> I cant <lb/>think you are <del>without</del>  <add place="supralinear">without an Accot of</add>.  <note n="CS">Stagg</note> Saw him yesterday <add place="supralinear">morning</add> <del>tells</del> <lb/>writes to me last night that two <sic corr="days">dayes</sic> before his <sic corr="Fevers">Feavours</sic> <lb/><sic corr="pursued">pursud</sic> him so Violently that his life was Dispaired of but had <lb/>a good night before he saw him and that then his <sic corr="Fever">Feaver</sic> was <lb/>quite off and the Surgeons were in great hopes of his doing well</p>
+
+<p>It hath been <sic corr="entirely">intirely</sic> Mr. Robertsons fault that <lb/>you have not had those Military Commissions you desired <lb/>long ago he promised to have them ready for my Signing before <lb/>I left the Town but in that he failed he promised quickly <lb/>to Send them after me I writ to him Several times Since 
+
+<pb n="2"/><lb/><lb/>
+to Dispatch them <del>to me</del> and if Crew was out of the way who <lb/>Solicitited me for that Office to put Francis upon preparing <lb/>the Commissions who I knew would readily do it I have had <lb/>Several Expresses from Mr. Robertson <add place="supralinear">Since</add> in which he doth not <lb/>so much  as mention them <del>Commissions</del></p>
+
+<p>I have now drawn <del>these Commissons</del> <add place="supralinear">&amp; <sic corr="signed">signd</sic> them</add> <lb/><del>you</del> and <del>[illegible]</del>send them away herewith to <note target="n1">Mr. Hickman</note> <lb/>with orders to put the Seal to them and to dispatch them to <lb/>you by Express I hope to have the Satisfaction of Seeing you <lb/>at the Court of Admiralty on the 15th: where we may consult <lb/>what will be the properest measures for the Security of the <lb/>Inhabitants of our <abbr expan="Government">Govermt.</abbr> from the Invasion of these threa<lb/>tening Indians I am </p>
+
+<closer>Sir<lb/>Your most humble Servt&mdash;:  </closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1727 May-1728 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia. Although no addressee's name is given in the draft, Carter wrote in his diary on 1727 August 6 that he had received a letter from Charles Stagg enclosing three packets including one from Colonel Harrison.</note>
+
+<note>Robert Carter generally did not use the return address  "Rappahannock" (for the river on which he lived) for letters sent to persons within the colony, but the clerk has written it here. The county and colony have been added for clarity.</note>
+
+<note id="n1"> [1]  Richard Hickman (d. 1732) had been deputy clerk of Middlesex County in 1709. After Governor Hugh Drysdale's death, the Council appointed him to manage the Governor's house and its gardens.  His name appears a number of times in the Council minutes as he was the doorkeeper, and as he took out land patents. From Carter's letter to William Robertson 1727 July 15, in which he complains that "Mr. Hickman is very dilatory with his probatted Administrations," it seems that Hickman must have done other work for the colonial government. (Edward W. James.  "Libraries in Colonial Virginia."   <title>William and Mary Quarterly.</title> 3[1,#4, Apr. 1895]:248-51 for Hickman's inventory recorded 1732 May 15  listing many books; "Notes from the Journal of the House of Burgesses, 1712-1726." <title>William and Mary Quarterly.</title> 21[1,#4, April 1913]:257 mentions his being Council doorkeeper; "Notes from the Journal of the House of Burgesses, 1727-1734, <title>William and Mary Quarterly.</title>22[1, #1, July 1913]:54,56-58, mentions his being clerk of the Committee of Propositions and Grievances; and <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:114. </bibl></cit>)</note>
+
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

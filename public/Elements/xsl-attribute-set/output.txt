@@ -1,0 +1,15 @@
+<html>
+<body>
+<table border="1" cellpadding="5pt" cellspacing="5px">
+<tr>
+<td bgcolor="lightblue" onclick="alert(this.innerText)">XML Developer's Guide</td>
+<td bgcolor="lightblue" onclick="alert(this.innerText)">Gambardella, Matthew</td>
+</tr>
+<tr>
+<td bgcolor="lightblue" onclick="alert(this.innerText)">Midnight Rain</td>
+<td bgcolor="lightblue" onclick="alert(this.innerText)">Ralls, Kim</td>
+</tr>
+</table>
+<p>(Click on table cells to run script.)</p>
+</body>
+</html>

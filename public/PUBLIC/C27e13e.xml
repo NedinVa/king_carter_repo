@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C27e13r">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to John Grymes, May 13, 1727</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 5 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C27e13e.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2003</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to John Grymes, May 13, 1727</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1727-05-13</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C27e13eT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1727-05-13"></date>
+<idno rend="suppress">C27e13e.xml</idno>
+<title>Letter from Robert Carter to John Grymes, May 13, 1727</title>
+</bibl>
+</head>
+<p>Robert Carter writes to John Grymes, May 13, 1727, to invite him and his family to attend the celebrations of the birth night of the king in Williamsburg, and asking Grymes to take charge as Carter will not be able to attend because of his poor health.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="JG2">John Grymes,</note> May 13, 1727</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
+<date value="1727-05-13">May the 13th: 1727</date><lb/>
+John Grimes Esqr.<lb/>
+</dateline>
+<salute>Honble. Sir&mdash;</salute>
+
+</opener>
+
+<p>It seems now very probable <note target="n1">our <abbr expan="Governor">Govr:</abbr></note> will <lb/>not Arrive before the Kings birthday my <add place="supralinear">daily</add> Indispositions <lb/>are so great that I cannot possibly attend at the <note target="n2">Seat of the <lb/><abbr expan="government">Governmt:</abbr></note> in such a <sic corr="fatigue.">fateigue</sic>.  However I Resolve to have <lb/>the birth night kept with as much show as the <note n="HD">late <abbr expan="Governor">Govr:</abbr></note> did <lb/>and I Send this on purpose to Invite you and yor: family <lb/><add resp="editor">[t]</add>o it, I believe you have always Cash lying in town &amp; <lb/><add resp="editor">[did?]</add> tell <note n="WR">Mr. Robertson</note> you will answer the Charge on my <lb/>Accot: I shall be glad to hear your Affairs will let you <lb/>be there having a good Talent in assisting in Such <lb/>Ceremonys I am </p>
+
+<closer>Sir <lb/>Yor: most humble Servt. </closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. There is a 19th-century transcript of the letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia.</note>
+
+<note>"Corotoman," the name of Carter's home,the county, and colony have been added for clarity to this unheaded draft.</note>
+
+<note id="n1">[1] William Gooch, lieutenant governor of the colony under the govenor, George Hamilton, Earl of Orkney, would reach Williamsburg in September 1727. (<cit><bibl>Emily J. Salmon and Edward D. C. Campbell, Jr. <title>The Hornbook of Virginia History.</title>Richmond: The Library of Virginia, 1994. p. 106.</bibl></cit>
+)</note>
+
+<note id="n2">[2] Williamsburg</note>
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

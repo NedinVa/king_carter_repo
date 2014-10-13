@@ -1,0 +1,292 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C21b10a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to John Carter,
+February 10, 1721</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia
+Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 9 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">filename</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL:
+http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to John Carter, February 10,
+1721</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 pp.</extent>
+<publicationStmt>
+     <date>1940</date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter
+Book, 1720 July-1721 July, BR 227, Huntington Library, Art
+Collections, and Botanical Gardens, San Marino, California.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic
+Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text
+Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject
+Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1721-02-10</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term
+type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C21b10aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 pp.</extent>
+<date value="1721-02-10"></date>
+<idno rend="suppress">C21b10a.xml</idno>
+<title>Letter from Robert Carter to John Carter, February 10,
+1721</title>
+</bibl>
+</head>
+<p>Robert Carter writes  to his son John Carter, February 10, 1721,
+then
+in London, concerning his lease of the Northern Neck proprietary,
+asking John to clarify with Colonel William Cage, one of Lady
+Fairfax's trustees, whether land grants in the proprietary that
+Carter makes must carry only the name of the underage Lord Fairfax,
+or those of his trustees as well. He turns to the question of the
+Brent Town grant within the proprietary, the need for a survey of its
+30,000 acres, and the difficulties that shroud taking up lands there
+when the bounds remain unknown. He asks John to pursue the question
+of a survey with Robert Bristow, the current owner of the Brenton
+grant, and also asks him to contact the heirs of London Alderman John
+Jeffreys concerning the 14,000 acres granted to Cadwallader Jones in
+Stafford County that has not been settled, and which has not paid
+quit rents.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="JC1">John Carter,</note>
+February 10,
+1721</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <corr resp="editor">[Lancaster
+County, Virginia]</corr> </name><lb/>
+<date value="1721-02-10"><abbr expan="February ">Feby.  </abbr>10th.
+1720/21</date><lb/>
+</dateline>
+<salute>Son John</salute>
+
+</opener>
+<p>The Foregoing was to come by a <name type="city">Bristol</name>
+man She <sic corr="passed">past</sic> <lb/>by with<corr
+resp="editor">[out
+stop]</corr> ping Its necessary, to say something more to You
+<lb/>about the <xref to="/users/berkeley/#Northern Neck">Northern Neck</xref> affair, The Power of <sic
+corr="attorney ">Atturney</sic> already
+<lb/>Mentiond to You must be had and I must have the Proprietors
+<lb/><abbr expan="Directions ">Direcs. </abbr> in whose name the
+Grants
+I make for Lands must <lb/>run whether in the <note n="TF">Lord
+Fairfax's</note> name
+alone or with the <lb/>Addition of <note n="WC"><abbr expan="Colonel
+">Collo.</abbr> Cage</note>
+&amp; the other Trustee of My Ladys will</p>
+
+<p>I have sent to <note n="MP">Mr. Perry</note> also <sic
+corr="copies ">Copys</sic> of the <note
+n="BT"><sic corr="Brent Town ">Bronton</sic></note> <sic
+corr="patents ">Pattents</sic> <lb/>upon perusial of wch. <abbr
+expan="You will ">You'l </abbr> find
+My Lord Culpeper in 1686 Grants <lb/>to <note n="RB">Alderman
+Bristow </note> and others Thirty Thousand Acres of <lb/>uncertain
+Lands in the Back Woods at the rent of two <abbr
+expan="shillings ">Shills:</abbr>
+ <lb/>per a hundred Acres in 1688 he Releases this Rent and only
+<lb/>reserves the acknowledgemt. of a Beaver Skin Yearly in the
+<lb/>First Grant there is a Provisoe for my Lord to Survey in the
+<lb/><abbr expan="latter ">Lattr.</abbr>
+ no notice of any such Provisoe, Brent a long time <lb/>ago makes a
+Settlement upon the Lower part of these lands <lb/>soon after his
+Death It was deserted and ever since hath <lb/>layn without any
+Cultivation from any of the Grantees <lb/>and the bounds of this
+Grant wholly unknown to this day <lb/>where they will Extend which
+makes people mightily affra<add resp="editor">[id]</add> <lb/>to take
+up back Lands very much to the Damage of the 
+
+<pb n="2"/><lb/><lb/>
+Proprietors and I Should think not at all to the advantage of
+<lb/>those that Claim this Grant for certainly the more the Lands are
+<lb/>Peopled thereabouts the more value will their Estate be of and
+<lb/>besides if Any persons shall take new Grants of the Lands by
+<lb/>Mistake &amp; Should <sic corr="set ">Sett</sic> down with
+their <sic corr="families ">familys</sic> and
+<del>Improve</del> <add place="supralinear">make chargable</add>
+<lb/>Improvements thereon <abbr expan="it would ">`twould </abbr> be
+a harsh Case and I believe
+a<lb/>Difficult one to turn them of, upon the whole seeing
+accord=<lb/>=ing to my Thoughts <add resp="editor">[everybody's
+in]</add>terest Should prompt them <lb/>to Contribute what in them
+<sic corr="lies ">lyes</sic> to give bounds to these Lands <lb/>with
+all possible Expedition
+<note target="n1"><add place="supralinear"><hi rend="italics">I cant
+see wt. should
+obstruct it</hi></add></note> I shall do all I can when I receive
+<lb/><abbr expan="directions ">direcs. </abbr> about It, but <abbr
+expan="it would ">`twould </abbr> be
+best and Easiest done if both <lb/><sic corr="parties ">partys</sic>
+were Consenting and will
+pay their proportion of the <lb/>Charge, You are accquainted with
+<note n="RB2">Mr. Bristow</note> I believe and <lb/>You know where to
+apply to the Proprietors, I would have You <lb/>leave no Stone
+<abbr expan="unturned ">unturn'd </abbr> to <sic corr="get
+">gett</sic> this business <del>Effected</del> put upon some
+<lb/>Foot or other It would be a mighty <sic corr="satisfaction
+">Sattisfaction</sic> to the people
+<lb/>as well as a benefit to all concernd.</p>
+
+<p><note target="n3"><abbr expan="Esquire ">Esqr</abbr>
+Jeoffrys</note> holds 14,000 and <add
+resp="editor">[odd]</add> Acres of Land in the <lb/>backwoods of
+<name type="place">Stafford County</name> It was never <sic
+corr="yet ">yett</sic> Seated or paid <lb/>
+any <note target="n2"><sic corr="quit ">Quitt</sic> Rents</note>
+nor are the bounds Certainly known. I would <lb/>have You know his
+mind <abbr expan="about">abt.</abbr> this Land and where I'm to apply
+<lb/>for my <sic corr="quit ">Quitt</sic> Rents, As I suppose the
+<sic corr="patents ">Pattent</sic> for them is in
+<lb/>the name of <note target="n3">Cadwalliter Jones</note> who
+<abbr expan="conveyed ">convey'd </abbr> them over to the
+<lb/>Alderman or <abbr
+expan="Sir">Sr.</abbr> Jeoffrys this is a matter worth looking
+<lb/>After the Rents in my time will come to above four score
+<lb/>pound, I tell <note n="MP">Mr. Perry</note> I have instructed
+You in all these matters <lb/>and You will Ease him of the greatest
+part of the trouble</p>
+
+<closer><seg type="postscript"></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics">Source copy consulted:</hi>  Robert Carter
+Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art
+Collections, and Botanical Gardens, San Marino, California. Printed:
+<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . .
+.</title> pp. 64-66.</bibl></cit></note>
+
+<note>Robert Carter generally used a return address of
+"Rappahannock" for the river on which he lived rather than
+"Corotoman," the name of his home, on his correspondence, especially
+to merchants abroad. The county and colony have been added for
+clarity.</note><lb/>
+
+<note id="n1">[1] This sentence was written into the draft by Robert
+Carter as is indicated by the use of italics.</note><lb/>
+
+<note id="n2">[2] Quit rent was the term used for the
+payment due from the holder of land to the "lord of the manor," in
+this case, to the proprietors of the Northern Neck. Carter as the
+proprietor's agent, collected these payments. No services were
+required of the landholder as had been true in mediaeval
+times.</note><lb/>
+
+<note id="n3">[3] Cadwallader Jones (1652?-1700?), an Indian trader
+and fighter, was lieutenant colonel of the Stafford militia. Fairfax
+Harrison writes that "in 1677 he patented, with David Jones, 17,114
+acres in the Stafford backwoods . . . on the drains of Accotink and
+Pohick." (<cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title>
+p. 608.</bibl></cit>) He got into financial trouble, and left for
+England in 1687. The holders of many of his debts were the Jeffreys,
+prominent London merchants. The alderman to whom RC refers is John
+Jeffreys (1614-1688), master of the Grocers Company and alderman in
+1661. He was in business with his nephew, Sir Jeffrey Jeffreys, MP,
+who was his heir. (<cit><bibl>J. R. Woodhead, <title>The Rulers of
+London.</title> London: London and Middlesex Archaelogical Society,
+1965. pp. 97-98.</bibl></cit>; <cit><bibl n="B4">Harrison.
+<title>Landmarks. . . .</title> p. 607-612.</bibl></cit>; and various
+references in <cit><bibl n="B5">Davis,  <title>William Fitzhugh. . .
+.</title>)</bibl></cit></note>
+
+<lb/><lb/><note><hi rend="italics">This text revised March 17,
+2009.</hi></note>
+
+ 
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

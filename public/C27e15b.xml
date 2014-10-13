@@ -1,0 +1,204 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C27e15b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to [William Robertson,] May 15, 1727</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 9 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C27e15b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2003, 2012</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to [William Robertson,] May 15, 1727</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>4 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1727-05-15</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C27e15bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>4 p.</extent>
+<date value="1727-05-15"></date>
+<idno rend="suppress">C27e15b.xml</idno>
+<title>Letter from Robert Carter to [William Robertson,] May 15, 1727</title>
+</bibl>
+</head>
+<p>Robert Carter writes to [William Robertson,] May 15, 1727, clerk of the Council, to alert him that he had not signed, as naval officer, one of his lists of shipping, and to give him instructions about the celebration of the King's birthday. He encloses a letter to be forwarded to his son John, secretary of state of the colony, whom he is asking to stand in for himself because his ill health will not allow him to attend. In an enclosure, he gives further and specific instructions about the illumination of Williamsburg and details of the celebration.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="WR">[William Robertson,]</note> May 15, 1727</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1727-05-15">May 15th: 1727</date><lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+<p>Yor: Messenger with the Expresses my Boat <sic corr="fetched ">fetcht</sic> <lb/>over last night after all <note n="RC">Mr. Carys</note> delays he <sic corr="has ">hath </sic> not Sent me <lb/>duplicates which he promised me and I must have <add place="supralinear"><del>which</del> from you to let him know it</add> and you <lb/>must prepare me duplicates also.  You have not <sic corr="signed ">Signd</sic> <note target="n1">yor: <lb/>list</note> of Entrys inward, reckoning I Suppose yor: <add place="supralinear">Signing the</add> Clearings&mdash; <lb/>outward Serves for both I note it because the other Officers <lb/>Sign all their lists, a copy of the Letters to the <note target="n2">board of Trade</note> I <lb/>Shall take care to keep, here are <note target="n3">Keeling,</note> <note target="n4">Hopkins,</note> <note target="n5">Woodward</note> <lb/>Londoners Suddenly bound out therefor<add resp="editor">[e]</add> keep the <sic corr="public ">Publick</sic> <lb/>Papers to be sent in one of them</p>
+ 
+<p>Pray, let Mr. <note target="n6">Jacob Walker</note> have an Order <lb/>to provide a <sic corr="flag ">flagg</sic> for point Comfort and do you provide <lb/>another for the Battery at York it is my Duty to pay all <lb/>possible respects to the <note n="WG"><abbr expan="governor ">Govr: </abbr></note> when he Arrives</p>
+
+<p>You have<sic corr=" forestalled "> forestalld</sic> me two or three days <lb/>in respect to the <note target="n7">Kings birthday</note> I intended <add place="supralinear">to</add> wait but <sic corr="until ">till</sic> <lb/>Wednesday night <del>before</del> and then to have <sic corr="dispatched ">dispatchd</sic> dire<add resp="editor">[ct]</add><lb/>ions to you about it You very well know my Innate Prin<lb/>ciples have all along bin Strong and Entirely for the <lb/>family and in the Post I am now in my Duty require<add resp="editor">[s me]</add> <lb/>to Celebrate his Majestys birthday. My <sic corr="Daily ">Dayly</sic> Indispo<add resp="editor">[sitions] </add> <lb/>deny me the Satisfaction of being present at the <note target="n8">seat of G<add resp="editor">[overnment] </add></note> <lb/>my Self. Yesterday I was so Very ill could hardly Stay t<add resp="editor">[o the]</add> <lb/>End of Divine Service and afterwards was forced to <add resp="editor">[ride] </add> <lb/>out half a dozen mile<add resp="editor">[s]</add>  to get my breath without Eatin<add resp="editor">[g a]</add> <lb/><sic corr="mouthful ">mouthfull</sic> of Victuals <add place="supralinear">in the</add> whole day it was w<add resp="editor">[ith] </add> <lb/>Difficulty I held out the Court The Oyer and Term<add resp="editor">[iner] </add> <lb/>I must be at if it be possible.  The Load of my own bu<add resp="editor">[siness is] </add> <lb/>in its greatest throng however I resolve to have the <add resp="editor">[birthday]</add> <lb/><add place="supralinear">kept</add> with as much Show as it was by <note n="HD"><abbr expan="Colonel">Coll</abbr> Drysdale </note></p>
+
+<pb n="2"/><lb/><lb/>
+<p>In order to this herewith I Send a Letter to the <note n="JC1">Secretary</note> wch: <lb/>you are to Send away <add place="supralinear">by</add> Express <sic corr="desiring ">Desireing</sic> him to Personate <lb/>my room and if he Should decline it I must rely Upon <lb/>You and <note target="n9">Mr. Hickman</note> to do your utmost and I will by you <lb/>request the Town Gentlemen, <note n="JC3">Mr. <sic corr="Attorney ">Atturney,</sic></note> <note n="JH">Major Holloway </note><lb/>and <note target="n10"><abbr expan="Major ">Majr:</abbr> Blair</note> to be Assisting in the <abbr expan="Government ">Governmt.</abbr> &amp; direct<add resp="editor">[ing]</add> <lb/>the Affair.  The <abbr expan="Governor's ">Govrs:</abbr> house to be Sure is the fittest place You <lb/>may <del>be sure</del> <add place="supralinear">very well Conclude</add> when I laid in that wine at Town I had this <lb/>day in my thoughts in Case a <abbr expan="governor ">Govr:</abbr> should not Arrive <abbr expan="What">Wt:  </abbr><lb/>ever Sorts of drink Colonel Drysdale had I would have the Same <lb/>and in all respects keep pace with him My Salary is as <lb/>large and I thank God I have as little reason to be Sparing <lb/>of it I Speak more particularly in the Enclosed paper,</p>
+
+<p>The warrants for the apprehending of <note target="n11">Prowse</note> <lb/>I have <sic corr="signed">Signd</sic> and have <sic corr="dispatched ">dispatchd</sic> away Seven of them for <lb/>the Northern Countys and for Middlesex.  The rest are <sic corr="returned.">returnd.</sic>  <lb/>I am </p>
+
+<closer>Sir&mdash; <lb/>Yor: most humble Servt:<seg type="postscript"><lb/><lb/>
+
+
+<pb n="3"/><lb/><lb/>
+The Necessarys requisite for the Birth Night in all respects <lb/><sic corr="Equal ">Equall</sic> the last birth night,<lb/><lb/>
+
+The <abbr expan="Governor's ">Govrs:</abbr> house to be Illuminated Mr. Clayton <lb/>also and likewise the Capitol if it was so before I <sic corr="believe ">beleive</sic> the <lb/><note target="n12"><sic corr="College">Colledge</sic></note> and all the houses in <note target="n5">Town</note> will be <del>also</del> Illuminated <lb/>bonnfires to be made as before,<lb/><lb/>
+
+All the <sic corr="Loyal ">Loyall</sic> healths to be drunk. The Guns <lb/>to be fired and the Batterys to fire. The <sic corr="flags ">flaggs</sic> to be hoisted <lb/>as was orderd by Colonel Drysdale<lb/><lb/>
+
+The Gentlemen and Ladys that will come to <lb/>Invited Cold Treats to be provided a Ball to be had for the <lb/><add resp="editor">[la]</add>dys, The Gentlemen of the Council and their familys 
+
+<pb n="4"/><lb/><lb/>
+particularly to be Invited <note n="JG2">Mr. <sic corr="Grymes's ">Grimes's</sic> </note>family I shall invite <lb/>whatever I have Omitted to be <sic corr="Supplied ">Supplyd</sic> The charge an Ac<add resp="editor">[count] </add> <lb/>to be kept of and paid of Mr. <sic corr="Grymes ">Grimes</sic> I Expect will let me <lb/>have the money<lb/><lb/>
+
+My wine you may be free with I beleive one <lb/>of the Pipes will Sufficiently answer the Occasion Other <lb/>Liquors &amp;ca: you must provide as well as you can I am <lb/><lb/>Sir Yors: <note target="n13">ut Supra</note>&mdash;<lb/><lb/>
+All Immaginable care must be <lb/>taken to prevent disorders and <lb/>disasters</seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. Considerable damage to the right margin of the first page of the letter has removed the endings of some of the lines. There is a 19th-century transcript of the letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia.
+</note>
+
+<note>Pages three and four are the enclosure mentioned in the letter.</note>
+
+<note id="n1"><note target="n1"></note>[1] Robertson had been appointed a naval officer in 1719, and Carter refers to lists of ships entering and departing the colony prepared by these officials as one of their duties. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 3[1705-1721]:512. </bibl></cit> )</note>
+
+<note>The naval officer was an official in the colony that reported to the Commissioners of Customs, a body that had first been established in 1663; the group was reorganized several times, especially after 1688. The board was "intrusted with collection of customs both in England and the colonies." The board helped write many of the instructions for colonial governors in collaboration with the Privy Council. "Their direct connection with the colonies was through the governors, who were instructed to correspond with the commissioners, and to send them, every three months, lists of clearances, and also reports of illegal trading. The governor's agent in matters of trade was the naval officer whom he was empowered to appoint, but who was required by the 7th and 8th William III to give security to the commissioners of customs." (<cit><bibl>Louise Phillips Kellogg. <title>The American Colonial Charter. A Study of English Administration in Relation Thereto, Especialy after 1688.</title>  [Annual Report, American Historical Association. Vol. 1, Govt. Print. Off., 1904], p. 226.</bibl></cit> For a recent study, see <cit><bibl>Alvin Rabushka. <title>Taxation in Colonial America</title> [Princeton, NJ: Princeton University Press, 2008.]</bibl></cit>)
+</note><lb/><lb/>
+
+<note id="n2">[2] Established in 1696 as successor to a similar body, the Lords Commissioners of Trade and Plantations was "an advisory group, subordinate to king and Privy Council, and with no executive, financial, or penalizing powers, the Board of Trade was nevertheless able . . . to exert a far reaching and often determining influence in colonial matters. . . . It prepared the royal instructions for the governors overseas. . . ." (<cit><bibl>Henry Hartwell, James Blair, and Edward Chilton. Hunter Dickinson Farish, <hi rend="italics">ed.</hi> <title>The Present State of Virginia, and the College.</title> [First published, 1940, by Colonial Williamsburg, Inc., and reprinted Charlottesville: University Press of Virginia, 1964.] pp. xvi-xvii.</bibl></cit>)</note>
+
+<note id="n3">[3] Captain William Keiling commanded the <hi rend="italics">Betty.
+</hi> (<cit><bibl>Survey Report 6800, Virginia Colonial Records Project, Albert and Shirley  Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n4">[4] Captain James Hopkins commanded the <hi rend="italics">Mary</hi> in 1727-1728. He was then working for London merchant Robert Cary. He is mentioned in Carter's diary. (<cit><bibl>Adm. 68/194, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n5">[5] Thomas Woodward commanded the <hi rend="italics">Providence</hi> during a number of voyages to the colony, 1723-1727. (<cit><bibl>Adm. 68/194 and 195, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n6">[6] Carter had forgotten that George (not Jacob) Walker was the "Gunner and Storekeeper of the Battery at point Comfort" at the eastern end of the peninsula between the James and York rivers southeast of Williamsburg at "the entrance to historic Hampton Roads, an important harbor situated at the mouths of the James, Nansemond and Elizabeth Rivers. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:33;</bibl></cit> and )(<cit><bibl><xref to="http://www.lighthousefriends.com/light.asp?ID=444">"Old Point Comfort VA"</xref> at Lighthouse Friends.com,, reviewed 6/7/2012.</bibl></cit> )</note>
+
+<note id="n7">[7] Carter refers to the birthday (May 28) of King George I who reigned 1714-1727, dying June 11 of that  year. ("King George I" at <xref to="http://www.britroyals.com/kings.asp?id=george1">"Royal Family History" examined 6/5/2012.</xref>)</note><lb/>
+
+<note id="n8">[8] Williamsburg</note>
+
+<note id="n9">[9] After Lt. Gov. Drysdale's death in July 1726, Richard Hickman had been appointed by the Council to keep up the governor's home. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:114. </bibl></cit>)</note>
+
+<note id="n10">[10] Archibald Blair was a prominent merchant of Williamsburg, and was chosen one of the Council's representatives to convey its message of sympathy to Mrs. Drysdale after the death of her husband, the lieutenant governor. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:17, 114. </bibl></cit>)</note>
+
+<note id="n11">[11] John Prowse was being sought because he had been accused of the murder of an Indian. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:133, 453. </bibl></cit>) </note>
+
+<note id="n12">[12] The buildings of the College of William and Mary</note>
+
+<note id="n13">[13] "Ut supra" is a Latin phrase meaning "as cited or stated above."</note><lb/>
+
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2003, was revised June 12, 2012,  to add footnotes and strengthen the modern language version text.</hi></note>
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

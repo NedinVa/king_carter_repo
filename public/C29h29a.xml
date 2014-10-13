@@ -1,0 +1,223 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C29h29a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to James Bradley, [August 29, 1729]</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 13 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C29h29a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2005</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to James Bradley, [August 29, 1729]</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>3 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1729-08-29</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C29h29aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>3 p.</extent>
+<date value="1729-08-29"></date>
+<idno rend="suppress">C29h29a.xml</idno>
+<title>Letter from Robert Carter to James Bradley, [August 29, 1729]</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant James Bradley, [August 29, 1729], concerning his and others' efforts to establish a copper mine and requesting Bradley's assistance in finding miners to carry on the work.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note target="n1">James Bradley,</note> [August 29, 1729]</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Rappahannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1729-08-29"></date><lb/>
+Mr James Bradley<lb/>
+</dateline>
+<salute>Sir</salute>
+
+</opener>
+
+
+
+<p>The miserable times we have of late years <lb/>
+fallen Under by the low <sic corr="prices">prizes</sic> of <add place="supralinear">our <abbr expan="tobacco">tobo</abbr></add> the only staple we have <lb/>
+to support ourselves and our familys by <del>[illegible]</del> have <lb/>
+driven us to search into the bowels of the Earth to see if we can <lb/>
+find a treasure there to Contribute to our <sic corr="releif">releif</sic> by <del>[illegible]</del> <sic corr="emp:">imp:</sic><lb/>
+loying the labour of some of our people that Way And we <lb/>
+have been so fortunate to fall upon a place affording a Copper <sic corr="Ore">Oar</sic> <lb/>
+how much of it there may be we cannot yet tell time and Charge <lb/>
+and not a little of the latter too must bring to light what Encoura:<lb/>
+gement we may meet with in this design And the first step we <lb/>
+have to take is to get proper persons <sic corr="skilled">skilld</sic> in these matters to <lb/>
+Assist us in this project We are <sic corr="informed">informd</sic> there are abundance of <lb/>
+people of low Circumstances both in the mines of <sic corr="Cornwall">Cornwal</sic> <lb/>
+and in those of Derbyshire whose whole trade it is to be 
+
+
+<pb n="2"/><lb/><lb/>
+digging up the <sic corr="Ore">Oar</sic> and raising it to the Surface of the Earth <lb/>
+are to be hired upon very small Wages Either by the month <lb/>
+or the year and that there are so many of these people tht <lb/>
+they Can hardly get their <sic corr="bread">bred</sic> for their work and it is very Eas<lb/>
+y to get as many of them as we desire to Come oversea upon <lb/>
+Moderate Wages</p>
+
+<p>We have heard your father <sic corr="has">hath</sic> been Concerned in Iron <lb/>
+works and it may be in Copper mines also and we are Ap<lb/>
+prehensive you may be no stranger to them and are a very fit <lb/>
+person to apply to to procure and Send us some of these mine <lb/>
+diggers We mean labourers for the raising the <sic corr="Ore">Oar</sic> and <abbr expan="skilled">skill'd</abbr> <lb/>
+in Working under Ground and driving after the Veins according <lb/>
+to their turnings and Windings whether two or four or 1/2 a <abbr expan="dozen">dozn.</abbr> <lb/>
+may be proper to be <sic corr="employed">imployed</sic> we must leave to your judgement to <lb/>
+Consider And to make the best bargains you Can for us <lb/>
+and to dispatch them to us with the first opportunity you <lb/>
+Can Easily no doubt Create a Correspondence if you have <lb/>
+not one already into these <sic corr="Countyies">Countys</sic> where these miners are <lb/>
+to be got We think it advisable to begin with <add place="supralinear">a</add> few of them at <lb/>
+first Until we see how large the veins of <sic corr="Ore">Oar</sic> may prove <lb/>
+<corr resp="editor">[To b]</corr>ring in Two or three or 1/2 a <abbr expan="dozen">doz</abbr> of these labouring men <lb/>
+upon Wages for a year or two or three as they are to be got we <lb/>
+think may be done with no great Charge to us When we find it <lb/>
+will be worth our whiles We Expect it will be <del>absolut</del> absolu:<lb/>
+tely necessary for us to Endeavour the getting in a Miner of better <lb/>
+Circumstances and that Will not Come Over to us but upon muc<corr resp="editor">[h]</corr> <lb/>
+higher Wages to be a director an Overseer and Manager of them 
+
+<pb n="3"/><lb/><lb/>
+but this seems to be too Early <sic corr="until">till</sic> we have made a further <sic corr="trial">tryal</sic></p>
+
+<p>We have sent some of the <sic corr="Ore">Oar</sic> already to <name type="city">London</name> <lb/>
+and some to Bristol and a <sic corr="trial">tryal</sic> <sic corr="has">hath</sic> been made in both places <lb/>
+and <abbr expan="it is">tis</abbr> agreed <del>by both</del> <add place="supralinear">on all hands</add> it is a Copper <sic corr="Ore">Oar</sic><del> the but they disa</del><lb/>
+<del>gree in respect of quantity the London <abbr expan="Experiment">Experimt</abbr> affords the</del><lb/>
+<del>[illegible]</del> and affords an 8th part Copper We have now two little casks <lb/>
+of this <sic corr="Ore">Oar</sic> ready to be <abbr expan="shipped">ship'd</abbr> for London but We are <sic corr="doubtful">doubtfull</sic> <lb/>
+we shall not be able to get it on board any of the <abbr expan="Present">Prest</abbr> ships <lb/>
+We have got some Tons more of it down to a landing but <abbr expan="it will">twill</abbr> <lb/>
+be impossible to get that <abbr expan="shipped">ship'd</abbr> this Season</p>
+
+<p>We want to be informed whether the most Advantage:<lb/>
+ous way will be to Ship off this <sic corr="ore">oar</sic> as it is or if we Could get <lb/>
+it Manufactured into Copper whether that would turn the <lb/>
+greatest Profit We are <abbr expan="informed">inform'd</abbr> the duty upon Copper is a <lb/>
+great deal We know that <note target="n2">Skyler</note> to the Northward who <abbr expan="it is">`tis</abbr> <lb/>
+said <sic corr="has">hath</sic> one of the richest Copper mines in the world send<corr resp="editor">[s]</corr> his <sic corr="ore">oar</sic> <lb/>
+home</p>
+
+<p>The trouble you shall give yourself in this Affair upon <lb/>
+our Accot. We shall thankfully Acknowledge and if you send in <lb/>
+Any labouring Miners to <corr resp="editor">[us]</corr> upon Wages that have been used <lb/>
+to the digging and raising this <sic corr="Ore">Oar</sic> we shall punctually <corr resp="editor">[com:]</corr><lb/>
+ply with the Contracts you make What you shall thin<corr resp="editor">[k fit]</corr> <lb/>
+to do in Serving us in this Affair we desire may be <sic corr="Carried">Carryed</sic> on <lb/>
+with the least noise possible We are 
+</p>
+
+<closer>Sir<lb/> 
+your most Humble Servts:</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. This address, the county, and colony have been added for clarity to this unheaded draft.</note>
+
+<note id="n1">[1] James Bradley was a London merchant with whom Carter dealt from at least 1723 until his death. As noted in his letter to Bradley of 1727 May 17, Bradley owned the <hi rend="italics">Welcome,</hi> but little information about Bradley has been located. (There is a listing of the firm of Bradly &amp; Griffin, Merchants, Fenchurch-street, opposite the Mitre Tavern, on page 13 of <cit><bibl><title>Kent's Directory For the Year 1740 Containing An Alphabetical List of the Names and Places of Abode of the Directors of Companies, Persons in Publick Business, Merchants, and other Eminent Traders in the Cities of London and Westminster, and the Borough of Southwark.</title>  London: Printed and Sold by Henry Kent in Finch-Lane, near the Royal Exchange: and by the Booksellers and Pamphlets Shops of London and Westminster, 1740.  p. 39. http://freepages.history.rootsweb.com/~frpayments/KD1740/AB.htm. 8/12/2005.</bibl></cit>)</note>
+
+<note id="n2">[2] Carter refers to the copper mine discovered (in 1713) and operated by Arent Schuyler in New Jersey. "Arent Schuyler mined about 100 tons of [copper] ore annually and sent it to Holland for smelting." (PAL Inc. for Arthur D. Little, Inc. and the U.S. Army Corps of Engineers New England District. "Copper Mining in the United States from Colonial times to the Mid-Twentieth Century" in <title>Historical Context and Preliminary Resource Evaluation of the Elizabeth Mine, South Stafford, Orange County, Vermont.</title> Concord, MA, 2001. p. 3.3. )</note>
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

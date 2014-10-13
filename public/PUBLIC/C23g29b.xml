@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; 
+
+<!NOTATION html SYSTEM "HTML">
+<!ENTITY Ext19 SYSTEM "http://british-history.ac.uk\/report.aspx?compid=58704.html" NDATA html>
+
+<!ENTITY Ext20 SYSTEM "http://18cnewenglandlife.org\/18cnel\/ofsilk.htm" NDATA html>
+
+
+
+
+]>
+
+<TEI.2 id="C23g29b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Thomas Colmore, July 29, 1723</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 7 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C23g29b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2002</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Thomas Colmore, July 29, 1723</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1723 July 4 -1724 June 11, Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1723-07-29</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C23g29bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1723-07-29"></date>
+<idno rend="suppress">C23g29b.xml</idno>
+<title>Letter from Robert Carter to Thomas Colmore, July 29, 1723</title>
+</bibl>
+</head>
+<p>Robert Carter orders from London merchant Thomas Colmore, July 29, 1723, "blew linnen" and oznaburg cloth. He adds a gloomy comment about the Act of Parliament that will prevent the importation of stemmed tobacco into England.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note target="n1">Thomas Colmore,</note> July 29, 1723</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1723-07-29">Ju;y 29th. 1723&mdash;</date><lb/>
+Mr. Thos. Colemore<lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For Harvey to write</p>
+
+<p>My Lettrs by the <name type="ship">Sarah</name> <abbr expan="Captain ">capt.</abbr> Richardson <lb/>are <sic corr="sealed ">seald</sic> up,  I have not Yet <sic corr="written ">writ</sic> for any <note target="n2"><sic corr="blue linen ">blew Linnen</sic></note> <lb/>I find I cannot well Support my Family without It. <lb/>desire You therefore to send me in with my other Goods <lb/>Three hundred Yards of Narrow <sic corr="blues ">blews</sic> &amp; five hundred <lb/>Yards of <sic corr="blue ">blew</sic> <note target="n3"><abbr expan="Osnaburg ">Oznabs.</abbr></note>&mdash;</p>
+
+<p><abbr expan="Captain">Capt</abbr> Hopkins is <sic corr="arrived">arriv'd</sic> I have no Lettrs come <lb/>to hand Yet,  We have the News <sic corr="confirmed ">confirmd</sic> that the Scotch Interest <lb/><sic corr="has ">hath </sic>obtained a Clause in the Tobo. Act, to prohibit the Importation  <lb/>of all <sic corr="stemmed ">Stemd</sic> Tobo. which in consequence I reckon will Com=<lb/>=pleat our Ruin, Pray God grant I am mistaken I am </p>
+
+
+<closer>Sir Yor. most humble Servt.
+<seg type="postscript"><lb/><lb/>It seems that clause is to take <lb/>place the 1st. of next June so that <lb/>probably all the <sic corr="stemmed ">Stemd</sic> Tobo. that is got <lb/>home before that time will be in the <lb/>Greater Esteem.<lb/><lb/>
+Herein are some 2d. bills <lb/>of <abbr expan="exchange ">Exche.</abbr> the firsts went per <lb/>Richardson</seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1723 July 4 -1724 June 11, Carter Family Papers, Virginia Historical Society, Richmond. </note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. His usual return address, the county, and colony have been added for clarity to the brief heading on the draft.</note><lb/>
+
+<note id="n1">[1] Thomas Colmore was a London merchant. (<cit><bibl>A 1740 London directory,<title> A Compleat Guide . . . ,</title> consulted by Francis L. Berkeley, Jr., in London listed Colmore as a resident of Pudding Lane, Eastcheap.</bibl></cit>)</note><lb/>
+
+<note id="n">[2]  "Blue was a colour much used on linen, since it was a good, fast dye under almost all conditions. It was therefore a common item stocked by retailers selling textiles. It was sometimes being abbreviated to blue. Valuations varied from 7d to 14d the yard. Not found in the OED." (<cit><bibl>Cox, Nancy,  and Karin Dannehl. <xref to="Ext19">'Blue - Blues,'</xref> <title>Dictionary of Traded Goods and Commodities, 1550-1820.</title> [2007]. Sponsored by the University of Wolverhampton online at  http://www.british-history.ac.uk/report.aspx?compid=58704. Date accessed: 12 October 2009.</bibl></cit>)</note><lb/> 
+
+<note id="n3">[3] Osnaburg is a coarse fabric named for the region of Germany in which it was first produced. It was commonly used for sacking and bagging. (<cit><bibl><xref to="Ext20">18th Century Trade Terms (Fabrics),</xref> "Of Silk, Terms Of Silk, Cotton, Linen and Wool," [Compiled from] <title>The Beekman Mercantile Paper</title> 1746 - 1799. Online at http://www.18cnewenglandlife.org/18cnel/ofsilk.htm,  Date azccessed 4 May 2007.</bibl></cit>)</note><lb/>
+
+<lb/><lb/><note><hi rend="italics">This text revised October 13, 2009.</hi></note>
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

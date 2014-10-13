@@ -1,0 +1,230 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C21a17a">
+
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to John Carter,
+January 17, 1721</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia
+Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 7 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">filename</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL:
+http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to John Carter, January 17,
+1721</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date>1940</date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter
+Book, 1720 July-1721 July, BR 227, Huntington Library, Art
+Collections, and Botanical Gardens, San Marino, California.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic
+Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text
+Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject
+Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1721-01-17</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term
+type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C21a17aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1721-01-17"></date>
+<idno rend="suppress">C21a17a.xml</idno>
+<title>Letter from Robert Carter to John Carter, January 17,
+1721</title>
+</bibl>
+</head>
+<p>Robert Carter writes to his son John, January 17, 1721,
+briefly reporting family news, and then turns to the newly-acquired
+lease of the Northern Neck proprietary which he has just received
+from Micajah Perry in London. He informs John that he needs to have
+the kind of power to make grants of land in the proprietary that he
+had previously had from Lady Fairfax; he has sent a copy of that
+power to Perry, and directs John to have it signed before witnesses
+who are coming to the colony.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="JC1">John Carter, </note>
+January 17,
+1721</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <corr resp="editor">[Lancaster
+County, Virginia]</corr> </name><lb/>
+<date value="1721-01-17"><abbr expan="January ">Jan </abbr> 17th.
+1720/21</date><lb/>
+
+</dateline>
+<salute>Dear Son John</salute>
+
+</opener>
+
+<p>I <sic corr="wrote ">writ</sic> to You plentifully in <abbr
+expan="November ">Novr. </abbr> &amp; sent You
+<lb/>Duplicates. Yor. Relations are all well at this time for
+what<lb/> I know pray God this may find You &amp; Yor. <abbr
+expan="brothers ">brors.</abbr> in the Same <lb/>s<corr
+resp="editor">[ta]</corr> te Yor. <note n="JAC">Sister Page </note>
+<sic corr="has ">hath </sic> a Son born.</p>
+
+<p>	I find in the lease <note n="MP">Mr. Perry</note> Sent me for
+the <note target="n1">Northern Neck</note> <add
+resp="editor">[Proprietary]</add><lb/> You are one of the Witnesses
+indeed I desired him to make You <lb/>privy to that affair. I am
+<sic corr="afraid ">affraid</sic> upon this fall of Tobo. It
+<lb/>will prove a very
+disadvantagious bargain to me, I was always <lb/><abbr
+expan="informed ">Inform'd </abbr> <note
+n="EJ"><abbr expan="Colonel ">Collo.</abbr> <sic corr="Jenings
+">Jennings</sic></note> gave but
+two hundred &amp; fifty pounds <lb/>per Annum for It there is no
+repenting I am now bound and <lb/>must do the best I can with It, one
+great perquisite to the <lb/>Estate arises from the Granting away the
+lands that are <lb/><sic corr="Yet ">Yett</sic> to take up I doubt
+not the <note n="TF">Lord Fairfax
+</note>&amp; <note n="WC"><abbr expan="Colonel ">Collo.</abbr>
+Cage</note>
+<lb/>for their own Interst as well as mine <abbr expan="designed
+">design'd </abbr> me this Power
+<lb/>by their Lease &amp; I shall proceed accordingly however I
+<lb/>would have a fuller power from them <corr resp="editor"> [I]
+</corr> have <sic corr="written ">writ</sic> to <lb/>Mr. Perry
+<abbr expan="about ">abt. </abbr> It &amp; have sent him a <sic
+corr="Copy ">Coppy</sic> of the power I <lb/>received from
+my Lady Fairfax to Draw another by, <note target="n2">(rebus <lb/>sic
+Stantibus)</note> I would have You be very <sic corr="careful
+">carefull </sic>   of this
+<lb/>affair &amp; to have It executed before a Suff<add
+resp="editor">[icien]</add>t Number of <lb/>Witnesses bound to this
+place, when I am to Expect Yor. Company <corr
+resp="editor">[?]</corr> <lb/>Dont <sic corr="Yet ">Yett</sic> know
+if not
+this Shipping to be sure the next It must <lb/>be, wth. my <abbr
+expan="prayers ">prayrs. </abbr>
+for God's blessing upon You and Yor. <abbr
+expan="brothers ">brors.</abbr></p>
+
+<closer> I Conclude at present</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics">Source copy consulted:</hi>  Robert Carter
+Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art
+Collections, and Botanical Gardens, San Marino, California. Printed:
+<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . .
+.</title> pp. 63-64.</bibl></cit>
+</note>
+
+<note>Robert Carter generally used a return address of
+"Rappahannock" for the river on which he lived rather than
+"Corotoman," the name of his home, on his correspondence, especially
+to persons abroad. The county and colony have been added for
+clarity.</note><lb/>
+
+<note id="n1">[1] For the Northern Neck proprietary, Lord Fairfax,
+etc., see "Robert Carter and the Northern Neck Proprietary" found on
+the  the <xref
+to="/users/berkeley/#Northern Neck">home 
+screen </xref></note> of this web site.<lb/>
+
+
+<note id="n2">[2] A Latin phrase meaning so long as condtions have
+not substantially changed.</note><lb/>
+
+<lb/><lb/><note><hi rend="italics">This text revised March 17,
+2009.</hi></note>
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

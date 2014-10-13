@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C23g04h">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to John Stark, July 4, 1723</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 5 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C23g04h.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2002</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to John Stark, July 4, 1723</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1723 July 4 -1724 June 11, Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1723-07-04</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C23g04hT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1723-07-04"></date>
+<idno rend="suppress">C23g04h.xml</idno>
+<title>Letter from Robert Carter to John Stark, July 4, 1723</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Glasgow merchant John Stark, July 4, 1723, acknowledging several letters and a sales account from Stark received during the year. Carter complains mildly about the price realized for his tobacco. He reports a bill of exchange drawn on Stark to Micajah Perry, and hopes Stark will not charge for the exchange in London. Captain Samuel Bowman will carry 50 hogsheads of his tobacco and he will ship more if he can have it ready for Will. Read.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note target="n1">John Stark,</note> July 4, 1723</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Rappahannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1723-07-04">July the <hi rend="underline">4th 1723</hi></date><lb/>
+Mr. Jno Stark&mdash;&mdash;&nbsp;&nbsp;&nbsp;2<lb/>
+</dateline>
+
+
+</opener>
+
+<p>I have <abbr expan="received ">recd</abbr> <abbr expan="several ">Sevll</abbr> Lettrs. from you this Year <lb/>the last per <note target="n2"><abbr expan="Captain ">Capt </abbr><sic corr="Bowman ">Boman</sic></note> bringing the Account of Sales <lb/>of my <abbr expan="tobacco ">Tobbo.</abbr>, I could wish it had been sold at a farthing <lb/>more the <add place="supralinear">pr</add>ice I have been Informed by some was com<lb/>mon in your port, my <abbr expan="tobacco ">Tobbo</abbr> was very good I dare <lb/>say the most part of <add place="supralinear">it</add> brot home to my Quarters and <lb/>there prized and under very good Examination, I had <lb/>hopes it would have <sic corr="merited ">Merritted</sic> the Top price of the <lb/>place&mdash;</p>
+
+<pb n="2"/><lb/><lb/>
+<p>I have occasion to draw for one hundre<add resp="editor">[d] </add> <lb/>pounds of my Money in your hands, and shall <lb/>send my bills of <abbr expan="exchange ">Excha</abbr> to <note n="MP1">Mr.. Perry</note> <sic corr="hoping ">hopeing</sic> Accor<lb/>ding to your proposal you will make <sic corr="payment ">paymnt</sic> <lb/>of it in <name type="city"><abbr expan="London ">Lond: </abbr></name>  without any charge to me for <lb/><abbr expan="exchange ">Excha</abbr>&mdash;</p>
+
+<p>In Captain <sic corr="Bowman ">Boman</sic> I have taken 50 hhds <lb/>freight he tells me he shall want more and like<lb/>wise that <note target="n3">Will. Read</note> in your Concern will want <lb/>freight, I shall have a pretty deal to Ship if <lb/>I can but get it <sic corr="gathered ">gatherd</sic> <add place="supralinear">together</add> in time, You will <lb/>hear further from me by your own Ships I am <lb/><hi rend="underline"><abbr expan="Sir ">Sr</abbr></hi> </p>
+
+<closer>Your very humble Servt </closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1723 July 4 -1724 June 11, Carter Family Papers, Virginia Historical Society, Richmond. </note><lb/>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. His usual return address, the county, and colony have been added for clarity to this unheaded draft.</note><lb/>
+
+<note>The numeral "2" appearing after Stark's name as the addressee of this  letter  may mean that two copies were to be prepared.</note><lb/>
+
+<note id="n1">[1] Stark was a Glasgow merchant.</note><lb/>
+
+<note id="n2">[2] Captain Samuel Bowman commanded the <hi rend="italics">Lucia.</hi> Carter mentioned this vessel in his diary in June 1724, and again on 1726 March 4 when he wrote that she "came in had 20 Weeks Passage."</note><lb/>
+
+<note id="n3">[3] Read (Reid) is not referred to as "captain" which means he was an official of Stark's firm on a trading vessel who was empowered to do its business in Virginia. He was aboard the <hi rend="italics">Charles,</hi> a Glasgow ship that probably was owned by Stark. Carter specifically refers to "the Charles of Glasgow" in a letter to Stark of September 4, 1723 . </note><lb/>
+
+<lb/><lb/><note><hi rend="italics">This text revised August 25, 2009.</hi></note>
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

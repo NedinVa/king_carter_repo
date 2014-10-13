@@ -1,0 +1,720 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C33slaves">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Alphabetical List of Robert Carter's Slaves Compiled From the 1733 Inventory of His Estate</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Edmund Berkeley, Jr.</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>about15  kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C33slaves.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL:http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2007</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Alphabetical List of Robert Carter's Slaves Compiled From the 1733 Inventory of His Estate</title>
+     <author>Edmund Berkeley, Jr.</author>
+</titleStmt>
+    <extent> p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: The inventory is found in a volume located in  "Papers of Robert 'King' Carter of 'Corotoman,' Lancaster County, Va.," Mss1 C2468 a 10, Virginia
+Historical Society, Richmond. There is a microfilm copy of the volume in the Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic
+Text Center</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic TextCenter scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject
+Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>2007-xx-xx</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C33slavesT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent> p.</extent>
+<date value="2007-xx-xx"></date>
+<idno rend="suppress">C33slaves.xml</idno>
+<title>Alphabetical List of Robert Carter's Slaves Compiled From the 1733 Inventory of His Estate</title>
+</bibl>
+</head>
+<p>Compiled by the editor from the inventory of Robert Carter's estate, this alphabetical list give the slave's name, family members when stated, location by county and farm, and occupation if
+given.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>ALPHABETICAL LIST OF ROBERT CARTER'S SLAVES COMPILED FROM<lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; THE 1733 INVENTORY OF HIS
+ESTATE<lb/><lb/><lb/></head>
+<opener>
+<dateline>
+
+</dateline>
+
+
+</opener>
+
+
+
+<p>
+
+<table>
+
+
+<row><cell><hi rend="bold">&nbsp;&nbsp;SLAVE'S NAME</hi></cell><cell><hi rend="bold">&nbsp;&nbsp;FAMILY</hi></cell><cell><hi rend="bold">&nbsp;&nbsp;LOCATION</hi></cell><cell><hi rend="bold">&nbsp;&nbsp;OCCUPATION</hi></cell></row>
+
+<row><cell>&nbsp;&nbsp;Aaron about 13 years old</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;King George  County<lb/>&nbsp;&nbsp;Falls Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+<row><cell>&nbsp;&nbsp;Aberdeen a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Head of the River</cell><cell>&nbsp;&nbsp;sawyer</cell></row>
+
+<row><cell>&nbsp;&nbsp;Abram a Man</cell><cell>&nbsp;&nbsp;Jenny his Wife<lb/>&nbsp;&nbsp;Bridgett a girl about 1 year old</cell><cell>&nbsp;&nbsp;Lancaster<lb/> &nbsp;&nbsp;Old House Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Abram a man</cell><cell>&nbsp;&nbsp;Winney a woman;<lb/>&nbsp;&nbsp;Billy about 9 years old;<lb/>&nbsp;&nbsp;Frank a girl about 7 years old;<lb/>&nbsp;&nbsp;Harry about 5 years old;<lb/>&nbsp;&nbsp;Sam about 3 years old</cell><cell>&nbsp;&nbsp;Spotsylvania  County<lb/>&nbsp;&nbsp;Mount Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Adam a man</cell><cell>&nbsp;Moreah his wife&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Prince William  County<lb/>&nbsp;&nbsp;Lodge Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+ 
+<row><cell>&nbsp;&nbsp;Andrew</cell><cell>&nbsp;&nbsp;Patt his wife;<lb/>&nbsp;&nbsp;Beck about 4 years old;<lb/>&nbsp;&nbsp;Rachell about 2 years old</cell><cell>&nbsp;&nbsp;Stafford  County<lb/>&nbsp;&nbsp;Park Quarter</cell><cell>&nbsp;&nbsp;foreman</cell></row>
+ 
+<row><cell>&nbsp;&nbsp;Anthony a man</cell><cell>&nbsp;&nbsp;Beck his wife;<lb/>&nbsp;&nbsp;Joe about 8 years old;<lb/>&nbsp;&nbsp;Anthony about 6 years old;<lb/>&nbsp;&nbsp;Winney about 4 years old;<lb/>&nbsp;&nbsp;Beck about 3 years old;<lb/>&nbsp;&nbsp;Sue about 4 months old;<lb/>&nbsp;&nbsp;Mary about 10 years old</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Pewmond's End</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Arrabella a Woman</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster<lb/> &nbsp;&nbsp;Old House  Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Arthur a boy about 19 years  old</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster<lb/> &nbsp;&nbsp;Old House  Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Arthur a young Man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Hickory Thicket</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Arthur a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Hickory Thicket</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Baker a boy  about 11 years old;<lb/></cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Pantico Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Balizou Will</cell><cell>&nbsp;&nbsp;Moll his wife;<lb/>&nbsp;&nbsp;Tom about 10 years old</cell><cell>&nbsp;&nbsp;Stafford  County<lb/>&nbsp;&nbsp;Poplar Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+<row><cell>&nbsp;&nbsp;Bass a man</cell><cell>&nbsp;&nbsp;Moll his wife;<lb/>&nbsp;&nbsp;Sukey about 13 years old;<lb/>&nbsp;&nbsp;Mary about 10 years old;<lb/>&nbsp;&nbsp;Alice about 7 years old</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Coles Point</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Beck a woman</cell><cell>&nbsp;&nbsp;Lydia a young woman her daughter;<lb/>&nbsp;&nbsp;Sarry about 8 years old;<lb/>&nbsp;&nbsp;George about 12 years old</cell><cell>&nbsp;&nbsp;Stafford  County<lb/>&nbsp;&nbsp;Park Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Ben</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;King George  County<lb/>&nbsp;&nbsp;Falls Quarter</cell><cell>&nbsp;&nbsp;carpenter</cell></row>
+
+
+<row><cell>&nbsp;&nbsp;Ben</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster County<lb/>&nbsp;&nbsp;Hills Quarter</cell><cell>&nbsp;&nbsp;foreman</cell>  </row>
+
+<row><cell>&nbsp;&nbsp;Bess a woman</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Northumberland County<lb/>&nbsp;&nbsp;Blough Point Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+<row><cell>&nbsp;&nbsp;Bess a woman</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster County<lb/>&nbsp;&nbsp;Morattico  Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Bess a woman</cell><cell>&nbsp;&nbsp;Jemmy about 10 years old;<lb/>&nbsp;&nbsp;Ben about 7 years old;<lb/>&nbsp;&nbsp;Nanny about 5 years old;<lb/>&nbsp;&nbsp;Manuel about 3 years old</cell><cell>&nbsp;&nbsp;Stafford  County<lb/>&nbsp;&nbsp;Hinson's Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+<row><cell>&nbsp;&nbsp;Betty about 6 years old</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Northumberland County<lb/>&nbsp;&nbsp;Jones's Plantation</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Betty a young woman</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Gumfield's Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Betty a woman</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster County<lb/>&nbsp;&nbsp;Morattico  Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Betty a Woman</cell><cell>&nbsp;&nbsp;George about 12 years old;<lb/>&nbsp;&nbsp;Betty about 11 years old;<lb/>&nbsp;&nbsp;Jenny about 7 years old;<lb/>&nbsp;&nbsp;Jack about  9 years old</cell><cell>&nbsp;&nbsp;Lancaster County<lb/>&nbsp;&nbsp;Hills Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Betty a woman</cell><cell>&nbsp;&nbsp;Toby about 8 years old;<lb/>&nbsp;&nbsp;Judy about 2 years old</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Hinson's Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Betty a woman</cell><cell>&nbsp;&nbsp;Gregory about 8 years old;<lb/>&nbsp;&nbsp;Nell about 3 years old</cell><cell>&nbsp;&nbsp;Stafford  County<lb/>&nbsp;&nbsp;Park Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Betty Williams a Negro woman</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Stafford  County<lb/>&nbsp;&nbsp;Park Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Billy</cell><cell>&nbsp;&nbsp;Arrabella his Wife<lb/></cell><cell>&nbsp;&nbsp;Lancaster County<lb/>&nbsp;&nbsp;Hills Quarter</cell><cell>&nbsp;&nbsp;sawyer</cell>  </row>
+<row><cell>&nbsp;&nbsp;Blackwell a Man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster<lb/> &nbsp;&nbsp;Old House  Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Bridgett a woman</cell><cell>&nbsp;&nbsp;Betty  about 10 years old;<lb/>&nbsp;&nbsp;Sary about 4 years old;<lb/>&nbsp;&nbsp;Winney about 2 years old</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Pantico Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Bristo a man</cell><cell>&nbsp;&nbsp;Beck his wife;<lb/>&nbsp;&nbsp;Robin about 6 years old;<lb/>&nbsp;&nbsp;Ben about 3 years old</cell><cell>&nbsp;&nbsp;King George  County<lb/>&nbsp;&nbsp;Falls Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Bristo a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Spotsylvania  County<lb/>&nbsp;&nbsp;Norman's Ford</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+
+<row><cell>&nbsp;&nbsp;Brown</cell><cell>&nbsp;&nbsp;Phillis his Wife<lb/>&nbsp;&nbsp;Joe about 3 years old<lb/>&nbsp;&nbsp;Sue about 1 years old</cell><cell>&nbsp;&nbsp;Lancaster  County<lb/>&nbsp;&nbsp;Corotoman Quarter</cell><cell>&nbsp;&nbsp;cooper</cell>  </row>
+<row><cell>&nbsp;&nbsp;Brutus a man</cell><cell>&nbsp;&nbsp;Hannah his wife;<lb/>&nbsp;&nbsp;Beck about 3 years old&nbsp;</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;The Narrows </cell><cell>&nbsp;&nbsp;</cell> </row>
+
+<row><cell>&nbsp;&nbsp;Caesar</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;King George  County<lb/>&nbsp;&nbsp;Falls Quarter</cell><cell>&nbsp;&nbsp;sawyer</cell></row>
+
+<row><cell>&nbsp;&nbsp;Captain</cell><cell>&nbsp;&nbsp;Joan his Wife</cell><cell>&nbsp;&nbsp;Lancaster<lb/>&nbsp;&nbsp;Wolf House  Quarter</cell><cell>&nbsp;&nbsp;foreman</cell>  </row>
+<row><cell>&nbsp;&nbsp;Carters Will a Man</cell><cell>&nbsp;&nbsp;Pegg his Wife</cell><cell>&nbsp;&nbsp;Lancaster<lb/>&nbsp;&nbsp;Indian Town  Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+
+<row><cell>&nbsp;&nbsp;Cary Tom a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Moon's Plantation</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;[C]easar a man</cell><cell>&nbsp;&nbsp;Winney his wife;<lb/>&nbsp;&nbsp;Sawney about 15 moths old</cell><cell>&nbsp;&nbsp;Prince William  County<lb/>&nbsp;&nbsp;Frying Pan Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+<row><cell>&nbsp;&nbsp;Charles a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster County<lb/>&nbsp;&nbsp;Morattico  Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Charles</cell><cell>&nbsp;&nbsp;Norah his Wife<lb/>&nbsp;&nbsp;Tom about 13 years old;<lb/>&nbsp;&nbsp;Charles about 6years old;<lb/>&nbsp;&nbsp;Rowland about 3 years  old</cell><cell>&nbsp;&nbsp;Lancaster<lb/>&nbsp;&nbsp;Corotoman Quarter</cell><cell>&nbsp;&nbsp;;foreman</cell>  </row>
+<row><cell>&nbsp;&nbsp;Cook a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Old Ordinary</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Cook a man</cell><cell>&nbsp;&nbsp;Kitt about 9 years old;<lb/>&nbsp;&nbsp;Abram about 7 years old;<lb/>&nbsp;&nbsp;Baker about 4 years old</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Dicks Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Criss a young woman</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster County<lb/>&nbsp;&nbsp;Vesty house</cell><cell>&nbsp;&nbsp;cook</cell></row>
+<row><cell>&nbsp;&nbsp;Criss a young woman</cell><cell>&nbsp;&nbsp;Dick about 4 years old;<lb/>&nbsp;&nbsp;Betty about 2 years old</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Hickory Thicket</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Cromwell a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Prince William  County<lb/>&nbsp;&nbsp;Lodge Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+<row><cell>&nbsp;&nbsp;Cuffee a boy about 12 years old</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Metcalfs Plantation</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Cundo a man</cell><cell>&nbsp;&nbsp;Nanny his wife;<lb/>&nbsp;&nbsp;Nan about 4 months old</cell><cell>&nbsp;&nbsp;Stafford  County<lb/>&nbsp;&nbsp;Poplar Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+<row><cell>&nbsp;&nbsp;Cutts a man</cell><cell>&nbsp;&nbsp;Mary his Wife;<lb/>&nbsp;&nbsp;Peter about 10 years old;&nbsp;&nbsp;<lb/>&nbsp;&nbsp;Robin about 6 years old</cell><cell>&nbsp;&nbsp;Northumberland &nbsp;&nbsp;&nbsp;&nbsp;County<lb/>&nbsp;&nbsp;Blough Point Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Daniel about 10 years old</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Northumberland  County<lb/>&nbsp;&nbsp;Old Plantation</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Daniel</cell><cell>&nbsp;&nbsp;Nell about 6 years old;<lb/>&nbsp;&nbsp;Robin about 4 years old;<lb/>&nbsp;&nbsp;Ben about 2 years old</cell><cell>&nbsp;&nbsp;Lancaster  County<lb/>&nbsp;&nbsp;Changlins Quarter</cell><cell>&nbsp;&nbsp;foreman</cell>  </row>
+<row><cell>&nbsp;&nbsp;Daniel</cell><cell>&nbsp;&nbsp;Sary his wife;&nbsp;&nbsp;<lb/>&nbsp;&nbsp;Criss about 10 years old;&nbsp;&nbsp;<lb/>&nbsp;&nbsp;Sampson about 8 years old</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Old Ordinary</cell><cell>&nbsp;&nbsp;foreman</cell></row>
+<row><cell>&nbsp;&nbsp;Daniel a man</cell><cell>&nbsp;&nbsp;Nan his wife;<lb/>&nbsp;&nbsp;Mary about 4 yerars old;<lb/>&nbsp;&nbsp;Abram about 8 years old</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Old Ordinary</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;David a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Head of the River</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+<row><cell>&nbsp;&nbsp;Dembo a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster County<lb/>&nbsp;&nbsp;Brick House Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Dembo a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;King George  County<lb/>&nbsp;&nbsp;Falls Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Dick about 13 years old</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;King George  County<lb/>&nbsp;&nbsp;Falls Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Dick a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Northumberland County<lb/>&nbsp;&nbsp;Blough Point Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+<row><cell>&nbsp;&nbsp;Dick a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster<lb/> &nbsp;&nbsp;Old House  Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Dick a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster County<lb/>&nbsp;&nbsp;Hills  Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Dick a man</cell><cell>&nbsp;&nbsp;Judy his Wife</cell><cell>&nbsp;&nbsp;Lancaster County<lb/>&nbsp;&nbsp;Poplar Neck Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Dick</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster<lb/> &nbsp;&nbsp;Old House  Quarter</cell><cell>&nbsp;&nbsp;foreman</cell>  </row>
+<row><cell>&nbsp;&nbsp;Dick</cell><cell>&nbsp;&nbsp;Abram about 6 years old his son</cell><cell>&nbsp;&nbsp;Lancaster<lb/>&nbsp;&nbsp;Changlins  Quarter</cell><cell>&nbsp;&nbsp;;carpenter</cell>  </row>
+<row><cell>&nbsp;&nbsp;Dick a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Northumberland  County<lb/>&nbsp;&nbsp;Jones's Plantation</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Dick a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Stafford  County<lb/>&nbsp;&nbsp;Hamstead Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Dick a man</cell><cell>&nbsp;&nbsp;Moll his wife;<lb/>&nbsp;&nbsp;Robin a boy about 7 years old;<lb/>&nbsp;&nbsp;Jupitur a boy about 5 years old&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Spotsylvania  County<lb/>&nbsp;&nbsp;Mount Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+
+<row><cell>&nbsp;&nbsp;Dinah about 14 years old</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Northumberland  County<lb/>&nbsp;&nbsp;Jones's Plantation</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Dinah a young woman</cell><cell>&nbsp;&nbsp;Harry about 5 years old</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Plantation</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Dinah a woman</cell><cell>&nbsp;&nbsp;Jemmy about 15 years old;<lb/>&nbsp;&nbsp;Tom about 10 years old;<lb/>&nbsp;&nbsp;Sary about 7 years old;<lb/>&nbsp;&nbsp;Billy about 5 years old;<lb/>&nbsp;&nbsp;Robin about 2 years old</cell><cell>&nbsp;&nbsp;Stafford  County<lb/>&nbsp;&nbsp;Hamstead Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+<row><cell>&nbsp;&nbsp;Easter a Woman</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster<lb/>&nbsp;&nbsp;Corotoman  Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Easter a woman</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Pantico Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Ebo George</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Totuskey Quarter</cell><cell>&nbsp;&nbsp;foreman</cell></row>
+<row><cell>&nbsp;&nbsp;Ebo George</cell><cell>&nbsp;&nbsp;Rachel his wife;<lb/>&nbsp;&nbsp;Henry about 6 years old;<lb/>&nbsp;&nbsp;Lettice about 3 years old;<lb/>&nbsp;&nbsp;Ralph about 2 years old</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Head of the River</cell><cell>&nbsp;&nbsp;foreman</cell></row>
+
+<row><cell>&nbsp;&nbsp;Ebo Sary a woman</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Old Ordinary</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Echo a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster County<lb/>&nbsp;&nbsp;Brick House Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Ego a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Pantico Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Faldo a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster<lb/> &nbsp;&nbsp;Old House  Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Florah a woman</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Northumberland County<lb/>&nbsp;&nbsp;Jones's Plantation</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Frank a boy about 9</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Middlesex County  </cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Frank</cell><cell>&nbsp;&nbsp;Flower his wife<lb/>&nbsp;&nbsp;Duke his son abt,13</cell><cell>&nbsp;&nbsp;Middlesex  County</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;carpenter</cell>  </row>
+<row><cell>&nbsp;&nbsp;Frank a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Head of the River</cell><cell>&nbsp;&nbsp;carpenter</cell></row>
+<row><cell>&nbsp;&nbsp;Frank a man</cell><cell>&nbsp;&nbsp;Sary his wife;<lb/>&nbsp;&nbsp;Harry about 4 years old&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Spotsylvania  County<lb/>&nbsp;&nbsp;Norman's Ford</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+<row><cell>&nbsp;&nbsp;Frank a woman</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Metcalfs Plantation</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;George a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Northumberland County<lb/>&nbsp;&nbsp;Blough Point Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;George a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Northumberland  County<lb/>&nbsp;&nbsp;Old Plantation</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;George a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Totuskey Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;George</cell><cell>&nbsp;&nbsp;Betty his wife;<lb/>&nbsp;&nbsp;Bess his wife&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Forrest Quarter</cell><cell>&nbsp;&nbsp;foreman</cell></row>
+<row><cell>&nbsp;&nbsp;George</cell><cell>&nbsp;&nbsp;Betty his wife;<lb/>&nbsp;&nbsp;George a cooper about 16 years old;<lb/>&nbsp;&nbsp;Judy about 15 years old;<lb/>&nbsp;&nbsp;Oliver about 13 years old;<lb/>&nbsp;&nbsp;Sukey about 11 years old</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Forrest Quarter</cell><cell>&nbsp;&nbsp;cooper</cell></row>
+<row><cell>&nbsp;&nbsp;George a man</cell><cell>&nbsp;&nbsp;Alice his wife</cell><cell>&nbsp;&nbsp;King George  County<lb/>&nbsp;&nbsp;Richland Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+<row><cell>&nbsp;&nbsp;Grashire a Man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster<lb/>&nbsp;&nbsp;Lancaster  County<lb/>&nbsp;&nbsp;Indian Town Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Great Peter a Man</cell><cell>&nbsp;&nbsp;Oro Kate his Wife;<lb/>&nbsp;&nbsp;Nanny about 11 years old;<lb/>&nbsp;&nbsp;Peter about 8 years old;<lb/>&nbsp;&nbsp;Harry about 7 yearsold;<lb/>&nbsp;&nbsp;Margery about 3 years  old<lb/>&nbsp;&nbsp;Betty about 6 years old</cell><cell>&nbsp;&nbsp;Lancaster<lb/>&nbsp;&nbsp;Indian Town Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Gun a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Prince William  County<lb/>&nbsp;&nbsp;Range Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+<row><cell>&nbsp;&nbsp;Gutridge a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Coles Point</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Guy a Man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster County<lb/>&nbsp;&nbsp;Hills  Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Guy a man</cell><cell>&nbsp;&nbsp;Grace his wife;<lb/>&nbsp;&nbsp;Toney about 11 years old;<lb/>&nbsp;&nbsp;Harry about 7 years old</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Glascock's Plantation</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Guy a man</cell><cell>&nbsp;&nbsp;Winney his wife</cell><cell>&nbsp;&nbsp;King George  County<lb/>&nbsp;&nbsp;Richland Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Guy a man</cell><cell>&nbsp;&nbsp;Winney his wife;<lb/>&nbsp;&nbsp;Nan about 5 years old;<lb/>&nbsp;&nbsp;Phillis about 6 months old</cell><cell>&nbsp;&nbsp;Prince William  County<lb/>&nbsp;&nbsp;Red Oak Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+<row><cell>&nbsp;&nbsp;Hannah about 5 years old</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Totuskey Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Hannah a girl about 9 years old</cell><cell>&nbsp;&nbsp;Sloop Toney['s daughter]</cell><cell>&nbsp;&nbsp;Lancaster<lb/> &nbsp;&nbsp;Old House  Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Hannah a woman</cell><cell>&nbsp;&nbsp;Jemmy about 4 years old;<lb/>&nbsp;&nbsp;Phill about 1 year old;</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Bridge Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Harry about 13 years old</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Old Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Harry</cell><cell>&nbsp;&nbsp;Kate his Wife;<lb/>&nbsp;&nbsp;Nanny about 9 years old;<lb/>&nbsp;&nbsp;Jack about 8 years old;<lb/>&nbsp;&nbsp;Ben about 6 years old;<lb/>&nbsp;&nbsp;Robin about 4 years old;<lb/>&nbsp;&nbsp;Molly about 6 months old</cell><cell>&nbsp;&nbsp;Lancaster County<lb/>&nbsp;&nbsp;Brick House Quarter</cell><cell>&nbsp;&nbsp;foreman</cell></row>
+<row><cell>&nbsp;&nbsp;Harry a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Northumberland&nbsp;&nbsp;&nbsp;&nbsp; County<lb/>&nbsp;&nbsp;Jones's Plantation</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Harry a Man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Hickory Thicket</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Harry</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Metcalfs Plantation</cell><cell>&nbsp;&nbsp;foreman</cell></row>
+
+<row><cell>&nbsp;&nbsp;Harry a man</cell><cell>&nbsp;&nbsp;Judy his wife;<lb/>&nbsp;&nbsp;Manuel about 2 years old;<lb/>&nbsp;&nbsp;Nanny about 2 months old</cell><cell>&nbsp;&nbsp;King George  County<lb/>&nbsp;&nbsp;Falls Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Harry</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;King George  County<lb/>&nbsp;&nbsp;Falls Quarter</cell><cell>&nbsp;&nbsp;carpenter</cell></row>
+<row><cell>&nbsp;&nbsp;Harry a man</cell><cell>&nbsp;&nbsp;Judy his wife;<lb/>&nbsp;&nbsp;Sary about 5 months old</cell><cell>&nbsp;&nbsp;Prince William  County<lb/>&nbsp;&nbsp;Mountuarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+
+<row><cell>&nbsp;&nbsp;Harry Bacon a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Head of the River</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Harry Beaf a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Head of the River</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Hector a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Prince William County<lb/>&nbsp;&nbsp;Red Oak Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Hector Frank a woman</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Pewmond's End</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Humphrey a man</cell><cell>&nbsp;&nbsp;Rose his wife;<lb/>&nbsp;&nbsp;Abram about 10 years old;<lb/>&nbsp;&nbsp;Charles about 8 years old</cell><cell>&nbsp;&nbsp;Prince William  County<lb/>&nbsp;&nbsp;Red Oak Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Isaac about 15 years old</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;King George  County<lb/>&nbsp;&nbsp;Falls Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+<row><cell>&nbsp;&nbsp;Isaac a Man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster County<lb/>&nbsp;&nbsp;Changlins  Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Jack a man</cell><cell>&nbsp;&nbsp;Jenny his wife;<lb/>&nbsp;&nbsp;Abram about 12 years old;<lb/>&nbsp;&nbsp;Bob about 7 years old </cell><cell>&nbsp;&nbsp;Lancaster  County<lb/>&nbsp;&nbsp;Wolf House Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Jack  about 9 years old;<lb/></cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Pantico Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Jack</cell><cell>&nbsp;&nbsp;Kate his wife<lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Gumfield's Quarter</cell><cell>&nbsp;&nbsp;foreman</cell></row>
+
+<row><cell>&nbsp;&nbsp;Jack a man</cell><cell>&nbsp;Judy his Wife<lb/>&nbsp;&nbsp;Ben about 8 years old;<lb/>&nbsp;&nbsp;Lucy about 4 years ols'<lb/>&nbsp;&nbsp;Jack about 1 year old</cell><cell>&nbsp;&nbsp;Northumberland County<lb/>&nbsp;&nbsp;Blough Point Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Jack a man</cell><cell>&nbsp;&nbsp;Guy a carpenter his son;<lb/>&nbsp;&nbsp;Jack about 7 years old;<lb/>&nbsp;&nbsp;Jemmy about 6 years old</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Old Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Jack a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Metcalfs Plantation</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Jack a man</cell><cell>&nbsp;&nbsp;Pegg his wife;<lb/>&nbsp;&nbsp;James about 12 years old;<lb/>&nbsp;&nbsp;Robin about 9 years old;<lb/>&nbsp;&nbsp;Phillis about 2 years old</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Dicks Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Jack</cell><cell>&nbsp;&nbsp;Hannah his wife;<lb/>&nbsp;&nbsp;Tom about 6 years old;<lb/>&nbsp;&nbsp;Judy about 4 years old;<lb/>&nbsp;&nbsp;Moll about 2 years old&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;King George  County<lb/>&nbsp;&nbsp;Richland Quarter </cell><cell>&nbsp;&nbsp;foreman</cell></row>
+
+<row><cell>&nbsp;&nbsp;Jack Fry about 8 years old</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Head of the River</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+<row><cell>&nbsp;&nbsp;Jacob a Man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster County<lb/>&nbsp;&nbsp;Hills  Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Jacob a Man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster County<lb/>&nbsp;&nbsp;Hills  Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Jacob a Man</cell><cell>&nbsp;&nbsp;Joan his wife;<lb/>&nbsp;&nbsp;Harry a Young Man their Son</cell><cell>&nbsp;&nbsp;Northumberland County<lb/>&nbsp;&nbsp;Jones's Plantation</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Jacob</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;King George  County<lb/>&nbsp;&nbsp;Falls Quarter</cell><cell>&nbsp;&nbsp;carpenter</cell></row>
+
+<row><cell>&nbsp;&nbsp;James</cell><cell>&nbsp;&nbsp;Mary his wife;<lb/>&nbsp;&nbsp;Jane about 13 years old;<lb/>&nbsp;&nbsp;Mary about 8 years old; <lb/>&nbsp;&nbsp;Ego a boy about 1 year old</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Pantico Quarter</cell><cell>&nbsp;&nbsp;foreman</cell></row>
+
+<row><cell>&nbsp;&nbsp;Jean a woman</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Northumberland County<lb/>&nbsp;&nbsp;Blough Point Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+<row><cell>&nbsp;&nbsp;Jemmy a boy about 14 years old</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster<lb/>&nbsp;&nbsp;Home  Plantation</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Jemmy a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster<lb/> &nbsp;&nbsp;Old House  Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+
+<row><cell>&nbsp;&nbsp;Jemmy about 5 years old</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Old Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Jemmy about 10 years old</cell><cell>&nbsp;&nbsp;Phills brother</cell><cell>&nbsp;&nbsp;Lancaster<lb/>&nbsp;&nbsp;Home  Plantation</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Jemmy a Man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster<lb/>&nbsp;&nbsp;Corotoman  Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+
+<row><cell>&nbsp;&nbsp;Jemmy</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Moon's Plantation</cell><cell>&nbsp;&nbsp;foreman</cell></row>
+
+
+<row><cell>&nbsp;&nbsp;Jemmy a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Northumberland County<lb/>&nbsp;&nbsp;Jones's Plantation</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Jenny a woman</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Hickory Thicket</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Jeoffry a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;King George  County<lb/>&nbsp;&nbsp;Richland Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Jeoffry a man</cell><cell>&nbsp;&nbsp;&nbsp;Dinah his wife;<lb/>&nbsp;&nbsp;Frank a girl about 213 years old;<lb/>&nbsp;&nbsp;Alice about 5 years old</cell><cell>&nbsp;&nbsp;Stafford  County<lb/>&nbsp;&nbsp;Richaland Quarter </cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+<row><cell>&nbsp;&nbsp;Joan a Woman</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster County<lb/>&nbsp;&nbsp;Brick House Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Joe a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster<lb/>&nbsp;&nbsp;Home  Plantation</cell><cell>&nbsp;&nbsp;carter</cell>  </row>
+<row><cell>&nbsp;&nbsp;Joe a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Metcalfs Plantation</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Joe a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Head of the River</cell><cell>&nbsp;&nbsp;sawyer</cell></row>
+<row><cell>&nbsp;&nbsp;Joe a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Coles Point</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Joe</cell><cell>&nbsp;&nbsp;Bess his wife;<lb/>&nbsp;&nbsp;Sarry about 10 years old;<lb/>&nbsp;&nbsp;Betty about 8 years old;<lb/>&nbsp;&nbsp;Fortune a girl about 2 years old</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Dicks Quarter</cell><cell>&nbsp;&nbsp;foreman</cell></row>
+
+
+<row><cell>&nbsp;&nbsp;John a Man</cell><cell>&nbsp;&nbsp;Easter his wife</cell><cell>&nbsp;&nbsp;Lancaster County<lb/>&nbsp;&nbsp;Hills  Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Johnny about 7 years old</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Gumfield's Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Judy a woman</cell><cell>&nbsp;&nbsp;Martha about 8 years old;<lb/>&nbsp;&nbsp;Tom about 5 years old</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Gumfield's Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Judy a woman</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Hickory Thicket</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Kate about 4 years old</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Gumfield's Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Kate about 10 years old</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Gumfield's Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Kate a woman</cell><cell>&nbsp;&nbsp;Hannah about 9 years old;<lb/>&nbsp;&nbsp;Jacob about 8 years old</cell><cell>&nbsp;&nbsp;Lancaster<lb/>&nbsp;&nbsp;Indian Town  Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Kate a woman</cell><cell>&nbsp;&nbsp;Sam about 4 years old;<lb/>&nbsp;&nbsp;Tom about 6 months old</cell><cell>&nbsp;&nbsp;Northumberland County<lb/>&nbsp;&nbsp;Jones's Plantation</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Kate a woman</cell><cell>&nbsp;&nbsp;Nanny about 11 years old;<lb/>&nbsp;&nbsp;Kate about 8 years old;;<lb/>&nbsp;&nbsp;Billy about 7 years old;<lb/> &nbsp;&nbsp;Jack about 8 years old</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Pantico Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Kate a woman</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Dicks Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Kate a woman</cell><cell>&nbsp;&nbsp;Winney about 7 years old</cell><cell>&nbsp;&nbsp;Stafford  County<lb/>&nbsp;&nbsp;Hamstead Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+<row><cell>&nbsp;&nbsp;Kersy a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster County<lb/>&nbsp;&nbsp;Gibson's plantation</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;King Tom</cell><cell>&nbsp;&nbsp;Nan his wife</cell><cell>&nbsp;&nbsp;Stafford  County<lb/>&nbsp;&nbsp;Hamstead Quarter</cell><cell>&nbsp;&nbsp;foreman</cell></row>
+
+
+<row><cell>&nbsp;&nbsp;Kitt a boy about 11 years old</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster<lb/>&nbsp;&nbsp;Home  Plantation</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Kitt about 11 years old</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Hickory Thicket</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Kitt a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Northumberland County<lb/>&nbsp;&nbsp;Old Plantation</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Kitt</cell><cell>&nbsp;&nbsp;Rose his wife</cell><cell>&nbsp;&nbsp;Stafford  County<lb/>&nbsp;&nbsp;Hinson's Quarter</cell><cell>&nbsp;&nbsp;foreman</cell></row>
+<row><cell>&nbsp;&nbsp;Lerpool a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Spotsylvania  County<lb/>&nbsp;&nbsp;Norman's Ford</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+<row><cell>&nbsp;&nbsp;Lettice about 2 years old</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Gumfield's Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Limas a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Pantico Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Little Betty a woman</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Pewmond's End</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Little Harry about 14 years old</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Pewmond's End</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+<row><cell>&nbsp;&nbsp;Little George about 14 years old</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Head of the River</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+<row><cell>&nbsp;&nbsp;Little Nanny a Woman</cell><cell>&nbsp;&nbsp;Dick about 10 years old;<lb/>&nbsp;&nbsp;Sary about 6 years old;<lb/>&nbsp;&nbsp;Easter about 2 years old<lb/></cell><cell>&nbsp;&nbsp;Lancaster County<lb/>&nbsp;&nbsp;Brick House Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Little Tom about 12 years old</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Brick House Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+<row><cell>&nbsp;&nbsp;London a Man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster<lb/> &nbsp;&nbsp;Old House  Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Lydia a Woman</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster<lb/>&nbsp;&nbsp;Indian Town  Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Margaret about 10 years  old</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster County<lb/>&nbsp;&nbsp;Morattico  Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Mary about 8 years old</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Brick House Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Mary a Woman</cell><cell>&nbsp;&nbsp;Winney about 14 years old;<lb/>&nbsp;&nbsp;Manuel about 13 years old;<lb/>&nbsp;&nbsp;Will about 11 years old;&nbsp;&nbsp;<lb/>&nbsp;&nbsp;Wilmouth a girl about 10 years old;<lb/>&nbsp;&nbsp;Kate about 6 years old</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Fork Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Mary a Woman</cell><cell>&nbsp;&nbsp;Adam about 7 years old;<lb/>&nbsp;&nbsp;Daniel about 5 years old;<lb/>&nbsp;&nbsp;Mary about 3 years old</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Old Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Mary a woman</cell><cell>&nbsp;&nbsp;Ralph a carpenter her son;<lb/>&nbsp;&nbsp;Billy about 10 years old;<lb/>&nbsp;&nbsp;Rose a girl about 8 years old;<lb/>&nbsp;&nbsp;Charles about 3 years old</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Gumfield's Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Mary a woman</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Pantico Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Mercury a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Spotsylvania  County<lb/>&nbsp;&nbsp;Norman's Ford</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+
+<row><cell>&nbsp;&nbsp;Michael</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Northumberland County<lb/>&nbsp;&nbsp;Old Plantation</cell><cell>&nbsp;&nbsp;foreman</cell></row>
+
+<row><cell>&nbsp;&nbsp;Mingo a Man</cell><cell>&nbsp;&nbsp;Long Nanny his wife;<lb/>&nbsp;&nbsp;Idabel a girl about 9 years old;<lb/>&nbsp;&nbsp;Betty a girl about 8 years old;<lb/>&nbsp;&nbsp;Mingo a boy about 7 years old;<lb/>&nbsp;&nbsp;Mary a  girl about 6 years;<lb/>&nbsp;&nbsp;Alice a girl about 1 year old</cell><cell>&nbsp;&nbsp;Lancaster<lb/> &nbsp;&nbsp;Old House  Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Moll a girl about 12 years pld</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Prince William  County<lb/>&nbsp;&nbsp;Red Oak Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+ 
+<row><cell>&nbsp;&nbsp;Moreah a woman</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Prince William  County<lb/>&nbsp;&nbsp;Red Oak Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Mucca Jack a Man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster County<lb/>&nbsp;&nbsp;Brick House Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+  
+<row><cell>&nbsp;&nbsp;Mulatto Billy</cell><cell>&nbsp;&nbsp;Johnny his son about 8 years old</cell><cell>&nbsp;&nbsp;Lancaster<lb/>&nbsp;&nbsp;Home  Plantation</cell><cell>&nbsp;&nbsp;carpenter</cell>  </row>
+<row><cell>&nbsp;&nbsp;Mulatto John about 10 years old</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster<lb/>&nbsp;&nbsp;Home  Plantation</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Mulatto Mary a Woman</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster  County<lb/>&nbsp;&nbsp;Indian Town Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Nan about 14 years old</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Hickory Thicket</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Nan a woman</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Northumberland County<lb/>&nbsp;&nbsp;Blough Point Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Nan a woman</cell><cell>&nbsp;&nbsp;Grace about 4 years old;<lb/>&nbsp;&nbsp;Charles about 3 years old;<lb/>&nbsp;&nbsp;Jemmy about 1 year old</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Gumfield's Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Nan a woman</cell><cell>&nbsp;Judy about 12 years old;<lb/>&nbsp;&nbsp;Lolly a girl about 10 years old;<lb/>&nbsp;&nbsp;Jack about 5 years old</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Brents Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Nan a woman</cell><cell>&nbsp;&nbsp;Bess about 9 years old;<lb/>&nbsp;&nbsp;Sary about 7 years old;<lb/>&nbsp;&nbsp;Frank about 3 years old;<lb/>&nbsp;&nbsp;Hannah about 1 year old</cell><cell>&nbsp;&nbsp;Prince William  County<lb/>&nbsp;&nbsp;Lodge Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+
+<row><cell>&nbsp;&nbsp;Napsack  a boy  about 14 years old</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Northumberland County<lb/>&nbsp;&nbsp;Jones's Plantation</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Nassau a Man</cell><cell>&nbsp;&nbsp;Nanny his Wife<lb/>&nbsp;&nbsp;Bridgett their Daughter.a young Wom<lb/>&nbsp;&nbsp;Criss a Girl about 14 years old<lb/>&nbsp;&nbsp;Matty a girl about 11 years old<lb/>&nbsp;&nbsp;Lucy  Ditto about 7 years old</cell><cell>&nbsp;&nbsp;Lancaster<lb/> &nbsp;&nbsp;Old House Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Ned a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster<lb/>&nbsp;&nbsp;Wolf House  Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Ned a man</cell><cell>&nbsp;&nbsp;Kate about 12 years old;<lb/>&nbsp;&nbsp;Moll about 8 years old</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Glascock's Plantation</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Ned a man</cell><cell>&nbsp;&nbsp;Joan his wife;</cell><cell>&nbsp;&nbsp;Stafford  County<lb/>&nbsp;&nbsp;Hamstead Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+<row><cell>&nbsp;&nbsp;Nell about 10 years old<lb/></cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Pantico Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Odo a young woman</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster<lb/>&nbsp;&nbsp;Home  Plantation</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Old Bock</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster<lb/>&nbsp;&nbsp;Indian Town  Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Old  Charles</cell><cell>&nbsp;&nbsp;Venus his wife</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Bridge Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Old Crabb</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster<lb/>&nbsp;&nbsp;Changlins  Quarter</cell><cell>&nbsp;&nbsp;past labour</cell>  </row>
+<row><cell>&nbsp;&nbsp;Old Criss past labor</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Old Ordinary</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Old Daniel</cell><cell>&nbsp;&nbsp;Rachel his Wife</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Totuskey Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Old Fortune a woman</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster<lb/>&nbsp;&nbsp;Home  Plantation</cell><cell>&nbsp;&nbsp;;past Labour</cell>  </row>
+<row><cell>&nbsp;&nbsp;Old Gumby</cell><lb/><cell>&nbsp;&nbsp;Matha his wife;<lb/>&nbsp;&nbsp;Jack a young man their son</cell><cell>&nbsp;&nbsp;Lancaster<lb/>&nbsp;&nbsp;Wolf House  Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Old Harry</cell><cell>&nbsp;&nbsp;Jenny his wife past labour</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Hinson's Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Old  Jack</cell><cell>&nbsp;&nbsp;Bess his wife;<lb/>&nbsp;&nbsp;Bock about 8 years old</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Totuskey Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Old Jack</cell><cell>&nbsp;&nbsp;Joan his wife;<lb/>&nbsp;&nbsp;Frank a boy about 13 years old;<lb/>&nbsp;&nbsp;Robin about 8 years old;<lb/>&nbsp;&nbsp;Sim about 4 years old</cell><cell>&nbsp;&nbsp;Stafford  County<lb/>&nbsp;&nbsp;Hinson's Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+<row><cell>&nbsp;&nbsp;Old Jacob</cell><cell>&nbsp;&nbsp;Poll his Wife;<lb/>&nbsp;&nbsp;Young Jacob a Man their Son</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Fork Quarter</cell><cell>&nbsp;&nbsp;foreman</cell></row>
+<row><cell>&nbsp;&nbsp;Old Kate</cell><cell>&nbsp;&nbsp;Mary about 6 years old;&nbsp;&nbsp;Dick about 5 years old</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Brents Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Old Kate past labour</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster County<lb/>&nbsp;&nbsp;Brick House Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Old Manuel</cell><cell>&nbsp;&nbsp;Semendary his Wife;<lb/>&nbsp;&nbsp;Archibald about 8 years old</cell><cell>&nbsp;&nbsp;Lancaster County<lb/>&nbsp;&nbsp;Changlins  Quarter</cell><cell>&nbsp;&nbsp;cooper past labour</cell></row>
+<row><cell>&nbsp;&nbsp;Old Margett past labour</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Hinson's Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+<row><cell>&nbsp;&nbsp;Old Nan</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Gumfield's Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Old Ned</cell><cell>&nbsp;&nbsp;Old Moreah his wife;<lb/>&nbsp;&nbsp;Kate a girl about 10 years old;<lb/>&nbsp;&nbsp;Frank a girl about 10 years old</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Pewmond's End</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Old Oliver</cell><cell>&nbsp;Nan his Wife;<lb/>&nbsp;&nbsp;Betty about 9 years old;<lb/>&nbsp;&nbsp;Dinah about 6 years old</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Old  Quarter</cell><cell>&nbsp;&nbsp;foreman</cell></row>
+
+
+
+
+<row><cell>&nbsp;&nbsp;Old Robin</cell><cell>&nbsp;&nbsp;Old Betty his Wife past Labour;<lb/>&nbsp;&nbsp;Young Robin their son foreman;<lb/>&nbsp;&nbsp;Betty a woman their daughter;<lb/>&nbsp;&nbsp;Isaac a lad about 16years old</cell><cell>&nbsp;&nbsp;Lancaster County<lb/>&nbsp;&nbsp;Gibson's plantation</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Old Sampson</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster County<lb/>&nbsp;&nbsp;Brick House Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Old Sary</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster<lb/>&nbsp;&nbsp;Changlins  Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+
+<row><cell>&nbsp;&nbsp;Old Tom</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Old Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Old Tom past Labour</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Gumfield's Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Old Tom</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Coles Point</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Old Tom</cell><cell>&nbsp;&nbsp;Hannah his wife;<lb/>&nbsp;&nbsp;Dinah about 6 years old;<lb/>&nbsp;&nbsp;Kate about 8 years old&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Spotsylvania  County<lb/>&nbsp;&nbsp;Norman's Ford</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+<row><cell>&nbsp;&nbsp;Oliver about 7 years old<lb/></cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Pantico Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+<row><cell>&nbsp;&nbsp;Omor a woman</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster County<lb/>&nbsp;&nbsp;Poplar Neck Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Patrick a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Prince William  County<lb/>&nbsp;&nbsp;Frying Pan Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+<row><cell>&nbsp;&nbsp;Pegg about 14 years old</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Brick House Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Pegg a woman</cell><cell>&nbsp;&nbsp;Sary about 9 years old;<lb/>&nbsp;&nbsp;Joe about 7 years old;<lb/>&nbsp;&nbsp;Harry about 4 years old;<lb/>&nbsp;&nbsp;Arthur about 2 years old;<lb/>&nbsp;&nbsp;Peggy about 6 months old</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Fork Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+<row><cell>&nbsp;&nbsp;Peter a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster County<lb/>&nbsp;&nbsp;Changlins  Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+
+<row><cell>&nbsp;&nbsp;Peter a Man</cell><cell>&nbsp;&nbsp;Florah his Wife;<lb/>&nbsp;&nbsp;Harry about 13 years old;<lb/>&nbsp;&nbsp;Peter about 6 years old</cell><cell>&nbsp;&nbsp;Lancaster  County<lb/>&nbsp;&nbsp;Corotoman Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Peter a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Forrest Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Peter a man</cell><cell>&nbsp;&nbsp;Matt his wife;<lb/>&nbsp;&nbsp;Norah about 11 years old;<lb/>&nbsp;&nbsp;Dick about 7 years old;<lb/>&nbsp;&nbsp;Nanny about 2 years old</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Dicks Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Peter a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;King George  County<lb/>&nbsp;&nbsp;Falls Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Peter a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Prince William  County<lb/>&nbsp;&nbsp;Lodge Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+<row><cell>&nbsp;&nbsp;Phil a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Northumberland County<lb/>&nbsp;&nbsp;Old Plantation</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Phillis a woman</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Northumberland County<lb/>&nbsp;&nbsp;Jones's Plantation</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Pompey a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Totuskey Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Pratts Sary a woman</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster<lb/>&nbsp;&nbsp;Home  Plantation</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Prince a boy about 13 years ;old</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Bridge Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Prince a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster County<lb/>&nbsp;&nbsp;Brick House Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Prince a man</cell><cell>&nbsp;&nbsp;Sonco a boy about 11 years old</cell><cell>&nbsp;&nbsp;Stafford  County<lb/>&nbsp;&nbsp;Poplar Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+<row><cell>&nbsp;&nbsp;Ralph a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster<lb/> &nbsp;&nbsp;Old House  Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+
+<row><cell>&nbsp;&nbsp;Ralph</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Brick House Quarter</cell><cell>&nbsp;&nbsp;foreman</cell></row>
+<row><cell>&nbsp;&nbsp;Ralph a man</cell><cell>&nbsp;&nbsp;Betty his wife</cell><cell>&nbsp;&nbsp;King George  County<lb/>&nbsp;&nbsp;Richland Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Robert a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;The Narrows&nbsp;&nbsp; </cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;</cell> </row>
+
+
+
+<row><cell>&nbsp;&nbsp;Robin a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster County<lb/>&nbsp;&nbsp;Brick House Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Robin a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster County<lb/>&nbsp;&nbsp;Morattico  Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Robin a man</cell><cell>&nbsp;&nbsp;Bess his Wife</cell><cell>&nbsp;&nbsp;Lancaster<lb/>&nbsp;&nbsp;Corotoman  Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Robin a man</cell><cell>&nbsp;&nbsp;Martha his wife</cell><cell>&nbsp;&nbsp;Lancaster<lb/>&nbsp;&nbsp;Home  Plantation</cell><cell>&nbsp;&nbsp;butcher</cell>  </row>
+<row><cell>&nbsp;&nbsp;Robin a Man</cell><cell>&nbsp;&nbsp;Sue his Wife</cell><cell>&nbsp;&nbsp;Lancaster<lb/> &nbsp;&nbsp;Old House  Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Robin</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster<lb/>&nbsp;&nbsp;Corotoman  Quarter</cell><cell>&nbsp;&nbsp;sawyer</cell>  </row>
+<row><cell>&nbsp;&nbsp;Robin a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Head of the River</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Robin</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Glascock's Plantation</cell><cell>&nbsp;&nbsp;foreman</cell></row>
+<row><cell>&nbsp;&nbsp;Robin</cell><cell>&nbsp;&nbsp;Nan his wife;<lb/>&nbsp;&nbsp;Hannah about 4 years old;<lb/>&nbsp;&nbsp;Betty about 2 years old</cell><cell>&nbsp;&nbsp;Stafford  County<lb/>&nbsp;&nbsp;Poplar Quarter</cell><cell>&nbsp;&nbsp;foreman</cell></row>
+<row><cell>&nbsp;&nbsp;Robin a man</cell><cell>&nbsp;&nbsp;Sue his wife;<lb/>&nbsp;&nbsp;Bess about 3 years old;<lb/>&nbsp;&nbsp;Moll about 6 months old</cell><cell>&nbsp;&nbsp;Norman's Ford</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+
+<row><cell>&nbsp;&nbsp;Robin Single a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Head of the River</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Roger</cell><cell>&nbsp;&nbsp;Betty his wife;<lb/>&nbsp;&nbsp;Lucy a girl about 8 years old&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Pewmond's End</cell><cell>&nbsp;&nbsp;foreman</cell></row>
+
+<row><cell>&nbsp;&nbsp;Rowland a Man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster<lb/>&nbsp;&nbsp;Home  Plantation</cell><cell>&nbsp;&nbsp;slooper</cell>  </row>
+
+<row><cell>&nbsp;&nbsp;Royal</cell><cell>&nbsp;&nbsp;Sary his wife;<lb/>&nbsp;&nbsp;Lettice about 7 years old;<lb/>&nbsp;&nbsp;Billy about 4 years old;<lb/>&nbsp;&nbsp;Bess about 3 years old;<lb/>&nbsp;&nbsp;Dinah about 1 year old</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;The Narrows</cell><cell>&nbsp;&nbsp;foreman</cell> </row>
+<row><cell>&nbsp;&nbsp;Rumbo a Man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster<lb/>&nbsp;&nbsp;Indian Town  Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Sam</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster<lb/>&nbsp;&nbsp;Wolf House  Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;sawyer</cell>  </row>
+
+<row><cell>&nbsp;&nbsp;Sam</cell><cell>&nbsp;&nbsp;Sary his Wife;<lb/>&nbsp;&nbsp;George a Young Man their Son;<lb/>&nbsp;&nbsp;Frances a girl about 15 years old;<lb/>&nbsp;&nbsp;Manny about 10 years old</cell><cell>&nbsp;&nbsp;Northumberland County<lb/>&nbsp;&nbsp;Blough Point Quarter</cell><cell>&nbsp;&nbsp;foreman</cell></row>
+
+<row><cell>&nbsp;&nbsp;Sam</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster County<lb/>&nbsp;&nbsp;Poplar Neck Quarter</cell><cell>&nbsp;&nbsp;foreman</cell></row>
+<row><cell>&nbsp;&nbsp;Sam a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Hickory Thicket</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Sam a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Totuskey Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Sam a young man</cell><cell>&nbsp;&nbsp;Virginia Sary a woman;&nbsp;&nbsp;<lb/>&nbsp;&nbsp;Frank a girl about 12 years old;<lb/>&nbsp;&nbsp;Tom about 6 years old;<lb/>&nbsp;&nbsp;Sambo about 9 years old;<lb/>&nbsp;&nbsp;Betty about 4 years old;<lb/>&nbsp;&nbsp;George about 2 years old</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Brents Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Sam a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Old Ordinary</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Sam</cell><cell>&nbsp;&nbsp;Grace hsi wife;<lb/>&nbsp;&nbsp;Gawin a boy about 7 years old;<lb/>&nbsp;&nbsp;Tomboy about 3 years old</cell><cell>&nbsp;&nbsp;King George  County<lb/>&nbsp;&nbsp;Falls Quarter</cell><cell>&nbsp;&nbsp;foreman</cell></row>
+<row><cell>&nbsp;&nbsp;Sam a man</cell><cell>&nbsp;&nbsp;Sisly his wife</cell><cell>&nbsp;&nbsp;Stafford  County<lb/>&nbsp;&nbsp;Hamstead Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+<row><cell>&nbsp;&nbsp;Sambo a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Northumberland County<lb/>&nbsp;&nbsp;Old Plantation</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Sambo a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Stafford  County<lb/>&nbsp;&nbsp;Hamstead Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Sampson about 15 years old</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Prince William  County<lb/>&nbsp;&nbsp;Range Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Sampson</cell><cell>&nbsp;&nbsp;Judy his Wife</cell><cell>&nbsp;&nbsp;Lancaster<lb/>&nbsp;&nbsp;Indian Town  Quarter</cell><cell>&nbsp;&nbsp;foreman</cell>  </row>
+<row><cell>&nbsp;&nbsp;Sary about 2 years old</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster County<lb/>&nbsp;&nbsp;Morattico  Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Sary a woman</cell><cell>&nbsp;&nbsp;Sukey about 7 years old</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Old Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Sary a woman</cell><cell>&nbsp;&nbsp;Jenny about 9 years old;<lb/>&nbsp;&nbsp;Beck about 6 yrars old;<lb/>&nbsp;&nbsp;Sary about 7 months old</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Hickory Thicket</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Sawney</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;King George  County<lb/>&nbsp;&nbsp;Falls Quarter</cell><cell>&nbsp;&nbsp;&nbsp;sawyer</cell></row>
+<row><cell>&nbsp;&nbsp;Sawney </cell><cell>&nbsp;&nbsp;Winney his wife;<lb/>&nbsp;&nbsp;Moreah about 9 years old;<lb/>&nbsp;&nbsp;Judy about 7 years old;<lb/>&nbsp;&nbsp;Sary about 5 years old;<lb/>&nbsp;&nbsp;Jemmy about 3 years old;<lb/>&nbsp;&nbsp;Betty about 7 days old</cell><cell>&nbsp;&nbsp;Spotsylvania  County<lb/>&nbsp;&nbsp;Mount Quarter</cell><cell>&nbsp;&nbsp;foreman&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+
+<row><cell>&nbsp;&nbsp;Scipio a young man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster<lb/>&nbsp;&nbsp;Home  Plantation</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;slooper</cell>  </row>
+<row><cell>&nbsp;&nbsp;Sharper about 14 years old</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Northumberland County<lb/>&nbsp;&nbsp;Old Plantation</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Sharper a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Prince William  County<lb/>&nbsp;&nbsp;Frying Pan Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+<row><cell>&nbsp;&nbsp;Smith, Manuel </cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster<lb/>&nbsp;&nbsp;Home  Plantation</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;carter</cell>  </row>
+<row><cell>&nbsp;&nbsp;Snapsack a young Man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster<lb/> &nbsp;&nbsp;Old House  Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Sonco a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Head of the River</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Solomon a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Stafford  County<lb/>&nbsp;&nbsp;Park Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+<row><cell>&nbsp;&nbsp;Spain a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Forrest Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Stephen a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster<lb/>&nbsp;&nbsp;Changlins  Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Stephen a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster County<lb/>&nbsp;&nbsp;Hills  Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Stephen</cell><cell>&nbsp;&nbsp;Sarah about 10 years old;<lb/>&nbsp;&nbsp;Ambross about 8 years old;<lb/>&nbsp;&nbsp;Moll about 5 years old</cell><cell>&nbsp;&nbsp;Lancaster  County<lb/>&nbsp;&nbsp;Indian Town Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;sawyer</cell>  </row>
+<row><cell>&nbsp;&nbsp;Sue a woman</cell><cell>&nbsp;&nbsp;Gabriel about 13 years old;<lb/>&nbsp;&nbsp;Betty about 12 yearsold;<lb/>&nbsp;&nbsp;Dinah about 9 years old;<lb/>&nbsp;&nbsp;Manuel about 7 r.  old;<lb/>&nbsp;&nbsp;Alice about 4 years old</cell><cell>&nbsp;&nbsp;Lancaster<lb/>&nbsp;&nbsp;Changlins Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Sue a woman</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster County<lb/>&nbsp;&nbsp;Morattico  Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Sue a woman</cell><cell>&nbsp;&nbsp;Moses about 3 years old</cell><cell>&nbsp;&nbsp;Lancaster County<lb/>&nbsp;&nbsp;Brick House Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Sue a woman</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Northumberland County<lb/>&nbsp;&nbsp;Jones's Plantation</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Sue a woman</cell><cell>&nbsp;&nbsp;Phillis about 6 years old;<lb/>&nbsp;&nbsp;George about 2 years old</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Hickory Thicket</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Sue a woman</cell><cell>&nbsp;&nbsp;Roger about 12 years old;<lb/>&nbsp;&nbsp;Daniel about 7 years old;<lb/>&nbsp;&nbsp;James about 5 years old</cell><cell>&nbsp;&nbsp;Stafford County<lb/>&nbsp;&nbsp;Park Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+<row><cell>&nbsp;&nbsp;Sutley</cell><cell>&nbsp;&nbsp;Pegg his wife;<lb/>&nbsp;&nbsp;Betty about 6 years old;<lb/>&nbsp;&nbsp;Jenny about 3 years old</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Coles Point</cell><cell>&nbsp;&nbsp;foreman</cell></row>
+
+<row><cell>&nbsp;&nbsp;Talbott a young man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster<lb/>&nbsp;&nbsp;Home  Plantation</cell><cell>&nbsp;&nbsp;slooper</cell>  </row>
+<row><cell>&nbsp;&nbsp;Toby</cell><cell>&nbsp;&nbsp;Nanny his wife<lb/> &nbsp;&nbsp;Priscilla a Young Woman his Daughter<lb/> &nbsp;&nbsp;Betty her Daughter 16 Years old</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;Lancaster  County<lb/>&nbsp;&nbsp;Home Plantation</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;tailor</cell>  </row>
+<row><cell>&nbsp;&nbsp;Toby a man</cell><cell>&nbsp;&nbsp;Sary his wife</cell><cell>&nbsp;&nbsp;Stafford  County<lb/>&nbsp;&nbsp;Poplar Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Tom about 13 years old</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Brick House Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+<row><cell>&nbsp;&nbsp;Tom about 14 years old</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Brick House Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Tom a boy about 14 years old</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster<lb/>&nbsp;&nbsp;Home  Plantation</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Tom a young man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Hickory Thicket</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+<row><cell>&nbsp;&nbsp;Tom a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster<lb/> &nbsp;&nbsp;Old House  Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Tom</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Northumberland County<lb/>&nbsp;&nbsp;Jones's Plantation</cell><cell>&nbsp;&nbsp;foreman</cell></row>
+<row><cell>&nbsp;&nbsp;Tom</cell><cell>&nbsp;&nbsp;Betty his wife</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Bridge Quarter</cell><cell>&nbsp;&nbsp;foreman</cell></row>
+<row><cell>&nbsp;&nbsp;Tom a man</cell><cell>&nbsp;&nbsp;Beck about 6 years old</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Old Ordinary</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Tom a Man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster County<lb/>&nbsp;&nbsp;Hills  Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Tom a Man</cell><cell>&nbsp;&nbsp;Amy his Wife;<lb/>&nbsp;&nbsp;Billy about 4 years old;<lb/>&nbsp;&nbsp;Judy about 2 years old</cell><cell>&nbsp;&nbsp;Lancaster  County<lb/>&nbsp;&nbsp;Changlins Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Tom a man</cell><cell>&nbsp;&nbsp;Jenny his Wife</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Brents Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Tom</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Hickory Thicket</cell><cell>&nbsp;&nbsp;foreman</cell></row>
+<row><cell>&nbsp;&nbsp;Tom</cell><cell>&nbsp;&nbsp;Joan his wife;<lb/>&nbsp;&nbsp;Will a boy about 2 years old</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Head of the River</cell><cell>&nbsp;&nbsp;cooper</cell></row>
+<row><cell>&nbsp;&nbsp;Tom a man</cell><cell>&nbsp;&nbsp;Mary his wife;<lb/>&nbsp;&nbsp;George about 2 years old</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Dicks Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Tom a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Pewmond's End</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Tom a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Stafford  County<lb/>&nbsp;&nbsp;Park Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Tom a man</cell><cell>&nbsp;&nbsp;Dinah his wife;<lb/>&nbsp;&nbsp;Nanny about 4 years old;<lb/>&nbsp;&nbsp;Rose about 2 years old;<lb/>&nbsp;&nbsp;Hannah about 8 days old</cell><cell>&nbsp;&nbsp;Spotsylvania  County<lb/>&nbsp;&nbsp;Mount Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+
+<row><cell>&nbsp;&nbsp;Tom Gumby a man</cell><cell>&nbsp;&nbsp;Kate his wife<lb/>&nbsp;&nbsp;Mary her daughter<lb/> &nbsp;&nbsp;Dick a boy ca. 13 years<lb/>&nbsp;&nbsp;Martha ca. 1 year  old</cell><cell>&nbsp;&nbsp;Lancaster County<lb/>&nbsp;&nbsp;HomePlantation</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Tomboy about 12 years old</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;King George  County<lb/>&nbsp;&nbsp;Richland Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Tomboy a young man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster<lb/> &nbsp;&nbsp;Old House  Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Tomboy a man</cell><cell>&nbsp;&nbsp;Hannah his wife;<lb/>&nbsp;&nbsp;Timothy about 11 years old;<lb/>&nbsp;&nbsp;Jenny about 3 years old</cell><cell>&nbsp;&nbsp;Stafford  County<lb/>&nbsp;&nbsp;Hinson's Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+
+<row><cell>&nbsp;&nbsp;Toney a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster<lb/>&nbsp;&nbsp;Home  Plantation</cell><cell>&nbsp;&nbsp;slooper</cell>  </row>
+<row><cell>&nbsp;&nbsp;Toney</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster County<lb/>&nbsp;&nbsp;Morattico  Quarter</cell><cell>&nbsp;&nbsp;foreman</cell></row>
+<row><cell>&nbsp;&nbsp;Toney about 10 years old</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Northumberland County<lb/>&nbsp;&nbsp;Jones's Plantation</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Toney a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Forrest Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Tower Hill   a young man</cell><cell>&nbsp;&nbsp;Margery his Wife;<lb/>&nbsp;&nbsp;Will about 10 years old;<lb/>&nbsp;&nbsp;Tom about 6 years old;<lb/>&nbsp;&nbsp;Kitt about 3 months old</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Hickory Thicket</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Unidentified man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster<lb/>&nbsp;&nbsp;Home  Plantation</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Unidentified man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster<lb/>&nbsp;&nbsp;Home  Plantation</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+
+<row><cell>&nbsp;&nbsp;[. . .]on a Man</cell><cell>&nbsp;&nbsp;[. . . ]y his Wife&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Prince William  County<lb/>&nbsp;&nbsp;Frying Pan Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Voll a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Prince William  County<lb/>&nbsp;&nbsp;Range Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+<row><cell>&nbsp;&nbsp;Whaley a boy about 13 years old</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster<lb/>&nbsp;&nbsp;Home  Plantation</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+
+<row><cell>&nbsp;&nbsp;Will about 10 years old</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Brick House Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Will a boy about 12 years old</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster<lb/>&nbsp;&nbsp;Home  Plantation</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>  </row>
+<row><cell>&nbsp;&nbsp;Will about 12 years old</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Glascock's  lantation</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+<row><cell>&nbsp;&nbsp;Will</cell><cell>&nbsp;&nbsp;Sary his Wife;<lb/>&nbsp;&nbsp;Jack about 10 years old;&nbsp;&nbsp;<lb/>&nbsp;&nbsp;Bahn a boy about 1 year old</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Brents Quarter</cell><cell>&nbsp;&nbsp;foreman</cell></row>
+
+<row><cell>&nbsp;&nbsp;Will a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Northumberland County<lb/>&nbsp;&nbsp;Old Plantation</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;Will a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Lancaster<lb/>&nbsp;&nbsp;Corotoman  Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>  
+<row><cell>&nbsp;&nbsp;Will a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Old Ordinary</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Will a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;King George  County<lb/>&nbsp;&nbsp;Glascock's  Plantation</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+<row><cell>&nbsp;&nbsp;Will a man</cell><cell>&nbsp;&nbsp;Agga his wife</cell><cell>&nbsp;&nbsp;Stafford  County<lb/>&nbsp;&nbsp;Park Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+<row><cell>&nbsp;&nbsp;Will</cell><cell>&nbsp;&nbsp;Beck his wife;<lb/>&nbsp;&nbsp;Charles about 12 years old;<lb/>&nbsp;&nbsp;George about 9 years old;<lb/>&nbsp;&nbsp;Billy about 2 yearsold</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Hinson's Quarter</cell><cell>&nbsp;&nbsp;foreman</cell></row>
+<row><cell>&nbsp;&nbsp;Will</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;King George  County<lb/>&nbsp;&nbsp;Falls Quarter</cell><cell>&nbsp;&nbsp;carpenter</cell></row>
+<row><cell>&nbsp;&nbsp;Will a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Prince William  County<lb/>&nbsp;&nbsp;Lodge Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+<row><cell>&nbsp;&nbsp;York a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Bridge Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+<row><cell>&nbsp;&nbsp;Young Moreah a woman</cell><cell>&nbsp;&nbsp;Sampson a boy about 8 years old;<lb/>&nbsp;&nbsp;Lemon a boy about 3 yerars old;<lb/>&nbsp;&nbsp;Jenny about 4 months old</cell><cell>&nbsp;&nbsp;Westmoreland County<lb/>&nbsp;&nbsp;Pewmond's End</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+<row><cell>&nbsp;&nbsp;Young Tom a man</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;Richmond County<lb/>&nbsp;&nbsp;Old Quarter</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
+
+
+</table>
+
+</p>
+
+</div1>
+
+</body>
+
+<back>
+
+<div1 type="back matter">
+<lb/><lb/><head>NOTES</head>
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> The inventory is found in a volume located in  "Papers of Robert 'King' Carter of '&nbsp;&nbsp;Corotoman,'&nbsp;&nbsp;Lancaster County, Va.," Mss1 C2468 a 10, Virginia Historical Society, Richmond. There is a microfilm copy of the volume in the Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>The data appearing in this table was extracted from the inventory by the edsitor, and was not compiled by Robert Carter..  </note>
+
+<note>It is possible that "Jemmy about 5 years old" and "Harry about 13 years old" are sons of "Sary a woman" listed with "Sukey about 7 years old" as they appear in the inventory immediately below her entry. But there is a divider between Sary's listing and theirs, and they have accordingly been listed separately.</note>
+
+</div1>
+</back>
+
+
+</text>
+
+</TEI.2>

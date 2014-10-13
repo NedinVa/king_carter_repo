@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C27l19b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to John Pemberton and Company, December 19, 1727, and February 21, 1728</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca.  kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C27l19b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2004</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to John Pemberton and Company, December 19, 1727, and February 21, 1728</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1727-12-19</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C27l19bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1727-12-19"></date>
+<idno rend="suppress">C27l19b.xml</idno>
+<title>Letter from Robert Carter to John Pemberton and Company, December 19, 1727, and February 21, 1728</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Liverpool merchants John Pemberton and Company, December 19, 1727, concerning their ship <hi rend="italics">Rose,</hi> and her loading in the colony with details of the tobacco shipped on her, some of which was tobacco received for slave sold by Carter on their behalf from their ship the <hi rend="italics">John and Betty.</hi> He sends bills of exhange and details other financial arrangements he has made. In a brief post script dated February 21, 1728, he notes that a second copy of the letter accompanies second bills of exchange sent in the <hi rend="italics">Leopard</hi> of Liverpool.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="JP">John Pemberton</note> and Company, December 19, 1727, and February 21, 1728</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1727-12-19">Decr. the 19th: 1727</date><lb/>
+Mr. John Pemberton &amp; Company<lb/>Freighters of the Ship Rose&mdash;<lb/>
+</dateline>
+<salute>Gent&mdash;</salute>
+
+</opener>
+
+<p>We have with much ado got the Ship <note target="n1"><name type="ship">Rose</name></note> loaded <lb/>So near within your ninety days as not to <del>[illegible]</del><add place="supralinear">ad</add>mit of any Demand upon you <lb/>of Dead Freight, She <sic corr="Anchored">Anchord</sic> in this river the 10th: of <abbr expan="September">Septembr.</abbr> and had all her <lb/><abbr expan="Tobacco">Tobbo:</abbr> aboard the 12th: of <abbr expan="December">Decr:</abbr> this would never have bin done without <lb/>taking <sic corr="freight">freit</sic> and the Assistance of the <note target="n2"><name type="ship">John and Bettys</name></note> Concern, within <add resp="editor">[a]</add> <lb/>few days after the Ship was full I had brought to my house 25 hogsheads more <lb/>of your <abbr expan="Tobacco">Tobbo:</abbr> but then it was too late, The Circumstances of the Affair <lb/>hath bin so uncertain and so much depending upon Accidents that <lb/>I hope you will think I have taken the best method I could for yor. Interest <lb/><abbr expan="Captain">Capt.</abbr> Christian will inform you I have taken all the Care I could for <lb/>your Advantage in every respect and I must needs own he hath behav<lb/>ed himself and his men too with a great deal of Suitable kindness to the <lb/>Slaves while they were upon Sale,</p>
+
+<p>I cannot Send you the weights of the <abbr expan="Tobacco">Tobbo:</abbr> on board <lb/>now nor can I tell you the number of hogsheads <abbr expan="received">rec'd</abbr> but I <sic corr="believe">beleive</sic> in all <lb/>it amounts to near a hundred belonging to this Concern. The <abbr expan="receivers">recrs:</abbr> <lb/>I have Employd will Spare no diligence to get your Debts in which are <lb/>payable this year and am in hopes <del>few of them will</del> most of them <lb/>will be <sic corr="complied">complyd</sic> with,</p>
+
+<p>herewith I Send you 16 first bills of Exchange amounts <lb/>to Seven hundred Sixty four pounds One Shilling and Sixpence I have paid <lb/><abbr expan="Captain">Capt.</abbr> Christian here One hundred pounds Sterling and have drawn bills of <lb/>Exchange upon you for four hundred and fifty five pounds Fifteen Shillings <lb/>the amount of his freight for 117 Slaves <add place="supralinear">according to your Charter Party</add> two whereof <sic corr="Died">Dyed</sic> after my <lb/>receipt of them and three the refuse Still remains unsold A General <lb/>Accot. of the Sales you now have and an Accot. <sic corr="Current">Currant</sic> as far as the <lb/>money Sales go. The <abbr expan="receiver">recr.</abbr> of your <abbr expan="Tobacco">Tobbo:</abbr> is yet unpaid and a Small charge <lb/>for Cloathing these unsold Slaves and for provision for the Sick ones that <lb/>were put on <sic corr="Shore,">Shoar,</sic> I Send you Christians <abbr expan="receipt">rect.</abbr> for the money and also <lb/>a Copy of the <abbr expan="receipt">rect.</abbr> I have this day given him for Some goods remaining of <lb/>of <add resp="editor"> [<hi rend="italics">sic</hi>]</add> your Guinea Cargo which both he and I thought most Adviseable <lb/>to leave behind him what I Shall be able to with them I dont <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;yet 
+
+<pb n="2"/><lb/><lb/>
+know, If I can Carry them <sic corr="off">of</sic> to one person at the prices you have Set them <lb/>at to be paid for by bills of Exchange in a reasonable time I Shall go near to do <lb/>it. In<add resp="editor"> [<hi rend="italics">sic</hi>]</add></p>
+
+<p>In my Letter to the Owners of the John and Betty there <lb/>is a Clause about a Vessel <del>I am</del> Offerd <add place="supralinear">to me</add> upon <sic corr="freight">freit</sic> from <abbr expan="James">Ja:</abbr> river <lb/>which being <add resp="editor">[illegible]</add> applicable to your Concern I shall <sic corr="omit">omitt</sic> repeating of it <lb/>here, A Bill of Lading for 33 hogsheads of your <abbr expan="Tobacco">Tobbo:</abbr> all that are on board the <lb/>rose you have now Sent and I have drawn upon you the <note target="n3">Impost</note> of this <lb/><abbr expan="Tobacco">Tobbo:</abbr> &pound;3"7"&mdash; For further particulars of your Concern I shall refer my <lb/>Self to <abbr expan="Captain">Capt:</abbr> Christian I remain </p>
+
+<closer><abbr expan="Gentlemen">Gent</abbr> <lb/>Yor. most humble Servt:--
+<seg type="postscript"><lb/><lb/>per the Rose<lb/><lb/><abbr expan="February">Febry:</abbr> the 21st: 1727/8<lb/>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This Accompa<add resp="editor">[n]</add>ys the Second being in Number <lb/>Sixteen by <abbr expan="Captain">Capt.</abbr> Matthew Heyes in the Leopard of <sic corr="Liverpool">Leverpool</sic> <del>from <lb/>Yor. humble Servt:</del></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. </note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
+
+<note id="n1">[1] James Christian was captain of the <hi rend="italics">Rose,</hi> a vessel owned by merchant John Pemberton of Liverpool. (See Carter to Pemberton, 1730 April 15.) </note>
+
+<note id="n2">[2] The <hi rend="italics">John &amp; Betty</hi> was a Liverpool ship often carrying slaves owned by merchant John Pemberton. In 1726 the captain was John Gale, and in the next year, she was commanded by a Captain William Denton. The ship would be lost in 1729. (<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> p. 18, n. 23</bibl></cit>; Carter to Pemberton, 1730 April 15; and Carter to William Dawkins, June 28, July 26, and August 22, 1727, for Denton's first name.)</note>
+
+<note id="n3">[3]  The impost was the duty imposed by Britain on imported tobacco, and the cocket (for which a fee was charged) was the certified document issued that the impost had been paid.</note>
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

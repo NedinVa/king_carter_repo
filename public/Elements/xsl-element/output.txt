@@ -1,0 +1,24 @@
+<html>
+<style type="text/css"><!--
+		  H1 {font: 20pt "Arial"; color: blue}
+		  H2 {font: 15pt "Arial"; color: maroon; background-color: yellow}
+		  H3 {font: 12pt "Arial"}
+		--></style>
+<body>
+<H1>catalog: </H1>
+<H2>book: </H2>
+<H3>author: Thurman, Paula</H3>
+<H3>title: Splish Splash</H3>
+<H3>genre: Romance</H3>
+<H3>price: 4.95</H3>
+<H3>publish_date: 2000-11-02</H3>
+<H3>description: A deep sea diver finds true love twenty thousand leagues beneath the sea.</H3>
+<H2>book: </H2>
+<H3>author: Knorr, Stefan</H3>
+<H3>title: Creepy Crawlies</H3>
+<H3>genre: Horror</H3>
+<H3>price: 4.95</H3>
+<H3>publish_date: 2000-12-06</H3>
+<H3>description: An anthology of horror stories about roaches, centipedes, scorpions  and other insects.</H3>
+</body>
+</html>

@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C24c25c">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Micajah Perry, March 25, 1724</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 16 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C24c25c.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2002</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Micajah Perry, March 25, 1724</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>4 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1724-03-25</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C24c25cT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent> p.</extent>
+<date value="1724-03-25"></date>
+<idno rend="suppress">C24c25c.xml</idno>
+<title>Letter from Robert Carter to Micajah Perry, March 25, 1724</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant Micajah Perry, March 25, 1724, reporting the arrival of Captain Holliday's ship, the <hi rend="italics">Carolina,</hi> and noting that the captain is a "brisk driving Man." He adds that he is sending 3 hogsheads of the Lloyd estate tobacco on board Graves who is soon to sail. He turns to Perry's recent sales of his tobacco with which he has not been pleased. He reminds Perry that the merchant should review Carter's correspondence with both Perry's grandfather and himself about John Bashford's case, and then notes what Perry has written about payments to Colonel Cage of the rent for the agency of Northern Neck. A long statement of his position about not paying interest for the &pound;1500 Perry advanced for the purchase of the post of secretary of state of the colony for John Carter follows, in which Carter notes the large balance in his favor regularly on the merchant's books. He concludes by noting that the barber Perry has sent "smells too much of the Camp to prove Good," and by reminding Perry that he continues to need other tradesmen.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="MP2">Micajah Perry, </note>March 25, 1724</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1724-03-25">March the 25th: 1723<add place="supralinear">4</add></date><lb/>
+Mr: Micaja Perry&mdash;<lb/>
+</dateline>
+
+
+</opener>
+
+<p><note target="n1"><abbr expan="Captain">Capt</abbr> Holladay</note> in the <name type="ship">Carolina</name> Arrived hither <lb/>the 20th. of this Month he is ahead of the Fleet no news yet <lb/>of any of the rest, Your Lettrs: &amp;Ca: I have, Your Master is a <lb/>brisk driving Man And I doubt not will do his business with <lb/>the uttmost dispatch If the Scotch do but keep out a little 
+
+<pb n="2"/><lb/><lb/>
+<add resp="editor">[long]</add>er, for as yet not one of them is heard of, and I reckon <lb/><add resp="editor">[the]</add>re is not above 5 Thousand hhds: gone out of York and <lb/><note target="n2">our River</note> for London, You have in <note n="AG">Graves</note> 3 hhds: of the <lb/><note n="LL">LLs</note> he came here late last night and went away in <lb/>a hurry without giving me Bills of Lading resolveing <lb/>to Sail as Soon as the winds Offers having broke&mdash;<lb/>ground Yesterday</p>
+
+<p>I have very little time and yet cant forbear <lb/>giving an Answer to yours of the 22d: of January <lb/>You begin with resenting my finding fault with your <lb/><sic corr="sales">Sailes</sic> of the <note n="NB">NB</note> <abbr expan="tobacco">Tobbo:</abbr> as if 10 pound per hhd: for that <lb/>fine Crop as it always was Esteemed, is Such a mighty <lb/>price in these times, I think I may say in reply it was <lb/>never sold so low in the worst times, we have had, I have <lb/>had the Satisfaction within this 3 <sic corr="days">dayes</sic> to receive Accots: <lb/>of Sales for above 100 hhds: of <sic corr="stemmed">Stemd</sic> <abbr expan="tobacco">Tobbo:</abbr> of my Crops <lb/>that you have lately reckoned much inferiour to them <lb/>Crops that clear me considerably more per hhd: <sic corr="than">then</sic> <lb/>that price, And I am in hopes by the promises you give <lb/>me in some of Your Lettrs: that I shall meet with no <lb/>more Such mean Sales for my Crops as for these late <lb/>Years, You have been pleased to Afford me,</p>
+
+<p><del>All </del><note target="n3">Bashford</note> is a poor unhappy fellow <lb/>to be contending so many Years for a small Estate and <lb/>to be so far from it Still, I request you to give me a <lb/>clearer and a more direct answer to my last Lettr: <lb/>I writ to you about this Affair and <add place="supralinear"><hi rend="italics">that</hi></add> you will give your <lb/>self the trouble to take a review of my former Letters <lb/>from time to time I writ to your <note n="MP">Grandfather</note> about <lb/>it and also of his answers to me which will set you <lb/>in a clearer light in this Matter <sic corr="than">then</sic> you at present <lb/>Seem to have</p>
+
+<p>I am glad to find you acknowledge yourself <lb/><sic corr="obliged">oblidged</sic> to Virginia that you will be alwayes <add place="supralinear"><hi rend="italics">readie</hi></add> to Stand <lb/>up in its Service when there <add place="supralinear">is</add> Occasion, what is writ to <lb/>me about our Laws I can't tell how to form a Judgment <lb/>of, Some say <add place="supralinear">the</add> Imposition Acts will be <sic corr="allowed">alow'd</sic> to us 
+
+<pb n="3"/><lb/><lb/>
+and the <abbr expan="tobacco">Tobbo:</abbr> Law will not, The Opinion of others <add resp="editor">[about]</add> <lb/>them is just the reverse,</p>
+
+<p>In your Accot: Currt: I Observe what You <add resp="editor">[have]</add> <lb/>paid to <note n="WC"><abbr expan="Colonel">Collo:</abbr> Cage,</note> and <add place="supralinear"><hi rend="italics">You</hi></add> tell me he would take the rest <lb/>after Christmas and that tis his fault he hath not had it <lb/>Sooner so that there can be no blame <sic corr="lie">lye</sic> at my Door which <lb/>hath alwayes been my desire to you to take care to avoid</p>
+
+<p>As for <note n="LL"><sic corr="Lloyd's">Loyds</sic></note> Affair I am sorry it proves so <lb/><sic corr="troublesome">troublesom</sic> to you but you are Strong Enough to stand <lb/>their <sic corr="utmost">uttmost</sic> Shocks I wish you had thought of saying some <lb/>thing about that Tract of Land belonging to that Estate <lb/>that I told you I was Sued for by <note target="n4">Cary,</note> There are a great many <lb/>things I have said to you in relation to that concern that <lb/>are yet unanswerd</p>
+
+<p>I now come to the Subject that brought you <lb/>to a Smile you had told me my Annuity of 1500 pound would <lb/>be paid <sic corr="off">of</sic> at a certain time and desired me to think of a <lb/>way to dispose of that money upon which I made you the <lb/><del>[illegible]</del> <add place="supralinear"><hi rend="italics">Offer</hi></add> of it at 5 per <abbr expan="cent">Ct:</abbr> I profess I <sic corr="can't">cant</sic> measure the reason <lb/>how this come to put you in so merry a humour, You then <lb/>grow angry that I should Expect Interest for my Money <lb/>and you should have none for the money you advanced for <lb/><note target="n5">my Sons place</note> which I shall now Endeavour to set in such <lb/>a light  that it may come within the reach of Your Comprehen<lb/>sion and not Appear so <sic corr="wonderful">wonderfull</sic> a Parrodox, and this <lb/>I shall do by going into the Virtue of reflection, If you <lb/>will please to <sic corr="overhaul">overhall</sic> my Accots: Currt: from your house <lb/>for many Years past you will find my ballances&mdash; <lb/>Seldom less <sic corr="than">then</sic> 3 Thousand pounds in my favour&mdash; <lb/>Sometime 4 and I may say Sometimes 5 <abbr expan="thousand">M:</abbr> and the <lb/><sic corr="balance">ballance</sic> of the Accot now sent me is about <add resp="editor">[omission in text]</add> <abbr expan="thousand">Thousd</abbr> <lb/>pounds, I <sic corr="can't">cant</sic> think that my <abbr expan="tobaccos">Tobbos: </abbr>yearly ever wanted <lb/>so much as two Thousand pounds to give me the advantage <lb/>of the discounts and Especially the other Year when I <lb/>sent you but 50 hhds. and thereupon I may justly&mdash; <lb/>reckon I have all this time had considerable Sums of <lb/>Money lying in Your hands which returned me no benefit 
+
+<pb n="4"/><lb/><lb/>
+<add resp="editor">[up]</add>on this reason I went when I told you I would pay you <lb/><add resp="editor">[n]</add>o <sic corr="interest">Interst</sic> for the money you advanced for my Sons place <lb/>and I think is unanswerable if you can find a Convincing <lb/>one you will do well to let me have it, and I must observe <lb/>further that half this Money is <sic corr="charged">charg'd</sic> to me in a great <lb/>Deal less <sic corr="than">then</sic> a Year, and the other half you have had <lb/>in your hands all this time, You continue your wonder <lb/>that I should Expect to be alowed the <sic corr="discounts">discompts</sic> upon <lb/>7 hhds: of <abbr expan="tobacco">Tobbo:</abbr> I sent to you of my Sons in my Bill <lb/>of Lading, I shall be so far from Endeavouring to <add resp="editor"><hi rend="italics">re</hi></add>move <lb/>this wonder that you must <sic corr="allow">alow</sic> me to tell you I Still <lb/>Expect that <sic corr="allowance,">alowance,</sic> make it appear that I had not <lb/>money in your hands to clean that <abbr expan="tobacco">Tobbo</abbr> when it <lb/>came to you, I will then give up my right and not <sic corr="until">till</sic> <lb/>then, You wrong me Egregiously to charge me with <lb/>want of Acknowledgement for your respects and <lb/>kindness to my Son, I am sure I have often said and <lb/>I believe it is to be Seen in some of my Letters that I <lb/>took it as a lasting obligation that I should not easiely <lb/><sic corr="forget,">forgett,</sic> And I am sure I have not <sic corr="failed">fail'd</sic> to Serve your <lb/>Interest Since where it has lyen in my way, I take <lb/>notice you have a fling at my Darlings but if you <lb/>would look back you will find yourself to have been <lb/>the Occasion of Dividing my concern and no body <lb/>Else, If I have any Darling in the Trade among the <lb/>London <abbr expan="merchants">Merchts:</abbr> it is Mr: Perry and so I beleive he <lb/>will Continue to be, If he does not give me new Occa<lb/>sions of dissatisfaction and I think this Year wwill Suffi<lb/>ciently demonstrate it, As for your fresh respects to my <lb/>Son in Appearing so early his friend as you Mention <lb/>in your Lettr I give you my fresh Acknowledgements</p>
+
+<p>The Barber by Holladay is with me am <lb/>Afraid he smells too much of the <note target="n6">Camp</note> to prove Good <lb/>as for those other Tradesmen I writ for I hope you <lb/>will Exert yourself to get when you have the Oportunity <lb/>I shall Conclude at present Sr  </p>
+
+<closer>Your most humble Servt.<seg type="postscript"><lb/><lb/><add place="marginleft"><hi rend="italics"><add resp="editor">[Her]</add>ein is first bills of <abbr expan="exchange">Exche:</abbr> Vizt: <abbr expan="Robert">Robt</abbr> Carter on Yor Self &pound;35 - &amp; <abbr expan="Thomas">Thos.</abbr> Edwards on Mr. <abbr expan="John">Jno.</abbr> Brooks for <lb/><add resp="editor">[...]</add>:5: both which Sums I desire You will give me Credit for&mdash;</hi></add></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1723 June 16-1724 April 23, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1] William Holladay commanded a ship named the <hi rend="italics">Princess Carolina.</hi> (<cit><bibl>Survey Report 6800, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n2">[2] The Rappahannock River.</note>
+
+<note id="n3">[3] John Bashford (d. 1735), son of Symon and Grace Bashford,
+married Elizabeth Heath. In 1726 he was to present affaidavits in Northumberland County court to prove his parentage and marriage because "he had fallen heir to an estate in England." He had appealed to Carter for help several years earlier, and Carter had enlisted London merchant Micajah Perry to assist. (See Carter to Perry, July 13, 1720; and <cit><bibl>"The Heaths of Northumberland County, Virginia," <title>William and Mary Quarterly</title>24(1): 109-115]</bibl></cit>).</note>
+
+<note id="n4"> [4] Robert Cary (1685-1751), a London merchant and member of a family  of which many members were involved in colonial trade. Carter purchased lands from him in King George, Richmond, and Westmoreland counties; he is mentioned in Carter's will. (<cit><bibl>Jacob M. Price. "Who Was John Norton? A Note on the Historical Character of Some Eighteenth-Century Virginia Firms."  <title>William and Mary Quarterly. </title> 3rd. ser. 19[July 1962]:401.</bibl></cit>)</note>
+
+<note id="n5">[5] Carter purchased through Perry the post of secretary of state of the colony for his son John.</note>
+
+<note id="n6">[6] Carter means that the barber has been a soldier.</note>
+
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

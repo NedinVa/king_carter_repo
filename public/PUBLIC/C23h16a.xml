@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C23h16a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to [Micajah Perry], August 16, 1723</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 6 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C23h16a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2002</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to [Micajah Perry], August 16, 1723</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1723-08-16</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C23h16aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1723-08-16"></date>
+<idno rend="suppress">C23h16a.xml</idno>
+<title>Letter from Robert Carter to [Micajah Perry], August 16, 1723</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant Micajah Perry, August 16, 1723, concerning what he has seen in newspapers concerning an act in Parliament about annuities such as one he has, and a bill of exchange he has drawn on Perry to his son-in-law, Mann Page. In a post script he reports the damage to the crops from bad weather and a "spot." Gloucester County seems to suffer the worst.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="MP2">[Micajah Perry],</note> August 16, 1723</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Rappahannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1723-08-16">Augst. 16, 1723.&mdash;</date><lb/>
+[Mr. Micajah Perry]<lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+<p>Upon a further perusal of the prints I Observe <abbr expan="it is ">tis </abbr> the 5 percent <lb/><sic corr="annuities ">Annuitys</sic> are comprehended In the Act of Parliament mine being one of those <lb/>that returns me but 4 percent makes me think they are not to be bought off <lb/>but You know best how these things  Are, I have this day drawn upon You <lb/>for Seventy pound thirteen &amp; three pence to <note n="MP1"><abbr expan="Colonel ">Collo.</abbr> Page</note> &amp; herein Send <lb/>You a first bill of his <add place="supralinear">for</add> forty nine pounds thirteen &amp; six pence I am Sir </p>
+
+<closer>Your most humble Servt.<lb/>
+
+<seg type="postscript"><lb/><lb/>Our Crops are terribly mortified <add place="supralinear">by</add> the Continued Rains &amp; runs away with a spot <lb/><add place="marginleft">And we have no Weather to get it to the house which will make <lb/>them both Short &amp; Mean <sic corr="Gloucester ">Gloster </sic>County &amp; all the parts <abbr expan="Colonel ">Collo.</abbr> Page <lb/>is acquainted with Suffers most</add></seg>
+
+</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1723 June 16-1724 April 23, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note><lb/>
+
+<note>This unheaded letter is clearly intended for Perry as he and Carter had corresponded about the annunity  often.  See his <xref to="/users/berkeley/public/C23h19a.xml">letter to Perry</xref> a few days after this one, for instance.</note><lb/>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. It, the county, and colony have been added for clarity to this unheaded draft.</note>
+
+
+<lb/><lb/><note><hi rend="italics">This text revised December 10, 2009.</hi></note>
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

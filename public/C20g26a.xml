@@ -1,0 +1,260 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C20g26a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter and Robert Tucker
+to Messrs. Francis Chamberlayne and [Francis] Sitwell, July 26,
+1720</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+      <author>Tucker, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia
+Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 9 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">filename</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL:
+http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title></title>
+     <author>Robert Carter</author>
+      <author>Robert Tucker</author>
+
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date>unpublished</date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter
+Book, 1720 July-1721 July, BR 227, Huntington Library, Art
+Collections, and Botanical Gardens, San Marino, California.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic
+Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text
+Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject
+Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1720-07-26</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term
+type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C20g26aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1720-07-26"></date>
+<idno rend="suppress">C20g26a.xml</idno>
+<title>Letter from Robert Carter and Robert Tucker to Messrs.
+Francis Chamberlayne and [Francis] Sitwell, July 26, 1720
+</title>
+</bibl>
+</head>
+<p>Robert Carter and his partner, Robert Tucker, write to Messrs.
+Francis Chamberlayne and [Francis] Sitwell, July 26, 1720, concerning
+the details of their sale to date of a cargo of slaves on the slave
+traders ship <hi rend="italics">Mercury,</hi> reporting bills of
+exchange for over
+&pound;5036 and expenses of &pound;985, and estimating the total
+sales will be about &pound;10,000. They complain that the cargo had 
+"boys &amp; Girlls so very much exceeding all manner of Proportion to
+the men &amp; Women" which hurt the sales. In conclusion, they report
+how they have split responsibility for the bills of exchange.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter and <note target="n1">Robert
+Tucker</note> to Messrs. <note target="n2">Francis
+Chamberlayne</note> and [Francis] Sitwell, July 26, 1720</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Virginia</name><lb/>
+<date value="1720-07-26">July 26th <hi
+rend="underline">1720</hi></date><lb/>
+Messrs. Francis Chamberlayne<lb/>&amp; Sitwell <lb/>
+</dateline>
+<salute><abbr expan="Gentlemen">Gent </abbr>&mdash;&mdash;</salute>
+
+</opener>
+
+<p>This <abbr expan="accompanies">accomps.</abbr>
+ Yor. Ship <name type="ship">Mercury</name> whose Dispatch <lb/>here
+has bin so Extraordinary beyond our <abbr
+expan="expectations ">Expects.</abbr>
+ &amp; we have <lb/>bin in Such a hurry to <sic
+corr="get ">gett</sic> her away wth. the <note n="CS"><name
+type="ship">Carter,</name></note> That we <lb/>are able to do nothing
+more, but to <sic corr="remit ">remitt</sic> to You the bills of
+<lb/><abbr
+expan="Exchange ">Exche.</abbr>
+ we have received wch. amounts <corr resp="editor">[to]</corr> 
+&pound;5036"6"10 &amp; have paid <lb/>away in wages &amp; other
+Charges one hundred Pounds <lb/>Sterling and &pound;885. in Cash
+&amp; did our <abbr expan="Endeavors ">Endeavrs.</abbr>
+ to spend <lb/>as much of Yor. Cash as we could amongst the men but
+<lb/>a great many of Them have absolutely <abbr
+expan="refused ">refus'd</abbr>
+ to take <lb/>anyThing but sterling although for their <abbr
+expan="Encouragement ">Encouragemt.</abbr>
+ <lb/>we <abbr expan="allowed ">allow'd</abbr>
+ them that are paid 10 perCt. &amp; <abbr
+expan="offered ">offer'd</abbr>
+ the Same <lb/>to the rest, having Still in Our hands wth. wt. we
+Expect <lb/>to have upon the Sales of twenty Negroes we have <sic
+corr="yet ">yett</sic> to <lb/>Dispose of between twelve &amp;
+Thirteen hundred Pounds the <lb/><sic corr="Chiefest ">Cheifest</sic>
+part in Gold wch. we can by no means make <lb/>Sterling of at
+present, but Shall take all <sic
+corr="opportunities ">opportunitys</sic> <lb/>to turn It into bills
+upon the best <sic corr="terms ">termes</sic> we can &amp; Shall
+<lb/>be glad to receive Yor. Early <abbr expan="Directions ">Direcs
+</abbr> about It, The greatest <lb/>part of the
+Slaves still unpaid for, We have bin <sic corr="forced ">forst</sic>
+to <lb/>Dispose of upon bond payable next June, otherwise <lb/>must
+run a great hazard in keeping them &amp; at last <lb/>Sold them very
+low, much under wt. we have now done <lb/>We shall take the first
+opportunity to <sic corr="transmit ">transmitt</sic> You a <lb/>full
+&amp; particular accot. of
+the whole Cargo, as soon <lb/>as we can <sic
+corr="complete ">compleat</sic> It, according to the best
+Cal=<lb/>=culation we can at present make, the whole accot. <lb/>of
+the Slaves will be about Ten Thousand Pounds <lb/>It will be hardly
+<sic corr="needful ">needfull</sic> for us again to men<lb/>-tion
+the great Disadvantage we have
+bin under, <lb/>by the number of boys &amp; <sic corr="Girls
+">Girlls</sic> so very much
+exceeding <lb/>all manner of Proportion to the men &amp; Women 
+
+<pb n="2"/><lb/><lb/>
+The Method we have taken for the bills of <abbr expan="Exchange
+">Exche. </abbr> has bin <lb/>Thus,
+we have made as <sic corr="Equal ">Equall</sic> a division as we
+could, <abbr
+expan="Robert ">Robt.</abbr>
+ <lb/>Carter <abbr expan="Esquire ">Esqr </abbr> undertakes to <sic
+corr="remit ">remitt</sic> to You <sic
+corr="of ">off</sic> the bills &pound;2487"13"7 <lb/>&amp; Mr. <abbr
+expan="Robert ">Robt.</abbr>
+ Tuck<corr resp="editor">[er] </corr>  &pound;2548.13"3 Each of us
+to be
+answerable <lb/>for the bills he sends &amp; to make good all
+Protests after <lb/>the Expiration of Thirty Days from the Delivery
+of such Protests <lb/>to our respective Correspondents, to whom You
+are dir=<lb/>=ected by our seperate Lettrs. 
+ to address Yor.self, this we <lb/>hope will be to Yor. <sic
+corr="entire ">intire</sic> <sic
+corr="Satisfaction ">Sattisfaction</sic>, we have not <lb/>time at
+present to be more particular in all things we <lb/>Shall Endeavour
+to Serve Yor. Interest being desirous <lb/>to approve
+ourselves&mdash;&mdash;</p>
+
+<closer><abbr expan="Gentlemen ">Gent </abbr> <lb/>Yor <sic
+corr="Faithful ">Faithfull</sic> Servts.<lb/><lb/>
+<seg type="postscript">Herein are receipts from <abbr expan="Captain
+">Captn.</abbr> Christall
+<lb/>for one hundred pounds Sterling paid <lb/>to himself &amp; for
+Eight hundred Eighty five <lb/>Pounds currt. money on Accot. of wages
+<lb/>and the Ships disburstments.&mdash;&mdash;</seg></closer>
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+<note><hi rend="italics">Source copy consulted:</hi>  Robert Carter
+Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art
+Collections, and Botanical Gardens, San Marino, California. Printed:
+<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . .
+.</title> pp. 41-43.</bibl></cit>
+</note>
+
+<note>See also RC's letters to Chamberlayne and Sitwell concerning
+this sale of slaves on July 27 and September 27, 1720, and on July 2,
+1723.</note>
+
+<note id="n1">[1] Robert Tucker (d. 1722), a merchant and justice of
+Norfolk County.(<cit><bibl>"Charges Against Spotswood."
+<title>Virginia Magazine of History and Biography</title>. 4(April
+1897): 360.</bibl></cit>)   </note><lb/>  
+
+
+<note id="n2">[2] Francis Chamberlayne  (abt. 1667-1728) was from a  Warwickshire family. His father was also a London merchant, and "Chamberlayne engaged in commerce himself and may have been involved in the slave trade." He was quite wealthy, and represented New Shoreham in Parliament at two different times, first as a Whig, and later as a Tory. (<cit><bibl>David Hayton, <hi rend="italics">et al.,</hi> <title>The House of Commons, 1690-1715.</title> [Cambridege University Press, 2002], 507-508.. Found online on Google books,. 9/14/2009</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text revised January 19 and September 16, 2009.</hi></note>
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

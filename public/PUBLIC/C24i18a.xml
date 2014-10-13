@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C24i18a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from John Addams to Robert Carter, September 18, 1724</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Addams, John</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 5 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C24i18a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2002, 2011</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from John Addams to Robert Carter, September 18, 1724</title>
+     <author>John Addams</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Electrostatic copy of a privately-owned original.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1724-09-18</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C24i18aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>1 p.</extent>
+<date value="1724-09-18"></date>
+<idno rend="suppress">C24i18a.xml</idno>
+<title>Letter from John Addams to Robert Carter, September 18, 1724</title>
+</bibl>
+</head>
+<p>John Addams writes to Robert Carter, September 18, 1724, to request that Carter send "up" a patent for "a small Track" of land for Roger Day surveyed by John Savage in the name of Addams who was acting for Roger Day, then seriously ill.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from <note target="n1">John Addams</note> to Robert Carter, September 18, 1724</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"></name><lb/>
+<date value="1724-09-18">September the 18 1724</date><lb/>
+
+</dateline>
+<salute>Honourable Sr.</salute>
+
+</opener>
+
+<p>This is to acquant <lb/>you that a small <sic corr="tract ">Track</sic> of Land entered <lb/>In John Adams <add place="supralinear">name</add> <sic corr="Junior surveyed ">Juner Surrvayed</sic> by <lb/>Mr. <del>Coppege</del> <note target="n2">Savage.</note> <sic corr="Desiring ">Disiering</sic> your Honour <lb/>if you please to send up the <sic corr="patent ">pattern</sic> <lb/>in Roger Days Name it being <sic corr="surveyed ">Surrvayd</sic> <lb/>in my Name being Rorger Day at <lb/>that time was <sic corr="dangerously ">Dangeress</sic> ill and now <lb/>being recovered Desiring your Honour <lb/>if you please to send up the <sic corr="patent">pattern</sic> in <lb/>His name and the tobacco will be ready <lb/>against the <sic corr="patent ">pattern</sic> Come up. no more <lb/>at present but I remain your humble <sic corr="servant">Servent</sic> to Comand </p>
+
+<closer><signed><hi rend="bold"><hi rend="italics">JOHN ADDAMS</hi></hi></signed></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Electrostatic copy of privately-owned orginal. The text is included here with the permission of its owner.</note>
+
+<note>This is the recipient's copy, and bears the following on the reverse of the folded sheet:  To | Honourable Robert | Carter Esquier | living in Lancerster | County &mdash; <hi rend="underline">These.</hi></note>
+
+<note id="n1">[1] No information has been located about John Addams as neither this name nor that of Roger Day appear in the indexes either of <cit><bibl>Nell M. Nugent. <title>Cavaliers and Pioneers: Abstract of Virginia Land Patents and Grants.</title> (Richmond: Virginia State Library, 1979) 3(1695-1732).</bibl></cit> or of <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title></bibl></cit></note>
+
+<note id="n2">[2] John Savage was a surveyor, later (1734) to be employed by Lord Fairfax while attempting to establish the boundaries of the proprietary. He had been appointed surveyor for King George County the year after that county was formed in 1720, and was referred to then as "gentleman." He was surveyor of Stafford County when he particpated in the Fairfax survey. (<cit><bibl><title><xref to="http://books.google.com/books?id=55I38FXWyPgC&pg=RA2-PA473&lpg=RA2-PA473&dq=%22John+Savage%22+surveyor+Virginia&source=bl&ots=MkmI2kK9-T&sig=3AynIvgowKj-6KoKVYcua8AJpWM&hl=en&ei=mUVyTojVEafx0gHI2c2PCg&sa=X&oi=book_result&ct=result&resnum=10&ved=0CF8Q6AEwCQ#v=onepage&q=%22John%20Savage%22%20surveyor%20Virginia&f=false">Genealogies of Virginia Families </xref>from Tyler's Quarterly Historical and Genealogical Magazine.</title>  [Genealogical Publishing Co, 1981] Vol. I [of 4]:473;</bibl></cit> <cit><bibl n="B8">Brown. <title>Virginia Baron. . . .</title> pp. 83, 86, 88, 92;</bibl></cit> and <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> p. 619.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2002, was revised September 15,  2011, to  strengthen the modern language version text.</hi></note>
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

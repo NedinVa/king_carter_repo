@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C32c08a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Alderman [Micajah] Perry, March 8, 1732</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 9 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C32c08a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2006</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Alderman [Micajah] Perry, March 8, 1732</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1732-03-08</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C32c08aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1732-03-08"></date>
+<idno rend="suppress">C32c08a.xml</idno>
+<title>Letter from Robert Carter to Alderman [Micajah] Perry, March 8, 1732</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant Alderman [Micajah] Perry, March 8, 1732, to report that the sad news of the death from smallpox of Ralph Wormeley Page has reached him, and that three tobacco inspection warehouses have been burned.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to Alderman <note n="MP2">[Micajah] Perry,</note> March 8, 1732</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1732-03-08">Mar 8. 1731 [2]</date><lb/>
+Alderman Perry<lb/>
+</dateline>
+<salute>Sir</salute>
+
+</opener>
+
+
+
+<p>Since my writing The Surprizing News of the <lb/>
+Sudden death of <note n="1">Ralph Page</note> is handed to me by <note n="JCP">my daughter</note> with<lb/>
+such Circumstances to leave no room for hopes that it may not prove<lb/>
+true it comes in by Possford into James River that he went to take<lb/>
+his leave of <note n="2">Lewis Burwell</note> who was in the Small pox that he was taken<lb/>
+with it soon after and <sic corr="died">dyed</sic> in a few days  a sad Catastrophe to the poor<lb/>
+Young man father and son gone within the Compass of a year I shall<lb/>
+not stand to make any more melancholy reflections A person I have seen<lb/>
+tells me he had it from one Dr. Gillmore who came in Possfords ship<lb/>
+and that the <abbr expan="Doctor">Dr.</abbr> told him he heard the danger was <sic corr="pretty">pritty</sic> well over with<lb/>
+Lewis Burwell</p>
+
+<p>Our tobacco law meeting with strange opposition<lb/>
+three of the Inspecting houses near me <add place="supralinear">two</add><del> one</del> in this County another in Nor <lb/>
+thumberland have lately burnt to Ashes I have time to say no more<lb/>
+the ship being <abbr expan="passed">pass'd</abbr> my house but that I am<lb/>
+</p>
+
+<closer>Sir<lb/>
+<abbr expan="Your">Yr</abbr> most humble Servant</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia. There is a nineteenth-century copy of this letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1] Ralph Wormeley Page (1713-1732) was the son of Mann Page and his first wife, Judith (Wormeley) Page. (<cit><bibl>"Family Trees of Thomas Jefferson and Other Famous Americans," http://www.ishipress.com/pafg70.htm, July 10, 2006.</bibl></cit>)</note>
+
+<note id="n2">[2] Lewis Burwell (1711 or 1712-1756), Carter's grandson by Elizabeth Carter Burwell and her first husband, Nathaniel Burwell (1680-1721); Carter was his guardian. He was educated at Eton and Cambridge, and inherited considerable property, living at "Fairfield," Gloucester County. He would be president of the Council in 1750-1751. (<cit><bibl n="B42">Kneebone <hi rend="italics">et al.</hi>,  <title>Dictionary of Virginia Biography.</title>  2:434-5.</bibl></cit> and <cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 114.</bibl></cit>)</note>
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

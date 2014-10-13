@@ -1,0 +1,238 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C20i19a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to William Dawkins,
+September 19, 1720</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia
+Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 7 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">filename</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL:
+http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to William Dawkins, September
+19, 1720</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date>published, 1940</date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter
+Book, 1720 July-1721 July, BR 227, Huntington Library, Art
+Collections, and Botanical Gardens, San Marino, California.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic
+Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text
+Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject
+Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1720-09-19</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term
+type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C20i19aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1720-09-19"></date>
+<idno rend="suppress">C20i19a.xml</idno>
+<title>Letter from Robert Carter to William Dawkins, September 19,
+1720</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant William Dawkins,
+September 19, 1720, expressing hope that the <hi
+rend="italics">Carter</hi> has arrived
+safely, and suggesting that Dawkins send her back to the colony as
+soon as possible because there is a very good crop this year, "the
+quality of It surpasses wt. has bin this many Years." He complains
+that he has not had a letter from Dawkins since April and hopes that
+the shoes he has ordered will arrive "before the frost Setts in hard
+upon us." Dawkins' report of his sales of 66 hogsheads of Carter's
+tobacco has arrived, and Carter notes that it probably was the last
+batch Dawkins will be able to sell at such prices. He resolves to
+send Dawkins "none but nice goods," and requests that Dawkins give
+his blessings to his sons Robert and Charles, then studying in
+England. He concludes by reporting that Dick Lee has been very ill
+but is recovering.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="WD">William
+Dawkins,</note> September 19,
+1720</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <corr resp="editor">[Lancaster
+County, Virginia]</corr> </name><lb/>
+<date value="1720-09-19"><abbr expan="September ">Sepr. </abbr>
+19th. 17<hi
+rend="underline">20</hi></date><lb/>
+Mr. <abbr expan="William ">Wm. </abbr> Dawkins<lb/>
+</dateline>
+
+
+</opener>
+
+<p>By this time I hope the <note n="CS">Carter</note> is safe at
+<lb/>her <sic corr="moorings ">Moreings</sic> &amp; tht. You will be
+able to make her a <abbr expan="forward ">Forwd.</abbr>
+ <lb/>Ship <sic corr="let ">lett</sic> her come as soon as She will
+our Crops are so
+<lb/>Early She will hardly <sic corr="lie ">lye</sic> Idle for want
+of business, whether
+<lb/><sic corr="it will ">twill</sic> be good news in the Consequence
+is to be doubted <lb/>but Truth must out &amp; Yor. Information from
+all parts will <lb/>be That we have a <sic
+corr="plentiful ">plentifull</sic> Crop this Year. The best <sic
+corr="ally ">allay</sic>
+<lb/>We have to It the quality of It surpasses wt. has bin this
+<lb/>many Years If neat handling will keep up our reputation <lb/>I
+resolve to be very nice,</p>
+
+<p><del>The latest Lettr. I have from You is <lb/>of the 5th of
+<abbr expan="April ">Apl. </abbr>
+am glad to hear of the <unclear>[. . .  ?]</unclear> of my
+sales<lb/>The Accot. of them <unclear>[. . .  ?]</unclear></del></p> 
+
+<p>I have heard nothing from You since the 5th. of <lb/>April hope
+You will take Some opportunity to <sic corr="let ">lett</sic> me
+have <sic
+corr="shoes ">shoos</sic> <lb/>before the frost <sic corr="Sets
+">Setts</sic> in hard upon
+us,</p>
+
+<p>Yor. Account of the sales of my 6<note target="n1"><add
+resp="editor">[6]</add></note>
+hogsheads <corr resp="editor">[of Tobacco has ]</corr>  <lb/>come to
+hand, the last Crop I flatter my Self You will <corr
+resp="editor">[be ]</corr>  <lb/>Able to do as well with, The next Year
+I fully resolve You shall <lb/>have none but nice goods from me, I
+send my blessing to <lb/><note target="n2">my dear boys </note> pray
+God grant this finds them in health, they <lb/>must be extraordinary
+good husbands Else I shall <add place="supralinear">be </add> <sic
+corr="forced ">forct</sic> <lb/>either to remove them to a Cheaper
+School or to send for them <lb/>to their own Country a Year or two
+Sooner than I am willing
+</p>
+
+<p><note n="RL">Dick Lee</note> <sic corr="has ">hath </sic> had a
+Severe spell of Sickness
+wch. <lb/><sic corr="has ">hath </sic> <abbr expan="pulled
+">pulld</abbr>
+ him down very much but is now <sic corr="recovering ">upon the
+recruit</sic> <lb/>I remain&mdash;</p>
+
+<closer>Sir <lb/>Yor. very humble Servt.
+</closer>
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+<note><hi rend="italics">Source copy consulted:</hi>  Robert Carter
+Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art
+Collections, and Botanical Gardens, San Marino, California. Printed:
+<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . .
+.</title> pp. 47-48.</bibl></cit>
+</note>
+
+<note>Robert Carter generally used a return address of
+"Rappahannock" for the river on which he lived rather than
+"Corotoman," the name of his home, on his correspondence, especially
+to merchants abroad. The county and colony have been added for
+clarity.</note><lb/>
+
+<note id="n1">[1] The quantity of tobacco shipped to Dawkins on the
+<hi rend="italics">Carter</hi> is given in his letter to Dawkins of
+1720 July 22.</note><lb/>
+
+<note id="n2">[2] Carter's younger sons, Robert (1704-1732) and
+Charles (1706-1764), were in England for their further education.
+</note>
+
+<lb/><lb/><note><hi rend="italics">This text revised January 28,
+2009.</hi></note>
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

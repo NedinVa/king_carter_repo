@@ -1,0 +1,25 @@
+<html>
+<body>
+<table border="1">
+<tr><td><b>Title</b></td><td><b>Price</b></td><td><b>Average</b></td><td><b>Difference</b></td></tr>
+<tr>
+<td>XML Developer's Guide</td>
+<td align="right">44.95</td>
+<td align="right">43.95</td>
+<td align="right">1.00</td>
+</tr>
+<tr>
+<td>MSXML3: A Comprehensive Guide</td>
+<td align="right">36.95</td>
+<td align="right">43.95</td>
+<td align="right">-7.00</td>
+</tr>
+<tr>
+<td>Visual Studio 7: A Comprehensive Guide</td>
+<td align="right">49.95</td>
+<td align="right">43.95</td>
+<td align="right">6.00</td>
+</tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C31g26e">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Captain John Hyde and Company, July 26, 1731</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca.9  kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C31g26e.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2006</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Captain John Hyde and Company, July 26, 1731</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1731-07-26</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C31g26eT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1731-07-26"></date>
+<idno rend="suppress">C31g26e.xml</idno>
+<title>Letter from Robert Carter to Captain John Hyde and Company, July 26, 1731</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchants Captain John Hyde and Company, July 26, 1731, to enquire why he has not received reports of sales of tobacco sent over the past several years and of bills of exchange. He also encloses an invoice (not present) for goods for his children.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to Captain <note n="JH2">John Hyde</note> and Company, July 26, 1731</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1731-07-26">July 26. 1731.</date><lb/>
+Capt John Hyde &amp; Comany<lb/>
+</dateline>
+<salute>Gentlemen</salute>
+
+</opener>
+
+
+
+<p>All the letters I have <abbr expan="received">receiv'd</abbr> from you this year <lb/>
+are <abbr expan="contained">contain'd</abbr> in three lines at the bottom of my Invoice sent in the <lb/>
+<note target="n1"><name type="ship"><sic corr="Rebecca">Rebeccah</sic></name></note> <abbr expan="Captain">Capt</abbr> Malbon.</p>
+
+<p>I cannot but be a little <abbr expan="concerned">concern'd</abbr> no futher intelligence <lb/>
+is given to me of the business I have in <abbr expan="your">yr</abbr> hands Accots are yet to be <lb/>
+<abbr expan="rendered">render'd</abbr> me for the following <abbr expan="tobaccos">tobos</abbr> vizt forty hogsheads of my own <lb/>
+crops in the <name type="ship">Providence</name> <abbr expan="per">pr.</abbr> <note target="n2">Woodward</note> in 1729 ten hogsheads <abbr expan="per">pr.</abbr> <corr resp="editor">[the]</corr> <note target="n3">  Bailey</note>
+
+<pb n="2"/><lb/><lb/>
+the same year belonging to <note n="NB">Mr. Burwells Estate</note> twenty hogsheads  <lb/>
+<abbr expan="stemmed">stemm'd</abbr> <abbr expan="tobacco">tobo</abbr> my own Crop Per the Providence in 1730. and 7 hogsheads <abbr expan="ditto">do</abbr> in <lb/>
+the Bailey <abbr expan="stemmed">stemm'd</abbr> <sic corr="also">alsoe</sic> none of these tobaccos are made any mention of <lb/>
+although the Ships tha<corr resp="editor">[t]</corr> Carried them have visited us again &amp; Again <lb/>
+Last year I sent Bills of Exchange upon <abbr expan="Yourselves">Yr.selfs</abbr> for &pound;29.18.10 drawn <lb/>
+by <sic corr="Churchill">Churchil</sic> Jones and for &pound;10" by Dennis McCarty I presume by <abbr expan="your">yr.</abbr> <lb/>
+Silence these bills I am credited with perhaps your letters may have <lb/>
+Miscarry'd <add place="supralinear">which</add> hath <abbr expan="occasioned">occasion'd</abbr> this disapointment to me</p>
+
+<p>Herein I send you an Invoice for some things for two of <lb/>
+my children desiring the directions therein may be <abbr expan="observed">observ'd</abbr> I am-<lb/>
+</p>
+
+<closer>Gentlemen<lb/>
+<abbr expan="Your">Yr.</abbr> Most humble Servant.</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1] The <hi rend="italics">Rebecca </hi> was probably a London ship; she was of 300 tons, had a crew of 11, and was commanded by Samuel Malbon in 1731. (<cit><bibl>Adm. 65/195, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n2">[2] Thomas Woodward commanded the <hi rend="italics">Providence,</hi> a ship owned by Captain John Hyde &amp; Company, during a number of voyages to the colony, 1723-1729. (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194 and Survey Report 6801 summarizing Adm 68/195, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia,</bibl></cit> and Carter's letter to the firm, 1723 September 17.)</note>
+
+<note id="n3">[3] The <hi rend="italics">Bailey</hi> was a London ship owned by William Dawkins and commanded at various times by Adam Graves (1725-1730) and by Thomas Dove (1731-1732). She was a vessel of some 250 tons and carried 15-17 crew members. (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, 156v, and other data in Adm. 68/194 and /196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> A letter of Carter's executors to Dawkins 1738 May 10 refers to "your ship Bailey.")</note>
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

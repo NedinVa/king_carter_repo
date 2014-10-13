@@ -1,0 +1,227 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C27h19a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Sir Richard Everard, [August 19,] 1727</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 11 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C27h19a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2004</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Sir Richard Everard, [August 19,] 1727</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>4 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  State Records, Colonial Government (RG-1), Colonial Papers, 1630-1778, Library of Virginia, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1727-08-19</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C27h19aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>4 p.</extent>
+<date value="1727-08-19"></date>
+<idno rend="suppress">C27h19a.xml</idno>
+<title>Letter from Robert Carter to Sir Richard Everard, [August 19,] 1727</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Sir Richard Everard, [August 19,] 1727, governor of North Carolina, concerning the handling of problems with a number of Indian tribes that were resolved peacefully particularly by firm positions taken by Nathaniel Harrison as commander of the Virginia militia.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note target="n1">Sir Richard Everard,</note> [August 19,] 1727</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Williamsburg, Virginia]</add></name><lb/>
+<date value="1727-08-19">1727</date><lb/>
+Sir Richd Everard<lb/>
+</dateline>
+<salute>Sr</salute>
+
+</opener>
+
+
+
+<p>The letter you did me the favour to write of the 30th of<lb/>
+last month has given me an opportunity to remove the fears of<lb/>
+the Nottoway Indians, by letting them know the result of your &mdash;<lb/>
+Conference with the Maherines, And because I am willing to <lb/>
+satisfy those Indians as to the conduct of our other Tributaries,<lb/>
+of whom they seem to entertain some suspicition, I take this<lb/>
+occasion to acquaint you that <abbr expan="Colonel">Collo</abbr> Harrison who has strictly<lb/>
+examined and observed <add place="supralinear">on</add> the actions of our Tributaries while<lb/>
+the Cattabaws were in their neighbourhood, assures me&mdash;<lb/>
+that the old Cuanichee King (by which we suppose is meant<lb/>
+the Tattero King) has lived on a plantation of his these<lb/>
+five years past, and has little or no correspondence with<lb/>
+the Saponies, and that he was so far from assisting the<lb/>
+Cattabaws, that he was in very great danger of being &mdash;<lb/>
+killed by one of their parties who beset his house from&mdash;<lb/>
+whence he very narrowly escaped, and lay concealed in a Swamp<lb/>
+<sic corr="until">untill</sic> <note n="NH"><abbr expan="Colonel">Colo</abbr> Harrison</note> marched out with <del>the</del> <add place="supralinear">a</add> body of the&mdash;<lb/>
+Militia and obliged the Cattabawas to return back to their<lb/>
+own Country</p>
+
+<p>But the Saponies readily <sic corr="owned">own'd</sic> to <abbr expan="Colonel">Collo</abbr> Harrison that<lb/>
+three of their men contrary to their express orders went<lb/>
+with the Cattabaws, under pretence of guiding them to the<lb/>
+Tusiaruros but it seems they afterwards altered their&mdash;<lb/>
+Route and only five of them with one of the Saponies<lb/>
+went to the Tuscaruroes, the rest of the party marching<lb/>
+directly for the Maherines, and upon <abbr expan="Colonel">Collo</abbr> Harrison's&mdash;<lb/>
+Orders the Chief men of the Saponies very frankly&mdash;<lb/>
+agreed to send in these three fellows bound to <add place="supralinear">his</add> <del>Collo</del>&mdash;<lb/>
+<del>Harrison's</del> house, but they being apprehensive they should<lb/>
+be delivered up to the Maherines, as was indeed intended&mdash;<lb/>
+returned no more to the Saponie town, but stayed with the&mdash;<lb/>
+
+<pb n="2"/><lb/><lb/>
+Cattabaws on Roanoke where one of them died, and the other two<lb/>
+are gone off with them. Thus you see how little reason there is<lb/>
+to make the Saponies accountable for the action of these&mdash;<lb/>
+Renegades, who, as they <sic corr="joined">join'd</sic> the Cattabawas against the<lb/>
+will of their nation, are now no longer in their power<lb/>
+either to be punished or delivered up by them: I must also<lb/>
+in justice to the Saponies inform you that, <abbr expan="though">tho'</abbr> they think<lb/>
+they have had just cause to make war on the Tuscaruroes<lb/>
+for the loss of so many of their men killed by that nation<lb/>
+last winter, yet they absolutedly refused to join the Cattabaws<lb/>
+in attacking Blounts Town as was proposed to them, declaring<lb/>
+they would not rest contented with such satisfaction as this&mdash;<lb/>
+Government should think fit to obtain of the Tuscarures<lb/>
+rather than transgress the orders they had received from<lb/>
+hence, by taking a revenge of their own, and this may<lb/>
+serve to convince the Maherines of the peaceable <sic corr="disposition">dispositn</sic><lb/>
+of the Saponies, and how far that nation has been from&mdash;<lb/>
+assisting the Cattabaws in the mischief they have&mdash;<lb/>
+done.</p>
+
+<p>As to the Maherine boy taken prisoner <abbr expan="Colonel">Collo</abbr> Harrison<lb/>
+in his Conference with some of the Chiefs of that party<lb/>
+who took him insisted on his being restored, and <sic corr="threatened">threatned</sic><lb/>
+them with the resentment of this <abbr expan="Government">Governmt:</abbr> in case it<lb/>
+were either refused or delayed, but the boy being some time<lb/>
+before sent away to the Cattabaw Town, all that could<lb/>
+be <abbr expan="obtained">obtain'd</abbr>was a promise from the King of the Sagars<lb/>
+Indians that as soon as he got home the boy should be<lb/>
+sent to <abbr expan="Colonel">Colo</abbr> Harrisons; so that if any credit is to be&mdash;<lb/>
+given to the promise of this Indian King, the Maherines<lb/>
+may soon expect the return of this prisoner, if not they<lb/>
+will see how ready this Government is to do them good offices<lb/>
+even without their application.</p>
+
+<p>This you will be pleased to represent to the Maherines as a<lb/>
+proof of our inclination <del>to do ther</del> gratify them in any thing that<lb/>
+is reasonable, and I hope they will not insist upon what is<lb/>
+otherwise, as is that of their demand of <del>[illegible]</del> satisfaction&mdash;<lb/>
+
+<pb n="3"/><lb/><lb/>
+from a nation that has no ways injured them.
+</p>
+
+
+
+<closer><seg type="postscript"><lb/><lb/></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> State Records, Colonial Government (RG-1), Colonial Papers, 1630-1778, Library of Virginia, Richmond. The retained draft is endorsed several times in different and not contemporary hands: "To Sir Richd. Everard | in relation to Indians on | Southern frontier &mdash; | 17<del>00</del> | <del>[illegible]</del> | <del>[illegible]</del> | <del>Between July 19th 1725 &amp;</del> | <del>1731.</del> |1727. <del>1716</del>" The month and day of writing were found in Carter's diary which also indicated that he was in Williamsburg at the time. An abstract of the letter was published in <cit><bibl n="B18">Headlam. <title>Calendar of State Papers Colonial Series.</title></bibl></cit> I:214.</note>
+
+<note>A. Christoper Meekins of the State Archives, Office of Archives and Records, North Carolina Department of Cultural Resources, has written the editor (2004 April 26) that the recipent's copy of Carter's letter to Everard apparently has not survived as it cannot be located among the holdings in the Archives.</note>
+
+<note>There were discussions of the problems with the Indians during the Council meetings going back into 1726. See <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:125-45. </bibl></cit></note>
+
+<note id="n1"> [1] Sir Richard Everard (1683-1733) was the  governor of the colony of North Carolina 1725-1731 when that colony was owned by lords proprietors. ("North Carolina Governors" in "North Carolina Encyclopedia" placed online by the State Library of North Carolina. [http://statelibrary.dcr.state.nc.us/nc/stgovt/governor.htm#lords, 8/4/03] )</note>
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

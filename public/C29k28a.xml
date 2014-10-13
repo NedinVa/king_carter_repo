@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C29k28a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Captain William Strother, November 28, 1729</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 11 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C29k28a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2005</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Captain William Strother, November 28, 1729</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1729-11-28</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C29k28aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent> p.</extent>
+<date value="1729-11-28"></date>
+<idno rend="suppress">C29k28a.xml</idno>
+<title>Letter from Robert Carter to Captain William Strother, November 28, 1729</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Captain William Strother of King George County, November 28, 1729, concerning lands that Strother has purchased from "the Widow Cale" that lie adjacent to lands of Strother's, but to which the estate of Nathaniel Burwell may also have a claim.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to Captain <note n="WS">William Strother,</note> November 28, 1729</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Corotoman, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1729-11-28">28. Nov. 1729</date><lb/>
+Cap. William Strother<lb/>
+</dateline>
+
+
+</opener>
+
+
+
+<p>I <abbr expan="received">recd</abbr> your Letter of the 13. <abbr expan="Instant">Instt.</abbr> by my Sloop. It must be owned <lb/>
+the <sic corr="Convenience">Conveniency</sic> of the Widow Cale's Land to yours was a temptation to you to <lb/>
+buy it. From what the Widow said to me, &amp; from what others told me I had <lb/>
+Intentions to send Orders to <note n="RJ">Mr Jones</note> &amp; <note target="n1">Threalkill</note> that no more Clearing <lb/>
+should be made on that side next the Widow, till I could be satisfied where <lb/>
+<note n="NB">Mr Burwells</note> proper Line should run. This order I now send to Mr <lb/>
+Jones tht the Overseer may conform to it. <abbr expan="Your">Yor</abbr> Offer seems to be reasonable. You <lb/>
+propose to let me see your papers &amp; your Title. You tell me you claim under <lb/>
+Motts patent; but that I take to be your Mistake. Burwell's Claim is <lb/>
+under Mott's patent, &amp; yours I believe is under Catlet's which must be owned <lb/>
+to be the Elder, if the Widow's Title comes regularly to her. You were Over:<lb/>
+seer of my Affairs when <note target="n2">Savage</note> made his Survey, &amp; I am apt to think were <lb/>
+at it. My directions to Savage were, tht. the Owners of the neighbouring Lands <lb/>
+might have Notice, that he would lay it out in a <sic corr="public">publick</sic> Manner, &amp; <lb/>
+I have heard several times that Cale was at it &amp; did not oppose his running <lb/>
+that Line. I believe all this you know. I must defend my <note target="n3">Grandson's</note> <lb/>
+Lands as well as I can; but where things are plain against me, I should <lb/>
+rather <sic corr="choose">chuse</sic> to compose <add place="supralinear">things</add> in an amicable way; <add place="supralinear">the Law, as <abbr expan="you">yo</abbr> say, ought to be the Last Resort &amp; is so to all peaceable <add place="supralinear">minds</add></add>  And if it appears we have <lb/>
+cleared into the Widow's Bounds tht she <sic corr="has">hath</sic> a just Claim to I shall be willing <lb/>
+to purchase the Ground tht we have cleared, or rather to the Bounds Savage gave <lb/>
+us. This I think is as fair an Offer as I can make, &amp; I <sic corr="beleive">beleve</sic> you will think so <lb/>
+too. The Ground already cleared I reckon is but a small piece, &amp; all taken in <lb/>
+within the Widow's Bounds  not very large. I write to Mr Jones to this purpose <lb/>
+&amp; am 
+</p>
+
+<closer>Your humble Servant.</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note> The county and colony have been added for clarity to the heading on the draft.</note>
+
+<note id="n1">[1] William Threalkill is mentioned in the inventory of Carter's estate as the overseer at Poplar Quarter, Stafford County. (<cit><bibl n="A26">Carter Papers: An Inventory. . . ."</bibl></cit>.)</note>
+
+<note id="n2">[2]  John Savage was a surveyor, later (1734) to be employed by Lord Fairfax in his  attempt to establish the boundaries of the proprietary. (<bibl n="B4">Harrison. <title>Landmarks. . . .</title> p. 619.</bibl>)</note>
+
+<note id="n3">[3] Robert Carter's oldest daughter, Elizabeth, had 3 sons by her first husband, Nathaniel Burwell. The clerk may had made a mistake in writing "grandson's" when he should have written "grandsons'."</note>
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; 
+
+<!NOTATION php SYSTEM "php">
+<!ENTITY Ext4 SYSTEM "http://www.stratfordhall.org\/learn\/lees\/thomaslee.php" NDATA php>
+
+
+]>
+<TEI.2 id="C23l28b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Captain [Thomas] Hooper, December 28, 1723</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca.7  kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C23k28b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2002, 2010</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+      <title>Letter from Robert Carter to Captain [Thomas] Hooper, December 28, 1723</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1723-12-28</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C23l28bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent> p.</extent>
+<date value="1728-12-28"></date>
+<idno rend="suppress">C23k28b.xml</idno>
+<title>Letter from Robert Carter to Captain [Thomas] Hooper, December 28, 1723</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Captain [Thomas] Hooper, December 28, 1723, chastising his friend and business associate for his failure to notify him that Captain Charles Broadwater wanted land on Dogue Run. Colonel George Mason and Robert Alexander applied to Carter first and were given warrants which makes it impossible for him to give Broadwater a warrant in that area. He also lets Hooper know that he expects Hooper to write more often, and to pay more attention to making surveys for Carter's own land entries.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to Captain <note n="TH">[Thomas] Hooper,</note> December 28, 1723</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<add resp="editor"><name type="place">[Corotoman, Lancaster County, Virginia]</name></add><lb/>
+<date value="1728-12-28">Decr: 28th: 1723</date><lb/>
+Capt: Hooper<lb/>
+</dateline>
+
+
+</opener>
+
+<p>	Yours of the 3d: of <abbr expan="December ">Decr:</abbr> just now came to me <note target="n1"><abbr expan="Colonel ">Col:</abbr> <lb/>Mason</note> <sic corr="wrote ">writ</sic> to me a great whle since and I have <sic corr="passed ">past</sic> <lb/>a Warrant for the <note target="n2"><sic corr="Dogue ">Dooges</sic> Land</note> to him which I cannot <lb/>recall so that <note target="n3">Mr <sic corr="Broadwater ">Broad Water</sic></note> must thank You for <lb/>his disapointment in keeping his Entry in Your pocket <lb/>and <sic corr="never ">neaver</sic> giving me any account of it Yesterday <lb/>I <sic corr="passed ">pass'd</sic> two Warrants for three Thousand Acres Each <lb/>one on the upper side of <note target="n4">great Hunting Creek</note> the other <lb/>on <note target="n5"><sic corr="Pimmots ">Pimmets</sic> Run</note> between the Lands of <note target="n6"><abbr expan="Colonel ">Col:</abbr> Lee</note> and <lb/>Mr. Scot I am <sic corr="afraid ">affrid</sic> this Letter will affect Mr Broad <lb/>waters second Entry however I have sent him a Warrant <lb/>accordng to his bounds believing that may best please <lb/>him should I send him a Warrant for the Land <abbr expan="Colonel ">Col:</abbr> <lb/>Mason <sic corr="has ">hath </sic> already one for it would be in my estate <lb/>but picking his pocket if after Masons four hundred Acres <lb/>is laid off there be any Land left <sic corr="Broadwater ">Broad Water</sic> has a mind <lb/>to let him signify it to Me and I will take care to <lb/>reserve it for him which is the greatest Kindness <lb/>I can now do for him</p>
+
+<p>You are very short Me thinks in your writing <lb/>Sure You have other Subjects enough to entertain me <lb/>with.  I hear You have been in the upper parts making <lb/>some surveys but I do not hear You have Yet had any <lb/>regard to My own Entries You will do well to consider <lb/>my patience will not hold out much longer and <gap reason="damage"/><add resp="editor">[ . . . ] </add>  <lb/>You know I will make use of <del>soemd</del>  somebody that <gap reason="damage"/><add resp="editor">[will] </add> <lb/>do my business if You will not which shall be a<gap reason="damage"/><add resp="editor">[ll at]</add> <lb/>present from Your <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Friend 
+</p>
+
+
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1723 June 16-1724 April 23, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note></note>
+
+<note id="n1">[1] George Mason III (c. 1690-1735), justice, sheriff, burgess, and county lieutenant of Stafford County, father of the constitutional theorist. (<cit><bibl n="B24">Copeland and MacMaster, <title>The Five George Masons.</title> pp. 50-86</bibl></cit>; and <cit><bibl>George Harrison Sanford King, <title>The Register of Overwharton Parish Stafford County Virginia 1723-1758 And Sundry Historical and Genealogical Notes</title>. [Fredericksburg, VA: privately printed, 1961.]</bibl></cit>)</note>
+
+<note id="n2">[2] This probably is present Dogue Creek in Fairfax County, lying along the southwestern side of what was once called Mt. Vernon Neck, near Mt. Vernon. "Dogue Creek is a tidal tributary of the Potomac River in Fairfax County, Virginia, named for the Doeg Indians." (<cit><bibl>Alexandria Drafting Company. <title>Regional Northern Virginia.</title> [Alexandria, VA: Alexandria Drafting Company, 2002.]. pp. 23, 29;  </bibl></cit> and <cit><bibl>Wikipedia, http://en.wikipedia.org/wiki/Dogue_Creek. 12/8/2010.</bibl></cit>)</note>
+
+<note id="n3">[3] Charles Broadwater (d. 1733) was described by Fairfax Harrison as "a merchant mariner [who] had been established in the Potomac freshes for a decade when he died in 1733." (<cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> p. 413.</bibl></cit>)</note>
+
+<note id="n4">[4] "Hunting Creek is a cove and tributary stream of the Potomac River between the City of Alexandria and Fairfax County in Virginia. It is formed by the confluence of Cameron Run and Hoof's Run. The community of Huntington takes its name from the creek. Jones Point forms the north side. Dyke Marsh is just to the south. George Washington Memorial Parkway crosses it on a bridge. The creek is sometimes referred to as Great Hunting Creek, to distinguish it from Little Hunting Creek."  It appears on the Fry-Jefferson map of 1751. (<cit><bibl>Wikipedia, http://en.wikipedia.org/wiki/Hunting_Creek. 12/9/2010</bibl></cit>; and <cit><bibl>Alexandria Drafting Company. <title>Regional Northern Virginia.</title> [Alexandria, VA: Alexandria Drafting Company, 2002.]  pp. 36, 45.</bibl></cit> )</note>
+
+<note id="n5">[5] Pimmits Run is located in today's Fairfax County, and Wikipedia's description of its meandering route is good:  [It] "runs from Fairfax County to the Potomac River at Chain Bridge in the Arlingwood neighborhood of Arlington County." There is a neighborhood and a park bearing the Pimmits name along its route. Wikipedia also notes, "The stream was named for John Pimmit who in 1675 was an overseer for William Fitzhugh (1651-1701). John was naturalized a citizen in 1679, and died by drowning in 1688-1689. He was survived by three children." It is also stated that a citation was needed for this information. It almost certainly was taken from Fairfax Harrison's <cit><bibl n="B4">Harrison. <title>Landmarks of Old Prince William,</title></bibl></cit> pages 68 and 75. (<cit><bibl>Alexandria Drafting Company. <title>Regional Northern Virginia.</title> [Alexandria, VA: Alexandria Drafting Company, 2002.]. pp. 20-21. </bibl></cit> )</note>
+
+<note id="n6">[5] Thomas Lee (1690-1750) of Westmoreland County was the son of Richard Lee II, and nephew of Edmund Jenings; he would build "Stratford," and succeed Carter on the Council. For a good article on Thomas Lee, see  <xref to="Ext4">that on Stratford plantation's website.</xref> (<cit><bibl>Burton J. Hendrick. <title>The Lees of Virginia: Biography of a Family.</title> [Boston: Little Brown, 1935]. pp. 48, 51, etc.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2002, was revised December 9, 2010., to add footnotes, and to strengthen the modern language version text.</hi></note>
+
+
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

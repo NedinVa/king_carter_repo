@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; 
+
+<!NOTATION html SYSTEM "HTML">
+<!ENTITY Ext6 SYSTEM "http://www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm" NDATA html>
+
+
+
+
+]>
+<TEI.2 id="C24a28d">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Micajah Perry, January 28, 1724</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 9 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C24a28d.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2002, 2011</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Micajah Perry, January 28, 1724</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1723 July 4 -1724 June 11, Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1724-01-28</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C24a28dT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent> p.</extent>
+<date value="1724-01-28"></date>
+<idno rend="suppress">C24a28d.xml</idno>
+<title>Letter from Robert Carter to Micajah Perry, January 28, 1724</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant Micajah Perry, January 28, 1724, reporting the activities of the captains of various vessels then in the colony, and of his plan to ship about 80 hogsheads of his own tobacco, and 30-40 more belonging to the Lloyd and Burwell estates on these ships. He thinks these ships will carry the last available stemmed tobacco to England before the law banning its importation goes into effect, and he reminds Perry of his promises that this tobacco would bring very good prices. He records a number of recent bills of exchange that the merchant should honor, and reminds him that the accounts he has sent do not include the &pound;180 that has been awarded by the courts in Carter's suit against John Wise's executors. He requests that accounts current be sent regularly for his own and the Burwell estate's affaiirs.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="MP2">Micajah Perry,</note> January 28, 1724</head>
+<opener>
+<dateline>
+<pb n="1"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;per Fowler<lb/>
+Mr. Micajh. Perry &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><date value="1724-01-28">Janr 28th. 1723/4</date><lb/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Copy per <del>Woodward</del> <add place="infralinear">Keiling</add><lb/>
+
+Mr. Micajh. Perry&mdash;&mdash;<lb/>
+</dateline>
+<salute>Sir</salute>
+
+</opener>
+
+<p>This comes by the way of <name type="city"><sic corr="Liverpool ">Leverpool</sic></name> If my Intelligence <lb/>is right, Posford is <sic corr="near ">neer</sic> Loaded, <note target="n1">Keiling</note> is very forward in his business <lb/>next month I dare Say will conclude him, The <note target="n2"><name type="ship">Burwell</name></note> by the Start <lb/>he got in his Passage will finish in good time, Even <note target="n3">Graves</note> &amp;amp; <note target="n4">Wills</note> <lb/>Although they were three weeks after him <sic corr="talk ">taulk</sic> of doing their business <lb/>by the 20th. of March, I reckon I shall get off fourscore hhds. in these <lb/>Ships for You, <add place="supralinear">of my own Crops</add> there will be between 30 &amp; 40 of the <note n="LL">LL</note> &amp; <note n="NB">Mr. Burwells</note> <lb/>Concern will be pretty large to You, these Ships I believe will take <lb/>off all the <note target="n5"><sic corr="stemmed ">Stemd</sic> Tobo.</note> and now twill <sic corr="lie ">lye</sic> upon You to make good <lb/>Your promise in the large <abbr expan="expectations ">Expectats.</abbr> You have given us, it is to be <lb/>doubted upon the coming home of these Ships, there will be a <lb/><gap reason="damage"/><add resp="editor">[grea]</add>t many Necessitas persons that will be forced to sell, but 
+
+<pb n="2"/><lb/><lb/>
+You are able to Stand the Shock <sic corr="until ">till</sic> they have spent their <sic corr="shot ">Shott</sic> <lb/>&amp; then certainly, this last Stock of <sic corr="stemmed ">Stemd</sic> Tobo. that we shall be <lb/><sic corr="allowed ">Allowd</sic> to make, (an Inhumane Law it is. The most of the (<abbr expan="gentleme ">Gentn.</abbr> <lb/><del>Adventure</del><add place="supralinear">of the Country</add> who have always been fair Traders &amp; have constantly <lb/>paid to the King the full <sic corr="duties ">dutys</sic>) will turn to our considerable advan<lb/>=tage, fed with these hopes we have all done our Utmost to crowd <lb/>away all the <sic corr="stemmed ">Stemd</sic> Tobo. we <sic corr="possibly ">possible</sic> could, which have given these <lb/>ships so much dispatch, <abbr expan="it is ">'tis </abbr> not our great Crops I do assure You <lb/>&amp; so You will find in the Sequel</p>
+
+<p><note n="MP1"><abbr expan="Colonel ">Collo.</abbr> Page</note> &amp; myself have drawn upon you lately for fifty <lb/>pounds upon the Account of <note n="NB">Mr. Burwell's</note> Estate, payable to Peter <lb/>Richeson being part of his Salary as he was the General Overseer.</p>
+
+<p>Herein is a first <note target="n6">bill of <abbr expan="exchange ">Exche.</abbr></note> of <note n="JG2">Mr. <sic corr="Grymes's ">Grimes's</sic></note> on Your Self <lb/>for &pound;28"5"- and Six Seconds, to Witt <abbr expan="William ">Wm.</abbr> Magdougal on <abbr expan="William ">Wm.</abbr> <lb/>Anderson &pound;41"0"0 <note target="n7"><abbr expan="Colonel ">Collo.</abbr> Spotswood</note> on Mr. <abbr expan="John ">Jno.</abbr> Cary &pound;77"14"0 <lb/><abbr expan="James ">Jas.</abbr> Mackine on H. McCaul &pound;3"6"0  <note target="n8"><abbr expan="Henry ">Hen.</abbr> Fitzhigh</note> on <note target="n9">Arthur Lee</note> <lb/>&pound;24"18"6. <abbr expan="John ">Jno.</abbr> Sharpe <abbr expan="Junior ">Junr.</abbr> on John Sharp of White Haven &pound;4"0"0 <lb/>&amp; <abbr expan="Robert  ">Robt.</abbr> Carter on Yor.Self &pound;15"0"0.  Amounting to One <lb/>hundred &amp; Sixty five pound Eighteen <abbr expan="shillings">Shills.</abbr> &amp; Six pence&mdash;&mdash;</p>
+
+<p><note n="JC!">My son</note> tells me there was awarded to me upon the <lb/>Arbitration with <note target="n10">Wise's </note><abbr expan="executors ">Execrs.</abbr> One hundred &amp; Eighty pounds, Your <lb/>last Accot. Currt. gives me no Credit for this Money, I desire You <lb/>will always continue that Laudable <sic corr="Custom ">Custome</sic> of sending Your <lb/>Accot. Currts. Yearly. I love to be kept in View of the Measure of my <lb/>Circumstances, An Accot. <add place="supralinear">Currt.</add> of Mr. Burwell's affairs is likewise <lb/>desired by&mdash;&mdash;</p>
+
+<closer>Sir,  Yor. most humble Servt. </closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1723 July 4 -1724 June 11, Carter Family Papers, Virginia Historical Society, Richmond. </note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
+
+<note>At the head of the draft letter, where the clerk has written the names of the ships on which copies of the letter were to be sent, "Keiling" was substituted for "Woodward" which was struck. The software will not allow a strike-through code at this point.</note>
+
+<note id="n1">[1] Captain William Keiling commanded the <hi rend="italics">Betty.
+</hi> (<cit><bibl>Survey Report 6800, Virginia Colonial Records Project, Albert and Shirley  Small Special Collections Library, University of Virginia</bibl></cit>)</note>
+
+<note id="n2">[2] This vessel was commanded by Captain Constantine Cant and may have been owned by William Dawkins and Micajah Perry as Carter reported her December 1723 arrival to each of them. (<cit><bibl>Adm. 68/194-195, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n3">[3] Adam Graves was a son of Captain Thomas Graves [d. <hi rend="italics">ante</hi> 1720], long a captain of vessels trading to Virginia, and a special friend of Robert Carter's. Adam Graves commanded the <hi rend="italics">Bailey</hi> in 1725-1727, a ship that belonged to London merchant William Dawkins. (<cit><bibl>Survey Report 6800, and Adm. 68/194-196 found in the microfilms of the Virginia Colonial Records Project, Albert  and Shirley Small Special Collections Library, University of Virginia</bibl></cit>)</note>
+
+<note id="n4">[4] Captain Peter Wills commanded the  <hi rend="italics">Booth</hi> in 1723 and the <hi rend="italics">Amity</hi> in 1727. (<cit><bibl>Survey Report 6800, Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n5">[5] Parliament had passed an act forbidding the importation of stemmed tobacco in 1722. John Randolph would be sent to England in 1729 as agent for Virginia to try to have the act overturned; his mission would be successful. (<cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> [Newport News, VA: Mariners' Museum, 1953], 116.</bibl></cit>)</note>
+
+<note id="n6"> [6] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (<cit><bibl><xref to="Ext6">"Dictionary of  Financial Scam Terms" at </xref> http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm. 8/22/2005</bibl></cit>)</note>
+
+<note id="n7">[7] Alexander Spotswood (1646-1740) had been the lieutenant governor from 1710 to 1722, and had remained in the colony after his term.</note>
+
+ <note id="n8">[8]  Henry Fitzhugh (1706-1742) of "Eagle's Nest," Stafford County, was educated at Oxford, and married Lucy Carter (1715-1763), Robert Carter's fourteenth child, in 1730. They had  four children; after Fitzhugh's death, she married Nathaniel Harrison (1713-1791).  He was a burgess and militia officer. (<cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 451 </bibl></cit>;  <cit><bibl>Robert
+A. Rutland, <title>The Papers of George Mason, 1725-1792.</title> [Chapel Hill: University of North Carolina Press, 1970]. I:lii</bibl></cit>; and extensive generalogical notes, "Fitzhugh Family," in volumes 7 and 8 of <title>Virginia Magazine of History and Biography.</title>)</note>
+
+<note id="n9">[9] This Arthur Lee may be a son of Francis Lee (1648-1724), third son of Richard Lee the emigrant; Francis had returned to England to become a merchant in London.</note>
+
+<note id="n10">[10] Carter and Thomas Wise had "traded with each other in tobacco and bills of exchange between 1707 and 1717," but Wise "neglected his duty in returning those bills that were protested." Carter sued Wise in England to recover his money, and he won &pound;180. (<cit><bibl>Survey Report 10147 describing C24/1398 part 1, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia;</bibl></cit> and letter of  <xref to="/users/berkeley/public/C23h19a.xml">August 19, 1723,</xref> Carter to Micajah Perry)</note>
+
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2002, was revised January 24, 2011, to add footnotes, and to strengthen the modern language version text.</hi></note>
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

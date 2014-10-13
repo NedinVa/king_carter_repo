@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C28k20b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Colonel [Thomas] Lee, November 20, 1728</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 7 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C28k20b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2004</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Colonel [Thomas] Lee, November 20, 1728</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1728 August 8-1730 May 15,  Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1728-11-20</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C28k20bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1728-11-20"></date>
+<idno rend="suppress">C28k20b.xml</idno>
+<title>Letter from Robert Carter to Colonel [Thomas] Lee, November 20, 1728</title>
+</bibl>
+</head>
+<p>Robert Carter as commander of the militia in the Northern Neck writes to Colonel [Thomas] Lee of Westmoreland County, November 20, 1728, concerning militia commissions for that county.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to Colonel <note target="n1">[Thomas] Lee,</note> November 20, 1728</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Corotoman, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1728-11-20">Novr. the 20th: 1728</date><lb/>
+Colonel Lee<lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+<p>herein I Send you your own Commission <note target="n2">Colonel <lb/>Ashtons</note> and <note target="n3"><abbr expan="Major">Majr.</abbr> Berrymans.</note> <note n="GE"><abbr expan="Major">Majr.</abbr> Eskridge</note> has his I have blank <lb/>Commissions for all the rest of the Officers of your County I am not will<lb/>ing to fill them up <sic corr="until">till</sic> I have had your Opinion about them, I be<lb/><sic corr="lieve">leive</sic> the list you gave me will hardly do now I cannot but think <lb/>there are Some <abbr expan="Gentlemen">Gent</abbr> for the two Companys that want Captains, that <lb/>will better Supply their places <sic corr="than">then</sic> the <abbr expan="Lieutenants">Leiuts.</abbr> I Send you a Copy of the list <lb/>I had from you that you may Consider of it and let me have your <lb/>Second thoughts, As for the under Officers I think it best to let the <lb/><corr resp="editor">[r]</corr>espective Captains please themselves,</p>
+
+<p>You know that upon these Occasions the <abbr expan="Governor's">Govrs.</abbr> Clerk <lb/>who writes these Commissions Expects to be <sic corr="remembered">remembred</sic> I <sic corr="promised">promist</sic> <lb/><corr resp="editor">[h]</corr>im all the Service I could do and to be answerable to him for what <lb/><abbr expan="Gentlemen">Gent</abbr> would be pleased to <note target="n4"><sic corr="deposit">depolite</sic></note> in my hands for him I doubt not <lb/><corr resp="editor">[you]</corr>r readiness to forward this matter as far as it <sic corr="lies">lyes</sic> within your <lb/>province I am </p>
+
+<closer>Sir<lb/>Yor. most humble Servt:&mdash;</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. The addressee can be identified as Thomas Lee of Westmoreland County because George Eskridge and others mentioned in the letter as recipients of militia commissions were also residents of that county.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
+
+<note id="n1">[1] Thomas Lee (1690-1750) was the son of Richard Lee II, and nephew of Edmund Jenings; he would build "Stratford," and succeed Carter on the Council. (<cit><bibl>Burton J. Hendrick. <title>The Lees of Virginia: Biography of a Family.</title> [Boston: Little Brown, 1935]. pp. 48, 51, etc.</bibl></cit>)</note>
+
+<note id="n2">[2] Henry Ashton (1670-1731) was a prominent citizen of Westmoreland County where he was burgess, justice, and sheriff. (<cit><bibl n="B38">Norris. <title>Westmoreland County, Virginia.</title> p. 107;</bibl></cit> and <cit><bibl>David W. Eaton. <title>Historical Atlas of Westmoreland County Virginia.</title> Richmond: Dietz Press, 1942, in an undated reprint. p. 43.</bibl></cit></note>
+
+<note id="n3"> [3] Benjamin Berryman (ca. 1680-1729) was the son of John and Jane Berryman and lived in Westmoreland County where he was justice and sheriff. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 3[1705-1721]:398, 425; </bibl></cit> and "Capt. Benjamin Berryman. . . .  http://www.sharpwriters.com/genealogy/berryman.html, 30 Nov. 2004)</note>
+
+
+<note id="n4">[4] The clerk probably meant to write "deposit."</note> 
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

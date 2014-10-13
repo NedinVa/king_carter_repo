@@ -1,0 +1,78 @@
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-16">
+<style>
+					BLOCKQUOTE {margin-left: 15px; 
+											border-left: 1px dotted gray;
+											border-top: 1px solid black;
+											border-bottom: 1px solid black;
+											background-color: white}
+				</style>
+</head>
+<body>
+<BLOCKQUOTE>Start: root<br>
+<BLOCKQUOTE>Start: built-in template, * or / - node name is: <b>catalog</b><br>
+<BLOCKQUOTE>Start: book<br>
+<BLOCKQUOTE style="background-color: lightblue">Start: title | author<br>
+<BLOCKQUOTE>Start: built-in template, text node or attribute<br><b>text()</b> = Gambardella, Matthew<br>Start: built-in template, text node or attribute</BLOCKQUOTE>
+<br>End: title | author</BLOCKQUOTE>
+<BLOCKQUOTE style="background-color: lightblue">Start: title | author<br>
+<BLOCKQUOTE>Start: built-in template, text node or attribute<br><b>text()</b> = XML Developer's Guide<br>Start: built-in template, text node or attribute</BLOCKQUOTE>
+<br>End: title | author</BLOCKQUOTE>
+<BLOCKQUOTE>Start: built-in template, * or / - node name is: <b>genre</b><br>
+<BLOCKQUOTE>Start: built-in template, text node or attribute<br><b>text()</b> = Computer<br>Start: built-in template, text node or attribute</BLOCKQUOTE>
+<br>End: built-in template, * or /</BLOCKQUOTE>
+<BLOCKQUOTE>Start: built-in template, * or / - node name is: <b>price</b><br>
+<BLOCKQUOTE>Start: built-in template, text node or attribute<br><b>text()</b> = 44.95<br>Start: built-in template, text node or attribute</BLOCKQUOTE>
+<br>End: built-in template, * or /</BLOCKQUOTE>
+<BLOCKQUOTE>Start: built-in template, * or / - node name is: <b>publish_date</b><br>
+<BLOCKQUOTE>Start: built-in template, text node or attribute<br><b>text()</b> = 2000-10-01<br>Start: built-in template, text node or attribute</BLOCKQUOTE>
+<br>End: built-in template, * or /</BLOCKQUOTE>
+<BLOCKQUOTE>Start: built-in template, * or / - node name is: <b>description</b><br>
+<BLOCKQUOTE>Start: built-in template, text node or attribute<br><b>text()</b> = An in-depth look at creating applications with XML.<br>Start: built-in template, text node or attribute</BLOCKQUOTE>
+<br>End: built-in template, * or /</BLOCKQUOTE>
+<br>End: book</BLOCKQUOTE>
+<BLOCKQUOTE>Start: book<br>
+<BLOCKQUOTE style="background-color: lightblue">Start: title | author<br>
+<BLOCKQUOTE>Start: built-in template, text node or attribute<br><b>text()</b> = Ralls, Kim<br>Start: built-in template, text node or attribute</BLOCKQUOTE>
+<br>End: title | author</BLOCKQUOTE>
+<BLOCKQUOTE style="background-color: lightblue">Start: title | author<br>
+<BLOCKQUOTE>Start: built-in template, text node or attribute<br><b>text()</b> = Midnight Rain<br>Start: built-in template, text node or attribute</BLOCKQUOTE>
+<br>End: title | author</BLOCKQUOTE>
+<BLOCKQUOTE>Start: built-in template, * or / - node name is: <b>genre</b><br>
+<BLOCKQUOTE>Start: built-in template, text node or attribute<br><b>text()</b> = Fantasy<br>Start: built-in template, text node or attribute</BLOCKQUOTE>
+<br>End: built-in template, * or /</BLOCKQUOTE>
+<BLOCKQUOTE>Start: built-in template, * or / - node name is: <b>price</b><br>
+<BLOCKQUOTE>Start: built-in template, text node or attribute<br><b>text()</b> = 5.95<br>Start: built-in template, text node or attribute</BLOCKQUOTE>
+<br>End: built-in template, * or /</BLOCKQUOTE>
+<BLOCKQUOTE>Start: built-in template, * or / - node name is: <b>publish_date</b><br>
+<BLOCKQUOTE>Start: built-in template, text node or attribute<br><b>text()</b> = 2000-12-16<br>Start: built-in template, text node or attribute</BLOCKQUOTE>
+<br>End: built-in template, * or /</BLOCKQUOTE>
+<BLOCKQUOTE>Start: built-in template, * or / - node name is: <b>description</b><br>
+<BLOCKQUOTE>Start: built-in template, text node or attribute<br><b>text()</b> = A former architect battles corporate zombies, an evil sorceress, and her own childhood to become queen of the world.<br>Start: built-in template, text node or attribute</BLOCKQUOTE>
+<br>End: built-in template, * or /</BLOCKQUOTE>
+<br>End: book</BLOCKQUOTE>
+<BLOCKQUOTE>Start: book<br>
+<BLOCKQUOTE style="background-color: lightblue">Start: title | author<br>
+<BLOCKQUOTE>Start: built-in template, text node or attribute<br><b>text()</b> = O'Brien, Tim<br>Start: built-in template, text node or attribute</BLOCKQUOTE>
+<br>End: title | author</BLOCKQUOTE>
+<BLOCKQUOTE style="background-color: lightblue">Start: title | author<br>
+<BLOCKQUOTE>Start: built-in template, text node or attribute<br><b>text()</b> = MSXML3: A Comprehensive Guide<br>Start: built-in template, text node or attribute</BLOCKQUOTE>
+<br>End: title | author</BLOCKQUOTE>
+<BLOCKQUOTE>Start: built-in template, * or / - node name is: <b>genre</b><br>
+<BLOCKQUOTE>Start: built-in template, text node or attribute<br><b>text()</b> = Computer<br>Start: built-in template, text node or attribute</BLOCKQUOTE>
+<br>End: built-in template, * or /</BLOCKQUOTE>
+<BLOCKQUOTE>Start: built-in template, * or / - node name is: <b>price</b><br>
+<BLOCKQUOTE>Start: built-in template, text node or attribute<br><b>text()</b> = 36.95<br>Start: built-in template, text node or attribute</BLOCKQUOTE>
+<br>End: built-in template, * or /</BLOCKQUOTE>
+<BLOCKQUOTE>Start: built-in template, * or / - node name is: <b>publish_date</b><br>
+<BLOCKQUOTE>Start: built-in template, text node or attribute<br><b>text()</b> = 2000-12-01<br>Start: built-in template, text node or attribute</BLOCKQUOTE>
+<br>End: built-in template, * or /</BLOCKQUOTE>
+<BLOCKQUOTE>Start: built-in template, * or / - node name is: <b>description</b><br>
+<BLOCKQUOTE>Start: built-in template, text node or attribute<br><b>text()</b> = The Microsoft MSXML3 parser is covered in detail, with attention to XML DOM interfaces, XSLT processing, SAX and more.<br>Start: built-in template, text node or attribute</BLOCKQUOTE>
+<br>End: built-in template, * or /</BLOCKQUOTE>
+<br>End: book</BLOCKQUOTE>
+<br>End: built-in template, * or /</BLOCKQUOTE>
+<br>End: root</BLOCKQUOTE>
+</body>
+</html>

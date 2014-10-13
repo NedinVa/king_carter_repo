@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C29f25a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to James Bradley, June  25, 1729</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca.8  kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C29f25a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2005</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to James Bradley, June  25, 1729</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1729-06-25</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C29f25aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent> p.</extent>
+<date value="1729-06-25"></date>
+<idno rend="suppress">C29f25a.xml</idno>
+<title>Letter from Robert Carter to James Bradley, June  25, 1729</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant James Bradley, June  25, 1729, to send a bill of lading (not present) and to report a shipment of tobacco on another ship. He hopes to learn soon that Parliament has repealed the act prohibiting the importation of stemmed tobacco into Britain. He encloses an invoice (not present) for goods.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note target="n1">James Bradley,</note> June  25, 1729</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1729-06-25">June 25th. 1729</date><lb/>
+Mr. Jas: Bradley<lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+
+
+<p>This Accompanys your Ship the <note target="n2"><name type="ship">Welcome</name></note> <abbr expan="Captain">Capt.</abbr> Trice<lb/>and brings you a bill of Lading for 32 hogsheads on board the said Ship they are all<lb/>
+of my own Crops and I hope will rise so Well as to procurate a good Sale. You<lb/>
+have 10 Hogsheads more in the <note target="n3"><name type="ship">Forward</name></note> <abbr expan="Captain">Capt.</abbr> <sic corr="Loney">Lonney</sic>.</p>
+
+<p>The <note target="n4"><abbr expan="Williamsburg"><name type="ship">Wms.Burgh</name></abbr></note> hath bin long Expected and <sic corr="we">wee</sic> hope will<lb/>bring us Some good news at last. And Accots. of our last Years Crops that may<lb/>
+Enable us to lively our Labours, The General report in the county now is that<lb/>
+the repealing the Clause in the <note target="n5">Act. of <abbr expan="Parliament">Palli.</abbr></note> prohibiting the Stemming of <abbr expan="Tobacco">Tobbo:</abbr>
+ wd.<lb/>
+Infallibly be Carried if this prove true I must be be of Opinion it will very<lb/>
+much help us. <sic corr="Wee">Wee</sic> must wait with Expectation what will be our fate in this<lb/>
+respect. I have many a time in my Day Seen <abbr expan="Tobacco">Tobbo:</abbr>
+ at as low an Ebb as it is now<lb/>
+and still Providence hath by one means or othey taken care to <sic corr="relieve">releive</sic> us.</p>
+
+<p>I have herein sent to you an Invoice for Some goods&mdash;
+
+<pb n="2"/><lb/><lb/>
+
+Desiring your utmost care in the well buying and Safe Packing of them If<lb/>
+<corr resp="editor">[y]</corr>ou continue the Welcome a Ship for <note target="n6">our river</note> I had as live have them by Trice<lb/>
+as by any body, he Appears to be a <sic corr="Careful">Carefull</sic> obliging person in his business it is too<lb/>
+large a great deal for our Income but <sic corr="we">wee</sic> must be <sic corr="Supplied">Supplyed</sic> with <sic corr="necessaries">necessaryes</sic><lb/>
+for our <sic corr="families">familyes</sic> and for the Carrying on our business. <del>Altho [. .. .]<lb/>
+[. . .] former [. . .]</del> Necessity is an <abbr expan="Armed">Arm'd</abbr> man and the Calls of nature<lb/>
+will recur, in spite of our Teeths I shall wish your ship safe to you &amp; Conclude<lb/>
+at present</p>
+
+
+
+<closer>Sir<lb/><abbr expan="Your">Yor.</abbr> most humble Servt.<seg type="postscript"><lb/><lb/>per Trice</seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1] James Bradley was a London merchant with whom Carter dealt from at least 1723 until his death. As noted in his letter to Bradley of 1727 May 17, Bradley owned the <hi rend="italics">Welcome,</hi> but little information about Bradley has been located.</note>
+
+<note id="n2">[2] The 140 ton <hi rend="italics">Welcome</hi> was owned by London merchant James Bradley to whom Carter would write about her on 1727 May 17.  John Trice (Frice) was her captain, 1723-1729. (<cit><bibl>Survey Report 6801 summarizing Adm 68/195, 154r, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n3">[3] The <hi rend="italics">Forward</hi> was a London ship of 150-200 tons  commanded in 1728-29 by William Loney, and in 1731 by George Buckridge. (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194 and Survey Report 6801 summarizing Adm 68/195, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit> )</note>
+
+<note id="n4">[4] Isham Randolph was captain of the London ship  <hi rend="italics">Williamsburgh</hi> in 1725-26, and Charles Rogers commanded her in 1727-28. (<cit><bibl>Admiralty 68/194, ff. 39v, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n5">[5] Parliament had passed an act forbidding the importation of stemmed tobacco in 1722. John Randolph was sent to England in 1729 as agent for Virginia to try to have the act overturned; his mission would be successful.<corr resp="editor"></corr> (<cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> [Newport News, VA: Mariners' Museum, 1953.] p. 116.</bibl></cit>)</note>
+
+<note id="n6">[6] the Rappahannock</note>
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

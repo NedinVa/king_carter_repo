@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C28k20a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Major John Fitzhugh, November 20, 1728</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 7 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C28k20a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2004</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Major John Fitzhugh, November 20, 1728</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1728 August 8-1730 May 15,  Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1728-11-20</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C28k20aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1728-11-20"></date>
+<idno rend="suppress">C28k20a.xml</idno>
+<title>Letter from Robert Carter to Major John Fitzhugh, November 20, 1728</title>
+</bibl>
+</head>
+<p>Robert Carter as commander of the militia in the Northern Neck writes to Major John Fitzhugh of Stafford County, November 20, 1728, concerning militia appointments in that county, and directing Fitzhugh to consult Colonel George Mason about them.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to Major <note target="n1">John Fitzhugh,</note> November 20, 1728</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Corotoman, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1728-11-20">Novr. the 20th. 1728</date><lb/>
+Majr. John Fitzhugh<lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+<p><note target="n2">Colonel Mason</note> hath had his commission from the <note n="WG"><abbr expan="Governor">Govr.</abbr></note> <lb/>so hath your <sic corr="cousin">couzen</sic> and your Self I brought home with me blank <lb/>Commissions for all the rest of the Officers of the Militia in your county but <lb/>I do not care to <sic corr="fill">full</sic> them up without Colonel Mason and <abbr expan="your">yor.</abbr> <lb/>Advice and Assistance I now send you a Copy of the last I had from <lb/>you which I reckon now wants alterations and regulations&mdash; <lb/>whether any of your Captains are Dead I dont know Perhaps there <lb/>are Some that will refuse I desire you will consult Colonel Mason <lb/>as soon as you can and let me have a full list of the Captains <lb/><corr resp="editor">[t]</corr>hat will Serve and you approve of I would have this as soon as <lb/><corr resp="editor">[y]</corr>ou can have a meeting with Colonel Mason <sic corr="Although">Altho</sic> this winter <lb/><corr resp="editor">[S]</corr>eason <sic corr="we">wee</sic> have no reason <sic corr="we">wee</sic> <add resp="editor"> [<hi rend="italics">sic</hi>]</add> have no reason to be in great <lb/><sic corr="haste">hast</sic> As for the under Officers I think it will be most proper to let <lb/>the respective <abbr expan="Captains">Capts.</abbr> please themselves I am </p>
+
+<closer><seg type="postscript">Sir<lb/>Yor. most humble Servt:&mdash;</seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. </note>
+
+<note>The county and colony have been added for clarity to the  heading on the draft.</note>
+
+<note id="n1">[1] John Fitzhugh (d. 1733) of Stafford County, a younger son of William Fitzhugh of "Bedford." He was a burgess from Stafford in 1727. (<cit><bibl>"The Fitzhugh Family." <title>Virginia Magazine of History and Biography.</title> 7[1899-1900]: 317-19.</bibl></cit>)</note>
+
+<note id="n2">[2] George Mason III (c. 1690-1735), justice, sheriff, burgess, and county lieutenant of Stafford County, father of the constitutional theorist. (<cit><bibl n="B24">Copeland and MacMaster, <title>The Five George Masons.</title> pp. 50-86</bibl></cit>; and <cit><bibl>George Harrison Sanford King, <title>The Register of Overwharton Parish Stafford County Virginia 1723-1758 And Sundry Historical and Genealogical Notes</title>. [Fredericksburg, VA: privately printed, 1961.]</bibl></cit>)</note>
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

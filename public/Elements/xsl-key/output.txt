@@ -1,0 +1,22 @@
+<html>
+<body>
+<p><h3>Example 1</h3>
+<b>Look for: </b>The first name of the author with an id of 1.<br><b>XPath Expression: </b>key('book-author', '1')/first-name<br><b>Result: </b>Kim</p>
+<p><h3>Example 2</h3>
+<b>Look for: </b>The title of the first book found with an author's first name of Eva.<br><b>XPath Expression: </b>//book[key('book-author', @author-id)/first-name = 'Eva']/title<br><b>Result: </b>Midnight Rain</p>
+<p><h3>Example 3</h3>
+<b>Look for: </b>The title of the first book written by an author with an id of 2. <br><b>XPath Expression: </b>key('author-book', '2')/title<br><b>Result: </b>Midnight Rain</p>
+<p><h3>Example 4</h3>
+<b>Look for: </b>The first name of the author of the book Midnight Rain. <br><b>XPath Expression: </b>//author[key('author-book', id)/title = 'Midnight Rain']/first-name<br><b>Result: </b>Eva</p>
+<p><h3>Example 5</h3>
+<b>Display a list of books, grouped by author</b>
+<p>Kim Ralls<br>
+								Wrote: Maeve Ascendant<br>
+</p>
+<p>Eva Corets<br>
+								Wrote: Midnight Rain<br>
+								Wrote: Oberon's Legacy<br>
+</p>
+</p>
+</body>
+</html>

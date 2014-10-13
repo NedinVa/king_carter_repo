@@ -1,0 +1,219 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C20h25a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to John Holloway
+and John Clayton, August 25, 1720</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia
+Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 7 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">filename</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL:
+http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to John Holloway and John
+Clayton, August 25, 1720</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date>unpublished</date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter
+Book, 1720 July-1721 July, BR 227, Huntington Library, Art
+Collections, and Botanical Gardens, San Marino, California.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic
+Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text
+Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject
+Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1720-08-25</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term
+type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C20h25aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1720-08-25"></date>
+<idno rend="suppress">C20h25a.xml</idno>
+<title>Letter from Robert Carter to John Holloway and John Clayton,
+August 25, 1720</title>
+</bibl>
+</head>
+<p>Robert Carter writes to alert attornies John Holloway and John
+Clayton, August 25, 1720, that a lawsuit between Alexander Swan and 
+his wife, Mary (Landon) Jones Swan (Carter's sister-in-law) is being
+appealed to the General Court apparently from the Lancaster County
+court, and that they are to defend the decision of the county court,
+even though "In my most Impartial thoughts It appears he hath much
+the better 
+End of the Staff." He notes that "Mr. Randolph &amp; Mr. Beverly
+will be Yor. Antagonists &amp; will be Spurr'd I Expect to drive on
+this Cause wth. the utmost Vigour."  He sends a list of the documents
+in the case and offers to help them obtain copies of any they may
+need.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="JH">John Holloway
+</note>and <note n="JC3">John Clayton,</note> August 25, 1720</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Corotoman, <corr resp="editor">[Lancaster County,
+Virginia]</corr> </name><lb/>
+<date value="1720-08-25">Augst. 25th. 1720</date><lb/>
+Major <abbr expan="John ">Jno. </abbr> Holloway <lb/>&amp; <abbr
+expan="John ">Jno. </abbr> Clayton <abbr expan="Esquire ">Esqr.
+</abbr><lb/>
+</dateline>
+<salute><abbr expan="Gentlemen">Gent</abbr>
+&mdash;&mdash;</salute>
+
+</opener>
+
+<p>I told You that the difference between <note n="MJS">Mrs.
+<lb/>Swan</note> &amp; her Son would come to the General Court at
+last, accordingly <lb/>from the Judgemt. of This Court Mr. Swan <sic
+corr="has ">hath </sic>
+<sic corr="appealed, ">appeald,</sic> he &amp; his <lb/><abbr
+expan="Sanctified ">Sanctify'd </abbr>
+father have so much money &amp; are so well mettled <lb/>for
+Contention no Ground is to be <sic corr="got ">gott</sic> of them
+but by Inches, In <lb/>my
+most Impartial thoughts It appears he hath much the better <lb/>End
+of the Staff &amp; believe It will be the opinion of all Indiffernt
+<lb/>Judges that Shall hear the Case, <note n="JR">Mr.
+Randolph</note> &amp; <note target="n1">Mr. <sic corr="Beverley
+">Beverly</sic></note> <lb/>will
+be Yor. Antagonists &amp; will be <abbr expan="Spurred
+">Spurr'd</abbr>
+ I Expect to drive on <lb/>this Cause wth. the utmost Vigour, to
+<sic corr="overset ">oversett</sic> our Courts decree <lb/>If It be
+possible, Therefore hope You
+will be as well <sic corr="fortified ">fortifyd</sic> <lb/>at all
+points to Defend It, herewth. I Send You <sic corr="Copies
+">Copys</sic> of all <lb/>the
+proceedings that I believe will be necessary, &amp; Mr. Dare's
+<lb/>Lettr. 
+ <note target="n2">qt.</note> [<hi rend="italics">sic</hi>] a
+Catalogue of the other <abbr
+expan="papers ">paprs. </abbr>
+ If any of them You <lb/>Shall Judge proper I Shall help You to
+<corr resp="editor">[obtain]</corr>  Copys of them hereafter 
+</p>
+
+<closer>I am <lb/>Gent <lb/>Yor. most humble <abbr expan="Servant
+">Sv </abbr>
+
+ </closer>
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+<note><hi rend="italics">Source copy consulted:</hi>  Robert Carter
+Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art
+Collections, and Botanical Gardens, San Marino, California. Printed:
+<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . .
+.</title> p. 44.</bibl></cit>
+</note>
+
+
+<note id="n1">[1] Robert Beverley (c. 1673-1722) held various
+clerk's posts in the colonial government.  He was a burgess from
+Jamestown in the period 1699-1706.  In 1716, the Council named
+Beverley, John Holloway, and John Clayton to "regulate the admission
+of attornies to the bar."  Beverley is best remembered for his
+classic <title>History and Present State of Virginia</title>
+published in London in 1705. (<cit><bibl n="B1">Kukla.
+<title>Speakers and Clerks. . . .</title> pp. 144-
+146.</bibl></cit>)</note>
+
+<note id="n2">[2] The letters that Carter's clerk wrote are clear as
+"qt." What Carter dictated is not at all clear.</note>
+
+
+<lb/><lb/><note><hi rend="italics">This text revised January 27,
+2009.</hi></note>
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

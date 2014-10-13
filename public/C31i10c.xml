@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C31i10c">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Alderman [Micajah] Perry, September 10, 1731</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 11 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C31i10c.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2006</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Alderman [Micajah] Perry, September 10, 1731</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1731-09-10</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C31i10cT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1731-09-10"></date>
+<idno rend="suppress">C31i10c.xml</idno>
+<title>Letter from Robert Carter to Alderman [Micajah] Perry, September 10, 1731</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant Alderman [Micajah] Perry, September 10, 1731, to cover a bill of lading (not present) for tobacco, and commenting that tobacco has been harvested but the corn crop is ordinary. He orders a pair of Cologne millstones for a mill he is building at Rippon Hall, and reminds Perry of his earlier orderes for Madeira and pipe tobacco. He has read Perry's "friendly" letter to Judith (Carter) Page, and hopes that the "Irish stockings" he has ordered for the Page "people" will arrive before winter.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to Alderman <note n="MP2">[Micajah] Perry,</note> September 10, 1731</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1731-09-10">Sepr. 10. 1731</date><lb/>
+Alderman Perry<lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+
+
+<p>I have little to say to you at this time <note target="n1"><abbr expan="Captain">Capt</abbr> Wills</note> <lb/>
+went down York River without calling upon <note n="JCP">Mrs. Page</note> he left <lb/>
+bills of Lading for 15 hogsheads of tobacco which came not to hand <sic corr="until">till</sic> <lb/>
+he was gone Herein send you a bill of Lading for it.</p>
+
+<p>Our crops are now in the house what to say of <lb/>
+them I dont know most parts complain of a <sic corr="drout">drouth</sic> our corn <lb/>
+<sic corr="fields">feilds</sic> are generally Very Ordinary and <abbr expan="it is">'tis</abbr> the opinion of a great <lb/>
+many we shall not Exceed what was made last Year for my <lb/>
+own part I have no Prospect of doing of it the Countrys so very <lb/>
+much Expanded and we have been so Often <abbr expan="deceived">deceiv'd</abbr> in Our guesses <lb/>
+that I shall say no more about it As for our <note target="n2">Mine adventures</note> <lb/>
+we had a little run of hopes rais'd about three or four ton<corr resp="editor">[s]</corr> <lb/>
+of good Ore which We send to <note n="EA">Mr. Athawes</note> the vein is gone out <lb/>
+and Our hopes flag upon it</p>
+
+<p>I am building a mill at <note target="n3">Rippon</note> in York<lb/> 
+River I desire you will send me in in one of <abbr expan="Your">Yr.</abbr> Ships into York <lb/>
+a pr. of <name type="city"><sic corr="Cologne">Cologn</sic></name> Millstones to be landed at Rippon hall I would <lb/>
+have them four foot and An inch Over with a <sic corr="frog">frogg</sic> and a <lb/>
+Spindle proper for a trib mill  as we call them I shall want no <lb/>
+brasses to her I hope you will remember to Order me two pipes <lb/>
+of Wine by <abbr expan="Your">Yr.</abbr> ship that calls at <sic corr="Madeira">Maderas</sic> You have <abbr expan="charged">charg'd</abbr> <lb/>
+me freight at 40<abbr expan=" Shillings">S</abbr>. Per pipe Sterling I should have paid it here <lb/>
+at currentcy And I also<add place="supralinear"> hope</add> you will not forget to send me a box of <lb/>
+<sic corr="Pipe">Piping</sic> <abbr expan="tobacco">tobo</abbr></p>
+
+<p>I have seen <abbr expan="your">yr</abbr> letter to Mrs. Page Via Maryland <lb/>
+in Answer to one she Writ in March&mdash; it is indeed a very friendly one 
+
+<pb n="2"/><lb/><lb/>
+and from it I conceive good hopes that business may run in= <lb/>
+different Smooth&mdash; it is Admirable what became of mine &amp; <lb/>
+my Sons letters which we writ a month before just After the <lb/>
+funeral <note n="MP1"><abbr expan="Colonel">Colo</abbr> Pages</note> people are <sic corr="entirely">intirely</sic> without Irish Stockings <lb/>
+we writ an early letter to you desiring a Supply by the first Oppor <lb/>
+tunity I wish they may be <corr resp="editor">[in]</corr> time enough with us for the poor people <lb/>
+against the inclemency of the Winter I am 
+</p>
+
+<closer>Sir, <lb/>
+<abbr expan="Your">Yr.</abbr> most humble Servant
+<seg type="postscript"><lb/><lb/></seg>Per Belcher</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1] Captain Peter Wills commanded the  <hi rend="italics">Booth</hi> in 1723-1724, and the <hi rend="italics">Amity,</hi> a vessel of 500 tons and 21 men,  in 1727-1729. He is mentioned in Carter's diary for June 1723.  (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194, and Survey Report 6801 summarizing Adm. 68/195,Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n2">[2]  In 1728, Carter, his sons Robert and Charles, and his son-in-law Mann Page,  organized a company to mine for copper on a tract of some 27,000 acres that Louis Morton describes as lying "near the present boundary of Fairfax and Loudoun counties." Fairfax Harrison wrote that the tract was "on the  Horsepen of Broad." Today, there is a Frying Pan Park just east of the border of the Dulles Airport reservation, and there are other things with the name in the area. The company was not successful. (<cit><bibl n="B32">Morton. <title>Robert Robert Carter of Nomini Hall.</title> pp. 18-19;</bibl></cit> and <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> p. 342. </bibl></cit>)</note>
+
+<note id="n3">[3] Rippon Hall had been Edmund Jening's estate in York County which he had acquired in 1687 from John and Unity West when it was named "Poplar Neck." Jenings's bad financial circumstances forced him to mortgage the property to Carter who eventually acquired title to it. (<cit><bibl>"Notes and Queries." <title>William and Mary Quarterly.</title> 2[Apr. 1894]: 270-278.</bibl></cit>)</note>
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

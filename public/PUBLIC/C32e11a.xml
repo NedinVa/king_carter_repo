@@ -1,0 +1,216 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C32e11a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Edward Tucker, May 11, 1732</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 11 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C32e11a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2006</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Edward Tucker, May 11, 1732</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1732-05-11</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C32e11aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1732-05-11"></date>
+<idno rend="suppress">C32e11a.xml</idno>
+<title>Letter from Robert Carter to Edward Tucker, May 11, 1732</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Weymouth merchant Edward Tucker, May 11, 1732, to report a large shipment of tobacco on the merchant's ship the <hi rend="italics">Portland,</hi> and commenting on the large number of ships then in the colony due apparently to rumors of a large tobacco crop which probably are not true. He encloses (not present) the bill of lading and notifies Tucker of bills of exchange. He writes that he did not receive a promised account current,  orders more Dorcester ale, and sadly notes the death of his son Robert on May 6, 1732.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to Edward Tucker, May 11, 1732</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1732-05-11">May 11. 1732</date><lb/>
+Edward Tucker Esqr<lb/>
+</dateline>
+<salute>Sr:</salute>
+
+</opener>
+
+
+
+<p>My last went by the way of <name type="city"><sic corr="Liverpool">Leverpoole</sic></name> and bore date <lb/>
+March 8 <del>1728 and with</del> This accompanys the <name type="ship">Portland</name> <note target="n1"><abbr expan="Captain">Capt.</abbr> Russel</note> on <lb/>
+whom I have loaded 59 hogsheads  of <abbr expan="Stemmed">Stemm'd</abbr> <sic corr="straight">strait</sic> laid <sic corr="Tobacco">Tobaccoe</sic> that <sic corr="has">hath</sic> <lb/>
+<abbr expan="passed">pass'd</abbr> the fiery <sic corr="trial">tryal</sic> of our <note target="n2">new Law</note> 44 of them my own crops and 15 <lb/>
+a Crop of <note n="MP1"><abbr expan="Colonel">Colol.</abbr> Pages</note> I cannot doubt it rising very well to your satisfaction <lb/>
+after so Strict a Scrutiny. Having been so often mistaken in our guesses <lb/>
+at the proper time of selling our <sic corr="tobaccoes">tobaccos</sic> I shall not adventure to give you <lb/>
+any directions when to make sale of these. <abbr expan="Although">Altho'</abbr> Your <abbr expan="Captain">Cap.</abbr> <sic corr="has">hath</sic> met <lb/>
+with great delays in his Loading and when you might have expected <lb/>
+him at home is Still with us You must reckon him a forward Ship <lb/>
+being one of the first excepting a Couple of <sic corr="Liverpool">Leverpoole</sic> Ships and one Londoner <lb/>
+that went out of York that was not <sic corr="fully Loaded">full Loaden</sic> indeed a Small Ship of <lb/>
+<note n="MP2">Mr. Perrys</note> <sic corr="sails">sales</sic> with yours there are very few Ships more near ready most of <lb/>
+our trade have but just <abbr expan="arrived">arriv'd</abbr> abundance of Ships we have we Suppose <lb/>
+from the expectation of a great Crop I am just got home from the General <lb/>
+Court there the great <sic corr="cry">crye</sic> <add place="supralinear">was</add> of a Short crop <abbr expan="through">thro'</abbr> most parts of the Country &amp; <lb/>
+that many of <del>our</del> <add place="supralinear"><abbr expan="your">yr</abbr></add> Ships could never find <abbr expan="tobacco">tobo</abbr> for near their Loads <lb/>
+<abbr expan="tobacco">tobo</abbr> in the Country is considerably Started lately I was forced to buy some <lb/>
+to discharge some country Dues <add place="supralinear">to the Southward</add> and could not get it under 12/6 <lb/>
+<abbr expan="per cent">PrCent.</abbr> after I had <abbr expan="tried">try'd</abbr> all that I could hear of that had any to sell <lb/>
+what fate we that are freighters shall meet with at <abbr expan="your">yr.</abbr> markets must be left <lb/>
+to time to tell us the Event your <abbr expan="Captain">Capn:</abbr>  will give you a more particular account <lb/>
+how matters go here</p>
+
+<p>Herein comes a bill of Lading for my <sic corr="Tobacco">Tobaccoe</sic> the weights <lb/>
+of it and the <note target="n3">tare</note> of the Cask you will have under the Naval <note target="n4"><abbr expan="Officers">Offrs.</abbr> hands</note> <lb/>
+here is also a bill of Exchange of <abbr expan="Captain">Capn</abbr>.  Russels upon <abbr expan="yourself">yrself</abbr> for &pound;21"10 which <lb/>
+I desire Credit for And I am to advise you that on the 6th Inst I drew a bill <lb/>
+of exchange upon you for &pound; one hundred pounds payable to <note n="JR">John Randolph</note> <abbr expan="Esquire">Esqr.</abbr> 
+
+<pb n="2"/><lb/><lb/>
+which I desire may meet with due honour at time</p>
+
+<p>I have lately <abbr expan="received">receiv'd</abbr> your favour from London of the 18. of <lb/>
+January in it you mention the Sending me an Accot <sic corr="Current">Currant</sic> by the <lb/>
+Portland but it must be your mistake I had only the sales of the 10 hogsheads <lb/>
+sent you in 1730. It seems you did not remember you had <sic corr="disposed">disposd</sic> of any <lb/>
+more of my 20 hogsheads than one of the 12 you told me before were un= <lb/>
+sold I reckon then being the winter season might make Selling <lb/>
+difficult <sic corr="and">'</sic>  rest in hopes the Spring market might help you off with <lb/>
+The rest and that this will arrive to a Clear town</p>
+
+<p>Your Dorchester beer <abbr expan="proved">prov'd</abbr> very good but we must act <lb/>
+our Coat according to our cloth I would have another hogshead from you the <lb/>
+next year <abbr expan="although">tho</abbr>' I drink little of it myself for the Entertainment of my friends <lb/>
+but it must be upon this condition if you can be able to bring out my <abbr expan="tobacco">tobo</abbr> <lb/>
+at near &pound; ten pounds <abbr expan="Per">Pr.</abbr> hogshead</p>
+
+<p>I have now sent you the greatest parcel I think of <lb/>
+<abbr expan="stemmed">stemm'd</abbr> tobacco that ever I did in one year I hope I shall have no Cause <lb/>
+to repent it I did it in a great measure to help your <abbr expan="Captain">Cap.</abbr> in his dispa= <lb/>
+tch and I daresay he will own he would have been much more <note target="n5"><sic corr="plunged">plungd</sic></note><lb/>
+than he has been, had he wanted my large assistance</p>
+
+<p>It <sic corr="has">hath</sic> pleasd God in his good providence to lay his <lb/>
+heavy hand upon me in bereaving me of my dear <note n="RC2">Son Robert </note>who took <lb/>
+his leave of this world by a Sudden death on the 6th. instant I am going up <lb/>
+to his habitation to be present at his funeral obsequies I am 
+I</p>
+
+<closer>Sr: <lb/>
+Yr. mournful most humble Servt.
+<seg type="postscript"><lb/><lb/> hear nothing yet of your <lb/>
+Ship to <sic corr="Potomac">Potomack</sic></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1] John Russell commanded the <hi rend="italics">Portland,</hi> a vessel owned by Weymouth merchant Edward Tucker. (<cit><bibl>Survey Report 9729 detailing the Weymouth Port Books, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n2">[2] The tobacco inspection act of  1730 was introduced and steered through the legislature by Lieutenant Governor Sir William Gooch. " The "bill called for the inspection and bonding at public warehouses of all tobacco shipped abroad; for the destruction of all unacceptable tobacco; for standardization of the size of hogsheads . . . ; for maintenance of detailed records to prevent smuggling; and for the circulation of warehouse receipts as legal tender in lieu of tobacco iteself. . . ." Gooch also managed to obtain approval of the act in England. It went into effect 1731 August 1.(<cit><bibl n="B27">Billings. <hi rend="italics">et al. </hi> <title>Colonial Virginia: A History. </title></bibl></cit> pp. 236-39.)</note>
+
+<note id="n3">[3] The tare is the weight of the container which is deducted from the gross weight to obtain the net weight of the product held in the cotainer.</note>
+
+<note id="n4">[4] By the Navigation Act of 1663 colonial governors were empowered to appoint an officer to carry out provisions of the Act, which officer "is there commonly known by the name of the naval officer." "Naval officers in British colonies in North America and the West Indies prepared shipping lists and forwarded them through the colonial governor to the Board of Trade or to the Treasury in England. The Navigation Act of 1696 established the naval officer's responsibility, to obtain detailed information regarding every ship entering and clearing in the colonial ports. The lists contain chronological entries of ships and their cargo. Information includes the date of entry or clearance, the type and name of the ship, its home port or colony, the details of the vessel's construction and registration, the name of the master and owner, the last port entered and the immediate destination, and the tonnage of the vessel "(1. <cit><bibl>"The Navigation Acts."  http://uweb.txstate.edu/teachamhistory/yeari/documents/009navigation.htm. July 26, 2006;</bibl></cit> and 2. <cit><bibl>"British Records Relating to America in Microform Collections" http://mulibraries.missouri.edu/specialcollections/britishrecmf.php?page=3.  July 26, 2006</bibl></cit>). </note>
+
+<note id="n5">[5] Carter probably means that the ship's captain would have been thrown into even more trouble than he had been in getting cargo.</note>
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

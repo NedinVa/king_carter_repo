@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C05h20a">
+
+<teiHeader type="aacr2"> 
+              
+<fileDesc> 
+<titleStmt> 
+     <title type="245">Letter from Robert Carter to William Robinson, 1705 August 20</title> 
+   <title type="gmd">[electronic resource]</title> 
+     <author>Carter, Robert</author> 
+   <respStmt> 
+     <resp>Creation of machine-readable version: </resp> 
+     <name  id="editor">Edmund Berkeley, Jr.</name> 
+     <resp>Conversion to TEI.2-conformant markup</resp> 
+     <name>Edmund Berkeley, Jr., and the University of Virginia Library Electronic Text Center</name> 
+   </respStmt> 
+</titleStmt> 
+ 
+<extent>ca. 5 kilobytes </extent> 
+ 
+<publicationStmt> 
+     <publisher>University of Virginia Library.</publisher> 
+     <pubPlace>Charlottesville, Va.</pubPlace> 
+     <idno type="ETC"></idno> 
+     <availability> 
+     <p>Publicly accessible</p> 
+     <p n="public">URL: http://etext.lib.virginia.edu/modeng.browse.html</p> 
+         </availability> 
+     <date>2001</date> 
+</publicationStmt> 
+ 
+<sourceDesc> 
+     <biblFull> 
+     <titleStmt> 
+     <title>Letter from Robert Carter to William Robinson, 1705 August 20</title> 
+
+     <author>Robert Carter</author> </titleStmt>
+
+    <extent>1 p.</extent> 
+<publicationStmt> 
+     <date>1705-08-20</date> 
+   <idno type="callNo">Source copy consulted: Carter Papers, Swem Library, College of William and Mary, Williamsburg, Virginia. RC drafted this portion of his letter on the inverted blank portion of the verso of the letter to him from St. John Shropshire, 1705 August 16. The draft breaks off as RC ran out of space.</idno> 
+</publicationStmt> 
+</biblFull> 
+</sourceDesc> 
+ 
+</fileDesc> 
+     <encodingDesc> 
+     <projectDesc> 
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p> 
+     </projectDesc> 
+<editorialDecl> 
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in establishing 
+analytical groupings.</p> 
+</editorialDecl> 
+ 
+<classDecl> 
+     <taxonomy id="LCSH"> 
+     <bibl> 
+     <title>Library of Congress Subject Headings</title> 
+     </bibl> 
+     </taxonomy> 
+</classDecl> 
+</encodingDesc> 
+ 
+<profileDesc> 
+     <creation> 
+     <date>1705-08-20</date> 
+     </creation> 
+     <langUsage> 
+     <language id="eng"></language> 
+     </langUsage> 
+     <textClass> 
+     <keywords> 
+     <term>non-fiction</term> 
+   <term>prose</term> 
+     </keywords> 
+     <keywords scheme="LCSH"> 
+     <term type="Field650">LCSH</term> 
+     </keywords> 
+     </textClass> 
+</profileDesc> 
+ 
+</teiHeader> 
+ 
+<text id="C05h20aT"> 
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 pp.</extent>
+<date value="1705-08-20">August 20, 1705</date>
+<idno rend="suppress">work id</idno>
+<title>Letter from Robert Carter to William Robinson, August 20, 1705</title>
+</bibl>
+</head>
+<p>Robert Carter advises William Robinson, ca. August 20, 1705, that the new governor, Edward Nott, has agreed to an election for members of the House of Burgesses, and that Robinson's Richmond County neighbor, John Tarpley, then the sherif, will probably work against Robinson's re-election. Carter adds that it will be necessary that complaints about former Governor Nicholson's administration, especially about the actions of the collector and of the Naval Officer of the Rappahannock, come from several counties, and that he sends two pages about Nicholson that have been copied from a book.</p>
+</div1>                 
+</front>
+
+
+<body> 
+ 
+<div1 type="letter" n="1705-08-20"> 
+ 
+<head>Letter from Robert Carter to <note n="WR1">William Robinson</note>, [ca. August 20, 1705]</head> 
+ 
+<opener> 
+ 
+<dateline> 
+<pb n="1"/>
+<name type="place"><add n="ed">[Rappahannock, Lancaster County, Virginia]</add></name><lb/> 
+ 
+<date value="1705-08-20">[ca. August 20, 1705]</date><lb/> 
+Mr. <abbr expan="William ">Wm. </abbr> Robinson<lb/>
+</dateline> 
+ 
+</opener> 
+ 
+<lb/> 
+ 
+<p>I Waited upon his Excellency <note target="n1">Govr. Nott</note> last week it was <lb/>
+<abbr expan="then ">thn. </abbr> agreed 
+tht an assembly Should be held to meet the 23d of <lb/>
+<abbr expan="October ">Octobr. </abbr> &amp; writs for Choosing of burgesses 
+<sic corr="Issued ">Issud</sic> accordingly <lb/>
+tht you may be early upon your guard I thought it not <lb/>amiss to let you Know 
+this, <del>tht you may be upon your <lb/>
+guard </del>to prevent the Designs of <abbr expan="your ">yr. </abbr> <note target="n2">Sheriff</note> who I am <lb/>
+very apt to think 
+will <add place="supralinear"><sic corr="press">prese</sic> his utmost Endeavors</add> to keep you 
+f<add resp ="editor">[rom]</add> being Elected. <lb/>we Labour under a great Many grievances tht it will 
+<lb/>be necessary to have come from <sic corr="Several ">Severall</sic> Counties<lb/>. Should be glad I Knew how to talk wth. you I 
+Mention <lb/>only one at present, tht the trade of our River is very <lb/>much Injured by the unjust 
+b[ehaviou]r of our <abbr expan="Collector ">Collectr. </abbr> &amp; <lb/><sic corr="Naval ">Navall</sic> officer in their offices, the former <sic corr="has ">hath</sic> <lb/>Exacted Such 
+prodigious fees of a Small Craft tht they <lb/>have in a <abbr expan="Manner ">Mannr. </abbr> left us</p> 
+ 
+<p>I here Send you two leaves, I have had Copied out of a <lb/>printed book, Concerning the <abbr expan="behavior ">behavr. </abbr> of 
+<note n="FN"><abbr expan="Governor">Govr. </abbr> Nicholson</note> <lb/>but there is wanting</p> 
+ 
+
+</div1> 
+</body> 
+ 
+<back> 
+<div1 type="notes"> 
+<head>NOTES</head> 
+
+<note><hi rend="italics">Source copy consulted:</hi> Carter Papers, Swem Library, College of William and Mary, Williamsburg, Virginia. RC wrote the draft of this portion of his letter on the inverted blank portion of the verso of the letter to him from St. John Shropshire, 1705 August 16. The draft is undated, but could not have been written earlier than when Shropshire's letter to him was written. The draft breaks off as RC ran out of space.
+</note><lb/> 
+  
+<note id="n1">[1] Edward Nott (1657-1706) was governor only briefly as he took up his post in Virginia on August 
+15, 1705, and died August 23, 1706.</note> 
+ 
+<note id="n2">[2] John Tarpley was sheriff of Richmond County in 1705.</note> 
+
+<lb/><lb/><note><hi rend="italics">This text revised July 10, 2008.</hi></note>
+ 
+</div1> 
+</back> 
+</text> 
+ 
+</TEI.2> 

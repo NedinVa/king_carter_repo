@@ -1,0 +1,356 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C01d09a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Marriage Contract Between Robert Carter and Elizabeth  (Landon) Willis, April 9, 1701</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 33 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">filename</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu//</p>
+         </availability>
+     <date>2011</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Marriage Contract Between Robert Carter and Elizabeth  (Landon) Willis, April 9, 1701</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>5 p.</extent>
+<publicationStmt>
+     <date>2011</date>
+   <idno type="callNo">Source copy consulted:  Lancaster County Deed Book 2, 1653-1702, pp. 412-416. Lancaster County Court House, Lancaster, Virginia, and Library of Virginia, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1701-04-09</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C01d09aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AD</abbr>
+<extent>5 p.</extent>
+<date value="1701-04-09"></date>
+<idno rend="suppress">C01d09a.xml</idno>
+<title>Marriage Contract Between Robert Carter and Elizabeth (Landon) Willis, April 9, 1701</title>
+</bibl>
+</head>
+<p>In this jointure (marriage contract or prenuptial agreement), Robert Carter promises to his intended wife, the widow Elizabeth (Landon) Willis, the use during her lifetime of certain pieces of Lancaster County land should he predecease her.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Marriage Contract Between Robert Carter and Elizabeth  (Landon) Willis, April 9, 1701</head>
+<opener>
+<dateline>
+<pb n="1 [412]"/>
+<name type="place"></name><lb/>
+
+<lb/>
+</dateline>
+
+</opener>
+
+<p>This Indenture made this IX day of April in the year of our<lb/>
+Lord God MDCCI Between Robert Carter of <abbr expan="Lancaster ">Lancr </abbr> County <abbr expan="Esquire ">Esqr </abbr> of<lb/>
+the one part and <note target="n1">William Armistead</note> of the County of <sic corr="Gloucester ">Gloster</sic><lb/>
+<abbr expan="Gentleman ">Gent </abbr> <note n="WB">William Ball</note> of the County of Lancaster <abbr expan="gentleman ">gent </abbr> &amp;amp; <note n="MJS">Mary<lb/>
+Jones</note> of the County of Middlesex Spinster of the other part Witnesseth<lb/>
+that the <abbr expan="said ">sd </abbr> Robert Carter for &amp; in consideraton of a marriage<lb/>
+already agreed upon &amp; shortly by gods grace to be had &amp; Solemnized<lb/>
+between the <abbr expan="said ">sd </abbr> Robert Carter &amp; <note target="n2">Betty Willis</note> late the wife of <note target="n3">Richard<lb/>
+Willis</note> of Middlesex County, <abbr expan="gentleman ">gent </abbr> <abbr expan="deceased ">decd </abbr> for the love &amp; affection wch he the<lb/>
+<abbr expan="said ">sd </abbr> Robert Carter <sic corr="has ">hath </sic> &amp; beareth to her the <abbr expan="said ">sd </abbr> Betty Willis for a full &amp;<lb/>
+competent <note target="n4">jointure</note> to be made unto her the <abbr expan="said ">sd </abbr> Betty Willis for a full &amp;<lb/>
+her natural life after the decease of the <abbr expan="said ">sd </abbr> Robert Carter in case<lb/>
+she <sic corr="shall ">shal</sic>  survive him &amp; in ful  satisfaction &amp; recompense of the dower<lb/>
+of the <abbr expan="said ">sd </abbr> Betty Willis &amp; for diverse other weighty considerations him the<lb/>
+<abbr expan="said ">sd </abbr> Robert Carter Especially moving <sic corr="Has ">Hath </sic> granted alienated <note target="n5">enfeoffed</note><lb/>
+released &amp; confirmed &amp; by these presents  <sic corr="do ">doth</sic> grant <note target="n6">alienate</note> <note target="n5">infeoffe</note><lb/>
+release &amp; confirm unto the <abbr expan="said ">sd </abbr> William Armistead William Ball<lb/>
+&amp; Mary Jones their heirs and assigns all that tract tenement Neck or<lb/>
+parcel of land situate lying and being in the Parish of Christ Church<lb/>
+
+<pb n="2 [413]"/><lb/><lb/>
+within the <abbr expan="said ">sd </abbr> County of Lancaster being part of the tract of land<lb/>
+whereon the <abbr expan="said ">sd </abbr> Robert Carter liveth commonly called &amp; known by the<lb/>
+name of <note target="n7">Johns neck</note> lying &amp; being upon the Creek that goes up to the<lb/>
+Church of the <abbr expan="said ">sd </abbr> <abbr expan="parish ">psh </abbr> bounded as followeth Beginning at the spring in a<lb/>
+branch or swamp of the <sic corr="Southernmost ">Southermost</sic> side of the <abbr expan="said ">sd </abbr> neck about or near<lb/>
+a quarter of a mile Northerly from the Quarter called the Old house<lb/>
+Quarter running from the <abbr expan="said ">sd </abbr> spring Northerly along the easternmost<lb/>
+side of an old field &amp; into a Creek or Cove into which the gate fence the<lb/>
+<sic corr="easternmost ">eastermost</sic> end thereof now runs &amp; so down along the old Creek or Cove<lb/>
+on the Southern side thereof into the main Church Creek &amp; so down along<lb/>
+the <abbr expan="said ">sd </abbr> Creek the several courses &amp; meanders thereof &amp; then Westerly along<lb/>
+the <sic corr="Northernmost ">Northermost</sic> side of the Creek or Cove called the Old house Creek the<lb/>
+several courses thereof up to the <abbr expan="aforesaid ">aforesd  </abbr> Beginning Spring the <abbr expan="said ">sd </abbr> neck<lb/>
+containing by estimation about sixty acres be it more or less &amp; including<lb/>
+an old <sic corr="field ">feild</sic> wch was a <sic corr="Cornfield ">Comefeild</sic> to the old house gang when John Ashford<lb/>
+was an overseer of that gang &amp; was first taken into <sic corr="Corn ">Corne</sic> when William<lb/>
+Short was overseer there with all &amp; singular the right members &amp; <abbr expan="appurtenances ">appurts </abbr><lb/>
+thereunto belonging &amp; all the woods pastures unto the <abbr expan="said ">sd </abbr> neck or parcel of<lb/>
+land belonging &amp; every part thereof And also all that <note target="n8">messuage</note> tract or<lb/>
+parcel  of land lying near the <sic corr="Easternmost ">Eastermost</sic> branch of Corotoman River in the<lb/>
+County afore<abbr expan="said ">sd </abbr> formerly purchased of <note target="n9">Nicholas Wren</note> by <note n="JC">John Carter</note><abbr expan="Esquire ">Esqr. </abbr> <abbr expan="deceased">decd </abbr><lb/>
+eldest brother to the <abbr expan="said ">sd </abbr> <abbr expan="Robert ">Robt </abbr> Carter &amp; by him the <abbr expan="said ">sd </abbr> John devised &amp; bequeathed<lb/>
+unto him the <abbr expan="said ">sd </abbr> <abbr expan="Robert ">Robt </abbr> Carter by his last wil &amp; Testament being the&mdash;&mdash;&mdash;<lb/>
+plantation whereon <note target="n10">John Plewgher</note> now lives wch <abbr expan="said ">sd </abbr> land was first<lb/>
+taken up by one <note target="n11"><abbr expan="William ">Will. </abbr> <sic corr="Clapham ">Clappam</sic></note> &amp; one Edwards &amp; by the <abbr expan="said ">sd </abbr> Clapparn sold<lb/>
+unto the <abbr expan="said ">sd </abbr> Wren containing by estimation one hundred and twenty acres<lb/>
+be it more or les together wth all houses edifices pastures woods under<lb/>
+_woods <add resp="editor"> [<hi rend="italics">sic </hi>]</add> &amp; other the members &amp; appurtenances unto the <abbr expan="said ">sd </abbr> tract or  parcel  of land<lb/>
+belonging or appertaining &amp; every part &amp;  parcel  thereof to have &amp; to hold<lb/>
+the <abbr expan="said ">sd </abbr> neck tract &amp;  parcel  of land &amp; all &amp; singular the premises before mentioned<lb/>
+or meant or intended to be granted alienated infeoffed released &amp; confirmed<lb/>
+&amp; every part thereof wth the appurtenances thereunto belonging unto the said<lb/>
+
+<pb n="3 [414]"/><lb/><lb/>
+William Armistead William Ball &amp; Mary Jones &amp; their heirs &amp;<lb/>
+assigns to the only uses intents &amp; purposes hereafter in these presents<lb/>
+ limited expressed &amp; declared and to no other use intent or purpose<lb/>
+<abbr expan="whatsoever ">wtsoever </abbr> that is to say to the only use &amp; <note target="n12"><sic corr="behoof ">behoofe</sic></note> of him the <abbr expan="said ">sd </abbr> Robt<lb/>
+Carter &amp; his heirs until the <abbr expan="said ">sd </abbr> marriage <sic corr="shall ">shal</sic>   be had &amp; solemnized<lb/>
+between the <abbr expan="said ">sd </abbr> <abbr expan="Robert ">Robt </abbr> Carter &amp; Betty Willis &amp; after the solemnization<lb/>
+of the <abbr expan="said ">sd </abbr> marriage between them to the use &amp; behoof of the <abbr expan="said ">sd </abbr> <abbr expan="Robert ">Robt </abbr><lb/>
+Carter during his natural life without <abbr expan="impeachment ">impeachmt </abbr> of or for any<lb/>
+manner of waste &amp; after his decease to the use and Behoof of the <abbr expan="said ">sd </abbr><lb/>
+Betty Willis for &amp; during the term of her natural life for her jointure &amp;<lb/>
+in lieu &amp; recompence of her dower &amp; title of dower and after her<lb/>
+the <abbr expan="said ">sd </abbr> Betty Willis decease to the use &amp; behoof of the heirs of the <abbr expan="said ">sd </abbr><lb/>
+<abbr expan="Robert ">Robt </abbr> Carter forever And the <abbr expan="said ">sd </abbr> <abbr expan="Robert ">Robt </abbr> Carter <sic corr="does ">doth</sic> further Covenant &amp;<lb/>
+grant for himself his heirs Executors &amp; Administrators by these presents to and<lb/>
+with the <abbr expan="said ">sd </abbr> William Armistead William Ball &amp; Mary Jones their<lb/>
+Executors &amp; administrators that he the <abbr expan="said ">sd </abbr> <abbr expan="Robert ">Robt </abbr> Carter his heirs Executors administrators &amp; Assigns<lb/>
+<sic corr="shall ">shal</sic>   &amp; wil  at all times hereafter &amp; from time to time sufficiently save<lb/>
+harmless &amp; <sic corr="indemnified ">indemnifyed</sic> the <abbr expan="said ">sd </abbr> tracts &amp; parcels  of land &amp; other the.<lb/>
+premises &amp; every part thereof of &amp; from all fonner other bargains false<lb/>
+gifts &amp; grants &amp; <add place="supralinear">of &amp;</add> from all other charges &amp; incunibrances <sic corr="whatsoever ">whtsoever</sic> had<lb/>
+made or done by the <abbr expan="said ">sd </abbr> <abbr expan="Robert ">Robt </abbr> Carter or by any other <abbr expan="person ">pson </abbr> or <abbr expan="persons ">psons </abbr> <abbr expan="whatsoever ">wtsoever </abbr><lb/>
+by his consent or <abbr expan="procurement  ">procuremt. </abbr> and the <abbr expan="said ">sd </abbr> <abbr expan="Robert ">Robt </abbr> Carter for himself his heirs<lb/>
+Executors &amp; Administrators  <sic corr="does ">doth</sic> covenant promise &amp; grant to &amp; with the <abbr expan="said ">sd </abbr> William<lb/>
+Armistead William Ball &amp; Mary Jones their heirs &amp; Assigns by these<lb/>
+presents that he the <abbr expan="said ">sd </abbr> <abbr expan="Robert ">Robt </abbr> Carter <sic corr="shall ">shal</sic>   &amp; <sic corr="will ">wil</sic>  from time to time &amp; at all<lb/>
+times hereafter during the space of five years next ensuing the date<lb/>
+hereof further do make acknowledge and execute all &amp; every such other<lb/>
+reasonable act &amp; acts thing &amp; things devise &amp; devises assurance and<lb/>
+assurances in the Law <abbr expan="whatsoever ">wtsoever </abbr> as by the <abbr expan="said ">sd </abbr> William Armistead William Ball<lb/>
+&amp; Mary Jones or either of them or their or any of their <sic corr="Counsel ">Council</sic> learned<lb/>
+in the Law <sic corr="shall ">shal</sic>   be reasonably desired or advised and at the cost and<lb/>
+charges of the <abbr expan="said ">sd </abbr> <abbr expan="Robert ">Robt </abbr> Carter his heirs Executors or administrators for the better and<lb/>
+
+<pb n="4 [415]"/><lb/><lb/>
+and more <abbr expan="perfect ">pfect </abbr> assuring &amp; making sure of all &amp; singular the <abbr expan="promises ">pmises </abbr> to the<lb/>
+<abbr expan="said ">sd </abbr> Betty Willis for term of her life only in form <abbr expan="aforesaid ">aforesd</abbr> And further that<lb/>
+the <abbr expan="said ">sd </abbr> Betty Willis from &amp; after the decease of the <abbr expan="said ">sd </abbr> <abbr expan="Robert ">Robt </abbr> Carter during<lb/>
+her natural life <sic corr="shall ">shal</sic>   &amp; may lease hold &amp; quietly eqjoy the <abbr expan="said ">sd </abbr> Lands <abbr expan="tenements">tenemts </abbr><lb/>
+&amp; all other the premises without any Lawful <abbr expan="Court ">Ct </abbr> suits trouble eviction<lb/>
+interruption or disturbance of the heirs &amp; Assigns of the <abbr expan="said ">sd </abbr> <abbr expan="Robert ">Robt </abbr> Carter<lb/>
+or of any other person or persons <abbr expan="whatsoever ">wtsoever </abbr> lawfully obtaining by from or<lb/>
+under him the <abbr expan="said ">sd </abbr> <abbr expan="Robert ">Robt </abbr> Carter his heirs or assigns And further the <abbr expan="said ">sd </abbr><lb/>
+<abbr expan="Robert ">Robt </abbr> Carter <sic corr="does ">doth</sic> for <sic corr="himself ">himselfe</sic> his heirs Executors and administrators by these presents<lb/>
+covenant promise &amp; grant to &amp; with the <abbr expan="said ">sd </abbr> William Armistead William Ball<lb/>
+&amp; Mary Jones their heirs &amp; Assigns that if at any time after the date of these<lb/>
+presents the <add place="supralinear"><abbr expan="said ">sd </abbr></add> <abbr expan="Robert ">Robt </abbr> Carter or the <abbr expan="said ">sd </abbr> Betty Willis during their or either of their<lb/>
+natural lives <sic corr="shall ">shal</sic>   be lawfully evicted or put out of or from the <abbr expan="said ">sd </abbr> premises or<lb/>
+any part or parcel thereof that then &amp; from thenceforth the <abbr expan="said ">sd </abbr> <abbr expan="Robert ">Robt </abbr> Carter<lb/>
+his heirs &amp; assigns <sic corr="shall ">shal</sic>   stand &amp; be seized of &amp; in such &amp; so much of that<lb/>
+<note target="n8">messuage</note> <abbr expan="tenement ">tenemt. </abbr> or parcel of land lying and being in the par<add resp="editor">[i]</add>sh &amp; County <abbr expan="aforesaid">aforesd </abbr> <lb/>
+upon or towards the head of the Eastern branch of Corotoman river which<lb/>
+now <note target="n13">Doctor Innis</note> lives upon containing by estimation two hundred acres<lb/>
+be it more or les the <abbr expan="said ">sd </abbr> tract or parcel of land formerly belonging to Mrs<lb/>
+<note target="n14">Martha Norris</note> <abbr expan="deceased ">decd </abbr> and by her sold to the <abbr expan="said ">sd </abbr> <abbr expan="Robert ">Robt </abbr> Carter together wth the<lb/>
+houses orchards gardens woods underwoods &amp; other the appurtenances to the<lb/>
+<abbr expan="said ">sd </abbr> <note target="n8">messuage</note> &amp; land last mentioned belonging as <sic corr="shall ">shal</sic>   amount to the<lb/>
+value of such &amp; so much of the <abbr expan="said ">sd </abbr> messuage &amp; other the prenises first<lb/>
+above mentioned as <sic corr="shall ">shal</sic>   be so evicted or taken away as <abbr expan="aforesaid ">aforesd </abbr>  to the<lb/>
+use of the <abbr expan="said ">sd </abbr> <abbr expan="Robert ">Robt </abbr> Carter for term of his natural life &amp; after to the use of<lb/>
+the <abbr expan="said ">sd </abbr> Betty Willis for term of her natural life &amp; after her decease to the<lb/>
+use of the right heirs of the <abbr expan="said ">sd </abbr> <abbr expan="Robert ">Robt </abbr> Carter forever And lastly the <abbr expan="said ">sd </abbr> <abbr expan="Robert ">Robt </abbr><lb/>
+Carter for himself his heirs Executors  &amp; administrators <sic corr="does ">doth</sic> covenant promise &amp; agree to &amp;<lb/>
+with the <abbr expan="said ">sd </abbr> William Armistead William Ball &amp; Mary Jones their heirs &amp;<lb/>
+assigns by these presents that at the time of such eviction or taking away<lb/>
+of the <abbr expan="said ">sd </abbr> messuage &amp; other the premises first above named or any <sic corr="part ">parte</sic> thereof<lb/>
+
+<pb n="5 [416]"/><lb/><lb/>
+&amp; after the <abbr expan="said ">sd </abbr> <note target="n8">messuage</note> &amp; other the prenises last mentioned during<lb/>
+the natural life of the <abbr expan="said ">sd </abbr> <abbr expan="Robert ">Robt </abbr> Carter &amp; after his decease during the<lb/>
+natural life of the <abbr expan="said ">sd </abbr> Betty Willis <sic corr="shall ">shal</sic>   remain &amp; be clearly discharged<lb/>
+sufficiently <add place="supralinear">saved</add> kept harmless &amp; <sic corr="indemnified ">indemnifyed</sic> of &amp; from all &amp; all manner<lb/>
+of estates interests charges titles &amp; <sic corr="encumbrances ">incumbrances</sic> <abbr expan="whatsoever ">wtsoever </abbr> had made<lb/>
+done or willingly suffered or hereafter to be had made done or willingly<lb/>
+suffered bv the <abbr expan="said ">sd </abbr> <abbr expan="Robert ">Robt </abbr> Carter his heirs or assigns or by any person or persons<lb/>
+having or lawfully obtaining or wch hereafter <sic corr="shall ">shal</sic>   or may have or<lb/>
+claim any estate right title or interest by from or under the <abbr expan="said ">sd </abbr> <abbr expan="Robert ">Robt </abbr><lb/>
+Carter his heirs or assigns In <sic corr="Witness ">Witnes</sic> whereof the parties to these present<lb/>
+Indentures have interchangeably set to their hands and <sic corr="seals ">seales</sic> the day<lb/>
+&amp; year first above written</p>
+<lb/>
+
+<p>Signed sealed &amp; delivered in the&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="Robert ">Robt  </abbr> Carter (seal)<lb/>
+presence of<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<note n="AS"><abbr expan="Alexander ">Alexr. </abbr> Swan</note>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sic corr="Recorded in ">Recognit in Cur Cum</sic> <abbr expan="Lancaster ">Lancr. </abbr> <sic corr="ninth ">nono</sic><lb/>
+	
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<note target="n15">John Bave</note>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sic corr="day ">die</sic> April 1701 per <sic corr="the same ">Idem</sic> Robert Carter<lb/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Win. Brownsford&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sic corr="and ">et</sic> <sic corr="Recorded ">Recordat</sic> 14th <sic corr="day following ">die sequenti</sic> <lb/>
+	<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;per <note target="n16"><abbr expan="Joseph ">Jos: </abbr> Tayloe</note> <abbr expan="Clerk ">Cl </abbr> <abbr expan="Court">Cur </abbr></p>
+
+
+<p>Know all men by these presents that I Mary Jones of the County of<lb/>
+Middlesex spinster do nominate constitute &amp; appoint Alexander Swan<lb/>
+of the County of <abbr expan="Lancaster ">Lancastr. </abbr> my true &amp; lawful attorney for me &amp; to my use<lb/>
+&amp; behoof to <abbr expan="receive ">rec. </abbr> an <abbr expan="acknowledgement ">acknowledgemt. </abbr> of a deed from The <abbr expan="Honorqble ">Honble </abbr> <abbr expan="Colonel ">Colo </abbr> <abbr expan="Robert ">Robt </abbr><lb/>
+Carter of <abbr expan="Lancaster ">Lancr </abbr> <abbr expan="Esquire ">Esqr </abbr> of Conveyance to Mr William Armistead <abbr expan="Captain ">Capt </abbr> William<lb/>
+Ball &amp; me the <abbr expan="said ">sd </abbr> Mary Jones bearing date wth these presents in the <abbr expan="said ">sd </abbr><lb/>
+County Court of <abbr expan="Lancaster ">Lancrr: </abbr> rattifying &amp; confirming all that my said<lb/>
+attorney <sic corr="shall ">shal</sic>   lawfully do in the promises as if I <sic corr="myself ">myselfe</sic> were<lb/>
+personally present as witness my hand &amp; <sic corr="Seal ">Seale</sic> this 9th day of April<lb/>
+<sic corr="year ">Anno</sic> 1701<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mary Jone (seal)</p>
+
+<p>Signed Sealed &amp; Delivered in the<lb/>
+presence of us&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Probated first <unclear>[ . . . ]</unclear> <sic corr="Power of ">Lettr. de</sic> <abbr expan="Attorney ">Attor </abbr>.&mdash;<lb/>
+
+&nbsp;&nbsp;&nbsp;William Brownsford&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="Court ">Cur </abbr> <abbr expan="County ">Cour </abbr> <abbr expan="Lancaster ">Lancrr: </abbr> <sic corr="ninth day ">nono die</sic> April <sic corr="Year">Anno</sic><lb/>
+
+&nbsp;&nbsp;&nbsp;John Base&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sic corr="of Our Lord ">Domini</sic> 1701 <sic corr="by ">per</sic> <abbr expan="<sic corr="the oath of">Sacramentum</sic>">Sacram </abbr> <sic corr="John ">Johannes </sic>Bave <sic corr="and">et</sic><lb/>
+
+&nbsp;&nbsp;&nbsp;William Ball Jr &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sic corr="William ">Guliel.[m]us</sic> Ball <abbr expan="junior ">junr </abbr> in <abbr expan="Court ">Cur </abbr> <sic corr="attested to by ">Test</sic> <abbr expan="Joseph ">Jos </abbr> Tayloe <abbr expan="Clerk ">Cl </abbr> <abbr expan="Court">Cur </abbr><lb/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1701&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sic corr="and recorded ">et recordr</sic> <sic corr="the year of our Lord ">Ao. domine</sic> <add resp="editor">[1701] </add>  <sic corr=" on the day following ">die sequenti</sic> <sic corr="by the same ">per Idem</sic> <abbr expan="Joseph ">Jos. </abbr> Tayloe<lb/>
+
+
+</p>
+
+
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Lancaster County Deed Book 2, 1653-1702, pp. 412-416. Lancaster County Court House, Lancaster, Virginia, and Library of Virginia, Richmond.</note>
+
+<note>The clerk who copied this document into the court order book used many abbreviations which have been expanded for the modern language version of this text. He also used a convention of the time of abbreviating a word and placing a horizontal line over it, or curling back the tail of the last stroke over it, to indicate that the word was to be expanded. Words with these conventions have been expanded silently in these transcript versions as there is no way of depicting such conventions in this software. The clerk also used the "fancy p" at the beginning of a word to stand for "per," "par," or "pro" as appropriate, and these uses have also been silently expanded.</note>
+
+<note>The bracketed numbers following the page numbers of the transcripts are those of the pages from the original Lancaster County deed book where this indenture was recorded.</note>
+
+<note>There has recently (2011) been  published a large format, twenty-page pamphlet about the jointure agreement: Lloyd T. Smith, Jr., <hi rend="italics">ed. </hi><title>A Ring for Her Finger: An 18th Century Prenuptial Agreement. The Jointure Agreement for Betty Landon At the Time of Her Marriage to Robert Carter.</title> [Irvington, VA:  Foundation for Historic Christ Church, 2011. Hereinafter this work will be referred to as Smith.]</note>
+
+<note id="n1">[1] William Armistead (1671-1711) was born in Gloucester County and lived at "Hesse." His older sister, Judith, was Robert Carter's first wife. He married Anna, Daughter of Hancock Lee, Lee about 1693. (<cit><bibl><xref to="www.surnames.com/jamesriver/descendants/william_armistead/default.htm">"William Armistead"</xref> at Surnames.com, 7/26/2011.</bibl></cit>)</note>
+
+<note id="n2">[2] Elizabeth (Landon) Willis (1684-1719) was Carter's second wife by whom he had ten children. She had their last child, George, in 1718. See Smith  pp. 1-4 for a discussion of the background of the Landon family in England and Virginia, and of Betty's first marriage to Richard Willis.</note>
+
+<note id="n3">[3] (1656-1701)  Darrett and Anita Rutman write of Richard Willis's position in the  power structure (justice, militia officer) of Middlesex County, and his growing wealth. "Just before his death in 1700 . . . [he] abandoned his old house of four rooms for one of six that also had a separate kitchen and dairy." As Willis married his third wife, <note n="EWC">Betty Landon</note> (1684-1719) shortly before, he probably anticipated bringing his bride to a fine new establishment. (<cit><bibl>"Tithables of Lancaster County, 1654. <title>Virginia Magazine of History and Biography.</title> 5[ 1897-98]:249-51</bibl></cit>;  <xref to="http://freepages.genealogy.rootsweb.ancestry.com/~hwbradley/aqwg3178.htm#83085">"Selected Families and Individuals";</xref> 7/26/2011, and <cit><bibl n="B39">Rutman and Rutman, <title>A Place in Time: Middlesex. . . . </title> pp. 190, 208-9.</bibl></cit>)</note>
+
+<note id="n4">[4]   Jennifer Drobac has written, "Simply defined, a jointure 'was a property provision for [the] wife, made prior to marriage in lieu of dower." Henry Black, author of the standard law dictionary, defined dower as "the provision which the law makes for a widow out of the lands or tenements of her husband for her support."' In a review of Susan Staves's <title>Married Women's Separate Property in England 1660-1833</title>, Margaret A. Doody wrote: "In the older system that prevailed before the mid-seventeenth century, women had 'dower rights.' At common law, a widow was entitled to a life estate amounting to one-third of all the real property of which her husband had been the legal owner. Staves shows how such a provision came to be felt an unreasonable clog on an estate . . . The result was the invention of the 'jointure,' a settlement upon the wife if her husband predeceased her, as agreed upon in advance by prenuptial contract." (Jennifer Drobac. "The 'Perfect' Jointure: Its Formulation After the Statute of Uses."  19 <xref to="http://heinonline.org/HOL/Page?handle=hein.journals/camblr19&div=6&g_sent=1&collection=journals"><title>Cambrian Law Review.</title></xref> 26 [1988], p. 26; and <xref to="http://www.jstor.org/stable/2739234"><title>Eighteenth-Century Studies.</title></xref> 28[ No. 1, Autumn, 1994] p. 156.)</note>
+
+<note id="n5">[5]  To enfeoff under "property law [is] to invest (a person) with possession of a freehold estate in land." (<xref to="http://www.thefreedictionary.com/enfeoffed"><title>Collins English Dictionary</title></xref>  online through The Free Dictionary, 7/26/2011.)</note>
+
+<note id="n6">[6] To "alienate" property is "to transfer title." (<xref to="http://blacks.worldfreemansociety.org/2/A/a0057.jpg">Black's Law Dictionary</xref>, 2nd ed., online, 7/26/2011</note>
+
+<note id="n7">[7] According to Mary R. Miller, John's Neck is a neck of land in Lancaster Co. between the Corotoman River and Carter Creek, stretching southward to the Rappahannock River." (<cit><bibl n="B29">Miller. <title>Place-Names . . . . </title>p. 76. For maps of the location of the specific tracts of land referred to in the agreement, see Smith, page 17.</bibl></cit>)</note>
+
+<note id="n8">[8] Messuage "is synonymous with dwelling-house; and a grant of a messuage with the appurtenances, will not only pass a house, but all of a messuage with the appurtenances, will not only pass a house, but all the buildings attached or belonging to it, as also its curtilage, garden and the buildings attached or belonging to it, as also its curtilage, garden and orchard, together with the close on which the house is built." (<xref to="http://www.law-dictionary.org/MESSUAGE%2C+property.asp?q=MESSUAGE%2C+property">"Law Dictionary."</xref>)
+</note>
+
+<note id="n9">[9] The will of a Nicholas Wren was recorded in Lancaster County Court on April 12, 1701. He had a son of the same name as a Nicholas Wren Sr. was listed as one of the executors of Henry Bell (Nicholas Sr.'s father-in-law) recorded July 10, 1695. The name does not appear in the 1715 list of titheables of Lancaster County. (<cit><bibl>Ida J. Lee. <title>Abstracts Lancaster County,Virginia,  Wills. 1653-1800.</title> [Greenville, SC: Southern Historical Press, Inc., 2004.] Reprint of the original 1959 edition. pp. 13, 53, 235</bibl></cit>; and <cit><bibl>"Tithables in Lancaster Co., 1716." <title>William and Mary Quarterly</title> [1 ser., 21July 1912]: 106-11.</bibl></cit>)</note>
+
+<note id="n10">[10] The recording clerk had difficulty with this man's last name which may have been "Plover." 
+whatever the name, little information has been found. A John Plover was a witness to a <xref to="http://lawsondna.org/Media/virginiacounties/Old_Rappahannock.html">1673 power of attorney</xref> in Old Rappahannock County, and there was a ship captain of this name who appears in Virginia records.</note>
+
+<note id="n11">[11] Several recorded instruments for the name William Clapham (Clappam) are included in Lancaster County court records. The most likely possibility seems to be that of the Clapham whose inventory was recorded October 1, 1656, as Thomas Carter, Nicholas Wren, and John Carter were listed as appraisers. (<cit><bibl>Ida J. Lee. <title>Abstracts Lancaster County,Virginia,  Wills. 1653-1800.</title> [Greenville, SC: Southern Historical Press, Inc., 2004]. Reprint of the original 1959 edition.) pp. 53.</bibl></cit>)</note>
+
+<note id="n12">[12] According to the <title>Oxford English Dictionary Online,</title> "behoof" means "use, benefit, advantage."</note>
+
+<note id="n13">[13] A "Doctor James Innis" was one of the executors of Henry Bell's will probated in Lancaster County Court July 10, 1695. and the name appears in other records of this period. James Innis was listed with four tithables  in Christ Church Parish in 1700.  He apparently moved to Richmond County as his will was recorded there in 1710. (<cit><bibl>Ida J. Lee. <title>Abstracts Lancaster County,Virginia,  Wills. 1653-1800.</title> (Greenville, SC: Southern Historical Press, Inc., 2004. Reprint of the original 1959 edition.) pp. 13, 36, 110;  "Lancaster County, Virginia, <xref to="http://genealogenie.net/lancaster/tiths1700.shtml">Tithables November 1700</xref>"; </bibl></cit> and <cit><bibl>Robert Kirk Headley.<title> <xref to="http://books.google.com/books?id=-LNlQSQ3nOwC&pg=PA20&lpg=PA20&dq=%22James+Innis%22+Richmond+County&source=bl&ots=eh47Ph6EzZ&sig=6yFznoGiUhBoUdbNyFX48S3_Z3g&hl=en&ei=-o1BTuTkKMPdgQfl9vy9CQ&sa=X&oi=book_result&ct=result&resnum=2&ved=0CB8Q6AEwAQ#v=onepage&q=%22James%20Innis%22%20Richmond%20County&f=false">Wills of Richmond County, Virginia,</xref> 1699-1800</title>  [Baltimore: Genealogical Publishing Co., 1983 and many reprints], p. 31.</bibl></cit>)</note>
+
+<note id="n14">[14]  The land mentioned in the agreement had been granted June 1, 1666, to David Miles, who bequeathed it to his wife, Martha, and daughter, Elizabeth. Elizabeth married Thomas Husbands and survived him. Her mother Martha married secondly Thomas Norris and outlived him. Robert Carter purchased November 30, 1695, 250 acres from Martha Norris, and Tobias Purcell had earlier bought 150 acres on February 5, 1689, land that Robert Carter acquired from Purcell in 1696. (<cit><bibl>Gertrude Entz Gray.<title><xref to="http://books.google.com/books?id=Xyv91vPq_voC&lpg=PA87&ots=vm5DyFjvmJ&dq=%22David%20Miles%22%20Lancaster%20Virginia&pg=PA87#v=onepage&q&f=false">Virginia Northern Neck Land Grants,</xref> Volume 1, 1694--1742.</title> [Baltimore: Genealogical Publishing Co., 1987] p. 87. Google Books, 8/11/2011;</cit></bibl> and <cit><bibl n="B40">Jones, <title>John Carter II. . . .</title></bibl></cit> p. 13 for Martha's second marriage.)</note>
+
+<note id="n15">[15] No information has been found about John Bave and William Brownsford. Perhaps they were indentured servants to Robert Carter as clerks as he later would use clerks to witness instruments they had copied out for him.</note>
+
+<note id="n16">[16] Joseph Tayloe (d. 1716) was the clerk of the Lancaster County Court from 1696  until his death in 1716. He is usually referred to as "Gentleman" in court records.  (<cit><bibl>Ida J. Lee. <title>Abstracts Lancaster County,Virginia,  Wills. 1653-1800.</title> [Greenville, SC: Southern Historical Press, Inc., 2004.] Reprint of the original 1959 edition.) p. 216;</bibl></cit> and <cit><bibl n="B36">Dobyns <hi rend="italics">et al.</hi> <title>Within the Court House at Lancaster.</title></bibl></cit> p. 15.)</note>
+
+
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

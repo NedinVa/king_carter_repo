@@ -1,0 +1,594 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C27g05b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Power of Attorney from Thomas Lord Fairfax and William Cage to Robert Carter, July 5, 1721</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 41 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C27g05b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2004</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Power of Attorney from Thomas Lord Fairfax and William Cage to Robert Carter, July 5, 1721</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>12 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Personal Papers. Fairfax Family Northern Neck Proprietary Papers (Acc. No. 24062), box 2, folder 59. Library of Virginia, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1721-07-05</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C27g05bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>12 p.</extent>
+<date value="1721-07-05"></date>
+<idno rend="suppress">C27g05b.xml</idno>
+<title>Power of Attorney from Thomas Lord Fairfax and William Cage to Robert Carter, July 5, 1721</title>
+</bibl>
+</head>
+<p>This "Coppy" of a power of attorney from Thomas Lord Fairfax and William Cage to Robert Carter, July 5, 1721, gives Carter the authority to act for Fairfax and Cage to administer the Northern Neck proprietary with virtually unlimited powers including the right to grant lands in their names, and particularly, to collect debts due them from Edmund Jenings. The lengthy document states the chain of title of ownership of the proprietary to Fairfax and Cage (as executor of Lady Catherine Fairfax), and thus their right to grant power of attorney. It refcers to an indenture dated June 27, 1720, in which they had "lett" the propriety to Carter for a term of six years "for the Consideration therein mentioned." </p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Power of Attorney from <note n="TF">Thomas Lord Fairfax</note> and <note n="WC">William Cage</note> to Robert Carter, July 5, 1721</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><corr resp="editor">[County Kent, England]</corr>  </name><lb/>
+<date value="1721-07-05">[. . . fifth day of July . . . 1721]</date><lb/>
+
+</dateline>
+
+
+</opener>
+
+
+
+<p><hi rend="bold">To all Christian People</hi> to <sic corr="whom ">whome</sic> -- <lb/>
+these Presents shall come We the Right <abbr expan="Honorable ">Hon:ble</abbr> Thomas <lb/>
+Lord Fairfax of Leeds Castle in the <name type="place">County of Kent</name> and <lb/>
+Baron of Cameron in <name type="place">Scotland</name> And <note n="WC">William Cage</note> of <lb/>
+<name type="place">Milgate</name> in the Parish of Bearsted in the said <name type="place">County of <lb/>
+Kent</name> Esquire Executor of the last Will and Testament of the <lb/>
+late Right <abbr expan="Honorable">Hon:ble</abbr> <note target="n1">Catherine Lady Fairfax</note> Deceased <lb/>
+Baroness Dowager of Cameron in <name type="place">Scotland</name> the only-- <lb/>
+Daughter and Heir of Thomas Late Lord and Margaret <lb/>
+Late Lady Culpeper Deceased <hi rend="bold">Send Greeting</hi> <lb/>
+in our Lord God Everlasting: <hi rend="bold">Whereas</hi> the late <lb/>
+King Charles the second by his Letters <sic corr="Patents">Pattents</sic> under the <lb/>
+the great Seal of England bearing Date <sic corr="at ">att</sic> <name type="place">Westminster-- </name><lb/>
+the Eighth day of May in the One and Twentieth Year <lb/>
+of his Reign for the Consideration therein Expressed <lb/>
+Did Give Grant and <sic corr="Confirm ">Confirme</sic> unto <name type="person">Henry Earl of St: <lb/>
+Albans,</name> <name type="person">John Lord Berkeley</name> <abbr expan="Sir ">Sr:</abbr> <name type="person">William Morton</name> and <lb/>
+<name type="person">John Treathway</name> their <sic corr="Heirs ">Heires</sic> and Assigns for Ever <lb/>
+All that Entire Tract Territory and <sic corr="Parcel ">Parcell</sic> of Land <lb/>
+<sic corr="Situated ">Situate</sic> lying and being in <name type="place">America</name> and bounded by <lb/>
+and within the Heads of the Rivers Tophanock <abbr expan="also ">als:</abbr> <lb/>
+<abbr expan="Rappahannock ">Rappahan:</abbr> and Quirconough or <sic corr="Potowmac">Potowmack</sic> Rivers the <lb/>
+Courses of the said Rivers as they are Commonly Called <lb/>
+or known and the Inhabitants and Descriptions of <lb/>
+these Parts and <sic corr="Chesapeake ">Chesapeak</sic> York bay Together with <lb/>
+the Rivers themselves, and all the Islands within the <lb/>
+Banks of those Rivers And all Woods Underwoods Timber <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and
+
+<pb n="2"/><lb/><lb/>
+
+and Trees <sic corr="Ways ">Wayes</sic> Water Rivers Ponds Pools Water Courses <lb/>
+Fishing Streams Havens Ports <sic corr="Harbors ">Harbours</sic> Creeks Wrecks <lb/>
+of the Sea Fish <sic corr="Royal ">Royall</sic> <sic corr="Deer ">Dear</sic> Wild Beasts and <sic corr="Fowls ">Fowles</sic> of <lb/>
+what Nature or kind soever Mines of Gold and Silver <lb/>
+Lead <sic corr="Tin ">Tinn</sic> Iron &amp;amp; Copper &amp; Quarries of Stone &amp; Coal <lb/>
+which then were or <sic corr="at ">att</sic> any time hereafter should be <lb/>
+had Coming being <sic corr="Arising ">Ariseing</sic> Renewing <sic corr="Acruing ">Acrueing</sic> -- <lb/>
+found or Taken within the Bounds and Precincts <lb/>
+aforesaid Together with the Royalties of Hawking <lb/>
+and Hunting for themselves their Heirs and Assigns <lb/>
+Servants and Tenants in and upon the Lands and <lb/>
+<sic corr="Premises ">Premisses</sic> aforesaid And in and upon Every Part <lb/>
+and <sic corr="Parcel ">Parcell</sic> thereof Saving and Excepting One full <lb/>
+and Equal fifth Part of Gold Mines or Gold <sic corr="Ore ">Oar</sic> <lb/>
+and One full Tenth Part of all Silver Mines and <lb/>
+Silver <sic corr="Ore ">Oar</sic> <hi rend="bold">To Have</hi> hold and Enjoy all the <lb/>
+said Tract Territory or Portion of Land and all and <lb/>
+Singular the <sic corr="Premises ">Premisses</sic> with their and Every of their <lb/>
+Appurtenances thereby Granted or mentioned to be <lb/>
+Granted (Except as before is Excepted) to the said <lb/>
+Henry Earl of St:Albans, John Lord Berkeley <abbr expan="Sir ">Sr.</abbr> <lb/>
+William Morton and John Treathway their <sic corr="Heirs ">Heires</sic> &amp; <lb/>
+Assigns for Ever <hi rend="bold">Yielding</hi> and paying therefore <lb/>
+yearly on the <note target="n2">Feast of St: John the Baptist</note> to him the <lb/>
+said late King his <sic corr="Heirs ">Heires</sic> and Successors the <sic corr="Sum ">Summ</sic><lb/>
+of six Pounds thirteen shillings and four pence <lb/>
+<sic corr="at ">att</sic> the Receipt <sic corr="Jamestown ">James Town</sic> in the Dominion of <lb/>
+Virginia, in Lieu of all Services and Demands <lb/>
+whatsoever as by the same Letters <sic corr="Patents ">Pattents</sic> Amongst <lb/>
+<sic corr="several ">severall</sic> other Grants Powers Authorities <sic corr="Privileges ">Priviledges</sic> <lb/>
+Licenses Clauses and Provisoe's therein Contained &amp; <lb/>
+thereby Granted unto the said <sic corr="Earl ">Earle</sic> of St. Albans - <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;John
+
+<pb n="3"/><lb/><lb/>
+John Lord Berkeley <abbr expan="Sir">Sr:</abbr> William Morton and John Treathway <lb/>
+their <sic corr="Heirs ">Heires</sic> &amp; Assigns appears <hi rend="bold">And Whereas</hi> the <lb/>
+said Henry Earl of St: Albans, John Lord Berkeley <abbr expan="Sir ">Sr:</abbr> <abbr expan="William ">Wm:</abbr> <lb/>
+ Morton and John Treathway did by good and Sufficient <lb/>
+Conveyances and Assurances in the Law for Valuable <lb/>
+Considerations Sell Convey Assure and <sic corr="Transfer ">Transferr</sic> the said <lb/>
+whole Tract Territory and Portions of Land and all <lb/>
+and singular the <sic corr="Premises">Premisses</sic> and Every Part and -- <lb/>
+<sic corr="Parcel ">Parcell</sic> thereof and all their Estate Right Title and <lb/>
+Interest therein together with the said Letters <sic corr="Patents ">Pattents</sic> <lb/>
+and all the Powers Authorities and <sic corr="Privileges ">Priviledges</sic> -- <lb/>
+thereby Granted and Given unto Thomas Lord -- <lb/>
+Culpeper Eldest Son and Heir of John late Lord <lb/>
+Culpeper deceased his <sic corr="Heirs ">Heires</sic> and <sic corr="Assigns ">Assignes</sic> for Ever <lb/>
+who did thereby become sole Owner and Proprietor <lb/>
+thereof in Fee Simple <hi rend="bold">And Whereas</hi> the <lb/>
+late <name type="person">King James</name> the second by his Letters <sic corr="Patents ">Pattents</sic> <lb/>
+under the Great Seal of England bearing date the <lb/>
+Twenty Seventh day of September in the fourth Year <lb/>
+of his <sic corr="Reign ">Reigne</sic> for the Consideration therein mentioned <lb/>
+Did Give Grant Release and <sic corr="Confirm ">Confirme</sic> unto the said <lb/>
+Thomas Lord Culpeper All That the said <sic corr="Entire ">Intire</sic> Tract <lb/>
+Territory or <sic corr="Parcel ">Parcell</sic> of Land <sic corr="Situated ">Situate</sic> lying and being <lb/>
+in Virginia in America above Mentioned and <lb/>
+Described and all and Singular the Powers <sic corr="Privileges ">Priviledges</sic> <lb/>
+and Promises aforesaid Freed and Discharged of a <lb/>
+<sic corr="Proviso ">Provisoe</sic> Contained in the said First Letters <sic corr="Patents ">Pattents</sic> <lb/>
+Saving and Excepting one full Sixth Part of Gold <lb/>
+Mines and Gold <sic corr="Ore ">Oar</sic> and one Full Tenth Part of <lb/>
+Silver Mines and Silver <sic corr="Ore ">Oar</sic> <hi rend="bold">To Have Hold</hi> <lb/>
+and Enjoy all the said Tract Territory or Portion of <lb/>
+Land and Every Part and <sic corr="Parcel ">Parcell</sic> of the same and all and <lb/>
+Singular other the <sic corr="Premises ">Premisses</sic> with their and Every of their <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;appurtenances
+
+<pb n="4"/><lb/><lb/>
+
+Appurtenances and Powers Authorities and <sic corr="Premises ">Premisses</sic> <lb/>
+thereby Granted and Confirmed (Except as before Excepted) <lb/>
+To the said Thomas Lord Culpeper his Heirs and <lb/>
+<sic corr="Assigns ">Assignes</sic> for Ever to his and their Only Use and <lb/>
+<note target="n3">Behoof </note>and to no other Use Intent or Purpose -- <lb/>
+whatsoever <hi rend="bold">Yielding</hi> and Paying from -- <lb/>
+thenceforth Yearly on the Feast Day of St: John -- <lb/>
+Baptist to him the said late King James his Heirs <lb/>
+and Successors the <sic corr="Sum ">Summ</sic> of six Pounds Thirteen <lb/>
+Shillings and four pence <sic corr="at">att</sic> the Receipt of James <lb/>
+Town in his <sic corr="Colony ">Collony</sic> of Virginia in Lieu of all services <lb/>
+and Demands whatsoever, the first Payment thereof <lb/>
+to be made on the Feast Day of St. John Baptist then <lb/>
+next Ensuing the day of the Date of the said Letters <lb/>
+<sic corr="Patents ">Pattents</sic> as by the said Letters <sic corr="Patents ">Pattents</sic> <sic corr="among ">amongst</sic> other <lb/>
+things therein Contained may more fully and <sic corr="at">att</sic> <lb/>
+large appear <hi rend="bold">And Whereas</hi> Alexander <lb/>
+Culpeper being Seized in Fee and Law full possessed <lb/>
+with one full Sixth Part of the said whole Tract --<lb/>
+Territory and Portions of Land and all and Singular <lb/>
+the <sic corr="Premises ">Premisses</sic> by Descent from Thomas Culpeper <abbr expan="Esquire ">Esqr:</abbr> <lb/>
+his Father Deceased Did Consent and Agree with the <lb/>
+said Thomas Lord Culpeper that the said last Recited <lb/>
+Letters <sic corr="Patents ">Pattents</sic> should and might be had and taken <lb/>
+in the Name Only of him the said Thomas Lord <lb/>
+Culpeper he then having in himself five Parts (the <lb/>
+Whole in Six Parts to be Divided of the said Tract --<lb/>
+Territory and Portions of Land and <sic corr="Premises ">Premisses</sic> And <lb/>
+for the better Enabling so to do he the said Alexander <lb/>
+Culpeper Did Surrender his Conveyance Right and <lb/>
+Interest for in and to the <sic corr="Premises ">Premisses</sic> unto the said <lb/>
+Thomas Lord Culpeper And the said last Recited Letters <lb/>
+<sic corr="Patents ">Pattents</sic> were had and taken accordingly in the Name of <lb/>
+the said Thomas Lord Culpeper <hi rend="bold">and whereas</hi> the <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;said
+
+<pb n="5"/><lb/><lb/>
+said Thomas Lord Culpeper did thereupon Contract and <lb/>
+Agree with the said Alexander Culpeper that when and <lb/>
+as soon as the said last Recited Letters <sic corr="Patents ">Pattents</sic> should <lb/>
+be had and obtained He the said Thomas Lord Culpeper <lb/>
+should and Would by good Conveyance and Assurance <lb/>
+in the Law Reconvey and Reassure unto the said -- <lb/>
+Alexander Culpeper and his Heirs one full sixth part <lb/>
+of the said Tract Territory or Portions of Land and all <lb/>
+and Singular the <sic corr="Premises ">Premisses</sic> <hi rend="bold">And Whereas</hi> the <lb/>
+said Thomas Lord Culpeper <sic corr="Died">Dyed</sic> before he Executed such <lb/>
+Conveyance or Assurance Leaving the said Catherine Lady <lb/>
+Fairfax his only Child and Heir at Law on <sic corr="whom ">whome</sic> the <lb/>
+whole <sic corr="Premises ">Premisses</sic> after his Death Descended and became <lb/>
+Seized in Fee thereof Accordingly <hi rend="bold">And Whereas</hi> the <lb/>
+said Catherine Lady Fairfax whilst sole by the Name of <lb/>
+Catherine Culpeper <sic corr="has">hath</sic> since the Death of The said <lb/>
+Thomas Lord Culpeper her Father in Pursuance and <lb/>
+Performance of the said Agreement made between him <lb/>
+and the said Alexander Culpeper Conveyed one Sixth part <lb/>
+(the whole into six Parts to be Divided) of the said Tract <lb/>
+Territory Portion of Land and <sic corr="Premises ">Premisses</sic> unto the said <lb/>
+Alexander Culpeper and his Heirs. <hi rend="bold">And Whereas</hi> <lb/>
+the said Alexander Culpeper in and by his last Will and <lb/>
+Testament bearing Date the One and Twentieth day <lb/>
+of January In the Year of Our Lord One Thousand <lb/>
+Six Hundred Eighty and Nine Did Give and Bequeath <lb/>
+the said sixth Part of the said Tract and Territory with <lb/>
+all and singular the Rents Issues <sic corr="Profits ">Proffitts</sic> Advantages <lb/>
+and Appurtenances whatsoever then due accruing or by <lb/>
+any <sic corr="Ways ">Wayes</sic> or means whatsoever arising from by or to <lb/>
+the same unto Judith Culpeper his wife <hi rend="bold">To Have &amp;</hi> <lb/>
+to <hi rend="bold">Hold</hi> unto the said Judith Culpeper and her <sic corr="Assigns ">Assignes</sic> <lb/>
+for and During the Terme of her <sic corr="Natural ">Naturall</sic> Life And from <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and -
+
+<pb n="6"/><lb/><lb/>
+And after the Deceased Did Give and Bequeath the <lb/>
+said sixth part of the said Tract of Land with all and <lb/>
+singular the Appurtenances whatsoever unto the Right <lb/>
+<abbr expan="Honorable ">Hon:ble</abbr> <sic corr="Margaret ">Margarett</sic> Lady Culpeper and Relict of the <lb/>
+Right <abbr expan="Honorable ">Hon:ble</abbr> Thomas Lord Culpeper Deceased and to <lb/>
+her Heirs for Ever as in and by the said Will and -- <lb/>
+Testament Relation being thereunto had <add resp="editor"> [<hi rend="italics">sic</hi>]</add> appears -- <lb/>
+<hi rend="bold">And Whereas</hi> the said Alexander Culpeper <lb/>
+and Judith Culpeper are both since Departed this life <lb/>
+so that the said Right <abbr expan="Honorable ">Hon:ble</abbr> <sic corr="Margaret ">Margarett</sic> Lady Culpeper <lb/>
+was by <sic corr="virtue ">vertue</sic> of the said Will Entitled to the said <lb/>
+sixth part of the said Tract Territory Portion of <lb/>
+Land and <sic corr="Premises ">Premisses</sic> that was so Conveyed to the said <lb/>
+Alexander Culpeper Deceased as aforesaid <hi rend="bold">And</hi> <lb/>
+<hi rend="bold">Whereas</hi> also the said <sic corr="Margaret ">Margarett</sic> Lady Culpeper <lb/>
+is since departed this Life so that the said Catherine <lb/>
+Culpeper then Dowager Lady Fairfax became Entitled <lb/>
+to five Six<corr resp="editor">[th]</corr> parts of all and Singular the said whole Tract <lb/>
+Territory Portion of Land &amp; <sic corr="Premises ">Premisses</sic> herein before <lb/>
+mentioned and the other Remaining sixth part of the <lb/>
+said whole Tract Territory Portion of Land and <sic corr="Premises ">Premisses</sic> <lb/>
+was bequeathed by the said <sic corr="Margaret ">Margarett</sic> Lady Culpeper <lb/>
+to the said Right <abbr expan="Honorable ">Hon:ble</abbr> Thomas Lord Fairfax: <lb/>
+<hi rend="bold">And Whereas</hi> we the Right <abbr expan="Honorable ">Hon:ble</abbr> Thomas <lb/>
+Lord Fairfax of Leeds Castle in the County of Kent and <lb/>
+Baron of Cameron in Scotland and William Cage <lb/>
+of Milgate in the Parish of Bearsted in the said <lb/>
+County of Kent Esquire Executor of the last Will &amp; <lb/>
+Testament of the Right <abbr expan="Honorable ">Hon:ble</abbr> Catherine Lady <lb/>
+Fairfax Deceased as aforesaid In and by <corr resp="editor">[a] </corr> Certain <lb/>
+Indenture made (on or about the Twenty Seventh day <lb/>
+of June Anno <abbr expan="Domini ">Dom: </abbr> One thousand seven hundred and <lb/>
+Twenty for the Consideration therein Mentioned <hi rend="bold">Have</hi> <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<note target="n4">Demised</note>
+
+<pb n="7"/><lb/><lb/>
+
+Demised Granted and to Farm <sic corr="Let ">Lett</sic> unto Robert Carter of <lb/>
+Virginia Esquire his Executors Administrators and <sic corr="Assigns ">Assignes</sic> <lb/>
+All that Tract of Land Called the Northern Neck Lying <lb/>
+between Rappahannock &amp; <sic corr="Potomac ">Petowmock</sic> Rivers in Virginia <lb/>
+aforesaid and also all and Every the Rents <note target="n5"><sic corr="Quit ">Quit</sic> Rents</note> Fines <lb/>
+Services Forfeitures <note target="n6">Escheats</note> <note target="n7">Deodands</note> <sic corr="Profits ">Proffits</sic> Emoluments <lb/>
+<sic corr="Perquisites ">Perqauisites </sic> Benefits and Advantages thereunto Belonging <lb/>
+or Issuing Growing or <sic corr="Arising ">Ariseing</sic> by from and out <sic corr="of ">off</sic> the said <lb/>
+Tract of Land with their and Every of their Appurtenance<corr resp="editor">[s]</corr> <lb/>
+<hi rend="bold">To Have</hi> and to <hi rend="bold">Hold</hi> the said Tract of Land and <lb/>
+to Receive Perceive and Take the said Rents <sic corr="Quit ">Quitt</sic> Rents Fines <lb/>
+Services Forfeitures Escheats Deodands <sic corr="Profits ">Proffits</sic> Emoluments <lb/>
+Perquisites Benefits and Advantages thereunto belonging or <lb/>
+Issuing Growing or <sic corr="Arising ">Ariseing</sic> by from and out <sic corr="of ">off</sic> the said Tract <lb/>
+of Land with their and Every of their Appurtenances unto <lb/>
+the said Robert Carter his Executors Administrators and <lb/>
+<sic corr="Assigns ">Assignes</sic> from the <note target="n8">Feast Day of St: Michael</note> the <sic corr="Archangel ">Arch Angel</sic> <lb/>
+then last part for and during and unto the full End and <lb/>
+Term of Six years from thence next Ensuing and fully to be <lb/>
+<sic corr="complete ">compleat</sic> and Ended <hi rend="bold">And Whereas</hi> We the said <lb/>
+Thomas Lord Fairfax and William Cage in and by the said <lb/>
+Indenture for the Consideration therein mentioned did also <lb/>
+<sic corr="assign ">assigne</sic> Transfer and <sic corr="Set ">Sett</sic> over unto the said Robert Carter <lb/>
+his Executors Administrators and <sic corr="Assigns ">Assignes</sic> as well all <lb/>
+such <sic corr="Sum">Summ</sic> and <sic corr="Sums ">Summs</sic> of Money due and to Grow due to <lb/>
+the said Thomas Lord Fairfax and William Cage or either <lb/>
+of us from <sic corr="Edmund Jenings ">Edmond Jennings</sic> of Virginia aforesaid Esquire <lb/>
+or from any other Person or Persons in Virginia aforesaid <lb/>
+for or in Respect of the said Tract of Land hereby Demised <lb/>
+or out of the Rents <sic corr="Quit ">Quitt</sic> Rents Arrears of Rents and <lb/>
+<sic corr="Quit ">Quitt</sic> Rents <add place="supralinear"><sic corr="Profits ">Profitts</sic> Fines Forfeitures Escheats or Deodands as also all the Arrears of rents &amp; <sic corr="Quit ">Quitt</sic> Rents</add> and all Fines, Forfeiture Escheats Deodands <lb/>
+<sic corr="Profits ">Profitts</sic> Emoluments Benefits and Advantages whatsoever <lb/>
+due <sic corr="owing ">oweing</sic> and belonging and which shall be due <sic corr="Owing ">Oweing</sic> <lb/>
+or belonging to us the said Thomas Lord Fairfax --<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and
+
+<pb n="8"/><lb/><lb/>
+
+
+and William Cage or Either if Us Or which we the said <lb/>
+Thomas Lord Fairfax and William Cage or Either of us <lb/>
+were is or shall be Entitled unto Ever since the said <lb/>
+Feast day of St: Michael the <sic corr="Archangel ">Arch Angell</sic> last past <lb/>
+before the Date of the said Indenture <hi rend="bold">To Have</hi> <lb/>
+to <hi rend="bold">Hold</hi> Receive Perceive and Take the said <sic corr="Sum "></sic> <lb/>
+and <sic corr="Sums ">Summs</sic> of money of and from the said <sic corr="Edmund ">Edmond</sic> <lb/>
+<sic corr="Jenings ">Jennings</sic> his Executors and Administrators and also <lb/>
+the said Arrears of Rents and Arrears of <sic corr="Quit ">Quitt</sic> Rents <lb/>
+Fines Forfeitures Escheats Deodands <sic corr="Profits ">Proffitts</sic> Emoluments <lb/>
+Benefits and Advantages unto the said Robert Carter <lb/>
+his Executors Administrators and <sic corr="Assigns ">Assignes</sic> to his &amp; <lb/>
+their own proper Use and Behoof As in &amp; by the said <lb/>
+Indenture Relation being thereunto had <sic corr="does ">doth</sic> &amp; may <lb/>
+appear <hi rend="bold">Now Know <sic corr="Ye">Yee</sic></hi> That We the said <lb/>
+Thomas Lord Fairfax and William Cage Reposing <lb/>
+much Trust and Confidence in the Integrity and fair <lb/>
+Dealings of the said Robert Carter do hereby Jointly <lb/>
+and Severally Name Constitute and Appoint the said <lb/>
+Robert Carter our True and <sic corr="Lawful ">Lawfull</sic> attorney for Us &amp; <lb/>
+in Our Names or in the Names of Either of us and to <lb/>
+the Only Proper Use and <sic corr="Behoof ">Behoofe</sic> of the said Robert <lb/>
+Carter To <sic corr="Ask">Aske</sic> Demand Sue for Recover and Receive <lb/>
+of and from the said <sic corr="Edmund Jenings ">Edmond Jennings</sic> of Virginia -- <lb/>
+aforesaid Esquire and of and from all our or Either of <lb/>
+our Agent or Agents Receive or Receivers there, and of <lb/>
+and from all other our or Either of our Agents and <lb/>
+Receivers <sic corr="Tenants">Tennants</sic> and all other Persons whatsoever <lb/>
+all <sic corr="Sum ">Summ</sic> and <sic corr="Susm">Summs</sic> of money in their Either or any <lb/>
+of their hands Received by them as aforesaid And also <lb/>
+the said Arrears of Rents and Arrears of <sic corr="Quit ">Quitt</sic> Rents <lb/>
+and all Fines Forfeiture Escheats Deodands and <sic corr="Profits ">Proffitts</sic> <lb/>
+now due to us the said Thomas Lord Fairfax William Cage <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;or
+
+<pb n="9"/><lb/><lb/>
+
+or either of us as aforesaid And to <sic corr="Ask ">Aske</sic> Demand Sue for -- <lb/>
+Recover and Receive of and from the said <sic corr="Edmund Jenings ">Edmond Jennings</sic> <lb/>
+his Executors or Administrators to and for the use of use the <lb/>
+said Thomas Lord Fairfax and William Cage all and -- <lb/>
+Every the <sic corr="Patents ">Pattents</sic> Grants Titles Writings books and <lb/>
+Papers Whatsoever belonging to us the said Thomas --<lb/>
+Lord Fairfax and William Cage Either of us and upon <lb/>
+Receipt of any of the said <sic corr="Sum ">Summ</sic> and <sic corr="Sums ">Summs</sic> of <lb/>
+money and <sic corr="Premises ">Premisses</sic> to make Seal and Deliver one <lb/>
+or more <sic corr="Acquitances ">Acquittances</sic> or other Discharges for the same <lb/>
+in due <sic corr="form ">forme</sic> of Law But in Case of Refusal or Delay <lb/>
+by any Person or Persons whom it shall or may Concern <lb/>
+to make payment of any Rent or Rents <sic corr="Sum ">Summ</sic> or <lb/>
+<sic corr="Sums ">Summs</sic>of money or other <sic corr="Duties ">Dutys</sic> whatsoever due or to be <lb/>
+due or belonging to use the said Thomas Lord Fairfax <lb/>
+and William Cage or Either of us out of or by Reason of <lb/>
+the <sic corr="Premises ">Premisses</sic> to Use all <sic corr="Lawful ">Lawfull</sic> <sic corr="Ways ">Wayes</sic> and Means <lb/>
+for Recovery thereof by Action Suit Arrest Bill Plaint <lb/>
+attachment Distress Reentry or otherwise as fully and <lb/>
+Amply in Every Respect As We the said Thomas Lord <lb/>
+Fairfax and William Cage might or Could do if Personally <lb/>
+present And to Sue Implead make Answer Prosecute &amp; <lb/>
+Demand in any Court or Courts of Law and Equity --<lb/>
+before any Judge or Justices in any Suit or Suits all <lb/>
+Matters and Causes whatsoever for us or against us as <lb/>
+the Cause shall Require Touching or Concerning the said <lb/>
+Tract Territory or Portion of Land and <sic corr="Premises ">Premisses</sic> or <lb/>
+any of them or any Rents or Dutys <sic corr="arising ">ariseing</sic> or payable <lb/>
+thereout or for or in Respect thereof And Likewise for <lb/>
+us the said Thomas Lord Fairfax and William Cage or <lb/>
+Either of us And in Our or Either of our Name or Names <lb/>
+to Demise and Grant the said Tract or Territory Portion of <lb/>
+Land and Premises or any Part thereof to such Person or <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Persons --<lb/>
+
+<pb n="10"/><lb/><lb/>
+
+Persons for such <sic corr="Sum">Summ</sic> or <sic corr="Sums ">Summs</sic> of Money as to our --<lb/>
+said attorney shall be thought meet and Reasonable to the <lb/>
+Uttermost and best <sic corr="Profits ">Proffits</sic> and Commodity of us the said <lb/>
+Thomas Lord Fairfax and William Cage or Either of us <lb/>
+Provided that upon any Such Grant or Demise there be <lb/>
+thereby Reserved and made payable during the Time and <lb/>
+<sic corr="Term">Terme</sic> thereby Granted unto us the said Thomas Lord <lb/>
+Fairfax and William Cage or Either of us our or Either <lb/>
+of our Heirs and <sic corr="Assigns ">Assignes</sic> the <sic corr="Sum">Summ</sic> of Two shillings of <lb/>
+Lawfull English money <sic corr="at ">att</sic> least or the True <sic corr="Value ">Vallue</sic> thereof <lb/>
+for Every Hundred Acres of the <sic corr="Premises ">Premisses</sic> that shall <lb/>
+be by our said attorney Granted or Demised and the <lb/>
+Deed and Deeds of the said Estate so to be made for us <lb/>
+the said Thomas Lord Fairfax and William Cage or <lb/>
+Either of us And in Our or Either of our Names or Names <lb/>
+to Seal And as our or Either of our Act or Acts Deed or <lb/>
+Deeds to Deliver unto the <sic corr="Parties ">Partys</sic> to <sic corr="whom">whome</sic> the same <lb/>
+shall be so made or to any other to their use and Uses <lb/>
+and the Counterparts of the Same for us or Either of <lb/>
+us and in Our or Either of Our Name or Names to <lb/>
+accept and Receive all such Fines and other <sic corr="Sum ">Summ</sic> and <lb/>
+<sic corr="Sums ">Summs</sic> of money and <sic corr="Duties ">Dutys</sic> as shall Grow Due for the <lb/>
+same for us or Either of us And in Our or Either of our <lb/>
+Name or Names to the Use of us the said Thomas Lord <lb/>
+Fairfax   and William Cage or Either of us Our or Either <lb/>
+of our Heirs Executors Administrators and <sic corr="Assigns ">Assignes</sic> To <lb/>
+Collect Gather Receive and Take with Power also in our <lb/>
+or Either of our Names to Our or Either of our Use and <lb/>
+uses To put into Execution and Take Advantage of the <lb/>
+Powers Authorities and <sic corr="Privileges ">Priviledges</sic> Granted &amp; Confirmed <lb/>
+by the said Letters <sic corr="Patents ">Pattents</sic> or Either of them and that <lb/>
+in as large and Ample Manner and as fully and <lb/>
+Effectually to all Intents and Purposes whatsoever --<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;as --<lb/>
+
+<pb n="11"/><lb/><lb/>
+
+
+as if we the said Thomas Lord Fairfax and William --<lb/>
+Cage or Either of us were personally present Subject --<lb/>
+Nevertheless to the Covenants Articles and Agreements in the <lb/>
+last Recited Indenture mentioned which is nevertheless <lb/>
+to be and remains in Full Force during all the Time and <lb/>
+<sic corr="Term ">Terme</sic> therein and thereby Granted And we the said <lb/>
+Thomas Lord Fairfax and William Cage Do Hereby <lb/>
+Jointly and Severally Further Fully Authorize and --<lb/>
+<sic corr="Empower ">Impower</sic> the said Robert Carter with all and Every <lb/>
+Person and Persons whom it shall or may <sic corr="Concern ">Concerne</sic> <lb/>
+in and for and about the <sic corr="Premises ">Premisses</sic> and all matters and <lb/>
+things thereunto relating To Account and to View Settle <lb/>
+and Adjust all Accounts and the Ballance thereof <lb/>
+to Receive upon Recovery and Receipt to Give one or <lb/>
+more Acquittances or other Sufficient Discharges in --<lb/>
+due form of Law But in Case of Refusal or Delay by <lb/>
+any Person or Persons <sic corr="whom ">whome</sic> it shall or may <sic corr="Concern ">Concerne</sic> <lb/>
+To make and Render Just and True Account and <lb/>
+Payment and Satisfaction in the <sic corr="Premises ">Premisses</sic> him her <lb/>
+or them thereunto to <sic corr="Compel ">Compell</sic> by all <sic corr="Lawful ">Lawfull</sic> <sic corr="Ways ">Wayes</sic> <lb/>
+and means Soever Also if Need be to appear before <lb/>
+all Lords Judges and Justices in any Court or Courts <lb/>
+there to answer Defend and Reply in all matters &amp; <lb/>
+Causes touching or Concerning the <sic corr="Premises ">Premisses</sic> to do say <lb/>
+Pursue Implead Seize Sequester attach Arrest Imprison <lb/>
+and to <sic corr="Condemn ">Condemne</sic> and out of Prison again to Deliver <lb/>
+also to Compound Conclude and Agree by Arbitration or <lb/>
+otherwise as Our said attorney shall think <sic corr="fit ">fitt</sic> <hi rend="bold">And</hi> <lb/>
+<hi rend="bold">Generally</hi> in and Concerning the <sic corr="Premises ">Premisses</sic> to do <lb/>
+<sic corr="Perform ">Performe</sic> and Execute all and whatsoever shall be Requisite <lb/>
+and Necessary as Fully Amply and Effectually To all --<lb/>
+Intents Constructions &amp; Purposes As we the said Thomas <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lord <lb/>
+
+
+<pb n="12"/><lb/><lb/>
+
+Lord Fairfax and William Cage or Either of us might <lb/>
+or Could do if Personally Present And that <abbr expan="Although ">Altho'</abbr> <lb/>
+the Cause should Require more Ample or <sic corr="Especial ">Especiall</sic> Power <lb/>
+<sic corr="than ">then</sic> as herein before Particularly Expressed with <lb/>
+Power to Substitute one or more attorneys under him <lb/>
+with like or Limited Power and the same again to <lb/>
+<sic corr="Revoke ">Revoake</sic> We the said Thomas Lord Fairfax and <lb/>
+William Cage Jointly and Severally do hereby Promise <lb/>
+to Ratify <sic corr="Confirm ">Confirme</sic> and Hold for Good &amp; <sic corr="Valid ">Vallid</sic> all <lb/>
+and whatsoever our said attorney or his Substitutes <lb/>
+shall lawfully Do or Cause to be Done in or about <lb/>
+the <sic corr="Premises ">Premisses</sic> by <sic corr="Virtue ">Vertue</sic> of these Presents <hi rend="bold">In</hi> <lb/>
+<hi rend="bold">Witness</hi> whereof  We the said Thomas Lord <lb/>
+Fairfax and William Cage have hereunto <sic corr="set ">sett</sic> our <lb/>
+hands and Seals this fifth day of July and in <lb/>
+the Seventh Year of the <sic corr="Reign ">Reigne</sic> of Our <sic corr="Soverign ">Soverigne</sic> <lb/>
+Lord George by the Grace of God of Great <sic corr="Britain ">Brittain</sic> <lb/>
+France and Ireland King Defender of the --<lb/>
+Faith &amp;c: Anno Domini 1721---- <lb/>
+<lb/>
+Sealed &amp; Delivered (by the Right <abbr expan="Honorable ">Hon:ble</abbr> } <lb/>
+Thomas Lord Fairfax In the Presence of } <lb/>
+<lb/>
+<lb/>
+Sealed &amp; Delivered (by William Cage <sic corr="Esquire ">Esqr:</sic> In the preseence of)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;W. Cage&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <corr resp="editor">[seal]</corr>  <lb/>
+Cha: Chisell&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ja. Roscow <lb/>
+Geo. Bingley<lb/><lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="bold"><sic corr="Copy">Coppy</sic></hi>
+					
+
+</p>
+
+<closer><seg type="postscript"><lb/><lb/></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Personal Papers. Fairfax Family Northern Neck Proprietary Papers (Acc. No. 24062), box 2, folder 59. Library of Virginia, Richmond. The document is endorsed on the back of the last page, "Copy of Proprs Power 5th July |1721."</note><lb/><lb/>
+
+<note id="n1">[1] Catherine Culpeper, widow of the fifth Lord Fairfax (d. 1710); from her father, the 2nd Lord Culpeper, she had inherited about 1689 his five-sixths interest in the Northern Neck Proprietary in Virginia. Lord Fairfax consulted Micajah Perry about the affairs of the Propietary, and Perry had recommended Robert Carter to be the Virginia agent in 1702. He held the post until 1710 when Lady Fairfax transferred the agency to Edmund Jenings with Thomas Lee as the deputy agent. When she died in 1719, she bequeathed her Virginia property to her son Tom, but she made Wiliam Cage and Edward Filmer, trustees of the proprietary. Filmer soon died, and Cage, a kinsman of the 6th Lord Fairfax, became the sole trustee. From his grandmother, Margaret Lady Culpeper, the 6th Lord Fairfax inherited the other one-sixth of the Proprietary. Cage consulted Perry, and Robert Carter was again made agent in 1721, holding the post until his death ten years later.</note><lb/><lb/>
+
+<note id="n2">[2] The Feast of St. John the Baptist fell on June 24th.</note><lb/><lb/>
+
+<note id="n3">[3] "Behoof" as used here means "Use, benefit, advantage."  (<cit><bibl><title>Oxford English
+Dictionary</title></bibl></cit>)</note><lb/><lb/>
+
+<note id="n4">[4] Demise as a legal term means the transfer of an estate by lease or will (<cit><bibl>"Answers.com," 8/7/2006</bibl></cit>)</note><lb/><lb/>
+
+<note id="n5">[5] Quit rent was the term used for the payment due from the holder of land to the "lord of the manor," in this case, to the proprietors of the Northern Neck. Carter as the proprietor's agent, collected these payments. No services were required of the landholder as had been true in mediaeval times.</note><lb/><lb/>
+
+<note id="n6">[6] An escheat is the reversion of land to the lord of the manor, or in this case,
+to the proprietors of the Northern Neck, because of the death without heirs of the holder of the lands.
+Anyone wishing to patent escheated lands had to pay a fee to Carter as the agent of the proprietors.</note><lb/><lb/>
+
+<note id="n7">[7] "(Old Eng. Law) A personal chattel which had caused the death of a person, and for that reason was given to God, that is, forfeited to the crown, to be applied to pious uses, and distributed in alms by the high almoner. Thus, if a cart ran over a man and killed him, it was forfeited as a deodand." (<cit><bibl>"The Free Dictionary." http://www.thefreedictionary.com/Deodand. 8/9/2006.</bibl></cit>)</note><lb/><lb/>
+
+<note id="n8">[8] The feast of St. Michael, or Michaelmas, is on September 29th.</note><lb/><lb/>
+
+<lb/><lb/><note><hi rend="italics">This text revised June 24, 2009.</hi></note>
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

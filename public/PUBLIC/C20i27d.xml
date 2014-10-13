@@ -1,0 +1,278 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C20i27d">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Micajah Perry,
+September 27and October 10, 1720</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia
+Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 10 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">filename</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL:
+http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Micajah Perry, September
+27and October 10, 1720</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 pp.</extent>
+<publicationStmt>
+     <date>1940</date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter
+Book, 1720 July-1721 July, BR 227, Huntington Library, Art
+Collections, and Botanical Gardens, San Marino, California.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic
+Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text
+Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject
+Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1720-09-27</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term
+type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C20i27dT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 pp.</extent>
+<date value="1720-09-27"></date>
+<idno rend="suppress">C20i27d.xml</idno>
+<title>Letter from Robert Carter to Micajah Perry, September 27 and
+October 10, 1720</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant Micajah Perry, September
+27and October 10, 1720, to inform him of bills of exchange he has
+endorsed and sent to Perry for &pound;281/16/11 being payment he has
+received for slaves from the ship <hi rend="italics">Mercury</hi>,
+owned by Chamberlayne
+&amp; Sitwell. He believes the bills are good, but gives instructions
+for Perry's payment to the other merchants should any be protested.
+He reports the death of John Baylor, "The great Negro Seller &amp; in
+all respects 
+the greatest Mercht. we had among us."  In a post script dated
+October 10th, Carter reported the depradations of a "Spanish
+privateer," but the paper of the addition is so badly damaged that it
+is nearly illegible.</p>
+
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="MP">Micajah
+Perry,</note> September 27and
+October 10, 1720</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock,<corr resp="editor"> [Lancaster
+County, Virginia]</corr> </name><lb/>
+<date value="1720-09-27"><abbr expan="September ">Sepr. </abbr> 27.
+1720</date><lb/>
+Messrs. Perry<lb/>
+</dateline>
+<salute>Gent.&mdash;&mdash;
+</salute>
+
+</opener>
+
+<p>The business of this is only to advi<lb/>=se You that this Day I
+have remitted Ten bills of <abbr expan="exchange ">Exch</abbr>
+ <lb/>all wth. my Endorsment to Messrs. <abbr expan="Francis
+">Frans. </abbr> Chamberlayn<add
+resp="editor">[e]</add> <lb/>&amp; Frans. Sitwell owners of the Ship
+Mercury amt.<lb/>=ing to the Sum of Two Hundred Eighty one pound
+<lb/>&amp; Sixteen Shill. &amp; Eleven pence paid to me <lb/>for
+accots. of Some Endorsment to Messrs. <note target="n1"><abbr
+expan="Francis">Frans.</abbr> Chamberlayne</note> <lb/>&amp; Francis
+Sitwell
+owners of the Ship <name type="ship">Mercury</name> <abbr
+expan="amount">amt </abbr><lb/>=.ing to
+the Sum of Two hundred Eighty one pound <lb/>Sixteen <abbr
+expan="shillings ">Shill.</abbr>
+ &amp; Eleven pence paid to me <lb/>for accots. of Some of their
+Slaves sold, these bills <lb/>I have good reason to believe will all
+meet wth. <lb/>due honour but If contrary to my Expectation any
+<lb/>of them Should be protested the Gent <sic corr="concerned
+">Concernd</sic> have <lb/>the Same <abbr expan="directions ">Direcs
+</abbr> as they had wth. the former bills <lb/>I
+remitted them, That is they are to deliver up <lb/>the protests to
+You That After sixty Days You <lb/><corr resp="editor">[are] </corr>
+to
+make <abbr expan="payment ">paymt.</abbr> upon my Accot. taking proper
+<lb/><unclear>[ . . . ]</unclear> from them, this is my undertaking
+wth. <lb/>them, &amp; this I desire You to Comply wth. sending
+m<corr resp="editor">[e] </corr> <lb/>in wt. protest You receive by
+the first
+safe Conve=<lb/>=niency that offers&mdash;</p>
+
+<p>Not many days ago I gave You the trouble of a <lb/>Lettr. to some
+length to wch. please to be <abbr expan="referred ">referd.</abbr>
+</p> 
+
+<p>Poor <note target="n2">John Baylor</note> <sic corr="has ">hath
+</sic> lately taken his
+leave <lb/>of this world The great Negro Seller &amp; in all respects
+<lb/>the greatest <abbr expan="merchant ">Mercht.</abbr> we had among
+us, he made a mighty <lb/>noise while living.  I wish for the sake of
+his remain <lb/>at the winding up of his Cotton, the Cry did not
+<lb/>Exceed the wool </p>
+
+<p>I am Gent <lb/>
+Yor. most humble Servt. </p>
+
+
+<p>A Postscript added To Mr. Perrys last <abbr
+expan="letter ">Letr</abbr>
+</p>
+
+<p>Sir&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="October ">Octr</abbr>
+ 10, 1720 </p>
+
+<p><sic corr="It will ">Twill</sic> not be <sic corr="wrong
+">amiss</sic> to add a Line of the
+<lb/>late damages done upon our Coast by a Spanish <lb/>privateer,
+The 28th of last <sic corr="May ">may</sic> he took a Sloop
+<lb/>belonging to Martin,
+Nelson, &amp; Jones with <unclear>[ . . . ]</unclear>
+<lb/>th<unclear>[ . . . ]</unclear> Among a great many other prizes
+he <lb/>took a <name type="city">Liverpool</name> sloop last from
+<sic corr="Potomac ">Petomack</sic> <lb/>wch. had the Good fortune to
+be retaken by a Sloop <lb/><unclear>[ . . . ]</unclear> On board were
+<lb/>two Spaniards and one Irishman <lb/><unclear>[ . . . ]</unclear>
+of war <unclear>[ . . . ]</unclear> and is to be ready this fortnight
+<lb/>but <unclear>[ . . . ]</unclear> ready nor could <unclear>[ . .
+. ]</unclear> no assurance <lb/>from her for the <abbr
+expan="captain ">Captn.</abbr>
+ declares <unclear>[ . . . ]</unclear> he has <lb/>received orders
+from the Admiral <unclear>[ . . . ]</unclear><lb/>
+<unclear>[ . . . ]</unclear>ington <unclear>[ . . . ]</unclear>since
+then<lb/>
+<unclear>[ . . . ]</unclear><lb/>
+<unclear>[ . . . ]</unclear> I had <lb/>Just now from <note
+n="MP1"><abbr expan="Colonel ">Collo</abbr> Page</note></p>
+
+
+<closer><seg type="postscript"></seg></closer>
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+<note><hi rend="italics">Source copy consulted:</hi>  Robert Carter
+Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art
+Collections, and Botanical Gardens, San Marino, California. Printed:
+<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . .
+.</title> pp. 53-54, and 57.</bibl></cit>
+ The page on which the post script is written is one of the worst in
+the letter book with a great deal of bleed through from the reverse
+and places where the ink has eaten entirely through the
+paper.</note><lb/>
+
+<note>Robert Carter generally used a return address of
+"Rappahannock" for the river on which he lived rather than
+"Corotoman," the name of his home, on his correspondence, especially
+to merchants abroad. The county and colony have been added for
+clarity. Either Carter dictated that the letter was to be sent to the
+"Messrs. Perry," or his clerk wrote this from habit; Carter knew that
+Richard Perry had died in April.</note><lb/>
+
+<note id="n1">[1] Francis Chamberlayne may have
+been the wealthy grocer of London whose daughter Elizabeth married
+John Francis Fauquier, an official of the mint and director of the
+Bank of England, between 1694 and 1702. 
+(<cit><bibl>http://www.geocities.com/markfreemn/francis_fauquier.html
+</bibl></cit>)</note><lb/>
+
+
+<note id="n2">[2] John Baylor (d. 1720) lived first in Gloucester,
+and was burgess in 1692.  He subsequently moved to King and Queen
+County (which he represented in the Assembly in 1718), and became a
+prominent merchant with stores in Gloucester, King and Queen, and New
+Kent counties.  "His principal warehouses were at Baylor's on the
+Mattaponai between Walkerton and King &amp; Queen Court House."
+(<cit><bibl>"The Baylor Family." <title>Virginia Magazine of History
+and Biography.</title> 6[1898-1899]: 197-199.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text revised February 3,
+2009.</hi></note>
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

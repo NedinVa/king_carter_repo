@@ -1,0 +1,231 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C08a10a">
+
+
+<teiHeader type="aacr2"> 
+              
+<fileDesc> 
+<titleStmt> 
+     <title type="245">Draft of Unsent Letter from Robert Bristow to Robert Carter,
+1708 January 10  </title> 
+   <title type="gmd">[electronic resource]</title> 
+     <author>Bristow, Robert</author> 
+   <respStmt> 
+     <resp>Creation of machine-readable version: </resp> 
+     <name id="editor">Edmund Berkeley, Jr.</name> 
+     <resp>Conversion to TEI.2-conformant markup</resp> 
+     <name>Edmund Berkeley, Jr., and the University of Virginia
+Library Electronic Text Center</name> 
+   </respStmt> 
+</titleStmt> 
+ 
+<extent>ca. 7 kilobytes </extent> 
+ 
+<publicationStmt> 
+     <publisher>University of Virginia Library.</publisher> 
+     <pubPlace>Charlottesville, Va.</pubPlace> 
+     <idno type="ETC"></idno> 
+     <availability> 
+     <p>Publicly accessible</p> 
+     <p n="public">URL:
+http://etext.lib.virginia.edu/modeng.browse.html</p> 
+         </availability> 
+     <date>2001</date> 
+</publicationStmt> 
+ 
+<sourceDesc> 
+     <biblFull> 
+     <titleStmt> 
+     <title>Draft of Unsent Letter from Robert Bristow to Robert Carter, 1708
+January 10 </title> 
+
+     <author>Robert Bristow</author> 
+</titleStmt>
+
+    <extent> 1 p.</extent> 
+<publicationStmt> 
+     <date>1708-01-10</date> 
+   <idno type="callNo">Source copy consulted: Business Records,
+Robert Bristow Letterbook,1705-1737, 1746-1750 (Acc #22953), Archives
+Research Services, Library of Virginia, Richmond, 41b. This is a
+draft of a letter marked in the margin "Not sent."</idno> 
+</publicationStmt> 
+</biblFull> 
+</sourceDesc> 
+ 
+</fileDesc> 
+     <encodingDesc> 
+     <projectDesc> 
+     <p>Prepared for the University of Virginia Library Electronic
+Text Center.</p> 
+     </projectDesc> 
+<editorialDecl> 
+     <p>Some keywords in the header are a local electronic Text
+Center scheme to aid in establishing 
+analytical groupings.</p> 
+</editorialDecl> 
+ 
+<classDecl> 
+     <taxonomy id="LCSH"> 
+     <bibl> 
+     <title>Library of Congress Subject Headings</title> 
+     </bibl> 
+     </taxonomy> 
+</classDecl> 
+</encodingDesc> 
+ 
+<profileDesc> 
+     <creation> 
+     <date>1708-01-10</date> 
+     </creation> 
+     <langUsage> 
+     <language id="eng"></language> 
+     </langUsage> 
+     <textClass> 
+     <keywords> 
+     <term>non-fiction</term> 
+   <term>prose</term> 
+     </keywords> 
+     <keywords scheme="LCSH"> 
+     <term type="Field650">LCSH</term> 
+     </keywords> 
+     </textClass> 
+</profileDesc> 
+ 
+</teiHeader> 
+ 
+<text id="C08a10aT">
+
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 pp.</extent>
+<date value="1708-01-08">January 10, 1708</date>
+<idno rend="suppress">C08a10a</idno>
+<title>Draft of Unsent Letter from Robert Bristow to Robert Carter, January 10,
+1708</title>
+</bibl>
+</head>
+<p>Robert Bristow writes from London to Robert Carter, January 10, 1708, informing Carter that he has inherited from his father several properties in Virginia including plantations on Mobjack Bay and Fleets Bay. Nathaniel Burwell and Major Lewis are going to inventory the Mobjack Bay property for him and he enquires if Carter would do  the same for that on Fleets Bay. Bristow's "near relation" Arthur  Bailey (married to Bristow's aunt) is going to manage the Mobjack Bay property, and he requests that Carter hold his power of attorney to act in Virginia; he wishes to know what fee Carter would charge for this service.  Although this draft is marked "not sent," Bristow was to write Carter in 1718 about his Fleets Bay plantation, then under the management of Thomas Booth of York County.</p>
+</div1>                 
+</front>
+
+ 
+<body> 
+ 
+<div1 type="letter" n="1708-01-10"> 
+ 
+<head><note n="RB1">Draft of Unsent Letter from Robert Bristow </note>to Robert Carter, January
+10, 1708</head> 
+ 
+<opener> 
+ 
+<dateline> 
+<name type="place">London,</name><lb/> 
+ 
+<date value="1708-01-10"> the 10th January 1707 [08]<lb/></date> 
+</dateline> 
+ 
+<salute><name type="person">Mr. <abbr expan="Robert ">Robt </abbr> Carter<lb/></name>Sr.</salute> 
+ 
+</opener> 
+              
+<p>By the death of my honoured Grandfather <note n="RB1">Robert
+Bristow</note> <abbr expan="Senior Esquire ">Senr Esqr </abbr> 
+<lb/>my <note n="RB">Father</note> being dead above a year since:
+Those plantations, &amp; tht 
+<lb/>Estate tht he had in Virginia become mine&mdash; Bequeathed
+indeed to <lb/>me per Will, the <sic corr="Copy ">Coppy</sic> of wch. 
+attested per Notary <sic corr="Public ">Publick</sic> is sent to <lb/>Mr <note n="NB">Nath<add
+resp="editor">[ani]</add>ll Burwell</note> son to Major <note
+n="LB">Lewis Burwell</note> I was advised<lb/>per some Friends of
+mine to desire him wth Major Lewis to take an <lb/>Inventory of what
+is upon 
+<note target="n1">Mockjackbay</note> plantation as being
+<lb/>Neighbours to it, &amp; also to inform 
+themselves what Condition the Land is <lb/>in what quantity of
+Negroes &amp; Servants there were 
+Their Ages <lb/>&amp; Sexes, &amp; whither it were out of <sic corr="repair ">repaire</sic>
+&amp; what was to be done to 
+<sic corr="repair ">repaire</sic> <lb/>it &amp; whither it required more Negroes. But upon the
+return of my <lb/>near relation <note 
+n="AB2">Arthur Bailey</note>  <abbr expan="Esquire ">Esqr </abbr> from <name
+type="country">Holland</name>, I consulted wth <lb/>him about my
+<note target="n2">Fleets bay </note> plantation &amp; advised with
+him what <lb/>ought to be done there&mdash; He 
+told me he would take the care &amp; <lb/>trouble of it from me
+&amp; would desire You to stand my 
+Friend so <lb/>much as to inspect tht. wch. is near you &amp;
+withall assured me he <lb/>would write to 
+you upon the Same Subject wch I have all the reason <lb/>in the
+world to think he has done&mdash;  Now if I 
+may find so much <lb/>favour from You as to do that in fleets bay
+wch I have desired other 
+<lb/>Gentlemen to <sic corr="do ">doe</sic> in Mockjackbay, I shall always esteem
+my<lb/>self to be very much obliged to 
+You&mdash;  If I might not presume <lb/>upon You I would beg the
+favour of You to represent me in <abbr expan="Virginia ">Virga  </abbr>
+<lb/>by being my Attorney, not only to oversee that Plantation in
+<abbr expan="Fleets Bay ">F.bay </abbr> <lb/>but when I shall have an acct 
+of my stock next Year that also <lb/>in Mockjackbay. if You please
+to accept it next Year I shall 
+<lb/>send you a power&mdash;  I did in <sic corr="General ">Generall</sic> write Mr Burwell
+&amp; Mr <lb/>Lewis to inspect all my 
+Plantations In Virginia&mdash; but presuming <lb/>upon Your doing me
+the Favour as to inspect the <abbr expan="Fleets Bay ">F.bay </abbr> <abbr expan="plantation ">plantn. </abbr> 
+wch <lb/>is near You, &amp; far from them; I have wrote thm &amp;
+desired them only <lb/>to charge 
+thmselves wth the Inventorying &amp;c of the <abbr expan="Mockjackbay ">Mock: bay </abbr> <abbr expan="plantation ">plantn. </abbr><lb/>I
+must now think of putting the 
+direction &amp; management of them <lb/>into the hands of one tht
+will make my case his owne, &amp; 
+as such a <lb/>one <abbr expan="Sir ">Sr </abbr> I address to You&mdash;  If You please to give
+Yourself the <lb/>trouble of doing it <sic corr="Let ">Lett</sic> 
+me know wt. annual Acknowledgement I <lb/>must make You  I wish I
+were capable of doing You any <lb/>
+
+Service here in <abbr expan="England ">Engld </abbr>. none should be more thn <abbr expan="Sir ">Sr </abbr> &amp;c <lb/><lb/>
+
+R<add  resp="editor">[obert]</add> B<add 
+resp="editor">[ristow]</add><lb/><lb/> 
+ 
+<seg type="postscript"><add place="marginleft">Not sent</add> </seg>
+</p>
+
+</div1> 
+</body> 
+ 
+<back> 
+<div1 type="notes"> 
+<head>NOTES</head> 
+ <note><hi rend="italics">Source copy consulted:</hi> Business Records, Robert Bristow Letterbook, 1705-1737, 1746-1750 (Acc #22953), Archives Research Services, Library of Virginia, Richmond, 41b. This is a draft of a letter marked in the margin "Not sent" but it is included because there is one other extant letter to Carter from Bristow about his Fleets Bay plantation; see the letter dated <xref to="/users/berkeley/public/C18j02a.xml">October 20, 1718.</xref> Bristow placed his Virginia property under the management of Thomas Booth of York County in 1709.</note> 
+
+<note id="n1">[1]  Mobjack Bay is at the east end of Gloucester County, and opens from Chesapeake Bay.</note> 
+ 
+<note id="n2">[2] Fleets Bay is at the east end of Northumberland County not far from Corotoman.</note>
+
+
+
+<lb/><lb/><note><hi rend="italics">This text revised September 23, 2008.</hi></note> 
+ 
+</div1> 
+</back> 
+</text> 
+ 
+
+</TEI.2>

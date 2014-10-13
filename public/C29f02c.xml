@@ -1,0 +1,182 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C29f02c">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Major [John] Holloway, June 2, 1729</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca.11  kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C29f02c.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2005</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Major [John] Holloway, June 2, 1729</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>3 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1729-06-02</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C29f02cT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>3 p.</extent>
+<date value="1729-06-02"></date>
+<idno rend="suppress">C29f02c.xml</idno>
+<title>Letter from Robert Carter to Major [John] Holloway, June 2, 1729</title>
+</bibl>
+</head>
+<p>Robert Carter writes to his attorney and friend, [John] Holloway, June 2, 1729, concerning the granting of lands on the Little Fork in areas that he believes belong to the proprietary. He speculates on the reasons behind the opposition to the proprietor's grant being made by the receiver general, John Grymes, and the grants being taken there by Henry Willis.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to Major <note n="JH">[John] Holloway,</note> June 2, 1729</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Corotom[a]n, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1729-06-02">[date from text]</date><lb/>
+Majr. Holloway<lb/>
+</dateline>
+<salute>Sir</salute>
+
+</opener>
+
+
+
+<p>Since I writ to you <note target="n1">Mr. Owsley</note> of Stafford <sic corr="has">hath</sic> <lb/>been at my house a <sic corr="noted">noated</sic> <sic corr="traveler">traveller</sic> in the backwoods for many years <lb/>he tells me of a march he made when he was <add place="supralinear">a</add> ranger by the Order of <lb/><note target="n2"><abbr expan="Colonel">Colo</abbr> Spotswood</note> in <abbr expan="Company">Compa:</abbr> with <abbr expan="Augustine">Augn:</abbr> Smith the <sic corr="Surveyor">Surveyr</sic> &amp; Others <lb/>it is so <del>. . . ated</del> <add place="supralinear">great</add> An illustration of the forks of <sic corr="our">our:</sic> River that that I <lb/>have thought it Proper to take it Under his hand and herein do <lb/>transmit to you he Adds further that not Above a fortnight or three <lb/>weeks ago he was at the <note target="n3">new Germans</note> as they are called who are sea-<lb/>ted upon the upper branches of Germana River and then he passed <lb/>Over all the Northern branches and is very well Assured <add place="supralinear">tht none</add> that <sic corr="has">hath</sic> <lb/><sic corr="traveled">travalled</sic> <sic corr="those">them</sic> places will pretend to say there is any Comparison <lb/>between the Southern branch of the <note target="n4">little Fork</note> and the Northern <lb/>branches Which all to his certain knowledge head in a little way <lb/><del>. . .. befor</del> <add place="supralinear">in some small</add> Mountains a great way Short of the Blue ridge <lb/>All which Corresponds very well with <note target="n5">Mr: Savages</note> description</p>
+
+<p><note target="n6">Robin Beverly</note> in a <sic corr="Patent">Pattent</sic> of four thousand <lb/>Acres that he got of <abbr expan="Colonel">Colo</abbr> Spotswood cunningly Extends his bounds <lb/><add place="supralinear">without giving length of pole upon some Courses</add> into this little Fork and there Mr. <note target="n7"><abbr expan="William">Wm</abbr> Beverley</note> his son <sic corr="has">hath</sic> seat<corr resp="editor">[ed]</corr> <lb/>some <abbr expan="quarters">qrs:</abbr> I have heard Upon an Alarm that will Beverley had from <lb/>the <note n="JG2"><abbr expan="Receiver General">Recr Genl:</abbr></note> <sic corr="has">hath</sic> lately made A Survey of this <sic corr="Artful">Artfull</sic> <sic corr="Patent">Pattent</sic> <lb/>of his fathers And finds there is above Nine thousand Acres in it <lb/>this I have been told but Cannot Affirm the truth of it <sic corr="Major">Majr</sic> <note target="n8">Henry <lb/>Willis </note><sic corr="has">hath</sic> gone further into this Fork and taken up large quan<lb/>tities of Land Upon which I <sic corr="believe">beleive</sic> all the slaves he <sic corr="has">hath</sic> in those <lb/>Parts are seated so that there is no great wonder to be made there is <lb/>such a mighty Struggle for this little Fork And my Grants th<corr resp="editor">[at]</corr> <lb/>I have made there I <sic corr="believe">beleive</sic> are Elder than <sic corr="Major">Majr.</sic> Willis's <abbr expan="Colonel">Colo</abbr> Spots<lb/>wood no doubt was Altogether Surprised in to his grant and I mus<corr resp="editor">[t]</corr> <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;think that 
+
+<pb n="2"/><lb/><lb/>
+All the Other <sic corr="patents">pattents</sic> that have Passed there since <sic corr="has">hath</sic> been a <lb/>Surprise to <note n="HD"><abbr expan="Colonel">Colo</abbr> Drysdale</note> for I cannot think Any <abbr expan="Governor">Govr:</abbr> that is clearly <lb/>Apprehend<del>sive</del><add place="supralinear">ed</add> that this little fork belongs to the Northern neck grant <lb/>as I think it is easily made out beyond a dispute w<del>ill</del><add place="supralinear">ould</add> issue any 
+pa=<lb/><sic corr="tents">ttents </sic>for Lands there</p>
+
+<p>I almost think it will be but A Proper respect to the <abbr expan="Governor">Govr.</abbr> <lb/>and what will be no way as Offensive upon a proper Opportunity <add place="supralinear">if <abbr expan="you">yo.</abbr> would</add> <del>to</del> <lb/>make him Acquainted with the description of these places from <lb/>the full testimony we have but this I must Submit to your Considera=<lb/>tion</p>
+
+<p>I have sometimes wonderd at the great heat of <sic corr="our">or</sic> <abbr expan="Receiver">Recr:</abbr> <lb/><abbr expan="General">Genl:</abbr> against the <abbr expan="Propietors">Proprs</abbr> grant and especially in this business of the <lb/>little fork at first I imagined a huge desire he might have to get <lb/>the Northern neck Added to the Crown (a very pretty Perquisite to a <lb/><abbr expan="Receiver">Recr.</abbr><abbr expan="General">Genl.</abbr>) that <abbr expan="Occasioned">Occasion'd</abbr> his Zeal to Appear so hot but I am now <lb/><sic corr="thoughtfull">thoughtfull </sic>of another great Spur he may be Under which I shall <lb/>communicate to you in Confidence</p>
+
+<p>Some years Ago <sic corr="Major">Majr</sic> Willis was in such perplexity <lb/>About Answering the Calls of his <note target="n9">Son in Laws</note> Estate that he <lb/>was put Under the necessity of borrowing money I lent him &pound;200 <lb/>and I fancy he had more of Others by the Assistance of <abbr expan="Colonel">Colo</abbr> Grymes <lb/><del>[illegible]</del> I take it that my money was paid me and I have a notion that <lb/>this land and his Slaves are Under Mortgage to him for his security <lb/><abbr expan="Colonel">Colo</abbr> Grymes is the Guardian of this boy by All his relations desire <lb/>now if this estate of Willis's be mortgaged whether it be for the <lb/>security of <abbr expan="Colonel">Colo</abbr> Grymes or the scarcity of the boys Estate I cannot <lb/>take him to stand as an indifferent Person or that his Zeal arises <lb/>Merely from the Duty of his place it is very likely you may <lb/>be more familiarly Acquainted with the terms that <abbr expan="Major">Majr:</abbr> Willis &amp; <lb/><abbr expan="Colonel">Colo</abbr> Grymes are upon I am not At All desirous <del>from</del> <add place="supralinear">of</add> getting 
+
+<pb n="3"/><lb/><lb/>
+deeper into your Secrets than what will be honourable for you to com<lb/>municate I am with hearty Sincerity </p>
+
+<closer>Sir <lb/><abbr expan="Your">Yr</abbr> most humble Servant.<seg type="postscript"><lb/><lb/></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1] Thomas Owsley was a large landholder in Stafford County, and had taken many trips into the back country. (<cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title>pp. 53, 83, 110. 609.</bibl></cit>)</note>
+
+<note id="n2">[2] Alexander Spotswood (1646-1740) had been the governor from 1710 to 1722.</note>
+
+<note id="n3">[3] Governor Alexander Spotswood had encouraged immigration of Germans into Virginia in 1714, and they settled "in what was then Stafford Co. . . .. later Prince William and now Fauquier."  The men worked in Spotswood's iron mines, but around 1718 took grants in the proprietary in what was then Stafford County. (See "Germantown" in <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title></bibl></cit> pp. 207-221. and <cit><bibl>Elizabeth Chapman Denny Vann and Margaret Collins Denny Dixon. <title>Virginia's First German Colony. </title> Richmond: Privately printed, 1961.</bibl></cit> p. 33.) </note>
+
+<note id="n4">[4] The Fry-Jefferson map shows the Little Fork as a tributary of the Hedgman (now the Rappahannock) River. It lies in what is probably Culpeper County today, not far from the Blue Ridge. </note>
+
+<note id="n5">[5]  John Savage was a surveyor, later (1734) to be employed by Lord Fairfax in his  attempt to establish the boundaries of the proprietary. (<bibl n="B4">Harrison. <title>Landmarks. . . .</title> p. 619.</bibl>)</note>
+
+<note id="n6"> [6] Robert Beverley (c. 1673-1722) held various clerk's posts in the colonial government.  He was a burgess from Jamestown in the period 1699-1706.  In 1716, the Council named Beverly, John Holloway, and John Clayton to "regulate the admission of attornies to the bar."  Beverley is best remembered for his classic <title>History and Present State of Virginia</title> published in London in 1705. (<cit><bibl n="B1">Kukla. <title>Speakers and Clerks. . . .</title> pp. 144-46</bibl></cit>)</note>
+
+ <note id="n7"> [7] William Beverley (c. 1696-1756) son of Robert Beverley, lived at Blandfield, Essex County, where he was a member of the House of Burgesses and clerk of the court for many years (1716-1745). In 1752 he was appointed to the Council serving until  just before his death.  He acquired and leased vast tracts of land in what is today Augusta County where he is remembered in the city of Staunton where a street and district are named for him. <cit><bibl>(Cynthia Miller Leonard. <title> The General Assembly of Virginia July 30, 1619-January 11, 1978. A Bicentennial Register of Members.</title> Richmond: General Assembly of Virginia, 1978. pp. 77, 78, 81; and 
+"Col. William Beverley [13049]."  http://www.livelyroots.com/gerald/13049.htm. March 24, 2005</bibl></cit>)</note>
+
+<note id="n8">[8] Henry Willis (1691-1740) of Fredericksburg. ("Willis Family Genealogy"  (http://homepages.rootsweb.com/~marshall/esmd73.htm as of 5/21/02; and <cit><bibl>"Willis Family." <title>William and Mary Quarterly.</title> 1st ser. 5(1896): 24-27, 171-176; 6(1897): 27-29, 206-214.)</bibl></cit>)</note>
+
+<note id="n9">[9] Carter means Willis's stepson as current useage terms the relationship. Willis's first wife, Ann Alexander (whom he married November 2, 1714) was the widow of John Smith (d. 1712) of Purton, Gloucester County. She had two children including a son, Augustine Smith, for whom Willis would have had responsibility.   (<cit><bibl>hgc genealogy. Willis. http://www.glenncourt.com/family/chart_willis.shtml.  March 15, 2005</bibl></cit>; and <bibl>hgc genealogy. Warner. http://www.glenncourt.com/family/chart_warner.shtml. March 18, 2005</bibl>.)</note>
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

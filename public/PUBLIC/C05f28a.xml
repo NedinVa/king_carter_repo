@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C05f28a">
+
+ 
+
+<teiHeader type="aacr2"> 
+              
+<fileDesc> 
+<titleStmt> 
+     <title type="245">Letter from Robert Carter to William Robertson, 1705 June 28</title> 
+   <title type="gmd">[electronic resource]</title> 
+     <author>Carter, Robert</author> 
+   <respStmt> 
+     <resp>Creation of machine-readable version: </resp> 
+     <name id="editor">Edmund Berkeley, Jr.</name> 
+     <resp>Conversion to TEI.2-conformant markup</resp> 
+     <name>Edmund Berkeley, Jr., and the University of Virginia Library Electronic Text Center</name> 
+   </respStmt> 
+</titleStmt> 
+ 
+<extent>ca. 5 kilobytes </extent> 
+ 
+<publicationStmt> 
+     <publisher>University of Virginia Library.</publisher> 
+     <pubPlace>Charlottesville, Va.</pubPlace> 
+     <idno type="ETC"></idno> 
+     <availability> 
+     <p>Publicly accessible</p> 
+     <p n="public">URL: http://etext.lib.virginia.edu/modeng.browse.html</p> 
+         </availability> 
+     <date>2001</date> 
+</publicationStmt> 
+ 
+<sourceDesc> 
+     <biblFull> 
+     <titleStmt> 
+     <title>Letter from Robert Carter to William Robertson, 1705 June 28</title> 
+
+     <author>Robert Carter</author> </titleStmt>
+
+    <extent>2 p.</extent> 
+<publicationStmt> 
+     <date>1705-06-28</date> 
+   <idno type="callNo">Source copy consulted:  State Archives, New York State Education Department, Albany. New York (Colony). Council Papers. Vol. 51, p. 41 a-c. This document was copied for Governor Nicholson's private papers, and was carried by him to New York when he later became governor of that colony. The papers remained in New York, passing into the custody of the State Library which burned around the turn of the twentieth century, causing some damage to this series of records which have been transferred to the state archives. Printed in "Papers Relating to the Administration of Governor Nicholson and the Founding of William and Mary College," Virginia Magazine of History and Biography, 8(Jan. 1901): 268.</idno> 
+</publicationStmt> 
+</biblFull> 
+</sourceDesc> 
+ 
+</fileDesc> 
+     <encodingDesc> 
+     <projectDesc> 
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p> 
+     </projectDesc> 
+<editorialDecl> 
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in establishing 
+analytical groupings.</p> 
+</editorialDecl> 
+ 
+<classDecl> 
+     <taxonomy id="LCSH"> 
+     <bibl> 
+     <title>Library of Congress Subject Headings</title> 
+     </bibl> 
+     </taxonomy> 
+</classDecl> 
+</encodingDesc> 
+ 
+<profileDesc> 
+     <creation> 
+     <date>1705-06-28</date> 
+     </creation> 
+     <langUsage> 
+     <language id="eng"></language> 
+     </langUsage> 
+     <textClass> 
+     <keywords> 
+     <term>non-fiction</term> 
+   <term>prose</term> 
+     </keywords> 
+     <keywords scheme="LCSH"> 
+     <term type="Field650">LCSH</term> 
+     </keywords> 
+     </textClass> 
+</profileDesc> 
+ 
+</teiHeader> 
+ 
+<text id="C05f28aT"> 
+
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 pp.</extent>
+<date value="1705-06-28">June 28, 1705</date>
+<idno rend="suppress">C05f28a</idno>
+<title>Letter from Robert Carter to William Robertson, June 28, 1705</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Council Clerk William Robertson, June 28, 1705, explaining that he was unable to attend the last meeting because of the arrival of goods at his landing, and will not be able to attend the  next because he has an appointment with ship masters concerning tobacco he is shipping.</p>
+</div1>                 
+</front>
+
+
+<body> 
+ 
+<div1 type="letter" n="1705-06-28"> 
+ 
+<head>Letter from Robert Carter to <note n="WR">William Robertson</note>, June 28, 1705</head> 
+ 
+<opener> 
+ 
+<dateline>
+<pb n="1"/> 
+ 
+<name type="place">Kings Creek</name> [, York County, Virginia]<lb/> 
+ 
+<date value="1705-06-28">June 28, 1705</date><lb/> 
+ Mr.<abbr expan="William "> Wm. </abbr> Robertson&mdash;<lb/><lb/>
+
+</dateline> 
+                                              
+</opener> 
+<p>I was Setting out for the last <sic corr="Council ">Councill</sic> on Monday <lb/>but some goods just then coming to my Landing stopt  
+ 
+<pb n="2"/> 
+me till pretty late next day so that I could not recover <lb/><abbr expan="Williamsburg ">Wmburgh </abbr> <sic corr="until ">till</sic> late in the night expecting the 
+Council <lb/>would have <sic corr="set ">sett</sic> the 2d day&mdash;</p> 
+ 
+<p>At <note n="LB">Collonel Ludwells</note> last night a little before my taking <lb/>horse came 
+yor. Express for this meeting at a Council on <lb/>Saturday if I am Sent for pray give <note 
+n="FN">His Excellency</note> an <lb/>account of my late Journey &amp; that I cannot possibly 
+<lb/>be at the next having appointed some masters <lb/>to be at my house to give me bills of Lading for 
+<lb/>some Tobacco I have on board them and they intend <lb/>to leave the river by the last of the week I am <lb/><lb/> 
+ 
+yor. humble serv't<lb/> 
+ROBERT CARTER<lb/><lb/>
+
+<add place="marginbot">directed To<lb/> Mr Wm. Robertson<lb/>Clerk of the Councill <lb/>these</add><lb/><lb/> 
+ 
+<add place="marginbot">Examined per Wm. Robertson</add><lb/><lb/></p> 
+ 
+
+ 
+</div1> 
+</body> 
+ 
+<back> 
+<div1 type="notes"> 
+<head>NOTES</head>
+
+<note><hi rend="italics">Source copy consulted:</hi> State Archives, New York State Education Department, Albany. New York (Colony). Council Papers. Vol. 51, p. 41 a-c. This document was copied for Governor Nicholson's private papers, and was carried by him to New York when he later became governor of that colony. The papers remained in New York, passing into the custody of the State Library which burned around the turn of the twentieth century, causing some damage to this series of records which have since been transferred to the state archives. Printed in "Papers Relating to the Administration of Governor Nicholson and the Founding of William and Mary College," <title>Virginia Magazine of History and Biography</title>, 8(Jan. 1901): 268. 
+</note> 
+<note>"Kings Creek" was the home of Lewis Burwell (d. 1710) in York County. He was a member of Council and the father of Nathaniel (1680-1721) who would marry RC's daughter, Elizabeth, in 1708.</note> 
+
+<lb/><lb/><note><hi rend="italics">This text revised July 1, 2008.</hi></note>
+ 
+</div1> 
+</back> 
+</text> 
+ 
+
+</TEI.2>
