@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C29d11d">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to John Pemberton, April 11 and June 20, 1729</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca.  kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C29d11d.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2005</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to John Pemberton, April 11 and June 20, 1729</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1728 August 8-1730 May 15,  Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1729-04-11</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C29d11dT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1729-04-11"></date>
+<idno rend="suppress">C29d11d.xml</idno>
+<title>Letter from Robert Carter to John Pemberton, April 11 and June 20, 1729</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Glasgow merchant John Pemberton, April 11, 1729, reporting the arrival of several "Packetts" from the merchant, commenting on the poor market for tobacco, alerting Pemberton about a mistake that he has made in marking some hogheads that belong to another account, directing him to charge protested bills of exchange from the <hi rend="italics">Rose</hi> slave sale to his personal account, and enclosing (not present) a bill of lading for 25 hogsheads of his own tobacco. On June 20th he adds a post script to add a bill of lading (not present) for 3 hogsheads more.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="JP">John Pemberton,</note> April 11 and June 20, 1729</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1729-04-11">Apl: 11th. 1729</date><lb/>
+Mr. John Pemberton<lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+<p>I <abbr expan="received">rec'd</abbr> yor. Several <sic corr="Packets">Packetts</sic> by the <note target="n1">Rappahannock</note> <abbr expan="Captain">Capt.</abbr> Break<lb/>hill am Sorry the Sales both my own and yor. Cargoes <abbr expan="Tobacco">Tobbo:</abbr>turns out <lb/>so <sic corr="poorly">poorely</sic> indeed we have not much better <abbr expan="Encouragement">Encouragemt</abbr>. from any other <lb/>Port, Your <sic corr="Markets">Marketts</sic> in former Years have rather Exceeded <sic corr="than">then</sic> fallen <lb/>short of others, I had not less at London <sic corr="than">then</sic> &pound;7 per hogshead round how the <lb/>last Crop will rise I have not one Accot. as yet Except for a little fine <lb/>Tobacco out of York river which sold at 9 3/4<abbr expan=" pence">d</abbr> but that is no standard, I <lb/>shall think myself fairly <sic corr="off">of</sic> if my general Sales comes out at a Penny <lb/>less, Miserable is our Condition if we cant live by our Labour,</p>
+
+<p>I have Sent you one hogshead <corr resp="editor">[tobacco mark] </corr> <add place="supralinear">1:9421:86:856:30:886</add> I must own to you I have <lb/>Committed a mistake in marking 3 or 4 more to the <corr resp="editor">[tobacco mark] </corr> <sic corr="than">then</sic> I Should <lb/>it <sic corr="happened">happend</sic> that I <sic corr="reckoned">reckond</sic> Purcells Debt <sic corr="belonged">belongd</sic> to the <note target="n2">Rose Concern</note> <lb/>and did not See my Error <sic corr="until">till</sic> I came to <sic corr="Overhaul">Overhall</sic> the Papers, which <lb/>was after the <abbr expan="Tobacco">Tobbo:</abbr>
+ was <sic corr="marked">markt</sic> and <sic corr="gone,">gon,</sic> This I must <sic corr="rectify">rectifye</sic> out <lb/>of the <corr resp="editor">[tobacco mark]</corr> <abbr expan="Tobacco">Tobbo:</abbr>
+ which I hope will make little difference,</p>
+
+<p>I tell the Freighters of the <name type="ship">rose</name> I have <sic corr="ordered">orderd</sic> you to pay to <lb/>them the 8 Protested bills you sent me Amounting to &pound;49:13:0 3/4 <lb/>to be charged to my private Accot.</p>
+
+<p>I send you a bills of Lading for 25 hogsheads of my own <lb/><abbr expan="Tobacco">Tobbo:</abbr>
+ which I will <sic corr="believe">beleive</sic> to be very good they came from <abbr expan="Plantations">Plans:</abbr> <lb/>that have always made Such. it hath bin a disappointment to <lb/>me not to have my Goods in the Rappahannock You will yet I hope meet wth. <lb/>Some Opportunity or other to send them by but if you do not I desire <lb/>you will Send me double the Quantity of every Sort as Early in the next <lb/>fall as ever you can and if these goods should be come away then I <sic corr="would">wold</sic> <lb/>desire you to Send me the Same quantity over again in one of the Earliest <lb/>of your Ships,</p>
+
+<p>I Send you <sic corr="Copies">Copys</sic> of Some Accots. you had before to <lb/>Explain to you how I make &pound;16:10:9 <add place="supralinear"><hi rend="italics">to be</hi></add> the right balance of <sic corr="those">them</sic> Accots.</p>
+ 
+<p>The hogshead of <corr resp="editor">[tobacco mark]</corr> is the bill of Lading of the <corr resp="editor">[tobacco mark]</corr> and in the bill of <lb/>Exchange <corr resp="editor">[. . .]</corr>, You will please to Set this to rights, I am </p>
+
+<closer>Yor. humble Servt.<seg type="postscript"><lb/><lb/><del>To be Added to the freighters of the Ship Rose<lb/>Gent.<lb/>I send you Copys of some Accots. on hand before to Explain<lb/>to You how I make &pound; 16:19:19 which is to be paid to you by Mr. Pemberton<lb/><lb/></del></seg>
+
+<seg type="postscript"><pb n="3"/><lb/><lb/>
+Added to my letter to Mr Pemberton of the 11. Apl. 1729<lb/>
+Mr. John Pemberton<lb/>
+Sir	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rappa: June 20th. 1729<lb/>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have now <abbr expan="Shipped">Ship'd</abbr> 3 hogsheads of Tobo. more of the<lb/>
+[tobacco mark] you have herein a bill of Lading for it Them another<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hhd<lb/><lb/>
+
+<pb n="4"/><lb/><lb/>
+
+lyes ready <add place="supralinear">wch I could not get taken in</add> there remains to ballance these marks as I reckon<lb/>
+In checking this total that is <abbr expan="received">receiv'd</abbr> the rest still outstanding wch<lb/>
+I shall be Answerable to you for hereafter<lb/><lb/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have little to say to you at Present only to desire<lb/> 
+you will Comply with the Contents of above letter remaining<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;your most Humble: Servt<lb/><lb/>
+Copy per Letherland<lb/>
+
+</seg>
+
+</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
+
+<note id="n1">[1] There  were several vessels with the name <hi rend="italics">Rappahannock</hi>.  One was based in Liverpool and was commanded by a Captain Francis Etheridge in 1725; she was a 90 ton ship with 13 men. Another of which Charles Whate was captain was of 60 tons with 11 men in 1726 and 1727. Carter's letters mention a Captain Hugh Brackhill in 1728-1729, and Captain Loxum in 1733. (<cit><bibl>Adm. 68/194, ff.30, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n2">[2] Carter refers to the sales of slaves from Pemberton's ship, the <hi rend="italics">Rose,</hi> for which he had been the agent in the colony. See his letters to Pemberton in 1728 for more information.</note>
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

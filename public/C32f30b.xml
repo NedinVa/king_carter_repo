@@ -1,0 +1,180 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C32f30b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Alderman [Micajah] Perry, June 1732</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 9 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C32f30b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2006</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Alderman [Micajah] Perry, June 1732</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1732-06-30</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C32f30bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1732-06-30"></date>
+<idno rend="suppress">C32f30b.xml</idno>
+<title>Letter from Robert Carter to Alderman [Micajah] Perry, June 1732</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant  Alderman [Micajah] Perry, June 1732, to alert him to renewed attacks upon the proprietary in the current assembly, and to send a record of "their votes" as he has to Thomas Lord Fairfax. He relates the problems ship masters are having in finding complete cargoes, and hopes this will mean a better market for tobacco.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to Alderman <note n="MP2">[Micajah] Perry,</note> June 1732</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1732-06-30">June 1732</date><lb/>
+Alderman Perry<lb/>
+</dateline>
+<salute>Sir</salute>
+
+</opener>
+
+
+
+<p>I writ to you by the <note target="n1"><name type="ship"><sic corr="Rebecca">Rebeca</sic></name></note> at some Length about my <note n="TF">Lord <lb/>
+Fairfax's</note> Affairs. The Burgesses are now making a fresh attack against <lb/>
+his Lordship's grant as you will see by their Votes, which I have thought it my <lb/>
+Duty by this first Opportunity to transmit to his Lordship <abbr expan="that">tht</abbr> he may be upon <lb/>
+his Guard in the Defence of his Estate; &amp; I send also a Copy of these Votes for your <lb/>
+Perusal. The Money they voted for <sic corr="soliciting">solliciting</sic> their Petition in the Former <lb/>
+Session was disallowed by the Council; but whether it will meet with the <lb/>
+same Fate now I cannot take upon me to say. I expect the Gentlemen of <lb/>
+our Revenue will leave no Stone unturned to carry their Point for <lb/>
+Reasons I have formerly mentioned to you.</p>
+
+<p>Captain Bradby of the <note target="n2"><name type="ship">Spotswood</name></note> <sic corr="has">hath</sic> lately visited me &amp; makes <lb/>
+a heavy Complaint of the Little Hopes he is in of getting his Ship near Loaded, &amp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;names 
+
+<pb n="2"/><lb/><lb/>
+a great many more in the same Circumstances with himself; &amp; I am <lb/>
+advised that the Ships will not be near loaded in James River; <abbr expan="Captain">Capt.</abbr><del>Malbon</del> <add place="supralinear">Bradby</add> <lb/> tells me he <sic corr="has">hath</sic> <sic corr="written">writ</sic> these stories to You both by the <sic corr="Rebecca">Rebeca</sic> &amp; by <note target="n3">Brooks.</note> I have <lb/>
+done all in my Power towards Loading your ships. Seabrook they say will <lb/>
+get full. What <note target="n4">Dove</note> will be able to do he <abbr expan="cannot">can't</abbr> yet tell. Your chartered Ship <lb/>
+takes a great deal away from him. We flatter ourselves these Things will <lb/>
+have a great Influence upon the Markets towards our Relief under our <lb/>
+Unhappy Circumstances. I am, 
+
+
+</p>
+
+<closer>Sir, <lb/>
+Your most Humble Servant.
+</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1] The <hi rend="italics">Rebecca </hi> was probably a London ship; she was of 300 tons, had a crew of 11, and was commanded by Samuel Malbon in 1731-32. (<cit><bibl>Adm. 65/195, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n2">[2] The <hi rend="italics">Spotswood</hi> was a  London ship commanded by James Bradby,  1727-1732, and was owned by Micajah Perry.  (<cit><bibl>Adm 68/195, 70r ff., found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. See Carter to Micajah Perry 1730 April 16.</bibl></cit>)</note>
+
+<note id="n3">[3] Christopher Brooks commanded the <name type="ship"><hi rend="italics">Cambridge,</hi></name> a vessel of 100 tons and 11 men owned by London merchants Haswell and Brooks in 1729. (<cit><bibl>Survey Report 6801 summarizing Adm. 68/195, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n4">[4] The <hi rend="italics">Bailey</hi> was a London ship owned by William Dawkins and commanded at various times by Adam Graves (1725-1730) and by Thomas Dove (1731-1732). She was a vessel of some 250 tons and carried 15-17 crew members. (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, 156v, and other data in Adm. 68/194 and /196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> A letter of Carter's to Dawkins 1732 May 12 refers to "your ship Bailey." as does a letter of 1738 May 10 from Carter's executors to Dawkins 1738 May 10.)</note>
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

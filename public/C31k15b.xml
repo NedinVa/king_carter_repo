@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C31k15b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to William Dawkins, November 15, 1731</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 9 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C31k15b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2006</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to William Dawkins, November 15, 1731</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1731-11-15</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C31k15bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1731-11-15"></date>
+<idno rend="suppress">C31k15b.xml</idno>
+<title>Letter from Robert Carter to William Dawkins, November 15, 1731</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant William Dawkins, November 15, 1731, to send a copy (not present) of an earlier letter, and a bill of lading (not present) for a shipment of tobacco. He discusses at length the effect of the new tobacco inspection act in the colony.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to William Dawkins, November 15, 1731</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1731-11-15">Novr. 15. 1731</date><lb/>
+Mr. William Dawkins<lb/>
+</dateline>
+<salute>Sir</salute>
+
+</opener>
+
+
+
+<p>The above is a copy of mine by the <name type="ship">Mary Brigga=<lb/>
+ntine</name> Captain Belcher</p>
+
+<p>Herein I send you a bill of Lading for 20 <abbr expan="hogsheads">hhds.</abbr> of<lb/>
+<abbr expan="tobacco">tobo.</abbr> They were <abbr expan="paid">p'd</abbr> me for <note target="n1">Quitrents</note> brought home &amp; <abbr expan="prized">priz'd</abbr> at my own<lb/>
+house I think they are good of the sort you may <sic corr="please">pleas</sic> to take your<lb/>
+own way in the sale of it either at the mast for Export or inland&mdash;</p>
+
+<p>We are now under a great puzzle with our <note target="n2"><abbr expan="tobacco">tobo</abbr> law</note><lb/>
+the weights &amp; Scales are not Come in <note target="n3">Mr. Buchanan</note> hath sent some<lb/>
+<abbr expan="scattered">scatter'd</abbr> letters signifying that <note target="n4">it was <sic corr="passed">passt</sic></note> Warehouses are built &amp;<lb/>
+building in most parts and so are the inspectors Appointed except in<lb/>
+Some of the Upper parts of Our Rivers which we reckon will soon be<lb/>
+<abbr expan="Supplyied">Supply'd</abbr> also&mdash; this good Effect the law <sic corr="has">hath</sic> already had that all<lb/>
+people and especially our Overseers are wonderfully <abbr expan="alarmed">alarum'd</abbr> in the<lb/>
+neat handling of tobacco it occasions the throwing away of  abundance of what<lb/>
+we <abbr expan="used">us'd</abbr> to get good money for I almost think there will not be more tobacco<lb/>
+to ship this Year it may be not so much by a great deal as was the last<lb/>
+Notwithstanding the great noises of a mighty Crop but I would not have<lb/>
+you take much notice of what I say the best guesses we can make<lb/>
+are very much at random however I beleive you may reckon safely<lb/>
+that the tobacco which will be <sic corr="shipped">shipt </sic>will in general be the neatest &amp; best hand<lb/>
+led that ever you saw I am 
+</p>
+
+<closer>Sir <lb/>
+<abbr expan="Your">Yr.</abbr> most humble Servant</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia. There is a 19th-century transcript of the letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1] Quit rent was the term used for the payment due from the holder of land to the "lord of the manor," in this case, to the proprietors of the Northern Neck. Carter as the proprietor's agent, collected these payments. No services were required of the landholder as had been true in mediaeval times.</note>
+
+<note id="n2">[2] The tobacco inspection act of  1730 was introduced and steered through the legislature by Lieutenant Governor Sir William Gooch. " The "bill called for the inspection and bonding at public warehouses of all tobacco shipped abroad; for the destruction of all unacceptable tobacco; for standardization of the size of hogsheads . . . ; for maintenance of detailed records to prevent smuggling; and for the circulation of warehouse receipts as legal tender in lieu of tobacco iteself. . . ." Gooch also managed to obtain approval of the act in England. It went into effect 1731 August 1.(<cit><bibl n="B27">Billings. <hi rend="italics">et al. </hi> <title>Colonial Virginia: A History. </title></bibl></cit> pp. 236-39.)</note>
+
+<note id="n3">[3] Merchant James Buchanan (d. 1742) had run his business from Bideford and Topsham, Devonshire, but he later moved it to London. (<cit><bibl> <title>The Directory Containing an Alphabetical List of the Names &amp; Places of Abode of the Directors of Companies, Persons in Publick Business, Merchants and other Eminent traders in the Cities of london and Westminster and Bororugh of Southwark.</title> London: Printed and sold by Henry Kent in Finch-Lane Near the Royal Exchange . . . , 1736. p. 110;</bibl></cit> and <cit><bibl> <title>A Compleat Guide to All Persons who have any Trade or Concern with the City of London and Ports adjacent. . . .</title> London: Printed for J. Osborn, at the Golden Ball in Pater-noster-row, MDXXXL</bibl></cit>)</note>
+
+<note id="n4">[4] Carter means that the tobacco inspection law had been approved in England.</note>
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

@@ -1,0 +1,47 @@
+#!/usr/local/bin/perl
+
+$Pat="/lv1/ot/ot5.0/bin/pat50";
+$Text="/web/data/users/berkeley/search/carter.dd";
+$HtmlFilt="/web/data/users/berkeley/carter.pl";
+$QuietFilt="/web/bin/patbin/pat2html";
+$Search="/tmp/PAT.$$";
+$Title="";
+
+$QS=$ENV{'QUERY_STRING'};
+@QS = split(/&/,$QS);
+
+foreach $i (0 .. $#QS) {
+	$QS[$i] =~ s/\+/ /g;
+	($key,$val) = split(/=/,$QS[$i],2); 
+	
+	$key =~ s/%(..)/pack("c",hex($1))/ge;
+	$val =~ s/%(..)/pack("c",hex($1))/ge;
+
+	$QS{$key} .= "\0" if (defined($QS{$key}));
+	$QS{$key} .= $val;
+}
+$id=$QS{'id'};
+print "Content-type: text/html\n\n";
+print "<HTML>\n<HEAD>\n<TITLE>$Title</TITLE><\HEAD>\n";
+print "<BODY bgcolor=\"#FFFFFF\">\n
+<center><img src=/users/berkeley/logo.gif></center>
+<br>
+<font size=+2><a href=/users/berkeley> Home </a></font><br>\n
+
+";
+open(SEARCH,"> $Search");
+print SEARCH "{Quieton raw}\n";
+print SEARCH "docs TEI2 incl \"<idno>$id\"\; ";
+print SEARCH "pr.docs.TEI2\; ";
+print SEARCH "quit";
+close(SEARCH);
+
+
+open(PAT, "$Pat -q -e $Text < $Search | tr '\012' ' '|$QuietFilt|$HtmlFilt|");
+while(<PAT>){
+	print;
+}
+close(PAT);
+print "\n</BODY>\n</HTML>\n";
+system("rm -f $Search");
+

@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C27i16a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to John Pemberton, September 16, 1727</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 7 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C27i16a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2003</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to John Pemberton, September 16, 1727</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1727-09-16</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C27i16aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1727-09-16"></date>
+<idno rend="suppress">C27.xml</idno>
+<title>Letter from Robert Carter to John Pemberton, September 16, 1727</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Liverpool merchant John Pemberton, September 16, 1727, concerning arrangements for the sale of slaves that have come into Virginia on board Pemberton's ship, the <hi rend="italics">Rose</hi> commanded by James Christian, noting that many of the slaves are sick, and winter is coming.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="JP">John Pemberton,</note> September 16, 1727</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Rappahannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1727-09-16">Sepr: 16th. 1727&mdash;</date><lb/>
+
+</dateline>
+
+
+</opener>
+
+
+
+<p><note target="n1"><abbr expan="Captain">Capt:</abbr> Christian</note> hath now brought me his Orders <lb/>Dated <del>the</del> <abbr expan="September">Sepr.</abbr> the 24th: 1726 in which find my name first put <lb/>in and then raced out, and <note target="n2">Tom Nelson</note> interlined at the End whereof <lb/>you Say Nelson would have Letters from you and if he Could Comply <lb/>with your Limitation the Negroes &amp;ca. where <add resp="editor"> [<hi rend="italics">sic</hi>]</add>to be <sic corr="delivered">deliverd</sic> <lb/>to him when you came to mention my name there is no Limitation added <lb/>if there had I would not meddle with them. In the Postscript you Say <lb/>if Tom Nelson in York river do not Comply with your Orders apply to <lb/>Robert Carter <abbr expan="Esquire">Esqr.</abbr> Rappahannock and Colonel <note target="n3"><abbr expan="Thomas">Thos:</abbr> Lee</note> in Poto<lb/>mack and Mr. Bennet in Maryland Christian declares he hath <lb/><abbr expan="received">rec'd</abbr> no other orders from you Crump and Kagle at <sic corr="Barbados">Barbadoes</sic> had <lb/>no orders he could hear of none in York to Mr. Nelson I have had none <lb/>from you relating to this Ship which makes me <sic corr="believe">beleive</sic> you intended <add place="supralinear">no Limitations</add> <lb/>to me for this ship hav<add place="supralinear">ing</add> only <abbr expan="received">rec'd</abbr> from you advice of this Ship in <lb/>your Letters of <abbr expan="October">Octor.</abbr> and December Date, many of the Slaves are <lb/>Ailing 18 put <sic corr="ashore">aShoar</sic> to recruit <add place="supralinear">three dead Since he came into this river</add> his provisions in a manner All <sic corr="gone">gon</sic> <lb/>a Cold Spell of weather upon us, the winds hang Northerly the 
+
+<pb n="2"/><lb/><lb/>
+winter at hand und<add place="supralinear">er</add> all these ill Circumstances in Service to you <lb/>if the Master will come into the termes I shall propose to him I Shall <lb/>Adventure upon the Sale of them and make the most of them I can bel<lb/><sic corr="ieving">iving</sic> you will take it very kindly <note target="n4"><abbr expan="Captain">Capt:</abbr> Tarleton</note> is in a very great <lb/><sic corr="haste">hast</sic> to be <sic corr="gone">gon</sic> having a fair wind Affording me only the time for <lb/>these few line I am </p>
+
+<closer>Sir<lb/>Yor: very humble Servt.<seg type="postscript"><lb/><lb/>per Tarleton&mdash;</seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1727 May-1728 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. It, the county, and colony have been added for clarity to this unheaded draft.</note>
+
+<note id="n1">[1] James Christian was captain of the <hi rend="italics">Rose,</hi> a vessel were owned by merchant John Pemberton of Liverpool. (See Carter to Pemberton, 1730 April 15.) </note>
+
+<note id="n2">[2] Thomas Nelson (1667-1745), a resident of Yorktown, was a merchant and was sheriff of York County in 1722 and 1723. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:12,34,184;</bibl></cit> and <cit><bibl n="B30">Greene. <title>The Diary of Colonel Landon Carter. . . .</title>, p. 96.</bibl></cit>)</note>
+
+<note id="n3">[3] Thomas Lee (1690-1750) was the son of Richard Lee II, and nephew of Edmund Jenings; he would build "Stratford," and succeed Carter on the Council. (<cit><bibl>Burton J. Hendrick. <title>The Lees of Virginia: Biography of a Family.</title> [Boston: Little Brown, 1935]. pp. 48, 51, etc.</bibl></cit>)</note>
+
+<note id="n4">[4] Several vessels named <hi rend="italics">The Loyalty</hi> sailed to Virginia. One commanded by Francis Wallis cleared from Poole for Virginia in 1726. Captain Loxom commanded  a vessel of this name in 1730 as did James Tarleton in1731. (Survey Report 9727, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. See Carter's letters to John Pemberton 1730 April 15 and 1731 August 4..)</note>
+
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

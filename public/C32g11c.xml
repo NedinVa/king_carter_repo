@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C32g11c">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Alderman [Micajah] Perry, July 11, 1732</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 10 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C32g11c.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2006</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Alderman [Micajah] Perry, July 11, 1732</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1732-07-11</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C32g11cT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1732-07-11"></date>
+<idno rend="suppress">C32g11c.xml</idno>
+<title>Letter from Robert Carter to Alderman [Micajah] Perry, July 11, 1732</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant Alderman [Micajah] Perry, July 11, 1732, concerning his review of the mechant's accounts for the Burwell estate, and especially about his ungrateful grandson Lewis Burwell's profligate spending habits and poor manners in not writing his grandfather in over two years.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to Alderman <note n="MP2">[Micajah] Perry,</note> July 11, 1732</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1732-07-11">July 11.. 1732</date><lb/>
+Alderman Perry<lb/>
+</dateline>
+<salute>Sr.</salute>
+
+</opener>
+
+
+
+<p>In looking over <note n="NB">Mr. Burwells</note> Account Currt <lb/>
+the three first Articles on the <sic corr="debit">debet</sic> Side are &pound;60." &pound;50" &pound;60" paid on <lb/>
+notes of <note target="n1">Lewis Burwells</note> quickly after that Comes a broken Account of <lb/>
+5 hogsheads of tobacco sold to an Insolvent which <sic corr="Carries">Carrys</sic> off &pound;129"6"9 a smart <lb/>
+Article indeed that will hardly be <abbr expan="retreived">retreiv'd</abbr> by 20 hogsheads more You are the <lb/>
+Seller you <sic corr="choose">chuse</sic> your man you have all the power in your hands of <lb/>
+taking what security you <sic corr="please">pleas</sic> upon your sales for the Security of <abbr expan="your">yr.</abbr><lb/>
+payments but be your methods what it will Our ruin depends upon <lb/>
+the effect of an incautious trust this is a melancholly Consideration but <lb/>
+I Shall <del>[illegible]</del> <add place="supralinear">not whet</add> upon it any longer at Present <lb/>
+In my accot I am <abbr expan="charged">charg'd</abbr> &pound;25 for one hogshead of tobacco <lb/>
+more than any five of mine produces me</p>
+
+<p>Besides this &pound;170 paid between the 27. of March 1731 <lb/>
+and the 17. of June <add place="supralinear">on Lewis Burwells notes</add> it seems he <sic corr="has">hath</sic> been with Mr. Dawkins for money <lb/>
+of him but he <sic corr="has">hath</sic> had the prudence to <sic corr="deny">denye</sic> him any he is of age <abbr expan="it is">'tis </abbr><lb/>
+true but I hope he has not the power to ruin the rest of his fathers Child= <lb/>
+ren and I desire and <sic corr="beg">begg</sic> of you that you will not let him take his <lb/>
+Swing in any immoderate manner and I am sure <abbr expan="it is">tis </abbr> in your power to restrain <lb/>
+him from having any more money than you see reasonable to let him have <lb/>
+if he spends his own after he gets it into his possession he must then thank <lb/>
+himself but before he has that power in himself there ought to be an Accot <lb/>
+Settled and a division made if this is to be the Effects of an English Education <lb/>
+I don't know who will venture their Sons thither</p>
+
+<p>Some late letters of Yours have said many good things <lb/>
+
+
+<pb n="2"/><lb/><lb/>
+Of this youth that he had made a very good use of his time at the univer= <lb/>
+sity and would be a Comfort to his relations here when they come to see <lb/>
+him and that he would without fail come to Virginia this next Ship= <lb/>
+ping I have <sic corr="written">writ</sic> Year after Year for his Coming in and have <sic corr="written">writ</sic> to <lb/>
+him many monitory letters with the tenderness of a father but he turns <lb/>
+his back upon me and where he has his manners I know not Certainly <lb/>
+the University affords better or else I had rather breed a Son in a dark corner <lb/>
+of the Earth he hath not <abbr expan="vouchsafed">vouchsaf'd</abbr> a line to me now these two years and <lb/>
+when I had one I should be very angry with a son of mine if he could not <lb/>
+have afforded me a better at 14 years of Age Perhaps I may be carried <lb/>
+into more warmth than is <sic corr="entirely">intirely</sic> prudent however I shall again repeat <lb/>
+my Solicitations to you to send him to Virginia as soon as possibly <abbr expan="you">yo.</abbr> <lb/>
+can and in the mean time not to let him lavish out money that is none of his <lb/>
+own And if you will indulge him beyond <abbr expan="what is">what's</abbr> proper the fault will not <lb/>
+<sic corr="lie">lye</sic> at my door <sic corr="it was">twas</sic> <abbr expan="proposed">propos'd</abbr> at his going to the University to allow him <lb/>
+&pound;150 a year and no more all that he spends beyond that I am sure had <lb/>
+better be hove into the Sea The keeping that Estate together and the <lb/>
+making the most of it has cost me abundance of Care and trouble and <lb/>
+I have a very Affectionate Memory for the <sic corr="worthiness">worthyness</sic> of his dear father <lb/>
+Pray God Grant him that he may imitate him in prudence and also <lb/>
+other manly Virtues I am <lb/>
+</p>
+
+<closer><abbr expan="Sir">Sr.</abbr> <lb/>
+Your most humble Servant 
+<seg type="postscript"><lb/><lb/>via <name type="city"><sic corr="Liverpool">Leverpoole</sic></name> <note target="n2">Loxum</note> 
+</seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia. There is a nineteenth-century copy of this letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1] Lewis Burwell (1698/99- 1743 lived "at one of the large properties he acquired on the north bank of the James River south of Williamsburg." He became a prominent citizen of James City County, serving as justice and burgess. He built a fine mansion at his Kingsmill plantation near "Carter's Grove." (<cit><bibl n="B42">Kneebone <hi rend="italics">et al.</hi>  <title>Dictionary of Virginia Biography.</title></bibl></cit>) 2:433-4.</note>
+
+<note id="n2">[2] Captain Loxom commanded  a vessel named the <hi rend="italics"> Loyalty</hi>in 1729-1730. (Survey Report 9727, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. See Carter's letters to John Pemberton 1730 April 15 and 1731 August 4.)</note>
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

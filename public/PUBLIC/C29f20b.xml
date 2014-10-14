@@ -1,0 +1,182 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C29f20b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Robert Carter to Alderman [Micajah] Perry, June 20, 1729</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 7 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C29f20b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2005</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Robert Carter to Alderman [Micajah] Perry, June 20, 1729</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1728 August 8-1730 May 15,  Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1729-06-20</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C29f20bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1729-06-20"></date>
+<idno rend="suppress">C29f20b.xml</idno>
+<title>Letter from Robert Carter to Robert Carter to Alderman [Micajah] Perry, June 20, 1729</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Robert Carter to London merchant Alderman [Micajah] Perry, June 20, 1729, to report bills of excange and to enclose an order (not present) for his daughter, Elizabeth Burwell's family. He notes the shipment of the tobacco of the Burwell estate.</p>
+</div1>                 
+</front>
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to Robert Carter to Alderman <note n="MP2">[Micajah] Perry,</note> June 20, 1729</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1729-06-20">June 20th. 1729</date><lb/>
+Alderman Perry<lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+<p>This advises you of a bill of Exchange Colo Page &amp;<lb/>
+my self have drawn on you to Mr: Emanuel Jones to be Paid out of<lb/>
+<note n="ECB"><abbr expan="Elizabeth">Eliza.</abbr> Burwells</note> money in your hands and to be <sic corr="Carried">Carryed</sic> to the <abbr expan="Debit">Dt</abbr><lb/>
+of that Accot</p>
+
+<p> Herein I inclose to you an Invoice for some goods for<lb/>
+the Supply of Mrs. Burwells Family for the next year desiring <abbr expan="your">yr</abbr> care<lb/>
+in the well buying and Shipping them according to the directions there=<lb/>
+in given <del>but</del> more Especially the <sic corr="Medicines">Medicins</sic></p>
+
+<p> We have also drawn on you for &pound;14.14.11 in <abbr expan="payment">paymt</abbr><lb/>
+of the <note target="n1">Quit rents</note> of Mr. Burwells land to <note n="JG">Mr Grymes</note> the <abbr expan="Receiver General">Recr Genl:</abbr><lb/>
+and to be Charged to his Estate</p>
+
+<p>The <abbr expan="Tobaccos">Tobos</abbr> orderd to be <del>shipt</del> <add place="supralinear">consignd</add> to you this year<lb/>
+b<corr resp="editor">[e]</corr>l<corr resp="editor">[o]</corr>nging to that Estate are as follows 15 hogsheads on board the <note target="n2">Carolina</note><lb/>
+<abbr expan="Captain">Capt</abbr>Holliday 16 hogsheads on the <note target="n3">Spotswood</note> <abbr expan="Captain">Capt</abbr>Bradby 9 hogsheads on board<lb/>
+the <note target="n4">Micajah &amp; Phillip</note> <abbr expan="Captain">Capt</abbr> Bradby in all 40 hogsheads about the one<lb/>
+half that is made by that Estate</p>
+
+<p>We are very barren of news at this time we have<lb/>
+been long Expecting the Arrival of the <note target="n5">Williamsburgh</note> and with her<lb/>
+the <del>result</del> <add place="supralinear">issue</add> of many things Pray God grant they be Propitious to us</p>
+
+<p>Bills of Lading for the above <abbr expan="Tobaccos">Tobos</abbr> will be sent<lb/>
+to you in the Several Ships I am</p>
+
+<closer>Sir<lb/><abbr expan="your">yr </abbr>most Humble Servant</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. </note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
+
+<note id="n1">[1] Quit rent was the term used for the payment due from the holder of land to the "lord of the manor," in this case, to the proprietors of the Northern Neck. Carter as the proprietor's agent, collected these payments. No services were required of the landholder as had been true in mediaeval times.</note>
+
+<note id="n2">[2] William Holladay commanded a ship named the <hi rend="italics">Princess Carolina.</hi> (<cit><bibl>Survey Report 6800, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n3">[3] This London ship was commanded by James Bradby, 1727-1732.  (<cit><bibl>Adm 68/195, 70r ff., found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n4">[4] The Micajah &amp; Philip was a large vessel of some 400 tons carrying a crew of 27. The captain's name varies from record to record as James Bradley or James Bradby. Thomas Jones wrote to his wife, then in England, concerning this ship in 1728, "The Micajah &amp; Philip that comes to James River is as good as the best Ships that Comes hither, but Bradby the master seems to be a little conceited and prodigal." (<cit><bibl>Adm. 68/194-196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia</bibl></cit>; and <cit><bibl><title>Virginia Magazine of History and Biography.</title> 26[1918]: 172, abstracting the Jones Papers at the Library of Congress.</bibl></cit>)</note>
+
+<note id="n5">[5] Isham Randolph was captain of the London ship <hi rend="italics">Williamsburgh</hi> in 1725-26, and Charles Rogers commanded her in1727-28. (<cit><bibl>Admiralty 68/194, ff. 39v, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

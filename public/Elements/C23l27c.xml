@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C23l27c">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to William Downman, [December 27, 1723]</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 9 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C23k27c.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2002</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to William Downman, [December 27, 1723]</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1723-12-27</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C23l27cT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1723-12-27"></date>
+<idno rend="suppress">C23k27c.xml</idno>
+<title>Letter from Robert Carter to William Downman, [December 27, 1723]</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Richmond County sheriff William Downman, [December 27, 1723], strongly urging him to do his duty in seizing the lands and property of murderer Thomas Glascock and offering to let him read the appropriate law book about the requirements in such a case. Carter notes that the seized property and lands belong to the proprietors and that he had the opinion of the governor and attorney general to that effect in an earlier case.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note target="n1">William Downman,</note> [December 27, 1723]</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
+<date value="1723-12-27">[December 27, 1723]</date><lb/>
+Mr. Willm: Downman<lb/>
+</dateline>
+
+
+</opener>
+
+<p>I have waited in expectation of <note target="n2"><abbr expan="Colonel">Col:</abbr> Barber</note> who was Coroner <lb/>and set upon the body of the Docter the Slain Man and found <del>[illegible]</del> <note target="n3"><add place="supralinear">Glascock</add></note> <lb/>guilty of the murder and of his flight for it upon the Inquest wh: <lb/>was taken before him which the Law calls a Conviction upon <lb/>record and upon this <del>[illegible]</del> the murderer had <sic corr="forfeited">forfieted</sic> his Lands <lb/>his Goods &amp;c and You as Sheriff ought <sic corr="immediately">imidiately</sic> to have <lb/><sic corr="seized">seiz'd</sic> the Estate and the profits of the Land for the King and you <lb/>the Law makes answerable for the Same these things belo<add resp="editor">[ng]</add> <lb/>to the Proprietors by their Grant I had <note n="JC3">Mr  Attorney's</note> op<add resp="editor">[ini]</add><lb/>on and <note target="n4"><abbr expan="Colonel">Col:</abbr> Spotswoods</note> too in a Case of a like natur<add resp="editor">[e one]</add> <lb/><sic corr="Edwards of Westmoreland">Edward's of Westmoorland</sic> by name and his Esta<add resp="editor">[te was]</add> <lb/><sic corr="delivered">deliverd</sic> to me by the Sheriff what <abbr expan="Colonel">Col:</abbr> Barber has <add resp="editor">[...]</add>  <lb/>this Estate I can't tell as this Case is the Law in <add resp="editor">[...]</add>  
+
+<pb n="2"/><lb/><lb/>
+that it does not <sic corr="allow">alow</sic> Maintenance to the Murderer nor his <lb/>family out of his Estate </p>
+
+<p>If You have not <add place="supralinear">yet</add> made the seizure I think tis your duty <lb/><sic corr="immediately">imidiately</sic> to do it but for your better instruction You may <lb/>consult <note target="n5">Mr Daltons officers sheriff</note> under his title <sic corr="forfeiture">forfie=<lb/>ture</sic> there You may read Your duty at large before you <lb/>proceed to alter the property of any of the estate I should <lb/>be glad to see you the next week in the Oyer and <sic corr="Terminer">Termener</sic> Court <lb/>if the weather be fair believe I shall hardly be at home</p>
+ 
+<p>I doubt You have been slack in Your duty in the <sic corr="pursuit">Persuit</sic> <lb/>of this Murderer the afforesaid book will give You directions <lb/>what you ought to have done my being <sic corr="concerned">concern'd</sic> so much in <lb/>this affair will justify this Letter to you from Sr </p>
+
+<closer>Sr <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your Humbl: Servt:</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1723 June 16-1724 April 23, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>The name of Carter's home, the county, and colony have been added for clarity to this unheaded draft. The letter is written into the letter book immediately preceding one of 1723 December 27 and that date has been assigned to this undated draft.</note>
+
+<note id="n1">[1] William Downman was a justice of Richmond County from 1718, sheriff  in 1722 and 1723, and a tobacco inspector in 1731 and 1732. (<cit><bibl n="B31">Ryland. <title>Richmond County Virginia. . . . </title> p. 504.</bibl></cit> and <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4(1721-1739): 12, 34, 238, 286</bibl></cit>)</note>
+
+<note id="n2">[2] Charles Barber had been sheriff of Richmond County in 1704 and 1715, and its surveyor in 1721.  (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 3[1705-1721]: 271,398, and 540</bibl></cit>)</note>
+
+<note id="n3">[3] Thomas Glascock murdered William Forester on 1723 November 5, and Carter noted in his diary on November 13th that Col. Barber "acquaints me he had seizd Glascocks who had fled for Murther." (<cit><bibl n="B31">Ryland. <title>Richmond County Virginia. . . . </title> p. 101.</bibl></cit>)</note>
+
+<note id="n4">[4] Alexander Spotswood (1646-1740) had been the governor from 1710 to 1722.</note>
+
+<note id="n5">[5] Carter refers to Michael Dalton's <hi rend="italics">Officium Vicecomitum: The Office and Authority of Sheriffs,</hi> published in 1623, a copy of which was in his library as he writes to Downman. (<cit><bibl n="A28">Wright. "The Literary Interests of the First Carters." p. 46.</bibl></cit>)</note>
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

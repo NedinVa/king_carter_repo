@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C21c25b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Micajah Perry, Sr., and Jr., March 25, 1721</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 10 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">filename</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Micajah Perry, Sr., and Jr., March 25, 1721</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date>1940</date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1721-03-25</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C21c25bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1721-03-25"></date>
+<idno rend="suppress">C21c25b.xml</idno>
+<title>Letter from Robert Carter to Micajah Perry, Sr., and Jr., March 25, 1721</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant Micajah Perry and his grandson of the same name, March 25, 1721, that Edmund Jenings's son has been quick to take money from Carter, but is reluctant to write to his father, and that collecting money from him is difficult. He adds that both Jeningses are in debt to him. He is suffering from the gout, and reports Mann Page's loss of his house and store from a fire on Marth 8th. Although the Perrys have written gloomily about the market for tobacco, Mr. Wormeley's tobacco has fetched a good price. The governor, Alexander Spotswood, is at his iron mine at Germanna and is pursuing the work strenuously. There is to be a meeting of the trustees of the College of William and Mary to settle their differences. Carter added in his hand to the clerk's draft a request to be sent salt.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="MP">Micajah Perry, Sr.,</note> and <note n="MP2">Jr., </note>March 25, 1721</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappa <add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1721-03-25">Mar. 25. 1721</date><lb/>
+Messrs. Micajh. Perry<lb/>Senr. and Junr.&mdash;&mdash;<lb/>
+</dateline>
+
+
+</opener>
+
+<p>I could never believe <note n="EJ"><abbr expan="Colonel ">Collo.</abbr> <sic corr="Jenings ">Jennings</sic> </note>having had <lb/>the <xref to="/users/berkeley/#Northern Neck">Proprietors affairs</xref> in his hands in so very good times but that he had quitted <lb/>Scores with them every Year, Young <sic corr="Jenings ">Jennings</sic> I find <sic corr="has ">hath </sic> bin nimble enough <lb/>to receive my bills <sic corr="although ">altho</sic> he <sic corr="has ">hath </sic> not found an opportunity among the many <lb/>that have offered to write his Father a line as he tells me, You give me <lb/>several hints that You wish I may come by my money as easy from him <lb/>as I parted with It to him, all I can now say is It had bin well these <lb/>cautions had come sooner, I should have had the <sic corr="wit ">witt</sic> not to <sic corr="let ">lett</sic> <lb/>him have the fingering so much of my money, You may believe I was <lb/>not in his debt, I have both him and his Son bound to me body and <lb/>bones, if that will be a sufficient security to me.&mdash;</p>
+
+<p>The <sic corr="story ">Storey</sic> You tell of Mr. Buckner is such a <sic corr="pitiful ">pityfull</sic> <lb/>one that any person who had any value for his Character would <lb/>blush to hear of&mdash;</p>
+
+<p>I have now bin confind to my house for above a month <lb/>by that cruel companion the Gout, Poor <note n="MP1"><abbr expan="Colonel ">Collo.</abbr> Page</note> <sic corr="has ">hath </sic> had a <lb/>most dismal loss the 8th of this month his dwelling house and <lb/>Store <sic corr="burned ">burnt</sic> down to the Ground&mdash;</p>
+
+<p>You advise us strongly to endeavour the keeping the Ships <lb/>that are come in from Loading but that is Impossible, People will <lb/>be mad in Spite of our Teeths,</p>
+
+<p><note target="n1">Arthur Lee's</note> Ships had the luck to meet with <lb/>long passages else they might have bin upon the return by this <lb/>time, Yor. Lettrs. have many <sic corr="discouraging ">discourageing</sic> presages of the fall of the <lb/><sic corr="market ">Markett</sic> and <sic corr="yet ">yett</sic> I'm told Arthur Lee sold all <note target="n2">Mr. <lb/>Wormeleys </note>Tobo. that went in Wharton at 11 1/2<abbr expan=" pence, ">d</abbr> We begin to look <lb/>hard for the Ships sure <abbr expan="it will ">'twill </abbr> not be long before we see some of <lb/>them, The <note target="n3"><abbr expan="Governor ">Govr.</abbr></note> is <abbr expan="gone ">gon</abbr> to <xref to="http://www.germanna.org/">Germana</xref> <sic corr="pursue ">persues</sic> his <note target="n4">Iron Mine</note> Stren<lb/>=uosly there is weighty <sic corr="talks ">taulks</sic> about It, how <abbr expan="it will ">'twill </abbr> Succeed must <lb/>be left to time, The <abbr expan="governors ">Govrs.</abbr> of the <note target="n5">College</note> meet on <sic corr="Monday ">Munday</sic> next <lb/>to <note target="n6">settle Differences</note> amicably as <abbr expan="it is ">'tis </abbr> said which I shall be glad <lb/>to hear, That that noble design may have a better use among us <lb/>than to be a lasting Foundation of <sic corr="jars ">Jarrs</sic> and Divisions, <hi rend="italics"><note target="n6">I want</note> <lb/>Salt very <add resp="editor">[much]</add></hi> <hi rend="italics">three or four hundred Bushels if You can contrive to </hi><lb/><hi rend="italics"><abbr expan="order ">Ordr </abbr><add resp="editor">[it for]</add></hi> <hi rend="italics">me It will be very welcome.</hi></p>
+
+<closer><seg type="postscript"></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi>  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. Printed: <cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> pp. 89-91.</bibl></cit></note><lb/>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note><lb/><lb/>
+
+<note id="n1">[1] This Arthur Lee may be a son of Francis Lee (1648-1724), third son of Richard Lee the emigrant; Francis had returned to England to become a merchant in London.</note><lb/><lb/>
+
+<note id="n2">[2] John Wormeley (1689-1727), one of Ralph Wormeley's (d. 1701) sons for whom Carter was a trustee.</note><lb/><lb/>
+
+<note id="n3">[3]  Alexander Spotswood (1646-1740) was the governor from 1710 to 1722.</note><lb/><lb/>
+
+<note id="n4">[4] Alexander Spotswood had been interested in mining iron ore in Virginia from about 1710, and had helped pay the expenses of some German miners brought into the colony in 1714. They were settled in Orange County, and the settlement came to be known as Gemana. In 1732, he was to assert to William Byrd that he not only was "the first in this County, but the first in North America, who had erected a regular furnace." (<cit><bibl n="B21">Dodson. <title>Alexander Spotswood.</title> pp. 229-231, 296, 298, 300.)</bibl></cit></note><lb/><lb/>
+
+<note id="n5">[5] The college was William and Mary in Williamsburg, and the governors were the trustees.</note><lb/><lb/>
+
+<note id="n6">[6] Carter refers to the long controversy between James Blair and Alexander Spotswood, often spilling over into the trustees of the College of William and Mary, that caused great contention in Virginia and resulted in the replacement of Spotswood with Hugh Drysdale in September 1722. (<cit><bibl n="B2">Rouse. <title>James Blair of Virginia.</title>)</bibl></cit></note><lb/><lb/>
+
+<note id="n7">[7] The last sentence of this letter, beginning with "I want," was added to the draft by Carter in his hand as is shown by the use of italics.</note>
+
+<lb/><lb/><note><hi rend="italics">This text revised March 30, 2009.</hi></note>
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

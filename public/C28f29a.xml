@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C28f29a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to [Governor William Gooch], June 29, 1728</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 9 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C28f29a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2004</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to [Governor William Gooch], June 29, 1728</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1728-06-29</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C28f29aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent> p.</extent>
+<date value="1728-06-29"></date>
+<idno rend="suppress">C28f29a.xml</idno>
+<title>Letter from Robert Carter to [Governor William Gooch], June 29, 1728</title>
+</bibl>
+</head>
+<p>Robert Carter writes to [Governor William Gooch], June 29, 1728, to report that two pipes of wine belonging to the governor have been landed at Corotoman and that he can have them brought to Williamsburg landing if the governor approves.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to [Governor <note n="WG">William Gooch</note>], June 29, 1728</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1728-06-29">[date from text]</date><lb/>
+</dateline>
+<salute>May it please Your Honr:</salute>
+
+</opener>
+
+<p>This Morning Arrived into <note target="n1">this River </note><lb/><abbr expan="Captain">Capt.</abbr><note target="n2"><abbr expan=" James"> Jas;</abbr> Tarleton</note> of <name type="city">Liverpool</name> from the <sic corr="Madeira">Maderas</sic> he <lb/><sic corr="has">hath</sic> Landed two pipes of wine here for your <abbr expan="Honor">Honr:</abbr><lb/> by order of <note target="n3">Mr. Rider</note> the Ship is gone up our river. he <lb/>says by his bill of Lading he is not obliged to carry them <lb/>any further, Your Lettr. I presume will inform the truth <lb/>of this which comes herewith he could not have taken <lb/>them in upon any Other Terms, I shall wait your <abbr expan="Honor's">Honrs:</abbr> <lb/>Direction about them. There is a Sloop of <note target="n4"><abbr expan="Captain">Capt.</abbr> Hopkins</note> <lb/>es that must call at my house for <abbr expan="Tobacco">Tobbo:</abbr> in her way down <lb/>I Expect her in less <sic corr="than">then</sic> a <note target="n5">fortnight</note> she comes by <lb/>the Mouth of Queens Creek and no doubt <del>but</del> I can <lb/><sic corr="persuade">perswade</sic> the Men to bring the wine up to <abbr expan="Williamsburg">Wms.Burgh</abbr> <lb/>Landing it is so <sic corr="ticklish">tickleish</sic> a Commodity I shall not 
+
+<pb n="2"/><lb/><lb/>
+Adventure to Send it by this Conveniency unless I have <lb/>your <abbr expan="Honor's">Honrs</abbr> Express orders I am </p>
+
+<closer>Sr. <lb/>Your <abbr expan="Honor's">Honrs</abbr> most Obedt. <del>&amp; most</del>Obliged <lb/><lb/>&amp; most humble Servt</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. </note>
+
+<note>The county and colony have been added for clarity to the  heading on the draft.</note>
+
+<note>See Carter's followup letter to Gooch <xref doc="C28g08b">1728 July 8</xref> confirming arrangements for the shipment the wine.</note>
+
+<note id="n1">[1] The Rappahannock</note>
+
+<note id="n2">[2] This may have been James Tarleton who commanded the <hi rend="italics">The Loyalty</hi> in 1731.  (Survey Report 9727, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. See Carter's letters to John Pemberton 1730 April 15 and 1731 August 4.)</note>
+
+<note id="n3">[3] Mr. Rider was probably a member of the firm of Hayward Miles &amp; Rider of Madeira from whom Carter had ordered wine on 1727 June 29.</note>
+
+<note id="n4">[4] Captain James Hopkins commanded the <hi rend="italics">Mary</hi> in 1727-1728. He was then working for London merchant Robert Cary. He is mentioned in Carter's diary. (<cit><bibl>Adm. 68/194, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n5">[5] A fortnight is two weeks.</note>
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

@@ -1,0 +1,1 @@
+This example should be viewed in the browser and run from the runit.js.  The .js code demonstrates the .preserveWhiteSpace = true property on the DOM.  The results are different depending on the value of this property.  When run in IE (by the MIME viewer), the property is set to false which can't be changed.

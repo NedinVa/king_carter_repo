@@ -1,0 +1,7 @@
+Another potential cause of slow system shut downs is that Windows contains an option to erase the system’s virtual memory and system hibernation cache at shut down. These security features are disabled by default because they take a long time to complete, and cause the system shutdown to look like it has frozen. Although these features are disabled by default, some privacy software will enable it.
+
+To determine whether or not these features are enabled on your PC, enter the GPEDIT.MSC command at the Run prompt to load the Group Policy Editor. Now, navigate through the console tree to Computer Configuration | Windows Settings | Security Settings | Local Policies | Security Options. At this point, locate the Shutdown: Clear Virtual Memory Pagefile option in the column to the right and verify that it is disabled, as shown in Figure C. If this option is enabled, you can disable it by double clicking on the setting and choosing the Disabled option.
+
+
+
+ABE Books: Your sales order number is 66234551. 

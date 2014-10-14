@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C27l12d">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to the Earl of Orkney, December 12, 1727</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 14 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C27l12d.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2004, 2014</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to the Earl of Orkney, December 12, 1727</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>4 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1727-12-12</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C27l12dT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>4 p.</extent>
+<date value="1727-12-12"></date>
+<idno rend="suppress">C27l12d.xml</idno>
+<title>Letter from Robert Carter to the Earl of Orkney, December 12, 1727</title>
+</bibl>
+</head>
+<p>Robert Carter writes to the non-resident governor of Virginia, the Earl of Orkney, December 12, 1727, thanking him for two letters and for his expression of satisfaction with Carter's administration of the colony while president. He sends two bills of exchange, one for the governor's salary and one for a portion of the fees to which Orkney is entitled, explaining that he will have Commissary James Blair review the accounts on Orkney's behalf. He solicits Orkey's support for his son Charles to succeed his brother Robert as naval officer [of the Rappahannock] when Robert moves to the Potomac. He closes the letter with comments on the selection of a successor of Nathaniel Harrison as deputy auditor of the colony.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to the Earl of Orkney, December 12, 1727</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<del>To the</del>Right Honble:&nbsp;&nbsp;&nbsp;&nbsp;<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1727-12-12">Decembr 12. 1727</date><lb/><del>the</del>Earl of Orkney<lb/>
+<lb/>
+</dateline>
+<salute>My Lord</salute>
+
+</opener>
+
+
+
+<p>I have had the honor to receive two letters <lb/>from your <abbr expan="Lordship">Ldship</abbr> of the 18th of May &amp; 31st. of <abbr expan="August">Augst.</abbr> Acknowledging <lb/>the receipt of the bills of Exchange I remitted with very kind expre-<lb/>ssions of your favorable opinion of my Administration in the time <lb/>of <add place="supralinear">my</add> Presidentship which gives me a great Deal of <del>Satisfaction</del> <add place="supralinear">pleasure</add></p>
+
+<p>Herewith I <del>remitt</del> <add place="supralinear">send</add> to your <abbr expan="Lordship">Ldship</abbr> two bills of <lb/><abbr expan="exchange">Excha:</abbr> both Drawn on Mr <note n="WD"><abbr expan="William">Wm:</abbr> Dawkins</note> <abbr expan="Merchant">Mercht. </abbr>of London. <lb/>one for &pound; 377:1:&mdash; being your <del>Ldships</del> part of the Salary from the 25th <lb/>of April to the 11th of <abbr expan="September">Sepr.</abbr> the Day our <note n="WG"><abbr expan="Governor">Govr.</abbr></note> published his commission 
+
+<pb n="2"/><lb/><lb/>
+The other bill for &pound; 233:2:3: <sic corr="completing">compleating</sic> your <note target="n1">Moiety</note> <lb/>of the <sic corr="perquisites">perquisits</sic> <add place="supralinear"><hi rend="bold"><hi rend="italics">as <sic corr="far">farr</sic> as my Receipts</hi></hi></add> as Your <abbr expan="Lordship">Ldship</abbr> will see by the state of the <note target="n2">en<lb/>closed Accot</note> it would be <del>but</del> <add place="supralinear">too</add> troublesome to send <sic corr="you">yo</sic> my respective <lb/>vouchers of the Several <abbr expan="Officers">Offrs:</abbr> to justify the truth of this Accot <lb/>there are s<del>everal</del><add place="supralinear">ome</add> County Clerks that have not yet <abbr expan="paid">pd</abbr> me for <lb/>Marriage &amp; Ordinary Licences <del>most</del> <add place="supralinear"><hi rend="bold"><hi rend="italics">several</hi></hi></add> of the former will be <abbr expan="paid">pd</abbr> in <abbr expan="tobacco">tobbo:</abbr> <lb/><add place="supralinear"><hi rend="bold"><hi rend="italics">wch at this time is a poor Comodity</hi></hi></add> when I have received what is behind I intend to get <note n="JB">Mr. Comissary</note> to <lb/>take an inspection of all the <del>vouchers</del> <add place="supralinear">Accots</add> who from thence will be <lb/>able to make <del>it</del> <add place="supralinear">the justice of my proceedings</add> Clear <del>to Your Ldship</del> &amp; I <sic corr="believe">beleive</sic> will be a method <lb/><del>[illegible]</del> that will give your <abbr expan="Lordship">Ldship</abbr> full satisfaction</p>
+
+<p>fif<add resp="editor">[t]</add>een&mdash; <del>15</del> <abbr expan="percent">perct</abbr> is our common Exchange between bills <lb/>&amp; Cash I have twenty <abbr expan="perCent">perCt </abbr> this Year allowed for my bills <lb/>the Corn I could not Dispose of <add place="supralinear"><hi rend="bold"><hi rend="italics">for money</hi></hi></add> only a few barrels <del>of it</del> have <lb/><add place="supralinear">been</add> forced to take it to myself &amp; have Allowed A larger price than I have <lb/>sold for<note target="n3">*</note></p>
+
+<p>I must not take upon me to measure the Character of <lb/><note n="WG">our <abbr expan="Governor">Govr:</abbr></note> but thus <sic corr="far">farr</sic> we promise ourselves a great deal of <lb/>happiness under his <del>Administration</del> <abbr expan="Government">Governmt.
+</abbr></p>
+
+<p>My Lord in the time of my Administration <lb/>happened the Death of <note target="n4">Mr Robinson</note> our <note target="n5">Naval Officer</note> my Second <lb/>Son <note n="RC2">Robert </note>being of age &amp; married &amp; living most Convenient for the place <lb/>I put him into the Naval Office &amp; our Gove<add resp="editor">[r]</add>nor <sic corr="has">hath</sic> been so kind to rene<lb/>w the Comission to him &amp; am in hopes the behaviour of my son will be <lb/>So Agreeable as not to deserve a remove he lives with me at present <lb/>&amp; how may Years more he may I do not Yet know but the patrimony <lb/>I intend for him <sic corr="lies">lyes</sic> upon <sic corr="Potomac">Potomack</sic> river whenever he removes to it <lb/>I should be glad to procure his place for my <add place="supralinear">third</add> son <note n="CC1">Charles</note> at Mans Estate <add place="supralinear">also</add> <lb/>whose living will be on this river I know a word from Your <abbr expan="Lordship">Ldship</abbr> <lb/>to our <abbr expan="Governor">Govr:</abbr> would be of great weight towards this change if your <lb/><abbr expan="Lordship">Ldship</abbr> will please to Vouchsafe me such a favour; not but that I <lb/>have met with all the kind &amp; <del>Civil</del> <add place="supralinear"><hi rend="bold"><hi rend="italics">distinguishing</hi></hi></add> treatment from our <abbr expan="governor">govr:</abbr> Since <lb/>his Arrival that I could desire &amp; may perhaps if I live continue <lb/>so much in his good Graces to incline him to such a Step upon 
+
+<pb n="3"/><lb/><lb/>
+my own intercession however your <abbr expan="Lordship">Ldship</abbr>s influence to be sure <lb/>will very much facilitate the matter I have a very Large family <lb/>to provide for am grown a very <note target="n6"><sic corr="crazy">Crasy</sic> man</note> I have no merit to plead <lb/>only that I have served the <abbr expan="Government">Governmt:</abbr> in the station I am in <del>above</del> <lb/><del>illegible Eight <add place="supralinear">seven</add> &amp; twenty Years</del>almost Eight &amp; twenty Years &amp; my recei<lb/>vings from it have not <abbr expan="answered">answer'd</abbr> my Expenses</p>
+
+<p><sic corr="It will">Twill </sic>be no news to acquaint your <abbr expan="Lordship">Ldship</abbr> with the sudden <lb/>death of <note n="NH"><abbr expan="Colonel">Collo</abbr> Harrison</note> one of our Council as well as <note target="n7">Deputy <lb/>Auditor</note> his place in the gift of Mr <note target="n8">Horace <sic corr="Walpole">Wallpoole</sic></note> who can <lb/>make the most interest with him Its likely will stand the fairest <lb/>Chance I <del>shall</del> <add place="supralinear">must</add> remain a Spectator only with wishing that <lb/>merit may take place <add place="supralinear">&amp;</add> that <add place="supralinear">since</add> <del>[illegible]</del> this place <sic corr="has">hath</sic> been generally <lb/>held by one of our Council who are the judges of our <note target="n9">General Court</note> <lb/><del>that</del> <add place="supralinear">for the good of the Country</add> it may fall to the lot of a person of Gravity Experience &amp; some <lb/>knowledge in Our laws &amp; constitution for I may presume to <lb/>say such a person will not be <sic corr="unuseful">unusefull</sic> to Supply the place <lb/>of those that are lately gone off when you<add resp="editor">[r]</add> <del>shall think it proper</del> <add place="supralinear"><abbr expan="Lordship's">Ldships</abbr> leisure</add> will <lb/>allow me the favour of your remembrance I shall always <sic corr="grate">great</sic><lb/>fully receive it who am who am with all <lb/><sic corr="Dutiful">Dutifull </sic>respect </p>
+
+<closer>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My Lord <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;your <abbr expan="Lordship's">Ldships</abbr> <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;most obliged <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;most Obedient <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&amp; most humble servt.
+<seg type="postscript"><lb/><lb/>per <note target="n10">Christian</note></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1727 May-1728 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note>The last paragraph of the letter was written by another clerk on a separate sheet (page 4) as an insertion headed "A clause to be added to my Ld Orkneys letter" and it has been placed as intended in the body of the letter on page 3.</note>
+
+<note>The editor feels reasonably confident that a number of the corrections to this draft are in Carter's hand, which is not surprizing considering it was a letter to Lord Orkney.  These corrections by Carter have been indicated by the use of bold italics.</note>
+
+<note id="n1">[1] A moiety is "a half, one of two equal parts."  (<cit><bibl><title>Oxford English Dictionary Online</title></bibl></cit>)</note>
+
+<note id="n2">[2] <xref to="http://carter.lib.virginia.edu/html/C27i11a.html">The account</xref> of the Governor's perquisites is available.</note>
+
+<note id="n3">[3] Although the text for the following paragraph of the draft is contiguous at this point, the clerk inserted the asterisk which must have been a signal to begin a new paragraph as the subject changes completely.</note>
+
+<note id="n4">[4] Carter refers to Christopher Robinson who had been the naval officer of the Rappahannock River and who had died prior to a Council meeting of March 1, 1727. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:128. </bibl></cit>)</note>
+
+<note id="n5">[5] The naval officer was an official in the colony that reported to the Commissioners of Customs, a body that had first been established in 1663; the group was reorganized several times, especially after 1688. The board was "intrusted with collection of customs both in England and the colonies." The board helped write many of the instructions for colonial governors in collaboration with the Privy Council. "Their direct connection with the colonies was through the governors, who were instructed to correspond with the commissioners, and to send them, every three months, lists of clearances, and also reports of illegal trading. The governor's agent in matters of trade was the naval officer whom he was empowered to appoint, but who was required by the 7th and 8th William III to give security to the commissioners of customs." (<cit><bibl>Louise Phillips Kellogg. <title>The American Colonial Charter. A Study of English Administration in Relation Thereto, Especialy after 1688.</title>  [Annual Report, American Historical Association. Vol. 1, Govt. Print. Off., 1904], p. 226.</bibl></cit> For a recent study, see <cit><bibl>Alvin Rabushka. <title>Taxation in Colonial America</title> [Princeton, NJ: Princeton University Press, 2008.]</bibl></cit>)</note>
+
+<note id="n6">[6] Carter is usig the term "crazy" in an older sense that means "Full of cracks or flaws; damaged, impaired, unsound; liable to break or fall to pieces; frail, 'shaky.'" (<cit><bibl><title>Oxford English Dictionary</title> online.</bibl></cit>) </note>
+
+<note id="n7">[7]  "The auditor was unquestionably a royal appointee, and held his commission under the great seal. He was, after 1680, upon the appointment of the auditor-general of the colonies, the deputy of that official. When the auditorship was established, it was stated that only councillors and those who had long resided in the colony were eligible to this office, and it seems that this principle was generally observed. . . . As the name of the office indicates, the auditor examined all the revenue accounts of the colony, except a few purely local ones under the supervision of the treasurer. Among these accounts were those of the royal collectors and naval officers, the quit-rents, the public claims, the fines and forfeitures. He swore to his accounts before the governor and the Council in April and October, and forwarded them through the auditor general to the lords of the treasury. . . . For a few years after the establishment of the office, the auditor received a salary from the Assembly; later, he was paid a salary as a royal official of &pound;100 a year out of the British treasury. His compensation was, however, largely in the form of a fee, which was gradually increased from three to seven and a half per cent of the revenue accounts audited, and amounted to about &pound;400 a year."  (<cit><bibl>Percy Scott Flippin. <title>The Financial Administration of the Colony of Virginia</title> [Johns Hopkins Press, 1915.]  38-39.</bibl></cit>)</note>
+
+
+<note id="n8">[8] Horace Walpole was the brother of Robert Walpole, the chief minister of England. Horace held the posts of "auditor general and surveyor general of the royal revenue in the colonies." (<cit><bibl n="B27">Billings. <hi rend="italics">et al. </hi> <title>Colonial Virginia: A History. </title></bibl></cit>)</note>
+
+<note id="n9">[9] "The governor's Council, also known as the Council of State or simply the Council, consisted of about a dozen of colonial Virginia's wealthiest and most prominent men. Beginning in the 1630s the Crown appointed Council members. . . . Crown appointments were lifetime appointments. From 1625, when Virginia became a royal colony, until the outbreak of the American Revolution (1775-1783), the Council members advised the royal governor or his deputy, the lieutenant governor, on all executive matters. The Council and the governor together constituted the highest court in the colony, known initially as the Quarter Court and later as the General Court. The Council members also served as members of the General Assembly; from the first meeting of the assembly in 1619 until 1643 the governor, Council members, and burgesses all met in unicameral session. After 1643 the Council members met separately as the upper House of the General Assembly."  (<xref to="http://www.encyclopediavirginia.org/Governor_s_Council_The">"The Governor's Council"</xref> in <title>Encyclopedia Virginia</title>)</note>
+
+
+<note id="n10">[1] James Christian was captain of the <hi rend="italics">Rose,</hi> a vessel owned by merchant John Pemberton of Liverpool.  (See <xref to="http://carter.lib.virginia.edu/html/C30d15a.html">Carter to Pemberton,</xref> April 15, 1730.)  </note>
+
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised June 17, 2014,  to add footnotes and strengthen the modern language version text.</hi></note>
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

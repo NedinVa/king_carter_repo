@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C20h25b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to [John Holloway],
+August 25, 1720</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia
+Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 5 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">filename</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL:
+http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to [John Holloway], August 25,
+1720</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date>unpublished</date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter
+Book, 1720 July-1721 July, BR 227, Huntington Library, Art
+Collections, and Botanical Gardens, San Marino, California.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic
+Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text
+Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject
+Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1720-08-25</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term
+type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C20h25bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>x p.</extent>
+<date value="1720-08-25"></date>
+<idno rend="suppress">C20h25b.xml</idno>
+<title>Letter from Robert Carter to [John Holloway], August 25,
+1720</title>
+</bibl>
+</head>
+<p>Robert Carter writes to his attorney and friend, John Holloway,
+August 25, 1720, concerning the lawsuit between his sister-in-law,
+Mary (Landon) Jones Swan, and her husband, noting that she "lyes at
+the Mercy of her Mortal Enemy" who wishes to leave her a meagre
+living, and is boasting that he will appeal the case to England if he
+should not win his appeal to the General Court in Virginia. Carter
+also thanks Holloway for his letter informing Carter that the
+mortgage between Carter and Edmund Jenings had been executed.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to [<note n="JH">John
+Holloway</note>], August 25,
+1720</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Corotoman, <corr resp="editor">[Lancaster County,
+Virginia]</corr> </name><lb/>
+<date value="1720-08-25">Aug 25th. 1720.</date><lb/>
+</dateline>
+<salute>Sir&mdash;&mdash;</salute>
+
+</opener>
+
+<p>I have <sic corr="written ">writ</sic> a Joint Lettr. 
+ to <sic corr="Yourself ">Yor.self</sic> &amp; <note n="JC3">Mr.
+<sic corr="Attorney">Atturney</sic> </note><lb/><sic
+corr="relating">relateing</sic> to my poor <abbr
+expan="distressed ">Distresd</abbr>
+ <note n="MJS"> Sister Swans</note> Case who now <sic corr="lies
+">lyes</sic> <lb/>at the
+Mercy of her Mortal Enemy to turn her out of her being <lb/>when he
+pleases upon his allowing her a <del>poor</del> mean maintenance
+<lb/>God knows for a Gentlewoman and <sic corr="yet ">Yett</sic>
+this wont <sic corr="Satisfy ">Sattisfye</sic>
+<lb/>him, he <note target="n1"><sic corr="vaunts ">vants</sic></note>
+&amp; boasts If he cant <sic corr="set ">sett</sic> aside the Decree
+at the <lb/>General
+Court <sic corr="he will ">he'l</sic> Carry It for England but there
+<sic corr="I will ">Ill</sic> leave him <lb/>at
+presents</p>
+
+<p>Yor. last Lettr. wch. tells me You
+had taken <lb/>care of the Execution of the Mortgage between <note
+n="EJ"><abbr expan="Colonel ">Collo </abbr> J<corr
+resp="editor">[ennin]</corr> gs</note> &amp; <sic
+corr="me ">I </sic><lb/>came to my hands for the wch. I return You my
+Thanks &amp; am in all respects&mdash;&mdash; </p>
+
+<closer>Sir <lb/>Yor. <sic corr="Sincere ">Sinceer</sic> &amp; <abbr
+expan="Affectionate ">Afft.</abbr>
+ humble Servt.</closer>
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+<note><hi rend="italics">Source copy consulted:</hi>  Robert Carter
+Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art
+Collections, and Botanical Gardens, San Marino, California. Printed:
+<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . .
+.</title> pp. 44-45.</bibl></cit>
+</note>
+
+<note>The county and colony have been added for clarity to RC's home
+address of "Corotman."</note><lb/>
+
+<note id="n1">[1] To vaunt is to boast or brag.
+(<cit><bibl><title>Oxford English
+Dictionary</title></bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text revised January 27,
+2009.</hi></note>
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

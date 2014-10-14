@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C28j30a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Edward Athawes  to Charles Carter, October 30, 1728</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Athawes, Edward</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca.5  kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C28j30a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2008</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Edward Athawes  to Charles Carter, October 30, 1728</title>
+     <author>Edward Athawes </author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date>2008</date>
+   <idno type="callNo">Source copy consulted: Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1728-10-30</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C28j30aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1728-10-30"></date>
+<idno rend="suppress">C31.xml</idno>
+<title>Letter from Edward Athawes  to Charles Carter, October 30, 1728</title>
+</bibl>
+</head>
+<p>Edward Athawes  writes to Charles Carter, re a "piece of copper received from Dr. [Shaw], and the small load carried by the <hi rend="italics">Carter</hi> to London, and encloses an extract of a letter, Peter Shaw to Athawes, October 28, 1728.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from <note n="EA">Edward Athawes</note>  to <note n="CC1">Charles Carter,</note> October 30, 1728</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="city">[London]</name><lb/>
+<date value="1728-10-30">October 30, 1728</date><lb/>
+<lb/>
+</dateline>
+<salute></salute>
+
+</opener>
+
+
+
+<p>I sent a copy of this letter by the <name type="ship">"Spotswood"</name> who sailed hence a few days ago, which I enclosed to <note n="MP1"><abbr expan="Colonel ">Col.</abbr> Page</note> and desired he would forward  it to you. In that letter is the <note target="n1">piece of copper </note>received from Dr. [Shaw]. I have heard nothing from him since.</p>
+
+<p>The <note n="CS"><name type="ship">Carter Frigate</name></note> is safe arrived, but 300 hhds short of her loading, a circumstance which will determine her owners to put an <corr resp="editor">[end to her?]</corr> going to Virginia. Upon this occasion we shall send the <add resp="editor">[omission in text]</add> for this year into <abbr expan="Rappahannock ">Rapp </abbr> River to supply the <corr resp="editor">[place of the Carter?]</corr> <sic corr="among ">amongst</sic> our friends there. </p>
+
+<p><corr resp="editor"><hi rend="italics">[Enclosed in the letter above was an extract from a letter, October 28, 1728, Peter Shaw to Athawes.]</hi></corr></p>
+
+<p>I have assayed the matter you left me and find it to be copper ore, somewhat stubborn in the fire and not very rich, as affording not an eighth.</p>
+
+<p>The <sic corr="metal ">mettel</sic> seems to be exceeding soft &amp; ductile the best properties copper can have. for want of an opportunity of working my Testing Furnace  I have not <add resp="editor">[omission in text]</add> the silver; so cannot say how much it may <add resp="editor">[omission in text]</add> to <add resp="editor">[omission in text]</add> The mine <sic corr="lies ">lyes</sic> very commodius for <add resp="editor">[omission in text]</add> <corr resp="editor">[if ]</corr> there be ore enough surely it might work <add resp="editor">[omission in text]</add>. I believe much poorer ore has been worked to advantage.</p>
+<p>I herewith send you a sample of the produce in Copper and am, Sir, <abbr expan="Your ">Yr. </abbr> very &amp;c</p>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> The nineteenth-century transcript of this letter in theMinor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia, did not indicate line or page breaks, and omits some material.</note>
+
+<note id="n1">[1]  In 1728, Robert Carter, his sons Robert and Charles, and his son-in-law Mann Page,  organized a company to mine for copper on a tract of some 27,000 acres that Louis Morton describes as lying "near the present boundary of Fairfax and Loudoun counties." Fairfax Harrison wrote that the tract was "on the  Horsepen of Broad." Today, there is a Frying Pan Park just east of the border of the Dulles Airport reservation, and there are other things with the name in the area. The company was not successful. (<cit><bibl n="B32">Morton. <title>Robert Robert Carter of Nomini Hall.</title> pp. 18-19;</bibl></cit> and <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> p. 342. </bibl></cit>)</note>
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

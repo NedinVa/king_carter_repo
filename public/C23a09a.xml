@@ -1,0 +1,400 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C23a09a.xml">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Will and Codicils, September 15, 1669-January 3, 1670, of John Carter I, Probated February 1, 1670, and Recorded January 9, 1723</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, John</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 20 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu//</p>
+         </availability>
+     <date>2011</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Will and Codicils, September 15, 1669-January 3, 1670, of John Carter I, Probated February 1, 1670, and Recorded January 9, 1723</title>
+     <author>John Carter</author>
+</titleStmt>
+    <extent>6 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Will of John Carter, 1669/70 Lancaster County [Loose] Wills 1700-1749. Library of Virginia, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1722-01-09</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C22a09aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>6 p.</extent>
+<date value="1722-01-09"></date>
+<idno rend="suppress">C23a09a.xml</idno>
+<title>Will and Codicils, September 15, 1669-January 3, 1670, of John Carter I, Probated February 1, 1670, and Recorded January 9, 1723</title>
+</bibl>
+</head>
+<p>John Carter I (1613-1669) states how his estate should be divided among his living children, John Carter II (<i>ca.</i>1648-1690) and Elizabeth (Carter) Utie (1651- 1699) by his first wife, Jane Glynn,; Robert (1669-1732) by his fourth wife, Sarah Ludlow (d. 1668); and makes provisions for his fifth wife, Elizabeth Sherley and their child expected in 1669 whom John wishes to be named Charles. There are specific bequests of money, jewelry, books, clothing, horses, and household articles for his children and friends, and instructions for Robert's education.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Will and Codicils, September 15, 1669-January 3, 1670, of John Carter I, Probated February 1, 1670, and Recorded January 9, 1723</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1722-01-09">9th day of January <hi rend="underline">1722</hi></date><lb/>
+
+</dateline>
+
+
+</opener>
+
+
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I John Carter being <sic corr="sick ">sicke</sic> in body but of good and perfect <sic corr="memory">memorie</sic></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sic corr="do ">doe</sic> make this my last will as followeth:<lb/><lb/>
+
+Imprimis:&nbsp;&nbsp;I <sic corr="bequeathe ">bequeath</sic> my soul unto Almighty God and my <sic corr="body ">bodie</sic> to the earth:<lb/>
+Item&nbsp;&nbsp;I <sic corr="bequeathe ">bequeath</sic> my land and Housing whereon I now dwell unto my <sic corr="son ">sonne</sic> <note n="JC">John</note> and <lb/>his heirs male issue of his <sic corr="body ">bodie</sic> :<lb/><lb/>
+Item&nbsp;&nbsp;	I <sic corr="bequeathe ">bequeath</sic> unto my <sic corr="son ">sonne</sic> Robert and his heirs male issue of his <sic corr="body ">bodie</sic> a Thousand<lb/>Acres of land out of the <sic corr="patent ">Pattin</sic> that was deserted by <note target="n1"><abbr expan="Colonel ">Col. </abbr> Mathews</note> and taken up by me<lb/> <note target="n2">(vizt)</note> the neck of land that <note target="n3">William Thatcher</note>, and <note target="n4">William Hutchings</note> had taken <lb/>bounded upon a branch of <note target="n5"><sic corr="Corrotoman ">Corrotomen,</sic></note> and the <sic corr="neck ">necke</sic> of land formerly taken up by <lb/><note target="n6">George Taylor</note> and <sic corr="so ">soe</sic> much land lying <sic corr="behind ">behinde</sic> these neck's as will make up the said<lb/> neck's a Thousand Acres to him &amp; his heirs male (vizt) my <sic corr="son ">sonne</sic> Robert and his<lb/> heirs male issue of his <sic corr="body. ">bodie.</sic><lb/><lb/>
+
+Item:&nbsp;&nbsp;my will is that if my <sic corr="son ">sonne</sic> John die without issue male of his body that then<lb/> the land and housing given him <sic corr="go ">goe</sic> to my <sic corr="son ">sonne</sic> Robert and his issue male.<lb/> But in case my <sic corr="son ">sonne</sic> Robert die without issue male, or his issue male die without<lb/> issue male, my will is that in case my <sic corr="son ">sonne</sic> John have issue female that then my said<lb/> land &amp; housing given him <sic corr="go ">goe</sic> to his issue female, But in case my <sic corr="son ">sonne</sic> John have<lb/> <sic corr="no ">noe</sic> issue female, my will is in case of <sic corr="no ">noe</sic> issue males nor issue female of my<lb/> <sic corr="son ">sonne</sic> John that then my land and <unclear>[ . . . ]</unclear> housing given to my <sic corr="son ">sonne</sic> John <sic corr="go ">goe</sic> to my <sic corr="son ">sonne</sic><lb/> Robert's female begotten of his <sic corr="body ">bodie.</sic><lb/> But in case <add resp="editor">[neither] 
+</add> my <sic corr="son ">sonne</sic> John nor my <sic corr="son ">sonne</sic> Robert have <sic corr="no ">noe</sic> issue male but issue<lb/> female, my will is that my <sic corr="son ">sonne</sic> Robert's land <sic corr="go ">goe</sic> also to his issue female.<lb/> But in case neither of my <sic corr="sons' ">sonnes'</sic> have issue of their <sic corr="body ">bodie</sic><lb/>Then my will is that my lands <sic corr="go ">goe</sic> to my daughter <note target="n7">Elizabeth Utie</note> and her <sic corr="heirs:">heires:</sic>&amp;<lb/><lb/>
+
+Item&nbsp;&nbsp;My will is that the agreement between me and William Thatcher stand good<lb/> provided he <sic corr="perform ">performe</sic> his part thereof: The rough <sic corr="draxft ">draught</sic> is among my writings,<lb/> and my <sic corr="son ">sonne</sic> John is hereby <sic corr="empowered ">impowered</sic> to <sic corr="confirm ">confirme</sic> the agreement and to <sic corr="convey ">convay</sic> the<lb/> said <sic corr="fifty ">fiftie</sic> Acres in that agreement out of the first <sic corr="neck ">necke</sic> given to my <sic corr="son ">sonne</sic> Robert,<lb/> who is to have besides this <sic corr="fifty ">fiftie</sic> given to Thatcher his said Thousand Acres:<lb/><lb/>
+
+Item&nbsp;&nbsp;My will is that my <sic corr="personal ">personall</sic> estate <sic corr="(vizt.) ">(viz)</sic> goods and <sic corr="chattels ">cattels</sic> be divided into three<lb/> <sic corr="equal ">equall</sic> parts, <sic corr="one ">on</sic> third whereof I give to my <sic corr="son ">sonne</sic> John, provided he relinquish all<lb/> former deeds of gift and  <sic corr="claim ">clame</sic>  <sic corr="no ">noe</sic> part of my estate formerly given him but only<lb/> this third part. another third thereof I give to my <sic corr="son ">sonne</sic> Robert. and the other<lb/>third thereof to be disposed as followeth <sic corr="(vizt.) ">(viz)</sic> first my now <note target="n8">wife Elizabeth</note> is to <lb/>be paid out of it five hundred pounds which is due to her by <note target="n10">a Contract</note> made between me<lb/>and <sic corr="herself, ">her selfe,</sic> before marriage,which is to be in full satisfaction thereof, and<lb/>then the remaining part of this third I give to <ref id="n9">her young <sic corr="son ">sonne.</sic></ref> after she is paid her <lb/>five hundred pounds, <sic corr="so ">soe</sic> that the mother and her <sic corr="son ">sonne</sic> is to have this last third <sic corr="between ">betweene</sic> them<lb/><lb/>
+
+Item&nbsp;&nbsp;My will is in case my said wife will not stand to this my will and be contented <lb/>with the five hundred pounds due by contract, and now mentioned in my will in <lb/>full payment thereof and not intended as a <sic corr="llegacy ">legacie</sic> but as payment of a debt, then <lb/>my will is that the <sic corr="disposal ">disposall</sic> of this left third be void and that after she is paid what <lb/>is due to her by contract before marriage there being nothing more due to her <lb/>by marriage with me, 
+
+
+<pb n="2"/><lb/><lb/>
+either in Conscience law or Justice, that then my will is that the remainder of this <lb/>last third belong to my said <sic corr="sons ">sonnes</sic> John and Robert, and her <sic corr="son ">sonne</sic> only to have <lb/>five pounds sterling, and she to have nothing out of my estate besides what is due <lb/>to her by contract in satisfaction whereof this five hundred pounds is intended in <lb/>my will as part of the said last third: yet besides this she is to have the <sic corr="twenty ">twentie</sic> five <lb/>Acres of land mentioned in the said contract being her <note target="n10"><sic corr="jointure ">joynter</sic></note> of land <del>of </del> in lieu of <lb/>dower in my land. <lb/>But if in case my wife <sic corr="does ">doth</sic> stand to her contract and be therewith content in full of <lb/>all dues by marriage with me, then my will is that she have also the negro Boy <lb/>called Mathew and also enjoy her necklace of <sic corr="pearl, ">pearle,</sic> and diamond ring given her <lb/>by me, and also the bed <sic corr="rug ">rugg</sic> blankets <sic corr="pillows ">pillowes</sic> and the red curtains &amp; <note target="n11"><sic corr="valance ">vallance</sic></note> <lb/>with a <sic corr="pair ">paire</sic> of sheets which is the <sic corr="bed ">bedde</sic> and furniture which I commonly lay <lb/>upon in my chamber, and also the <sic corr="dozen ">dosen</sic> of diaper <sic corr="napkins ">napkings</sic> with a <sic corr="blue ">blew</sic> streak <lb/>at both ends, and too or three <sic corr="coarse ">course</sic> <sic corr="towels ">towells</sic> she brought with her and also my <lb/>black lutestring and coloured <note target="n12"><sic corr="sarcenet ">sarsenett</sic></note> for a <sic corr="gown ">gowne</sic> and <sic corr="petticoat, ">petticoate, </sic>and also her <lb/>spoons and also my little flat <sic corr="trunk ">trunke</sic> which her clothes are in<lb/><lb/>
+
+Item&nbsp;&nbsp;My will is that my daughter Elizabeth Utie have ten pounds sterling she <lb/>having <sic corr="already ">alreadie</sic> had a good considerable portion.<lb/><lb/>
+
+Item&nbsp;&nbsp;My will is that my <sic corr="son ">sonne</sic> Robert have his mother's hoop ring &amp; <sic corr="crystal ">christall</sic> <lb/>necklace.<lb/><lb/>
+
+Item&nbsp;&nbsp;My will is that my <sic corr="son ">sonne</sic> John have his mother's hoop ring and my small <lb/>rings and the Elizabeth <sic corr="piece ">peece</sic> of gold.<lb/><lb/>
+
+Item&nbsp;&nbsp;my will is that my <sic corr="seal ">seale</sic> ring, rapier, watch, and my wearing <sic corr="apparel ">apparell</sic> <lb/>be my <sic corr="son ">sonne</sic> John's.<lb/><lb/>
+
+Item&nbsp;&nbsp;my will is that my <sic corr="son ">sonne</sic> John have all my books only my <sic corr="son ">sonne</sic> Robert <lb/>to have the <sic corr="Sixth ">Sixt</sic> part of them in goodness and value, and my wife to have <note target="n13">David's <lb/><sic corr="tears ">teares</sic></note> and <note target="n14">Byfield's treatise,</note>, and <note target="n15">the whole <sic corr="duty ">dutie</sic> of man,</note> and her <sic corr="own ">owne</sic> books.<lb/><lb/>
+
+Item&nbsp;&nbsp;my will is that my <sic corr="son ">sonne</sic> Robert in his <sic corr="minoritiy ">minoritie </sic>be well educated for <lb/>the use of his estate, and the <sic corr="principal ">principall</sic> not to be diminished.<lb/><lb/>
+
+Item&nbsp;&nbsp;my will is that my son Robert during his <sic corr="minority ">minoritie</sic> have a man or youth
+<lb/>servant bought for him that <sic corr="has ">hath </sic> <sic corr="been ">beene</sic> brought up in the <sic corr="Latin ">latine</sic> School, and that <lb/>he constantly tend upon him not only to teach him his <sic corr="books ">bookes</sic> either in English or <sic corr="Latin ">latine</sic> <lb/>according to his <sic corr="capacity ">capacitie</sic> (for my will is that he shall <sic corr="learn ">learne</sic> both <sic corr="Latin ">latine</sic>  &amp; English <lb/>and to write) but also to preserve him from <sic corr="harm ">harme</sic> and from doing <sic corr="evil ">evill</sic> and as <lb/><sic corr="soon ">soone</sic> as one is free or dead my will is that he have another bought.<lb/><lb/>
+	
+Item&nbsp;&nbsp;my will is that my Executor allow my wife <sic corr="yearly ">yearely</sic> for her <sic corr="son's ">sonne's</sic> education <lb/>ten pounds per annum during his <sic corr="minority ">minoritie</sic> if he live, in consideration of the <lb/>use of his portion but the first <sic corr="year ">yeare</sic> not to be allowed because I am to pay <lb/>the nurse.<lb/><lb/>
+
+Item&nbsp;&nbsp;my will is that in case my wife put her <sic corr="son ">sonne</sic> out to <sic corr="apprentice, ">apprentise,</sic> then <sic corr="so ">soe</sic> much of <lb/>his portion be paid as is thought <sic corr="necessary ">necessarie</sic> to <sic corr="bind ">binde</sic> him out to a good trade, and after he <lb/>is put to <sic corr="apprentice ">apprentise</sic> he is to be allowed but five pounds annually, for his maintenance <lb/><sic corr="until ">till</sic> he come<add resp="editor">[s] </add> to age, and <sic corr="so ">soe</sic> the other five pounds per annum is to be abated out <lb/>of his maintenance.
+
+
+<pb n="3"/><lb/><lb/>
+Item&nbsp;&nbsp;my will is, that my <sic corr="son ">sonne</sic> John allow to my wife's <sic corr="son ">sonne</sic> (whose name is <lb/>intended Charles) <sic corr="necessary ">necessarie</sic> clothes &amp; <sic corr="linen ">linnen</sic> for this year.<lb/><lb/>
+
+Item&nbsp;&nbsp;my will is that all former deeds of Gifts made to my <sic corr="son ">sonne</sic> John before my <lb/>last marriage with my now wife Elizabeth be void, the portion which I now <lb/>give in this will being in full satisfaction thereof and more than the former.<lb/><lb/>
+
+Item&nbsp;&nbsp;my will is if <sic corr="contrary ">contrarie</sic> to my expectation and his promise any thing <lb/>should be recovered by the said former deed or deeds of Gift my will is that all <lb/>legacies now given to my <sic corr="son ">sonne</sic> John in this will be void, the land Excepted.<lb/><lb/>
+
+Item&nbsp;&nbsp;my will is that all the rest of my estate be duly inventoried by my <lb/><sic corr="son ">sonne</sic> John and <sic corr="duly ">duely</sic> and Justly appraised without wrong to any of my chil=<lb/>dren, and that all goods of England not used be valued <sic corr="twenty ">twentie</sic> per <sic corr="cent ">centum</sic> <lb/>more than they cost in England adding first the <sic corr="petty ">pettie</sic> charges.<lb/><lb/>
+
+Item&nbsp;&nbsp;I <sic corr="do ">doe</sic> hereby declare that all former dealing <sic corr="between ">betweene</sic> me and mer=<lb/>chants as to their <sic corr="accounts ">accompts</sic> be fully <del>[illegible]</del> ballanced: my late dealings <lb/>excepted which fresh <sic corr="accounts ">accompts</sic> will <sic corr="show ">shew</sic> what is due to me or them.<lb/><lb/>
+
+Item&nbsp;&nbsp;my will is that if I die in crop time that then my estate be not divided <lb/>nor appraised, <sic corr="until ">till</sic> the crop be finished and likewise my will is that the crop <lb/>be sent for England and the produce to be added to my estate.<lb/><lb/>
+
+Item&nbsp;&nbsp;my will is that my estate be <sic corr="appraised ">praised</sic> in money and my crop <abbr expan="Tobacco ">Tobaco: </abbr> and <lb/>other <abbr expan="Tobacco ">Tobaco: </abbr> that is in my possession at my death after my Tobacco: debts be <lb/>paid be sent for England and the produce added to my estate.<lb/><lb/>
+
+Item&nbsp;&nbsp;my will is that my <sic corr="son ">sonne</sic> John neither use <sic corr="clerk ">clarke</sic> nor <sic corr="sheriff ">sheriffe</sic> at the <lb/><sic corr="appraisement ">praisment</sic> and inventorying of my estate.<lb/><lb/>
+
+Item&nbsp;&nbsp;my will is that all my debts and legacies except what is due to my my wife <lb/>by her contract be first deducted and then what remains is to be equally divided <lb/>into three <sic corr="equal ">equall </sic>parts, <sic corr="so ">soe</sic> that what is due to my said wife by contract is to <lb/><add resp="editor">[be]</add> reckoned in one third part and her <sic corr="son ">sonne</sic> to have as much as will <sic corr="countervail ">contervayile</sic> <lb/>and make up his mother's <del>portion</del> five hundred pounds a third of my estate as <lb/>was mentioned before.<lb/><lb/>
+
+Item&nbsp;&nbsp;my will is that my <sic corr="son ">sonne</sic> Robert be paid his portion when he comes to <lb/>age in <sic corr="Negroes ">negroes</sic> English servants <sic corr="cattle ">cattell</sic> and goods <sic corr="proportional ">proportionall </sic>for the <lb/>seating of a plantation at the same price as they were valued in my <sic corr="Inventory ">Inventorie</sic> <lb/>consideration being had to the goodness &amp; time to serve, and age of the <sic corr="cattle ">cattel</sic> <lb/>or if he and the executor  <sic corr="do ">doe</sic> agree to pay part or all of his estate in <sic corr="money ">mony</sic> by <lb/>bills of Exchange then <sic corr="their ">there</sic> agreement to stand.<lb/><lb/>
+
+Item&nbsp;&nbsp;my will is that all former <sic corr="Codicils ">Codicill's</sic> and wills made before be void <lb/>and this to be my last will and Testament.<lb/><lb/>
+
+Item&nbsp;&nbsp;my will is that my <sic corr="sons ">sonnes</sic> receive not from my Executor their portions <lb/>which will be due to them by this will, <sic corr="until ">till</sic> they come to age.<lb/><lb/>
+
+Item&nbsp;&nbsp;my will is that the bed and <note target="n16"><sic corr="damask ">damaske</sic></note> furniture be <sic corr="appraised ">praised</sic> at <sic corr="twenty ">twentie</sic> five pound<add resp="editor">[s] </add>Sterling.<lb/><lb/>
+
+Item&nbsp;&nbsp;my will is that Mr. <note target="n17">Thomas Haynes,</note> Mr. <note target="n18">Thomas <sic corr="Madestard ">Maidstard:</sic></note> Mr. <lb/><note target="n19">Robert Griggs</note>: and Mr. <note target="n20">David Miles</note> be the <sic corr="appraisers ">praisers</sic> of this my estate.<lb/><lb/>
+
+Item&nbsp;&nbsp;my will is that my <sic corr="son ">sonne</sic> John be the Executor of this my last will &amp; testament and in witness that this is my last will and <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Testament.
+
+<pb n="4"/><lb/><lb/>
+<del>Item my is that my sonne</del><lb/><lb/>
+And In witness that this is my last will and Testament I have I have <lb/>hereunto set my hand this 15th of September 1669.<lb/><lb/>
+
+Signed Delivered &amp; Published&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="bold"><hi rend="italics">JOHN: CARTER:</hi></hi><lb/>
+
+In presence of us<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sic corr="Proved">Probatm</sic> first hirmoi <abbr expan="testimony ">testm </abbr> the second David Miles  <lb/>
+
+&nbsp;&nbsp;<hi rend="bold"><hi rend="italics">DAVID MILES</hi></hi>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <note target="n21"><abbr expan="Edward ">Edward </abbr> Carter</note> <note target="n22">Thomas Edmonds</note> <note target="n23">John Bunne <abbr expan="Junior ">Junr</abbr></note> in<lb/>
+
+&nbsp;&nbsp;<hi rend="bold"><hi rend="italics">EDWARD CARTER</hi></hi>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<unclear> . . . [ . . . ] </unclear> <sic corr="twentieth ">vicesimo</sic> <sic corr="sixth ">sexto</sic> <sic corr="day ">die</sic> <abbr expan="January ">Jan: </abbr> <abbr expan="Anno ">Ao: </abbr> <sic corr="1670">1669</sic><lb/>
+
+&nbsp;&nbsp;<hi rend="bold"><hi rend="italics">THOMAS EDMONDS</hi></hi>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Test <note target="n24"><abbr expan="Edward ">Edw </abbr> Dale</note> . . . .<lb/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sic corr="Recorded ">Recordat</sic> <sic corr="first ">primo</sic> <abbr expan="February ">Febr </abbr> <sic corr="next "><abbr expan="proximo ">prox </abbr> </sic> <sic corr="sealed ">signen</sic> per dom <abbr expan="Edward ">Edw </abbr> Dale<lb/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sig<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JOHN <hi rend="bold"><hi rend="italics">0 </hi></hi><add resp="editor">[his sign]</add> BUNNE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<lb/><lb/>
+
+Item&nbsp;&nbsp;my will is that my <sic corr="cousin ">cosen</sic> <note target="n25">John Carter</note> have a hogshead of Tobaco and this<lb/>to be added to my will As witness, my hand this 16th of September 1669.<lb/>
+&nbsp;&nbsp;witness&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="bold"><hi rend="italics">JOHN: CARTER:</hi></hi><lb/>
+<hi rend="bold"><hi rend="italics">EDWARD CARTER</hi></hi><lb/>
+<hi rend="bold"><hi rend="italics">THOMAS EDMONDS</hi></hi><lb/>
+<hi rend="bold"><hi rend="italics">DAVID MILES</hi></hi><lb/>
+<lb/>
+Item&nbsp;&nbsp;my will is that this be added to my last will : (<sic corr="vizt.">viz</sic>) <del>[illegible]</del> that my wife<lb/>have my chest in my chamber in which her clothes are in, As witness my<lb/>hand this 26th of September 1669 1669 <add resp="editor"> [<hi rend="italics">sic </hi>]</add><lb/>
+&nbsp;&nbsp;witness&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="bold"><hi rend="italics">JOHN: CARTER:</hi></hi><lb/>
+<hi rend="bold"><hi rend="italics"><note target="n22"><abbr expan="Josiah ">JOS: </abbr> WILLIS</note></hi></hi><lb/>
+<hi rend="bold"><hi rend="italics">THOMAS EDWARDS</hi></hi><lb/><lb/>
+
+Item&nbsp;&nbsp;my will is, that this be added, to my afore said <sic corr="Codicil, ">Codicill,</sic> and that my will<lb/>may not hereby, <sic corr="no ">noe</sic> way be altered at all, my will <sic corr="so ">soe</sic> is, That a black<lb/>marble stone be bought to be laid upon my grave in the <sic corr="chancel ">chancell</sic> of <note target="n26">Christ church<lb/>parish</note>: And that the bones of my <sic corr="deceased ">deseased</sic> wife, and my <note target="n27"><sic corr="son ">sonne</sic> George,</note> be <sic corr="dug ">dugg</sic><lb/>up and laid by me in the <sic corr="chancel ">chancell</sic> of Christ church parish in Lancaster, in a<lb/>coffin.<lb/><lb/>
+
+Item&nbsp;&nbsp;my will is, that David Miles and John Bunne have each of them <sic corr="ten ">tenne</sic><lb/>shillings <sic corr="apiece ">apeece</sic> allowed the, as a <sic corr="token ">toaken</sic> of my love to buy each of them a<lb/>mourning Ring to <sic corr="wear ">weare</sic> in <sic corr="memory ">memorie</sic> of me, in a <sic corr="sign ">signe</sic> of their love expressed<lb/>towards me, in their attendance upon m in my <sic corr="sickness, ">sicknes.</sic> As <sic corr="witness ">witnes</sic> my hand<lb/>this 31th: day of September 1669&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="bold"><hi rend="italics">JOHN: CARTER:</hi></hi><lb/>
+&nbsp;&nbsp;witness<lb/>
+<hi rend="bold"><hi rend="italics">EDWARD CARTER<lb/>
+THOMAS EDMONDS</hi></hi><lb/><lb/>
+
+
+
+<pb n="5"/><lb/><lb/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;A Codicil (or addition to my <del>former</del> will and Testament) made by me<lb/>&nbsp;&nbsp;&nbsp;&nbsp;John Carter <abbr expan="Esquire ">Esqr: </abbr> being sound of <sic corr="memory ">memorie</sic> and understanding<lb/><lb/>First my will is, that this be written <sic corr="down ">downe</sic> and performed as my <sic corr="Codicil. ">Codicill.</sic><lb/><lb/>
+
+Item&nbsp;&nbsp;my will is, that Thomas Edmonds, and Josiah Willis, have each of <lb/>them one shift of the finest broad Dowlace, and each of them a <sic corr="pair ">paire</sic> of <lb/><note target="n28">french falls</note> and each of them a <sic corr="suite ">sute</sic> of the finest <note target="n29"><add resp="editor">[ker]</add>sey</note> in the house.<lb/><lb/>
+
+Item&nbsp;&nbsp;my will is, that James Percivall and James Prescott have each of <lb/>them two shifts of the <note target="n30">finest <sic corr="canvas, ">canvais,</sic></note> and each of them a narrow dowlass <lb/>shift &amp; each of them a pair of french falls.<lb/><lb/>
+
+Item&nbsp;&nbsp;my will is that <note target="n20">David Miles</note> have ten shillings more allowed him <lb/>besides the ten shillings mentioned in the will. And also my will is that<lb/>Mrs. <note target="n20">[Martha] Miles'</note> have <sic corr="twenty ">twentie</sic> shillings' allowed her.<lb/><lb/>
+
+Item&nbsp;&nbsp;my will is that my wife have <del>[illegible]</del> <sic corr="twenty ">twentie</sic> pounds' Sterling instead of the negro<lb/>boy and that the <sic corr="Legacy ">Legacie</sic> of the negro boy be void and that if she please <sic corr="instead ">insteed</sic><lb/>of this <sic corr="twenty ">twentie</sic> pounds she have English Susanna, and ten pound<add resp="editor">[s]</add> Sterling.<lb/><lb/>
+
+Item&nbsp;&nbsp;my will is, that my wife have <sic corr="twenty ">twentie</sic> pounds' pounds Sterling, or after<lb/>the rate of <sic corr="twenty ">twentie</sic> pounds' pounds Sterling, for a <sic corr="year ">yeare</sic> or fifteen months' provided<lb/>she can make appear sufficient cause for the <sic corr="misliking ">mislikeing</sic> of her accom=<lb/><sic corr="modations' ">mandations'</sic> or entertainment, during the said <sic corr="year ">yeare</sic> or fifteen months, also<lb/>provided she take not out of my <sic corr="son's ">sonne<add resp="editor">['s]</add> </sic> hands above a hundred pounds<lb/>sterling during the said fifteen months.<lb/><lb/>
+
+Item&nbsp;&nbsp;my will is that my wife have three pounds sterling allowed her to<lb/>buy <note target="n31">cloth serge</note> for <del>[illegible]</del> <sic corr="mourning, ">morning,</sic> and also my will is that my <sic corr="son ">sonne</sic><lb/>John and my <sic corr="son ">sonne</sic> Robert have each of them three pounds sterling<lb/>allowed to buy them cloth for <sic corr="mourning. ">morning.</sic><lb/><lb/>
+
+Item&nbsp;&nbsp;my will is that my wife have my flat watch with <unclear>one[ . . . ]</unclear> motion.<lb/><lb/>
+
+Item&nbsp;&nbsp;m will is that my <sic corr="son ">sonne</sic> John put aboard a ship for my wife three<lb/>fatted muttons, and three fatted <note target="n32"><sic corr="shoats ">shoates</sic></note> and three <sic corr="son ">barrells</sic> of Indian Corn<lb/>for her <sic corr="accommadation ">accommandation.</sic><lb/><lb/>
+
+Item&nbsp;&nbsp;my will is, that my <sic corr="son ">sonne</sic> John which is my executor mentioned in<lb/>my will and Testament, make up the ten pounds sterling mentioned in my will<lb/>towards the maintenance of my <sic corr="son ">sonne</sic> Charles <sic corr="yearly ">yearely</sic> be made twelve pounds<lb/>sterling.<lb/><lb/>
+
+Item&nbsp;&nbsp;	My will is that my <sic corr="son ">sonne</sic> John procure my wife's passage and her <sic corr="son's ">sonne's</sic><lb/>passage, and her <sic corr="maid's ">mayde's</sic> passage in some ship that I take freight in.<lb/><lb/>
+
+Item&nbsp;&nbsp;my will is, that my daughter Elizabeth Utie, have a hundred pounds<lb/>or a hundred &amp; <sic corr="fifty ">fifie </sic> pounds, in case she outlive her husband, and<lb/>her husband, leave her poor, the Judgment of which <sic corr="poverty ">povertie</sic> I <sic corr="refer ">referre</sic> to my<lb/><sic corr="son ">sonne</sic> John, <sic corr="so ">soe</sic> that if he see occasion for a hundred pounds or a hundred<lb/>and <sic corr="fifty ">fiftie </sic> pounds he is to allow her either according to his <sic corr="discretion ">dieresretion</sic> and<lb/>according to her <sic corr="poverty. ">povertie.</sic> And my will is that the payment of this money shall<lb/>be thus, that in case my <sic corr="son ">sonne</sic> John see occasion to allow her but a hundred<lb/>pounds then to send to <note n="AB1"><abbr expan="Captain ">Capt:</abbr> <sic corr="Bailey ">Bayley</sic> </note> to send her ten servants, although they<lb/>will cost ten or fifteen pounds more, but in case he see<add resp="editor">[s] </add> fitting to allow her<lb/>a hundred and <sic corr="fifty ">fiftie</sic> pounds, then to send to <abbr expan="Captain ">Capt:</abbr> <sic corr="Bailey ">Bayley</sic> to send fourteen<lb/>servants although they will cost something more.<lb/><lb/>
+
+Item&nbsp;&nbsp;my will is that my daughter Elizabeth Utie have three pound<add resp="editor">[s] </add>sterling<lb/>to buy her cloth serge for <sic corr="mourning.">morning.</sic><lb/><lb/>
+
+Item&nbsp;&nbsp;my will is that after my <sic corr="son ">sonne</sic> Charles is put out to apprentice, he<lb/>is to have but eight <del>[illegible]</del> pounds a year allowed him <sic corr="until ">till</sic> he comes to age.<lb/><lb/>
+
+Item&nbsp;&nbsp;my will is that my <sic corr="son ">sonne</sic> Charles have Doctor Usher's <note target="n33">Body of Divinity</note><lb/>when he comes to <sic corr="years ">yeares</sic> of discretion.
+
+
+<pb n="6"/><lb/><lb/>
+Item&nbsp;&nbsp;my will is, that my <sic corr="son ">sonne</sic> Robert have Doctor Usher's <sic corr="Body ">Bodie</sic> of <lb/><sic corr="Divinity ">Divinitie</sic> and <note target="n15">the whole <sic corr="duty ">dutie</sic> of man,</note> and the <note target="n34">Practice of <sic corr="Piety, ">Piety,</sic> </note>and <note target="n35">Doctor Nicolas' <sic corr="Catechism.">Catichism.</sic></note><lb/><lb/>
+
+Item&nbsp;&nbsp;my will is, that all former <sic corr="Codicils ">Codicills</sic> be void<lb/><lb/>
+
+Item&nbsp;&nbsp;my will is, that this, my <sic corr="Codicil ">Codicill</sic> <sic corr="do ">doe</sic> <sic corr="no ">noe</sic> <sic corr="ways ">wayes</sic> make void my<lb/>last will and Testament dated the 15:th of September : 1669<lb/><lb/>
+
+<del>As witness my hand this third day of <sic corr="January ">Januarie</sic> <sic corr="1670">1669</sic></del><lb/><lb/>
+
+Item&nbsp;&nbsp;my will is that my <sic corr="son ">sonne</sic> John &amp; my <sic corr="son ">sonne</sic> Robert have the mares<lb/>for a <sic corr="Joint ">Joynt</sic> <sic corr="Stock ">Stocke</sic> <sic corr="between ">betweene</sic> them, my <sic corr="son ">sonne</sic> John to have two parts<lb/>and my <sic corr="son ">sonne</sic> Robert one part, and that my <sic corr="son ">sonne</sic> John allow my <sic corr="son ">sonne</sic><lb/>Robert so much money or <sic corr="Tobacco ">Tobaco</sic> as will make up his third part<lb/><sic corr="half. ">halfe.</sic> And my will is that none of the mares be <sic corr="sold ">sould</sic> <sic corr="until ">till </sic>the<lb/><sic corr="stock ">stocke</sic> become<add resp="editor">[s] </add> <sic corr="twenty ">twentie</sic> brooding mares, And then my will is that<lb/>that <sic corr="stock ">stocke</sic> of <sic corr="twenty ">twentie</sic> mares be preserved and then them or <del>[illegible]</del><lb/>their <sic corr="increase ">encrease</sic> may be <sic corr="sold ">sould</sic> after they are two <sic corr="years ">yeares</sic> <sic corr="old ">ould</sic> not bef<add resp="editor">[ore]</add><lb/>As Witnes my hand this third of <sic corr="January ">Januarie</sic> 1669:<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="bold"><hi rend="italics">JOHN: CARTER:</hi></hi><lb/>
+<sic corr="witnes">witness</sic><lb/>
+<hi rend="bold"><hi rend="italics"><abbr expan="Thomas ">Tho: </abbr> Edmonds</hi></hi>	<lb/>
+<hi rend="bold"><hi rend="italics"><abbr expan="Josiah ">Jos : </abbr> Willis</hi></hi>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<lb/><lb/>
+
+
+
+		
+&nbsp;&nbsp;At a court held for Lancaster County on the 9th day of January <hi rend="underline">1722</hi><lb/>
+On the motion of <abbr expan="Colonel ">Colo </abbr> Robert Carter the before Written Will &amp; <sic corr="Codicil ">Codicill</sic> with their proof Was ordered<lb/>to be inserted In the Records of this Court and was accordingly Recorded.<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Per <note target="n36"><abbr expan="Thomas ">T. </abbr> Edwards</note> <abbr expan="Clerk Court">ClCur </abbr>
+ 	
+
+
+
+</p>
+
+<closer><seg type="postscript"><lb/><lb/></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> The will was admitted to probate February 1, 1670, as noted in the clerk's statement, but apparently was never copied into the court record book To have it copied into the court records, Robert Carter had it re-admitted to record January 9, 1723. The original is found in Lancaster County [Loose] Wills 1700-1749, and the recorded copy in Lancaster County Wills Etc. No. 10, Part 1, 1709-1727, pp. 416-420, both at the Library of Virginia, Richmond. </note><lb/>
+
+<note>This editor was greatly facilitated in work on this will by Christine Jones's 1977 nearprint work, <cit><bibl><title>John Carter I of "Corotoman" Lancaster County, Virginia.</title> (Irvington, VA: Foundation for Historic Christ Church, 1977)</bibl></cit> prepared for the Research Committee of the Foundation.  The edition included a transcript of John Carter's will which this editor wass able to scan and use optical character recognition software to produce a text that he could read against the original text, saving the labor of re-transcribing the original text.</note><lb/>
+
+<note>The clerk writing out the original will added flourishes at the end of each line that filled the space between the last letter and the right margin of the page. The editor has not tried here to reproduce these flourishes.</note> <lb/>
+
+<note>The recording clerk in 1723 made some modest changes undoubtedly to speed his work; he frequently substituted "&amp;" for the word "and."</note><lb/>
+
+<note>Because the original will has been used as copy text, the signatures are original and are so indicated herein by the use of bold italics.</note><lb/>
+
+<note>For ease in reading the transcript, the editor has added a space between the elements of the will that begin "Item."</note><lb/>
+
+<note id="n1">[1] Samuel Mathews (1629-1660), Jr.,son of Samuel Mathews who had come to Virginia in 1622 with a cosiderable party of family and servants. The son was appointed to the Council in 1655, and  was elected by the General Assembly as governor, serving 1658-1660 during the Commonwealth period. The father was a considerable land speculator and there are several patents under his name in <cit><bibl>Nell M. Nugent. <title>Cavaliers and Pioneers: Abstract of Virginia Land Patents and Grants.</title> [Richmond: Virginia State Library, 1977]23(1666-1695).</bibl></cit></note><lb/>
+
+<note id="n2">[2] "Vizt." is the abbreviation for the Latin word "videlicet"; it means "namely."</note><lb/>
+
+<note id="n3">[3]  "The Thathcer family owned land here as early as 1656 when William Thatcher acquired several patents. By 1750 his grandson Gabriel owned all that remained of the original patents." In 1750 the Hutchings land was about three miles north of Christ Church on the southern bank of the eastern branch of Corotoman River." (<cit><bibl n="B44">Sorrells.<title>Landholders &amp; Landholdings.</title> p. 31.)</bibl></cit></note><lb/>
+
+<note id="n4">[4] William Hutchings  was an early landholder in Lancastger County  "The Hutchings family acquired this tract {150 acres] in the seventeenth century. . . .  The creek leading from the Hutchings's residence was known as Hutchings Creek in the 18th century, but is now known as Quarter Cove."   (<cit><bibl><xref to="http://genforum.genealogy.com/hutchings/messages/686.html">"Hutchings/Hutchins from Lancaster, VA"</xref></bibl></cit>; and <cit><bibl n="B44">Sorrells.<title>Landholders &amp; Landholdings.</title> p. 27. </bibl></cit>  ) </note><lb/>
+
+<note id="n5">[5] Corrotoman River is a "stream" in South Central Lancaster Co." with eastern and western branches. (<cit><bibl n="B29">Miller. <title>Place-Names . . . . </title>p. 35.</bibl></cit>)</note><lb/>
+
+<note id="n6">[6] George Taylor (c. 1615-1683) was a prominent citizen of Lancaster County and "was a Justice, Sherriff, and Burgess of what would be Richmond Co.," where he had a 542-acre tract of land. (<cit><bibl><xref to="http://wc.rootsweb.ancestry.com/cgi-bin/igm.cgi?op=GET&db=bevangenealogy&id=I160331">George Taylor</xref></bibl></cit> ) </note><lb/>
+
+<note id="n7">[7] Elizabeth (Carter) Utie (1651- 1699), John Carter I's second child by his first wife, Jane Glyn. Elizabeth first married Nathaniel Utie of Spetsutia, Baltimore County, Maryland, in 1667. "She married Capt. Henry Johnson; 2nd husband. She married Edward Boothby; 3rd husband. She was buried on 4 Aug 1699. " 
+(<cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 1</bibl></cit> and "<xref to="yyy">Ancestors of Joanna Maureen Garrett.</xref>" )</note><lb/>
+
+<note id="n8">[8] Elizabeth (Sherley) Carter (1648-1732) of  Gloucester County was John Carter I's fifth wife whom he married in 1668. She went to England shortly after his death with their infant son, Charles, who died after 1690. She remarried twice. (<cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 1.</bibl></cit> )</note><lb/>
+
+<note id="n9">[9] Charles Carter (1669-<hi rend="italics">post</hi> 1690) He should not be confused with Robert Carter's son of the same name.   (<cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 1</bibl></cit>)</note><lb/>
+
+<note id="n10">[10] Jennifer Drobac has written, "Simply defined, a jointure 'was a property provision for [the] wife, made prior to marriage in lieu of dower." Henry Black, author of the standard law dictionary, defined dower as "the provision which the law makes for a widow out of the lands or tenements of her husband for her support." In a review of Susan Staves's <title>Married Women's Separate Property in England 1660-1833,</title> Margaret A. Doody wrote: "In the older system that prevailed before the mid-seventeenth century, women had 'dower rights.' At common law, a widow was entitled to a life estate amounting to one-third of all the real property of which her husband had been the legal owner. Staves shows how such a provision came to be felt an unreasonable clog on an estate . . . The result was the invention of the 'jointure,' a settlement upon the wife if her husband predeceased her, as agreed upon in advance by prenuptial contract." (Jennifer Drobac. "The 'Perfect' Jointure: Its Formulation After the Statute of Uses." 19 <title>Cambrian Law Review.</title> 26 [1988], p. 26; and <title>Eighteenth-Century Studies</title>. 28[ 1 Autumn, 1994] p. 156.)</note><lb/>
+
+<note id="n11">[11] A valance is a short piece of drapery that extends across the window to conceal the
+support rods.</note><lb/>
+
+<note id="n12">[12] Sarcenet is "a soft silk in plain or twill weaves." (<xref to="http://www.merriam-webster.com/dictionary/sarcenet"><title>Merriam-Webster Dictionary</title></xref> online. 9/10/2012")</note><lb/>
+
+<note id="n13">[13] A search of the online English Short Title and Library of Congress catalogues did not reveal any book whose author was "David" with "Tears" in the title.</note><lb/>
+
+<note id="n14">[14] This may have been Richard Byfield's <title>A Short Treatise Describing the True Church of Christ, and the Evills of Schisme, Anabaptism and Libertinism . . . Delivered In Two Sermons By . . . .</title> (London : Printed for Ralph Smith ..., 1653.). Another possibility is  Nicholas Byfield, <title>The Promises: or, A Treatise Shewing How a Godly Christian May Support His Heart with Comfort.</title> (London: Printed by G. P[urslowe] for Ralph Rounthwaite, 1619.) </note><lb/>
+
+<note id="n15">[15]  This is probably Richard Allestree,   <title>The Whole Duty of Man Laid Down. In a Plain and Familiar Way for the Use of All, but Especially the Meanest Reader. Divided into XVII chapters, One Whereof Being Read Every Lords Day, The Whole May Be Read Over Thrice In The Year. Necessary For All Families. With Private Devotions For Several Occasions.</title> It went through numerous editions. No copy was not found in the inventory of Robert Carter's estate.</note><lb/>
+
+<note id="n16">[16] Damask is "a rich silk fabric woven with elaborate designs and figures, often of a variety of colours. Also applied to figured materials of silk and wool, silk and cotton, or worsted or cotton only, used for furniture-covering, curtains, etc." (<cit><bibl><title>Oxford English Dictionary</title></bibl></cit>)</note>
+
+<note id="n17">[17] The will of Thomas Haynes was probated May 24, 1679. In it he noted land "upon a creek called Slaughters creek" he had purchased in partnership with Robert Griggs (see fn. 19), another of the named appraisers in John Carter's will. Slaughter's Creek, according to Mary R. Miller was also known as Carter's Creek, and "is believed to be the present Carter's Creek." Haynes was a justice of Lancaster County. (<cit><bibl>Ida J. Lee. <title>Abstracts Lancaster County,Virginia,  Wills. 1653-1800.</title> [Greenville, SC: Southern Historical Press, Inc., 2004.] Reprint of the original 1959 edition. p. 109;</bibl></cit> <cit><bibl n="B29">Miller. <title>Place-Names . . . . </title>p.146;.</bibl></cit> and <cit><bibl><xref to="bbb">"Immigrant Servants Database"</xref> in which a cited court record mentions Haynes as "a member of the Cort."</bibl></cit>)</note><lb/>
+
+<note id="n18">[18] Thomas Madestard (d. 1675) was a prominent early settler in the original Lancaster County living apparently on the side of the Rappahannock that became Middlesex County as he was one of those recommended to the governor to be a justice in that county when it was formed in 1668. (<cit><bibl>Ida J. Lee. <hi rend="italics">op. cit.,</hi> p. 146,</bibl></cit>  and  <cit><bibl><xref to="ccc">"A History of the 'First' Courthouses of Middlesex VA"</xref>   11/14/2011</bibl></cit>)</note><lb/>
+
+<note id="n19">[19] Robert Griggs's will was recorded in Lancaster County January 30, 1684. In it he named Elizabeth Carter, "Dau. of Col. Jno. Carter" among others. As noted in fn 13, he had purchased in partnership with Thomas Haynes land "upon a creek called Slaughters creek." (<cit><bibl>Ida J. Lee. <hi rend="italics">op. cit.,</hi> pp. 101 and 109.</bibl></cit> </note><lb/>
+
+<note id="n20">[20] David Miles's will of 1674 in Lancaster County names his wife Martha and daughter, Elizabeth.  Martha Miles was the daughter of William Ironmonger.  In 1685 in Gloucester County a deed was drawn from William Ironmonger to David Miles of Lancaster County for746 acres on the east  branch of Corrotoman River.  David Miles was apprenticed to John Carter in 1655   (<cit><bibl>"<xref to="ddd">Miles/Myles Surname.</xref>" 11/8/2011;</bibl></cit>) and <cit><bibl>Christine A. Jones. <title>John Carter I of "Corotoman" Lancaster County, Virginia.</title> (Irvington, VA: Foundation for Historic Christ Church, 1977), p. 15, citing Lancaster County Deed Book 1[1652-1657], p. 213.</bibl></cit> </note><lb/>
+
+<note id="n21">[21] Edward Carter (d. 1682) settled in Nansemond County prior to 1650 where he was a justice, burgess, and colonel of militia. He returned to Edmonton, Middlesex, England where he died. His will names a son, Edward, and a daughter, Elizabeth. There is some possibility that he may have been related to John Carter. Noel Currer Briggs's 1979 study, <title>The Carters of Virginia: Their English Ancestry</title> (Chichester, Sussex England) contains detailed research by an eminent English genealogist on these familites. (<xref to="eee">"Probate of will of Edward Carter</xref> of Edmonton, esq.; made 18 Oct 1682; proved P.C.C.  ACC/1376/67  1682 29 Nov" from "Deeds And Settlements Concerning Premises In Middlesex, " National Archives. 11/16/2011.)</note><lb/>
+
+<note id="n22">[22] Thomas Edmonds apparently was an endentured servant to John Carter as he is named in Carter's inventory as having just under two years to serve at that time. His non-cupative will was probated in Lancaster County January 9, 1678, naming  Elias, the son of William Edmonds, as heir, and William as executor. (<cit><bibl>Christine A. Jones. <hi rend="italics">op. cit.,</hi> p. 86;</bibl></cit> <cit><bibl>Ida J. Lee. <hi rend="italics">op. cit.,</hi> p. 76,</bibl></cit>  and <cit><bibl><xref to="http://wc.rootsweb.ancestry.com/cgi-bin/igm.cgi?op=GET&db=mrmarsha&id=I27347
+" >"A Probate of the Last Will </xref> and Testamt. nuncuapative of Thomas Edmonds, (deced), is granted unto William Edmonds accordinge to the tenor of the (deceds) Will. Jerimiah Packquet, Thomas Buckley, William Nash and Francis Wright are ordered to apprize the saide Estate and to bee sworne by the nexte Justice An Inventory thereof to bee exhibited to the nexte Cort,"  citing Lancaster County Order Book 1674-1678; January 9, 1678, p. 401,as published by Antient Press, p. 401, online. 11/19/2011</bibl></cit> . Note:  There is no volume in the Library of Virginia's description of Lancaster County court records that precisely fits this description.  It may be Wills, Etc., No. 5, 1674-1689, but is more likely Orders, No. 1, 1666 - 1680.)</note><lb/>
+
+<note id="n23">[23] John Bunne's will was recorded July 12, 1676, and names his wife Elizabeth and oldest daughter Jane as well as his sister, Ursula Vivian. He has signed with his mark indicating that he could not write. He may also be the John Binn apprenticed to John Carter on December 14, 1664. <cit><bibl>Ida J. Lee. <hi rend="italics">op. cit.,</hi> p. 29;</bibl></cit>and <cit><bibl>Christine A. Jones. <title>John Carter I of "Corotoman" Lancaster County, Virginia.</title> (Irvington, VA: Foundation for Historic Christ Church, 1977), p. 15, citing Lancaster County Orders Book 3 [#1: 1655-1666], p. 320.</bibl></cit>)</note><lb/>
+
+<note id="n24">[24] Edward Dale (1654-1695) was clerk of Lancaster County Court 1655-1674, a justice of that county, 1668-1684, sheriff a number of times, and burgess. (<cit><bibl n="B36">Dobyns <hi rend="italics">et al.</hi> <title>Within the Court House at Lancaster.</title> pp. 15, 52;</bibl></cit>  <cit><bibl>Ida J. Lee. <hi rend="italics">op. cit.,</hi> p. 63;,</bibl></cit>and <cit><bibl>Joseph Lyon Miller. "Major Edward Dale: Lancaster County, Virginia, 1655-1694." <title>William and Mary Quarterly: </title> 17[3(Jan., 1909)]:196-202.</bibl></cit></note><lb/>
+
+<note id="n25">[25] It is not clear who this cousin John Carter was as there were many related Carters in the area at the time. It was not Thomas Carter I's son John as he was not born until 1673. Noel Currer-Brigg's study, <title>The Carters of Virginia: Their English Ancestry</title> cited in footnote 17, is not helpful.  (<cit><bibl>Virginia N. Kaufman. "Discovery of the Thomas Carter Plantation Site."  26 page pamphlet. [ (White Stone, VA).: HS Printing &amp; Stationery, Inc., 1982.] p. 3.</bibl></cit>)</note><lb/>
+
+<note id="n26">[26] When the portion of Lancaster County south of the Rappahannock  (later becoming Middlesex County), was separated from that north of the river in 1666, there was one official parish in Lancaster, Christ Church. Unofficially, there were two:  Christ Church, and St. Mary's White Chapel, with one minister serving both. John Carter I had worked for the construction of a church for Christ Church. "In 1665 the vestry ordered the first church to be built" and named John Carter to undertake the work. (<cit><bibl>Brown, Katherine L., and Nancy T. Sorrells.  <title>Christ Church Lancaster County Virginia.</title> [Irvington, VA:  Foundation for Historic Christ Church, 2001]  p. 7.</bibl></cit> See also the extensive notes on the parishes in <cit><bibl>John K. Nelson. <title>A Blessed Company: Parishes, Parsons, and Parishoners in Anglican Virginia, 1690-1776.</title> [Chapel Hill and London: University of North Carolina Press, 2001].</bibl></cit></note><lb/>
+
+<note id="n27">[27] John Carter refers to his first child George with his first wife, Jane Glyn (d. <hi rend="italics">ante</hi> 1655); George died in infancy.  (<cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p.1.</bibl></cit>)</note><lb/>
+
+<note id="n28">[28] According to a variety of sources on the web including the <title>Encyclopedia Britannica Online, </title>French falls were a type of high buff leather boots with a wide top that was turned over forming a cuff around the leg. P.A. Bruce wrote in his <title>Economic History of Virginia in the Seventeenth Century</title> on <xref to="http://babel.hathitrust.org/cgi/pt?u=1&num=title&seq=492&view=image&size=100&id=uc1.32106006322363&q1=boots
+">page 482</xref> of Vol. II,  "The Assembly had, in 1660, adopted rules . . .  Each county was instructed to erect a tan-house and to employ tanners, carriers, and shoemakers. There was appointed for each house an overseer . . . To the persons presenting hides he was required to sell plain shoes at the rate of thirty pounds [of tobacco] a pair. French falls of the largest size were to be sold to such persons at the rate of thirty-five pounds [of tobacco] a pair, whilst those of the smallest were to be sold at twenty pounds."  A knowledgeable staff member at Colonial Williamsburg has emailed the editor, "The main puzzlement is, that French Falls were made for men, women, and children, and for well over 100 years.  No one can fathom any known style or type of footwear that fits that description with certainty, at that price range, that's not slippers. The leading UK footwear historian, June Swann, has never found a definitive answer as to what they were either.  Maybe one day we'll figure it out."  (Email, Dominic Saguto to the editor, 5/22/2007) </note>
+
+<note id="n29">[29] Kersey is "a kind of coarse woolen cloth made chiefly in Kent and Devonshire." (<cit><bibl>18th Century Trade Terms (Fabrics), <xref to="hhh">"Of Silk, Terms Of Silk, Cotton, Linen and Wool,"</xref> Compiled from <title>The Beekman Mercantile Paper</title> 1746 - 1799.</bibl></cit> Online, 12/1/2011) </note>
+
+<note id="n30">[30] Canvas is a "strong or coarse unbleached cloth made of hemp or flax, used (in different forms) as the material for sails of ships, for tents, and . . . formerly also for clothing, etc."  (<cit><bibl><title>Oxford English Dictionary Online</title></bibl></cit>)</note><lb/>
+
+<note id="n31">[31] Serge is a "woollen fabric, the nature of which has probably differed considerably at different periods. Before the 16th c. it is mentioned chiefly as material for hangings, bed-covers, and the like; afterwards it is often referred to as worn by the poorer classes (both men and women), perh. rather on account of its durability than of its price, which seems not to have been extremely low."  (<cit><bibl><title>Oxford English Dictionary Online</title></bibl></cit>)</note><lb/>
+
+<note id="n32">[32] According to the <title>Oxford English Dictionary Online,</title> a shoat is a "young weaned pig."</note><lb/>
+
+<note id="n33">[33] James Ussher. <title>A Body of Divinity, Or, The Summe and Substance of Christian Religion  Catechistically Propounded and Explained, By Way of Question and Answer, Methodically and Familiarly Handled :  Collected Long Since Out of Sundry Authors, and Reduced Unto One Common Method .</title> (London, 1645).  John wanted Robert to have this book as well, and the title is in the <xref to="iii">inventory of Robert Carter's estate.</xref> (<cit><bibl n="A28">Wright. "The Literary Interests of the First Carters." </bibl></cit> p.58 .) </note><lb/>
+
+<note id="n34">[34] Lewis Bayly. <title>The Practice of Piety: directing a Christian how to walke, that he may please God. Amplified by the author.</title>[London:  Andrew Crook, 1738 and other editions.]. The title was not among the books in Robert Carter's inventory. </note><lb/>
+
+<note id="n35">[35] Doctor Nicolas' Catechism has not been identified.</note><lb/>
+
+<note id="n36">[36] "Thos. Edwards, a little petty Fogging Lawyer the Clark of our County that hath as much Mettle and more cunning for Contention then his predecessor had" Carter wrote to Landon Jones, <xref to="/users/berkeley/public/C23g22b.xml">July 22, 1723.</xref> His opinion of Edwards later changed for there are more appreciative mentions of him in Carter's diary. Edwards was clerk of the Lancaster County court from 1720-1746. (<cit><bibl><title>Within the Court House at Lancaster.</title> Lively, VA: Lively Printing Services, Lively, VA: Lively Printing Services, [1976]. p. 15.</bibl></cit>; and "Thomas Edwards, Gentleman, Clerk of the Court" in <cit><bibl n="B43">Brown and Sorrells. <title>People in Profile.</title> pp. 94-103.</bibl></cit>)</note><lb/>
+
+
+<lb/>
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

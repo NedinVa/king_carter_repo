@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; 
+
+<!NOTATION html SYSTEM "HTML">
+<!ENTITY Ext6 SYSTEM "http://www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm" NDATA html>
+
+]>
+<TEI.2 id="C24a29b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Captain John Hyde and Company, January 29 and February 15, 1724</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 11 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C24a29b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2002</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Captain John Hyde and Company, January 29 and February 15, 1724</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>3 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1723 July 4 -1724 June 11, Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1724-01-29</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C24a29bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>3 p.</extent>
+<date value="1724-01-29"></date>
+<idno rend="suppress">C24a29b.xml</idno>
+<title>Letter from Robert Carter to Captain John Hyde and Company, January 29 and February 15, 1724</title>
+</bibl>
+</head>
+<p>Robert Carter writes to the London firm trading as Captain John Hyde and Company, January 29, 1724, concerning the firm's October report of sales of tobacco from the Burwell estate which has pleased him although he cannot resist pointing out that Micajah Perry sold some of the same crop for a half penny more. He comments on the possible sales of the last of the stemmed tobacco that will reach the London market soon. He reports that Captain Woodward will soon be ready to sail with about 70 hogsheads of Carter's tobacco on board, and notes the help he has provided to the captain, including his purchase of 1000 bushels of the incoming cargo of salt. He closes by writing that his understanding of their last communication is that the colony's act to restrain the quantity of tobacco planted with not be allowed. In a post script dated February 15th, just before Woodward's sailing, Carter encloses bills of lading for stripped tobacco from his plantations, from the Burwell estates, and from Mr. Grayson, and reports a bill of exchange to Woodward.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to Captain <note n="JH2">John Hyde</note> and Company, January 29 and February 15, 1724</head>
+<opener>
+<dateline>
+<pb n="1"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;per Fowler<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Copy per Woodward&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1724-01-29">Janr. 29th. 1723/4&mdash;</date><lb/>
+Capt. Jno. Hyde &amp; Compa.<lb/>
+</dateline>
+<salute>Gentn.</salute>
+
+</opener>
+
+<p>I have the <abbr expan="favor ">favr.</abbr> of <abbr expan="Yours ">Yrs.</abbr> of the 31st. of <abbr expan="October ">Octr.</abbr> Yor. Accot. of Sales <lb/>of <note n="NB">Mr. Burwell's</note> 14 hhds. I shall not find fault with although You <lb/>must allow me to tell You, <note n="MP2">Mr. Perry</note> sold <add place="supralinear"><sic corr="off ">of</sic></add> the same <del>[illegible]</del><add place="supralinear">Crop</add> for a <lb/>half penny more, If he <sic corr="does ">dos</sic> but hold it through the whole <sic corr="parcel ">parcell </sic><lb/>I am glad to find my last Tobo. <abbr expan="pleased ">pleasd</abbr> You, &amp; will continue in hopes <lb/>You will be able to keep up to the price, the small Modicum You <lb/>had sold of it went at, which will make some amends for the <lb/>Mean Sales I had from You before.  I cannot believe, but <abbr expan="Captain ">Capt.</abbr> <lb/>Hyde is able to Sell Tobo. as well as any man in London it must <lb/>be granted, there is a large Stock of <note target="n1"><sic corr="stemmed ">Stemd</sic> Tobo.</note> coming in these <lb/>forward Ships, more perhaps than Usual upon the Great hopes <lb/>most men feed themselves with, of its doing Wonders now we <lb/>Are <sic corr="prohibited ">prohibitted</sic> from making any more of it and <abbr expan="it is ">tis </abbr> probable the <lb/>Necessitas men that cant Stand the shock will afford good penny<lb/>=worths at first but I reckon there will not go much to Such <lb/>Men, the Bulk of the whole commodity will be in the hands of a <lb/>Few of <del>Able</del> <add place="supralinear">Strong</add> bottoms who will be able to bring the <sic corr="smokers ">Smoakers</sic> to <lb/>a better Temper, If they please but to Unite into Such a resolu=<lb/>=tion&mdash;</p>
+
+<p>Your Little Ship, <note target="n2"><abbr expan="Captain ">Capt.</abbr> Woodward,</note> <sic corr="has ">hath </sic> been with us <lb/>Ever Since <abbr expan="September ">Septr.</abbr> of which You have Intelligence long ago, She <sic corr="has ">hath </sic> <lb/>now above 100 hhds. on board, I reckon Some time next month she <lb/>will be ready to leave us, I got him soon <abbr expan="discharged ">dischargd</abbr> of his Salt <lb/>took above 1000 Bushels of it my self, The reason of the slow Steps <lb/>have been made in the loading of Your Ship I shall leave to  the <lb/>relation of the Captain. I have put on board <sic corr="near ">neer</sic> 70 hhds. of my own <lb/>Crops a large adventure in so small a Vessel, I shall wait wth. <lb/>patience for my Children's Supply, and am in hopes my last <lb/><sic corr="invoice ">Invoyce</sic> <abbr expan="reached ">reachd</abbr> You time Enough to have it in with them, If <lb/>I understand You right, Our <note target="n3">Stint Act</note> restraining us to plant <lb/>but six thousand per head, will not be <abbr expan="allowed ">allowd</abbr> us, but  of this I <lb/>do not hear of any intelligence in the Government, only what <lb/>You hint to me, You may depend upon it the latter Ships will <lb/>meet with but poor <sic corr="gleanings, ">Gleenings,</sic> and I think we may have Our <lb/>Freight at what <sic corr="terms ">Termes</sic> we please to give, <note target="n4">No Scotch</note> are come <lb/>among us yet.  I am&mdash;&mdash; </p>
+
+<closer>Sirs, Your most humble Servt.<seg type="postscript"><lb/><lb/>
+
+<pb n="2"/><lb/><lb/>
+<abbr expan="February ">Febr.</abbr> 15th. 1723/4<lb/><abbr expan="Gentlemen ">Gentn.</abbr><lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We are now come to the time of Woodwards departure he <lb/>will <sic corr="satisfy ">Sattisfie</sic> You how Serviceable I have been to him  from first to last filling him <lb/>up when he did not know where to fetch a hhd. with Tobo., I <sic corr="designed ">design'd</sic> another way.  You've <lb/>herein bills of Lading for 40 hhds. of <abbr expan="stripped ">Stripd</abbr> Tobo. of my own Crops made at some <lb/>of the best of my <abbr expan="plantations">Plans.</abbr> You have also a bill of Lading for 4 hhds. of the Same Tobo.<lb/> made upon a plantation of Mr. Burwell's.<lb/><lb/> 
+
+<pb n="3"/><lb/><lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sic corr="Post script ">Poscript</sic> to <abbr expan="Captain ">Capt.</abbr>Hydes last Lettr&mdash;&mdash;<lb/>
+which I desire Your Accot. of Sale of may be <abbr expan="placed ">placd</abbr> to the Credit of that <lb/>Estate, Here is likewise a bill of Lading for 2 hhds. of Tobo.. be=<lb/>=longing to one <note target="n5"><add place="supralinear">mr</add> Grayson</note> an Inha<add place="supralinear">bitant of our river.</add> the sale of it, it will be the best <lb/>way to return to me, I have just now drawn a <note target="n6">bill of <abbr expan="exchange ">Exche.</abbr></note> <lb/>upon You for &pound;41"16"9 to <abbr expan="Captain ">Capt.</abbr> Woodward which request Yor. <lb/><abbr expan="payment ">paymt.</abbr> of <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="Gentlemen ">Gent </abbr>  Your most humble Servt.<lb/><lb/>
+The other Book<lb/><lb/></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1723 July 4 -1724 June 11, Carter Family Papers, Virginia Historical Society, Richmond. </note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
+
+<note id="n1">[1] Parliament had passed an act forbidding the importation of stemmed tobacco in 1722. John Randolph would be sent to England in 1729 as agent for Virginia to try to have the act overturned; his mission would be successful. (<cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> [Newport News, VA: Mariners' Museum, 1953], 116.</bibl></cit>)</note>
+
+<note id="n2">[2] Thomas Woodward commanded the <hi rend="italics">Providence</hi> during a number of voyages to the colony, 1723-1727. (Adm. 68/194 and 195, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.)</note>
+
+<note id="n3">[3] The Assemby had passed an act in 1723 limiting the quantity of tobacco that might be produced by a planter. For the Council's reasons for assenting to this proposed tobacco law, see  <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:45-51. </bibl></cit> "Vestries in the 1720s appointed people to serve as 'tobacco viewers,' a task that over-production of tobacco and the resulting low price of this staple made necessary. Tobacco viewers' inspected planters' crops to ensure that no one planted more tobacco than the law allowed." (<cit><bibl>Edward L. Bond. <title>Spreading the Gospel in Ccolonial Virginia: Sermons and Devotional Writings.</title> [Lanham, MD: Lexington Books in Association with the Colonial Williamsburg ..., 2004].  pp. 18-19.</bibl></cit> Available online through Google Books.)</note>
+
+<note id="n4">[4] The trading policies of Scots merchants were of considerable concern to Virginia planters and English  merchants at this time, and the matter came before Parliament in 1723. Vessels sent by Scots were crewed by captains and factors authorized to pay good prices in Virginia which enabled them to  obtain full cargoes. English merchants argued that the only way the Scots could afford to pay such good prices was their ability to avoid paying duties on the tobacco at home. Micajah Perry appeared before Parliament and gave statistics of the duties paid by his firm in earlier years and the far smaller amounts paid in the past several years because his ships could not obtain full cargoes in Virginia.  (<cit><bibl n="B22">Price. <title>Perry of London. . . . </title> pp. 64-65.</bibl></cit>)</note>
+
+<note id="n5">[5] In a 1716 titheables list of  the inhabitants of Lancaster County, a John Grayson is listed in Christ Church Parish; he was one of those compiling the list. (<cit><bibl>"Tithables in Lancaster Co., 1716." <title>William and Mary Quarterly</title> 1st. ser., 21(July 1912): 106-11.</bibl></cit>)</note>
+
+<note id="n6"> [6] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (<cit><bibl><xref to="Ext6">"Dictionary of  Financial Scam Terms" at </xref> http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm. 8/22/2005</bibl></cit>)</note><lb/>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2002, was revised January 27, 2011, to add footnotes, and to strengthen the modern language version text.</hi></note>
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

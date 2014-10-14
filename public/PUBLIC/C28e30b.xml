@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C28e30b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to John Pemberton, May 30, 1728</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 11  kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C28e30b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2004</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to John Pemberton, May 30, 1728</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1728-05-30</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C28e30bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent> p.</extent>
+<date value="1728-05-30"></date>
+<idno rend="suppress">C28e30b.xml</idno>
+<title>Letter from Robert Carter to John Pemberton, May 30, 1728</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Liverpool merchant John Pemberton, May 30, 1728, to solicit his support of the colony's effort to obtain the repeal of the act of Parliament forbidding the importation of stemmed tobacco into Great Britain.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="JP">John Pemberton,</note> May 30, 1728</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1728-05-30">May 30th: 1728</date><lb/>
+Mr. John Pemberton<lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+
+
+<p>If I recollect right Some former Letters of <lb/>yours <sic corr="Showed">Shewd</sic> your distastisfaction to the Clause in the <note target="n1">Act of <abbr expan="Parliament">Parlmt</abbr>.</note> <lb/>laying us under a prohibition from <sic corr="Stemming">Steming</sic> our <abbr expan="Tobacco">Tobbo:</abbr> the Con<lb/>Sequence of which <sic corr="has"><sic corr="has">hath</sic></sic> so very bad Effects upon us that I cant <lb/><sic corr="believe">beleive</sic> you Entertain any better Opinion of the restraint <sic corr="than">then</sic> <lb/>you had when it was laid on. This Country in general are So <lb/>very <sic corr="Sensible">Sencible</sic> of this great <sic corr="Evil">Evill</sic> that <sic corr="we"><sic corr="we">wee</sic></sic> have <sic corr="Joined">Joynd</sic> all our <lb/><abbr expan="Endeavors">Endeavrs:</abbr> to get the liberty of <sic corr="Stemming">Steming</sic> <sic corr="allowed ">allowd </sic>to us again. The <lb/><sic corr="Council">Councill</sic> and Burgesses have <sic corr="addressed">addressd</sic> his Majesty have made 
+
+<pb n="2"/><lb/><lb/>
+Application to the <abbr expan="Parliament">Parliamt.</abbr> and have Send home an Agent <lb/>to <sic corr="Solicit">Solicite</sic> the Affair. Most of the <abbr expan="Gentlemen">Gent</abbr> of figure in the Country <lb/>I <sic corr="believe">beleive</sic> will Invite the <abbr expan="Merchants">Merchts:</abbr> both of London &amp; the Outports to <lb/><sic corr="Join">Joyn</sic> their Interest with us. The North <sic corr="Britains">Brittains</sic> if <sic corr="we">wee</sic> <lb/>may give any Credit to their <abbr expan="Merchants">Merchts.</abbr> here, are heartily <lb/>for the taking <sic corr="off">of</sic> this restraint and will be Zealous in getting <lb/>it effected. The damage to the trade in general as well as to the <lb/>Planter Seems very demonstrable by the low mean price tht. <lb/><abbr expan="Tobacco">Tobbo:</abbr> runs at which <sic corr="we">wee</sic> Conclude is mainly owing to the Abun<lb/>dance of Trash tht. is now <sic corr="Shipped">Shipt</sic> <sic corr="off">of</sic><del>which</del> <add place="supralinear">and</add> <sic corr="we">wee</sic> can See no way <lb/>to prevent but by <sic corr="Stemming">Steming</sic> our under <abbr expan="Tobacco">Tobbo:</abbr> <sic corr="Separateing">Seperateing</sic> the <lb/>good and heaving the bad away which you know used <lb/>to be more valuable <sic corr="than">then</sic> the best leaf, Whereas now the <lb/>current practices to <sic corr="tie">tye</sic> up all the ground and <sic corr="Scruffy">Scruffe</sic> leaves <lb/>into bundles and Sell it at half price, Indeed none is so <lb/>bad but it will Sell for Something or other and its become <lb/>very Customary for a planter where he <sic corr="lays">layes</sic> out his Crop <lb/>to oblige the <abbr expan="Merchants">Merchts.</abbr> to take <sic corr="off">of</sic> 2 or 3 hogsheads of his under <abbr expan="Tobacco">Tobbo:</abbr> <lb/>Else he will not deal with him for the rest <add place="supralinear">These things you will have the full information of from yor: own <abbr expan="Masters">Masrs:</abbr></add> This Scroby <lb/><abbr expan="Tobacco">Tobbo:</abbr> <sic corr="we">wee</sic><sic corr="beleive"> beleve</sic> is most of it either Clandestinly run wth.<lb/>out paying Custom or Sent abroad in both Cases the Crown <lb/>is no Gainer, and if this can be demonstrated and all the <lb/><abbr expan="Merchants">Merchts.</abbr> will go heartily into it <sic corr="we">wee</sic> Entertain our Selves <lb/>with great hopes to meet with <sic corr="relief">releif</sic> according to <abbr expan="our">or.</abbr> wishes <lb/>and I flatter my Self you will be one of the Forwardest in <lb/><del>ptomot</del>your Port in promoting this <add place="supralinear">good</add> design I am </p>
+
+<closer>Sir&mdash;<lb/>Yor. very humble Servt;
+<seg type="postscript"><lb/><lb/>per <note target="n2">Denton</note>
+<lb/><del>[illegible]</del>per <note target="n3">Trice</note></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1727 May-1728 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1] Parliament had passed the act forbidding the importation of stemmed tobacco in 1722. Randolph would not leave for England until 1729; his mission would be successful.<corr resp="editor"></corr> (<cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> [Newport News, VA: Mariners' Museum, 1953.] p. 116.</bibl></cit>)</note>
+
+<note id="n2">[2] The <hi rend="italics">John &amp; Betty</hi> was a Liverpool ship often carrying slaves owned by merchant John Pemberton. In 1726 the captain was John Gale, and in the next year, she was commanded by a Captain William Denton. The ship would be lost in 1729. (<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> p. 18, n. 23</bibl></cit>; Carter to Pemberton, 1730 April 15; and Carter to William Dawkins, June 28, July 26, and August 22, 1727, for Denton's first name.)</note>
+
+<note id="n3">[3] The 140 ton <hi rend="italics">Welcome</hi> was owned by London merchant James Bradley to whom Carter would write about her on 1727 May 17.  John Trice (Frice) was her captain, 1723-1728. (<cit><bibl>Survey Report 6801 summarizing Adm 68/195, 154r, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

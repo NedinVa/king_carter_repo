@@ -1,0 +1,418 @@
+= V5 MultiLine NoSorting TabWidth=30
+
+H=";XML"
+
+
+H="XSLT"
+;^!Set %docname%=
+
+^!Set %docname%=^?{XML document name=^%docname%};%xslname%=^?{XSL name=^%xslname%}
+
+^!Set %xmlfile%=^?{XML file=c:\etext\document\^%docname%.xml};%xslfile%=^?{XSL file=c:\etext\document\^%xslname%.xsl};%htmlfile%=^?{HTML file=c:\etext\document\^%docname%.html}
+
+^!CLOSE c:\etext\document\^%docname%.html DISCARD
+
+^!dos c:\etext\batch\x.bat ^%xmlfile% ^%xslfile% ^%htmlfile%
+
+^!WAIT
+
+^!open ^%htmlfile%
+
+H="NOTATION"
+<!NOTATION html SYSTEM "HTML">
+
+H=" ENTITY"
+<!ENTITY ^?[Unique ID=^&] SYSTEM "^?[Link text=^&]" NDATA html>
+
+H=";Illustrations"
+
+
+H="figure"
+<figure entity="^?[Enter]">
+<figDesc>^?[Description]</figDesc>
+</figure>
+
+
+H=";Transcriptions"
+These elements are used for basic page features 
+
+
+H="XML Parser"
+^!CLOSE c:\etext\errors\error.txt DISCARD
+^!dos c:\etext\batch\xmlint.bat ^**
+^!WAIT
+^!open c:\etext\errors\error.txt
+
+
+H="<p>"
+<p>
+
+H="</p>"
+</p>
+
+H="<p></p>"
+<p>^&</p>
+
+H="Page break"
+<pb n="^?[page number]"/><lb/><lb/>
+
+H="<lb/>"
+<lb/>
+
+H="abbreviation"
+<abbr expan="^?[]">^&</abbr>
+
+H="&"
+&amp;
+
+H="SIC"
+<sic corr="^?[]">^&</sic>
+
+H="corr [ ] editor"
+<corr resp="editor">^&</corr>
+
+H="add supralinear"
+<add place="supralinear">^&</add>
+
+H="Do."
+<abbr expan="Ditto">Do. </abbr>
+
+H="pr."
+<abbr expan="pair">pr. </abbr>
+
+H="qt."
+<abbr expan="quantity">qt.</abbr>
+
+H="ps(s)"
+<abbr expan="pieces">ps. </abbr>
+
+H="DASH"
+&mdash;
+
+H="Marginal underline"
+<hi rend="underline">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</hi><lb/>
+
+H="Chest ID"
+<corr resp="editor">[Chest identifying mark]</corr>
+
+H="deleted (struck)"
+<del>^&</del>
+
+H="deleted illegible"
+<del>[illegible]</del>
+
+H="figure"
+<figure entity="FILENAME"></FIGURE>
+
+H="unclear"
+<unclear>^&[ . . . ]</unclear>
+
+H="Spaces 2"
+&nbsp;&nbsp;
+
+H="ref"
+<ref target="n^?[Enter]">^&</ref>
+
+H="ref id"
+<ref id="n^?[Enter]">^&</ref>
+
+H="xref id="
+<xref to="^?[Enter unique reference]">^&</xref>
+
+<!ENTITY ^?[Unique ID=^&] SYSTEM ^?[Link text=^&] NDATA html>
+
+H="NOTE TARGET"
+<note target="n^?[Enter]">^&</note>
+
+H="note id"
+<note id="n^?[id]">^&[] </note>
+
+H="note"
+<note>^&</note>
+
+H="NOTE N="
+<note n="^?[Enter]">^&</note>
+
+H="TITLE"
+<title>^&</title>
+
+H="BOOK FOOTNOTE"
+<note id="n^?[Enter]">[] <title></title> (London, 1).  (<cit><bibl n="A28">Wright. "The Literary Interests of the First Carters." </bibl></cit> p. .)</note>
+
+
+H="Wright"
+(<cit><bibl n="A28">Wright. "The Literary Interests of the First Carters." </bibl></cit> p. .)
+
+H="London. . . "
+(London, 1).
+
+H="John Carter"
+This book had been owned by Robert Carter's older brother John.
+
+H="ETSC"
+<title>English Short Title Catalogue</title>
+
+H="Var. editions"
+This title went through a number of editions that Carter might have owned.
+
+H="OED"
+<title>Oxford English Dictionary</title>
+
+H="(OED)"
+(<cit><bibl><title>Oxford English Dictionary</title></bibl></cit>)
+
+H="pound sign-"
+&pound;
+
+H="shillings"
+<abbr expan=" Shillings">S</abbr>
+
+
+H="recd=received"
+<abbr expan="received">recd</abbr>
+
+H="Sterl=Sterling"
+<abbr expan="Sterling">Ster</abbr>
+
+H="pence-d"
+<abbr expan=" pence">d</abbr>
+
+H="omission in text"
+<add resp="editor">[omission in text]</add>
+
+H="[SIC] - editor"
+<add resp="editor"> [<hi rend="italics">sic</hi>]</add>
+
+H="bold"
+<hi rend="bold">^&</hi>
+
+H="italics"
+<hi rend="italics">^&</hi>
+
+H="underline"
+<hi rend="underline">^&</hi>
+
+H="beleive=believe"
+<sic corr="believe">beleive</sic>
+
+H="Capt.=Captain"
+<abbr expan="Captain">Capt.</abbr>
+
+H="Colo=Colonel"
+<abbr expan="Colonel">Colo</abbr>
+
+H="Exche:=exchange"
+<abbr expan="exchange">Exche:</abbr>
+
+H="Govr."
+<abbr expan="Governor">Govr.</abbr>
+
+H="TOBO"
+<abbr expan="tobacco">tobo</abbr>
+
+H="hhds."
+<abbr expan="hogsheads">hhds.</abbr>
+
+H="hds"
+<abbr expan="hogsheads">hds</abbr>
+
+
+H="Stemm'd=Stemmed"
+<sic corr="Stemmed">Stemm'd</sic>
+
+H="LONDON MERCHANT"
+London merchant 
+
+H="of = off"
+<sic corr="off">of</sic>
+
+H="pd=paid"
+<abbr expan="paid">pd</abbr>
+
+H="SHIP"
+<name type="ship">^&</name>
+
+H="then=than"
+<sic corr="than">then</sic>
+
+H="tho=though"
+<sic corr="though">tho</sic>
+
+H="twas=it was"
+<sic corr="it was">twas</sic>
+
+H="wht."
+<abbr expan="what">wht.</abbr>
+
+H="citation"
+<cit>^&</cit>
+
+H="CITY"
+<name type="city">^&</name>
+
+H="closer"
+<closer>^&</closer>
+
+H="gap"
+<gap>^&</gap>
+
+H="hand"
+<add resp="hand">^&</add>
+
+H="INDEX update"
+Letter from Robert Carter to ADD TEXT HERE, 172 . . .
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://etext.lib.virginia.edu/etcbin/browse-carter?id=ADD FILE NAME.xml&images=images/modeng&data=/web/data/users/berkeley&tag=public">Original spelling</a> 
+ | 
+<a href="http://etext.lib.virginia.edu/etcbin/browse-cartermod?id=ADD FILE NAME.xml&images=images/modeng&data=/web/data/users/berkeley&tag=public">Modern spelling</a> 
+<br><br>
+
+
+H="name"
+<name type="person">^&</name>
+
+H="place"
+<name type="place">^&</name>
+
+H="[PS]"
+<seg type="postscript">^&</seg>
+
+H="quotation"
+<q>^&</q>
+
+H="VCRP"
+found in the microfilms of the Virginia Colonial Records Project, 
+
+H="Huntington"
+Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. Printed: <cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> pp. .</bibl></cit>
+
+
+H="LoV"
+Christ Church Parish, Lancaster County, Processioners' Returns, 1711-1783, and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond, 1.
+
+H="WMQ"
+<title>William and Mary Quarterly</title>
+
+H="Small Library"
+Albert and Shirley Small Special Collections Library, University of Virginia.
+
+H="VMHB"
+<title>Virginia Magazine of History and Biography</title>
+
+H="JaMonroe"
+There is a nineteenth-century copy of this letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia.
+
+H="basic bibliographic reference"
+<bibl>^&</bibl>
+
+H="hypertext bibliographic reference"
+<bibl n="^?[Enter unique reference]">^&</bibl>
+
+H="add"
+<add>^&</add>
+
+H="author"
+<author>^&</author>
+
+H=";List Elements"
+
+
+H="list"
+<list>^&
+^$RemoveTokens(^$StrFill("  <item>???</item>^P";^?[How many
+items?=1|2|_3|4|5|6|7|8|9])$)$</list>
+
+H="Comment"
+<!-- ^?[Comment=^&] -->
+
+H="Emphasis"
+<emph>^&</emph>
+
+H="<LI>"
+<li>^&</li>
+
+H=";Character Formatting"
+
+
+H="Smallcaps"
+<hi rend="smallcaps">^&</hi>
+
+H="Subscript"
+<hi rend="sub">^&</hi>
+
+H="Superscript"
+<hi rend="sup">^&</hi>
+
+H=";Table Elements"
+Table elements with tags to define rows and cells
+
+H="table"
+<table>^&</table>
+
+H="caption"
+<head>^&</head>
+
+H="row"
+<row>^&</row>
+
+H="cell"
+<cell>^&</cell>
+
+H="cell empty"
+<cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell>
+
+H=";Other Elements"
+
+
+H="Special character"
+&^?[Special character=© Copyright^=copy|® Registered TradeMark^=reg|TM
+TradeMark^=trade|Non breaking
+space^=nbsp|"^=quot|&^=amp|<^=lt|>^=gt|Á^=Aacute|á^=aacute|À^=Agrave|à^=agrave|Â^=Acirc|
+â^=acirc|Ä^=Auml|ä^=auml|Ã^=Atilde|ã^=atilde|Å^=Aring|å^=aring|Æ^=Aelig|æ^=aelig|Ç^=Ccedil|
+ç^=ccedil|Ð^=Eth|ð^=eth|É^=Eacute|é^=eacute|È^=Egrave|è^=egrave|Ê^=Ecirc|ê^=ecirc|Ë^=Euml
+|ë^=euml|Í^=Iacute|í^=iacute|Ì^=Igrave|ì^=igrave|Î^=Icirc|î^=icirc|Ï^=Iuml|ï^=iuml|Ñ^=Ntilde|
+ñ^=ntilde|Ó^=Oacute|ó^=oacute|Ò^=Ograve|ò^=ograve|Ô^=Ocirc|ô^=ocirc|Ö^=Ouml|ö^=ouml|Õ^=
+Otilde|õ^=otilde|Ø^=Oslash|ø^=oslash|ß^=szlig|Þ^=Thorn|þ^=thorn|Ú^=Uacute|ú^=uacute|Ù^=Ugrav
+e|ù^=ugrave|Û^=Ucirc|û^=ucirc|Ü^=Uuml|ü^=uuml|Ý^=Yacute|ý^=yacute|^=yuml];
+
+H="Handwriting change"
+      <resp>Change of handwriting:</resp>
+     <name id="hand">unidentified clerk</name>
+
+H="Non breaking space"
+&nbsp;
+
+H="Hand"
+<add resp="hand">^&</add>
+
+H="flush right"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+H="centered"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+H="para indent"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+H="copyright"
+&#copy;
+
+H="Quotation marks"
+&ldquo;#&rdquo;
+
+= V5 MultiLine NoSorting TabWidth=30
+
+
+H=";"
+
+
+H=";Launching Programs"
+
+
+H="Show text statistics"
+;Press key combination Alt+T, followed by the letter S, followed by a delay of 400 milliseconds to give the dialog box time to open, followed by the letter M
+^!Keyboard ALT+T S &400 M
+
+H="Insert file"
+;Sample Clip demonstrating a prompt for inserting a file in the current document
+^!InsertFile ^?{(T=O;F="Text Files|*.txt;*.ini;*.*htm*")Enter file name to insert=^$GetWinPath$}

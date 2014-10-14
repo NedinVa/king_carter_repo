@@ -1,0 +1,28 @@
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-16">
+<script><!--
+				function viewScriptExample() {
+					// The special characters will not be escaped because they are inside the script tag
+					if (1 < 2 && 2 > 1) {
+						alert(pScriptExample.innerHTML);
+					}
+				}
+				--></script>
+</head>
+<body>
+<p id="pBR">Hello<br>world</p>
+<p><button id="btnViewBR" onclick="alert(pBR.innerHTML)">View BR</button></p>
+<p id="pScriptExample">test if (1 &lt; 2 &amp;&amp; 2 &gt; 1)</p>
+<p>
+<button id="btnScriptExample" onclick="viewScriptExample()">Script Example</button>
+</p>
+<p>
+<select id="pOptionExample">
+<option>one</option>
+<option selected>two</option>
+<option>three</option>
+</select><button id="btnOptionExample" onclick="alert(pOptionExample.innerHTML)">Option Example</button>
+</p>
+</body>
+</html>

@@ -1,0 +1,232 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C17j03b">
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Micajah and
+Richard Perry, 1717 October 3</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr., and the University of Virginia
+Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 6 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">Modeng enter file ID</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL:
+http://etext.lib.virginia.edu/modeng.browse.html</p>
+         </availability>
+     <date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Micajah and Richard Perry,
+1717 October 3</title>
+
+     <author>Robert Carter</author></titleStmt>
+
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date>1717-10-03</date>
+   <idno type="callNo"> Source copy consulted: Minor-Blackford
+Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia.
+</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic
+Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text
+Center scheme to aid in establishing
+analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH">
+     <bibl>
+     <title>Library of Congress Subject Headings</title>
+     </bibl>
+     </taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation>
+     <date>1717-10-03</date>
+     </creation>
+     <langUsage>
+     <language id="eng"></language>
+     </langUsage>
+     <textClass>
+     <keywords>
+     <term>non-fiction</term>
+   <term>prose</term>
+     </keywords>
+     <keywords scheme="LCSH">
+     <term type="Field650">LCSH</term>
+     </keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C17j03bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 pp.</extent>
+<date value="1717-10-03">October 3, 1717</date>
+<idno rend="suppress">C17j03b</idno>
+<title>Letter from Robert Carter to Micajah and Richard Perry, 1717
+October 3</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchants Micajah and Richard
+Perry, October 3, 1717, of his joy in learning that his son John was
+recovering from the small pox, and that he hopes John will be well
+enough to write soon. He continues that he was pleased to learn that
+the Carter had reached port safely, and hopes that the political
+situation there will bring a "peaceable &amp; lasting tranquility."
+He concludes that several persons have reported the repeal of the
+tobacco law, and he is shipping his tobacco prepared "the old
+way."</p>
+</div1>                 
+</front>
+
+
+<body>
+
+<div1 type="letter" n="1717-10-03">
+
+<head>Letter from Robert Carter to <note n="MP">Micajah</note> and
+<note
+target="n1">Richard Perry,</note> <lb/>October 3, 1717</head>
+
+<opener>
+<dateline>
+<pb n="1"/>
+
+<name type="place"><add resp="editor">[Rappahannock, Lancaster
+County, Virginia]</add></name><lb/>
+Extract of a letter to Micajah &amp; Richard Perry.<lb/>
+
+<date value="1717-10-03">October 3rd. 1717<lb/>
+
+</date>
+</dateline>
+                                             
+
+</opener>
+
+X     X     X    X    X <lb/>
+ X    X     X    X    X<lb/>
+<p>I have your letters by <note target="n2">Beesley</note>.
+<lb/>'Tis shocking news, <note target="n3">my son's</note>
+<lb/>being <sic corr="seized ">siezed</sic> with the Small
+<lb/>Pox&mdash; a fatal distemper
+to his <lb/>countrymen. You give me
+great <lb/>hopes he is in a fair way to <lb/>do well. Pray God grant
+it. <lb/>Then <abbr expan="it will ">'twill </abbr> rejoice me that he
+<lb/><sic corr="has ">hath </sic> had it.  Pray give my
+<lb/>blessing to him. I hope <sic corr="before ">ere</sic>
+long <lb/>to have it from himself how
+<lb/>he <sic corr="has ">hath </sic> been treated in this <lb/>cruel
+discouragement to an
+<lb/>English education.</p> 
+
+<p>The Carter's <sic corr="safety ">safty</sic> is a piece <lb/>of
+welcome news. The quarrels
+<lb/>among the King's friends raises
+<lb/>the Torys crests in these parts. <lb/>Pray God send all end in
+a peace=
+
+<pb n="2"/><lb/><lb/>
+able &amp; lasting tranquility.</p>
+
+<p>Several write peremptorily of <lb/>the repeal of the Tobo Law
+<lb/>and the other <sic corr="tenaciously ">tenaccously</sic> a
+dar=<lb/>ling here. At a venture I shall <lb/>give orders for
+shipping <lb/>my Tobo the old way. I shall
+<lb/>conclude at present with <lb/>wishes for the continuance
+<lb/>of your health; and remain</p>
+
+<closer>Sir<add resp="editor">[s]</add></closer>
+
+</div1>
+</body>
+
+<back>
+<div1 type="notes">
+<head>NOTES</head>
+
+<note><hi rend="italics">Source copy consulted: </hi>  Minor-
+Blackford Papers, James Monroe Law Office and Museum, Fredericksburg,
+Virginia. These texts are all nineteenth-century copies. Apparently
+there was in existence a letter book of Robert Carter's&mdash;now
+lost&mdash;from which the unknown copiest recorded these texts. As
+they are the only texts, the punctuation and "corrections"
+obviously supplied by the copiest have been retained. The copist
+used rows of the letter "x" to indicate material that he did not copy
+from the letter book, and he headed this letter, "Extract of a letter
+to Micajah &amp; Richard Perry."</note>
+
+<note>Robert Carter generally used a return address of
+"Rappahannock" for the river on which he lived rather than
+"Corotoman," the name of his home, on his correspondence, especially
+to merchants abroad. The return address, county, and colony have been
+added for clarity to this unheaded letter.</note><lb/>
+
+<note id="n1">[1] Richard Perry was a partner with his brother,
+Micajah, in the great London mercantile
+firm of Perry and Lane.</note>
+
+<note id="n2">[2] An unidentified ship's captain.</note>
+
+<note id="n3">[3] Carter's son John was studying law in
+England.</note>
+
+<lb/><lb/><note><hi rend="italics">This text revised September 30,
+2008.</hi></note>
+
+</div1>
+</back>
+</text>
+
+
+</TEI.2>

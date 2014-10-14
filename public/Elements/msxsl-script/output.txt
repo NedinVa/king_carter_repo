@@ -1,0 +1,19 @@
+<html xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:user="urn:user-namespace-here">
+<body>
+<table border="1">
+<tr><td><b>Title</b></td><td><b>Days from publication</b></td></tr>
+<tr>
+<td>XML Developer's Guide</td>
+<td>12</td>
+</tr>
+<tr>
+<td>Maeve Ascendant</td>
+<td>59</td>
+</tr>
+<tr>
+<td>Midnight Rain</td>
+<td>88</td>
+</tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,211 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C32b28b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to William Dawkins, February  28, 1732</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 11 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C32b28b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2006</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to William Dawkins, February  28, 1732</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1732-02-28</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C32b28bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1732-02-28"></date>
+<idno rend="suppress">C32b28b.xml</idno>
+<title>Letter from Robert Carter to William Dawkins, February  28, 1732</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant William Dawkins, February  28, 1732, to report that he has received letters from Dawkins and reports of sales, but none for tobacco shipped in 1730. He comments on the complications of his affairs with the estate of London merchant John Falconar which Dawkins is handling for him, and briefly on the new tobacco inspection law. He also reports a bill of exchange. </p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to William Dawkins, February  28, 1732</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1732-02-28">Feb: 28. 1731/2</date><lb/>
+Mr: William Dawkins<lb/>
+</dateline>
+<salute>Sir</salute>
+
+</opener>
+
+
+
+<p>I take this first Opportunity via <sic corr="Liverpool">Leverpool</sic> to ad=<lb/>
+=vise you of the receipt of your sundry letters by the <note target="n1"><name type="ship"><sic corr="Rebecca">Rebeccah</sic></name></note> <abbr expan="Captain">Capt.</abbr> Malbon<lb/>
+with which come your sales of <del>[illegible]</del> <add place="supralinear">several</add> tobaccos and I hear <del>also</del> from my neighbours<lb/>
+that you have sent their sales also but I do not yet meet with any sale<lb/>
+from you of my own tobacco which went away in the year 1730 if you have<lb/>
+sent me any they are not come to hand perhaps the next Ships may bring<lb/>
+them</p>
+
+<p>As for <note target="n2">Mr: Falconars</note> affair it has given you<lb/>
+a great deal of trouble which I must acknowledge <add place="supralinear">your favour in</add>. You have full powers<lb/>
+from me to prosecute that matter either in a Legal or peacable way the<lb/>
+Stopping my money for the payment of <note n="MP1"><abbr expan="Colonel">Colo</abbr> Pages</note> debt is a most unjust proce <lb/>
+=eding <note target="n3">Serjeant Ryders</note> Opinion <sic corr="justifies">justifyes</sic> me in this charge and I <del>dare</del><lb/>
+<del>[illegible]</del> dare say all the Lawyers in England will agree with him in his<lb/>
+opinion.  I have a letter from the Executors themselves vindicating 
+
+<pb n="2"/><lb/><lb/>
+their usuage to me under the Specious pretence of doing equal justice by all<lb/>
+the Creditors and with those fine words of doing as they would be done by<lb/>
+bidding me defiance to the Law I shall take a little time Longer to consult<lb/>
+about this matter</p>
+
+<p>In a former letter I gave you liberty upon their payment<lb/>
+of all the <sic corr="balances">ballances</sic> that they owned Mr. Falconars Estate stood indebted to me<lb/>
+to give up my claim to the money was <sic corr="stopped">stopt</sic> from me upon the Account of<lb/>
+<note target="n4">Levets</note> failure but as they have not complyed with these payments I hope<lb/>
+I am not bound to stand by that Concession but that if I must go to Law<lb/>
+I may bring that matter over the Coals Also; being well advised I ought<lb/>
+not to bear that Loss. You tell me that they pay only 10<abbr expan=" Shillings">S</abbr>
+ in the pound<lb/>
+to every Creditor and that they have it in their power to pay off every Creditor<lb/>
+in what order they pleas but I cannot be of your Opinion had you prose <lb/>
+cuted them to the Law upon receipt of my Power You might have reco <lb/>
+vered a judgement and then I should have had the preference to all debts of<lb/>
+an inferiour dignity</p>
+
+<p>Young Falconar is very wrong in his charge against<lb/>
+me I treated him at my house with more civility than he deserved and as<lb/>
+to my <note target="n5">calumniating</note> him to the Governour I thank God I have no talent<lb/>
+for such foul stuff his great quarrel against me was my declining<lb/>
+the continuance of any business to him I had had experience enough,<lb/>
+of the treatment I had met with from his father and his Executors<lb/>
+to scare me from  having any more to do with persons of his <sic corr="persuasion">perswasion</sic></p>
+
+<p>We are now beginning to Ship tobacco under our <note target="n6">new Law</note><lb/>
+we meet with a world of difficulty and a great deal of Delay but we must<lb/>
+Struggle with them in the best manner we Can you will have a larger Accot of<lb/>
+this matter from your own Masters I shall conclude at present with wishes<lb/>
+for your health and <sic corr="happiness">happyness</sic> being 
+</p>
+
+<closer>Sir<lb/>
+Your most humble Servant
+<seg type="postscript"><lb/><lb/>Herein send you a small<lb/>
+bill of Exchange drawn by Mr. Joseph Ball on <abbr expan="your">yr.</abbr> self &amp; Company for &pound;2"0"0<lb/>
+which desire may be <abbr expan="Carried">Carry'd</abbr> to my Credit
+</seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1] The <hi rend="italics">Rebecca </hi> was probably a London ship; she was of 300 tons, had a crew of 11, and was commanded by Samuel Malbon in 1731-32. (<cit><bibl>Adm. 65/195, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n2">[2] John Falconar (d. <hi rend="italics">ca.</hi> 1729) was a London merchant with whom Carter dealt. In 1728, Falconar and Henry Darnell formed an association of 29 London tobacco merchants to deal with the French tobacco purchasing agent as a group in order to keep the price as high as possible. The association lasted only lasted a year or two before dissolving because some of its members were dealing directly with the French agent and selling below the agreed-upon price. Falconar's son John was in Virginia in the spring of 1730. (See Carter to William Dawkins, and Carter to Falconar's executors, both 1730 April 16, for Falconar's death date. <cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> Newport News, VA: Mariners' Museum, 1953. p. 129</bibl></cit>)</note>
+
+<note id="n3">[3] A sergeant-at-law is a ancient British legal term for a barrister, one who pleads cases in court, and writes opinions about cases for clients. In this instance, the Ryder may have been Dudley Ryder who was called to the bar in 1719, and who made a Solicitor General in 1733. ("Dudley_Ryder_(judge)" in Wikipedia, en.wikipedia.org/wiki/Dudley_Ryder_(judge), 6/1/06.)</note>
+
+<note id="n4">[4] There are references to the failure of a merchant named Levet, sometimes referred to as Alderman Levet, in some of Carter's earlier letters. It seems unlikely that this was Richard Levett, mayor of London in 1699 as he died in 1710.</note>
+
+<note id="n5">[5] Caluminating means to make maliciously or knowingly false statements about another person.</note>
+
+<note id="n6">[6] The tobacco inspection act of  1730 was introduced and steered through the legislature by Lieutenant Governor Sir William Gooch. " The "bill called for the inspection and bonding at public warehouses of all tobacco shipped abroad; for the destruction of all unacceptable tobacco; for standardization of the size of hogsheads . . . ; for maintenance of detailed records to prevent smuggling; and for the circulation of warehouse receipts as legal tender in lieu of tobacco iteself. . . ." Gooch also managed to obtain approval of the act in England. It went into effect 1731 August 1.(<cit><bibl n="B27">Billings. <hi rend="italics">et al. </hi> <title>Colonial Virginia: A History. </title></bibl></cit> pp. 236-39.)</note>
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

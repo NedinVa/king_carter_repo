@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+
+<!NOTATION xml SYSTEM "xml">   
+<!ENTITY C20g13d SYSTEM "C20g13d.xml" NDATA xml>  
+
+
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C21c03b">
+
+
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Robert Carter  to John Carter, March 3, 1721</title>
+<title type="gmd">[electronic resource]</title>
+<author>Carter, Robert</author>
+<respStmt>
+<resp>Creation of machine-readable version: </resp>
+<name id="editor">Edmund Berkeley, Jr.</name>
+<resp>Conversion to TEI.2-conformant markup</resp>
+<name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+</respStmt>
+</titleStmt>
+
+<extent>ca. 8 kilobytes </extent>
+
+<publicationStmt>
+<publisher>University of Virginia Library.</publisher>
+<pubPlace>Charlottesville, Va.</pubPlace>
+<idno type="ETC">filename</idno>
+<availability>
+<p>Publicly accessible</p>
+<p n="public">URL: http://carter.lib.virginia.edu/</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title>Letter from Robert Carter  to John Carter, March 3, 1721</title>
+<author>Robert Carter</author>
+</titleStmt>
+<extent>2 p.</extent>
+<publicationStmt>
+<date>1940</date>
+<idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+</projectDesc>
+<editorialDecl>
+<p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+<taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+<creation><date>1721-03-03</date></creation>
+<langUsage><language id="eng"></language></langUsage>
+<textClass>
+<keywords><term>non-fiction</term><term>prose</term></keywords>
+<keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+</textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C21c03bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1721-03-03"></date>
+<idno rend="suppress">C21c03b.xml</idno>
+<title>Letter from Robert Carter  to John Carter, March 3, 1721</title>
+</bibl>
+</head>
+<p>Robert Carter writes to his son, John Carter, March 3, 1721, in England noting that his anger at William Dawkins over Dawkins' impertinence and rudeness has cooled, perhaps from his recent gout attack. He asks John (indirectly) to see Dawkins, and if Dawkins has also cooled off, then John is not to relieve Dawkins of the care of John's younger brothers (also in England at school). Carter praises Dawkins as a good businessman in the trade which only has a few good merchants, and continues that he needs to deal with Dawkins because his affairs are too large to entrust to the Perrys alone. He concludes that he does expect respect from those to whom he gives his business.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter  to John Carter, March 3, 1721</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappa <add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1721-03-03">Mar 3d. 1720/21</date><lb/>
+</dateline>
+<salute>Dear Son John&mdash;</salute>
+
+</opener>
+
+<p>What I <sic corr="wrote ">writ</sic> to You <abbr expan="the other ">tother</abbr>
+day about my Children <lb/>was the result of my first <abbr expan="thoughts ">thots.,</abbr> a <sic corr="fit ">fitt</sic> of the Gout which now I'm <lb/>under brings me to a Cooler Temper (perhaps the <note n="WD">little man</note> and <lb/>Such are very commonly of a Waspish disposition) may upon a <lb/>review of his Lettr. condemn himself for the <sic corr="style ">Stile</sic> of It, when <lb/>You come to show him my other Lettr. he will no doubt <lb/>produce my answer and if he <sic corr="shows ">shews</sic> any <sic corr="uneasiness ">uneasyness</sic> <abbr expan="about ">abt.</abbr> my <lb/><abbr expan="orders ">ordrs: </abbr><del>upon</del> and Confessions of his folly, I am not for having You <lb/>put them in Execution, <note n="AB2">Mr. <sic corr="Bailey ">Baily</sic></note> whom he Supposes I 
+
+<pb n="2"/><lb/><lb/>
+had cast <del>the</del> reflec<add resp="editor">[tion]</add>s upon (wch. was very <sic corr="far ">farr</sic> from my <abbr expan="thoughts ">thots.</abbr> nor <lb/>Indeed do my words carry any Such Sence,) was his true friend <lb/>and to whom he <sic corr="owes ">ows</sic> his all, therefore some allowance is to <lb/>be given to the Zeal he justly <sic corr="owes ">ows</sic> to his memory, but if his <lb/>pride be so overgrown that he treats You with no better <lb/>manners than he has done me pursue my first <abbr expan="orders ">ordrs: </abbr> &amp; then deliver <lb/><note n="TE">Mr. Evans's </note>Lettr., after all I can tax Mr. Dawkins with no unkind<lb/>=ness to my Children, <note target="n1"><add place="supralinear">everyone</add></note>he is a good Merchant &amp; <sic corr="has ">hath </sic>done my business <lb/>as much to my <sic corr="satisfaction ">Sattisfaction</sic> as any man, and the Trade is so <lb/>Indifferently <sic corr="furnished ">furnisht</sic> with valuable men if I leave him <lb/>I dont know where to find such another &amp; my Concern is too large <lb/>to put It all into one man's hands, besides <note n="MP">Mr. Perry</note> the Elder <lb/>is so very aged he must have a time to go off which humanely <lb/>Speaking can not be <sic corr="far ">farr</sic> off and Im <sic corr="afraid ">affraid</sic> the <note n="MP2">Grandson</note> <sic corr="has ">hath </sic> not <lb/>a head calculated to go through such a multitude of business with <lb/>that Dexterity that they have hitherto done. these are weighty <lb/>Considerations however I will meet with respect from those that <lb/>Do my business &amp; <sic corr="get ">gett</sic> my money <sic corr="let ">lett</sic> the Consequence be what <lb/>It will pray God Direct You in all things I am</p>
+
+<closer><seg type="postscript">I admire You did not write to me by <lb/><note target="n2">John Fitshugh</note> who I believe made <lb/>himself familiarly acquainted wth You</seg></closer>
+
+
+</div1>
+
+</body>
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi>  Robert Carter Letter Book, 1720 July-1721 July, BR 227, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. Printed: <cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> pp. 84-85.</bibl></cit></note><lb/>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to persons abroad. The county and colony have been added for clarity.</note><lb/><lb/>
+
+<note>The controversy between Carter and William Dawkins spread over some months in 1720-1721. Carter had written before to Dawkins in terms similar to those used in this letter; see his letter to Dawkins of <xref to="C20g13d">13 July 1720.</xref> Dawkins had begun his career as an apprentice in the Bailey mercantile firm as Carter notes in this letter. After the death of Arthur Bailey, Jr., he succeeded to the firm into which he brought <note n="EA">Edward Athawes</note> with whom Carter would also correspond, as would his sons after his death.</note><lb/><lb/>
+
+<note id="n1">[1] The word "everyone" written between the lines is probably in Carter's hand, but makes little sense in context.</note><lb/><lb/>
+
+<note id="n2">[2] John Fitzhugh (d. 1733) of Stafford County, a younger son of William Fitzhugh of "Bedford." He was a burgess from Stafford in 1727. (<cit><bibl>"The Fitzhugh Family." <title>Virginia Magazine of History and Biography.</title> 7[1899-1900]: 317-19.)</bibl></cit></note><lb/><lb/>
+
+<lb/><lb/><note><hi rend="italics">This text revised March 27, 2009.</hi></note>
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

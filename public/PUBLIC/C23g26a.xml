@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C23g26a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Micajah Perry, July 26, 1723</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca.7  kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C23g26a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2002</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to ]</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1723 July 4 -1724 June 11, Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1723-07-26</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C23g26aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1723-07-26"></date>
+<idno rend="suppress">C23g26a.xml</idno>
+<title>Letter from Robert Carter to Micajah Perry, July 26, 1723</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant Micajah Perry, July 26, 1723, to report his efforts in assembling accounts of the estate of John Lloyd (his late niece's husband who had moved to England) which had been under his management.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="MP2">Micajah Perry,</note> July 26, 1723</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1723-07-26">July 26. 1723.</date><lb/>
+Mr. Micajh. Perry<lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+<p>According to my former promise I have made <lb/>Some Endeavours after the Yearly accots. of the <note n="LL">LL</note> Concern &amp; now <lb/>I Send You them deduced down through <note n="RM">Mr Meekes </note>time, Except <lb/>the last Year, which I cannot do <add place="supralinear">yet</add> for want of the <sic corr="sheriff's ">Sherrifs</sic> accots. <lb/>of their Levys, <note n="GT">Mr. <sic corr="Turberville ">Turbervile </sic></note><sic corr="has ">hath </sic> promised me to come down <lb/>&amp; be assisting. In drawing out &amp; Making up the Accots. for his time <lb/>but he <sic corr="has ">hath </sic> not found the <sic corr="leisure ">leizure</sic> to do it Yet, In a short time <lb/>I Expect him, and then I will Endeavour to send You his <lb/>Accots. also, As for the Accots. in <note target="n1"><abbr expan="Colonel ">Collo.</abbr>  Tayloe's</note> time, I believe <lb/>I shall not be able to recover, these things You may be<lb/>=lieve <sic corr="has ">hath </sic> cost me a great deal of <sic corr="puzzle ">puzzel</sic> &amp; Trouble &amp; a<add resp="editor">[ll]</add> <lb/>to give You <sic corr="satisfaction. ">Sattisfaction.</sic> And after all will not ad<add resp="editor">[d]</add> 
+
+<pb n="2"/><lb/><lb/>
+One <add resp="editor">[or] </add> two pence to any person that is <sic corr="concerned ">concernd</sic> I am <lb/>
+
+</p>
+<closer>Sir <lb/>Yor. most humble. <abbr expan="Servant">Serv</abbr><lb/><lb/>
+
+
+<seg type="postscript">I Shall observe to You here that <lb/>this <sic corr="has ">hath </sic> bin so <sic corr="plentiful ">plentyfull </sic>a Year <lb/>both of Corn &amp; hogs flesh that we <lb/>have not bin able to sell any at all <lb/>So that I have bin <sic corr="forced ">forcd</sic> to pay all the <lb/>Contingent charges this Year, &amp; shall <lb/>Send the Accot. thereof as Soon as I can finish <lb/>it, to be <sic corr="carried ">carryed</sic> to my <abbr expan="credit ">Credt.</abbr>
+
+</seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1723 July 4 -1724 June 11, Carter Family Papers, Virginia Historical Society, Richmond. There is a 19th-century copy of the letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia.
+</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. His usual return address, the county, and colony have been added for clarity to the brief heading on the draft.</note><lb/>
+
+<note id="n1">[1] John Tayloe (1687-1747) of Mt. Airy, Richmond County, who served as justice, burgess, colonel of militia, and as a member of the Council after 1732. (<cit><bibl n="B31">Ryland. <title>Richmond County Virginia. . . . </title> pp. 115-16.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text revised November 2, 2009.</hi></note>
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

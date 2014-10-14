@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C27f02a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to James Bradley, June 2, 1727</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 9 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C27f02a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2003, 2012</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to James Bradley, June 2, 1727</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1727-06-02</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C27f02aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1727-06-02"></date>
+<idno rend="suppress">C27f02a.xml</idno>
+<title>Letter from Robert Carter to James Bradley, June 2, 1727</title>
+</bibl>
+</head>
+<p>Robert Carter writes a friendly letter to London merchant James Bradley, June 2, 1727, commenting on the business failure of Thomas Evans and his debt from him, preparations in the colony for war with Germany and Spain, the ships that will sail about the tenth in convoy and those that have already sailed, and that Bradley's ship, the <hi rend="italics">Welcome,</hi> did not arrive until late April and cannot make an early return.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note target="n1">James Bradley,</note> June 2, 1727</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;
+<date value="1727-06-02">June 2d: 1727</date><lb/>
+Mr. James Bradley<lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+<p>You have bin so kind in your frequent <lb/>Letters and <sic corr="public">publick</sic> news that I cannot forbear to give <lb/>you the trouble of this Short line in answer to <sic corr="yours">yors:</sic> of the 16 <abbr expan="March">Mar</abbr> <lb/><note n="TE">Mr. Evans</note> Stood indebted to me upon a Just ballance 
+
+
+<pb n="2"/><lb/><lb/>near four hundred pounds which according to <note n="RC">Mr. Carys</note> <lb/>advice of his Circumstances very little of is to be <sic corr="gotten">got</sic> he <sic corr="has ">hath </sic> <lb/>bin my <sic corr="friendly">freindly</sic> <sic corr="Correspondent">Correspondant</sic> for many years and I <lb/>always took him to be an honest man his hard fate <lb/>I heartily lament as well as my own,</p>
+
+<p>By all <sic corr="advices">advaces</sic> it appears we are near an <lb/>Open rupture with Germany and Spain God only knows <lb/>where this <sic corr="war">warr </sic>may End <sic corr="We">Wee</sic> have done all we Could <lb/>Saving a Strict Embargo that our Ships might go away <lb/>in fleets with our Station <sic corr="Man">Mann</sic> of Warr to See them a <lb/>Considerable distance <sic corr="off">of</sic> the Land but it <sic corr="has ">hath </sic> bin of no <lb/>great Effect Ships <sic corr="have ">hath </sic> run away daily notwithstanding <lb/>there will be a pretty good Fleet ready to <sic corr="Join">Joyn</sic> the Man <lb/>of <sic corr="War">Warr</sic> about the 10th: of this month its Said most of <note n="MP1">Mr. <lb/>Perrys</note> Ships will get then ready so that you will be <lb/>pretty full of <abbr expan="tobacco">Tobbo:</abbr>  for your forward market and there <lb/>are a great many already <sic corr="gone">gon</sic> some of which are by this <lb/>time near with you,</p>
+
+<p>I admire you Should Expect <note target="n2"><abbr expan="Captain">Capt:</abbr></note> Trice to <lb/>be a forward Ship when he Arrived but late in <sic corr="April">Aprill</sic> <lb/>it will be well if he gets his Load at last, how his Cir=<lb/>cumstances are at this Time I do not know By <abbr expan="Captain">Capt:</abbr> <lb/><del>Hopkins</del> <note target="n3">Woodward</note> <add place="supralinear">I sent you Twelve hhd<add resp="editor">[s]</add> of <abbr expan="tobacco">Tobbo:</abbr></add> who <sic corr="Sailed">Saled</sic> above a fortnight Since <lb/>and I hear run it then I <sic corr="wrote">w<add resp="editor">[r]</add>it</sic> to you at large to which <lb/>please to be <abbr expan="referred">referr'd</abbr> I am </p>
+
+<closer>Sir, <lb/>Yor. very humble Servt:
+<seg type="postscript"><lb/><lb/>per <note target="n4"><sic corr="Keiling">Keeling</sic></note>&mdash;
+&mdash;</seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. </note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
+
+<note id="n1">[1] James Bradley was a London merchant with whom Carter dealt from at least 1723 until his death. As noted in his letter to Bradley of <xref to="/users/berkeley/public/C27e17a.html">May 17, 1727,</xref> Bradley owned the <hi rend="italics">Welcome,</hi> but little information about Bradley has been located. (There is a listing of the firm of Bradly &amp; Griffin, Merchants, Fenchurch-street, opposite the Mitre Tavern, on page 13 of <cit><bibl><title><xref to="freepages.history.rootsweb.com/~frpayments/KD1740/AB.htm">Kent's Directory </xref>For the Year 1740 Containing An Alphabetical List of the Names and Places of Abode of the Directors of Companies, Persons in Publick Business, Merchants, and other Eminent Traders in the Cities of London and Westminster, and the Borough of Southwark.</title>  [London: Printed and Sold by Henry Kent in Finch-Lane, near the Royal Exchange: and by the Booksellers and Pamphlets Shops of London and Westminster, 1740]. p. 39. Online, examined 8/12/2005 and 6/14/2012. </bibl></cit>)</note>
+
+<note id="n2">[2] The 140 ton <hi rend="italics">Welcome</hi> was owned by London merchant James Bradley to whom Carter would write about her on 1727 May 17. John Trice (Frice) was her captain, 1723-1727. (<cit><bibl>Adm 68/195, 154r, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n3">[3] Thomas Woodward commanded the <hi rend="italics">Providence,</hi> a ship owned by Captain John Hyde &amp; Company, during a number of voyages to the colony, 1723-1727. (<cit><bibl>Adm. 68/194 and 195, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia,</bibl></cit> and Carter's letter to the firm, 1723 September 17.)</note>
+
+<note id="n4">[4] Captain William Keiling commanded the <hi rend="italics">Betty. </hi> (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194, Virginia Colonial Records Project, Albert and Shirley  Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2003, was revised August 3, 2012,  to add footnotes and strengthen the modern language version text.</hi></note>
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

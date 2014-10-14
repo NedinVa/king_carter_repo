@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; 
+
+<!NOTATION php SYSTEM "php">
+<!ENTITY Ext4 SYSTEM "http://www.stratfordhall.org/learn/lees/thomaslee.php" NDATA php>
+
+]>
+<TEI.2 id="C23g03c">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Thomas Hooper, July 3, 1723</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 11 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">filename</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2002</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Thomas Hooper, July 3, 1723</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Fairfax Papers, Box 1, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1723-07-03</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C23g03cT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1723-07-03"></date>
+<idno rend="suppress">C23g03c.xml</idno>
+<title>Letter from Robert Carter to Thomas Hooper, July 3, 1723</title>
+</bibl>
+</head>
+<p>Robert Carter writes July 3, 1723, to Thomas Hooper,  a resident of Stafford County and manager of Carter's affairs in that area, chastising him for disputing an Assembly election in that county that has damaged Hooper's reputation. He then chides Hooper for failing to carry out surveys of lands in Stafford on Carter's behalf, especially of a tract between Carter and Mann Page. Carter's  sloop is coming to Hooper's areas to pick up tobacco, and Carter hopes that James Carter has finished collections of quit rents so that they can be sent. George Mason and Carter have settled accounts of quit rents but Henry Fitshugh  has not. He urges Hooper to write at length of their business affairs and send the letter by the sloop. Carter closes with a note that he has not heard of any progress regarding the Brenton grant, and by urging Hooper to assist James Carter in rapidly dispatching the sloop. </p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="TH">Thomas Hooper,</note> July 3, 1723</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
+<date value="1723-07-03">July the 3d 1723</date><lb/>
+May It plea<lb/>Capt. Tho Hooper&mdash;&mdash;<lb/>
+</dateline>
+
+
+</opener>
+
+<p>I was in hope to have seen you at the assembly<lb/> after you had made so mighty a stirr about disputing the <lb/>Stafford Election and engaged so many of my friends in your <lb/>cause and <add resp="editor">[  . . . ] </add> good <add resp="editor">[right ?]</add> to Insist <add resp="editor">[  . . . ] </add> <lb/>pretense to have. <abbr expan="It was ">`Twas </abbr> a great slur upon your <lb/>reputation. The worst of your enemies make their <lb/>boast that when you have a stock of &pound;9000 by <lb/>you no consideration will part you from it&mdash; <lb/>These <sic corr="stories ">storyes</sic> I tell you in friendship and would <lb/>hope they are more <sic corr="than ">then</sic> <add resp="editor">[  . . . ]</add> of you, I had <lb/>many reasons to have desired your company at <lb/>Town and some that ha<add resp="editor">[  . . . ] </add> toward your <lb/>own advantage more then mine, but if your own son  <lb/>will not prevail with you to push ever forward <abbr expan="it is ">`tis </abbr> <lb/>vain for me to Endeavour to save you; I hear <lb/>you have done little or nothing towards surveying <lb/>all this spring. You have not sent me <sic corr="plats ">platts</sic> 
+
+<pb n="2"/><lb/><lb/>
+of the Divisions of the great Tract between <lb/><note n="MP1">Colonel Page</note> and I, in order to making out Grants. <lb/><abbr expan="it is ">`Tis </abbr> reported when You are out in the Woods you<lb/> employ <note target="n1">Captain Russell</note> to run your lines. This is <lb/>the way you make great Confusions in <lb/><add resp="editor">[uneven ?] </add> bounds and to be Cursed in your <lb/>grave when you are Dead. <note target="n2">Coppedge</note> <sic corr="has ">hath </sic> <lb/>been down a good while. I have not seen <lb/>him nor know nothing of what he has done. <lb/>It's a hard case there is not a sober <sic corr="diligent ">dilligent</sic> <lb/>man to be found for my business.</p>
+
+<p>I was kept at <note target="n3">Town</note> longer by a fort<lb/>night than I expected. When I came home I was <lb/><sic corr="forced ">forct</sic> to <sic corr="sheathe ">sheath </sic>my sloop <add resp="editor">[  . . . ]</add> <lb/>before I could use her. She now comes <add resp="editor">[bou]</add>nd <lb/>for your parts for my <abbr expan="tobacco ">Tobbo.</abbr> in Stafford. I hope <lb/><note target="n4">Mr. Carter</note> has finished his <note target="n5">Coll<add resp="editor">[ectio]</add>ns</note> before <lb/>now and that she will meet with no delay.</p>
+
+<p><note target="n6"><abbr expan="Colonel ">Coln.</abbr> Lee </note>draws upon you for the <lb/>rents of the Stafford lands 3,669 acres. his <lb/>note I do not send you believing you will not <lb/>Dispute my having it. If you are in his debt I <lb/>suppose you will <add resp="editor">[  . . . ]</add> to me for it. <note target="n7"><abbr expan="Colonel ">Coln.</abbr> Mason</note> <lb/>and I have fully settled He paid me his Arrears in <lb/>money and gave me his Obligation for <abbr expan="tobacco ">Tobbo.</abbr>  for <lb/>his last year's rent, and told me he had Lodge<add resp="editor">[d]</add> <lb/><abbr expan="tobacco ">Tobbo.</abbr> in Mr. Carter's hands for the payment of it <lb/>Major Dinwidie's money whether <abbr expan="it is ">`tis </abbr> paid to you <lb/>or not you must tell me. <note target="n8"><abbr expan="Captain ">Capt.</abbr> <abbr expan="Henry ">Hen  </abbr>Fitzhugh</note> <lb/><sic corr="has ">hath </sic> not sent his bill of his <abbr expan="exchange ">Exchae.</abbr> to discharge <lb/>his Obligation. I hope you will not fail <lb/>per my sloop to send me a full tale of all matters <lb/>before you.</p>
+
+
+<p>The <note n="BT">Brenton grant</note> they tell me you have done <lb/>nothing towards Whether anything is done upon <lb/>the <note target="n9">Broad run Lands</note> or the <note target="n10">Bull run</note> I don't yet hear.</p><lb/><lb/>
+
+<closer>
+<seg type="postscript">I pray you give all the assistance you possibly <lb/>can to Mr. Carter in the Dispatch of my sloop. <add resp="editor">[It will] </add> be a <lb/>good time for <abbr expan="Captain ">Capt.</abbr> Fitzhugh to send me down his <lb/>bills of <abbr expan="exchange">Exchae.</abbr> by Mr. Carter whom you must direct <lb/>if Fitzhugh does not give his own Bills that to be sure <lb/>he Endorses them</seg>
+
+</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi>  Fairfax Papers, Box 1, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. Printed: <cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> pp. 49-50, 52, 54.</bibl></cit> The date of this letter was misread by Wright who printed it as July 3, 1720; there was no Assembly in 1720. The name of Carter's home, "Corotoman," the county, and colony have been added for clarity to this unheaded draft. It was written on pages of the letter book that were very absorbent, allowing much bleed through of the ink, and making transcription very difficult. In addition, there is a hole affecting some words.</note><lb/>
+
+<note>The words "May It plea" that appear before Hooper's name as addressee apparently were written by the clerk as the beginning of a letter to the governor. Thinking better of writing that letter here, the clerk turned over the page and began again, but forgot to strike "May It plea."</note>
+
+<note>Carter  added to this letter in two places on succeeding pages of the letter book and these additions have been joined to this letter as he intended. The next-to-last paragraph appears on folio 20. Apparently the clerk turned the page to write the sentence below a letter to Governor Spotswood. The ink of this sentence is the same as that of the letter to Captain Hooper that comes to the foot of folio 19.  The final paragraph was written into the letter book between letters of September 27, 1720, to Messrs. Perry and to John Carter, but it clearly is a post script to the letter to Hooper, and has been added to it. Wright printed them where they appeared in the letter book as his edition followed the order of the pages.
+</note>
+
+<note id="n1">[1] William Russell (1680?-1741) was a well-known ranger and
+explorer who eventually settled in Prince William County (later Fauquier). Fairfax Harrison thinks he may have been one of the rangers who accompanied Spotswood's Knights of the Golden Horseshoe.(<cit><bibl n="B4">Harrison,  <title>Landmarks of Old Prince William.</title> p. 204.</bibl></cit>)</note>
+
+<note id="n2"> [2] John Coppedge appears as a justice of the peace in Northumberland County in 1714, but was not listed in 1726 there when the name appears as the surveyor of Lancaster County.   (<cit><bibl>Louis des Cognets, Jr., <title>English Duplicates of Lost Virginia Records.</title> Baltimore: Genealogical Publishing Co., Inc. 1981, 27, 36.</bibl></cit>)</note>
+
+<note id="n3">[3] Williamsburg</note>
+
+<note id="n4">[4] James Carter (1684-1743), of Stafford County, was the younger brother of Carter's dear friend and associate, Captain Thomas Carter of Lancaster County, and was one of Carter's chief managers. (<cit><bibl>Joseph Lyon Miller, "Captain Thomas Carter and His Descendants," <title>William and Mary Quarterly.</title> 1st ser., 17(1908-09): 275-285.</bibl></cit>)</note>
+
+<note id="n5">[5] Quit rent was the term used for the payment due from the holder of land to the "lord of the manor," in this case, to the proprietors of the Northern Neck. Carter as the proprietor's agent, collected these payments. No services were required of the landholder as had been true in mediaeval times.</note> 
+
+<note id="n6">[6] Thomas Lee (1690-1750) of Westmoreland County was the son of Richard Lee II, and nephew of Edmund Jenings; he would build "Stratford," and succeed Carter on the Council. For a good article on Thomas Lee, see  <xref to="Ext4">that on Stratford plantation's website.</xref> (<cit><bibl>Burton J. Hendrick. <title>The Lees of Virginia: Biography of a Family.</title> [Boston: Little Brown, 1935]. pp. 48, 51, etc.</bibl></cit>)</note>
+
+
+<note id="n7">[7] George Mason III (c. 1690-1735), justice, sheriff, burgess, and county lieutenant of Stafford County, father of the constitutional theorist. (<cit><bibl n="B24">Copeland and MacMaster, <title>The Five George Masons.</title> pp. 50-86.</bibl></cit>; and <cit><bibl>George Harrison Sanford King, <title>The Register of Overwharton Parish Stafford County Virginia 1723-1758 And Sundry Historical and Genealogical Notes</title>. [Fredericksburg, VA: privately printed, 1961.]</bibl></cit>)</note>
+
+<note id="n8">[8] Henry Fitzhugh (1706-1742) was educated at Christ Church, Oxford; he served as burgess and sherriff of Stafford County where he lived at "Eagles Nest." In 1730, he married Lucy Carter (1715-1763), Carter's 14th  child; her mother was Betty Landon (Willis) Carter. (<cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title>> p. 451 </bibl></cit>;  <cit><bibl>Robert A. Rutland, <title>The Papers of George Mason, 1725-1792.</title> [Chapel Hill: University of North Carolina Press, 1970]. I:lii</bibl></cit>; and extensive generalogical notes, "Fitzhugh Family," in volumes 7 and 8 of <title>Virginia Magazine of History and Biography.</title>)</note>
+
+<note id="n9">[9] Broad Run extends southwest from Lake Manassas in Prince William County and joins Kettle Run just west of present-day Lake Jackson of the Occoquan River, south of the town of Manassas. (<cit><bibl>ADC. <title>Regional Northern Virginia.</title> [Alexandria, VA: Alexandria Drafting Company, 2002.] pp. 77, 84, 85, 89.</bibl></cit>)</note>
+
+<note id="n10">[10] Bull Run is a major tributary of the Occoquan River, forming the foundary between today's Prince William and Fairfax counties, and then between Prince  William and Loudoun counties.</note> 
+
+<note><hi rend="italics">This text revised August 20, 2009.</hi></note>
+
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

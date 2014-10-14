@@ -1,0 +1,105 @@
+#!/usr/local/bin/perl
+
+use File::Basename;
+
+$script=$ENV{'SCRIPT_NAME'}; # if there's a SCRIPT_NAME, assume we're running in CGI, else batch-cmd
+if ( $script && dirname( $script ) == "/etcbin" ) { 
+	$tei2html = "/web/data/users/berkeley" ; 
+	$indexbase = "/users/berkeley" ;
+	$indexltrs = "/users/berkeley/public/indexltrs.html" ;
+}
+else { 
+	$tei2html = dirname(dirname( $0 )); 
+	$indexbase = ".." ;
+	$indexltrs = "indexltrs.html" ;
+}
+
+
+if ( basename( $0 ) =~ "^browse-cartermod" )  { $tei2html =  $tei2html . "/cartermod.pl"; }
+elsif ( basename( $0 ) =~ "^browse-carter" )  { $tei2html = $tei2html . "/carter.pl"; }
+else { die "must be called as browse-cartermod* or browse-carter*" ; } 
+
+$QS=$ENV{'QUERY_STRING'};
+@QS = split(/&/,$QS);
+
+foreach $i (0 .. $#QS) {
+	$QS[$i] =~ s/\+/ /g;
+	($key,$val) = split(/=/,$QS[$i],2); 
+	
+	$key =~ s/%(..)/pack("c",hex($1))/ge;
+	$val =~ s/%(..)/pack("c",hex($1))/ge;
+
+	$QS{$key} .= "\0" if (defined($QS{$key}));
+	$QS{$key} .= $val;
+}
+$imagedir=$QS{'images'};
+$datadir=$QS{'data'};
+
+$file="$datadir/$QS{'tag'}/$QS{'id'}";
+
+open(FILE,"cat $file | tr -d '\012' |");
+while(<FILE>){
+                /<author>([^<]*)<\/author>/ && ($author=$1);
+                /<editor>([^<]*)<\/editor>/ && ($editor=$1);
+                /<title type="245">([^<]*)<\/title>/ && ($maintitle=$1);
+                /<title>([^<]*)<\/title>/ && ($title=$1);
+		last if(/<body>/);
+}
+close(FILE);
+if($title eq "") {
+   $title=$maintitle;
+}
+$title =~ s/\[.*\]//g;
+print STDOUT <<"EndofHeader";
+Content-type: text/html
+
+<HTML>
+<head>
+<TITLE>$title</TITLE>
+
+</head>
+<body bgcolor="#FFFFF0">
+
+<img src="$indexbase/logo.gif" align="left" ALT="Robert King Carter's Correspondence and Diary">
+<br>
+<br>
+
+<font size="+2">&nbsp;&nbsp;&nbsp;<b><i>A Collection Transcribed <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and Digitized <br>
+&nbsp;&nbsp;&nbsp;by Edmund Berkeley, Jr.</i></b></font>   
+
+<br>
+<br>
+<b><a href="$indexltrs">List of Letters</a></b> | 
+<b><a href="$indexbase/index.html">About This Collection</a></b><br>
+<br>
+
+<font size="-1"><a href="http://www2.lib.virginia.edu/etext/">Electronic Text Center</a>, University of Virginia Library</font>
+<br clear="left">
+<br>
+<hr width="75%">
+EndofHeader
+
+if ($QS{'tag'} eq "private") { &CheckUser; }
+if ($QS{'tag'} eq "undone" ) { &CheckUser; }
+
+open(FILE,"cat $file | tr -d '\012' | $tei2html $imagedir $QS{'tag'} |");
+while(<FILE>) {
+	print;
+}
+close(FILE);
+
+print "</BODY></HTML>\n";
+
+sub CheckUser {
+        local($source)=$ENV{'REMOTE_ADDR'};
+        local($host)=$ENV{'REMOTE_HOST'};
+        local($domain,$machine)=($source=~ /([0-9]*\.[0-9]*)\.(.*)/);
+        if ($domain eq "128.143" || $domain eq "137.54") {     
+                return 1;
+        } else { 
+                print "Sorry, you haven't permission!\n";
+		print "</HTML>";
+                die;
+        }
+} 

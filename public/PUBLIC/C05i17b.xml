@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C05i17b">
+
+<teiHeader type="aacr2"> 
+              
+<fileDesc> 
+<titleStmt> 
+     <title type="245">Letter from Robert Carter to John Goodwin, 1705 September 17</title> 
+   <title type="gmd">[electronic resource]</title> 
+     <author>Carter, Robert</author> 
+   <respStmt> 
+     <resp>Creation of machine-readable version: </resp> 
+     <name id="editor">Edmund Berkeley, Jr.</name> 
+     <resp>Conversion to TEI.2-conformant markup</resp> 
+     <name>Edmund Berkeley, Jr., and the University of Virginia Library Electronic Text Center</name> 
+   </respStmt> 
+</titleStmt> 
+ 
+<extent>ca. 5 kilobytes </extent> 
+ 
+<publicationStmt> 
+     <publisher>University of Virginia Library.</publisher> 
+     <pubPlace>Charlottesville, Va.</pubPlace> 
+     <idno type="ETC"></idno> 
+     <availability> 
+     <p>Publicly accessible</p> 
+     <p n="public">URL: http://etext.lib.virginia.edu/modeng.browse.html</p> 
+         </availability> 
+     <date>2001</date> 
+</publicationStmt> 
+ 
+<sourceDesc> 
+     <biblFull> 
+     <titleStmt> 
+     <title>Letter from Robert Carter to John Goodwin, 1705 September 17</title> 
+    
+
+     <author>Robert Carter</author> </titleStmt>
+    <extent>1 p.</extent> 
+<publicationStmt> 
+     <date>1705-09-17</date> 
+   <idno type="callNo">Source copy consulted: Christ Church Parish, Lancaster County, Processioners' Returns, 1711-1783,and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond, 167. Extract printed William and Mary Quarterly, 1st. ser., 17(1909)259.</idno> 
+</publicationStmt> 
+</biblFull> 
+</sourceDesc> 
+ 
+</fileDesc> 
+     <encodingDesc> 
+     <projectDesc> 
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p> 
+     </projectDesc> 
+<editorialDecl> 
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in establishing 
+analytical groupings.</p> 
+</editorialDecl> 
+ 
+<classDecl> 
+     <taxonomy id="LCSH"> 
+     <bibl> 
+     <title>Library of Congress Subject Headings</title> 
+     </bibl> 
+     </taxonomy> 
+</classDecl> 
+</encodingDesc> 
+ 
+<profileDesc> 
+     <creation> 
+     <date>1705-09-17</date> 
+     </creation> 
+     <langUsage> 
+     <language id="eng"></language> 
+     </langUsage> 
+     <textClass> 
+     <keywords> 
+     <term>non-fiction</term> 
+   <term>prose</term> 
+     </keywords> 
+     <keywords scheme="LCSH"> 
+     <term type="Field650">LCSH</term> 
+     </keywords> 
+     </textClass> 
+</profileDesc> 
+ 
+</teiHeader> 
+ 
+<text id="C05i17bT"> 
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 pp.</extent>
+<date value="1705-09-17">September 17, 1705</date>
+<idno rend="suppress">C05i17b</idno>
+<title>Robert Carter to John Goodwin, September 17, 1705</title>
+</bibl>
+</head>
+<p>Robert Carter acknowledges to London merchant John Goodwin, September 17, 1705, the arrival of accounts concerning the estate of Ralph Wormeley of which he is one of several trustee, notes that the price realized for the estate's tobacco is "tollerable," and reports that he is shipping 16 hogsheads of the estate's tobacco on the John Adventure.</p>
+</div1>                 
+</front>
+
+
+<body> 
+ 
+<div1 type="letter" n="1705-09-17"> 
+ 
+<head>Robert Carter to <note n="JG">John Goodwin,</note> September 17, 1705</head> 
+ 
+<opener> 
+ 
+<dateline>
+<pb n="1"/><lb/><lb/> 
+<name type="place">Rappa<add n="ed">[hannock, Lancaster County, Virginia]</add></name><lb/> 
+ 
+<date value="1705-09-17"><abbr expan="September ">Septr: </abbr> 17: 1705<lb/></date> 
+ Mr. John Goodwin<lb/> 
+
+</dateline> 
+                                              
+<salute>Sr</salute> 
+ 
+</opener> 
+ 
+<p>I have yours of the 12th of <sic corr="April ">Aprill</sic> with the Accots therein relating to <lb/>the Estate of <note 
+n="RW"><abbr expan="Esquire ">Esqr </abbr> Wormely</note> your Sale at 10d 1/4 is <sic corr="tolerable ">tollerable</sic> I hope you 
+m<corr resp="editor">[ay]</corr><lb/>be able to advance Somewhat More for the rest <sic 
+corr="There's">There's is</sic> 16 hhds of the sam<corr resp="editor">[e]</corr> <lb/>Concern on board the <name type="ship">Jno 
+Bonadventure</name> <abbr expan="Captain">Captn.</abbr> <name type="person">Huttsfford</name> a bill 
+o<corr resp="editor">[f]</corr> <lb/>Lading for it is Sent you per the Ship pray God Send it Safe to you &amp; 
+hope <lb/>`twill prove So good <abbr expan="it will ">'twill </abbr> invite a good <note target="n1">Chapman</note> I am <abbr expan="Sir">Sr </abbr></p> 
+ 
+<closer>Yor humble Servt&mdash;</closer> 
+ 
+</div1> 
+</body> 
+ 
+<back> 
+<div1 type="notes"> 
+<head>NOTES</head> 
+
+<note><hi rend="italics">Source copy consulted:</hi> Christ Church Parish, Lancaster County, Processioners' Returns, 1711-1783,and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond, 167. Extract printed <title>William and Mary Quarterly,</title> 1st. ser., 17(1909): 259.</note> 
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note><lb/>
+
+
+<note id="n1">[1] A chapman is a peddlar or a merchant.</note> 
+
+<lb/><lb/><note><hi rend="italics">This text revised July 10, 2008.</hi></note>
+ 
+</div1> 
+</back> 
+</text> 
+ 
+
+</TEI.2>

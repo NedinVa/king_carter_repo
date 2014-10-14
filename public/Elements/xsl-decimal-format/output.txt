@@ -1,0 +1,62 @@
+<HTML>
+<BODY>
+<table border="1">
+<tr align="center">
+<td><b>Data</b></td>
+<td><b>Default</b></td>
+<td><b>European</b></td>
+<td><b>US</b></td>
+<td><b>Example</b></td>
+</tr>
+<tr align="right">
+<td>24535.2</td>
+<td>24,535.20</td>
+<td>24.535,20</td>
+<td>24,535.20</td>
+<td>24,535.20</td>
+</tr>
+<tr align="right">
+<td>-123.45</td>
+<td>-123.45</td>
+<td>-123,45</td>
+<td>-123.45</td>
+<td>-123.45</td>
+</tr>
+<tr align="right">
+<td>-123.45</td>
+<td>(123.45)</td>
+<td>(123,45)</td>
+<td>(123.45)</td>
+<td>(123.45)</td>
+</tr>
+<tr align="right">
+<td>193 div 200</td>
+<td>96.5%</td>
+<td>96,5%</td>
+<td>96.5%</td>
+<td>96.5%</td>
+</tr>
+<tr align="right">
+<td>193 div 200</td>
+<td>965‰</td>
+<td>965‰</td>
+<td>965‰</td>
+<td>965m</td>
+</tr>
+<tr align="right">
+<td>1 div 0</td>
+<td>Infinity</td>
+<td>Infinity</td>
+<td>Infinity</td>
+<td>INFINITY</td>
+</tr>
+<tr align="right">
+<td>a div 0</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>Not a Number</td>
+</tr>
+</table>
+</BODY>
+</HTML>

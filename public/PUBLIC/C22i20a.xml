@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C22i20a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from John Carter to William Cage, September 20, 1722</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, John</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 9 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">filename</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from John Carter to William Cage, September 20, 1722</title>
+     <author>John Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Fairfax Papers, Box 1, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1722-09-20</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C22i20aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>1 p.</extent>
+<date value="1722-09-20"></date>
+<idno rend="suppress">C22i20a.xml</idno>
+<title>Letter from John Carter to William Cage, September 20, 1722</title>
+</bibl>
+</head>
+<p>John Carter, Robert Carter's oldest son, writes from London on his father's business to inform William Cage, September 20, 1722, that he has received from his father bills of exchange drawn by Edmund Jenings on merchant Micajah Perry. They are to pay in part some protested bills of Jenings's, in part some more of Jenings's debt, and in part of his father's rent due to Cage as trustee of Lord Fairfax, the proprietor of the Northern Neck. He wishes to have Cage discharge both his father and Micajah Perry, and to meet Cage should he come to London "purchasing my Father's Particular part of the Quit Rents."</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from <note n="JC1">John Carter</note> to <note n="WC">William Cage,</note> September 20, 1722</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">London. </name>
+<date value="1722-09-20">20. September 1<hi rend="underline">722</hi></date><lb/>
+<lb/>
+</dateline>
+<salute>Sir,</salute>
+
+</opener>
+
+<p>I have just now <sic corr="received ">reciev'd</sic> from my Father three<lb/>Bills of Exchange for six hundred and sixty Pounds, drawn<lb/>on <note n="MP">Mr: Perry</note> at sixty days sight by <abbr expan="Colonel ">Coll:</abbr> <sic corr="Jenings ">Jennings</sic> of<lb/>Virginia. Four hundred are <sic corr="designed ">design'd</sic> to make good those<lb/>Bills which were <sic corr="returned ">return'd</sic> Protested the last year, two hun-<lb/>dred as a further part of his Debt and the remaining<lb/>sixty You are to recieve in part of what is due to You<lb/>from my Father. Mr. Perry has seen the Bills and<lb/>would willingly accept them, but He as well as myself think<lb/>it necessary that You should first give us a discharge to <lb/>secure <abbr expan="Colonel ">Coll.</abbr> <sic corr="Jenings ">Jennings</sic> and my Father from any damage which<lb/>may arise from the Protested Bills; for <sic corr="though ">tho'</sic> they have been<lb/>sent from England above nine months, we know not how they<lb/>are they <sic corr="disposed ">dispos'd</sic> of, my father having never yet received <lb/><sic corr="them ">'em</sic>. I have a long time <sic corr="wished ">wish'd</sic> for an opportunity of talking <lb/> with You about purchasing my Father's Particular part of the <lb/> <note target="n1">Quit Rents,</note> and if you come to Town between this and the tenth<lb/>of October shall be very glad to wait on You. In the mean time<lb/>I shall be every day at the Widow's Coffee house in Deve-<lb/>reux Court near the Temple, and always ready to receive <lb/>Your Commands.</p>
+
+<closer>I am, Sir<lb/>Your most Obedient<lb/>humble Servant<lb/><lb/><signed><hi rend="bold"><hi rend="italics">JOHN CARTER</hi></hi></signed></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi>  Fairfax Papers, Box 1, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. This is the recipient's copy in the hand of and signed by John Carter (as is indicated by the use of italics).</note><lb/><lb/>
+
+<note id="n1">[1] Quit rent was the term used for the payment due from the holder of land to the "lord of the manor," in this case, to the proprietors of the Northern Neck. Carter as the proprietor's agent, collected these payments. No services were required of the landholder as had been true in mediaeval times.</note>
+
+<lb/><lb/><note><hi rend="italics">This text revised August 4, 2009.</hi></note>
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

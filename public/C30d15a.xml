@@ -1,0 +1,181 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C300415a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to John Pemberton and Company, April 15, 1730</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 9 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C300415a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2005</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to John Pemberton and Company, April 15, 1730</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1730-04-15</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C300415aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent> p.</extent>
+<date value="1730-04-15"></date>
+<idno rend="suppress">C300415a.xml</idno>
+<title>Letter from Robert Carter to John Pemberton and Company, April 15, 1730</title>
+</bibl>
+</head>
+<p>Robert Carter writes to John Pemberton and Company, April 15, 1730, concerning the final financial details of sales of slaves on their ship <hi rend="italics">Rose.</hi></p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="JP">John Pemberton</note> and Company, April 15, 1730</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1730-04-15">April 15. 1730</date><lb/>
+Mr. John Pemberton &amp; Compa<lb/>
+Freightr: of the Ship Rose
+</dateline>
+
+
+</opener>
+
+
+
+<p>I <abbr expan="received">receiv'd</abbr> your favour of the 15th of <abbr expan="December">Decr</abbr> <lb/>
+per <note target="n1"><abbr expan="Captain">Capt</abbr> Loxam</note> owning the receipt of the <abbr expan="tobacco">tobo</abbr> I had <sic corr="Shipped">Shipt</sic> you <lb/>
+and the payment of the money I had <abbr expan="ordered">order'd</abbr> you in the hands <lb/>
+of Mr Pemberton for the three protested bills. also you acquain<lb/>
+t me with the receipt of the two <abbr expan="hogsheads">hhds</abbr> sent in Ireland which <lb/>
+were upon the Accot of your goods left with me by <abbr expan="Captain">Capt</abbr> <lb/>
+Christian and made up Six <abbr expan="hogsheads">hhds</abbr> on that Accot <del>Marked</del> <add place="supralinear">N<corr resp="editor">[umber]</corr>s  per</add> letters <lb/>
+the rest of them goods I have lately sold <add place="supralinear">at a lump</add> to Mr <note target="n2">Thomas Edwards </note><lb/>
+they amount to between 5 &amp; 6000 pounds of <abbr expan="tobacco">tobo</abbr> he is to pay me this <lb/>
+year I hope to get it of him to ship in <note target="n3">Breakhill</note> for you</p>
+
+<pb n="2"/><lb/><lb/>
+	<p>In mine of the 20th of June I acquainted Mr Pemberton <lb/>
+the ballance of your negroe Concern was two thousand and eig<lb/>
+hty one pounds of tobacco herein I send you a bill of Lading for <lb/>
+2 hogsheads weighing neat with the Allowance of Cask 1973. In the <name type="ship">Loyalty</name> <lb/>
+<abbr expan="Captain">Capt</abbr> Loxum which Ballances that Concern to <del>109</del> a parcel of <lb/>
+109 pounds <abbr expan="Tobacco">Tobo</abbr> there is due to the Receivers for a <sic corr="ppretty">pritty</sic> deal of the <lb/>
+<abbr expan="tobacco">tobo</abbr> of your Concern which I shall send you in my next One <lb/>
+of the Receivers being dead I cannot send you The Accot at Present<lb/> 
+I am 
+</p>
+
+<closer>Gentlemen Your most humble Servant
+<seg type="postscript"><lb/><lb/>1st letter<lb/>
+per Loxum</seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note>Carter had acted beginning in the fall of 1727 as local agent for the sale of slaves from the ship <hi rend="italics">Rose</hi> owned by Pemberton and some of the merchant's partners. Concluding the financial details of the sale extended over serveral years. See Carter's letter to Pemberton of 1727 September 16 which notes the beginning of the arrangement. Details are mentioned in numerous letters to Pemberton thereafter.</note>
+
+<note id="n1">[1] Several vessels named <hi rend="italics">The Loyalty</hi> sailed to Virginia. Captain Loxom commanded  a vessel of this name in 1729-1730 as did James Tarleton in 1731. (Survey Report 9727, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. See Carter's letter to John Pemberton1731 August 4.)</note>
+
+<note id="n2">[2] "Thos. Edwards, a little petty Fogging Lawyer the Clark of our
+County that hath as much Mettle and more cunning for Contention then his predecessor had" Carter wrote
+to Landon Jones, July 22, 1723. His opinion of Edwards later changed for there are more appreciative mentions of him in Carter's diary. Edwards was clerk of the Lancaster County court from 1720-1746. (<cit><bibl><title>Within the Court House at Lancaster.</title> Lively, VA: Lively Printing Services, Lively, VA: Lively Printing Services, [1976]. p. 15.</bibl></cit>; and "Thomas Edwards, Gentleman, Clerk of the Court." <cit><bibl n="B8">Brown. <title>Virginia Baron. . . .</title> pp. 94-103.</bibl></cit>)</note>
+
+<note id="n3">[3] There  were several vessels with the name <hi rend="italics">Rappahannock.</hi> Carter's letters mention a Captain Hugh Brackhill in 1728-1729, and Captain Loxum in 1733. (<cit><bibl>Adm. 68/194, ff.30, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

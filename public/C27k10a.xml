@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C27k10a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Colonel George Mason, November 10, 1727</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 9 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C27k10a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2004, 2014</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Colonel George Mason, November 10, 1727</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1727-11-10</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C27k10aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1727-11-10"></date>
+<idno rend="suppress">C27k10a.xml</idno>
+<title>Letter from Robert Carter to Colonel George Mason, November 10, 1727</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Colonel George Mason of Stafford County, November 10, 1727, to inform him that he cannot issue grants for two pieces of land because warrants were not first obtained. He sets out problems with the land encroaching upon that for which Francis Awbrey already has warrants, and other problems with lands desired by Mason. He reminds Mason that he remains interested in land offered for sale by John Mercer provided Mason will sell him an adjoining piece.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to Colonel <note target="n1">George Mason,</note> November 10, 1727</head>
+<opener>
+<dateline>
+<pb n="1"/>
+Colonel George Mason&mdash;&nbsp;&nbsp;&nbsp;&nbsp;<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1727-11-10">Novr. the 10th: 1727</date><lb/>
+Colonel George Mason&mdash;<lb/>
+</dateline>
+
+
+</opener>
+
+
+
+<p>I am Sorry I was not at home when you were at <lb/>my house but you ought to thank <sic corr="yourself">your Self</sic> you might Justly reckon <lb/>my duty then obliged my Attendance on the <note target="n2">general Court.</note> As to the <lb/>two <sic corr="plats">platts</sic> you have <sic corr="returned">returnd</sic> without date and made without <sic corr="warrants">warrts.</sic> <lb/>I can do nothing upon them and I think it a Presumption in <note target="n3">Savage</note> <lb/>to Survey the <note target="n4"><abbr expan="Proprietors'">Proprs.</abbr> Land</note> without the Leave of their Agent and I must <lb/>never Encourage Such a practice <note target="n5">Awbrey</note> had a <abbr expan="warrant">warrt.</abbr> Some time <lb/>ago for that <sic corr="piece">peice</sic> of Land which <sic corr="Joins">Joyns</sic> upon him and <sic corr="has">hath</sic> <sic corr="returned">returnd</sic> <lb/>a <sic corr="plat">platt</sic> made by <note target="n6">Mr. Thomas</note> which he informs me was <sic corr="Surveyed">Surveyd</sic> <lb/>before Savage <sic corr="Surveyed">Surveyd</sic> for you and it Seems takes in a part of his Im<lb/>provements An Error which he was led into by Savage not <sic corr="running">runing</sic> <lb/>the last line, now it would be very unfair <del>not</del> to grand this land that he<lb/>is in a regular way of <sic corr="getting,">geting,
+</sic></p>
+
+<p>As for the two warrants you had from me Some time <lb/>ago when you return the <sic corr="Plats">Platts</sic> according to the <sic corr="places">place's</sic> of your <sic corr="Entries">Entrys</sic> <lb/>I Shall be ready to Issue Deeds <del>accordingly</del> for but Thomas <sic corr="demonstrates">demonstrats</sic> <lb/>to me that the Second he <sic corr="has">hath</sic> <sic corr="Surveyed">Survyd</sic> for Awbrey is not within either <lb/>of your <sic corr="Entries.">Entrys.</sic> Your upper Entry for 4000 Acres begins upon a <sic corr="piece">peice</sic> <lb/>of Land Sold by Savage to Phillips and Lacewell but never no Deed <lb/><sic corr="Issued">Isued</sic> for the Land, and upon their being runaway Awbrey both <lb/><sic corr="Entered">Entred</sic> for it and <sic corr="Surveyed">Surveyd</sic> it upon his warrant and your lower En<lb/>try begins at the lower End of Savages Sale so that neither way your <lb/>Warrants can <sic corr="Include">Enclude</sic> it Thus this matter Stands between you how<lb/>ever I Shall delay Some time before I give Awbrey a Deed to hear wt. <lb/>you have to Object against it.</p>
+
+<p><del>One of </del>your <del>other</del> <sic corr="Enntries">Entrys</sic> left with my man for a 1000 <add place="supralinear">acres</add> <lb/>Mr. Thomas Assures me is within a <sic corr="warrant">warrt.</sic> he <sic corr="has">hath</sic> Already in his <lb/>hands. The other Entry I have Sent you a warrant for directed to <lb/>Mr. Thomas. Savage <sic corr="has">hath</sic> <sic corr="played">playd</sic> me so many tricks and is so uni<lb/><sic corr="versally">versaly </sic><sic corr="Complained">Complaind</sic> of that I do not care how little use I make of him <lb/>The other will be up in your parts Soon upon other business and then <lb/>he will be ready to Serve you,</p>
+
+<p>I Should have bin glad to have <sic corr="discoursed">discoursd</sic> you about <lb/><note target="n7">Mr. Mercers</note> Land which I am Still willing to be a purchaser of <lb/>at a reasonable price but I cannot think it to be worth so much as he <lb/><sic corr="Asks Allthough">Askes Altho</sic> the <sic corr="Convenience">Conveniency</sic> of it to me invites me to give more <sic corr="than">then</sic> <lb/>Ordinary for it Provided I can have a good title and you agree to let <lb/>me have that part of the Land <sic corr="Adjoining">Adjoyning </sic>to me I am </p>
+
+<closer>Sir <lb/>Yor. humble Servt:--</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1727 May-1728 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>The name of Carter's home, the county, and colony have been added as a return address for clarity.</note>
+
+<note id="n1">[1] George Mason III (c. 1690-1735), justice, sheriff, burgess, and
+county lieutenant of Stafford County, father of the constitutional theorist. (<cit><bibl n="B24">Copeland and MacMaster, <title>The Five George Masons.</title> pp. 50-86</bibl></cit>; and <cit><bibl>George Harrison Sanford King, <title>The Register of Overwharton Parish Stafford County Virginia 1723-1758 And Sundry Historical and Genealogical Notes</title>. [Fredericksburg, VA: privately printed, 1961.]</bibl></cit>)</note>
+
+<note id="n2">[2] "The governor's Council, also known as the Council of State or simply the Council, consisted of about a dozen of colonial Virginia's wealthiest and most prominent men. Beginning in the 1630s the Crown appointed Council members. . . . Crown appointments were lifetime appointments. From 1625, when Virginia became a royal colony, until the outbreak of the American Revolution (1775-1783), the Council members advised the royal governor or his deputy, the lieutenant governor, on all executive matters. The Council and the governor together constituted the highest court in the colony, known initially as the Quarter Court and later as the General Court. The Council members also served as members of the General Assembly; from the first meeting of the assembly in 1619 until 1643 the governor, Council members, and burgesses all met in unicameral session. After 1643 the Council members met separately as the upper House of the General Assembly."  (<xref to="http://www.encyclopediavirginia.org/Governor_s_Council_The">"The Governor's Council"</xref> in <title>Encyclopedia Virginia</title>)</note>
+
+
+<note id="n3">[3] John Savage was a surveyor, later (1734) to be employed by Lord Fairfax while attempting to establish the boundaries of the proprietary. He had been appointed surveyor for King George County the year after that county was formed in 1720, and was referred to then as "gentleman." He was surveyor of Stafford County when he particpated in the Fairfax survey. (<cit><bibl><title><xref to="http://books.google.com/books?id=55I38FXWyPgC&pg=RA2-PA473&lpg=RA2-PA473&dq=%22John+Savage%22+surveyor+Virginia&source=bl&ots=MkmI2kK9-T&sig=3AynIvgowKj-6KoKVYcua8AJpWM&hl=en&ei=mUVyTojVEafx0gHI2c2PCg&sa=X&oi=book_result&ct=result&resnum=10&ved=0CF8Q6AEwCQ#v=onepage&q=%22John%20Savage%22%20surveyor%20Virginia&f=false">Genealogies of Virginia Families </xref>from Tyler's Quarterly Historical and Genealogical Magazine.</title>  [Genealogical Publishing Co, 1981] Vol. I [of 4]:473;</bibl></cit> <cit><bibl n="B8">Brown. <title>Virginia Baron. . . .</title> pp. 83, 86, 88, 92;</bibl></cit> and <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> p. 619.</bibl></cit>)</note>
+
+<note id="n4">[4] See "Robert Carter and the <xref to="http://carter.lib.virginia.edu/#Northern Neck">Northern Neck Proprietary</xref>" on the home page of this project.</note>
+
+<note id="n5">[5] Frank Awbrey (1690?- 1741) was an active land speculator in the area that became Loudoun County, and was one of the first justices when Prince William County was organiized in 1731. He was sheriff of that county in 1739. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:239, 439;</bibl></cit> and <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title>pp. 148, 150, 153-54 ff. </bibl></cit>)</note>
+
+<note id="n6">[6]  James Thomas was surveyor of Lancaster County, and after 1727, of Westmoreland County. In 1736, he would be one of the surveyors involved in the work of the commission to determine the bounds of the Northern Neck proprietary. (<cit><bibl n="B8">Brown. <title>Virginia Baron. . . .</title> pp. 83, 92. See <xref to="http://carter.lib.virginia.edu/html/C27l14a.html">Carter to Peter Beverley,</xref> December 14,  1727.</bibl></cit>)</note>
+
+<note id="n7">[7] John Mercer (1704-1768) emigrated from Ireland where he had been trained as an attorney. "He settled at Marlboroughtown [in then Stafford County] in 1726 as a practicing attorney and at once allowed a facile pen to get him into trouble with the government." He eventually lost his license to practice law, and turned to the land speculation that he had begun as soon as he reached Virginia. "He married first on June 10, 1725 Catherine Mason (June 21, 1707-June 15, 1750) only child of Colonel George Mason (16??-1716) and his second wife Elizabeth Waugh, daughter of the Reverend Mr. John Waugh."(<cit><bibl n="B4">Harrison. <title>Landmarks of Old Prince William</title> p. 315;</bibl></cit>  <cit><bibl n="B24">Copeland and MacMaster. <title>The Five George Masons.</title></bibl></cit>; and <xref to="http://www.rootsweb.ancestry.com/~vastaffo/johnmercer.htm">"John Mercer."</xref>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised May 13, 2014,  to add footnotes and strengthen the modern language version text.</hi></note>
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

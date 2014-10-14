@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C22j02a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from John Carter to William Cage, October 2, 1722</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, John</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 9 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">filename</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from John Carter to William Cage, October 2, 1722</title>
+     <author>John Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Fairfax Papers, Box 1, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1722-10-02</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C22j02aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>2 p.</extent>
+<date value="1722-10-02"></date>
+<idno rend="suppress">C22j02a.xml</idno>
+<title>Letter from John Carter to William Cage, October 2, 1722</title>
+</bibl>
+</head>
+<p>John Carter, Robert Carter's oldest son, writes from London on his father's business to inform William Cage, October 2, 1722, concerning bills of exchange sent by Robert Carter that Robert had received from Edmund Jenings; these were replacements for protested bills. Following his orders, he states that he will not give up the new bills until Cage signs discharges to protect Robert Carter and Edmund Jenings, who has given Carter a mortgage to back the bills. He will be glad to wait on Cage before he leaves for Virginia on the 15th or 16th of the month.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from <note n="JC1">John Carter</note> to <note n="WC">William Cage,</note> October 2, 1722</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">London </name>
+<date value="1722-10-02">October 2d: 1722</date><lb/>
+</dateline>
+<salute>Sir,</salute>
+
+</opener>
+
+<p>The moment after I had <abbr expan="received ">receiv'd</abbr> those Bills,<lb/>I gave You the trouble of <note target="n1">a Letter</note> to prevent any de<lb/>lay in the payment. It was not my fault that I had not<lb/>the honour of hearing from You before yesterday. As to<lb/>the Discharge You mention, I ought to think myself guilty<lb/>of some obscurity in my last Letter, or You somewhat unac-<lb/>quainted with business of this nature. The Protested Bills<lb/>were sent to Virginia, but by some misfortune were never<lb/>delivered to My Father or <abbr expan="Colonel ">Coll.</abbr> Jenings; and the <abbr expan="Colonel ">Coll.</abbr> might<lb/>well have refused to send any fresh Bills before the delivery<lb/>of the other, had he not depended on my Father's honour that<lb/>it should not turn to his Prejudice. You <add place="supralinear">may</add> well think My Father<lb/>has spared no pains in Your Affairs, since he has <sic corr="persuaded ">perswaded</sic><lb/><abbr expan="Colonel ">Coll.</abbr> Jenings to mortgage his land in order to raise these six<lb/>hundred Pounds, and if You are displeased with the Methods<lb/>He has made use of for Your Service, You will hardly be able<lb/>to think of any more proper. I must therefore beg of You, Sir, <lb/>not to think I trifle with You, if I assure You that I will absolute<lb/>ly refuse to deliver up these Bills <abbr expan="until ">'till </abbr> You have obliged Your-<lb/>self to indemnify <abbr expan="Colonel ">Coll.</abbr> Jenings and my Father from those which
+
+<pb n="2"/><lb/><lb/>
+were protested. I hope You will not take any thing ill that<lb/>I have said on this Occasion, having only obeyed my Orders<lb/>from Virginia.</p> 
+
+<closer>I am, Sir, Your most Obedient<lb/>Humble Servant<lb/><lb/>
+<signed><hi rend="bold"><hi rend="italics">JOHN CARTER</hi></hi></signed><lb/><lb/>
+<seg type="postscript">I should be glad to wait on<lb/>You before my going to Virginia,<lb/>which will be about the fifteenth <lb/>or sixteenth of this Month</seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi>  Fairfax Papers, Box 1, Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. This is the recipient's copy entirely in John Carter's hand, and bearing his signature.</note><lb/><lb/>
+
+<note id="n1">[1] John Carter refers to his letter to Cage of <xref to="C22i20a.xml">22 September 1722.</xref></note><lb/><lb/>
+
+<lb/><lb/><note><hi rend="italics">This text revised August 4, 2009.</hi></note>
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

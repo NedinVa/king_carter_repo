@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C23f16b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Micajah Perry, June 16, 1723</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 9 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">filename</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2002</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Micajah Perry, June 16, 1723</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert H. Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1723-06-16</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C23f16bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1723-06-16"></date>
+<idno rend="suppress">C23f16b.xml</idno>
+<title>Letter from Robert Carter to Micajah Perry, June 16, 1723</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant Micajah Perry, June 16, 1723, covering a shipment of 13 hogsheads of tobacco on board Captain Bradley from lands that his son-in-law, Nathaniel Burwell, had a lifetime interest in but that belong to Carter, and which he will bequeath to one of his grandsons by his daughter, Burwell's widow.  He asks Perry to send him a separate account of the sale. He also sends 10 hogsheads of his own very good tobacco. He concludes that he will list some drafts that he and Mann Page have made on Perry.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="MP2">Micajah Perry,</note> June 16, 1723</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Wmsburgh. <add resp="editor">[James City County, Virginia]</add></name><lb/>
+<date value="1723-06-16">June. 16th. 1723</date><lb/>
+Mr. Micajh. Perry<lb/>
+</dateline>
+
+</opener>
+
+<p>This Serves only to accompany a bill of lading <lb/>for 13 hhds of <del>sweet</del> <add place="supralinear">fine</add> <abbr expan="stemmed ">Stemd</abbr> Tobo on board <note target="n1"><abbr expan="Captain ">Capt</abbr> Bradley</note> mark <lb/>AB made at a plantation of which <note n="NB">Mr Burwell</note> had the Profit <lb/>dureing his Life &amp; was as reputable a crop as any he <sic corr="shipped ">shipd</sic> to <lb/>You and sold as well &amp; I doubt not will appear to be as good now <lb/>I have seen some of it myself &amp; deserves as good a Character as <lb/>any I have seen among his plan<add resp="editor">[tations] </add>s this crop <sic corr="does ">dos</sic> not belong to the <lb/>Estate of Major Burwell the lands are mine &amp; so are the Slav<add place="supralinear">es</add> <lb/>&amp; every thing Else I purchased it to give my <note n="ECB">Daughter Burwell</note> <lb/>the <sic corr="profits ">Profitts</sic> of it <sic corr="during ">dureing</sic> her life &amp; afterwards to settle the <lb/>Inheritance upon one of Mr Burwells sons by her <del>by her</del><lb/>she consents that this crop now going home The Produce of it should <lb/>go into the bulk of the Crops and I consign it to you as her father <lb/>&amp; her Childrens Guardian I tell you this <sic corr="story ">Storey</sic> that you s<add resp="editor">[end]</add> <lb/>me a distinct <abbr expan="account">Acct</abbr> of this crop it is under the Mark it always <lb/>has bin &amp; the C in the Middle of it put in for the Sake of my name</p>
+ 
+<p>I also here in send you 10 hhds  of my own Tobo 6 <lb/>of them are a <sic corr="particular ">Pticular</sic> crop which I <sic corr="overhauled ">overhalld</sic>  myself &amp; pleased <lb/>me as well as any I have seen this year the other 4 are under diff<lb/>erent Marks but by by <add resp="editor"> [<hi rend="italics">sic</hi>]</add> mistake are <abbr expan="stemmed ">Stemd</abbr> Strait laid Tobo. <lb/>likewise these 10 hhds I let Capt Bradley have when he was <lb/>under doubts of not getting Near his load in Service to his&mdash;Concern</p>
+
+<p>Some drafts upon you by <note n="MP1"><abbr expan="Colonel ">Coll.</abbr> Page</note> &amp; myself more <lb/><sic corr="than">then </sic> what you are yet advised of I shall mention to you here  </p>
+
+
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi>  Robert Carter letter book, 1723 June 16-1724 April 23, Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note><lb/><lb/>
+
+<note>Robert Carter writes from the colonial capitol, Williamsburg. The county and colony have been added for clarity.</note><lb/>
+
+<note id="n1">[1] The <hi rend="italics">Micajah &amp; Philip </hi>was a large vessel of some 400 tons carrying a crew of 27. The captain's name varies from record to record as James Bradley or James Bradby. Thomas Jones wrote to his wife, then in England, concerning this ship in 1728, "The Micajah &amp; Philip that comes to James River is as good as the best Ships that Comes hither, but Bradby the master seems to be a little conceited and prodigal." (<cit><bibl>Adm. 68/194-196, found in the microfilms of the Virginia Colonial Records Project, Albert H. Small Special Collections Library, University of Virginia</bibl></cit>; and <cit><bibl><title>Virginia Magazine of History and Biography.</title> 26[1918]: 172, abstracting the Jones Papers at the Library of Congress.)</bibl></cit></note>
+<lb/>
+
+<lb/><lb/><note><hi rend="italics">This text revised August 6, 2009.</hi></note>
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

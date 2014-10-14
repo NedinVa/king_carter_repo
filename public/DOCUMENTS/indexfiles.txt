@@ -1,0 +1,24 @@
+Joe,
+
+A problem has developed and I'm not sure whether I caused it or not.
+
+On the home page (Carter site/index.html), there is a link ("Read and Search The Transcribed Texts") that is supposed to take you to another page of the website which is the index to the letters by date and has the search function etc. The link  pulls up the long list of my files at Carter site/public/index.html.
+
+The code for that link presently is what it always has been:  <center><h2><a href="public/">Read and Search The Transcribed Texts</a></h2></center>.. 
+
+I tried changing the link to <center><h2><a href="etext.lib.virginia.edu/users/berkeley/">Read and Search The Transcribed Texts</a></h2></center>, the address of the index page, but that did not work. I changed it back to the original.
+
+While looking at this, I wondered again why I have the home page file named "index" and the real index page (Carter site/public/index.html) also named "index."  It has been this way from the beginning (over 10 years ago now) and has caused some confusion from time to time. Would it be a lot of trouble to change the file name for the home page (Carter site/index.html) to perhaps Carter site/homepage.html?
+
+***********"index.html" is the traditional name for the main page in a given web directory.  When you access a web directory (such as "users/berkeley/"), the web server automatically looks for an index.html file to display.  While I understand the semantic confusion of having both the Carter homepage and index page called "index", I worry that changing the name will confuse some users since "index.html" is so common.  That said, it's not difficult to change the name of the index.html file and direct those who access the /berkeley/ directory to whatever that new page is.
+
+
+
+#############\\Dear Ned,
+
+On your first issue, let me briefly describe three kinds of hyperlinks: relative, absolute, and external (my apologies if you're already familiar with this distinction).  Relative links describe a location in relation to the current location.  <a href="public/"> is an example.  The link will traverse the web tree beginning with the current directory.  In this case, the link goes "down" one level to the public/ directory.  If I had <a href="../public/">, the link would go up one directory (..) and then look for a directory called "public" to open.  Absolute links begin with a "/", indicating the root of the web server.  An example is <a href="/users/berkeley/public/">.  The link will begin with the root of the web server (http://etext.lib.virginia.edu) and append the entire content of href.  External links include a protocol (usually http://) and a host name (such as etext.lib.virginia.edu) for links outside of the current web server.
+
+I believe in your second (external) link you left off the http://, though there's no real need for an external link since you are linking to a file on the same server.  <a href="public/">, <a href="/users/berkeley/public/">, and <a
+href="http://etext.lib.virginia.edu/users/berkeley/public/"> are all equivalent, though most web developers would greatly prefer the first notation.
+
+

@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C28e25b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Robert Cary, May 25, 1728</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca.  kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C28e25b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2004</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Robert Cary, May 25, 1728</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1728-05-25</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C28e25bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent> p.</extent>
+<date value="1728-05-25"></date>
+<idno rend="suppress">C28e25b.xml</idno>
+<title>Letter from Robert Carter to Robert Cary, May 25, 1728</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant Robert Cary, May 25, 1728, concerning the difficulties that later-arriving ships are having in getting cargoes, noting that Captain Clack has a full ship, and sending a bill of exchange. He the informs Cary of John Randolph being sent to England to work for the repeal of the prohibition against the importation of stemmed tobacco with the hope that Cary will support this proposal.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="RC">Robert Cary,</note> May 25, 1728</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Rappahannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1728-05-25">May the 25th 1728</date><lb/>
+Mr Robert Cary<lb/>
+</dateline>
+<salute>Sr&mdash;</salute>
+
+</opener>
+
+<p>The Masters of Ships that are coming <lb/>home will best relate to you the news from hence <note target="n1"><abbr expan="Captain">Capt:</abbr>. Hopkins </note><lb/>makes heavy complaints that he shall not be able near to <lb/>Compass his Load and so do most of the <sic corr="Later">Latter</sic> Ships how <lb/>they will come <sic corr="off">of</sic> at Last <del>non
+</del> neither they nor we can yet <lb/>tell I have promised Hopkins to do him all the Service I <lb/>can but that will not be abundance <note target="n2"><abbr expan="Captain">Capt</abbr> Clack</note> has done <lb/>his business <del>She</del> is a full Ship hath left as he says a 
+
+<pb n="2"/><lb/><lb/>
+great many hogsheads that <del>hath</del> was lately <sic corr="Offerred">Offerrd</sic> to him <lb/><sic corr="among">amongs</sic> the rest hath taken in none for me <sic corr="although">altho</sic> I pro<lb/>mised him some at his first coming in I do not blame <lb/>him I have been a long time from home &amp; he hath <sic corr="met">mett</sic> <lb/>with Enough nearer his <note target="n3">riding</note> and I want no room for <lb/>my <abbr expan="Tobacco">Tobbo:</abbr>
+ herein send you a Bill of <abbr expan="exchange">Excha:</abbr> of <note n="JR">Mr. Randolphs</note> <lb/>Draft on your self for &pound;7" which desire may be carried <lb/>to my Credit.</p>
+
+<p>To prevent the <sic corr="carying">carring</sic> of such an Egre&mdash;<lb/>gious Quantity of the Trash <del>of our</del> <abbr expan="Tobacco">Tobbo:</abbr> which we conclude <lb/>is owing mainly to the prohibition we <add place="supralinear">are</add> under of not <sic corr="Stemming">Steming</sic> <lb/><del>the Meanest part of our Tobbo:</del> Mr. <abbr expan="John">Jno:</abbr> Randolph is coming <lb/><note target="n4">home</note> the <sic corr="Country's">Countreys</sic> <del>the</del> Agent with an Address to his <abbr expan="Majesty">Maty.</abbr> <lb/>and a Representation to the <abbr expan="parliament">parliamt:</abbr> to <add place="supralinear">get</add> that <note target="n5">clause in the <lb/>Act</note> repealed if it be possible <del>to be done</del> I shall not run <lb/>into particulars in this Affair knowing Mr. Randolph who <lb/>is much in your Friendship will be better able to let you into <lb/>all the reasons that carry the <sic corr="Country">Countrey</sic> <add place="supralinear">in</add>to this Design and <lb/>we flatter our Selves that we shall <add place="supralinear">have</add> all the <abbr expan="Merchants">Merchts</abbr>. both the <lb/><abbr expan="London">Londo</abbr> and the Outports and the North <sic corr="Britains">Brittains</sic> too <del>both</del> for <lb/>the Good of the Trade in General as well as for the <sic corr="relief">releif</sic> of this <lb/>poor <sic corr="Country">Countrey</sic> <del>will be</del> Strongly of our Side and give their <lb/><sic corr="Utmost">Uttmost</sic> Assistance in delivering us from this most <sic corr="Mischievous">Mischeivous</sic> <lb/>restraint we think it may be made out to a Demonstration <lb/>that the King will not be hurt in his <sic corr="Customs">Customes</sic> the Trade will <lb/>be very much <sic corr="bettered">betterd</sic> and the poor planter very much be<lb/>nefitted but this I shall leave to a better Tongue and a clearer <lb/>head only wishing that you may appear to be one of <lb/><del>that may be</del><add place="supralinear">the</add> forward <del>in</del> <add place="supralinear"><abbr expan="Gentlemen">Gent:m</abbr> in</add> Countenancing this affair I am </p>
+
+<closer>Sir&mdash;<lb/>Your most humble Servt<seg type="postscript"><lb/><lb/>Clack
+<lb/><note target="n6">Trice</note></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. </note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. "Rappahannock," the county, and colony have been added for clarity to this unheaded draft.</note>
+
+<note id="n1">[1] Captain James Hopkins commanded the <hi rend="italics">Mary</hi> in 1727-1728. He was then working for London merchant Robert Cary. He is mentioned in Carter's diary. (<cit><bibl>Adm. 68/194, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n2">[2] No information has been located on Captain Clack who is mentioned in several of Carter's letters of this period.</note>
+
+<note id="n3">[3] anchorage</note>
+
+<note id="n4">[4] England</note>
+
+<note id="n5">[5] Parliament had passed the act forbidding the importation of stemmed tobacco in 1722. Randolph would not leave for England until 1729; his mission would be successful.<corr resp="editor"></corr> (<cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> [Newport News, VA: Mariners' Museum, 1953.] p. 116.</bibl></cit>)</note>
+
+<note id="n6">[6] The 140 ton <hi rend="italics">Welcome</hi> was owned by London merchant James Bradley to whom Carter would write about her on 1727 May 17.  John Trice (Frice) was her captain, 1723-1728. (<cit><bibl>Survey Report 6801 summarizing Adm 68/195, 154r, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

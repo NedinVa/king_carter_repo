@@ -1,0 +1,225 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C21b14e">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Ralph Smith,
+February 14, 1721</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia
+Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 5 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">filename</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL:
+http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Ralph Smith, February 14,
+1721</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date>1940</date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter
+Book, 1720 July-1721 July, BR 227, Huntington Library, Art
+Collections, and Botanical Gardens, San Marino, California.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic
+Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text
+Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject
+Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1721-02-14</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term
+type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C21b14eT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1721-02-14"></date>
+<idno rend="suppress">C21b14e.xml</idno>
+<title>Letter from Robert Carter to Ralph Smith, February 14,
+1721</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London bookseller, Ralph Smith, February
+14, 1721, to order several newspapers in addition to that he already
+receives, and to order a number of books.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note target="n1">Ralph
+Smith,</note> February 14, 1721</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster
+County, Virginia]</add></name><lb/>
+<date value="1721-02-14">Febr. 14. 1720/21</date><lb/>
+Mr. Ralph Smith<lb/>
+</dateline>
+<salute>Sir</salute>
+
+</opener>
+
+<p>In the News <sic corr="packets ">Pacquetts</sic> I have had from <lb/>You for some time, You
+have only Sent me the Mercurys, You <lb/>Send to <note n="MP1"><abbr
+expan="Colone l">Collo.</abbr> Page</note> the Evening <sic corr="Post ">poste</sic> and the
+Quarterly <abbr expan="Register ">regisr.</abbr>
+ <lb/><abbr expan="published ">publish'd </abbr> at the charge of the Fire Office, These two <abbr
+expan="papers ">Paprs </abbr>I<lb/>Desire You will <sic corr="let ">lett</sic> me have for
+the future, and what <lb/>Ingenious <sic corr="pamphlets ">Pamphletts</sic> You think worth
+reading, I am told <lb/><note target="n2">Queen Anns Reign </note> is
+in Print if it be pray <sic corr="let ">lett</sic> me have It <lb/><note target="n3"><abbr
+expan="Doctor ">Doctr.</abbr> Scotts works</note> they Say are printed
+all together in a <lb/>large Volume, which I would also have, and
+<note target="n4"><abbr expan="Doctor ">Docr.</abbr> Wellwoods
+<lb/><sic corr="Memoirs ">Memoio's</sic></note> <add resp="editor"> [<hi
+rend="italics">sic</hi>]</add>or <sic corr="Secret ">Secrett</sic> History, <del>These</del> I
+would likewise have <lb/><note target="n5">Bohuns Precedents </note>
+of Proceedings in Parliament if I <lb/>have not <sic corr="forgotten ">forgott</sic> the Name and
+Title of the Book, these <lb/>Books <note n="MP">Mr. Perry </note>
+will take care to pay You for and Convey <lb/>to me I remain </p>
+
+<closer>Sir <lb/>Yor. humble Servt.</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy
+consulted:</hi></hi>  Robert Carter Letter Book, 1720 July-1721 July,
+BR 227, Huntington Library, Art Collections, and Botanical Gardens,
+San Marino, California. Printed: <cit><bibl n="B12">Wright.
+<title>Letters of Robert Carter. . . .</title> p.
+78.</bibl></cit></note><lb/>
+
+<note>Robert Carter generally used a return address of
+"Rappahannock" for the river on which he lived rather than
+"Corotoman," the name of his home, on his correspondence, especially
+to merchants abroad. The county and colony have been added for
+clarity.</note><lb/>
+
+
+<note id="n1">[1] Louis Wright identifies Smith as a "bookseller" of
+London (Wright, <title>Letters.</title>p. 78, fn 74). In <xref to="C33inven.xml">the
+inventory</xref> of Carter's possessions, taken after his death, are listed
+the several hundred books found in his house. Wright identified as
+many of the titles as he could and published the results of his
+research in an article in the first issue of <title>The Huntington
+Library Quarterly</title> in 1937. The books ordered in this letter
+have been identified from Wright's article, and references are given
+below to the page where the books appear in the article. There are
+also 
+references to the footnotes in his inentory where the titles are
+further identified. (<cit><bibl
+n="A28">Wright. "The Literary Interests of the First Carters."
+</bibl></cit> )</note><lb/><lb/>
+
+<note id="n2">[2] <title>The History of the Life and Reign of Queen
+Anne</title> [1714?].  This may be the title in fn. 2.19 in <xref to="C33inven.xml">Carter's
+inventory.</xref> Wright article,  p. 53.</note><lb/><lb/>
+
+<note id="n3">[3] John Scott, <title>The Christian Life, from Its
+Beginning to Its Consumation in Glory.</title> (5 vols., 1712). His
+inventory (see fns 7.26 and 7.27) shows that Carter had several
+volumes of a 1712 multi-
+volume edition; the single volume edition of "Dr. Scotts works" that
+he ordered in this letter may not have been available. Wright
+article,  p. 57.</note><lb/><lb/>
+
+<note id="n4">[4] James Wellwood, <title>Memoirs of the Most
+Material Transactions in England for the Last Hundred Years.</title>
+(2d ed., 1700). Wright article,  p. 55. This title does not appear
+in Carter's inventory.</note><lb/><lb/>
+
+<note id="n5">[5]William Bohun, <title>A Collection of Debates,
+Reports, Orders, and Resolutions of the House of Commons.</title>
+(1702). See footnote 12.20 in <xref to="C33inven.xml">Carter's inentory.</xref> Wright article,  p.
+45.</note><lb/>
+
+<lb/><lb/><note><hi rend="italics">This text revised March 11,
+2009.</hi></note>
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C29d11b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Messrs. Haswell and Brooks, April 11, 1729</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 9 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C29d11b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2005</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Messrs. Haswell and Brooks, April 11, 1729</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1728 August 8-1730 May 15,  Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1729-04-11</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C29d11bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1729-04-11"></date>
+<idno rend="suppress">C29d11b.xml</idno>
+<title>Letter from Robert Carter to Messrs. Haswell and Brooks, April 11, 1729</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchants Messrs. Haswell and Brooks, April 11, 1729, acknowledging receipt of goods, complaining about the poor market for tobacco, prospects for the repeal of the act forbidding importation of stemmed tobacco into Britain, and coverning bills of lading and echange (not present).</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note target="n1">Messrs. Haswell and Brooks,</note> April 11, 1729</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Rappahannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1729-04-11">Aprl 11. 1729</date><lb/>
+Mess. Haswell &amp; Brooks<lb/>
+</dateline>
+
+
+</opener>
+
+<p>I have <abbr expan="received">receiv'd</abbr> <abbr expan="your">yr</abbr> letters with the goods you sent me <lb/>by the <note target="n2">Cambridge</note> they came in good Condition and I have loaded <lb/>Upon her Twenty hogsheads of my own crop <abbr expan="Tobacco">Tobo:</abbr></p>
+
+<p>The relation both you and Every other <abbr expan="merchant">mercht.</abbr> <lb/>gives of the poorness of the <sic corr="Commodity">Comodity</sic> inspire's us with very <lb/><sic corr="melancholy">melancholly</sic> Apprehensions that unless some lucky turn <lb/>happens <corr resp="editor">[. . .]</corr> the price we shall never be able to live by <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;our labour 
+
+<pb n="2"/><lb/><lb/>
+And supply the necessary Calls of Nature Most of the mer<lb/><abbr expan="chants">chts</abbr> are in great doubt we shall not meet with success in the <lb/>Affair of <note target="n3">Stemming</note> it seems very hard that the despicable con<lb/>dition of our <sic corr="Commodity">Comodity</sic> will not move the compassion of our fellow <lb/>Subjects to indulge us in so reasonable a petition but this too <lb/><sic corr="melancholy">melancholly</sic> a Subject to dwell upon</p>
+
+<p>For this <abbr expan="Tobacco">Tobo:</abbr> you have here a bill of Lading <abbr expan="Captain">Capt:</abbr> <lb/>Brooks <sic corr="has">hath</sic> been so diligent to comply with his Charter <abbr expan="that">tht:</abbr> <lb/>he <sic corr="has">hath</sic> overrun all our Expectations and is the first <note target="n4">Sweet <lb/>Scented</note> Ship that will Sail he will best give you an Accot <lb/>how forward the rest are he having got the Start so much <lb/>if he be <sic corr="favoured">favourd</sic> in his passage will come to the first of the Mar:<lb/>ket which for Some <add place="supralinear">late</add> years <sic corr="has">hath</sic> <abbr expan="proved">prov'd</abbr> the best</p>
+
+<p>Here in are two Small bills on <abbr expan="your">yr</abbr>Selves <abbr expan="John">Jno</abbr> <lb/>Washington for &pound;5"-"- and Joe Smith for &pound;5"-"- <lb/>which desire <abbr expan="your">yr</abbr> <abbr expan="managment">managmt</abbr> of I shall conclude at <abbr expan="present">prest</abbr> </p>
+
+<closer><abbr expan="Gentlemen">Gent</abbr> <lb/><abbr expan="your">yr</abbr> most humble Servt</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. </note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have also been added for clarity to the  heading on the draft.</note>
+
+<note id="n1">[1] Haswell and Brooks may have been a London firm for a 1740 directory of that city lists a Samuel Haswell, a London Assurance director in Suffolk Lane. There are several men of the name "Brooks" in the directory including a Christopher Brooks, a ship broker, also located in Suffolk Lane. (<cit><bibl> <title>A Compleat Guide to All Persons who have any Trade or Concern with the City of London and Ports adjacent. . . .</title> London: Printed for J. Osborn, at the Golden Ball in Pater-noster-row, MDXXXL</bibl></cit>)</note>
+
+<note id="n2">[2] The <hi rend="italics">Cambridge</hi> made voyages to Virginia from London in 1727 and 1729. In the first she was commanded by Peter Moore, and in the later by Christopher Brooks. She was a vessel of 70-100 tons with about 11 men. She may have been oowned by Haswell &amp; Brooks.(<cit><bibl>Survey Reports 6800 and 6801 for Adm. 68/194-195, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n3">[3] Parliament had passed an act forbidding the importation of stemmed tobacco in 1722. John Randolph was sent to England in 1729 as agent for Virginia to try to have the act overturned; his mission would be successful. (<cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> [Newport News, VA: Mariners' Museum, 1953.] p. 116.</bibl></cit>)</note>
+
+<note id="n4">[4] Sweetscented tobacco was one of two major types grown in Carter's day. It was mild compared to the stronger oronocco. Sweetscented required "a type of soil of limited distribution" and "was largely confined to the banks of the great rivers, the James, York, Rappahannock, and Potomac." (<cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> Newport News, VA: Mariners' Museum, 1953.  p. 97</bibl></cit>) </note>
+
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

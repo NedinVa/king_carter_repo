@@ -1,0 +1,181 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C29f02a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to John Randolph, [June 2, 1729]</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 11 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C29f02a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2005</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to John Randolph, [June 2, 1729]</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>5 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1728 August 8-1730 May 15,  Carter Family Papers, Virginia Historical Society, Richmond, and Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1729-06-02</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C29f02aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>5 p.</extent>
+<date value="1729-06-02"></date>
+<idno rend="suppress">C29f02a.xml</idno>
+<title>Letter from Robert Carter to John Randolph, [June 2, 1729]</title>
+</bibl>
+</head>
+<p>Robert Carter writes to John Randolph, [June 2, 1729], to welcome him home from England and to bring him up to date on two lawsuits, including one against the proprietary, for which he has been Carter's attorney.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="JR">John Randolph,</note> [June 2, 1729]</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Rappahannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1729-06-02"></date><lb/>
+John Randolph Esqr:<lb/>
+</dateline>
+<salute>Sir</salute>
+
+</opener>
+
+<p>Being Arrived at the years of Infirmity <lb/>Wherein I may too <sic corr="truly">truely</sic> say I have little Pleasure I <lb/>am forced to do the most of my business with Pen and Ink</p>
+
+<p>In the first place I shall congratulat<corr resp="editor">[e]</corr> <lb/>you upon Several Accots upon your <note target="n1">safe arrival</note> into <corr resp="editor">[your]</corr><lb/><del>Own Country</del> Upon the recovery of your health and p<corr resp="editor">[ar]</corr><lb/>ticularly upon your Success in being the Happy man <corr resp="editor">[in]</corr> <lb/>bringing back the olive branch of Liberty ag<corr resp="editor">[ain to us]</corr> <lb/>which for some years <sic corr="has">hath</sic><del>been</del>  <add place="supralinear">been</add> <add resp="editor"> [<hi rend="italics">sic</hi>]</add> like chains about <corr resp="editor">[our]</corr> <lb/>necks to restrain us from <sic corr="modeling">modelling</sic> our Vital Comod<corr resp="editor">[ity into]</corr><lb/>such shapes  tht renderd it most agreeable to the market <corr resp="editor">[and]</corr> <lb/>most Advantageous to the Masters For this Vaulable<lb/> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<note target="n2">Service</note> 
+
+<pb n="2"/><lb/><lb/>
+no doubt <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[you will 
+
+<pb n="3"/><lb/><lb/>
+deservedly meet with the <lb/>generous thanks of your country.</p>
+
+<p>My law=suit with <note target="n3">Allerton</note> is <lb/>of no great value and yet I would <lb/>not loose it upon any account if <lb/>I could help it. Their endeavour=<lb/>=ing to weaken my title under the <lb/>Properitor's grant without setting <lb/>up any title under the person <lb/>who last <hi rend="underline"><sic corr="died">dyed</sic></hi> seized I can see no <lb/>manner of reason for: nor can I <lb/>think the Court will allow <lb/>them, or ought to do it, to insist upon <lb/>this part of their argument. How=<lb/>=ever I hope you will arm your=<lb/>=self with all your strength to bat=<lb/>=ter them out of this part of their <lb/>hold. The papers I have at home <lb/>with me and shall send them to <lb/>you as soon as you shall think it <lb/>requisite.</p>
+
+<p>Upon the passing of some Patents <lb/>in the Little Fork of the Rappahannock <lb/>which is plainly within the bounds <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[of the Northern 
+
+<pb n="4"/><lb/><lb/>
+of the Northern Neck, by <note n="JH">Mr. Hol=<lb/>=loway</note>, I entered a <note target="n4">caveat;</note> and I <lb/>left it as my desire to him to <lb/>tell you as soon as you arrived. <lb/>I depended upon you as my lawyer <lb/>in the cause. He promised me not <lb/>to forget it and <del>told me</del> withall <lb/>told me from your being engaged in <lb/>defending the Properitors Grant <lb/>before he believed you reckon your=<lb/>=self engaged to be for me now.</p>
+
+<p>There is a suit at Law in eject=<lb/>=ment brought against a tenant of<lb/>of <add resp="editor"> [<hi rend="italics">sic</hi>]</add> <note n="NB">Mr. Burwell's</note> in King George, <lb/>by <abbr expan="Captain">Capt.</abbr> <note n="LCF">Henry Fitzhugh,</note> in which <lb/>Mr. Holloway is engaged and I <lb/>reckon upon you <sic corr="also.">alsoe.</sic></p>
+
+<p>Mr. Holloway drew the caveat for <lb/>the Properietors, <sic corr="has">hath</sic> all the pa=<lb/>=pers and will let you into the <lb/>whole of the case. The Orders of <lb/>Council made in it I suppose he <lb/><sic corr="has">hath</sic> <sic corr="also.">alsoe.</sic></p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[I have a
+
+<pb n="5"/><lb/><lb/>
+I have a great desire to see <lb/>you; and if I can get well enough <lb/>in a fortnight or three weeks time <lb/>to undergo the fatigue I <sic corr="propose">purpose</sic> <lb/>to make a trip to York &amp; thence <lb/>to <note target="n5">Town,</note> unless I can luckily <lb/>meet you at <note n="MP1"><abbr expan="Colonel">Colo.</abbr> Page's.</note> </p>
+
+<closer>I am, sir, &amp;c.</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> The Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond, still includes the first page of the draft of this letter which bears some damage along its right margin. The other pages of it have disappeared since the 19th-century copyist had access to the letter book, and the rest of the letter text has been prepared from the copyist's transcript in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia. A note has been provided to show where the copy texts change.</note>
+
+<note>The letter book's first page of the draft bears neither date nor address. The date is tentatively assigned because this letter follows another of this date in the letter book. Carter's usual return address of "Corotoman" for letters sent to persons in Virginia, and the county and colony, have been added for clarity.</note>
+
+<note id="n1">[1] Randolph had recently returned from a trip to England where he had acted as the colony's agent in working for the removal of a Parliamentary act prohibiting the shipping of stripped tobacco; his mission was successful.</note>
+
+<note id="n2">[2] The letter book text ends with the word "Service."</note>
+
+<note id="n3">[3] Willoughby Allerton (1664-1724) was a prominent citizen of Westmoreland County where he was burgess, sheriff, and militia officer.  (<cit><bibl>Allerton Genealogical Data at http://homepages.rootsweb.com/~edburton/fam03055.htm, 4/16/04;</bibl></cit> and <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 3[1705-1721]: 92,146,381,420. </bibl></cit>)</note>
+
+<note id="n4">[4] A caveat is a  "formal notice filed with a court or officer to suspend a proceeding until filer is given a hearing . . .  a warning against certain acts." (<cit><bibl>"Meaning of CAVEAT." hyperdictionary. http://www.hyperdictionary.com/dictionary.</bibl></cit>)</note>
+
+<note id="n5">[5] Williamsburg</note>
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

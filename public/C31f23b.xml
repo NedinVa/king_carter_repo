@@ -1,0 +1,180 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C31f23b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to John Randolph, June 23, 1731</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 9 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C31f23b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2005</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to John Randolph, June 23, 1731</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1731-06-23</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C31f23bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1731-06-23"></date>
+<idno rend="suppress">C31f23b.xml</idno>
+<title>Letter from Robert Carter to John Randolph, June 23, 1731</title>
+</bibl>
+</head>
+<p>Robert Carter writes to attorney John Randolph, June 23, 1731, to request his preparation of legal documents that will allow the surviving partners of the Frying Pan mining company to settle the financial and other issues of the business to fairly compensate Mann Page's widow and her children. He sends copies of all documents (not present) pertaining to the company's affairs.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="JR">John Randolph,</note> June 23, 1731</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Corotoman: <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1731-06-23">June 23d.. 1731</date><lb/>
+John Randolph Esqr.<lb/>
+</dateline>
+<salute>Sir</salute>
+
+</opener>
+
+
+
+<p>I will hope this will meet you in a better state <lb/>
+of health than you have been for some time. As you are con <lb/>
+<abbr expan="cerned">cern'd</abbr> in all <note n="MP1"><abbr expan="Colonel">colo</abbr> Pages</note> other Affairs, so I think you the properest<lb/>
+person to be Consulted in the method necessary for the settling<lb/>
+of the <note target="n1">mine Adventure</note> which hitherto lies in crude preparatory<lb/>
+Articles only: You have herewith a Copy of all the Agreements that are<lb/>
+Subsisting between us My Sons <note n="RC2">Robert</note> &amp; <note n="CC1">Charles</note> have given their<lb/>
+consent to the last Articles <abbr expan="signed">sign'd</abbr> between <abbr expan="Colonel">Colo</abbr> page &amp; I, Deeds for all<lb/>
+the lands <abbr expan="mentioned">mention'd</abbr> in this Agreement were <abbr expan="passed">pass'd</abbr> in my Son Roberts<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name 
+
+<pb n="2"/><lb/><lb/>
+before <abbr expan="Colonel">Colo</abbr> Pages death; We have now Six miners sent into us upon<lb/>
+Sterling wages, likewise a Smith, some of them came in in <abbr expan="Colonel">Colo</abbr> pages<lb/>
+life time, some since. <note n="JC1">The Secretary</note> I take to be now the Proper person<lb/>
+to personate in the behalf of <abbr expan="Colonel">Colo</abbr>: Pages Widow, &amp; Children, I write<lb/>
+to him a letter to be <abbr expan="Lodged">Lodg'd</abbr> with you; until his coming to William <lb/>
+<sic corr="sburg">sburgh</sic> in his way hither; which he proposes early in the next month:<lb/>
+It seems highly Expedient <del>to me</del> this affair should have a Speedy &amp; full<lb/>
+<del>settlement</del> <add place="supralinear">regulation&mdash;</add> My son Robert went from hence this day with intentions<lb/>
+to be here again when his brother Comes; My Son Charles does the same<lb/>
+And it is my present resolution then to go Through with this <abbr expan="Affair">Affr:</abbr><lb/>
+There has been no Account Settled yet of the Respective Charges we<lb/>
+have Severally been at Since the beginning of the Undertaking: The Assis- <lb/>
+tance of a Lawyer will be absolutely Necessary for us to have; I hope the in <lb/>
+closed Contents will <sic corr="set">sett</sic> the matter in so good a light to you, that you<lb/>
+<add place="supralinear">may</add> <corr resp="editor">[[be]]</corr> enabled to draw proper Instruments, that will be obliging in the law<lb/>
+for all the Necessary Purposes to this Settlement to be Executed by us<lb/>
+at our meeting: These rough instruments I would willingly have prepared <del>[illegible]</del><lb/>
+that <del>my son</del> <add place="supralinear">the Secretary</add> may bring them along with him.</p>
+
+<p>I heartily wish you a full return of your health &amp; am&mdash;&mdash;
+</p>
+
+<closer>Sir<lb/>
+<abbr expan="your">yr.</abbr> most humble Servant.</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia. There is a nineteenth-century copy of this letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia.</note>
+
+<note>The county and colony have been added for clarity to the heading on this draft.</note>
+
+<note id="n1">[1]  In 1728, Carter, his sons Robert and Charles, and his son-in-law Mann Page, organized a company to mine for copper on a tract of some 27,000 acres that Louis Morton describes as lying "near the present boundary of Fairfax and Loudoun counties." Fairfax Harrison wrote that the tract was "on the  Horsepen of Broad." Horsepen Run joins Broad Run on the northern border of Dulles airport. The company was not successful. (<cit><bibl n="B32">Morton. <title>Robert Robert Carter of Nomini Hall.</title> pp. 18-19;</bibl></cit> and <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> p. 342. </bibl></cit>)</note>
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C27i06b">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to William Robertson, September 6, 1727</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 5 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C27i06b.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2003</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to William Robertson, September 6, 1727</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1727-09-06</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C27i06bT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1727-09-06"></date>
+<idno rend="suppress">C2i06b7.xml</idno>
+<title>Letter from Robert Carter to William Robertson, September 6, 1727</title>
+</bibl>
+</head>
+<p>Robert Carter writes to clerk of the council William Robertson, September 6, 1727, to say that while all the news indicates Geoirge I has died, nothing can be done until official notification is received, and the new governor may bring it.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="WR">William Robertson,</note> September 6, 1727</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
+<date value="1727-09-06">Sepr: the. 6th: 1727</date><lb/>
+Mr. Wm. Robertson<lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+<p><abbr expan="Yours">Yors:</abbr> of the 4th: came to me last night at 8 a Clock<lb/>there Seems to remain no more room to <del>doubt the Kings Death</del> <lb/>the news of the <note target="n1">Kings Death</note> being true however as you Observe <lb/>I think I can take no notice of it <sic corr="until">till</sic> I have <sic corr="public">publick</sic> directions <lb/>from Whitehall but what way that is <add place="supralinear">to </add><del>To me </del>is uncertain <lb/>it Seems probable our <note n="WG"><abbr expan="Governor">Govr.</abbr></note> is at hand and will bring it himself <lb/><sic corr="until">till</sic> such notification Arrives I <sic corr="believe">beleive</sic> it will be everybodys Opinion <lb/>all <sic corr="processes">process's</sic> must Continue in the Same <sic corr="Channel">Channell</sic> it is,</p>
+
+<p>I need not awaken you to your Duty in hurrying <lb/>away to me any <sic corr="Public">Publick</sic> packets that Shall come to your hand <lb/>the Swelling of my Ankle is not yet so much <sic corr="gone">gon</sic> to let me wear a <lb/><sic corr="Shoe">Shooe</sic> I am 
+</p>
+
+<closer>Yor. most humble Servt.<seg type="postscript"><lb/><lb/>You will take care to make all prepar-<lb/>ations you can for proclaiming the Present <lb/>King when Orders Arrive</seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. There is a 19th-century transcript of the letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia.
+</note>
+
+<note>The name of Carter's home, "Corotoman," the county, and colony have been added for clarity to this unheaded draft.</note>
+
+<note id="n1">[1] George I (1660-1727) who reigned 1714-1727. (<cit><bibl>"The Royal English Monarchy." http://www.scotlandroyalty.org/kings.html. 11/12/03</bibl></cit>)</note>
+
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

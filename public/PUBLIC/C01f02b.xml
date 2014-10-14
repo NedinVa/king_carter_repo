@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2  SYSTEM  'teixlite.dtd' [
+<!NOTATION jpg  SYSTEM  "jpeg">
+<!ENTITY filename  SYSTEM  "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM  "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM  "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM  "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM  "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM  "ISOtech.pen"> %ISOtech;
+]>
+
+<TEI.2 id="C01f02b">
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Jonathan Mathews and John Goodwin, 1701 June 2</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr., and the1University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 8 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">Modeng enter file ID</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/modeng.browse.html</p>
+         </availability>
+     <date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Jonathan Mathews and John Goodwin, 1700 June 2</title>
+        <author>Robert Carter</author>
+</titleStmt>
+
+    <extent> 1 p.</extent>
+<publicationStmt>
+     <date>unpublished</date>
+   <idno type="callNo"> Source copy consulted: Christ Church Parish, Lancaster County,
+Processioners' Returns, 1711-1783,and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126,
+Archives Research Services, Library of Virginia, Richmond, 142.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in establishing
+analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH">
+     <bibl>
+     <title>Library of Congress Subject Headings</title>
+     </bibl>
+     </taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation>
+     <date>1701-06-02</date>
+     </creation>
+     <langUsage>
+     <language id="eng"></language>
+     </langUsage>
+     <textClass>
+     <keywords>
+     <term>non-fiction</term>
+   <term>prose</term>
+     </keywords>
+     <keywords scheme="LCSH">
+     <term type="Field650">LCSH</term>
+     </keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C01f02b.xmlT">
+
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 pp.</extent>
+<date value="1701-06-02">June 2, 1701</date>
+<idno rend="suppress">C01f02b.xml</idno>
+<title>Letter from Robert Carter to Jonathan Mathews and John Goodwin, 1701 June 2</title>
+</bibl>
+</head>
+<p>Robert Carter writes the London merchants Jonathan Mathews and John Goodwin that he is one of the exectors of Ralph Wormeley and a guardian of Wormeley's sons; he is sending 27 hogsheads of tobaccoe belonging to the estate for sale. They shall have the majority of the business of the estate if he can arrange it. Carter reports the arrival of goods sent to Wormeley, and encloses an order for more to be charged to the estate.</p>
+</div1>                 
+</front>
+
+
+
+
+
+<body>
+
+<div1 type="letter" n="1701-06-02">
+
+<head>Letter from Robert Carter to <note n="JM">Jonathan Mathews</note> and <note n="JG">John Goodwin</note>, June 2, 1701</head>
+
+<opener>
+
+<dateline>
+<pb n="1"/>
+<name type="place">[Rappahannock, Lancaster County, Virginia]<lb/></name>
+
+<date value="1701-06-02">June the 2d. 1701</date><lb/>
+Jonathan Mathews &amp;<lb/>
+John Goodwin&mdash;
+</dateline>
+                                             
+<salute>Srs.</salute>
+
+</opener>
+
+<p>Mr. Secretary Wormeley in his Will (a <sic corr="Copy ">Coppy</sic> whereof is herein sent you) <lb/>
+hath Appointed me
+one of his <abbr expan="Executors ">Executrs. </abbr> in the Minor Age of his Sons. In <lb/>
+Respect to Our Long Acquaintance, my Relation to his <sic corr="Widow ">Widdow</sic> &amp; Children <lb/>
+and the great Desire I ever had, and hope alwayes shall
+preserve, to <lb/>
+befriend the fatherless, and not any Interest of my Own, Expecting nothing <lb/>but my
+Labour for my hire, and perhapps to be Censur'd for a Wrong <lb/>doer <sic corr="at ">att</sic> Last I have Intermeddle with
+that Estate &amp; have <sic corr="Shipped ">Shipt</sic> the To=<lb/><sic corr="-bacco ">-baccoe</sic> belonging thereto, 27 hogsheads whereof are on board
+<note target="n1"><add resp="editor"> [John]</add> Burford</note> &amp; Consign'd <lb/>to you, they are
+of his own <sic corr="Crops ">Cropps</sic> wch. you Comended very much last Year <lb/>I hope these may prove as good. I must
+tell you, <abbr expan="it is ">'tis </abbr> the largest <sic corr="parcel ">parcell</sic> Comes <lb/>to any One Merchant from that Concern, not at all to the liking
+of the <lb/>Rest, of the Exrs. <abbr expan="though ">tho' </abbr> so long as you are kind in your Care of that Concern <lb/>I shall
+Endeavour to continue to you a Considerable part of the Consign=<lb/>-ments. your Goods to <abbr expan="Esquire ">Esqr. </abbr>
+Wormeley per Burford Came safe to hand, Except <lb/>the White <abbr expan="sugar ">sugr. </abbr> wch. Cannot be heard of, Burford
+<sic corr="says, ">sayes,</sic> it never Came Aboard <lb/>pray Enquire into it, and <sic corr="set ">sett</sic> the thing to Rights. In the Ballance of
+your <lb/>Last Accot. Currtt. you <sic corr="Debit ">Debitt</sic> your self to that Estate &pound;76:-:8 besides 21 hogsheads
+<lb/>unaccounted for, 15 of wch. your <abbr expan="Letters ">Lettrs. </abbr> <sic corr="says, ">sayes,</sic> are sold, 6 <sic corr="Remains ">Remaines</sic> unsold <lb/>of them you hope to
+make Eleven pence per pound or more soe far in <lb/>answer to your <abbr expan="Letters ">Lettrs. </abbr></p>
+
+<p>In Regard you are like to have the most money, I have here En=<lb/>-closed sent an Invoice for
+goods for the provision of <abbr expan="Esquire ">Esqr. </abbr> Wormeleys <lb/>family, and Desire you to send them in, in some good
+<sic corr="Ship">Shipp</sic> bound <lb/>for this River Upon the proper Accot. &amp; <sic corr="risk ">risque</sic> of that Estate Marking them
+<lb/>wth. the <sic corr="Tobacco ">Tobaccoe</sic> Mark, &amp; Consigning them to me as One of the <abbr expan="Executors">Exrs. </abbr> as <lb/>Aforesaid, And
+so I Desire you'll <sic corr="let ">lett</sic> your Accot. Run. have, Not Else upon <lb/>this Subject at present but
+Res<add resp="editor">[pec]</add>t<add resp="editor">[s]</add></p>
+
+<closer>Your humble Servant. </closer>
+
+</div1>
+</body>
+
+<back>
+<div1 type="notes">
+<head>NOTES</head>
+
+<note><hi rend="italics">Source copy consulted:</hi> Christ Church Parish, Lancaster County, Processioners' Returns, 1711-1783,and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond, 142.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence to merchants abroad. The county and colony
+ have been added for clarity.</note>
+
+<note id="n1">[1] John Burford commanded the <hi rend="italics">Elizabeth and Mary</hi>, a London ship of 20 men and 10
+guns, built at Ipswich in 1697, and of 250 tons. She was owned by Goodwin and Mathews, Samuel
+Landford, Nicholas Goodwin, William Holditch, and Job Mathews.  This ship sank during a voyage to
+Virginia in the winter of 1701-1702; John Burford later commanded the <hi>Mansfield</hi> by which Carter sent
+tobacco to London. (<bibl n="A19">1700 Convoy List</bibl>; <bibl n="M4">Naval
+officer's return for Rappahannock River, CO5/1441, ff. 13)</bibl></note>
+
+<note><hi rend="italics">This text revised June 5, 2008.</hi></note>
+
+</div1>
+</back>
+</text>
+
+
+</TEI.2>

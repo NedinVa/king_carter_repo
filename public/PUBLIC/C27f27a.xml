@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C27f27a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to John Gale, June 27, 1727
+</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 7 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C27f27a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2003, 2013</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to John Gale, June 27, 1727
+</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted:  Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1727-06-27</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C27f27aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1727-06-27"></date>
+<idno rend="suppress">C27f27a.xml</idno>
+<title>Letter from Robert Carter to John Gale, June 27, 1727
+</title>
+</bibl>
+</head>
+<p>Robert Carter writes a friendly letter to Glasgow merchant John Gale, June 27, 1727, because he has the opportunity by a Glasgow ship, wishing Gale well, and asking his help in obtaining a gardener.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note target="n1">John Gale,</note> June 27, 1727</head>
+<opener>
+<dateline>
+<pb n="1"/>
+Mr. John Gale&nbsp;&nbsp;&nbsp;&nbsp;<name type="place"><add resp="editor">[Rappahannock, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;
+<date value="1727-06-27">June the 27th. 1727</date><lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+
+
+<p>I do not find I have answered your <abbr expan="favour">favr:</abbr> of the <lb/>10th of November by <note target="n2"><abbr expan="Captain">Capt:</abbr> Kelsick</note> I am in no doubt of your <del>doing yor:</del><lb/>best Endeavour in the Dispose of my 12 hhds: by the <name type="ship">Crown</name> The goodness <lb/>of the <abbr expan="tobacco">Tobbo:</abbr> I am in hopes <sic corr="hath">has</sic> <sic corr="Carried">Carryed</sic> it of at the Top of your market <lb/>Yor: Countryman <note target="n3">Bowman</note> taking his leave of me this day I <sic corr="thought">thot</sic> <lb/>it proper to give you the trouble of this Line wishing you all Imagin<lb/>able prosperity I am </p>
+
+<closer>Sir, Yor: most humble Servt:
+<seg type="postscript"><lb/><lb/>I am yet in want of a <sic corr="gardener">Gardner</sic> &amp;<lb/>Should be obliged to you if you can <lb/>procure one for me
+<lb/>per <abbr expan="Captain">Capt:</abbr> Bowman</seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter letter book, 1727 May-1728 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1] John Gale (c. 1760s-1729) was a Whithaven merchant whom Carter would write a number of times times between1720 and 1729. "Like his brothers John was engaged in maritime trade. Operating as John Gale and Company, he was named as the owner of the vessel <hi rend="italics">Clotilda,</hi> built in England in 1726 and registered in Whitehaven in 1727 at 25 tons." The Gale family had many connections with the colonies, especially in Virginia and Maryland. <cit><bibl>(Gayle N.Mandell, <xref to="http://gale-gaylefamilies.com/john-gayle-the-elder-whitehaven-cumberland.html">"The Gale/Gayle Families,"</xref> extensive genealogical and historical notes available online.</bibl></cit>)</note>
+
+<note id="n2">[2] Carter noted in his diary January 19,  1727, the arrival of the <hi  rend="italics">Mazareen</hi> at his house and a visit from her captain, Richard Kelsick, four days earlier.  Kelsick, with Peter How, a merchant of Whitehaven (on the Irish sea in northwest England), traded with the Fredericksburg, Virginia, area from the early 18th century.  (<cit><bibl>Paula S. Felder. "Fredericksburg and Whitehaven Connection to English Port a Forgotten Chapter in Area's Colonial History Living-history Program," <title>Fredericksburg Free-Lance Star, </title>7/2/2005.</bibl></cit>)</note>
+
+<note id="n3">[3] Captain Samuel Bowman commanded the <hi rend="italics">Lucia.</hi> Carter mentioned this vessel in his diary in June 1724, and again on 1726 March 4 when he wrote that she "came in had 20 Weeks Passage."</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2003, was revised November 20, 2012, and again on June 11, 2013, to strengthen the footnotes and modern language version text.</hi></note>
+
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>
