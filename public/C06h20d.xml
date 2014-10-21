@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="Co6h20d">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Francis Lee, August 20, 1706</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 7 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">filename</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Francis Lee, August 20, 1706</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>x p.</extent>
+<publicationStmt>
+     <date>unpublished</date>
+   <idno type="callNo">Source copy consulted:  Christ Church Parish, Lancaster County, Processioners' Returns, 1711-1783,and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond, 173.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1706-08-20</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C0h20dT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 pp.</extent>
+<date value="1706-08-20"></date>
+<idno rend="suppress">C0h20d</idno>
+<title>Letter from Robert Carter to Francis Lee, August 20, 1706</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant Francis Lee, August 20, 1706, that it seems that the tobacco shipped on board James Morgan's ship should fetch a good price since  "this long Stay of the Convoy hath very much raised the price of Tobo." He adds that the sons of Ralph Wormeley are expected with the next fleet and that their mother has engaged passage on Thomas Graves's ship. He reports bills of exchange drawn on Lee for impost on tobacco belonging to the Wormeley estate shipped on Benjamin Silvester's and Thomas Graves's ships.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="FL">Francis Lee,</note> August 20, 1706</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add><lb/></name>
+<date value="1706-08-20">Augt. 20th. 1706</date><lb/>
+Mr Fra: Lee<lb/>
+Sr
+
+</dateline>
+</opener>
+
+<p>I have already <sic corr="written ">writt</sic> to you by the Fleet &amp; Consigned you <lb/>Some Tobo. belonging to <note n="RW">the Estate</note> I am now upon <lb/>yours of the 29th of <abbr expan="November ">Novr. </abbr> I shall take no further no=<lb/>=tice of the Contents than what relates to the Tobo. on <lb/>board <name type="person"><add  resp="editor">[James]</add> Morgan</name> I hope his missing his port was an <lb/>advantage to it all agree this long Stay of the Convoy <lb/><sic corr="has ">hath</sic> very much raised the price of Tobo.</p> 
+                             
+<p>We expect the <note target="n1">young <sic corr="Wormelys ">Wormelyes</sic></note> will be Sent <lb/>by the next fleet I think their Mother has <corr resp="editor">[engaged]</corr>  <lb/>Graves for the bringing them in I desire it <add  resp="editor">[may be so. He]</add> <lb/>promises to be the fittest man for such a <add  resp="editor">[task. I]</add> <lb/>take leave &amp; remain <lb/><lb/>
+<abbr expan="Sir ">Sr </abbr><lb/>  
+your most humble <add  resp="editor">[Servt]</add></p><lb/><lb/>
+ 
+ <p><seg type="postscript">I have drawn on you for &pound;1:9S:0d to <lb/><abbr expan="Captain ">Capt.</abbr> <name type="person">Ben: Silvester</name> &amp; for &pound;3:12 <lb/>to <abbr expan="Captain ">Capt </abbr> <note target="n1"><name type="person"><abbr expan="Thomas ">Tho: </abbr> Graves</name></note> being for the <lb/><note target="n3">Impost</note>  of Tobo. belonging to the Wormelys <lb/>Estate, must desire you therefore to pay <lb/>them according to time. </seg></p>
+
+
+
+</div1>
+
+</body>
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+<note><hi rend="italics">Source copy consulted:</hi>  Christ Church Parish, Lancaster County, Processioners' Returns, 1711-1783,and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond, 173.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note><lb/>
+
+<note id="n1">[1] Carter often referred to in their youth as his "Cozns." Ralph Wormeley (ca. 1681-1714), Ralph Wormeley's (d.1701) oldest son; and John Wormeley (1689-1727) because their parents were his brother- and sister-in-law. He was one of the boys' trustees under their father's will.</note>
+
+
+<note id="n2">[2] Thomas Graves commanded the <hi rend="italics">America</hi>, which was, according to the "1700 Convoy List,"  a London vessel of eighteen men and eighteen guns. A naval officer's return shows that she had been built at Ipswich in 1691, was 250 tons in size, and was owned by Sir Richard 
+Levett, Robert Bristow, Esq., Arthur Bailey, John Cary, Micajah Perry, Thomas Lane, Anthony [. . .] Hope for Bendall and Mary Johnson. (<cit><bibl n="A19">Middleton,  "The Chesapeake Convoy System, 1662-1763."</bibl></cit> and <cit><bibl n="M4">Naval Officer's Return, 1700 February 19-June 24.</bibl></cit>)</note>
+
+<note id="n3">[3]  The impost was the duty imposed by Britain on imported tobacco.</note>
+
+
+<lb/><lb/><note><hi rend="italics">This text revised July 22, 2008.</hi></note>
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

@@ -1,0 +1,228 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C05g06a">
+
+<teiHeader type="aacr2"> 
+              
+<fileDesc> 
+<titleStmt> 
+     <title type="245">Letter from Robert Carter to Thomas Corbin, 1705 July 6</title> 
+   <title type="gmd">[electronic resource]</title> 
+     <author>Carter, Robert</author> 
+   <respStmt> 
+     <resp>Creation of machine-readable version: </resp> 
+     <name id="editor">Edmund Berkeley, Jr.</name> 
+
+     <resp>Conversion to TEI.2-conformant markup</resp> 
+     <name>Edmund Berkeley, Jr., and the University of Virginia Library Electronic Text Center</name>
+   </respStmt> 
+</titleStmt> 
+ 
+<extent>ca. 10 kilobytes </extent> 
+ 
+<publicationStmt> 
+     <publisher>University of Virginia Library.</publisher> 
+     <pubPlace>Charlottesville, Va.</pubPlace> 
+     <idno type="ETC"></idno> 
+     <availability> 
+     <p>Publicly accessible</p> 
+     <p n="public">URL: http://etext.lib.virginia.edu/modeng.browse.html</p> 
+         </availability> 
+     <date>2001</date> 
+</publicationStmt> 
+ 
+<sourceDesc> 
+     <biblFull> 
+     <titleStmt> 
+     <title>Letter from Robert Carter to Thomas Corbin, 1705 July 6</title> 
+  
+     
+     <author>Robert Carter</author> 
+</titleStmt>
+    <extent>2 p.</extent> 
+
+<publicationStmt> 
+     <date>1705-07-06</date> 
+   <idno type="callNo"> Source copy consulted: Christ Church Parish, Lancaster County, 
+Processioners' Returns, 1711-1783,and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, 
+Archives Research Services, Library of Virginia, Richmond. 163-164. Extract printed William 
+and Mary Quarterly, 1st. ser., 17(1909)257-258.</idno> 
+</publicationStmt> 
+</biblFull> 
+</sourceDesc> 
+ 
+</fileDesc> 
+     <encodingDesc> 
+     <projectDesc> 
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p> 
+     </projectDesc> 
+<editorialDecl> 
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in establishing 
+analytical groupings.</p> 
+</editorialDecl> 
+ 
+<classDecl> 
+     <taxonomy id="LCSH"> 
+     <bibl> 
+     <title>Library of Congress Subject Headings</title> 
+     </bibl> 
+     </taxonomy> 
+</classDecl> 
+</encodingDesc> 
+ 
+<profileDesc> 
+     <creation> 
+     <date>1705-07-06</date> 
+     </creation> 
+     <langUsage> 
+     <language id="eng"></language> 
+     </langUsage> 
+     <textClass> 
+     <keywords> 
+     <term>non-fiction</term> 
+   <term>prose</term> 
+     </keywords> 
+     <keywords scheme="LCSH"> 
+     <term type="Field650">LCSH</term> 
+     </keywords> 
+     </textClass> 
+</profileDesc> 
+ 
+</teiHeader> 
+ 
+<text id="C05g06aT">
+
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 pp.</extent>
+<date value="1705-07-06">July 6, 1705</date>
+<idno rend="suppress">C05g06a</idno>
+<title>Letter from Robert Carter to Thomas Corbin, 1705 July 6</title>
+</bibl>
+</head>
+<p>Robert Carter writes to London merchant Thomas Corbin, 1705 July 6, that he has received several letters from him, and was pleased to learn that there will be a new governor for the colony. He reports that he has drawn a bill of exchange on Corbin  for the purchase of slaves for the estate of Ralph Wormeley,  that he is sending 20 hogsheads of tobacco from the estate's York River farms, and adds a lenthy remark about loading some 90 hogsheads on board the ship the Corbin and that Corbin should consult Micajah Perry for the details. He notes that Francis Lee has written that Ralph Wormeley's sons, then in England at school, have expressed their desire to return to Virginia which their mother favors and that he accedes to her wishes, but would not act without the approval of the other trustees of which Corbin is also one. He concludes by noting that he has received a pipe of wine from Corbin's brother Gawin and that Thomas Corbin should charge the cost to the Wormeley estate and he will settle with the estate which is indebted to him.</p>
+</div1>                 
+</front>
+
+ 
+<body> 
+ 
+<div1 type="letter" n="1705-07-06"> 
+ 
+<head>Robert Carter to <note n="TC">Thomas Corbin</note>, July 6, 1705</head> 
+ 
+<opener> 
+ 
+<dateline>
+<pb n="1"/> 
+<name type="place">Rappa<add resp ="editor">[hannock, Lancaster County, Virginia]</add></name><lb/> 
+ 
+<date value="1705-07-06">July 6th. 1705</date><lb/> 
+ Mr. Tho: Corbin<lb/>
+</dateline> 
+                                              
+<salute><abbr expan="Sir">Sr. </abbr></salute> 
+ 
+</opener> 
+ 
+<p>My Last was of the 26th of <abbr expan="February ">Febry </abbr> &amp; went by the <name type="ship">Eagle Galley</name> 
+<name type="person"><abbr expan="Captain">Capt.</abbr> <lb/>Snelgrave</name> I then advised you of the <sic corr="receipt ">receit</sic> of your Letters of 
+the 14th of October &amp; the <unclear>[ . . . ]  </unclear><lb/>of <abbr expan="January ">Janr </abbr>. I have since received yours of 
+June date sent by the way of <name type="place">Pensylv<add resp="editor">[ania]</add></name> 
+<lb/><abbr expan="it was ">'twas</abbr> near a 12 month on its Voyage I have also yours by the <note n="n1"><name 
+type="ship">Levett</name></note> <lb/>the postscript the most pleasing part of it wherein you tell me 
+you bel<add resp="editor">[ieve]</add> <lb/>there will be a <note target="n2">Change</note>, <note n="GC1">Yor. Brother</note> &amp; the rest tht. hold the places of <sic corr="Profitt ">Profitt </sic>
+ha<add resp="editor">[th]</add> <lb/>been &amp;c's. most Zealous Advocates &amp; resolve to Continue 
+<sic corr="so ">soe</sic> I only wish <add resp="editor">[that]</add><lb/>they were Carving out their own fate &amp; <abbr expan="then ">thn. </abbr> I shall 
+say God send <abbr expan="them ">thm. </abbr> such a <lb/>Regimen to their lives end. The Confusions the Country is under at present 
+y<add resp="editor">[ou]</add> <lb/>will hear enough of from other hands wch. perhaps you'l give more 
+Cre<add resp="editor">[dit]</add> <lb/>to thn. mine but I'l leave this Subject&mdash; 
+</p> 
+ 
+<p>Since the going of the Eagle Galley Yor. Brother &amp; I have draw<add resp="editor">[n on]</add> 
+<lb/>you for &pound;90 on accot of the Estate <add place="supralinear">of <note n="RW"><abbr expan="Esquire ">Esqr. </abbr> Wormeley</note></add> 
+being for Negroes <abbr expan="bought ">bot. </abbr> for the <add resp="editor">[estate]</add> <lb/>payable to <note n="WC1">Wm. 
+Churchill</note> wch. desire you to Answer &amp; place to <add resp="editor">[that account]</add> 
+<lb/>There is now Sent to you per the Levett what Tobo. was in 
+<sic corr="York">Your</sic><add resp="editor">[k River]</add> <lb/>of 20 hogsheads if I <sic corr="forget ">forgett</sic> not I had 
+likewise ordered <note target="n3">Cudly</note> <unclear>[ . . . ]</unclear> <lb/>but he like a sorry 
+<sic corr="mortal ">mortall</sic> as he is for tht. Station hath <add resp="editor">[drawn]</add> <lb/>a bill of Lading for wch. is 
+inclosed the <note target="n4">Impost</note> I have draw<add resp="editor">[n on you]</add> <lb/>I might here entertain you with a 
+Long Story relating to <unclear>[ . . . ]</unclear> <lb/>befriended <add place="supralinear">her</add> 
+all I could have loaded <add place="supralinear">on her</add> 90 ninety hhds with 
+<add resp="editor">[my]</add> <lb/>vessels &amp; people for wch. I charge but 1/2 a Crown I 
+beli<add resp="editor">[eve you'll]</add> <lb/>find all the rest of his Tobacco Stands him in at Least  
+<unclear>[ . . . ]</unclear> <lb/>Your Brother may give you an Accot. I was the Occasion 
+<add resp="editor">[of]</add> <lb/>Letting the freight so Low I therefore think it necessary 
+pla<unclear>[ . . . ]</unclear> <lb/>deny it to you told him I would have no hand in't he 
+sh<add resp="editor">[ould]</add> <lb/>wholely answer for it himself Only tht If I shipt on your 
+shi<add resp="editor">[p]</add> <lb/>should be on those termes I have writt largely to <note 
+n="MP">Mr. Perry</note> <unclear>[ . . . ]</unclear> <lb/>head from whom you may have 
+it&mdash;</p> 
+ 
+<p>Mr. <note n="FL">Fra: Lee</note> in his last letter to me intimates the <note 
+target="n5">young W<add resp="editor">[ormeleys]</add></note> <lb/>desire to come in &amp; seems to 
+Advise it himself their Mother is very <add resp="editor">[much]</add> <lb/>for it &amp; hath undertaken to 
+put yor. Brother &amp; her Brother Armi<add resp="editor">[stead]</add> <lb/>upon writing for them 
+&amp; truly considering tht Ralph draws tow<add resp="editor">[ard]</add> <lb/>manhood apace Seeing his 
+fortune promises him no other thn. a Vir<add resp="editor">[ginia]</add> <lb/>Life too long a taste of the 
+town may do him harm &amp; to be somewh<add resp="editor">[at]</add> <lb/>acquainted with plantation 
+Affairs before they come to be men i<add resp="editor">[s]</add> <lb/>of Extraordinary use to thm. I have 
+therefore so <sic corr="far ">farr</sic> followed <add resp="editor">[their]</add> <lb/>Moth<add resp="editor">[ers wishes?]</add> to 
+give my Sentiments to Mr. Lee for the send<add resp="editor">[ing]</add>  
+ 
+<pb n="2"/><lb/> 
+them in I <add place="supralinear">have</add> thought it necessary to acquaint you therewith being 
+<lb/>a Joint Guardian to <abbr expan="them ">thm. </abbr> wth me It is so considerable an act <lb/>I would by no means direct it 
+without the consent of the rest of the <lb/><abbr expan="Gentlemen ">Gent. </abbr> therefore pray let Mr. Lee know your opinion I have 
+<lb/>no other ends in it but the future wellfare of our wards wch <lb/>seems to me will be best advanced 
+by <abbr expan="their ">thr </abbr>. speedy coming in for <lb/>other news you will have it at large by the masters I have recd <lb/>of your 
+Brothr. Corbin a pipe of your wine if you will <sic corr="Debit ">Debitt</sic> <lb/>the young Wormeleys account for it I shall 
+answer it to thm. <lb/>they are more in my Debt <abbr expan="than ">thn </abbr>. tht come to I return you my <lb/>thanks for the 
+favour &amp; <sic corr="remain ">remaine</sic> <abbr expan="Sir">Sr </abbr></p> 
+ 
+<closer>Your very humble Servt. </closer> 
+ 
+</div1> 
+</body> 
+ 
+<back> 
+<div1 type="notes"> 
+<head>NOTES</head> 
+
+<note><hi rend="italics">Source copy consulted:</hi> Christ Church Parish, Lancaster County, Processioners' Returns, 1711-1783,and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond. 163-164. Extract printed <title>William and Mary Quarterly</title>, 1st. ser., 17(1909): 257-258.</note> <lb/>
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note><lb/>
+
+<note id="n1">[1] The ship <hi rend="italics">Levet</hi> (<hi rend="italics">Level</hi>, <hi rend="italics">Levitt</hi>, etc.) appears several times in the <title>Executive Journals of the Council. . .</title> in 1705; she was commanded by Captain Thomas Bagwell, and was a 310 ton vessel carrying 22 guns and 40 men. (<cit><bibl n="A23">"List of Ships . . . 1705."</bibl></cit>)</note> 
+ 
+<note id="n2">[2] Carter refers to the replacement of Francis Nicholson as governor. Colonel Edward Nott, lieutenant governor, arrived in Williamsburg August 12, 1705.</note> 
+ 
+<note id="n3">[3] Richard Cudlip was mate of the <hi rend="italics">Corbin</hi>, and succeeded to the command when Captain Robert Tayloe died after reaching Virginia.</note> 
+
+<note id="n4">[4]  The impost was the duty imposed by Britain on imported tobacco.</note>
+
+ 
+<note id="n5">[5] RC had been among the trustees for the young sons, Ralph (ca. 1681-1714) and John (1689-1727), of Ralph Wormeley after their father's death.</note> 
+
+<lb/><lb/><note><hi rend="italics">This text revised July 1, 2008.</hi></note>
+ 
+</div1> 
+</back> 
+</text> 
+ 
+</TEI.2>
