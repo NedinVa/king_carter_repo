@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,9 +106,9 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
+Mr. John Mercer&mdash;&nbsp;&nbsp;&nbsp;&nbsp;<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;
 <date value="1728-05-22">May the. 23d: 1728</date><lb/>
-Mr. John Mercer&mdash;<lb/>
+<lb/>
 </dateline>
 
 
@@ -116,16 +116,16 @@ Mr. John Mercer&mdash;<lb/>
 
 <p><abbr expan="Yours">Yors:</abbr> of the 9th Instant came to me the 21st: you <lb/>seem to be in a great deal of <sic corr="haste">hast</sic> for the Consummation of <abbr expan="our">or.</abbr> bargain <lb/>but <sic corr="we">wee</sic> must not make more <sic corr="haste">hast</sic> than good speed I have <sic corr="written">writ</sic> to <lb/><note n="NS">Colonel Smith</note> an Account of the Treaty between us and I <sic corr="believe">beleive</sic> if he <lb/>can be secure of his money in my hands he will be patient <sic corr="until">till</sic> <sic corr="we">wee</sic> <lb/>can finish the matter as <sic corr="we">wee</sic> ought,</p>
 
-<p>You have Sent me <abbr expan="Alexander">Alexr:</abbr> Waughs Deed to <note target="n2">Colonel <lb/>Mason</note> but you have not Sent me <abbr expan="Joseph">Jos.</abbr> Waughs Deed to his Brothers <lb/>John. Alexander and David, These I must see before I can be well <lb/>Apprized of all the Circumstances of the Case, neither have you Sent 
+<p>You have Sent me <note target="n2"><abbr expan="Alexander">Alexr:</abbr> Waughs</note> Deed to <note target="n3">Colonel <lb/>Mason</note> but you have not Sent me <note target="n4"><abbr expan="Joseph">Jos.</abbr> Waughs </note>Deed to his Brothers <lb/>John. Alexander and David, These I must see before I can be well <lb/>Apprized of all the Circumstances of the Case, neither have you Sent 
 
 <pb n="2"/><lb/><lb/>
-me the clear proof you promised of the time of your wifes age, by Mrs. Pear=<lb/>sons Testimony and others. There is a further thing necessary to be done <lb/>before I can tell how to draw the Deeds that is to run the dividing line <lb/>between Colonel Mason and you with his Approbation &amp; Consent, and <lb/>to run the side lines of your 1610 Acres leaving a full division of the Fifth <lb/>part of the last <add place="supralinear">great</add> Tract into David Waughs part in making these Lines &amp; <lb/>returning me a platt Mr. <note target="n3">John Warner</note> the Surveyor hath full ins<lb/>tructions from me and will be ready to do it when you &amp; Colonel Mason <lb/>will appoint the time, This work you will have <del>[illegible]</del> in your power to hasten <lb/>You know also there is a <sic corr="joint">Joynt</sic> Bond to be <sic corr="Signed">Signd</sic> by Colonel Mason &amp; you <lb/>for the repayment of the money for the 400 and odd Acres Surplus land <lb/>in Case the Judgement of Law should be that your wife has no right <lb/>to it, this bond must be Executed before I pay my money.</p>
+me the clear proof you promised of the time of your wifes age, by Mrs. Pear=<lb/>sons Testimony and others. There is a further thing necessary to be done <lb/>before I can tell how to draw the Deeds that is to run the dividing line <lb/>between Colonel Mason and you with his Approbation &amp; Consent, and <lb/>to run the side lines of your 1610 Acres leaving a full division of the Fifth <lb/>part of the last <add place="supralinear">great</add> Tract into David Waughs part in making these Lines &amp; <lb/>returning me a <note target="n5"><sic corr="Plat">Platt</sic></note> Mr. <note target="n6">John Warner</note> the Surveyor <sic corr="has">hath</sic> full ins<lb/>tructions from me and will be ready to do it when you &amp; Colonel Mason <lb/>will appoint the time, This work you will have <del>[it]</del> in your Power to hasten <lb/>You know also there is a <sic corr="joint">Joynt</sic> Bond to be <sic corr="Signed">Signd</sic> by Colonel Mason &amp; you <lb/>for the repayment of the money for the 400 and odd Acres Surplus land <lb/>in Case the Judgement of Law should be that your wife has no right <lb/>to it, this bond must be Executed before I pay my money.</p>
 
 <p>I find the Deeds of <abbr expan="Joseph">Jo:</abbr> Waughs and Alexander <lb/>not to be worded alike Alexanders is not so Strong in favour of the <lb/>Surplus Lands as <abbr expan="Joseph">Jo:</abbr> Waughs is, therefore I have the more reason to <lb/>desire the Sight of <abbr expan="Joseph">Jo:</abbr> Waughs Deeds to his Several Brothers,</p>
 
 <p>As for your <sic corr="losing">looseing</sic> by the rate now <sic corr="Set">Sett </sic>upon Silver <lb/>that need not trouble you my payment will be most in Gold, My <lb/>Son <note n="CC1">Charles</note> I reckon will be up at the Falls about the 10th of next month <lb/>and that will Suit pretty well with your time of Stafford Court I am </p>
 
-<closer>Yor. humble Servt.</closer>
+<closer>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. humble Servt.</closer>
 
 
 </div1>
@@ -143,19 +143,25 @@ me the clear proof you promised of the time of your wifes age, by Mrs. Pear=<lb/
 
 <note>The name of Carter's home, "Corotoman," the county, and colony have been added for clarity to this unheaded draft. .</note>
 
-<note>Mercer owed money to Colonel Nicholas Smith whose attorney was pressing Mercer for payment of the debt. See Carter's <ref n="C28e23a.xml">letter to Smith</ref> 1728 May 23 for details.</note>
+<note>Mercer owed money to Colonel Nicholas Smith whose attorney was pressing Mercer for payment of the debt. See Carter's letter to Smith<xref to="http://carter.lib.virginia.edu/html/C28e23a.html"> May 23, 1728</xref>, for details.</note>
 
 <note id="n1">[1] John Mercer (1704-1768) emigrated from Ireland where he had been
-trained as an attorney. "He settled at Marlboroughtown in 1726 as a practicing attorney and at once allowed a facile pen to get him into trouble with the government." He eventually lost his license to practice law, and turned to the land speculation that he had begun as soon as he reached Virginia. "He married first on June 10, 1725 Catherine Mason (June 21, 1707-June 15, 1750) only child of Colonel George Mason (16??-1716) and his second wife Elizabeth Waugh, daughter of the Reverend Mr. John Waugh."(<cit><bibl n="B4">Harrison. <title>Landmarks of Old Prince William</title> p. 315;</bibl></cit>  <cit><bibl n="B24">Copeland and MacMaster. <title>The Five George Masons.</title></bibl></cit>; and "John Mercer."  http://www.rootsweb.com/~vastaffo/johnmercer.htm  11/4/03)</note>
+trained as an attorney. "He settled at Marlboroughtown in 1726 as a practicing attorney and at once allowed a facile pen to get him into trouble with the government." He eventually lost his license to practice law, and turned to the land speculation that he had begun as soon as he reached Virginia. "He married first on June 10, 1725 Catherine Mason (June 21, 1707-June 15, 1750) only child of Colonel George Mason (16??-1716) and his second wife Elizabeth Waugh, daughter of the Reverend Mr. John Waugh."(<cit><bibl n="B4">Harrison. <title>Landmarks of Old Prince William</title> p. 315;</bibl></cit>  <cit><bibl n="B24">Copeland and MacMaster. <title>The Five George Masons.</title></bibl></cit>;  <xref to="http://www.rootsweb.ancestry.com/~vastaffo/johnmercer.htm">"John Mercer."</xref>)</note>
 
-<note id="n2">[2] George Mason III (c. 1690-1735), justice, sheriff, burgess, and
-county lieutenant of Stafford County, father of the constitutional theorist. (<cit><bibl n="B24">Copeland and MacMaster, <title>The Five George Masons.</title> pp. 50-86</bibl></cit>; and <cit><bibl>George Harrison Sanford King, <title>The Register of Overwharton Parish Stafford County Virginia 1723-1758 And Sundry Historical and Genealogical Notes</title>. [Fredericksburg, VA: privately printed, 1961.]</bibl></cit>)</note>
+<note id="n2">[2] Alexander Waugh was Mercer's wife, Elizabeth's, brother.  (See "<xref to="http://www.geni.com/people/Rev-John-Waugh/6000000007351403871">Rev. John Waugh</xref>.") </note>
 
-<note id="n3">[3] John Warner was the surveyor of King George County in 1727; he
+<note id="n3">[3] George Mason III (c. 1690-1735), justice, sheriff, burgess, and county lieutenant of Stafford County, father of the constitutional theorist. (<cit><bibl n="B24">Copeland and MacMaster, <title>The Five George Masons.</title> pp. 50-86</bibl></cit>; and <cit><bibl>George Harrison Sanford King, <title>The Register of Overwharton Parish Stafford County Virginia 1723-1758 And Sundry Historical and Genealogical Notes</title>. [Fredericksburg, VA: privately printed, 1961.]</bibl></cit>)</note>
+
+<note id="n4">[4] Joseph was the brother of Alexander and Elizabeth.   (See "<xref to="http://www.geni.com/people/Rev-John-Waugh/6000000007351403871">Rev. John Waugh</xref>.") </note>
+
+<note id="n5">[5]  A plat results from making "a plan or map of; to draw to scale; to plot. . . . Also: to divide up or determine the boundaries of (an area of land) using a scale plan."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
+
+<note id="n6">[6] John Warner was the surveyor of King George County in 1727; he
 laid off the town of Falmouth in 1728. Later he worked for Lord Fairfax, and prepared an important map
 of his holdings. (<cit><bibl n="B4">Harrison,  <title>Landmarks of Old Prince William</title>, 626-
 628.</bibl></cit>)</note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised October 10, 2014,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 
