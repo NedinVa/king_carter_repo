@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -48,7 +48,7 @@
      <title>Letter from Robert Carter to Captain John Hyde &amp; Company, May 25 and July 9, 1728</title>
      <author>Robert Carter</author>
 </titleStmt>
-    <extent>3 p.</extent>
+    <extent>2 p.</extent>
 <publicationStmt>
      <date></date>
    <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond.</idno>
@@ -88,13 +88,13 @@
 <head>
 <bibl>
 <abbr>AL</abbr>
-<extent>3 p.</extent>
+<extent>2 p.</extent>
 <date value="1725-05-25"></date>
 <idno rend="suppress">C28e25e.xml</idno>
 <title>Letter from Robert Carter to Captain John Hyde &amp; Company, May 25 and July 9, 1728</title>
 </bibl>
 </head>
-<p>Robert Carter writes to London merchant Captain John Hyde &amp; Company, May 25 , 1728, to report the arrival of goods, letters,  and accounts sent in the <hi rend="italics">Carter,</hi> and that he will review the accounts later. He solicits Hyde's support of the colony's effort to have the prohibition against the importation of stemmed tobacco into England removed, and asks the merchant to order two pipes of the best madeira wine from Mr. Miles there. In a brief post script dated July 9th, informs Hyde of bills of exchange.</p>
+<p>Robert Carter writes to London merchant Captain John Hyde &amp; Company, May 25 , 1728, to report the arrival of goods, letters,  and accounts sent in the <hi rend="italics">Carter,</hi> and that he will review the accounts later. He solicits Hyde's support of the colony's effort to have the prohibition against the importation of stemmed tobacco into England removed, and asks the merchant to order two pipes of the best Madeira wine from Mr. Miles there. In a brief post script dated July 9th, informs Hyde of bills of exchange.</p>
 </div1>                 
 </front>
 
@@ -106,7 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;
 <date value="1725-05-25">May the 25th: 1728</date><lb/>
 Capt: John Hyde &amp; Company<lb/>
 </dateline>
@@ -114,25 +114,25 @@ Capt: John Hyde &amp; Company<lb/>
 
 </opener>
 
-<p>The goods you Sent me in the <note n="CS">Carter</note> came <lb/>Safe as did your Letters and Accounts, There is a <sic corr="piece">peice</sic> of Dowles <lb/>H:C. that wee cannot find among the goods, You Shall hear <lb/>more of it hereafter, I shall take a time to <sic corr="overhaul">overhall</sic> my Accot. of <lb/>Sales and if I find any Error Shall advise you of it, An Accot. of <lb/>my <abbr expan="Tobacco">Tobbo:</abbr> that went in the Carter is all that I think I want from <lb/>you I have Spent so much of my time at <abbr expan="Williamsburgh">Wm:Burgh</abbr> that I <lb/>have had little to Spare for my private Affairs,</p>
+<p>The goods you Sent me in the <note n="CS">Carter</note> came <lb/>Safe as did your Letters and Accounts, There is a <note target="n1"><sic corr="piece">peice</sic> of Dowles</note> <lb/>H:C. that <sic corr="we">wee</sic> cannot find among the goods, You Shall hear <lb/>more of it hereafter, I shall take a time to <sic corr="overhaul">overhall</sic> my Accot. of <lb/>Sales and if I find any Error Shall advise you of it, An Accot. of <lb/>my <abbr expan="Tobacco">Tobbo:</abbr> that went in the Carter is all that I think I want from <lb/>you I have Spent so much of my time at <abbr expan="Williamsburgh">Wm:Burgh</abbr> that I <lb/>have had little to Spare for my private Affairs,</p>
 
-<p>Herein comes a bill of Lading for 20 hogsheads of my <lb/>Crop <abbr expan="Tobacco">Tobbo:</abbr> on board <add place="supralinear">your</add> Ship Providence <note target="n1"><abbr expan="Captain">Capt:</abbr> Woodward</note> will best <lb/>relate to you the news from hence he hath got his Ship full <lb/>rather than he Should have wanted I would have put Some <lb/>more into him, I have <sic corr="ordered">orderd</sic> you Some of <note n="NB">Mr. Burwells</note> <abbr expan="Tobacco">Tobbo.</abbr>  <lb/>out of York river. The Crop in this river tht. belongs to tht. Estate <lb/>I intend you by the Carter.</p>
+<p>Herein comes a <note target="n2">bill of Lading</note> for 20 hogsheads of my <lb/>Crop <abbr expan="Tobacco">Tobbo:</abbr> on board <add place="supralinear">your</add> Ship Providence <note target="n3"><abbr expan="Captain">Capt:</abbr> Woodward</note> will best <lb/>relate to you the news from hence he <sic corr="has">hath</sic> got his Ship full <lb/>rather <corr resp="editor">]sooner]</corr> than he should have wanted I would have put some <lb/>more into him, I have <sic corr="ordered">orderd</sic> you some of <note n="NB">Mr. Burwells</note> <abbr expan="Tobacco">Tobbo.</abbr>  <lb/>out of York river. The Crop in this river tht. belongs to tht. Estate <lb/>I intend you by the Carter.</p>
 
-<p>The Country is so much <sic corr="aggrieved">aggreived</sic> at the probhi<lb/>tion upon us from <note target="n2"><sic corr="Stemming">Steming</sic></note> our under <abbr expan="Tobacco">Tobbo:</abbr> that we have taken <lb/>all the measures in our Powers to get that restraint taken <sic corr="off">of</sic> <lb/>The Council and Burgesses have addressd the King and have <lb/><sic corr="Applied">Applyd</sic> to the <sic corr="Parliament">Parliamt.</sic> <sic corr="We">Wee</sic> have <sic corr="Employed">Employd</sic> an Agent to <sic corr="Solicit">Solicite</sic> <lb/>the Affair and I beleive most of the Considerable <abbr expan="Gentlemen">Gent</abbr> of the Country <lb/>have writ to the <abbr expan="Merchants">Merchts:</abbr> to add their Strength to our <abbr expan="Endeavors">Endeavrs:</abbr> <lb/>in procureing a <sic corr="relief">releif</sic> to us under this very greivous oppression <lb/>I am not without hopes you will be one of those that will <abbr expan="appear">appr:</abbr> <lb/>forward in Carrying on this good design for the <del>releif</del> <add place="supralinear">Advantage</add> of the trade <lb/>in General and of the <abbr expan="Planters">Plantrs.</abbr> in particular I Shall not Enter into <lb/>the Several reasons that Encourage us to hope for Success in<lb/>this undertaking Yor. own Experience and the Information <lb/>you will have from those that are yearly <sic corr="Travelers">Travellers</sic> hither <lb/>will better inform you that there is no method to be fallen <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;upon 
+<p>The Country is so much <sic corr="aggrieved">aggreived</sic> at the probhi<lb/>tion upon us from <note target="n4"><sic corr="Stemming">Steming</sic></note> our under <abbr expan="Tobacco">Tobbo:</abbr> that we have taken <lb/>all the measures in our Power to get that restraint taken <sic corr="off">of</sic> <lb/>The Council and Burgesses have addressd <note target="n5">the King</note> and have <lb/><sic corr="Applied">Applyd</sic> to the <sic corr="Parliament">Parliamt.</sic> <sic corr="We">Wee</sic> have <sic corr="Employed">Employd</sic> an Agent to <sic corr="Solicit">Solicite</sic> <lb/>the Affair and I <sic corr="believe">beleive</sic> most of the Considerable <abbr expan="Gentlemen">Gent</abbr> of the Country <lb/>have <sic corr="written">writ</sic> to the <abbr expan="Merchants">Merchts:</abbr> to add their Strength to our <abbr expan="Endeavors">Endeavrs:</abbr> <lb/>in <sic corr="procuring">procureing</sic> a <sic corr="relief">releif</sic> to us under this very <sic corr="grievous">greivous</sic> oppression <lb/>I am not without hopes you will be one of those that will <abbr expan="appear">appr:</abbr> <lb/>forward in Carrying on this good design for the <del>releif</del> <add place="supralinear">Advantage</add> of the trade <lb/>in General and of the <abbr expan="Planters">Plantrs.</abbr> in particular I Shall not Enter into <lb/>the Several reasons that Encourage us to hope for Success in<lb/>this undertaking Yor. own Experience and the Information <lb/>you will have from those that are yearly <sic corr="Travelers">Travellers</sic> hither <lb/>will better inform you that there is no method to be fallen <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;upon 
 
 <pb n="2"/><lb/><lb/>
 to prevent all the trash of our <abbr expan="Tobacco">Tobbo.</abbr> coming to market but by all <lb/>owing us the liberty of <sic corr="Stemming">Steming</sic> again thereby to Separate the good <lb/><abbr expan="Tobacco">Tobbo:</abbr> and to heave the bad away which now all <del>[illegible]</del> promis<lb/>cuously <del>to market</del> <add place="supralinear">goes <sic corr="off">of</sic></add>  to the great damage of the trade in all its <lb/>Parts,</p>
 
-<p>I would desire you to take the first Opportunity <lb/>to Send an Order to Mr. Miles of <sic corr="Madeira">Maderea</sic> to Send me a Couple <lb/>Pipes of the best of their Wine as Soon as a Conveniency presents <lb/>Such wines as he Send<corr resp="editor">[s]</corr> to you for your own drinking I am will<lb/>ing to go to the highest price that I may have of the most Celebrated <lb/>of their Wines I must own Mr. Miles hath hitherto <sic corr="Supplied">Supplyd</sic> <lb/>me very well and the last wine I had from him I think was <lb/>the best however allow me to Say yours that Capt: Woodward <lb/>brings you now pleases me better Therefore I am desirous to <lb/>have your Interest <sic corr="Joined">Joynd</sic> with mine that I may be Served <lb/>with the best Sort the Island affords I am </p>
+<p>I would desire you to take the first Opportunity <lb/>to Send an Order to <note target="n6">Mr. Miles </note>of <sic corr="Madeira">Maderea</sic> to Send me a Couple <lb/><note target="n7">Pipes</note> of the best of their Wine as Soon as a Conveniency presents <lb/>Such wines as he Send<corr resp="editor">[s]</corr> to you for your own drinking I am will<lb/>ing to go to the highest price that I may have of the most Celebrated <lb/>of their Wines I must own Mr. Miles <sic corr="has">hath</sic> hitherto <sic corr="Supplied">Supplyd</sic> <lb/>me very well and the last wine I had from him I think was <lb/>the best however allow me to Say yours that Capt: Woodward <lb/>brings you now pleases me better Therefore I am desirous to <lb/>have your Interest <sic corr="Joined">Joynd</sic> with mine that I may be Served <lb/>with the best Sort the Island affords I am </p>
 
-<closer><abbr expan="Gentlemen">Gent</abbr><lb/>Yor. most humble Servt.
+<closer>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="Gentlemen">Gent</abbr><lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. most humble Servt.
 <seg type="postscript"><lb/><lb/>per Woodward
-<lb/><note target="n3">Trice</note></seg><lb/><lb/>
+<lb/><note target="n8">Trice</note></seg><lb/><lb/>
 
 <seg type="postscript">
-<pb n="3"/><lb/><lb/>
-P.S.  	July 9th: 1728   
-<note n="MP1">Colonel Page</note> and I have <lb/>lately drawn on you for &pound;40 payable to Colonel <note n="MCB"><abbr expan="George">Geor:</abbr> <sic corr="Braxton">Braxston</sic></note> upon the <lb/>Accot. of Mr. Burwells Estate. <lb/>herein is a Small <corr resp="editor">[bill] </corr>of Wm. Taylor's on yor. Selves for &pound;1:12:3 which I desire <lb/>Credit for,
+
+P.S.  	July 9th: 1728&mdash;<note n="MP1">Colonel Page</note> and I have <lb/>lately drawn on you for &pound;40 payable to Colonel <note n="MCB"><abbr expan="George">Geor:</abbr> <sic corr="Braxton">Braxston</sic></note> upon the <lb/>Accot. of Mr. Burwells Estate. <lb/>herein is a Small <corr resp="editor">[bill] </corr>of Wm. Taylor's on yor. Selves for &pound;1:12:3 which I desire <lb/>Credit for,
 
 </seg>
 
@@ -155,12 +155,25 @@ P.S.  	July 9th: 1728
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
 
-<note id="n1">[1] Thomas Woodward commanded the <hi rend="italics">Providence,</hi> a ship owned by Captain John Hyde &amp; Company, during a number of voyages to the colony, 1723-1727. (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194 and Survey Report 6801 summarizing Adm 68/195, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia,</bibl></cit> and Carter's letter to the firm, 1723 September 17.)</note>
+<note id="n1">[1] The editor has been unable to determine what Carter meant by the use of the phrase "piece of Dowles."  There is nothing in the <title>Oxford English Dictionary Online</title> that is useful unless one stretches the word "Dowles" to mean "dowels."  Unfortunately any further correcpondence about "Dowles" is not extant.</note>
 
-<note id="n2">[2] Parliament had passed the act forbidding the importation of stemmed tobacco in 1722. Randolph would not leave for England until 1729; his mission would be successful.<corr resp="editor"></corr> (<cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> [Newport News, VA: Mariners' Museum, 1953.] p. 116.</bibl></cit>)</note>
+ <note id="n2"> [2] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
-<note id="n3">[3] The 140 ton <hi rend="italics">Welcome</hi> was owned by London merchant James Bradley to whom Carter would write about her on 1727 May 17.  John Trice (Frice) was her captain, 1723-1728. (<cit><bibl>Survey Report 6801 summarizing Adm 68/195, 154r, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n3">[3]  Thomas Woodward commanded the <hi rend="italics">Providence,</hi> a ship owned by Captain John Hyde &amp; Company, during a number of voyages to the colony, 1723-1729. (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194 and Survey Report 6801 summarizing Adm 68/195, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia,</bibl></cit> and Carter's letter to the firm,  <xref to="/users/berkeley/public/C23i17a.xml">September 17, 1723.</xref>)</note>
 
+<note id="n4">[4] Parliament had passed the act forbidding the importation of stemmed tobacco in 1722. The colony appointed John Randolph as its agent. Randolph would not leave for England until 1729; his mission would be successful.<corr resp="editor"></corr> (<cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> [Newport News, VA: Mariners' Museum, 1953.] p. 116.</bibl></cit>)</note>
+
+<note id="n5">[5] King George II (1683-1760) reigned from 1727 until 1760. ("The Royal English Monarchy." <cit><bibl>http://scotlandroyalty.org/kings.html.</bibl></cit> 11/20/03)</note>
+
+ <note id="n6">[6]  This firm had been established in Madeira by Joseph Hayward in 1715. It became Hayward &amp; Rider (1721-1723),  Hayward Miles &amp; Rider (1725-1730), and other partnerships later. (David Hancock, "'An Undiscovered Ocean of Commerce Laid Open': India, Wine and Emerging Atlantic Economy, 1703-1813" in H. V. Bowen, Margarette Lincoln, Nigel Rigby, <hi rend="italics">eds. </hi><title>The Worlds of the East India Company.</title> [Boydell &amp; Brewer, 2002]. p. 156) </note>
+
+<note id="n7">[7]  A pipe is "a large container of definite capacity for storing solids or liquids, such as meat, fish, or oil. Now: spec. a large cask for storing wine or cider." Wikipedia, citing a book by Ronald E. Zupco, states that a pipe was half a tun which was "a large vat or vessel, most often holding 252 wine gallons," meaning a pipe was roughly 126 gallons of wine.  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press</bibl></cit> and  <cit><bibl>Ronald E. Zupko. <title>A Dictionary of Weights and Measures for the British Isles: The Middle Ages to the Twentieth Century</title>.<title> [Memoirs of the American Philosophical Society</title>, 1985, 168.]</bibl></cit>) </note> 
+
+
+<note id="n8">[8] The 140 ton <hi rend="italics">Welcome</hi> was owned by London merchant James Bradley to whom Carter would write about her on <xref to="http://carter.lib.virginia.edu/html/C27e17a.html">May 17, 1727</xref>. John Trice (Frice) was her captain, 1723-1727. (<cit><bibl>Adm 68/195, 154r, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised October 24, 2014,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 

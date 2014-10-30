@@ -29,7 +29,7 @@
    </respStmt>
 </titleStmt>
 
-<extent>ca.  kilobytes </extent>
+<extent>ca. 6  kilobytes </extent>
 
 <publicationStmt>
      <publisher>University of Virginia Library.</publisher>
@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,17 +106,16 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Corotoman, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1728-05-25">May the 25th: 1728</date><lb/>
+<name type="place">Corotoman, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1728-05-25">May the 25th: 1728</date><lb/>
 Majr. Eskridge<lb/>
 </dateline>
 <salute>Sir&mdash;</salute>
 
 </opener>
 
-<p>I have neglected hitherto the Sending <note target="n1">Thomas</note> <lb/>Commission for the <abbr expan="Surveyors">Surveyrs.</abbr> place of <note target="n2">your County</note> I now <abbr expan="Transmit">Transmt:</abbr> <lb/><del>to you</del> <add place="supralinear">by <note target="n3">Mr. Warner</note></add> with the bond that you must See Executed with a good <lb/>Security to be <sic corr="Joined">Joyned</sic> with Thomas in the bonds which you are <lb/>to have done before you deliver Thomas the Commission all <lb/>this I have undertaken the Care to <note n="PB">Colonel <sic corr="Beverley,">Beverly,</sic></note> and <add place="supralinear">I</add> rely up<lb/>on you for the performance of my promise, I writ to you Yesterday <lb/>by Miller. <note target="n4">Uncle Willson</note> I see not yet I am </p>
+<p>I have neglected hitherto the Sending <note target="n1">Thomas</note> <lb/>Commission for the <abbr expan="Surveyors">Surveyrs.</abbr> place of <note target="n2">your County</note> I now <abbr expan="Transmit">Transmt:</abbr> <lb/><del>to you</del> <add place="supralinear">by <note target="n3">Mr. Warner</note></add> with the bond that you must See Executed with a good <lb/>Security to be <sic corr="Joined">Joyned</sic> with Thomas in the bonds which you are <lb/>to have done before you deliver Thomas the Commission all <lb/>this I have undertaken the Care of to <note n="PB">Colonel <sic corr="Beverley,">Beverly,</sic></note> and <add place="supralinear">I</add> rely up<lb/>on you for the performance of my promise, I <abbr expan="wrote">writ</abbr> to you Yesterday <lb/>by Miller. <note target="n4">Uncle Willson</note> I see not yet I am </p>
 
-<closer>Yor. <abbr expan="Affectionate">Affectte:</abbr> humble Servt.--</closer>
+<closer>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. <abbr expan="Affectionate">Affectte:</abbr> humble Servt.--</closer>
 
 
 </div1>
@@ -134,7 +133,7 @@ Majr. Eskridge<lb/>
 
 <note>The county and colony have been added for clarity to the  heading on the draft.</note>
 
-<note id="n1">[1] James Thomas was surveyor of Lancaster County, and after 1727, of Westmoreland County. In 1736, he would be one of the surveyors involved in the work of the commission to determine the bounds of the Northern Neck proprietary. (<cit><bibl n="B8">Brown. <title>Virginia Baron. . . .</title> pp. 83, 92. See Carter to Peter Beverley, 1727 December 14.</bibl></cit>)</note>
+<note id="n1">[1]James Thomas was surveyor of Lancaster County, and after 1727, of Westmoreland County. In 1736, he would be one of the surveyors involved in the work of the commission to determine the bounds of the Northern Neck proprietary. (<cit><bibl n="B8">Brown. <title>Virginia Baron. . . .</title> pp. 83, 92. See <xref to="http://carter.lib.virginia.edu/html/C27l14a.html">Carter to Peter Beverley,</xref> December 14,  1727.</bibl></cit>)</note>
 
 <note id="n2">[2] Westmoreland County</note>
 
@@ -142,6 +141,7 @@ Majr. Eskridge<lb/>
 
 <note id="n4">[3] "Miller" and "Uncle Willson" have not been identified.</note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised October 21, 2014,  to  strengthen the modern language version text.</hi></note>
 
 
 
