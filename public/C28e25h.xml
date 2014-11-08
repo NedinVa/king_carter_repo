@@ -10,7 +10,13 @@
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+
+<!NOTATION html SYSTEM "HTML">
+<!ENTITY Ext6 SYSTEM "http://www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm" NDATA html>
+
+ ]>
+
 <TEI.2 id="C28e25h">
 
 
@@ -39,7 +45,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,8 +112,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1728-05-25">May the 25th: 1728</date><lb/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1728-05-25">May the 25th: 1728</date><lb/>
 Edward Tucker Esqr.<lb/>
 </dateline>
 <salute>Sir&mdash;</salute>
@@ -116,23 +121,21 @@ Edward Tucker Esqr.<lb/>
 
 <p>After a round about Voyage by the way of <lb/><name type="place"><sic corr="Antigua">Antego</sic></name> <note target="n1"><abbr expan="Captain">Capt:</abbr> Willson</note> came Safe in at last, I had Some damage <lb/>in my Beer Necessity forced him in his long passage to refresh <lb/>his men and himself with Some of it; but that he and I shall <lb/>Accommodate,</p>
 
-<p>Herein Send you a bill of Exchange of <note target="n1"><note target="n2"><abbr expan="Thomas">Thos:</abbr> Edwards </note></note><lb/>for &pound;13:12:3:d Also John Kirks for &pound;8"9:11 both on your Self <lb/>which desire Credit for,</p>
+<p>Herein Send you a <note target="n2">bill of Exchange</note> of <note target="n1"><note target="n3"><abbr expan="Thomas">Thos:</abbr> Edwards </note></note><lb/>for &pound;13:12:3:d Also John Kirks for &pound;8"9:11 both on your Self <lb/>which desire Credit for,</p>
 
-<p><note target="n3"><abbr expan="Captain">Capt:</abbr> Brett</note> soon after his coming in Spoke to me <lb/>for Some freight, Accordingly I promised him, but the number of <lb/>hhds: I could not then tell, I was a long time kept from home at <lb/>our Assembly and General Court, he sent two Sloops into our <lb/>parts, the last was after I got home and might have taken in <lb/>Some of my <abbr expan="Tobacco">Tobbo:</abbr> but he had Some better <sic corr="friends">freinds</sic> to pleasure <lb/>I Suppose and so left me totally out <abbr expan="Captain">Capt:</abbr> Willson I intend to <lb/>ship upon if he <sic corr="does">doth</sic> not Serve me as Brett <sic corr="has">hath</sic> done he <sic corr="has">hath</sic> <lb/>Sent me word he will be with me in a few days when we Shall <lb/>Adjust that matter,</p>
+<p><note target="n4"><abbr expan="Captain">Capt:</abbr> Brett</note> soon after his coming in Spoke to me <lb/>for Some freight, Accordingly I promised him, but the number of <lb/>hhds: I could not then tell, I was a long time kept from home at <lb/>our Assembly and <note target="n5">General Court</note>, he sent two Sloops into our <lb/>parts, the last was after I got home and might have taken in <lb/>Some of my <abbr expan="Tobacco">Tobbo:</abbr> but he had Some better <sic corr="friends">freinds</sic> to pleasure <lb/>I Suppose and so left me totally out <abbr expan="Captain">Capt:</abbr> Willson I intend to <lb/>ship upon if he <sic corr="does">doth</sic> not Serve me as Brett <sic corr="has">hath</sic> done he <sic corr="has">hath</sic> <lb/>Sent me word he will be with me in a few days when we Shall <lb/>Adjust that matter,</p>
 
-<p>It is the general Opinion of the <abbr expan="Gentlemen">Gent</abbr> in the Country <lb/>that the great Occasion of sending of so much Trash and under <lb/><abbr expan="Tobacco">Tobbo:</abbr>
- is by the restraint <sic corr="we">wee</sic> are under from <sic corr="Stemming">Steming</sic> for now all <lb/>the ground leaves and under <abbr expan="Tobacco">Tobbo:</abbr>
- are <sic corr="tied">tyed</sic> up and go to market <lb/>none is so bad but the Outports <abbr expan="Merchants">Merchts.</abbr> and the North <sic corr="Britains">Brittains</sic> <lb/>will buy at Some Price or other which <sic corr="we">wee</sic> reckon Computing <lb/>through the Country amounts to Several thousand hogsheads and does <lb/>very much depress the market for the better Sort of <abbr expan="Tobacco">Tobbo:</abbr> Whereas <lb/>if the good were <sic corr="picked">pickt</sic> out by <sic corr="Stemming">Steming</sic> it would be as <sic corr="Valuable">Valueable</sic> <lb/>as the best <abbr expan="Tobacco">Tobbo:</abbr> <sic corr="we">wee</sic> make. <sic corr="We">Wee</sic> think so much of the Trash of our <lb/><abbr expan="Tobacco">Tobbo:</abbr>
- going home is no advantage to the King in his Customs 
+<p>It is the general Opinion of the <abbr expan="Gentlemen">Gent</abbr> in the Country <lb/>that the great Occasion of sending of so much Trash and <note target="n6">under <lb/><abbr expan="Tobacco">Tobbo:</abbr></note> is by the restraint <sic corr="we">wee</sic> are under from <sic corr="Stemming">Steming</sic> for now all <lb/>the ground leaves and under <abbr expan="Tobacco">Tobbo:</abbr>
+ are <sic corr="tied">tyed</sic> up and go to market <lb/>none is so bad but the <note target="n7">Outports</note> <abbr expan="Merchants">Merchts.</abbr> and the North <sic corr="Britains">Brittains</sic><note target="n8"></note> <lb/>will buy at Some Price or other which <sic corr="we">wee</sic> reckon Computing <lb/>through the Country amounts to Several thousand hogsheads and does <lb/>very much depress the market for the better Sort of <abbr expan="Tobacco">Tobbo:</abbr> Whereas <lb/>if the good were <sic corr="picked">pickt</sic> out by <sic corr="Stemming">Steming</sic> it would be as <sic corr="Valuable">Valueable</sic> <lb/>as the best <abbr expan="Tobacco">Tobbo:</abbr> <sic corr="we">wee</sic> make. <sic corr="We">Wee</sic> think so much of the Trash of our <lb/><abbr expan="Tobacco">Tobbo:</abbr>  going home is no advantage to <note target="n9">the King</note> in his Customs 
 
 <pb n="2"/><lb/><lb/>
-and greatly to the damage of <abbr expan="Merchant">Mercht </abbr>as well as the Planter in depress<lb/>ing the Price of all <abbr expan="Tobacco">Tobbo:</abbr> for we Conclude this under Scruby under <lb/><abbr expan="Tobacco">Tobbo:</abbr> is either Clandestinely run or Serves the Export trade either <lb/>way no Custom is paid for it. The Country in general is so deep<lb/>ly <sic corr="Sensible">Senseable</sic> of this great <sic corr="Evil">Evill</sic> that the <sic corr="Council">Councill</sic> and Burgesses <lb/>have <abbr expan="addressed">address'd</abbr> the King and made Application to the <abbr expan="Parliament">Parliamt</abbr> <lb/>for the repealing of the Clause in the <note target="n4">Act of <abbr expan="Parliament">Parliamt.</abbr></note> prohibit<lb/>ing <sic corr="Stemming,">Steming,</sic> And we have <sic corr="Employed">Employd</sic> Mr. <note n="JR">John Randolph</note> one <lb/>of our Eminentest Lawyers whose is <add resp="editor"> [<hi rend="italics">sic</hi>]</add> now going home to Solic<lb/><sic corr="it">ite</sic> this affair; <sic corr="we">wee</sic> are made to hope that the <abbr expan="London">Lond:</abbr> <abbr expan="Merchants">Merchts.</abbr> <lb/>&amp; the Outports will <sic corr="Join">Joyn</sic> their utmost Strength with us to get <lb/>it Effected, And we are promised by the North <sic corr="Britains">Brittains</sic> among <lb/>us that their representatives will give their helping hand, <lb/><del>And</del> if all this Interest go along with us <sic corr="we">wee</sic> have Strong <lb/>hopes <sic corr="we">wee</sic> cannot fail of Success, Our Agent is instructed <lb/>with our reasons to the <abbr expan="Parliament">Parliamt.</abbr> to prevail with them in <lb/>granting our Petition. You have the honour now to be a Member <lb/>of the house of Commons and in that respect a proper Person to be <lb/><sic corr="applied">applyd</sic> <sic corr="to">too</sic> for your Assistance Although I believe you are <lb/>already so well Acquainted with the great mischiefs <sic corr="we">wee</sic> <lb/><sic corr="lie">lye</sic> under by this gravious restraint <del>which
-</del><add place="supralinear">that</add> you will want no <lb/>Arguments to Induce you to be hearty in this design I Ex=<lb/>pect it will be writ you by most of the <abbr expan="Gentlemen">Gent</abbr> you Correspond wth. <lb/>upon this <sic corr="Topic">Topick</sic> I am per Woodward
+and greatly to the damage of <abbr expan="Merchant">Mercht </abbr>as well as the Planter in depress<lb/>ing the Price of all <abbr expan="Tobacco">Tobbo:</abbr> for we Conclude this under <note target="n10"><sic corr="Scrubby">Scruby</sic></note> under <lb/><abbr expan="Tobacco">Tobbo:</abbr> is either Clandestinely run or Serves the Export trade either <lb/>way no Custom is paid for it. The Country in general is so deep<lb/>ly <sic corr="Sensible">Senseable</sic> of this great <sic corr="Evil">Evill</sic> that the <sic corr="Council">Councill</sic> and Burgesses <lb/>have <abbr expan="addressed">address'd</abbr> the King and made Application to the <abbr expan="Parliament">Parliamt</abbr> <lb/>for the repealing of the Clause in the <note target="n11">Act of <abbr expan="Parliament">Parliamt.</abbr></note> prohibit<lb/>ing <sic corr="Stemming,">Steming,</sic> And we have <sic corr="Employed">Employd</sic> Mr. <note n="JR">John Randolph</note> one <lb/>of our Eminentest Lawyers <sic corr="who">whose</sic> is <add resp="editor"> [<hi rend="italics">sic</hi>]</add> now going <note target="n12">home</note> to Solic<lb/><sic corr="it">ite</sic> this affair; <sic corr="we">wee</sic> are made to hope that the <name type="city"><abbr expan="London">Lond:</abbr></name> <abbr expan="Merchants">Merchts.</abbr> <lb/>&amp; the Outports will <sic corr="Join">Joyn</sic> their utmost Strength with us to get <lb/>it Effected, And we are promised by the North <sic corr="Britains">Brittains</sic> among <lb/>us that their representatives will give their helping hand, <lb/><del>And</del> if all this Interest go along with us <sic corr="we">wee</sic> have Strong <lb/>hopes <sic corr="we">wee</sic> cannot fail of Success, Our Agent is instructed <lb/>with our reasons to the <abbr expan="Parliament">Parliamt.</abbr> to prevail with them in <lb/>granting our Petition. You have the honour now to be a Member <lb/>of the house of Commons and in that respect a proper Person to be <lb/><sic corr="applied">applyd</sic> <sic corr="to">too</sic> for your Assistance Although I believe you are <lb/>already so well Acquainted with the great mischiefs <sic corr="we">wee</sic> <lb/><sic corr="lie">lye</sic> under by this gravious restraint <del>which </del><add place="supralinear">that</add> you will want no <lb/>Arguments to Induce you to be hearty in this design I Ex=<lb/>pect it will be <sic corr="written">writ</sic> you by most of the <abbr expan="Gentlemen">Gent</abbr> you Correspond wth. <lb/>upon this <sic corr="Topic">Topick</sic> I am<lb/>
+per <note target="n13">Woodward</note>
 Copy per Trice--</p>
 
 <closer>Sir&mdash;<lb/>Yor. most humble Servt:<lb/><lb/>
-<seg type="postscript">per <note target="n5">Woodward
-</note><lb/>Copy per <note target="n6">Trice</note>&mdash;</seg><lb/><lb/>
+<seg type="postscript">per <note target="n13">Woodward
+</note><lb/>Copy per <note target="n14">Trice</note>&mdash;</seg><lb/><lb/>
 
 <seg type="postscript">
 <pb n="3"/><lb/><lb/>
@@ -141,20 +144,15 @@ Copy per Trice--</p>
 
 Sir&mdash;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rappahannock July 9th: 1728<lb/><lb/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Above is a Copy <note target="n1"><abbr expan="Captain">Capt:</abbr> Willson</note> is now coming into <lb/>the <note target="n8">Indian Creek</note> and as soon as he <sic corr="has">hath</sic> taken in a little <abbr expan="Tobacco">Tobbo:</abbr> there <lb/>he comes away to <note target="n7">our river</note> for the rest of his Load am afraid he will <lb/>hardly dispatch time Enough to get away with this Fleet I shall <lb/>have about 30 hogsheads in him,<lb/><lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Above is a Copy <note target="n1"><abbr expan="Captain">Capt:</abbr> Willson</note> is now coming into <lb/>the <note target="n15">Indian Creek</note> and as soon as he <sic corr="has">hath</sic> taken in a little <abbr expan="Tobacco">Tobbo:</abbr> there <lb/>he comes away to <note target="n16">our river</note> for the rest of his Load am afraid he will <lb/>hardly dispatch time Enough to get away with this Fleet I shall <lb/>have about 30 hogsheads in him,<lb/><lb/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Herein are three first bills of Exchange drawn upon<lb/>upon <add resp="editor"> [<hi rend="italics">sic</hi>]</add> your Self Richard Neal for &pound;2"-"- Peter Hack for &pound;3"-"- <lb/>William Jones for &pound;2 which I desire Credit for, I have had ill luck <lb/>with my Beer for these two years however I would desire you to <lb/>Send me 2 hogsheads of your best Dorchester Beer, well and Carefully <lb/>bottled <sic corr="off">of</sic> and <sic corr="packed">packt</sic> up Also two hogsheads of your best Malt I hope it <lb/>will be Cheaper <sic corr="than">then</sic> the last and if your Southham be right good <lb/>this year I would have a hogshead of it put into bottles with care I <lb/>will have no more of it come in hogsheads By Willson I Shall be more <lb/>Particular remain at present
-Sir 
-<lb/>Yor. most humble Servt.
-<lb/>per <note target="n6">Trice</note>&mdash;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Herein are three first bills of Exchange drawn upon<lb/>upon <add resp="editor"> [<hi rend="italics">sic</hi>]</add> your Self Richard Neal for &pound;2"-"- <note target="n17">Peter Hack</note> for &pound;3"-"- <lb/>William Jones for &pound;2 which I desire Credit for, I have had ill luck <lb/>with my Beer for these two years however I would desire you to <lb/>Send me 2 hogsheads of your best Dorchester Beer, well and Carefully <lb/>bottled <sic corr="off">of</sic> and <sic corr="packed">packt</sic> up Also two hogsheads of your best <note target="n18">Malt</note> I hope it <lb/>will be Cheaper <sic corr="than">then</sic> the last and if your <note target="n19">Southham</note> be right good <lb/>this year I would have a hogshead of it put into bottles with care I <lb/>will have no more of it come in hogsheads By Willson I Shall be more <lb/>Particular remain at present<lb/><lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir 
+<lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. most humble Servt.
+<lb/><lb/>Per Trice&mdash;
 <lb/>per Willson
 
-
-
 </seg>
-
-
-
 
 </closer>
 
@@ -176,28 +174,45 @@ Sir
 
 <note id="n1">[1] No information about Captain Willson has been located.</note>
 
-<note id="n2">[2] "Thos. Edwards, a little petty Fogging Lawyer the Clark of our
-County that hath as much Mettle and more cunning for Contention then his predecessor had" Carter wrote
-to Landon Jones, July 23, 1723. His opinion of Edwards later changed for there are more appreciate mentions of him in Carter's diary. Edwards was clerkof the Lancaster County court from 1720-1746. (<cit><bibl><title>Within the Court House at Lancaster.</title> Lively, VA: Lively Printing Services, Lively, VA: Lively Printing Services, [1976]. p. 15.</bibl></cit>)</note>
-
-<note id="n3">[3] John Brett was master of Weymouth merchant Edward Tucker's ship, the <hi rend="italics">Princess Amelia,</hi> which had been commanded by a Captain Lawrence until he was drowned. (Survey Report 9729 detailing the Weymouth Port Books, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.)</note>
-
-<note id="n4">[4] Parliament had passed the act forbidding the importation of stemmed tobacco in 1722. Randolph would not leave for England until 1729; his mission would be successful.<corr resp="editor"></corr> (<cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> [Newport News, VA: Mariners' Museum, 1953.] p. 116.</bibl></cit>)</note>
-
-<note id="n5">[5] Thomas Woodward commanded the <hi rend="italics">Providence,</hi> a ship owned by Captain John Hyde &amp; Company, during a number of voyages to the colony, 1723-1727. (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194 and Survey Report 6801 summarizing Adm 68/195, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia,</bibl></cit> and Carter's letter to the firm, 1723 September 17.)</note>
-
-<note id="n6">[6] The 140 ton <hi rend="italics">Welcome</hi> was owned by London merchant James Bradley to whom Carter would write about her on 1727 May 17.  John Trice (Frice) was her captain, 1723-1728. (<cit><bibl>Survey Report 6801 summarizing Adm 68/195, 154r, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
-
-<note id="n7">[7] Carter may refer to the Indian Creek that is the boundary between Lancaster and Northumberland counties. "It lies between Bluff Point Neck and Fleets Bay Neck, flowing about 3.6 miles into Fleets Bay. . . . " (<cit><bibl n="B29">Miller. <title>Place-Names . . . . </title>p. 72.</bibl></cit>
-)</note>
-
-<note id="n8">[8] The Rappahannock</note>
+<note id="n2"> [2] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (<cit><bibl><xref to="Ext6">"Dictionary of  Financial Scam Terms,"</xref> 8/22/2005</bibl></cit>)</note>
 
 
+<note id="n3">[3] "Thos. Edwards, a little petty Fogging Lawyer the Clark of our County that hath as much Mettle and more cunning for Contention then his predecessor had" Carter wrote to Landon Jones, <xref to="/users/berkeley/public/C23g22b.xml">July 22, 1723.</xref> His opinion of Edwards later changed for there are more appreciative mentions of him in Carter's diary. Edwards was clerk of the Lancaster County court from 1720-1746. (<cit><bibl><title>Within the Court House at Lancaster.</title> Lively, VA: Lively Printing Services, Lively, VA: Lively Printing Services, [1976]. p. 15.</bibl></cit>; and "Thomas Edwards, Gentleman, Clerk of the Court" in <cit><bibl n="B43">Brown and Sorrells. <title>People in Profile.</title> pp. 94-103.</bibl></cit>)</note>
+
+<note id="n4">[4] John Brett was master of Weymouth merchant Edward Tucker's ship, the <hi rend="italics">Princess Amelia,</hi> which had been commanded by a Captain Lawrence until he was drowned in 1725. (Survey Report 9729 detailing the Weymouth Port Books, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.)</note>
+
+ <note id="n5">[5] "The governor's Council, also known as the Council of State or simply the Council, consisted of about a dozen of colonial Virginia's wealthiest and most prominent men. Beginning in the 1630s the Crown appointed Council members. . . . Crown appointments were lifetime appointments. From 1625, when Virginia became a royal colony, until the outbreak of the American Revolution (1775-1783), the Council members advised the royal governor or his deputy, the lieutenant governor, on all executive matters. The Council and the governor together constituted the highest court in the colony, known initially as the Quarter Court and later as the General Court. The Council members also served as members of the General Assembly; from the first meeting of the assembly in 1619 until 1643 the governor, Council members, and burgesses all met in unicameral session. After 1643 the Council members met separately as the upper House of the General Assembly."  (<xref to="http://www.encyclopediavirginia.org/Governor_s_Council_The">"The Governor's Council"</xref> in <title>Encyclopedia Virginia</title>)</note>
+
+<note id="n6">[6]  "It is become the practice of all the Consigners almost in Virginia to tye up all their Ground Leaves that has any part of the leaf good and this wears the Name of under Tobbo. . . . "  (<cit><bibl><xref to="http://carter.lib.virginia.edu/html/C28e25g.html">Carter to Perry</xref>, May 25, 1728.</bibl></cit>)</note>
+
+<note id="n7">7[] Out port means "a port outside a particular place; any port other than the main port of a country, etc.; spec[ically]. a British port other than London."   (<cit><bibl><title>Oxford English Dictionary Online </title></bibl></cit>)</note>
+
+<note id="n8">[8]  Scots</note>
+
+<note id="n9">[9] King George II (1683-1760) reigned from 1727 until 1760. ("The Royal English Monarchy." <cit><bibl>http://scotlandroyalty.org/kings.html.</bibl></cit> 11/20/03)</note>
+
+<note id="n10">[10] According to the <title>Oxford English Dictionary Online</title>, scrubby means "stunted, under-developed."</note>
+
+<note id="n11">[11] Parliament had passed the act forbidding the importation of stemmed tobacco in 1722. Randolph would not leave for England until 1729; his mission would be successful.<corr resp="editor"></corr> (<cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> [Newport News, VA: Mariners' Museum, 1953.] p. 116.</bibl></cit>)</note>
+
+<note id="n12">[12] England</note>
+
+<note id="n13">[13] Thomas Woodward commanded the <hi rend="italics">Providence,</hi> a ship owned by Captain John Hyde &amp; Company, during a number of voyages to the colony, 1723-1729. (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194 and Survey Report 6801 summarizing Adm 68/195, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia,</bibl></cit> and Carter's letter to the firm,  <xref to="/users/berkeley/public/C23i17a.xml">September 17, 1723.</xref>)</note>
 
 
+<note id="n14">[14]  The 140 ton <hi rend="italics">Welcome</hi> was owned by London merchant James Bradley to whom Carter would write about her on <xref to="http://carter.lib.virginia.edu/html/C27e17a.html">May 17, 1727</xref>. John Trice (Frice) was her captain, 1723-1727. (<cit><bibl>Adm 68/195, 154r, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
+<note id="n`15">[15] Indian Creek lies at the eastern tip of Lancaster County at the northern side of Fleets Bay where it is "the boundary between" Northumberland and Lancaster counties "for most of its course." and runs inland roughly northwest towards today's Kilmarnock. It probably was 6 or 7 miles from "Corotoman" by the roads of Carter's time. (<cit><bibl n="B29">Miller. <title>Place-Names . . . . </title>p. 72.</bibl></cit>)</note>
 
+<note id="n16">[16] The Rappahannock</note>
+
+<note id="n17">[17]  Peter Hack (<hi rend="italics">ca.</hi> 1690-1729) was sheriff of Northumberland County in 1716 and 1717. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>,  3[1705- 1721] : 425, 448. </bibl></cit>  Other information about Hack may befound in<cit><bibl> "Tithables of Lancaster County, 1654," <title>Virginia Magazine of History and Biography</title>, 5(1897):249-260</bibl></cit> an online Google book; and <cit><bibl><xref to="http://www.wikitree.com/wiki/Hack-218">"Peter Hack."</xref></bibl></cit>) </note>
+
+<note id="n18">[18] Malt is "barley or other grain prepared for brewing, distilling, or vinegar-making, esp. by steeping, germinating, and kiln-drying."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
+
+<note id="n19">[19] Southam is a type of English cyder.  (Willia, Ellis. <title>The Compleat Cyderman: Or, the Present Practice of Raising Plantations of the Best Cyder Apple and Perry Pear-trees, with the Improvement of Their Excellent Juices. ... By Experienc'd Hands,</title> [R. Baldwin, 1754], p. 79. <xref to="">Google books</xref>. </note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised October 31, 2014,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 </div1>
 </back>
