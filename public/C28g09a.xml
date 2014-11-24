@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -88,7 +88,7 @@
 <head>
 <bibl>
 <abbr>AL</abbr>
-<extent> p.</extent>
+<extent>1 p.</extent>
 <date value="1728-07-09"></date>
 <idno rend="suppress">C28g09a.xml</idno>
 <title>Letter from Robert Carter to [James] Bradley, July 9, 1728</title>
@@ -106,7 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;
 <date value="1728-07-09">July the 9th: 1728</date><lb/>
 To Mr. Bradley<lb/>
 </dateline>
@@ -119,9 +119,12 @@ To Mr. Bradley<lb/>
 <p>The above is a Copy. Yours of the 9th of March is <lb/>now come to hand am Sorry to find you Speak so indifferently of <lb/>the Market and yet say there was little <abbr expan="Tobacco">Tobbo:</abbr>
  on hand, I think I may <lb/>Adventure to Say you could not have much Supply <sic corr="until">till</sic> the latter end <lb/>of last month so that if we might dare hope for any thing you had <lb/>time Enough before you to bring the buyers to a better temper,</p>
 
-<p>Herein is a bill of Lading for 15 hogsheads on board <lb/>the <note target="n2"><name type="ship"><sic corr="Welcome">Welcom</sic></name></note> <abbr expan="Captain">Capt:</abbr> Trice one of my Entire Crops if he had bin in a <lb/>Strait for more, I Should have made them up as I Ship in the <note n="CS"><name type="ship">Carter</name></note> <lb/>for you 20 hogsheads more which <del>Y</del> will <add place="supralinear">go near to</add> be my Quota this year, I am <lb/>not well pleased with these lazy Sales, Shall be glad to find they <lb/>turn to my Advantage Shall give you no further trouble at present <lb/>remain </p>
+<p>Herein is a <note target="n2">bill of Lading</note> for 15 hogsheads on board <lb/>the <note target="n3"><name type="ship"><sic corr="Welcome">Welcom</sic></name></note> <abbr expan="Captain">Capt:</abbr> Trice one of my Entire Crops if he had bin in <note target="n4">a <lb/>Strait</note> for more, I Should have made them up as I Ship in the <note n="CS"><name type="ship">Carter</name></note> <lb/>for you 20 hogsheads more which <del>Y</del> will <add place="supralinear">go near to</add> be my Quota this year, I am <lb/>not well pleased with these <sic corr="lag">lagg</sic> Sales, Shall be glad to find they <lb/>turn to my Advantage Shall give you no further trouble at present <lb/>remain </p>
 
-<closer><seg type="postscript">Sir<lb/>Yor. most humble Servt:&mdash;<lb/><lb/>Trice</seg></closer>
+<closer><seg type="postscript">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. most humble Servt:&mdash;<lb/><lb/>
+Trice</seg></closer>
 
 
 </div1>
@@ -139,10 +142,15 @@ To Mr. Bradley<lb/>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] James Bradley was a London merchant with whom Carter dealt from at least 1723 until his death. As noted in his letter to Bradley of 1727 May 17, Bradley owned the <hi rend="italics">Welcome,</hi> but little information about Bradley has been located.</note>
+<note id="n1">[1] James Bradley was a London merchant with whom Carter dealt from at least 1723 until his death. As noted in his letter to Bradley of <xref to="/users/berkeley/public/C27e17a.html">May 17, 1727,</xref> Bradley owned the <hi rend="italics">Welcome,</hi> but little information about Bradley has been located. (There is a listing of the firm of Bradly &amp; Griffin, Merchants, Fenchurch-street, opposite the Mitre Tavern, on page 13 of <cit><bibl><title><xref to="freepages.history.rootsweb.com/~frpayments/KD1740/AB.htm">Kent's Directory </xref>For the Year 1740 Containing An Alphabetical List of the Names and Places of Abode of the Directors of Companies, Persons in Publick Business, Merchants, and other Eminent Traders in the Cities of London and Westminster, and the Borough of Southwark.</title>  [London: Printed and Sold by Henry Kent in Finch-Lane, near the Royal Exchange: and by the Booksellers and Pamphlets Shops of London and Westminster, 1740]. p. 39. Online, examined 8/12/2005 and 6/14/2012. </bibl></cit>)</note>
 
-<note id="n2">[2] The 140 ton <hi rend="italics">Welcome</hi> was owned by London merchant James Bradley to whom Carter would write about her on 1727 May 17.  John Trice (Frice) was her captain, 1723-1728. (<cit><bibl>Survey Report 6801 summarizing Adm 68/195, 154r, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+ <note id="n2"> [2] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
+<note id="n3">[3] The 140 ton <hi rend="italics">Welcome</hi> was owned by London merchant James Bradley to whom Carter would write about her on <xref to="http://carter.lib.virginia.edu/html/C27e17a.html"> May 17, 1727</xref>. John Trice (Frice) was her captain, 1723-1728. (<cit><bibl>Adm 68/195, 154r, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n4">[4] Carter uses the word "strait" in the sense of "A narrow or tight place, a time of sore need or of awkward or straitened circumstances, a difficulty or fix."   (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised November 20, 2014,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 

@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -88,7 +88,7 @@
 <head>
 <bibl>
 <abbr>AL</abbr>
-<extent> p.</extent>
+<extent>1 p.</extent>
 <date value="1728-06-26"></date>
 <idno rend="suppress">C28f26a.xml</idno>
 <title>Letter from Robert Carter to John Holloway, June 26, 1728</title>
@@ -106,8 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Coorot<add resp="editor">[oman, Lancaster County, Virginia]</add></name><lb/>
-<date value="1728-06-26">June the 26th. 1728</date><lb/>
+<name type="place">Corot<add resp="editor">[oman, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1728-06-26">June the 26th. 1728</date><lb/>
 Majr. John Holloway<lb/>
 </dateline>
 <salute>Sir&mdash;</salute>
@@ -116,7 +115,9 @@ Majr. John Holloway<lb/>
 
 <p>I am <sic corr="Extremely">Extreemly</sic> obliged to you for the favour <lb/>you have Shown <del>me</del> in not <sic corr="disposing">disposeing</sic> of the <note target="n1">Rippon Mill</note> without <del>give</del> <lb/><del>ing</del> <add place="supralinear">making</add> me the offer I cannot See it will ever be of any value to me wt.<lb/>ever it may to those that come after my Day for building <del>of</del> Mills <lb/>at such distance is very near over however Seeing you desire it <lb/>I will be the Purchaser at your Price, <sic corr="Supposing">Supposeing</sic> <note n="EJ">Colonel Jenings</note> had <lb/>a good Title and that you can make a good one to me Who am wth. <lb/>the greatest Sincerity </p>
 
-<closer>Sir<lb/>Your most Obedient <lb/>Humble Servt:&mdash;</closer>
+<closer>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your most Obedient <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Humble Servt:&mdash;</closer>
 
 
 </div1>
@@ -134,8 +135,9 @@ Majr. John Holloway<lb/>
 
 <note>The county and colony have been added for clarity to the heading on this draft.</note>
 
-<note id="n1">[1] Rippon Hall had been Edmund Jening's estate in York County which he had acquired in 1687 from John and Unity West when it was named "Poplar Neck." Jenings's bad financial circumstances forced him to mortgage the property to Carter who eventually acquired title to it. Carter obviously felt its mill would be a good acquisition.(<cit><bibl>"Notes and Queries." <title>William and Mary Quarterly.</title> 2[Apr. 1894]: 270-278.</bibl></cit>)</note>
+<note id="n1">[1] Rippon Hall had been Edmund Jening's estate in York County which he had acquired in 1687 from John and Unity West when it was named "Poplar Neck." Jenings's bad financial circumstances forced him to mortgage the property to Carter who eventually acquired title to it. Carter obviously felt its mill would be a good acquisition .(<cit><bibl><xref to="https://archive.org/stream/williammarycolle02tyle#page/n547/mode/2up/search/271">"Notes and Queries."</xref> <title>William and Mary Quarterly.</title> 2[Apr. 1894]: 270-278, now available through the Internet Archive.</bibl></cit>)</note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised November 14, 2014,  to strengthen the modern language version text.</hi></note>
 
 
 

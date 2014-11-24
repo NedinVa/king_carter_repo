@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 20124</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,22 +106,22 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Coroto<add resp="editor">[man, Lancaster County, Virginia]</add></name><lb/>
-<date value="1728-07-08">July the 8th: 1728&mdash;</date><lb/>
+<name type="place">Coroto<add resp="editor">[man, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1728-07-08">July the 8th: 1728&mdash;</date><lb/>
 John Randolph Esqr.<lb/>
 </dateline>
 <salute>Sir&mdash;</salute>
 
 </opener>
 
-<p>This <sic corr="Complies">Complys</sic> with my promise of <sic corr="Salut">Salute</sic>=<lb/>ing you in London, with Sincere wishes that it may meet <lb/>you in good health, and to acquaint you that I have bin very <lb/>liberal in <sic corr="writing">writeing</sic> to all the <abbr expan="Merchants">Merchts:</abbr> I correspond with about our <lb/><note target="n1">grand Affair</note> under your Negotiations To <note n="MP2">Mr. Perry</note> I have Partic=<lb/>ularly recommended both you and it, and to all the other <abbr expan="Merchants">Merchts:</abbr> <lb/>that I have any Interest in And I have not Confined my Self <lb/>to <name type="city">London</name> I have <sic corr="written">writ</sic> to <name type="city"><abbr expan="Liverpool">Leverpl.</abbr></name> to <name type="city">Weymouth</name> and to <name type="city">Glasgow</name> <lb/>I cannot pretend abundance of Interest <add place="supralinear">any</add> where however I shall have <lb/>the Satisfaction of having thrown in my Mite. the greaetes<corr resp="editor">[t]</corr> hope is <lb/>that the <abbr expan="Merchants">Merchts:</abbr> will be of Opinion that it is their own Interest to <lb/>promote this design and that will be a Stronger Spur to them than <lb/>any thing can be said from hence,</p>
+<p>This <sic corr="Complies">Complys</sic> with my promise of <sic corr="Salut">Salute</sic>=<lb/>ing you in London, with Sincere wishes that it may meet <lb/>you in good health, and to acquaint you that I have bin very <lb/>liberal in <sic corr="writing">writeing</sic> to all the <abbr expan="Merchants">Merchts:</abbr> I correspond with about our <lb/><note target="n1">grand Affair</note> under your Negotiations To <note n="MP2">Mr. Perry</note> I have Partic=<lb/>ularly recommended both you and it, and to all the other <abbr expan="Merchants">Merchts:</abbr> <lb/>that I have any Interest in And I have not Confined my Self <lb/>to <name type="city">London</name> I have <sic corr="written">writ</sic> to <name type="city"><abbr expan="Liverpool">Leverpl.</abbr></name> to <name type="city">Weymouth</name> and to <name type="city">Glasgow</name> <lb/>I cannot pretend abundance of Interest <add place="supralinear">any</add> where however I shall have <lb/>the Satisfaction of having thrown in my Mite. the <sic corr="greatest">greates</sic><corr resp="editor">[t]</corr> hope is <lb/>that the <abbr expan="Merchants">Merchts:</abbr> will be of Opinion that it is their own Interest to <lb/>promote this design and that will be a Stronger Spur to them than <lb/>any thing can be said from hence,</p>
 
 <p>I think I Showd you <note target="n2"><abbr expan="Esquire">Esqr.</abbr> Hallows</note> Lettr to me <lb/>about his Land it is likely you will go near to See him before you <lb/>return. Mr. Perry and I <sic corr="have">hath</sic> had Some <note target="n3">Pickerings</note> of late; &amp; your <lb/>misunderstandings I knew <sic corr="have">hath</sic> bin much greater but I will hope <lb/>both of us are coming into pretty good <sic corr="terms">termes</sic> again with him <lb/>The Station he is in will Enable him if he will Exert his Strength <lb/>to do us the most Services of any <sic corr="Concerned">Concernd</sic> in the Trade&mdash;</p>
 
 <pb n="2"/><lb/><lb/>
-<p>	I Shall Conclude as I begun that you may obtain the great <lb/>Motive of your going home a full recovery of your health as well as <lb/>the Addition of all other happiness I am </p>
+<p>	I Shall Conclude as I begun that you may obtain the great <lb/>Motive of your going <note target="n4">home</note> a full recovery of your health as well as <lb/>the Addition of all other happiness I am </p>
 
-<closer>Sir&mdash;<lb/>Yor. <del>very</del> <add place="supralinear">most</add> humble Servt:&mdash;
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir&mdash;<lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. <del>very</del> <add place="supralinear">most</add> humble Servt:&mdash;
 </closer>
 
 
@@ -140,13 +140,16 @@ John Randolph Esqr.<lb/>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
 
-<note id="n1">[1] Carter refers to the attempt of the colony to persuade Parliament to remove the prohibition against the importation of stemmed tobacco into Britain which it had had passed in 1722. Randolph was the colony's agent to negotiate for the "grand Affair"; his mission would be successful. While Randolph would not leave for England until 1729, Carter had to write well in advance to get his letter aboard a ship sailing in the late summer. <corr resp="editor"></corr> (<cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> [Newport News, VA: Mariners' Museum, 1953.] p. 116.</bibl></cit>)</note>
+<note id="n1">[1] Carter refers to the attempt of the colony to persuade Parliament to remove the prohibition against the importation of stemmed tobacco into Britain which it had had passed in 1722. Randolph was the colony's agent to negotiate for the "grand Affair"; his mission would be successful. While Randolph would not leave for England until 1729, Carter had to write well in advance to get his letter aboard a ship sailing in the late summer so that it would reach England before Randolph. <corr resp="editor"></corr> (<cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> [Newport News, VA: Mariners' Museum, 1953.] p. 116.</bibl></cit>)</note>
 
 <note id="n2">[2] Samuel Hallows (Hallowes) was a great nephew of John Hallowes, an early landholder in Northumberland and later, Westmoreland County, who was usually identified as of "Nomini" in Westmoreland County. Samuel Hallows lived in Ashworth, County Lancaster, England. The tract in which Carter was interested may have been that of 2400 acres acquired from Hallowes in 1733 by Thomas Lee. 
-Carter had written Hallows <xref doc="C28e30a">1728 May 30</xref> that he would not buy the tract of land. ("Major John Hallowes, 1615-1657" in <cit><bibl n="B38">Norris. <title>Westmoreland County, Virginia.</title> pp. 99-102.</bibl></cit>)</note>
+Carter had written Hallows <xref doc="http://carter.lib.virginia.edu/html/C28f26a.html">1728 May 30</xref> that he would not buy the tract of land. ("Major John Hallowes, 1615-1657" in <cit><bibl n="B38">Norris. <title>Westmoreland County, Virginia.</title> pp. 99-102.</bibl></cit>)</note>
 
 <note id="n3">[3] Carter probably dictated "bickerings."</note>
 
+<note id="n4">[4] England</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised November 18, 2014,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 

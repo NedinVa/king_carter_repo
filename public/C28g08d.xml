@@ -10,7 +10,13 @@
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; 
+
+<!NOTATION html SYSTEM "HTML">
+<!ENTITY Ext6 SYSTEM "http://www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm" NDATA html>
+
+]>
+
 <TEI.2 id="C28g08d">
 
 
@@ -39,7 +45,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -88,7 +94,7 @@
 <head>
 <bibl>
 <abbr>AL</abbr>
-<extent> p.</extent>
+<extent>2 p.</extent>
 <date value="1728-07-8"></date>
 <idno rend="suppress">C28g08d.xml</idno>
 <title>Letter from Robert Carter to Micajah Perry, July 8, 1728</title>
@@ -106,23 +112,27 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place"><add resp="editor">[Rappahannock, Lancaster County, Virginia]</add></name><lb/>
-<date value="1728-07-8">July the 8th:&mdash;1728</date><lb/>
-Micajh. Perry Esqr.<lb/>
+<name type="place"><add resp="editor">[Rappahannock, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1728-07-8">July the 8th:&mdash;1728</date><lb/>
+<del>Mr.</del> Micajh. Perry Esqr.<lb/>
 </dateline>
 <salute>Sir&mdash;</salute>
 
 </opener>
 
-<p>You have bin already advised that we <abbr expan="Should">Shd.</abbr> <lb/>quickly remit to you Some bills of Exchange for the Accot. of <note n="NB">Mr. Bur<lb/>wells Estate</note> herein are Enclosed the following bills drawn by <lb/>the <abbr expan="Executors">Execrs.</abbr> of <note n="RW">Mr. Wormeley</note> to wit upon your Self for &pound;150. On <lb/><note n="ET">Mr. Tucker</note> 123"13"&mdash; On <note target="n1">Mr. Stark</note> of Glasgow &pound;75"&mdash; and <lb/>I have another bill on <note n="WD">Mr. Dawkins</note> which I have promised 
+<p>You have bin already advised that we <abbr expan="Should">Shd.</abbr> <lb/>quickly remit to you Some <note target="n1">bills of Exchange</note> for the Accot. of <note n="NB">Mr. Bur<lb/>wells Estate</note> herein are Enclosed the following bills drawn by <lb/>the <abbr expan="Executors">Execrs.</abbr> of <note n="RW">Mr. Wormeley</note> to wit upon your Self for &pound;150. On <lb/><note n="ET">Mr. Tucker</note> 123"13"&mdash; On <note target="n2">Mr. Stark</note> of Glasgow &pound;75"&mdash; and <lb/>I have another bill on <note n="WD">Mr. Dawkins</note> which I have promised 
 
 <pb n="2"/><lb/><lb/>
-not to Send away till the <note n="CS"><name type="ship">Carter</name></note> goes for &pound;55"4"6 in the whole &pound;<lb/>403"17:6 You are to observe that &pound;300 of this money is only to be <lb/>placed to the Credit of Mr. Burwells Accot. the &pound;103"17"6 is to be placed <lb/>to the Credit of <note target="n2"><abbr expan="Elizabeth">Eliz.</abbr> Burwells</note> Accot. being the Interest due for <del>the Currt</del> <lb/>this money let out according to the will of her father, I Shall add <lb/>no more here but remain </p>
+not to Send away till the <note n="CS"><name type="ship">Carter</name></note> goes for &pound;55"4"6 in the whole &pound;<lb/>403"17:6 You are to observe that &pound;300 of this money is only to be <lb/>placed to the Credit of Mr. Burwells Accot. the &pound;103"17"6 is to be placed <lb/>to the Credit of <note target="n3"><abbr expan="Elizabeth">Eliz.</abbr> Burwells</note> Accot. being the Interest due for <del>the Currt</del> <lb/>this money let out according to the will of her father, I Shall add <lb/>no more here but remain </p>
 
-<closer>Sir<lb/>Your most humble Servt.
-<seg type="postscript"><lb/><lb/>Colonel Page and I have lately drawn <lb/>on you for &pound;100 payable to Colonel <sic corr="Braxton">Braxston</sic> being for <abbr expan="Negroes">Negs.</abbr> <sic corr="we">wee</sic> bought to Supply the Mortalitys of <lb/>that Estate
-<lb/>per <note target="n3">Wills</note>
-<lb/>Copy per <note target="n4">Trice</note></seg></closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your most humble Servt.<lb/><lb/>
+
+<seg type="postscript"><lb/><lb/><note n="MP">Colonel Page</note> and I have lately drawn <lb/>on you for &pound;100 payable to <note n="MCB">Colonel <lb/><sic corr="Braxton">Braxston</sic> </note>being for <abbr expan="Negroes">Negs.</abbr> <sic corr="we">wee</sic> bought to Supply the Mortalitys of <lb/>that Estate
+<lb/><lb/>
+
+per <note target="n4">Wills</note>
+<lb/>Copy per <note target="n5">Trice</note></seg></closer>
 
 
 </div1>
@@ -140,16 +150,18 @@ not to Send away till the <note n="CS"><name type="ship">Carter</name></note> go
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. "Rappahannock," the county, and colony have been added for clarity to this unheaded draft.</note>
 
-<note>The word "Mr." was struck out in front of Perry's name in this letter's address but the software will not permit it to be shown as struck as is done in the body of the letter.</note>
+<note id="n1"> [1] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (<cit><bibl><xref to="Ext6">"Dictionary of  Financial Scam Terms,"</xref> 8/22/2005</bibl></cit>)</note>
 
-<note id="n1">[1] John Stark was a merchant, probably the one to whom Carter referred when he wrote to Micajah Perry on 1723 July 4 that he had drawn an order on "Mr. Stark of Glasgow." On that same day, he wrote to a John Stark, referring to Captain Bowman.</note>
+
+<note id="n1">[1] John Stark was a  prominent Glasgow merchant in the sugar trade. He served as as baillie and provost (mayor) from 1725-1727. (<cit><bibl>John M'ure. <title>The History of Glasgow.</title> [Glasgow: D. Macvean and J. Wyllie &amp; Co., 1830] pp. 227-228</bibl></cit> as seen on Google books; and <cit><bibl>"Provosts of Glasgow" at <xref to="http://www.glasgow.gov.uk/en/AboutGlasgow/LordProvostsmessage/Provosts+of+Glasgow.htm">"Welcome to Glasgow"</xref>.</bibl></cit>)</note>
 
 <note id="n2">[2]  Elizabeth Burwell (1718- ?) was Carter's grandaughter by his daughter, Elizabeth, and her first husband, Nathaniel Burwell. She married in 1738 William Nelson of Yorktown.(<cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 143.</bibl></cit>)</note>
 
-<note id="n3">[3] Captain Peter Wills commanded the  <hi rend="italics">Booth</hi> in 1723-1724, and the <hi rend="italics">Amity</hi> in 1727. He is mentioned in Carter's diary for June 1723.  (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194, Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n4">[4] Captain Peter Wills commanded the  <hi rend="italics">Booth</hi> in 1723-1724, a ship belonging to merchant Thomas Colmore of London (see Carter's <xref to="/users/berkeley/public/C24a29a.xml">letter</xref> to Colmore of January 20 and February 15, 1724), and the <hi rend="italics">Amity,</hi> a vessel of 500 tons and 21 men,  in 1727-1729. He is mentioned in Carter's diary in 1723. (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194, and Survey Report 6801 summarizing Adm. 68/195, Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
-<note id="n4">[4] The 140 ton <hi rend="italics">Welcome</hi> was owned by London merchant James Bradley to whom Carter would write about her on 1727 May 17.  John Trice (Frice) was her captain, 1723-1728. (<cit><bibl>Survey Report 6801 summarizing Adm 68/195, 154r, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n5">[5] The 140 ton <hi rend="italics">Welcome</hi> was owned by London merchant James Bradley to whom Carter would write about her on <xref to="http://carter.lib.virginia.edu/html/C27e17a.html"> May 17, 1727</xref>. John Trice (Frice) was her captain, 1723-1728. (<cit><bibl>Adm 68/195, 154r, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised November 18, 2014,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 
