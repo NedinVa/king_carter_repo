@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,8 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1728-08-08">Augst: 8th: 1728</date><lb/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1728-08-08">Augst: 8th: 1728</date><lb/>
 Mr. Edwd. Athawes<lb/>
 </dateline>
 <salute>Sir&mdash;</salute>
@@ -119,9 +118,11 @@ Mr. Edwd. Athawes<lb/>
 <p>My business <sic corr="has">hath</sic> bin Con<corr resp="editor">[signed]</corr> <add place="supralinear"> to</add> Mr. Dawkins <lb/>for many years but I have too often fou<corr resp="editor">[nd from exper]</corr>ience <corr resp="editor">[that]</corr> <lb/>the larger my Concerns were the worse hat<corr resp="editor">[h been my return]</corr> 
 
 <pb n="2"/><lb/><lb/>
-and the more dilatory my Sales, the last year Mr. Dawkins had <lb/>a large Share of my buiness, My Accots. are not yet <sic corr="Completed">Compleated</sic> <lb/>and that which troubles me most is to find my Crops Sells at a penny <lb/>per pound less than many <abbr expan="Genlemen">Gent</abbr> upon York river of my long Acquaintance had <lb/>for theirs the reasons of this prodigious difference I shall never be able <lb/>to fathom times have bin when <sic corr="we">wee</sic> were upon a Level and I have <lb/>Instances to show when I have Exceeded them I Should not be so partic<lb/>ular to you but for the intimacy you acquaint me you have in <lb/>my Affairs I have Just now <abbr expan="received">rec'd</abbr> Mr. Dawkins's Sale of my 20 hogsheads <lb/>per <note target="n1">Keeling</note> it Seems on the 18th: of May he had 25 hogsheads of my other <lb/>Concern unsold I will please my Self with the hopes to come <sic corr="off">of</sic> as <lb/>well at least with these unaccounted for as them I have the Sales <lb/>of. <sic corr="We">Wee</sic> are <sic corr="fallen">fallin</sic> into very poor times it is dificult for us to live <lb/><corr resp="editor">[u]</corr>nder a Series of so many Successive mean years. The <note n="CS"><name type="ship">Carter</name></note> con<lb/><corr resp="editor">[t]</corr>inues to be an unfortunate Ship I almost think I am taking <lb/>my leave of her for good and all, and can hardly think the O<corr resp="editor">[wners?]</corr> <lb/>will any longer <add place="supralinear">be</add> <sic corr="Satisfied">Satisfyed</sic> in <sic corr="making">makeing</sic> any more <sic corr="losing">looseing</sic> V<corr resp="editor">[oyages]</corr> <lb/>and unless a better provision be made for her and She be und<corr resp="editor">[er a]</corr> <lb/>better regulation I cant Entertain hopes of better Success She has <lb/>bin all along a heavy load upon me and I have never <sic corr="failed">faild</sic> of <lb/>loading my Quota and more and yet must be brought in for a <lb/>Share in the loss a very disagreeable <sic corr="Story">Storey</sic> I am </p>
+and the more dilatory my Sales, the last year Mr. Dawkins had <lb/>a large Share of my buiness, My Accots. are not yet <sic corr="Completed">Compleated</sic> <lb/>and that which troubles me most is to find my Crops Sells at a penny <lb/>per pound less <sic corr="than">then</sic> many <abbr expan="Genlemen">Gent</abbr> upon York river of my long Acquaintance had <lb/>for theirs the reasons of this prodigious difference I shall never be able <lb/>to fathom times have bin when <sic corr="we">wee</sic> were upon a Level and I have <lb/>Instances to show when I have Exceeded them I Should not be so partic<lb/>ular to you but for the intimacy you acquaint me you have in <lb/>my Affairs I have Just now <abbr expan="received">rec'd</abbr> Mr. Dawkins's Sale of my 20 hogsheads <lb/>per <note target="n1"><sic corr="Keiling">Keeling</sic></note> it Seems on the 18th: of May he had 25 hogsheads of my other <lb/>Concern unsold I will please my Self with the hopes to come <sic corr="off">of</sic> as <lb/>well at least with these unaccounted for as them I have the Sales <lb/>of. <sic corr="We">Wee</sic> are <sic corr="fallen">fallin</sic> into very poor times it is dificult for us to live <lb/><corr resp="editor">[u]</corr>nder a Series of so many Successive mean years. The <note n="CS"><name type="ship">Carter</name></note> con<lb/><corr resp="editor">[t]</corr>inues to be an unfortunate Ship I almost think I am taking <lb/>my leave of her for good and all, and can hardly think the O<corr resp="editor">[wners]</corr> <lb/>will any longer <add place="supralinear">be</add> <sic corr="Satisfied">Satisfyed</sic> in <sic corr="making">makeing</sic> any more <sic corr="losing">looseing</sic> V<corr resp="editor">[oyages]</corr> <lb/>and unless a better provision be made for her and She be und<corr resp="editor">[er a]</corr> <lb/>better regulation I cant Entertain hopes of better Success She has <lb/>bin all along a heavy load upon me and I have never <sic corr="failed">faild</sic> of <lb/>loading my Quota and more and yet must be brought in for a <lb/>Share in the loss a very disagreeable <sic corr="Story">Storey</sic> I am </p>
 
-<closer>Yor. humble Servt:&mdash;<seg type="postscript"><lb/><lb/>per Carter</seg></closer>
+<closer>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. humble Servt:&mdash;
+
+<seg type="postscript"><lb/><lb/>per Carter</seg></closer>
 
 
 </div1>
@@ -142,6 +143,7 @@ and the more dilatory my Sales, the last year Mr. Dawkins had <lb/>a large Share
 <note id="n1">[1] Captain William Keiling (Keeling) commanded the <hi rend="italics">Betty.
 </hi> (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194, Virginia Colonial Records Project, Albert and Shirley  Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was reviewed December 4, 2014.</hi></note>
 
 
 
