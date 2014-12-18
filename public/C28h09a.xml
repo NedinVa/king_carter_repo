@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,8 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1728-08-09">Augst. 9th: 1728</date><lb/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1728-08-09">Augst. 9th: 1728</date><lb/>
 
 </dateline>
 <salute>D<corr resp="editor">[ea]</corr>r. Lewis Burwell</salute>
@@ -116,10 +115,11 @@
 
 
 
-<p>I have not <abbr expan="received">recd</abbr> a Letter from you this year <lb/>which I very much wonder at when you know the Entire care <lb/>of you is Committed to me by your <note n="ECB">Father. </note><note n="MP2">Mr. Perry</note> gives me <lb/>hopes as you grow older you will grow wiser he tells me he was <lb/>advised by your Master <add place="supralinear">Dr. Bland</add> to continue <sic corr="until">till</sic> Christmas <del>[illegible]</del> <add place="supralinear">next</add> <lb/>at <sic corr="Eton,">Eaton,</sic> and then intends to Send you to Cambridge where it is the <lb/>desire of all your Friends you Should go I commit the Entire dire<lb/>ction of you to Mr. Perry <sic corr="desiring">desireing</sic> him to be very frugal in <lb/>your Expences and not to let you run out more money <sic corr="than">then</sic> will <lb/>be absolutely necessary for your decent maintenance there tht. <lb/>you may keep Gentlemens Company and further <sic corr="than">then</sic> this I will <lb/>by no no means allow you You are now growing towards Man<lb/>hood it is not fine <sic corr="Clothes">Cloaths</sic> nor a gay outsight but Learning &amp; <lb/>Knowledge and wisdom and <sic corr="Virtue">Vertue</sic> that makes a valueable <lb/>man that you may prove Such a one is the daily Prayers of </p>
+<p>I have not <abbr expan="received">recd</abbr> a Letter from you this year <lb/>which I very much wonder at when you know the Entire care <lb/>of you is Committed to me by your <note n="ECB">Father. </note><note n="MP2">Mr. Perry</note> gives me <lb/>hopes as you grow older you will grow wiser he tells me he was <lb/>advised by your Master <note target="n2"><add place="supralinear">Dr. Bland</add></note> to continue <sic corr="until">till</sic> Christmas <del>[illegible]</del> <add place="supralinear">next</add> <lb/>at <note target="n3"><sic corr="Eton,">Eaton,</sic></note> and then intends to Send you to Cambridge where it is the <lb/>desire of all your Friends you Should go I commit the Entire dire<lb/>ction of you to Mr. Perry <sic corr="desiring">desireing</sic> him to be very frugal in <lb/>your Expences and not to let you run out more money <sic corr="than">then</sic> will <lb/>be absolutely necessary for your decent maintenance there tht. <lb/>you may keep Gentlemens Company and further <sic corr="than">then</sic> this I will <lb/>by no no means allow you You are now growing towards Man<lb/>hood it is not fine <sic corr="Clothes">Cloaths</sic> nor a gay <note target="n4">outsight</note> but Learning &amp; <lb/>Knowledge and wisdom and <sic corr="Virtue">Vertue</sic> that makes a valueable <lb/>man that you may prove Such a one is the daily Prayers of </p>
 
-<closer>Yor. <abbr expan="Loving">Lovg:</abbr> GrandFather
-<seg type="postscript"><lb/><lb/><add place="supralinear">Yor.</add> Mother is now at my house with <lb/>your Brother <note target="n2">Robin</note> &amp; Sister <note target="n3">Betty</note> <lb/>She <del>wil</del> has a will to write to your herself <lb/>I Suppose All your Friends and <sic corr="relations">relacions</sic> are in health as far <lb/>as I know and hearty wishes of your welfare
+<closer>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. <abbr expan="Loving">Lovg:</abbr> GrandFather
+
+<seg type="postscript"><lb/><lb/><add place="supralinear">Yor.</add> Mother is now at my house with <lb/>your Brother <note target="n5">Robin</note> &amp; Sister <note target="n6">Betty</note> <lb/>She <del>wil</del> has a will to write to your herself <lb/>I Suppose All your Friends and <sic corr="relations">relacions</sic> are in health as far <lb/>as I know and hearty wishes of your welfare
 <lb/><lb/>per the <note n="CS">Carter</note></seg></closer>
 
 
@@ -140,10 +140,17 @@
 
 <note id="n1">[1] Lewis Burwell (1711 or 1712-1756), Carter's grandson by Elizabeth Carter Burwell and her first husband, Nathaniel Burwell (1680-1721) for whom Carter was guardian. He was educated at Eton and Cambridge, and inherited considerable property, living at "Fairfield," Gloucester County. He would be president of the Council in 1750-1751. (<cit><bibl n="B42">Kneebone <hi rend="italics">et al.</hi>,  <title>Dictionary of Virginia Biography.</title>  2:434-5.</bibl></cit> and <cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 114.</bibl></cit>)</note>
 
-<note id="n2">[2]  Robert Carter Burwell (1720-1777) was Robert Carter's grandson by his daughter Elizabeth (Carter) Burwell and her first husband, Nathaniel Burwell (1680-1721). Robert Burwell would live in Isle of Wight County, and marry twice, first in 1742 to Sally Nelson, and later Mary Blair Braxton.(<cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 174.</bibl></cit></note>
+<note id="n2">[2] Henry Bland, then headmaster or provost of Eton College, appointed in 1728 as dean of Durham Cathedral, a post that he received becaue of his "steady adherence to the Whig party, on whose behalf he used to write political pamphlets and articles." (<cit><bibl>Henry Churchill Maxwell Lyte. <title>A History of Eton College. 1440-1875.</title> [Macmillan and Company, 1875], pp. 287 ff, 294-95.</bibl></cit>)</note>
 
-<note id="n3">[3]  Elizabeth Burwell (1718- ?) was Carter's grandaughter by his daughter, Elizabeth, and her first husband, Nathaniel Burwell. She married in 1738 William Nelson of Yorktown.(<cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 143.</bibl></cit>)</note>
+<note id="n3">[3] "Eton College,  near Windsor, Berkshire, one of England's largest independent secondary schools and one of the highest in prestige. It was founded by Henry VI in 1440-41 for 70 highly qualified boys who received scholarships from a fund endowed by the king. . . .  The other students, called Oppidans . . . have traditionally come from England's wealthiest and most prestigious families, many of them aristocratic. Boys enter Eton about age 13 and continue there until they are ready to enter university." (<xref to="http://www.britannica.com/EBchecked/topic/194547/Eton-College">"Eton College"</xref> in <title>Encyclopaedia Brittanica</title> online. 12/9/2014)</note>
 
+<note id="n4">[4] Outsight as Carter uses it means "vision or perception of external things; the capacity to see or observe; (the ability to take) an overview."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>) </note>
+
+<note id="n5">[5]  Robert Carter Burwell (1720-1777) was Robert Carter's grandson by his daughter Elizabeth (Carter) Burwell and her first husband, Nathaniel Burwell (1680-1721). Robert Burwell would live in Isle of Wight County, and marry twice, first in 1742 to Sally Nelson, and later Mary Blair Braxton.(<cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 174.</bibl></cit></note>
+
+<note id="n6">[6]  Elizabeth Burwell (1718- ?) was Carter's grandaughter by his daughter, Elizabeth, and her first husband, Nathaniel Burwell. She married in 1738 William Nelson of Yorktown.(<cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 143.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised December 9, 2014,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 

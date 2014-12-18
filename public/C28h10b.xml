@@ -10,7 +10,12 @@
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; 
+
+<!NOTATION html SYSTEM "HTML">
+<!ENTITY Ext6 SYSTEM "http://www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm" NDATA html>
+
+]>
 <TEI.2 id="C28h10b">
 
 
@@ -39,7 +44,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,8 +111,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1728-08-10">Augst: 10th: 1728</date><lb/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1728-08-10">Augst: 10th: 1728</date><lb/>
 Mr: Wm: Dawkins<lb/>
 </dateline>
 <salute>Sir&mdash;</salute>
@@ -116,16 +120,19 @@ Mr: Wm: Dawkins<lb/>
 
 
 
-<p>This concludes me for this time herein Send <lb/>you a bill of Lading for 45 hogsheads of my own Crop <abbr expan="Tobacco">Tobbo:</abbr> I cannot praise <lb/>it from my own Eye Sight, but the persons <del>your </del> under <add place="supralinear">whose Inspecting</add> Care it was made <lb/>to whom I give large <sic corr="Salaries">Salarys</sic> for that very purpose assure me it is very <lb/>good and well handled,</p>
+<p>This concludes me for this time herein Send <lb/>you a <note target="n1">bill of Lading</note> for 45 hogsheads of my own Crop <abbr expan="Tobacco">Tobbo:</abbr> I cannot praise <lb/>it from my own Eye Sight, but the persons <del>your </del> under <add place="supralinear">whose Inspecting</add> Care it was made <lb/>to whom I give large <sic corr="Salaries">Salarys</sic> for that very purpose assure me it is very <lb/>good and well handled,</p>
 
-<p>Yor. packets by the <note target="n1">Sarah</note> Via Maryland came <lb/>to my hands two days ago bringing me the Sales of <note n="NB">Mr. Burwells</note> <abbr expan="Tobacco">Tobbo:</abbr> <lb/>wth. an Accot: Currt: of that Estate, and an Accot: of Sales of 20 of mine <lb/>by <note target="n2">Keeling</note> you Say that you had about 25 left which you <add place="supralinear">were</add> daily <sic corr="gett">get</sic><lb/>ing <sic corr="off">of</sic> and would send the Accot. as Soon as <sic corr="finished">finishd</sic> I will rest in hopes <lb/>those unaccounted for will come <add place="supralinear">out</add> as well as the Bettys it will ever be <lb/>a <sic corr="mystery">mistery</sic> to me that our <abbr expan="Tobacco">Tobbo:</abbr> made here falls so much Short in <lb/>Price to the York river <abbr expan="Tobacco">Tobbo:</abbr> I <sic corr="believe">beleive</sic> I may appeal to yor. memory <lb/>to Say it was not so formerly Sure I am neither their Grounds nor <lb/>their care exceed ours, when you have closed the Sales I hope you will <lb/>take the first Opportunity to Send me an Accot. Currt.</p>
+<p>Yor. packets by the <note target="n2">Sarah</note> Via Maryland came <lb/>to my hands two days ago bringing me the Sales of <note n="NB">Mr. Burwells</note> <abbr expan="Tobacco">Tobbo:</abbr> <lb/>wth. an Accot: Currt: of that Estate, and an Accot: of Sales of 20 of mine <lb/>by <note target="n3">Keeling</note> you Say that you had about 25 left which you <add place="supralinear">were</add> daily <sic corr="gett">get</sic><lb/>ing <sic corr="off">of</sic> and would send the Accot. as Soon as <sic corr="finished">finishd</sic> I will rest in hopes <lb/>those unaccounted for will come <add place="supralinear">out</add> as well as the Bettys it will ever be <lb/>a <sic corr="mystery">mistery</sic> to me that our <abbr expan="Tobacco">Tobbo:</abbr> made here falls so much Short in <lb/>Price to the York river <abbr expan="Tobacco">Tobbo:</abbr> I <sic corr="believe">beleive</sic> I may appeal to yor. memory <lb/>to Say it was not so formerly Sure I am neither their Grounds nor <lb/>their care exceed ours, when you have closed the Sales I hope you will <lb/>take the first Opportunity to Send me an Accot. Currt.</p>
  
-<p>Now Send you <note n="CS"><abbr expan="Captain">Capt</abbr> Doves </note>Exchange on your Self <lb/>for &pound;45"18. and mine and <note n="RL">D, Lee's</note> for &pound;7"6"8 I have <abbr expan="received">rec'd</abbr> a <sic corr="balance">ballance</sic> <lb/>that belongs to you from Tom Winter of One pound One Shilling <lb/>and Six <sic corr="pence">pense</sic> to be charged to my Accot. I have hopes in the long run <lb/>to get your Outstanding Debt of <note target="n3">Hutchins's </note><abbr expan="Executors">Execrs:</abbr> his <abbr expan="widow">widdw:</abbr> promises <lb/>me fairly I will prevail with her if I can to get her bond <note target="n4">Conollys </note><lb/>is a Special poor fellow but I <sic corr="believe">beleive</sic>he is honest and will pay wt. <lb/>he is able, and before you <abbr expan="cannot">cant</abbr> Expect it,</p>
+<p>Now Send you <note n="CS"><abbr expan="Captain">Capt</abbr> Doves </note><note target="n4">Exchange</note> on your Self <lb/>for &pound;45"18. and mine and <note n="RL">D, Lee's</note> for &pound;7"6"8 I have <abbr expan="received">rec'd</abbr> a <sic corr="balance">ballance</sic> <lb/>that belongs to you from Tom Winter of One pound One Shilling <lb/>and Six <sic corr="pence">pense</sic> to be charged to my Accot. I have hopes in the long run <lb/>to get your Outstanding Debt of <note target="n5">Hutchins's </note><abbr expan="Executors">Execrs:</abbr> his <abbr expan="widow">widdw:</abbr> promises <lb/>me fairly I will prevail with her if I can to get her bond <note target="n6">Conollys </note><lb/>is a Special poor fellow but I <sic corr="believe">beleive</sic>he is honest and will pay wt. <lb/>he is able, and before you <abbr expan="cannot">cant</abbr> Expect it,</p>
 
 <p><abbr expan="Captain">Capt:</abbr>: Dove brought me in Some odd things and <lb/>I thought I had given orders to you to let him have the money but <lb/>Dove tells me <add place="supralinear">Mr</add> <note n="EA">Athawes </note>could find no Such order I observe you have <lb/>charged half <abbr expan="per cent">perCt:</abbr> upon the Sale of Mr. Burwells <abbr expan="Tobacco">Tobbo:</abbr> for which you <lb/>have no Allowance from me I shall discourse <note n="MP1">Colonel Page</note> who act<corr resp="editor">[s]</corr> <lb/>with me in that affair and you will hear futher from us about <lb/>it, I am </p>
 
-<closer><seg type="postscript">Sir, Yor. very humble Servt.<lb/><lb/>per the Carter
-<lb/>Copy per the <abbr expan="Captain">Capt.</abbr>Wilcoxs</seg></closer>
+<closer><seg type="postscript">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir, Yor. very humble Servt.<lb/><lb/>
+per the Carter<lb/>
+Copy per the <abbr expan="Captain">Capt.</abbr>Wilcoxs</seg></closer>
 
 
 </div1>
@@ -143,15 +150,22 @@ Mr: Wm: Dawkins<lb/>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] Captain [James?] Richardson commanded the <hi rend="italics">Sarah</hi> and was based in Weymouth.</note>
+ <note id="n1"> [1] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
-<note id="n2">[2] Captain William Keiling commanded the <hi rend="italics">Betty.
+<note id="n2">[2] The <hi rend="italics">Sarah</hi> was a 120-ton London vessel with a crew of 13 commanded by John Reynolds in 1728 and 1729.  (<cit><bibl>Adm 68/194 and 195,  found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n3">[3] Captain William Keiling commanded the <hi rend="italics">Betty.
 </hi> (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194, Virginia Colonial Records Project, Albert and Shirley  Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
-<note id="n3">[3] This may be John Hutchins of Lancaster County who died in 1727. (<cit><bibl n="B44">Sorrells.<title>title>Landholders &amp; Landholdings.</title> p.30. </bibl></cit>)</note>
+<note id="n4"> [4] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (<cit><bibl><xref to="Ext6">"Dictionary of  Financial Scam Terms,"</xref> 8/22/2005</bibl></cit>)</note>
 
-<note id="n4">[4]   Patrick Connelly appears on a 1716 list of titheables in Christ Church Parish, Lancaster County (<cit><bibl>"Tithables in Lancaster Co., 1716." <title>William and Mary Quarterly</title> 1st. ser., 21[July 1912]: 107.</bibl></cit>)</note>
+<note id="n5">[5] This may be John Hutchins of Lancaster County who died in 1727. (<cit><bibl n="B44">Sorrells.<title>title>Landholders &amp; Landholdings.</title> p.30,  </bibl></cit> and <cit><bibl>Ida J. Lee. <title>Abstracts Lancaster County,Virginia,  Wills. 1653-1800.</title> [Greenville, SC: Southern Historical Press, Inc., 2004.] Reprint of the original 1959 edition. p.120.</bibl></cit>
+)</note>
 
+<note id="n6">[6]   Patrick Connelly appears on a 1716 list of titheables in Christ Church Parish, Lancaster County (<cit><bibl>"Tithables in Lancaster Co., 1716." <title>William and Mary Quarterly</title> 1st. ser., 21[July 1912]: 107.</bibl></cit>)</note>
+
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised December 12, 2014,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 </div1>
