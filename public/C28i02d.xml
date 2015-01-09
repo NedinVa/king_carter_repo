@@ -10,7 +10,12 @@
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; 
+
+<!NOTATION html SYSTEM "HTML">
+<!ENTITY Ext6 SYSTEM "http://www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm" NDATA html>
+
+]>
 <TEI.2 id="C28i02d">
 
 
@@ -39,7 +44,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,8 +111,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1728-09-02">Sepr: 2d. 1728</date><lb/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1728-09-02">Sepr: 2d. 1728</date><lb/>
 Mr. Nathl. Gundry<lb/>
 </dateline>
 <salute>Sir&mdash;</salute>
@@ -116,10 +120,12 @@ Mr. Nathl. Gundry<lb/>
 
 
 
-<p><del>The first </del>I reckon you in my Debt upon your <lb/>two Accots. of Sales and the bill of Exchange I Sent you One hundred and <lb/>fourteen pounds odd money This is to advise you I have lately <lb/>drawn upon you for four Score pounds payable to Colonel <note target="n2">John <lb/>Tayloe</note> which I desire you to answer at time &amp; place to my <lb/>Accot. the Ship is not yet <sic corr="gone">gon</sic> that <sic corr="carries">carrys</sic> the bills however it is not <lb/>amiss to be Early with my Advice Your market was so low last <lb/>year I was discouraged from Sending any <abbr expan="Tobacco">Tobbo.</abbr> to yor. port <sic corr="we">wee</sic> had <lb/>the good fortune to meet with better prices at <name type="city">London</name> I Shall take <lb/>my leave at present </p>
+<p><del>The first </del>I reckon you in my Debt upon your <lb/>two Accots. of Sales and the <note target="n2">bill of Exchange</note> I Sent you One hundred and <lb/>fourteen pounds odd money This is to advise you I have lately <lb/>drawn upon you for four Score pounds payable to Colonel <note target="n3">John <lb/>Tayloe</note> which I desire you to answer at time &amp; place to my <lb/>Accot. the Ship is not yet <sic corr="gone">gon</sic> that <sic corr="carries">carrys</sic> the bills however it is not <lb/>amiss to be Early with my Advice Your market was so low last <lb/>year I was discouraged from Sending any <abbr expan="Tobacco">Tobbo.</abbr> to yor. port <sic corr="we">wee</sic> had <lb/>the good fortune to meet with better prices at <name type="city">London</name> I Shall take <lb/>my leave at present </p>
 
-<closer><seg type="postscript">Sir&mdash;<lb/>Yor. very humble Servt.
-<lb/><lb/>per <note target="n3">Dunlop</note></seg></closer>
+<closer><seg type="postscript">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir&mdash;<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. very humble Servt.
+<lb/><lb/>per <note target="n4">Dunlop</note></seg></closer>
 
 
 </div1>
@@ -139,11 +145,15 @@ Mr. Nathl. Gundry<lb/>
 
 <note id="n1">[1] Nathaniel Gundry was a merchant in Lyme Regis, Dorset, and mayor of that town several times. His son was a member of Parliament and later a judge. (Notes made by Francis L. Berkeley, Jr., from  <cit><bibl>George Robert. <title>History and Antiquities of the Borough of Lyme Regis &amp; Charnmouth.</title> [London, 1834]. pp. 97, 383-4.</bibl></cit>; and <cit><bibl n="B6">Sedgwick. <title>The History of Parliament . . . Commons.</title> pp. 91-92.</bibl></cit>)</note>
 
-<note id="n2">[2] John Tayloe (1687-1747) of Mt. Airy, Richmond County, who served as justice, burgess, colonel of militia, and as a member of the Council after 1732. (<cit><bibl n="B31">Ryland. <title>Richmond County Virginia. . . . </title> pp. 115-16.</bibl></cit>)</note>
-
-<note id="n3">[3] The <hi rend="italics">Martha</hi>  was commanded by a Captain Dunlop; see Carter to Richard Oswald &amp; Company 1729 August 11.</note>
+ <note id="n2"> 2[] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (<cit><bibl><xref to="Ext6">"Dictionary of  Financial Scam Terms,"</xref> 8/22/2005</bibl></cit>)</note>
 
 
+<note id="n3">[3] John Tayloe (1687-1747) of Mt. Airy, Richmond County, who served as justice, burgess, colonel of militia, and as a member of the Council after 1732. (<cit><bibl n="B31">Ryland. <title>Richmond County Virginia. . . . </title> pp. 115-16.</bibl></cit>)</note>
+
+<note id="n4">[4] The <hi rend="italics">Martha</hi>  was commanded by a Captain Dunlop and owned by Richard Oswald &amp; Company; see Carter to Richard Oswald &amp; Company <xref to="http://carter.lib.virginia.edu/html/C29h11a.html">August 11, 1729,</xref> and Carter to Oswald,  <xref to="http://carter.lib.virginia.edu/html/C31g27b.html">July 27,1731</xref>.</note>
+
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised January  8, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 

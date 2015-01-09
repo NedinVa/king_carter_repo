@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -88,7 +88,7 @@
 <head>
 <bibl>
 <abbr>AL</abbr>
-<extent> p.</extent>
+<extent>1 p.</extent>
 <date value="1728-09-12"></date>
 <idno rend="suppress">C28i12b.xml</idno>
 <title>Letter from Robert Carter to John King, September 12, 1728</title>
@@ -106,8 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1728-09-12">Sepr. the 12th: 1728</date><lb/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1728-09-12">Sepr. the 12th: 1728</date><lb/>
 John King Esqr.<lb/>
 </dateline>
 <salute>Sir&mdash;</salute>
@@ -116,11 +115,14 @@ John King Esqr.<lb/>
 
 
 
-<p>This is a Short line to desire you will take <lb/>the first opportunity to Send me in two hundred weight of your <lb/><name type="city">Bristol</name> <sic corr="Shot">Shott</sic> and fifty weight of good Powder and if you Send me <lb/>in five hundred weight of <sic corr="Flat">Flatt</sic> and Square <add place="supralinear"><sic corr="Bars">Barrs</sic></add> of Iron it will not <lb/>be unwelcome I am I am <add resp="editor"> [<hi rend="italics">sic</hi>]</add>Sir&mdash;<lb/>Yor. humble Servt.
+<p>This is a Short line to desire you will take <lb/>the first opportunity to Send me in two hundred weight of your <lb/><name type="city">Bristol</name> <note target="n1"><sic corr="Shot">Shott</sic></note> and fifty weight of good Powder and if you Send me <lb/>in five hundred weight of <sic corr="Flat">Flatt</sic> and Square <add place="supralinear"><sic corr="Bars">Barrs</sic></add> of Iron it will not <lb/>be unwelcome I am I am 
 </p>
 
-<closer><seg type="postscript">Sir, Yor. humble Servt.
-<lb/><lb/>per <note target="n1">Raymond</note></seg></closer>
+<closer>
+<seg type="postscript">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir&mdash;<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. humble Servt.
+<lb/><lb/>per <note target="n2">Raymond</note></seg></closer>
 
 
 </div1>
@@ -138,7 +140,12 @@ John King Esqr.<lb/>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] No information about Captain Raymond has been found.</note>
+<note id="n1">[1]   In Carter's day, the muzzle loading weapons performed best when loaded with a spherical projectile manufactured by pouring drops of molten lead into a pool of water.  "Small shot had been made by the 'long drop into water'" method for around a hundred years" before the invention of the tower for that purpose by a Bristol man, William Watts, about 1780. (<cit><bibl>Walter Mnichinton. "The Shot Tower" in <title>The Shot Peener</title>. 7[#3 Fall 1993]:22-24</bibl></cit>, reprinted from <title>American Heritage</title>, 199; and "<xref to="http://brisray.com/bristol/blead1.htm">Lead Working</xref> in Bristol'")</note>
+
+<note id="n2">[2] No information about Captain Raymond has been found.</note>
+
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised January 9, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 

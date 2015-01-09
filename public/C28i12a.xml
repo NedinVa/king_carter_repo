@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,8 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1728-09-12">Sepr. the 12th. 1728 </date><lb/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1728-09-12">Sepr. the 12th. 1728 </date><lb/>
 Mr. Wm. Dawkins<lb/>
 </dateline>
 <salute>Sir&mdash;</salute>
@@ -116,11 +115,14 @@ Mr. Wm. Dawkins<lb/>
 
 
 
-<p>I hope this will have the luck to get to you time <lb/>Enough I desire you to Send me in a <abbr expan="dozen">doz:</abbr> Strong Substantial Silver <lb/>Spoons to have the two first Letters of my name upon them I also <lb/>desire you to Send me in four hundred weight of Drop <sic corr="Shot,">Shott,</sic> &amp; a <lb/><sic corr="Barrel">Barrell</sic> of the best <sic corr="Pistol">Pistole</sic> powder One half of the Shot to be that <lb/>Sort thats <sic corr="called">calld</sic> Bristol Shot the other half a Smaller Size, also <lb/>to Send me a Case of a  <abbr expan="dozen">doz:</abbr>Strong wooden handled fashionable <lb/>knives and forks, which Shall be all at Present from </p>
+<p>I hope this will have the luck to get to you time <lb/>Enough I desire you to Send me in a <abbr expan="dozen">doz:</abbr> Strong Substantial Silver <lb/>Spoons to have the two first Letters of my name upon them I also <lb/>desire you to Send me in four hundred weight of <note target="n1">Drop <sic corr="Shot,">Shott,</sic></note> &amp; a <lb/><sic corr="Barrel">Barrell</sic> of the best <sic corr="Pistol">Pistole</sic> powder One half of the Shot to be that <lb/>Sort thats <sic corr="called">calld</sic> Bristol Shot the other half a Smaller Size, also <lb/>to Send me a Case of a  <abbr expan="dozen">doz:</abbr>Strong wooden handled fashionable <lb/>knives and forks, which Shall be all at Present from </p>
 
-<closer>Sir<lb/>Yor humble Servt.
-<seg type="postscript"><lb/><lb/>per Raymond
-Copy per <note target="n1">Nayler</note></seg></closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor humble Servt.
+<seg type="postscript"><lb/><lb/>per <note target="n2">Raymond</note><lb/>
+Copy per <note target="n3"><sic corr="Naylor">Nayler</sic></note></seg>
+</closer>
 
 
 </div1>
@@ -138,8 +140,13 @@ Copy per <note target="n1">Nayler</note></seg></closer>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] Carter sent letters by Captain Naylor in the fall of 1728, but apparently the ship was lost on its way to Liverpool because Carter noted to William Dawkins 1728 June 29, the ship "hath never been heard of."</note>
+ <note id="n1">[1]  In Carter's day, the muzzle loading weapons performed best when loaded with a spherical projectile manufactured by pouring drops of molten lead into a pool of water.  "Small shot had been made by the 'long drop into water'" method for around a hundred years" before the invention of the tower for that purpose by a Bristol man, William Watts, about 1780. (<cit><bibl>Walter Mnichinton. "The Shot Tower" in <title>The Shot Peener</title>. 7[#3 Fall 1993]:22-24,</bibl></cit> reprinted from <title>American Heritage</title>, 199; and "<xref to="http://brisray.com/bristol/blead1.htm">Lead Working</xref> in Bristol'")  </note>
 
+<note id="n2">[2] No information about Captain Raymond has been found.</note>
+
+<note id="3">[3] Carter sent letters by Captain Naylor of a Liverpool ship in the fall of 1728, but apparently the ship was lost because Carter noted to William Dawkins<xref to="http://carter.lib.virginia.edu/html/C29f28b.mod.html"> June 29, 1729</xref>, the ship "hath never been heard of."</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised January 9, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 
