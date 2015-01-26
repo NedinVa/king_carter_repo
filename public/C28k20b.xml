@@ -10,7 +10,12 @@
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; 
+
+<!NOTATION php SYSTEM "php">
+<!ENTITY Ext4 SYSTEM "http://www.stratfordhall.org\/learn\/lees\/thomaslee.php" NDATA php>
+
+]>
 <TEI.2 id="C28k20b">
 
 
@@ -39,7 +44,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,7 +111,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Corotoman, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<name type="place">Corotoman, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;
 <date value="1728-11-20">Novr. the 20th: 1728</date><lb/>
 Colonel Lee<lb/>
 </dateline>
@@ -114,11 +119,14 @@ Colonel Lee<lb/>
 
 </opener>
 
-<p>herein I Send you your own Commission <note target="n2">Colonel <lb/>Ashtons</note> and <note target="n3"><abbr expan="Major">Majr.</abbr> Berrymans.</note> <note n="GE"><abbr expan="Major">Majr.</abbr> Eskridge</note> has his I have blank <lb/>Commissions for all the rest of the Officers of your County I am not will<lb/>ing to fill them up <sic corr="until">till</sic> I have had your Opinion about them, I be<lb/><sic corr="lieve">leive</sic> the list you gave me will hardly do now I cannot but think <lb/>there are Some <abbr expan="Gentlemen">Gent</abbr> for the two Companys that want Captains, that <lb/>will better Supply their places <sic corr="than">then</sic> the <abbr expan="Lieutenants">Leiuts.</abbr> I Send you a Copy of the list <lb/>I had from you that you may Consider of it and let me have your <lb/>Second thoughts, As for the under Officers I think it best to let the <lb/><corr resp="editor">[r]</corr>espective Captains please themselves,</p>
+<p>herein I Send you your own Commission <note target="n2">Colonel <lb/>Ashtons</note> and <note target="n3"><abbr expan="Major">Majr.</abbr> Berrymans.</note> <note n="GE"><abbr expan="Major">Majr.</abbr> Eskridge</note> has <del>it</del> his I have blank <lb/>Commissions for all the rest of the Officers of your County I am not will<lb/>ing to fill them up <sic corr="until">till</sic> I have had your Opinion about them, I be<lb/><sic corr="lieve">leive</sic> the list you gave me will hardly do now I cannot but think <lb/>there are Some <abbr expan="Gentlemen">Gent</abbr> for the two Companys that want Captains, that <lb/>will better Supply their places <sic corr="than">then</sic> the <abbr expan="Lieutenants">Leiuts.</abbr> I Send you a Copy of the list <lb/>I had from you that you may Consider of it and let me have your <lb/>Second thoughts, As for the under Officers I think it best to let the <lb/><corr resp="editor">[r]</corr>espective Captains please themselves,</p>
 
-<p>You know that upon these Occasions the <abbr expan="Governor's">Govrs.</abbr> Clerk <lb/>who writes these Commissions Expects to be <sic corr="remembered">remembred</sic> I <sic corr="promised">promist</sic> <lb/><corr resp="editor">[h]</corr>im all the Service I could do and to be answerable to him for what <lb/><abbr expan="Gentlemen">Gent</abbr> would be pleased to <note target="n4"><sic corr="deposit">depolite</sic></note> in my hands for him I doubt not <lb/><corr resp="editor">[you]</corr>r readiness to forward this matter as far as it <sic corr="lies">lyes</sic> within your <lb/>province I am </p>
+<p>You know that upon these Occasions the <note n="WG"><abbr expan="Governor's">Govrs.</abbr></note> Clerk <lb/>who writes these Commissions Expects to be <sic corr="remembered">remembred</sic> I <sic corr="promised">promist</sic> <lb/><corr resp="editor">[h]</corr>im all the Service I could do and to be answerable to him for what <lb/><abbr expan="Gentlemen">Gent</abbr> would be pleased to <note target="n4"><sic corr="deposit">depolite</sic></note> in my hands for him I doubt not <lb/><corr resp="editor">[you]</corr>r readiness to forward this matter as far as it <sic corr="lies">lyes</sic> within your <lb/>province I am </p>
 
-<closer>Sir<lb/>Yor. most humble Servt:&mdash;</closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. most humble Servt:&mdash;
+</closer>
 
 
 </div1>
@@ -134,17 +142,18 @@ Colonel Lee<lb/>
 
 <note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. The addressee can be identified as Thomas Lee of Westmoreland County because George Eskridge and others mentioned in the letter as recipients of militia commissions were also residents of that county.</note>
 
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
+<note> The county and colony have been added for clarity to the  heading on the draft.</note>
 
-<note id="n1">[1] Thomas Lee (1690-1750) was the son of Richard Lee II, and nephew of Edmund Jenings; he would build "Stratford," and succeed Carter on the Council. (<cit><bibl>Burton J. Hendrick. <title>The Lees of Virginia: Biography of a Family.</title> [Boston: Little Brown, 1935]. pp. 48, 51, etc.</bibl></cit>)</note>
+<note id="n1">[1] Thomas Lee (1690-1750) of Westmoreland County was the son of Richard Lee II, and nephew of Edmund Jenings; he would build "Stratford," and succeed Carter on the Council. For a good article on Thomas Lee, see  "<xref to="http://www.stratfordhall.org/collections-research/staff-research/thomas-lee-of-stratford-1690-1750/">Thomas Lee of Stratford</xref> 1690-1750" by Jeanne A. Calhoun on Stratford plantation's website. (<cit><bibl>Burton J. Hendrick. <title>The Lees of Virginia: Biography of a Family.</title> [Boston: Little Brown, 1935]. pp. 48, 51, etc.</bibl></cit>)</note>
 
 <note id="n2">[2] Henry Ashton (1670-1731) was a prominent citizen of Westmoreland County where he was burgess, justice, and sheriff. (<cit><bibl n="B38">Norris. <title>Westmoreland County, Virginia.</title> p. 107;</bibl></cit> and <cit><bibl>David W. Eaton. <title>Historical Atlas of Westmoreland County Virginia.</title> Richmond: Dietz Press, 1942, in an undated reprint. p. 43.</bibl></cit></note>
 
-<note id="n3"> [3] Benjamin Berryman (ca. 1680-1729) was the son of John and Jane Berryman and lived in Westmoreland County where he was justice and sheriff. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 3[1705-1721]:398, 425; </bibl></cit> and "Capt. Benjamin Berryman. . . .  http://www.sharpwriters.com/genealogy/berryman.html, 30 Nov. 2004)</note>
-
+<note id="n3"> [3] Benjamin Berryman (ca. 1680-1729) was the son of John and Jane Berryman and lived in Westmoreland County where he was justice and sheriff. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 3[1705-1721]:398, 425; </bibl></cit> and "Capt. Benjamin 
+Berryman. . . .  http://www.sharpwriters.com/genealogy/berryman.html, 30 Nov. 2004)</note>
 
 <note id="n4">[4] The clerk probably meant to write "deposit."</note> 
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised January 19, 2015,  to  strengthen the footnotes and modern language version text.</hi></note>
 
 
 

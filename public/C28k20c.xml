@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -94,7 +94,7 @@
 <title>Letter from Robert Carter to Colonel [Nicholas] Smith, November 20, 1728</title>
 </bibl>
 </head>
-<p>Robert Carter as comander of the militia of the Northern Neck writes to Colonel [Nicholas] Smith of King George County, November 20, 1728, concerning the appoinment of milita officers in that county.</p>
+<p>Robert Carter as comander of the militia of the Northern Neck writes to Colonel [Nicholas] Smith of King George County, November 20, 1728, concerning the appointment of milita officers in that county.</p>
 </div1>                 
 </front>
 
@@ -106,7 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
+<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;
 <date value="1728-11-20">Novr. the 20th. 1728</date><lb/>
 To Colonel Smith<lb/>
 </dateline>
@@ -136,10 +136,18 @@ To Colonel Smith<lb/>
 
 <note id="n1">[1] Major William Thornton (d. 1742/43) of King George County. (<cit><bibl><title>King George County Virginia Will Book A-1 1721-1752 And Miscellaneous Notes.</title> [Fredericksburg, VA: Privately Printed, 1978], p. 277.</bibl></cit>)</note>
 
-<note id="n2">[2] Carter probably told his clerk to add to this letter when he copied it the final paragraph of his letter to Thomas Lee of the same date. It read:  "You know that upon these Occasions the <abbr expan="Governor's">Govrs.</abbr> Clerk who writes these Commissions Expects to be <sic corr="remembered">remembred</sic> I <sic corr="promised">promist</sic><corr resp="editor">[h]</corr>im all the Service I could do and to be answerable to him for what <abbr expan="Gentlemen">Gent</abbr> would be pleased to <sic corr="deposit">depolite</sic> in my hands for him I doubt not <corr resp="editor">[you]</corr>r readiness to forward this matter as far as it <sic corr="lies">lyes</sic> within your province I am."</note>
+<note id="n2">[2] Carter  told his clerk to add to this draft when he prepared the outgoing letter the final paragraph of his <xref to="http://carter.lib.virginia.edu/html/C28k20b.html">letter to Thomas Lee</xref> of the same date. It read:  <lb/><lb/>
 
+           You know that upon these Occasions the Govrs. Clerk 
+           who writes these Commissions Expects to be remembred I promist 
+           [h] im all the Service I could do and to be answerable to him for what 
+           Gent would be pleased to depolite in my hands for him I doubt not 
+           [you] r readiness to forward this matter as far as it lyes within your 
+           province I am
 
+</note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised January 20, 2015,  to  strengthen the footnotes and the modern language version text.</hi></note>
 
 
 </div1>

@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,18 +106,17 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Corotoman, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1728-11-20">Novr. 20th. 1728</date><lb/>
+<name type="place">Corotoman, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1728-11-20">Novr. 20th. 1728</date><lb/>
 To Colonel Tayloe<lb/>
 </dateline>
 <salute>Sir&mdash;</salute>
 
 </opener>
 
-<p>By my <note n="RC2">Son Robin</note> I Send you your own Commission <lb/>and a <abbr expan="Major's">Majr.</abbr> commission for <note target="n2">Moore Fauntleroy</note> which you Seem to think <lb/>most proper I Send you a Copy of the list I had from you which will not <lb/>do now there must be a <abbr expan="Captain">Capt:</abbr> in the room of the <note target="n3"><abbr expan="Major">Majr.</abbr> Morton</note> I hear <lb/>is Dead and <note n="JB"><abbr expan="Captain">Capt:</abbr> <sic corr="Belfield">Belfeild</sic></note> desired me that his Son might have his <lb/>Place there will want I <sic corr="believe">beleive</sic>other regulations I have blanks <lb/>for all the Officers <sic corr="believe">beleive</sic>the best way will be to let the respective <abbr expan="Captains">Capts.</abbr> 
+<p>By my <note n="RC2">Son Robin</note> I Send you your own Commission <lb/>and a <abbr expan="Major's">Majr.</abbr> Commission for <note target="n2">Moore Fauntleroy</note> which you Seem to think <lb/>most proper I Send you a Copy of the list I had from you which will not <lb/>do now there must be a <abbr expan="Captain">Capt:</abbr> in the room of the <note target="n3"><abbr expan="Major">Majr.</abbr> Morton</note> I hear <lb/>is Dead and <note n="JB"><abbr expan="Captain">Capt:</abbr> <sic corr="Belfield">Belfeild</sic></note> desired me that his Son might have his <lb/>Place there will want I <sic corr="believe">beleive</sic>other regulations I have blanks <lb/>for all the Officers <sic corr="believe">beleive</sic>the best way will be to let the respective <abbr expan="Captains">Capts.</abbr> 
 
 <pb n="2"/><lb/><lb/>
-please themselves in their under Officers, but I do not care to fill <lb/>them up <sic corr="until">till</sic> I have yor. Assistance and recommendation &amp; know <lb/>who they are that will not refuse which you will please to hand <lb/>me with the first Conveniencey Altho I think <sic corr="we">wee</sic> need not be in great <lb/><sic corr="haste">hast</sic> in regard it is the winter Season, here to follow the <note target="n4">Same Clause </note>as is to Colonel Lee</p>
+please themselves in their under Officers, but I do not care to fill <lb/>them up <sic corr="until">till</sic> I have yor. Assistance and recommendation &amp; know <lb/>who they are that will not refuse which you will please to hand <lb/>me with the first Conveniencey Although I think <sic corr="we">wee</sic> need not be in great <lb/><sic corr="haste">hast</sic> in regard it is the winter Season, here to follow the <note target="n4">Same Clause </note>as is to Colonel Lee</p>
 
 <closer><seg type="postscript"><lb/><lb/></seg></closer>
 
@@ -139,13 +138,23 @@ please themselves in their under Officers, but I do not care to fill <lb/>them u
 
 <note id="n1">[1] John Tayloe (1687-1747) of Mt. Airy, Richmond County, who served as justice, burgess, colonel of militia, and as a member of the Council after 1732. (<cit><bibl n="B31">Ryland. <title>Richmond County Virginia. . . . </title> pp. 115-16.</bibl></cit>)</note>
 
-<note id="n2">[2] Moore Fauntleroy (1679-1739), a prominent citizen of Richmond County where he was a justice in 1714; he married Margaret Micou. (<cit><bibl>http://homepages.rootsweb.com/~marshall/esmd48.htm;</bibl></cit> and <cit><bibl>Beverley Fleet. <title>Virginia Colonial Abstracts . . .  Richmond County Records 1703-1724. </title> (Privately published, [1943?]. p. 97.</bibl></cit>)</note>
+<note id="n2">[2] Moore Fauntleroy (1679-1739), a prominent citizen of Richmond County where he was a justice in 1714; he married Margaret Micou. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>,  3[1705- 1721]:284; </bibl></cit>  
+<cit><bibl><xref to="http://homepages.rootsweb.ancestry.com/~marshall/esmd48.htm">"Fauntleroy Family"</xref>;</bibl></cit> and <cit><bibl>Beverley Fleet. <title>Virginia Colonial Abstracts . . .  Richmond County Records 1703-1724. </title> [Privately published, (1943?). p. 97.]</bibl></cit>)</note>
 
-<note id="n3">[3] According to the online index of Virginia wills maintained by the Library of Virginia, the will of a John Morton of Richmond County was probated 1728 November 6. (Part of index to Richmond County Wills and Administrations (1692-1800. Note p. 105-110. Inv. &amp; appr. rec. 6 Nov. 1728. Will Book No. 5, 1725-1753.)</note>
+<note id="n3">[3] According to the online index of Virginia wills and administrations maintained by the Library of Virginia, there are records of the estate of John Morton of Richmond County in 1728. (<cit><bibl>"Part of index to Richmond County Wills and Administrations (1692-1800). Note p. 105-110. Inv. &amp; appr. rec. 6 Nov. 1728. Will Book No. 5, 1725-1753"</bibl></cit>; and <cit><bibl>Daniel Morton. "The Morton Patriarchs of Virginia."  <title>Virginia Magazine of History and Biography</title> 17[3 (Jul., 1909)]: 311-316</bibl></cit></note>
 
-<note id="n4">[4] Carter probably told his clerk to add to this letter when he copied it the final paragraph of his letter to Thomas Lee of the same date. It read:  "You know that upon these Occasions the <abbr expan="Governor's">Govrs.</abbr> Clerk who writes these Commissions Expects to be <sic corr="remembered">remembred</sic> I <sic corr="promised">promist</sic><corr resp="editor">[h]</corr>im all the Service I could do and to be answerable to him for what <abbr expan="Gentlemen">Gent</abbr> would be pleased to <sic corr="deposit">depolite</sic> in my hands for him I doubt not <corr resp="editor">[you]</corr>r readiness to forward this matter as far as it <sic corr="lies">lyes</sic> within your province I am."</note>
+<note id="n4">[4] Carter  told his clerk to add to this draft when he prepared the outgoing letter the final paragraph of his <xref to="http://carter.lib.virginia.edu/html/C28k20b.html">letter to Thomas Lee</xref> of the same date. It read: <lb/><lb/> 
 
+           You know that upon these Occasions the Govrs. Clerk 
+           who writes these Commissions Expects to be remembred I promist 
+           [h] im all the Service I could do and to be answerable to him for what 
+           Gent would be pleased to depolite <add resp="editor"> [<hi rend="italics">sic</hi>]</add>
+           in my hands for him I doubt not [you] r readiness to forward this matter 
+          as far as it lyes within your  province I am
 
+</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised January 20, 2015,  to  strengthen the footnotes and the modern language version text.</hi></note>
 
 
 
