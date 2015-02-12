@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -88,7 +88,7 @@
 <head>
 <bibl>
 <abbr>AL</abbr>
-<extent> p.</extent>
+<extent>1 p.</extent>
 <date value="1729-02-11"></date>
 <idno rend="suppress">C29b11a.xml</idno>
 <title>Letter from Robert Carter to Governor [William Gooch], February 11, 1729</title>
@@ -106,18 +106,16 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Corotom: <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1729-02-11">Feb: 11: 1728/9</date><lb/>
-To the Honble<lb/>
-the Govr:<lb/>
+<name type="place">Corotom: <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1729-02-11">Feb: 11: 1728/9</date><lb/>
+To the Honble}<lb/>
+the <abbr expan="Governer">Govr:</abbr>}<lb/>
 </dateline>
-<salute>May it pleas yr honour</salute>
+<salute>May it <sic corr="please">pleas</sic> <abbr expan="your">yr</abbr> honour</salute>
 
 </opener>
 
-<p>The difficulties of my son <note n="RC2">Roberts</note> necessary <lb/>attendance up on the Office you have been pleased to Continue <lb/>him in and the disagreeableness to his family by his frequent absence <lb/>from them makes him willing to resign <del>his place</del> <add place="supralinear">it</add> to his brother <note n="CC1">Charles</note> <lb/>if your honour will <sic corr="please">pleas</sic> to think fit to <sic corr="confer">conferr</sic> it upon him in his <lb/>room and he is the rather <abbr expan="inclined">inclin'd</abbr> to hope your <abbr expan="Honour">Honr:</abbr> will gratif<corr resp="editor">[y]</corr> <lb/>him in this his request in regard his competitor <note n="JG2"><abbr expan="Colonel">Colo.</abbr> Grym<corr resp="editor">[es is]</corr></note> <lb/>provided for by <abbr expan="your">yr:</abbr> honour with another place that is altogether inco=<lb/>nsistant with this he holds under your Honours favour As <abbr expan="your">yr:</abbr> <lb/>honours respects to him will always Lay him under Obligations to <lb/>make the outmost Acknowledgements within his power so it will <lb/>be my part with the greatest Sincerity <del>at all times</del> to demons<lb/>trate tht I am Sir <abbr expan="your">yr</abbr> honours most Obliged most Obedient and most <lb/>humble Servt:</p>
+<p>The difficulties of my son <note n="RC2">Roberts</note> necessary <lb/>attendance up on <note target="n1">the Office</note> you have been pleased to Continue <lb/>him in and the disagreeableness to his family by his frequent absence <lb/>from them makes him willing to resign <del>his place</del> <add place="supralinear">it</add> to his brother <note n="CC1">Charles</note> <lb/>if your honour will <sic corr="please">pleas</sic> to think fit to <sic corr="confer">conferr</sic> it upon him in his <lb/>room and he is the rather <abbr expan="inclined">inclin'd</abbr> to hope your <abbr expan="Honour">Honr:</abbr> will gratif<corr resp="editor">[y]</corr> <lb/>him in this his request in regard his competitor <note n="JG2"><abbr expan="Colonel">Colo.</abbr> Grym<corr resp="editor">[es is]</corr></note> <lb/>provided for by <abbr expan="your">yr:</abbr> honour with another place that is altogether inco=<lb/>nsistant with this he holds under your Honours favour As <abbr expan="your">yr:</abbr> <lb/>honours respects to him will always Lay him under Obligations to <lb/>make the <sic corr="utmost">outmost</sic> Acknowledgements within his power so it will <lb/>be my part with the greatest Sincerity <del>at all times</del> to demons<lb/>trate tht I am Sir <abbr expan="your">yr</abbr> honours most Obliged most Obedient and most <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;humble Servt:</p>
 
-<closer></closer>
 
 
 </div1>
@@ -135,9 +133,11 @@ the Govr:<lb/>
 
 <note>The county and colony have been added for clarity to the heading on this draft.</note>
 
-<note>Carter wrote to his son-in-law, Mann Page, <xref doc="C29b11b">this same day</xref> noting that he sends his letter to the governor by Charles, and has left it open so that Page can decide whether to send it or not. The minutes of a meeting of the Council held 1729 November 1 show that Charles did replace his brother as naval officer of the Rappahannock. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:210. </bibl></cit> )</note>
+<note>Carter wrote to his son-in-law, Mann Page, <xref to="http://carter.lib.virginia.edu/html/C29b11b.html">this same day</xref> noting that he sends his letter to the governor by Charles, and has left it open so that Page can decide whether to send it or not. The minutes of a meeting of the Council held November 1, 1729, show that Charles did replace his brother as naval officer of the Rappahannock. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:210. </bibl></cit> )</note>
 
+<note id="n1">[1] The office that Robert held was that of naval officer,  an official in the colony that reported to the Commissioners of Customs, a body that had first been established in 1663; the group was reorganized several times, especially after 1688. The board was "intrusted with collection of customs both in England and the colonies." The board helped write many of the instructions for colonial governors in collaboration with the Privy Council. "Their direct connection with the colonies was through the governors, who were instructed to correspond with the commissioners, and to send them, every three months, lists of clearances, and also reports of illegal trading. The governor's agent in matters of trade was the naval officer whom he was empowered to appoint, but who was required by the 7th and 8th William III to give security to the commissioners of customs." (<cit><bibl>Louise Phillips Kellogg. <title>The American Colonial Charter. A Study of English Administration in Relation Thereto, Especialy after 1688.</title>  [Annual Report, American Historical Association. Vol. 1, Govt. Print. Off., 1904], p. 226.</bibl></cit> For a recent study, see <cit><bibl>Alvin Rabushka. <title>Taxation in Colonial America</title> [Princeton, NJ: Princeton University Press, 2008.]</bibl></cit>)</note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised February 5, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 </div1>

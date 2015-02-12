@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,8 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Corotoman. <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1729-01-14">January 14: 1729</date><lb/>
+<name type="place">Corotoman. <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1729-01-14">January 14: 1729</date><lb/>
 Mr: James Carter<lb/>
 </dateline>
 
@@ -115,14 +114,18 @@ Mr: James Carter<lb/>
 
 
 
-<p>	Herewith I send you <note target="n1"><abbr expan="Leonard">Leon'd</abbr> <sic corr="Knights">Nights</sic></note> obligation <lb/>for the payment of 1740 pounds of <abbr expan="Tobacco">Tobo.</abbr> after the 1st of December 1725 <lb/>the Interest of this <abbr expan="Tobacco">Tobo</abbr> <sic corr="until">till</sic> last December at 6 <abbr expan="per Cent">perCt:</abbr> is 417. add to <lb/>this four years rent at 500 pounds per annum&mdash;it comes to 4157 <abbr expan="pounds">pds</abbr> of <abbr expan="Tobacco">Tobo</abbr> <lb/>he offers me his Estate for payment. he says he has some cows &amp; <lb/>calves besides household goods the way must be I think to have them <lb/>Valued I am in hopes you may prevail with <abbr expan="Captain">Capt</abbr> Farrow to take <lb/>care of the cattle during the winter and I will have them drove up in the <lb/>Spring to <note target="n2">Frying Pan&mdash;</note></p>
+<p>	Herewith I send you <note target="n1"><abbr expan="Leonard">Leon'd</abbr> <sic corr="Knights">Nights</sic></note> <sic corr="obligation">obligacon</sic> <lb/>for the payment of 1740 pounds of <abbr expan="Tobacco">Tobo.</abbr> after the 1st of December 1725 <lb/>the Interest of this <abbr expan="Tobacco">Tobo</abbr> <sic corr="until">till</sic> last December at 6 <abbr expan="per Cent">perCt:</abbr> is 417. add to <lb/>this four years rent at 500 pounds per annum&mdash;it comes to 4157 <abbr expan="pounds">pds</abbr> of <abbr expan="Tobacco">Tobo</abbr> <lb/>he offers me his Estate for payment. he says he has some cows &amp; <lb/>calves besides household goods the way must be I think to have them <lb/>Valued I am in hopes you may prevail with <abbr expan="Captain">Capt</abbr> Farrow to take <lb/>care of the cattle during the winter and I will have them drove up in the <lb/>Spring to <note target="n2">Frying Pan&mdash;</note></p>
 
 <p>I likewise here inclose to you the Secretarys <lb/><sic corr="note">noat</sic> on <note target="n3"><abbr expan="captain">capt</abbr> Farrow</note> the present Sheriff, for 1875 pounds of <abbr expan="Tobacco">Tobo</abbr><lb/>his fees due in Stafford for this present year I hope this <abbr expan="tobacco">tobo</abbr> may be <sic corr="contrived">contrivd</sic> <lb/>to go in paymnent of my <sic corr="public">publick</sic> dues</p>
 
 <p>I am indebted for a horse and a <sic corr="mare">mair</sic> <note target="n4"><abbr expan="Captain">Capt</abbr> Triplett </note><lb/>bought for the Service of the Frying pan Plantation I am to pay a thou<lb/>sand pounds of <abbr expan="tobacco">tobo</abbr> for each of them <abbr expan="Captain">Capt</abbr> Triplett will inform yo<corr resp="editor">[u]</corr> <lb/>to whom it is due I desire you will See this debt <abbr expan="discharged">discharg'd</abbr> upon Accot <lb/>of </p>
 
-<closer>your friend to Serve you
-<seg type="postscript"><lb/><lb/><sic corr="Delivered">Deliverd</sic> Mr Carter <lb/>himself</seg></closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;your friend to Serve you
+<seg type="postscript"><lb/><lb/>
+<sic corr="Delivered">Deliverd</sic> Mr Carter <lb/>
+himself</seg>
+</closer>
 
 
 </div1>
@@ -140,7 +143,7 @@ Mr: James Carter<lb/>
 
 <note>The county and colony have been added for clarity to the heading on this draft.</note>
 
-<note id="n1">[1] A Leonard Knight appears in records of Stafford County about this time. (<cit><bibl>"William Wigginton's Family Wife or Wives and Children ." http://timrobinson.scriptingoff.com/enter/archives/Stafford%2009000.wps. January 4, 2005.</bibl></cit>)</note>
+<note id="n1">[1] A Leonard Knight appears in records of Stafford County about this time. (<cit><bibl><xref to="http://eservice.pwcgov.org/library/digitallibrary/PDF/1724%20Tobacco%20Tenders%20Lists%20Part1%20&%202.pdf">List of the Tithables</xref> allowed to Tend Tobacco and quantity of Plants in the Precincts Between Aquia and  Quanco Vizt [Stafford County, 1724]</bibl></cit>; and <cit><bibl>W.B Chilton. "The Brent Family" <title>Virginia Magazine of History and Biography.</title>  18[1910]:444-47</bibl></cit>.)</note>
 
 <note id="n2">[2]  In 1728, Carter, his sons Robert and Charles, and his son-in-law Mann Page, organized a company to mine for copper on a tract of some 27,000 acres that Louis Morton describes as lying "near the present boundary of Fairfax and Loudoun counties." Fairfax Harrison wrote that the tract was "on the Horsepen of Broad." Horsepen Run joins Broad Run on the northern border of Dulles airport. The company was not successful. (<cit><bibl n="B32">Morton. <title>Robert Robert Carter of Nomini Hall.</title> pp. 18-19;</bibl></cit> and <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> p. 342. </bibl></cit>)</note>
 
@@ -148,6 +151,7 @@ Mr: James Carter<lb/>
 
 <note id="n4">[4] This may have been John Triplett of King George County. (<cit><bibl>"Combs &amp;c. Families of King George Co VA." http://www.combs-families.org/combs/records/va/kg.htm. January 4, 2005</bibl></cit>)</note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised January 27, 2015,  to  strengthen the footnotes and the modern language version text.</hi></note>
 
 
 

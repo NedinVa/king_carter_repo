@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,17 +106,14 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Corotomn, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1729-02-11">Febry: 11th: 1728/9</date><lb/>
-Colo: Page<lb/>
+<name type="place">Corotomn, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1729-02-11"><sic corr="February">Febry:</sic> 11th: 1728/9</date><lb/>
+<abbr expan="Colonel">Colo:</abbr> Page<lb/>
 </dateline>
-<salute>Honble: Sir</salute>
+<salute><sic corr="Honorable">Honble:</sic> Sir</salute>
 
 </opener>
 
-<p>This accompanys my Son <note n="CC1">Charles</note> who waits on <abbr expan="you">yo:</abbr> <lb/>in order to the <abbr expan="Accomplishment">Accomplishmt:</abbr> of his great design he brings a letter <lb/>to you from his <note n="RC2">Brother</note> and Also his Commission to be <sic corr="entirely">intirely</sic> un<lb/>der your direction <del>in what</del> <add place="supralinear">as to the</add>  method you shall think it Advisable <lb/>to make use of them in I have also <sic corr="written">writ</sic> to the <note n="WG"><abbr expan="Governor">Govr:</abbr></note> in an Open <lb/><xref doc="C29b11a">letter</xref> for your perusal &amp; either to be <abbr expan="delivered">deliver'd</abbr> or not as you shall <lb/>think most expedient you know what Vigilant and pressing <sic corr="ene">eni:</sic><lb/>mies <del>you</del> <add place="supralinear">we</add> have to deal with their letters have flown about not only <lb/><sic corr="through">thro</sic> <abbr expan="Virginia">Virga:</abbr> but Maryland Also I cannot think any great difficul<lb/>ties <sic corr="lie">lye</sic> in the way If the <abbr expan="governor">govr:</abbr> will not come in to the immediate con:<lb/>ferring the place on my son Charles I shall think he waits for some <lb/>direction out of England and rather than <sic corr="lose">loose</sic> the place altogether <lb/>my Son Robert had better hold it under the difficulties he now has <lb/>it than not at All By the <sic corr="heaviness">heavyness</sic> of my <sic corr="Politics">Politicks</sic> I have let <lb/>these dextrous gentlemen get the start of me having not <sic corr="written">writ</sic> a <lb/>line to My <note n="GH"><abbr expan="Lord">Ld</abbr> Orkney</note> or any body Else since I came from <note target="n1">Town</note> <lb/>nor indeed have I had any Opportunity certain enough in my Opinion <lb/>to Make use of I shall <sic corr="entirely">intirely</sic> submit the <abbr expan="management">managemt</abbr> of this <lb/>affair to <abbr expan="your">yr</abbr> prudcence <add place="supralinear">&amp;</add> <sic corr="vigor.">vigour.</sic> <del>&amp; Conduct</del> &amp; Am</p>
-
-<closer><seg type="postscript"><lb/><lb/></seg></closer>
+<p>This accompanys my Son <note n="CC1">Charles</note> who waits on <abbr expan="you">yo:</abbr> <lb/>in order to the <abbr expan="Accomplishment">Accomplishmt:</abbr> of his <note target="n1">great design</note> he brings a letter <lb/>to you from his <note n="RC2">Brother</note> and Also his Commission to be <sic corr="entirely">intirely</sic> un-<lb/>der your direction <del>in what</del> <add place="supralinear">as to the</add>  method you shall think it Advisable <lb/>to make use of them in I have also <sic corr="written">writ</sic> to the <note n="WG"><abbr expan="Governor">Govr:</abbr></note> in an Open <lb/><xref doc="C29b11a">letter</xref> for your perusal &amp; either to be <abbr expan="delivered">deliver'd</abbr> or not as you shall <lb/>think most expedient you know what Vigilant and pressing <sic corr="ene">eni:</sic><lb/>mies <del>you</del> <add place="supralinear">we</add> have to deal with their letters have flown about not only <lb/><sic corr="through">thro</sic> <abbr expan="Virginia">Virga:</abbr> but Maryland Also I cannot think any great difficul<lb/>ties <sic corr="lie">lye</sic> in the way If the <abbr expan="governor">govr:</abbr> will not come in to the immediate con:<lb/>ferring the place on my son Charles I shall think he waits for some <lb/>direction out of England and rather than <sic corr="lose">loose</sic> the place altogether <lb/>my Son Robert had better hold it under the difficulties he now has <corr resp="editor">]with]</corr><lb/>it than not at All By the <sic corr="heaviness">heavyness</sic> of my <sic corr="Politics">Politicks</sic> I have let <lb/>these dextrous gentlemen get the start of me having not <sic corr="written">writ</sic> a <lb/>line to My <note n="GH"><abbr expan="Lord">Ld</abbr> Orkney</note> or any body Else since I came from <note target="n2">Town</note> <lb/>nor indeed have I had any Opportunity certain enough in my Opinion <lb/>to Make use of I shall <sic corr="entirely">intirely</sic> submit the <abbr expan="management">managemt</abbr> of this <lb/>affair to <abbr expan="your">yr</abbr> prudcence <add place="supralinear">&amp;</add> <sic corr="vigor.">vigour.</sic> <del>&amp; Conduct</del> &amp; Am</p>
 
 
 </div1>
@@ -134,8 +131,13 @@ Colo: Page<lb/>
 
 <note>The county and colony have been added for clarity to the  heading on the draft.</note>
 
-<note id="n1">[1] Williamsburg</note>
+<note id="n1">[1] Charles wanted to take over his brother's position as naval officer of the Rappahannock.  The naval officer was an official in the colony that reported to the Commissioners of Customs, a body that had first been established in 1663; the group was reorganized several times, especially after 1688. The board was "intrusted with collection of customs both in England and the colonies." The board helped write many of the instructions for colonial governors in collaboration with the Privy Council. "Their direct connection with the colonies was through the governors, who were instructed to correspond with the commissioners, and to send them, every three months, lists of clearances, and also reports of illegal trading. The governor's agent in matters of trade was the naval officer whom he was empowered to appoint, but who was required by the 7th and 8th William III to give security to the commissioners of customs." (<cit><bibl>Louise Phillips Kellogg. <title>The American Colonial Charter. A Study of English Administration in Relation Thereto, Especialy after 1688.</title>  [Annual Report, American Historical Association. Vol. 1, Govt. Print. Off., 1904], p. 226.</bibl></cit> For a recent study, see <cit><bibl>Alvin Rabushka. <title>Taxation in Colonial America</title> [Princeton, NJ: Princeton University Press, 2008.]</bibl></cit>)</note>
 
+<note>The minutes of a meeting of the Council held November 1, 1729, show that Charles did replace his brother as naval officer of the Rappahannock. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:210. </bibl></cit> )</note>
+
+<note id="n2">[2] Williamsburg</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised February 6, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 
