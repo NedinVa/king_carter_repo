@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,8 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
-<date value="1729-04-11">Apl. 11th: 1729</date><lb/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1729-04-11">Apl. 11th: 1729</date><lb/>
 The Rt: Honble. George<lb/>
 Earl of Orkney&mdash;&mdash;<lb/>
 </dateline>
@@ -117,12 +116,19 @@ Earl of Orkney&mdash;&mdash;<lb/>
 
 <p>This is the first Opportunity I have had since <lb/>the <abbr expan="receipt">rect.</abbr> of your Lordships kind favour of the 7th day of <add place="supralinear"><abbr expan="November">Novr.</abbr></add> last wherein it is no <lb/>Small pleasure to me to find yor. Lordship satisfied of my Integrity in rela-<lb/>tion to yor Lordships Salary.</p>
 
-<p>I Esteem my self highly Indebted to your <abbr expan="LordShip">LdShip</abbr> for yor <lb/><sic corr="obliging">oblidgeing</sic> recommendation to our <note n="WG"><abbr expan="Governor">Govr.</abbr></note> in behalf of my Son <note n="CC1">Charles's</note> <lb/>Succeeding to the Naval Office <add place="supralinear">of</add> this river upon the removal of his Brother <note n="RC2">Robert</note> <lb/>he is removed and the <abbr expan="Governor">Govr.</abbr> is pleased this far to Continue the Place to him, but <lb/>does not think it proper either to give a Deputation to h<corr resp="editor">[is br]</corr>other Charles <lb/>or to give him a Commission for the Place <sic corr="Alleg">Alledge</sic><corr resp="editor">[ing . . .]</corr>ized into 
+<p>I Esteem my self highly Indebted to your <abbr expan="LordShip">LdShip</abbr> for yor <lb/><sic corr="obliging">oblidgeing</sic> recommendation to our <note n="WG"><abbr expan="Governor">Govr.</abbr></note> in behalf of my Son <note n="CC1">Charles's</note> <lb/>Succeeding to the <note target="n1">Naval Office</note> <add place="supralinear">of</add> <note target="n2">this river</note> upon the removal of his Brother <note n="RC2">Robert</note> <lb/>he is removed and the <abbr expan="Governor">Govr.</abbr> is pleased this far to Continue the Place to him, but <lb/>does not think it proper either to give a Deputation to h<corr resp="editor">[is br]</corr>other Charles <lb/>or to give him a Commission for the Place <sic corr="Alleg">Alledge</sic><corr resp="editor">[ing . . .]</corr>ized into 
 
 <pb n="2"/><lb/><lb/>
-a promise at his first coming in to Colonel <abbr expan="Charles">Chas:</abbr> <sic corr="Grymes">Grimes</sic> Brother to <abbr expan="our">or.</abbr> <abbr expan="receiver General">recr. Genl.</abbr> <lb/><del>to give him the Place when</del> when he Should take it away from my sont Robert, <abbr expan="Charles">Chs.</abbr> <lb/><sic corr="Grymes">Grimes</sic>  is now put into the Collectors Place of <note target="n1">this river</note> if he can hold it, the <abbr expan="Governor">Govr.</abbr> <lb/>would be altogether discharged from his word but if another be put in England <lb/>then I can hardly Say how it will go. <sic corr="Although">Altho</sic> the <abbr expan="Governor">Govr.</abbr> <sic corr="has">hath</sic> bin so kind to <del>[illegible]</del> <add place="supralinear">give</add> <lb/>me <add place="supralinear">his</add> repeated <del>promise</del> word that he will not turn out my Son Robert, but that the <lb/>Place Shall remain in my family, As long as it Shall <sic corr="Lie">Lye</sic> in his power to <lb/>Continue it With a due regard to his word Thus I have Presumed to acquaint <lb/>your <abbr expan="LordShip">Ld.Ship</abbr> with the naked truth of this Story, whether your <abbr expan="LordShip">LdShip</abbr> will think <lb/>it proper to Concern <abbr expan="your">yor.</abbr>Self any further in this matter I must Submit to your <lb/>goodness <sic corr="Desiring">Desireing</sic> however a Continuance of yor. remembrance when your <add place="supralinear"><abbr expan="LordShip">Ld.Ship</abbr></add> <lb/>Shall think <sic corr="fit">fitt</sic> to give your self the trouble I am in all Duty </p>
+a promise at his first coming in to Colonel <note target="n3"><abbr expan="Charles">Chas:</abbr> <sic corr="Grymes">Grimes</sic></note> Brother to <abbr expan="our">or.</abbr> <note target="n4"><abbr expan="receiver General">recr. Genl.</abbr></note> <lb/><del>to give him the Place when</del> <add place="supralinear">when</add> he Should take it away from my son Robert, <abbr expan="Charles">Chs.</abbr> <lb/><sic corr="Grymes">Grimes</sic>  is now put into the Collectors Place of this river if he can hold it, the <abbr expan="Governor">Govr.</abbr> <lb/>would be altogether discharged from his word but if another be put in England <lb/>then I can hardly Say how it will go. <sic corr="Although">Altho</sic> the <abbr expan="Governor">Govr.</abbr> <sic corr="has">hath</sic> bin so kind to <del>[ask]</del> <add place="supralinear">give</add> <lb/>me <add place="supralinear">his</add> repeated <del>promise</del> word that he will not turn out my Son Robert, but that the <lb/>Place Shall remain in my family, As long as it Shall <sic corr="Lie">Lye</sic> in his power to <lb/>Continue it With a due regard to his word Thus I have Presumed to acquaint <lb/>your <abbr expan="LordShip">Ld.Ship</abbr> with the naked truth of this Story, whether your <abbr expan="LordShip">LdShip</abbr> will think <lb/>it proper to Concern <abbr expan="your">yor.</abbr>Self any further in this matter I must Submit to your <lb/>goodness <sic corr="Desiring">Desireing</sic> however a Continuance of yor. remembrance when your <add place="supralinear"><abbr expan="LordShip">Ld.Ship</abbr></add> <lb/>Shall think <sic corr="fit">fitt</sic> <note target="n5">to give your self the trouble</note> I am in all Duty </p>
 
-<closer>My Lord <lb/>Yor. Lordships <lb/>Most Obedient <lb/>Most Obliged <lb/>&amp; most humble Servt.</closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My Lord <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. Lordships <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Most Obedient <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Most Obliged <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&amp; most humble Servt.
+
+</closer>
 
 
 </div1>
@@ -140,9 +146,17 @@ a promise at his first coming in to Colonel <abbr expan="Charles">Chas:</abbr> <
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence when writing to persons abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
 
-<note id="n1">[1] The Rappahannock</note>
+<note id="n1">1[] The naval officer was an official in the colony that reported to the Commissioners of Customs, a body that had first been established in 1663; the group was reorganized several times, especially after 1688. The board was "intrusted with collection of customs both in England and the colonies." The board helped write many of the instructions for colonial governors in collaboration with the Privy Council. "Their direct connection with the colonies was through the governors, who were instructed to correspond with the commissioners, and to send them, every three months, lists of clearances, and also reports of illegal trading. The governor's agent in matters of trade was the naval officer whom he was empowered to appoint, but who was required by the 7th and 8th William III to give security to the commissioners of customs." (<cit><bibl>Louise Phillips Kellogg. <title>The American Colonial Charter. A Study of English Administration in Relation Thereto, Especialy after 1688.</title>  [Annual Report, American Historical Association. Vol. 1, Govt. Print. Off., 1904], p. 226.</bibl></cit> For a recent study, see <cit><bibl>Alvin Rabushka. <title>Taxation in Colonial America</title> [Princeton, NJ: Princeton University Press, 2008.]</bibl></cit>)</note>
 
+<note id="n2">[2] The Rappahannock</note>
 
+<note id="n3">[3] Charles Grymes (c. 1692-1743) was the son of John Grymes of Middlesex County, but lived at "Morratico," Richmond County where he was sheriff in 1724 and 1725, burgess, etc. He was a member of the Council (<cit><bibl>"The Grymes Family." <title>Virginia Magazine of History and Biography</title>. 28[1920]: 90-96, 187-94, 283-85, 374-75;</bibl></cit>  <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:66, 85; </bibl></cit>  and <bibl n="B31">Ryland. <title>Richmond County Virginia. . . . </title> pp. 500, 504, 514.</bibl>)</note>
+
+ <note id="n4">[4] "The receiver-generalship was a royal appointment" and the official was required to give bond both to the lord of the treasury and to the governor. "Those who filled the office of receiver-general were practially all councillors. . . . The duties of the receiver-general included the receiving of the quit-rents, the revenue arising from the export duty of two shillings per hogshead on tobacco, the one penny per pound on tobacco exported from Virginia . . .  the port duty, which was the revenue arising from the fifteen pence per ton on all vessels arriving in the colony, and all funds of the colony not received by the treasurer. . . .  He paid out of the revenue . . .  the salaries of the officers of the colony, also those of the auditor-general of the colonies and the solicitor of Virginia affairs, both of whom lived in England. All the public expenses of the colony, except, of course, those paid out of the funds held by the treasurer, were paid out of the funds received in his office. . . .  He of course reported to the lords of the treasury all payments made on the order of the governor. The accounts of the revenues and the reports of disbursements forwarded to the lords of the treasury were certified to by the auditor and the governor, and sent by the governor."  (Percy Scott Flippin. <title>The Financial Administration of the Colony of Virginia</title> [Johns Hopkins Press, 1915.] 41-42.)</note>
+
+<note id="n5">[5] Charles Carter was appointed naval officer of the Rappahannock by the governor November 1, 1729, there being "no objection" from the Council.  (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:210. </bibl></cit> )</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised February 13, 2015,  to  strengthen the footnotes and the modern language version text.</hi></note>
 
 
 </div1>

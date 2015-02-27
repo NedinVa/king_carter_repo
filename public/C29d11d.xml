@@ -29,7 +29,7 @@
    </respStmt>
 </titleStmt>
 
-<extent>ca.  kilobytes </extent>
+<extent>ca. 11 kilobytes </extent>
 
 <publicationStmt>
      <publisher>University of Virginia Library.</publisher>
@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -48,7 +48,7 @@
      <title>Letter from Robert Carter to John Pemberton, April 11 and June 20, 1729</title>
      <author>Robert Carter</author>
 </titleStmt>
-    <extent>2 p.</extent>
+    <extent>4 p.</extent>
 <publicationStmt>
      <date></date>
    <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1728 August 8-1730 May 15,  Carter Family Papers, Virginia Historical Society, Richmond.</idno>
@@ -88,13 +88,13 @@
 <head>
 <bibl>
 <abbr>AL</abbr>
-<extent>2 p.</extent>
+<extent>4 p.</extent>
 <date value="1729-04-11"></date>
 <idno rend="suppress">C29d11d.xml</idno>
 <title>Letter from Robert Carter to John Pemberton, April 11 and June 20, 1729</title>
 </bibl>
 </head>
-<p>Robert Carter writes to Glasgow merchant John Pemberton, April 11, 1729, reporting the arrival of several "Packetts" from the merchant, commenting on the poor market for tobacco, alerting Pemberton about a mistake that he has made in marking some hogheads that belong to another account, directing him to charge protested bills of exchange from the <hi rend="italics">Rose</hi> slave sale to his personal account, and enclosing (not present) a bill of lading for 25 hogsheads of his own tobacco. On June 20th he adds a post script to add a bill of lading (not present) for 3 hogsheads more.</p>
+<p>Robert Carter writes to Liverpool merchant John Pemberton, April 11, 1729, reporting the arrival of several "Packetts" from the merchant, commenting on the poor market for tobacco, alerting Pemberton about a mistake that he has made in marking some hogheads that belong to another account, directing him to charge protested bills of exchange from the <hi rend="italics">Rose</hi> slave sale to his personal account, and enclosing (not present) a bill of lading for 25 hogsheads of his own tobacco. On June 20th he drafts a post script to add a bill of lading (not present) for 3 hogsheads more.</p>
 </div1>                 
 </front>
 
@@ -106,49 +106,47 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1729-04-11">Apl: 11th. 1729</date><lb/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1729-04-11">Apl: 11th. 1729</date><lb/>
 Mr. John Pemberton<lb/>
 </dateline>
 <salute>Sir&mdash;</salute>
 
 </opener>
 
-<p>I <abbr expan="received">rec'd</abbr> yor. Several <sic corr="Packets">Packetts</sic> by the <note target="n1">Rappahannock</note> <abbr expan="Captain">Capt.</abbr> Break<lb/>hill am Sorry the Sales both my own and yor. Cargoes <abbr expan="Tobacco">Tobbo:</abbr>turns out <lb/>so <sic corr="poorly">poorely</sic> indeed we have not much better <abbr expan="Encouragement">Encouragemt</abbr>. from any other <lb/>Port, Your <sic corr="Markets">Marketts</sic> in former Years have rather Exceeded <sic corr="than">then</sic> fallen <lb/>short of others, I had not less at London <sic corr="than">then</sic> &pound;7 per hogshead round how the <lb/>last Crop will rise I have not one Accot. as yet Except for a little fine <lb/>Tobacco out of York river which sold at 9 3/4<abbr expan=" pence">d</abbr> but that is no standard, I <lb/>shall think myself fairly <sic corr="off">of</sic> if my general Sales comes out at a Penny <lb/>less, Miserable is our Condition if we cant live by our Labour,</p>
+<p>I <abbr expan="received">rec'd</abbr> yor. Several <sic corr="Packets">Packetts</sic> by the <note target="n1">Rappahannock</note> <abbr expan="Captain">Capt.</abbr> Break<lb/>hill am Sorry the Sales both my own and yor. Cargoes <abbr expan="Tobacco">Tobbo:</abbr>turns out <lb/>so <sic corr="poorly">poorely</sic> indeed <sic corr="we">wee</sic> have not much better <abbr expan="Encouragement">Encouragemt</abbr>. from any other <lb/>Port, Your <sic corr="Markets">Marketts</sic> in former Years have rather Exceeded <sic corr="than">then</sic> fallen <lb/>short of others, I had not less at <name type="city">London</name> <sic corr="than">then</sic> &pound;7 per hogshead round how the <lb/>last Crop will rise I have not one Accot. as yet Except for a little fine <lb/>Tobacco out of York river which sold at 9 3/4<abbr expan=" pence">d</abbr> but that is no standard, I <lb/>shall think myself fairly <sic corr="off">of</sic> if my general Sales comes out at a Penny <lb/>less, Miserable is our Condition if we cant live by our Labour,</p>
 
-<p>I have Sent you one hogshead <corr resp="editor">[tobacco mark] </corr> <add place="supralinear">1:9421:86:856:30:886</add> I must own to you I have <lb/>Committed a mistake in marking 3 or 4 more to the <corr resp="editor">[tobacco mark] </corr> <sic corr="than">then</sic> I Should <lb/>it <sic corr="happened">happend</sic> that I <sic corr="reckoned">reckond</sic> Purcells Debt <sic corr="belonged">belongd</sic> to the <note target="n2">Rose Concern</note> <lb/>and did not See my Error <sic corr="until">till</sic> I came to <sic corr="Overhaul">Overhall</sic> the Papers, which <lb/>was after the <abbr expan="Tobacco">Tobbo:</abbr>
- was <sic corr="marked">markt</sic> and <sic corr="gone,">gon,</sic> This I must <sic corr="rectify">rectifye</sic> out <lb/>of the <corr resp="editor">[tobacco mark]</corr> <abbr expan="Tobacco">Tobbo:</abbr>
- which I hope will make little difference,</p>
+<p>I have Sent you one hogshead <corr resp="editor">[tobacco mark] </corr> <add place="supralinear">1:9421:86:856:30:886</add> I must own to you I have <lb/>Committed a mistake in marking 3 or 4 more <add place="supralinear">to</add> the <corr resp="editor">[tobacco mark] </corr> <sic corr="than">then</sic> I Should <lb/>it <sic corr="happened">happend</sic> that I <sic corr="reckoned">reckond</sic> Purcells Debt <sic corr="belonged">belongd</sic> to the <note target="n2">Rose Concern</note> <lb/>and did not See my Error <sic corr="until">till</sic> I came to <sic corr="Overhaul">Overhall</sic> the Papers, which <lb/>was after the <abbr expan="Tobacco">Tobbo:</abbr>  was <sic corr="marked">markt</sic> and <sic corr="gone,">gon,</sic> This I must <sic corr="rectify">rectifye</sic> out <lb/>of the <corr resp="editor">[tobacco mark]</corr> <abbr expan="Tobacco">Tobbo:</abbr>  which I hope will make little difference,</p>
 
 <p>I tell the Freighters of the <name type="ship">rose</name> I have <sic corr="ordered">orderd</sic> you to pay to <lb/>them the 8 Protested bills you sent me Amounting to &pound;49:13:0 3/4 <lb/>to be charged to my private Accot.</p>
 
-<p>I send you a bills of Lading for 25 hogsheads of my own <lb/><abbr expan="Tobacco">Tobbo:</abbr>
- which I will <sic corr="believe">beleive</sic> to be very good they came from <abbr expan="Plantations">Plans:</abbr> <lb/>that have always made Such. it hath bin a disappointment to <lb/>me not to have my Goods in the Rappahannock You will yet I hope meet wth. <lb/>Some Opportunity or other to send them by but if you do not I desire <lb/>you will Send me double the Quantity of every Sort as Early in the next <lb/>fall as ever you can and if these goods should be come away then I <sic corr="would">wold</sic> <lb/>desire you to Send me the Same quantity over again in one of the Earliest <lb/>of your Ships,</p>
+<p>I send you a <note target="n3">bills of Lading</note> for 25 hogsheads of my own <lb/><abbr expan="Tobacco">Tobbo:</abbr>  which I will <sic corr="believe">beleive</sic> to be very good they came from <abbr expan="Plantations">Plans:</abbr> <lb/>that have always made Such. it <sic corr="has">hath</sic> bin a disappointment to <lb/>me not to have my Goods in the Rappahannock You will yet I hope meet wth. <lb/>Some Opportunity or other to send them by but if you do not I desire <lb/>you will Send me double the Quantity of every Sort as Early in the next <lb/>fall as ever you can and if these goods should be come away then I <sic corr="would">wold</sic> <lb/>desire you to Send me the Same quantity over again in one of the Earliest <lb/>of your Ships,</p>
 
 <p>I Send you <sic corr="Copies">Copys</sic> of Some Accots. you had before to <lb/>Explain to you how I make &pound;16:10:9 <add place="supralinear"><hi rend="italics">to be</hi></add> the right balance of <sic corr="those">them</sic> Accots.</p>
  
-<p>The hogshead of <corr resp="editor">[tobacco mark]</corr> is the bill of Lading of the <corr resp="editor">[tobacco mark]</corr> and in the bill of <lb/>Exchange <corr resp="editor">[. . .]</corr>, You will please to Set this to rights, I am </p>
+<p>The hogshead of <corr resp="editor">[tobacco mark]</corr> is the bill of Lading of the <corr resp="editor">[tobacco mark]</corr> and in the <note target="n4">bill of <lb/>Exchange</note> <corr resp="editor">[. . .]</corr>, You will please to Set this to rights, I am </p>
 
-<closer>Yor. humble Servt.<seg type="postscript"><lb/><lb/><del>To be Added to the freighters of the Ship Rose<lb/>Gent.<lb/>I send you Copys of some Accots. on hand before to Explain<lb/>to You how I make &pound; 16:19:19 which is to be paid to you by Mr. Pemberton<lb/><lb/></del></seg>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. humble Servt.
+
+<seg type="postscript"><lb/><lb/>
+
+<del>To be Added</del> to the freighters of the Ship Rose<lb/><del>Gent.<lb/>I send you Copys of some Accots. on hand before to Explain<lb/>to You how I make &pound; 16:19:19 which is to be paid to you by Mr. Pemberton</del><lb/><lb/></seg>
 
 <seg type="postscript"><pb n="3"/><lb/><lb/>
-Added to my letter to Mr Pemberton of the 11. Apl. 1729<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Added to my letter to Mr Pemberton of the 11. Apl. 1729<lb/>
 Mr. John Pemberton<lb/>
-Sir	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rappa: June 20th. 1729<lb/>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have now <abbr expan="Shipped">Ship'd</abbr> 3 hogsheads of Tobo. more of the<lb/>
-[tobacco mark] you have herein a bill of Lading for it Them another<lb/>
+Sir	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rappahannock June 20th. 1729<lb/>
+<p>I have now <abbr expan="Shipped">Ship'd</abbr> 3 hogsheads of Tobo. more of the<lb/>[tobacco marks] you have herein a bill of Lading for <del>it</del> <add place="supralinear">Them</add> another<lb/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hhd<lb/><lb/>
 
 <pb n="4"/><lb/><lb/>
 
-lyes ready <add place="supralinear">wch I could not get taken in</add> there remains to ballance these marks as I reckon<lb/>
-In checking this total that is <abbr expan="received">receiv'd</abbr> the rest still outstanding wch<lb/>
-I shall be Answerable to you for hereafter<lb/><lb/>
+<sic corr="lies">lyes</sic> ready <add place="supralinear">wch I could not get taken in</add> there remains to ballance these marks  as I reckon 2876<lb/> In checking this hogshead that is <abbr expan="received">receiv'd</abbr> the rest still outstanding wch<lb/>I shall be Answerable to you for hereafter</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have little to say to you at Present only to desire<lb/> 
-you will Comply with the Contents of above letter remaining<lb/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;your most Humble: Servt<lb/><lb/>
-Copy per Letherland<lb/>
+<p>I have little to say to you at Present only to desire<lb/> 
+you will Comply with the Contents of above letter remaining</p><lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;your most Humble: Servt<lb/><lb/>
+Copy per <note target="n5">Letherland</note><lb/>
 
 </seg>
 
@@ -174,6 +172,14 @@ Copy per Letherland<lb/>
 
 <note id="n2">[2] Carter refers to the sales of slaves from Pemberton's ship, the <hi rend="italics">Rose,</hi> for which he had been the agent in the colony. See his letters to Pemberton in 1728 for more information.</note>
 
+<note id="n3"> [4] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
+
+ <note id="n4"> [4] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (See <cit><bibl><xref to="http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm">"Bill of Exchange"</xref> in the online Dictionary of Financial Scam Terms: the Truth vs. the Scam.</bibl></cit>)</note>
+
+<note id="n5">[5] A Captain Leatherland commanded the <hi rend="italics">William &amp; James</hi> in June 20, 1729, and the <hi rend="italics">Samuel &amp; Jane</hi> in 1732. ((<cit><bibl><xref to="http://carter.lib.virginia.edu/html/C29d11e.html">Carter
+to the freighters</xref> of the ship <hi rend="italics">Rose,</hi> April 11 and June 29, 1729,</bibl></cit> and <cit><bibl><xref to="http://carter.lib.virginia.edu/html/C32g13a.html">Carter to Pemberton</xref> July 13, 1732.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised February 16, 2015,  to  strengthen the footnotes and the modern language version text.</hi></note>
 
 
 
