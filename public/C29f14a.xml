@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,7 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
+<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;
 <date value="1729-06-14">June the 14th: 1729</date><lb/>
 Wm. Camp&mdash;<lb/>
 </dateline>
@@ -116,17 +116,17 @@ Wm. Camp&mdash;<lb/>
 
 
 
-<p>Herein I send you directions how you are to take the bills of<lb/> 
-Lading both for my own and the Estates <abbr expan="Tobacco">Tobbo.</abbr>
+<p>Herein I send you directions how you are to take the <note target="n2">bills of<lb/> 
+Lading</note> both for my own and the Estates <abbr expan="Tobacco">Tobbo.</abbr>
 &mdash; Vizt.</p>
 
-<p>The 11 hogsheads from <note target="n2">Rippon</note> <corr resp="editor">[tobacco mark]</corr> I consign to <note target="n3">Mr. Falconar</note> on board<lb/>the <note target="n4">Spotswood</note> <abbr expan="Captain">Capt.</abbr> James Bradby&mdash;</p>
+<p>The 11 hogsheads from <note target="n3">Rippon</note> <corr resp="editor">[tobacco mark]</corr> I consign to <note target="n4">Mr. Falconar</note> on board<lb/>the <note target="n5">Spotswood</note> <abbr expan="Captain">Capt.</abbr> James Bradby&mdash;</p>
 
 <p>The 18 hogsheads on <abbr expan="board">bd.</abbr> <abbr expan="Ditto">Do:</abbr> ship  <corr resp="editor">[tobacco mark]</corr> I consign  to <note n="MP1">Mr. Perry</note></p>
 
-<p>My 4 hogsheads on board the <note target="n4">Carolina</note> <abbr expan="Captain">Capt.</abbr> Holladay, <corr resp="editor">[tobacco mark]</corr> I consign to <add place="supralinear">Mr. Perry</add></p>
+<p>My 4 hogsheads on board the <note target="n6">Carolina</note> <abbr expan="Captain">Capt.</abbr> Holladay, <corr resp="editor">[tobacco mark]</corr> I consign to <add place="supralinear">Mr. Perry</add></p>
 
-<p>My 30 hogsheads in the <note target="n5">Amity</note> <abbr expan="Captain">Capt.</abbr>Wills <corr resp="editor">[tobacco mark]</corr> I consign to Mr. Falconar.</p>
+<p>My 30 hogsheads in the <note target="n7">Amity</note> <abbr expan="Captain">Capt.</abbr>Wills <corr resp="editor">[tobacco mark]</corr> I consign to Mr. Falconar.</p>
 
 <p>The 17 hogsheads of <note n="MH">Merchant Hundreds</note> on board the <note target="n6"><abbr expan="Micajah">Micajh.</abbr> &amp;  Phillip</note><lb/>
 <corr resp="editor">[tobacco mark]</corr> I consign to Mr. Falconar&mdash;<lb/>
@@ -137,16 +137,16 @@ _______________________________________________________________________________
 <p>The 15 hogsheads on board the <name type="ship">Carolina </name><abbr expan="Captain">Capt.</abbr>Holloday., 10 of this mark <corr resp="editor">[tobacco mark]</corr> 5 <lb/>
 of this mark <corr resp="editor">[tobacco mark]</corr>   I consign to Mr. Perry. </p>
 
-<p>The 16 hogsheads on board the <note target="n7"><name type="ship">Spotswood</name></note> <abbr expan="Captain">Capt.</abbr> Bradby, 11 of this <corr resp="editor">[tobacco mark]</corr><lb/> 2 of this mark <corr resp="editor">[tobacco mark]</corr> 3 of this mark <corr resp="editor">[tobacco mark]</corr> I consign to Mr. Perry&mdash;</p>
+<p>The 16 hogsheads on board the <name type="ship">Spotswood</name> <abbr expan="Captain">Capt.</abbr> Bradby, 11 of this <corr resp="editor">[tobacco mark]</corr><lb/> 2 of this mark <corr resp="editor">[tobacco mark]</corr> 3 of this mark <corr resp="editor">[tobacco mark]</corr> I consign to Mr. Perry&mdash;</p>
 
 <p>The 9 hogsheads on board the <name type="ship"><abbr expan="Micjaah">Micjah.</abbr> and Phillip</name> of this  mark <corr resp="editor">[tobacco mark]</corr> I consign <add place="supralinear">to Mr. Perry</add></p>
 
 <p>The 12 hogsheads on board the <name type="ship">Amity</name> <abbr expan="Captain">Capt.</abbr> Wills.. of this mark <corr resp="editor">[tobacco mark]</corr> I con<lb/>=sign to Mr. Falconar&mdash;</p>
 
-<p>The 20 hogsheads in the <note target="n8"><name type="ship">Burwell</name></note> <abbr expan="Captain">Capt.</abbr> Cant I consign to <note n="WD">Mr. Dawkins</note> <corr resp="editor">[tobacco mark]</corr></p>
+<p>The 20 hogsheads in the <note target="n7"><name type="ship">Burwell</name></note> <abbr expan="Captain">Capt.</abbr> Cant I consign to <note n="WD">Mr. Dawkins</note> <corr resp="editor">[tobacco mark]</corr></p>
 
 <p>In taking the bills of Lading you are to fill them up thus. My own <lb/>
-<abbr expan="Tobacco">Tobbo:</abbr> <sic corr="Shipped">shipt</sic> by me upon my proper Accot. and <sic corr="risk.">risque.</sic> The Merchant <lb/>
+<abbr expan="Tobacco">Tobbo:</abbr> <sic corr="shipped">shipt</sic> by me upon my proper Accot. and <sic corr="risk.">risque.</sic> The Merchant <lb/>
 hundreds <abbr expan="Tobacco">Tobbo:</abbr> <sic corr="shipped">shipt</sic> by me upon the Accot: and <sic corr="risk">risque</sic> of the Merchant <lb/>
 hundreds Estate.</p>
 
@@ -166,16 +166,16 @@ Merchants that you do this by my Order. but I had much rather that
 <pb n="2"/><lb/><lb/>
 either Colonel Page or my Self have the bills of Lading&mdash;</p>
 
-<p>The <note target="n9">Impost and Cocquet</note> for these <abbr expan="Tobaccos">Tobbos:</abbr> is due to the Masters <lb/>
-upon their Signing the bills of Lading but I beleive they will be well enoug<corr resp="editor">[h]</corr><lb/><sic corr="satisfied">satisfyed</sic> that it be <abbr expan="mentioned">mention'd</abbr> in the bills of Lading the Impost and <abbr expan="Cocquet">Cocq.</abbr> not<lb/>
+<p>The <note target="n8">Impost and Cocquet</note> for these <abbr expan="Tobaccos">Tobbos:</abbr> is due to the Masters <lb/>
+upon their Signing the bills of Lading but I beleive they will be well enoug<corr resp="editor">[h]</corr><lb/><sic corr="satisfied">satisfyed</sic> that it be <abbr expan="mentioned">mention'd</abbr> in the bills of Lading the Impost and <abbr expan="Cocquet">Cocq.</abbr> <corr resp="editor">[not]</corr><lb/>
 being paid</p>
 
-<p><abbr expan="Captain">Capt.</abbr> Wills I am indebted to for a knot of <note target="n10"><sic corr="Hamburg">Hamborrogh</sic> line</note> <lb/>
+<p><abbr expan="Captain">Capt.</abbr> Wills I am indebted to for a knot of <note target="n9"><sic corr="Hamburg">Hamborrogh</sic> li<corr resp="editor">[ne]</corr></note> <lb/>
 and he sent me a <sic corr="barrel">barrell</sic> of strong Beer what he will charge for it I don't <lb/>
-know he owes me by promise 30/ sterling for 10 hogsheads of <abbr expan="Tobacco">Tobbo:</abbr> I delivered <lb/>
+know he owes me by promise 30/ sterling for 10 hogsheads of <abbr expan="Tobacco">Tobbo:</abbr> I delive<corr resp="editor">[red ]</corr><lb/>
 his sloop at my own house which I had bin at Considerable Charge in <lb/>
-bringing home. You are to get this money of him after his Accot.&mdash; is <lb/>
-paid or to discount it in my Impost either way as he pleas's&mdash;</p>
+bringing home. You are to get this money of him after his Accot.&mdash; <corr resp="editor">[is ]</corr><lb/>
+paid or to discount it in my Impost either way as he <abbr expan="pleases">pleas's</abbr>&mdash;</p>
 
 <p>Mr. Nelmes Accot. I think is right I did not know from <lb/>
 whom I had the <sic corr="Molasses">Mulassus</sic> I would have you pay him his ballance</p>
@@ -184,9 +184,7 @@ whom I had the <sic corr="Molasses">Mulassus</sic> I would have you pay him his 
 directed you to get his Accot. and Send it me that I may order you to <lb/>him or if you pay him within orders it will be as well for I am not <lb/>
 in the least Suspicious that he will be ingenerous in <sic corr="overcharging">overchargeing</sic> <lb/>
 me for any thing more than he would do if he and I were together <lb/>
-in Settleing in the Accot.&mdash; </p>
-
-<closer><seg type="postscript"><lb/><lb/></seg></closer>
+in <sic corr="Settling">Settleing</sic> in the Accot.&mdash; </p>
 
 
 </div1>
@@ -204,34 +202,31 @@ in Settleing in the Accot.&mdash; </p>
 
 <note> The name of Carter's home, "Corotoman," the county, and colony have been added for clarity to this unheaded draft. </note>
 
-<note id="n1">[1] William Camp (Kemp) was described by Carter as "the General Overseer of Mr Burwell's Affairs" and he wrote that Camp earned a salary "&pound;50 . . . for the year 1731." Carter and his son-in-law, Mann Page, were the trustees of Nathaniel Burwell's children after Burwell's death in 1721. Camp was a resident of Gloucester County where most of the Burwell estates lay, and he must also have supervised "Rippon Hall" in nearby York County. (Carter to George Braxton, 1729 November 20, and Carter to William Dawkins,1732  July 11. <cit><bibl><title>Virginia Tax Records.</title> [Baltimore: Genealogical Publishing Company, Inc., 1983.] p. 539.</bibl></cit>)</note>
+<note>Carter sent this letter open to his son-in-law, Mann Page, <xref to="http://carter.lib.virginia.edu/html/C29f20a.html">June 20, 1729</xref>, so that Page might review the instructions to Camp because Carter and Page managed jointly the affairs of Nathaniel Burwell's estate.</note>
 
-<note id="n2">[2] Rippon Hall had been Edmund Jening's estate in York County which he had acquired in 1687 from John and Unity West when it was named "Poplar Neck." Jenings's bad financial circumstances forced him to mortgage the property to Carter who eventually acquired title to it. (<cit><bibl>"Notes and Queries." <title>William and Mary Quarterly.</title> 2[Apr. 1894]: 270-278.</bibl></cit>)</note>
+<note id="n1">[1] William Camp (Kemp) was described by Carter as "the General Overseer of Mr Burwell's Affairs" and he wrote that Camp earned a salary "&pound;50 . . . for the year 1731." Carter and his son-in-law, Mann Page, were the trustees of Nathaniel Burwell's children after Burwell's death in 1721. Camp was a resident of Gloucester County where most of the Burwell estates lay, and he must also have supervised "Rippon Hall" in nearby York County. (<cit><bibl>Carter to George Braxton, <xref to="/users/berkeley/public/C29k20a.xml">November 20, 1729</xref>,</bibl></cit> and <cit><bibl>Carter to William Dawkins, <xref to="/users/berkeley/public/C32g11a.xml">July 11, 1732,</xref></bibl></cit> and <cit><bibl><title>Virginia Tax Records.</title> [Baltimore: Genealogical Publishing Company, Inc., 1983.] p. 539.</bibl></cit>)</note>
 
-<note id="n3">[3] John Falconar (d. <hi rend="italics">ca.</hi> 1729) was a London merchant with whom Carter dealt. In 1728, Falconar and Henry Darnell formed an association of 29 London tobacco merchants to deal with the French tobacco purchasing agent as a group in order to keep the price as high as possible. The association lasted only lasted a year or two before dissolving because some of its members were dealing directly with the French agent and selling below the agreed-upon price. (See Carter to William Dawkins, and Carter to Falconar's executors, both 1730 April 16, for Falconar's death date. <cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> Newport News, VA: Mariners' Museum, 1953. p. 129</bibl></cit>)</note>
+<note id="n2"> [2] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
-<note id="n4">[4] William Holladay commanded a ship named the <hi rend="italics">Princess Carolina.</hi> (<cit><bibl>Survey Report 6800, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n3">[3] Rippon Hall had been Edmund Jening's estate in York County which he had acquired in 1687 from John and Unity West when it was named "Poplar Neck." Jenings's bad financial circumstances forced him to mortgage the property to Carter who eventually acquired title to it..(<cit><bibl><xref to="https://archive.org/stream/williammarycolle02tyle#page/n547/mode/2up/search/271">"Notes and Queries."</xref> <title>William and Mary Quarterly.</title> 2[Apr. 1894]: 270-278, now available through the Internet Archive.</bibl></cit>)</note>
 
-<note id="n5">[5] Captain Peter Wills commanded the  <hi rend="italics">Booth</hi> in 1723-1724, and the <hi rend="italics">Amity,</hi> a vessel of 500 tons and 21 men,  in 1727-1729. He is mentioned in Carter's diary for June 1723.  (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194, and Survey Report 6801 summarizing Adm. 68/195, Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n4">[4] John Falconar (d. <hi rend="italics">ca.</hi> 1729) was a London merchant with whom Carter dealt. In 1728, Falconar and Henry Darnell formed an association of 29 London tobacco merchants to deal with the French tobacco purchasing agent as a group in order to keep the price as high as possible. The association lasted only lasted a year or two before dissolving because some of its members were dealing directly with the French agent and selling below the agreed-upon price. (See <xref to="http://carter.lib.virginia.edu/html/C27g24d.html">Carter's letter to Falconar </xref> of July 24 and August 22, 1727, for details about the payment of &pound;200 to him. See <xref to="http://carter.lib.virginia.edu/html/C30d16b.html">Carter to William Dawkins,</xref> for Falconar's death date. <cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> Newport News, VA: Mariners' Museum, 1953. p. 129</bibl></cit>)</note>
 
-<note id="n6">[6] The Micajah &amp; Philip was a large vessel of some 400 tons carrying a crew of 27. The captain's name varies from record to record as James Bradley or James Bradby. Thomas Jones wrote to his wife, then in England, concerning this ship in 1728, "The Micajah &amp; Philip that comes to James River is as good as the best Ships that Comes hither, but Bradby the master seems to be a little conceited and prodigal." (<cit><bibl>Adm. 68/194-196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia</bibl></cit>; and <cit><bibl><title>Virginia Magazine of History and Biography.</title> 26[1918]: 172, abstracting the Jones Papers at the Library of Congress.</bibl></cit>)</note>
+<note id="n5">[5] The <hi rend="italics">Spotswood</hi> was a  London ship commanded by James Bradby,  1727-1732, and was owned by Micajah Perry.  (<cit><bibl>Adm 68/195, 70r ff., found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. See <xref to="http://carter.lib.virginia.edu/html/C30d16c.html">Carter to Micajah Perry</xref> April 16. 1730.</bibl></cit>)</note>
 
-<note id="n7">[7] This London ship was commanded by James Bradby, 1727-1732.  (Adm 68/195, 70r ff., found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.)</note>
+<note id="n6">[6] William Holladay commanded a ship named the <hi rend="italics">Princess Carolina</hi>, a ship owned by merchant John Pemberton of London. (<cit><bibl>Survey Report 6800, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> and <cit><bibl>letter, Carter to Pemberton, <xref to="/users/berkeley/public/C24c25c.xml">March 25, 1724.</xref></bibl></cit>)</note>
 
+<note id="n7">[7] Captain Peter Wills commanded the  <hi rend="italics">Booth</hi> in 1723-1724, a ship belonging to merchant Thomas Colmore of London (see Carter's <xref to="/users/berkeley/public/C24a29a.xml">letter</xref> to Colmore of January 20 and February 15, 1724), and the <hi rend="italics">Amity,</hi> a vessel of 500 tons and 21 men,  in 1727-1729. He is mentioned in Carter's diary in 1723. (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194, and Survey Report 6801 summarizing Adm. 68/195, Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
-<note id="n8">[8] Constantine Cant was the captain of the <hi rend="italics">Burwell.</hi> (<cit><bibl>Survey Report 6800 for Adm. 68/195, ff. 76v, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n6">[6] The <hi rend="italics"> Micajah &amp; Philip</hi> was a large vessel of some 400 tons carrying a crew of 27. The captain's name varies from record to record as James Bradley or James Bradby. Thomas Jones wrote to his wife, then in England, concerning this ship in 1728, "The Micajah &amp; Philip that comes to James River is as good as the best Ships that Comes hither, but Bradby the master seems to be a little conceited and prodigal." (<cit><bibl>Adm. 68/194-196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia</bibl></cit>; and <cit><bibl><title>Virginia Magazine of History and Biography.</title> 26[1918]: 172, abstracting the Jones Papers at the Library of Congress .</bibl></cit>)</note>
 
-<note id="n9">[9] The impost was the duty imposed by Britain on imported tobacco, and the cocket (for which a fee was charged) was the certified document issued that the impost had been paid.</note>
+<note id="n7">[7] Captain Constantine Cant commanded the <hi rend="italics">Buwell</hi> which may have been owned by William Dawkins and Micajah Perry as Carter reported her December 1723 arrival to each of them. (<cit><bibl>Adm. 68/194-195, ff. 76v, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. </bibl></cit>)</note>
 
-<note id="n10">[10] The German city of Hamburg was noted for the production of rope, and this may be what Carter means. </note>
+<note id="n8">[8] The impost was the duty imposed by Britain on imported tobacco, and the cocket, for which a fee was charged, was the document bearing a cocket or seal issued by the "King's Customs House" that the impost had been paid. (See the definitions of each word in  <cit><bibl><title>Oxford English Dictionary Online.</title></bibl></cit>)</note>
 
+<note id="n9">[9] The German city of Hamburg was noted for the production of rope, and this may be what Carter means. </note>
 
-
-
- 
-
-
-
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised March12 , 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 </div1>
 </back>

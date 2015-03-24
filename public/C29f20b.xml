@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -105,42 +105,44 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
-<date value="1729-06-20">June 20th. 1729</date><lb/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1729-06-20">June 20th. 1729</date><lb/>
 Alderman Perry<lb/>
 </dateline>
 <salute>Sir&mdash;</salute>
 
 </opener>
 
-<p>This advises you of a bill of Exchange Colo Page &amp;<lb/>
-my self have drawn on you to Mr: Emanuel Jones to be Paid out of<lb/>
+<p>This advises you of a <note target="n1">bill of Exchange</note> <abbr expan="Colonel">Colo</abbr> Page &amp;<lb/>
+my self have drawn on you to Mr: <note target="n2">Emanuel Jones</note> to be Paid out of<lb/>
 <note n="ECB"><abbr expan="Elizabeth">Eliza.</abbr> Burwells</note> money in your hands and to be <sic corr="Carried">Carryed</sic> to the <abbr expan="Debit">Dt</abbr><lb/>
 of that Accot</p>
 
-<p> Herein I inclose to you an Invoice for some goods for<lb/>
+<p> Herein I <sic corr="enclose">inclose</sic> to you an Invoice for some goods for<lb/>
 the Supply of Mrs. Burwells Family for the next year desiring <abbr expan="your">yr</abbr> care<lb/>
 in the well buying and Shipping them according to the directions there=<lb/>
 in given <del>but</del> more Especially the <sic corr="Medicines">Medicins</sic></p>
 
 <p> We have also drawn on you for &pound;14.14.11 in <abbr expan="payment">paymt</abbr><lb/>
-of the <note target="n1">Quit rents</note> of Mr. Burwells land to <note n="JG">Mr Grymes</note> the <abbr expan="Receiver General">Recr Genl:</abbr><lb/>
+of the <note target="n3">Quit rents</note> of Mr. Burwells land to <note n="JG">Mr Grymes</note> the <note target="n4"><abbr expan="Receiver General">Recr Genl:</abbr></note><lb/>
 and to be Charged to his Estate</p>
 
-<p>The <abbr expan="Tobaccos">Tobos</abbr> orderd to be <del>shipt</del> <add place="supralinear">consignd</add> to you this year<lb/>
-b<corr resp="editor">[e]</corr>l<corr resp="editor">[o]</corr>nging to that Estate are as follows 15 hogsheads on board the <note target="n2">Carolina</note><lb/>
-<abbr expan="Captain">Capt</abbr>Holliday 16 hogsheads on the <note target="n3">Spotswood</note> <abbr expan="Captain">Capt</abbr>Bradby 9 hogsheads on board<lb/>
-the <note target="n4">Micajah &amp; Phillip</note> <abbr expan="Captain">Capt</abbr> Bradby in all 40 hogsheads about the one<lb/>
+<p>The <abbr expan="Tobaccos">Tobos</abbr> orderd to be <del>shipt</del> <add place="supralinear"><sic corr="consigned">consignd</sic></add> to you this year<lb/>
+b<corr resp="editor">[e]</corr>l<corr resp="editor">[o]</corr>nging to that Estate are as follows 15 hogsheads on board the <note target="n5"><name type="ship">Carolina</name></note><lb/>
+<abbr expan="Captain">Capt</abbr>Holliday 16 hogsheads on the <note target="n6"><name type="ship">Spotswood</name></note> <abbr expan="Captain">Capt</abbr>Bradby 9 hogsheads on board<lb/>
+the <note target="n7"><name type="ship">Micajah &amp; Phillip</name></note> <abbr expan="Captain">Capt</abbr> Bradby in all 40 hogsheads about the one<lb/>
 half that is made by that Estate</p>
 
 <p>We are very barren of news at this time we have<lb/>
-been long Expecting the Arrival of the <note target="n5">Williamsburgh</note> and with her<lb/>
+been long Expecting the Arrival of the <note target="n8"><name type="ship">Williamsburgh</name></note> and with her<lb/>
 the <del>result</del> <add place="supralinear">issue</add> of many things Pray God grant they be Propitious to us</p>
 
-<p>Bills of Lading for the above <abbr expan="Tobaccos">Tobos</abbr> will be sent<lb/>
+<p><note target="n9">Bills of Lading</note> for the above <abbr expan="Tobaccos">Tobos</abbr> will be sent<lb/>
 to you in the Several Ships I am</p>
 
-<closer>Sir<lb/><abbr expan="your">yr </abbr>most Humble Servant</closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="your">yr </abbr>most Humble Servant
+</closer>
 
 
 </div1>
@@ -158,20 +160,26 @@ to you in the Several Ships I am</p>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
 
-<note id="n1">[1] Quit rent was the term used for the payment due from the holder of land to the "lord of the manor," in this case, to the proprietors of the Northern Neck. Carter as the proprietor's agent, collected these payments. No services were required of the landholder as had been true in mediaeval times.</note>
+<note id="n1"> [1] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (See <cit><bibl><xref to="http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm">"Bill of Exchange"</xref> in the online Dictionary of Financial Scam Terms: the Truth vs. the Scam.</bibl></cit>)</note>
 
-<note id="n2">[2] William Holladay commanded a ship named the <hi rend="italics">Princess Carolina.</hi> (<cit><bibl>Survey Report 6800, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n2">[2]  Emanual Jones lived in Gloucester County.(<cit><bibl>Beverley Fleet. <title>Virginia Colonial Abstracts</title>.  [Baltimore: Genealogical Publishing Co., reprint, 2000, 2006. online at Google Books,] p. 14, abstracting Essex County Wills and Deeds, 1711-1714, includes "Emanuel Jones of the Parish of Petsworth in the County of Gloucester Colony of Virginia Clerk. . . . " as a party to a deed of patition in December 1712</bibl></cit>; and <cit><bibl>Polly Cary Mason. <title>Records of Colonial Gloucester County Virginia:  A Collection of Abstracts. . . .</title> [Baltimore: Genealogical Publishing Co., reprint, 2009,  online at Google Books] p. 105</bibl></cit> includes similar records for Jones.)</note>
 
-<note id="n3">[3] This London ship was commanded by James Bradby, 1727-1732.  (<cit><bibl>Adm 68/195, 70r ff., found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n3">[3] Quit rent was the term used for "a (usually small) rent paid by a freeholder . . .  in lieu of services which might otherwise be required; a nominal rent paid (esp. in former British colonial territories to the Crown) as an acknowledgement of tenure," in this case, to the proprietors of the Northern Neck. Carter as the proprietor's agent, collected these payments. (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
-<note id="n4">[4] The Micajah &amp; Philip was a large vessel of some 400 tons carrying a crew of 27. The captain's name varies from record to record as James Bradley or James Bradby. Thomas Jones wrote to his wife, then in England, concerning this ship in 1728, "The Micajah &amp; Philip that comes to James River is as good as the best Ships that Comes hither, but Bradby the master seems to be a little conceited and prodigal." (<cit><bibl>Adm. 68/194-196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia</bibl></cit>; and <cit><bibl><title>Virginia Magazine of History and Biography.</title> 26[1918]: 172, abstracting the Jones Papers at the Library of Congress.</bibl></cit>)</note>
-
-<note id="n5">[5] Isham Randolph was captain of the London ship <hi rend="italics">Williamsburgh</hi> in 1725-26, and Charles Rogers commanded her in1727-28. (<cit><bibl>Admiralty 68/194, ff. 39v, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n4">[4] "The receiver-generalship was a royal appointment" and the official was required to give bond both to the lord of the treasury and to the governor. "Those who filled the office of receiver-general were practially all councillors. . . . The duties of the receiver-general included the receiving of the quit-rents, the revenue arising from the export duty of two shillings per hogshead on tobacco, the one penny per pound on tobacco exported from Virginia . . .  the port duty, which was the revenue arising from the fifteen pence per ton on all vessels arriving in the colony, and all funds of the colony not received by the treasurer. . . .  He paid out of the revenue . . .  the salaries of the officers of the colony, also those of the auditor-general of the colonies and the solicitor of Virginia affairs, both of whom lived in England. All the public expenses of the colony, except, of course, those paid out of the funds held by the treasurer, were paid out of the funds received in his office. . . .  He of course reported to the lords of the treasury all payments made on the order of the governor. The accounts of the revenues and the reports of disbursements forwarded to the lords of the treasury were certified to by the auditor and the governor, and sent by the governor."  (Percy Scott Flippin. <title>The Financial Administration of the Colony of Virginia</title> [Johns Hopkins Press, 1915.] 41-42.)</note>
 
 
+<note id="n25">[5] William Holladay commanded a ship named the <hi rend="italics">Princess Carolina</hi>, a ship owned by merchant <note n="JP">John Pemberton</note> of London. (<cit><bibl>Survey Report 6800, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> and <cit><bibl>letter, Carter to Pemberton, <xref to="/users/berkeley/public/C24c25c.xml">March 25, 1724.</xref></bibl></cit>)</note>
 
+<note id="n6">[6] The <hi rend="italics">Spotswood</hi> was a  London ship commanded by James Bradby,  1727-1732, and was owned by Micajah Perry.  (<cit><bibl>Adm 68/195, 70r ff., found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. See <xref to="http://carter.lib.virginia.edu/html/C30d16c.html">Carter to Micajah Perry</xref> April 16. 1730.</bibl></cit>)</note>
 
+<note id="n7">[7] The <hi rend="italics"> Micajah &amp; Philip</hi> was a large vessel of some 400 tons carrying a crew of 27. The captain's name varies from record to record as James Bradley or James Bradby. Thomas Jones wrote to his wife, then in England, concerning this ship in 1728, "The Micajah &amp; Philip that comes to James River is as good as the best Ships that Comes hither, but Bradby the master seems to be a little conceited and prodigal." (<cit><bibl>Adm. 68/194-196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia</bibl></cit>; and <cit><bibl><title>Virginia Magazine of History and Biography.</title> 26[1918]: 172, abstracting the Jones Papers at the Library of Congress .</bibl></cit>)</note>
 
+<note id="n5">[5] The London ship  <hi rend="italics">Williamsburgh</hi> was a large vessel of 550 tons and carried a crew of 26 men. Isham Randolph was captain in 1725-26, and Charles Rogers commanded her in 1727-29.   (<cit><bibl>Adm 68/195, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n9"> [9] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised March19 , 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 </div1>

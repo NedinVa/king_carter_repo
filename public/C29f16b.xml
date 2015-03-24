@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,7 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;
 <date value="1729-06-16">June the 16th. 1729</date><lb/>
 Micajh. Perry Esqr.<lb/>
 </dateline>
@@ -114,9 +114,9 @@ Micajh. Perry Esqr.<lb/>
 
 </opener>
 
-<p>The only business of this Shall be to Enclose to you a bill of<lb/>
-Lading for 40 hogsheads of <abbr expan="Tobacco">Tobbo:</abbr>
- on board the <name type="ship">Betty</name> <note target="n1"><abbr expan="Captain">Capt.</abbr> Keeling </note>which I reckon<lb/>
+<p>The only business of this Shall be to Enclose to you a <note target="n1">bill of<lb/>
+Lading</note> for 40 hogsheads of <abbr expan="Tobacco">Tobbo:</abbr>
+ on board the <name type="ship">Betty</name> <note target="n2"><abbr expan="Captain">Capt.</abbr> <sic corr="Keiling">Keeling</sic> </note>which I reckon<lb/>
 my own <abbr expan="Tobacco">Tobbo:</abbr>  and Expect to have an Accot. of the Produce of it placed to<lb/>
 my Credit. I have already told you the <abbr expan="Tobacco">Tobbo.</abbr> was <sic corr="marked">markt</sic> with this mark<lb/>
 before I <abbr expan="received">rec'd</abbr> <abbr expan="Your">Yor.</abbr> last Letters and would have bin attended with dif<corr resp="editor">[i]</corr>=<lb/>
@@ -128,14 +128,19 @@ Accot. to you of the Contingent Charges of the Estate for the Yr. 1728 wch.<lb/>
 you must Conclude are Considerable having had no manner of<lb/>
 <sic corr="Supplies">Supplys</sic> from you for that Year I am</p>
 
-<closer>Sir
-<abbr expan="Your">Yor.</abbr> most humble Servt.<seg type="postscript"><lb/><lb/>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="Your">Yor.</abbr> most humble Servt.
+
+<seg type="postscript"><lb/><lb/>
+
 <note n="RM">Richard Meeks's</note> Salary the <abbr expan="General Overseer">Genl. OverSr.</abbr><lb/>
 <note n="LL">LLs</note> <abbr expan="Plantations">Plans:</abbr> is &pound;35 sterling Per Annum<lb/>
 the Doctor's is &pound;15. this you know I have annu=<lb/>
-ally drawn for. The <note target="n2"><abbr expan="Quit">Qt.</abbr> rents.</note> The rent for Lands<lb/>
+ally drawn for. The <note target="n3"><abbr expan="Quit">Qt.</abbr> rents.</note> The rent for Lands<lb/>
 for the working of 20 <add place="supralinear">odd</add> of Slaves. The Levys are Standing Charges and the <sic corr="Clothng">Cloathng</sic> of the<lb/>
-People hath bin <sic corr="Entirely">Intirely</sic> upon me.</seg></closer>
+People <sic corr="has">hath</sic> bin <sic corr="Entirely">Intirely</sic> upon me.</seg>
+</closer>
 
 
 </div1>
@@ -153,11 +158,14 @@ People hath bin <sic corr="Entirely">Intirely</sic> upon me.</seg></closer>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
 
-<note id="n1">[1] Captain William Keiling commanded the <hi rend="italics">Betty.
+<note id="n1"> [1] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
+
+<note id="n2">[2] Captain William Keiling commanded the <hi rend="italics">Betty.
 </hi> (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194, Virginia Colonial Records Project, Albert and Shirley  Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
-<note id="n2">[2] Quit rent was the term used for the payment due from the holder of land to the "lord of the manor," in this case, to the proprietors of the Northern Neck. Carter as the proprietor's agent, collected these payments. No services were required of the landholder as had been true in mediaeval times.</note>
+<note id="n2">[2] Quit rent was the term used for "a (usually small) rent paid by a freeholder . . .  in lieu of services which might otherwise be required; a nominal rent paid (esp. in former British colonial territories to the Crown) as an acknowledgement of tenure," in this case, to the proprietors of the Northern Neck. Carter as the proprietor's agent, collected these payments. (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised March 12, 2015,  to add a footnote and strengthen the modern language version text.</hi></note>
 
 
 </div1>

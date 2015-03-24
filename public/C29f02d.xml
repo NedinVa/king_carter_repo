@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -116,18 +116,18 @@ Colo Page Honble<lb/>
 
 <p><note n="AG">Adam Graves</note> went out of our river yesderday mor<lb/>ning he <sic corr="has">hath</sic> some letters for <note target="n1">Bradby</note> and <note target="n2">Wills</note> which he <lb/><corr resp="editor">[prom]</corr>ised Carefully to deliver he was to Call at York for Bread &amp; <lb/><sic corr="flour"><corr resp="editor">[flo]</corr>wer</sic> and intended if possible to wait On you</p>
 
-<p>I writ to <note target="n3">Camp</note> to let Wills &amp; Bradby have <lb/><corr resp="editor">[so]</corr>me Shoats &amp; Corn they have both been very Obliging to me <lb/>Also I sent to Camp to contrive my boys <note n="GC">George</note> &amp; <note target="n4">Carter</note> home to <lb/><corr resp="editor">[me n]</corr>ext week being desirous to have the Comfort of their <abbr expan="Company">Compa:</abbr></p>
+<p>I <sic corr="wrote">writ</sic> to <note target="n3">Camp</note> to let Wills &amp; Bradby have <lb/><corr resp="editor">[so]</corr>me Shoats &amp; Corn they have both been very Obliging to me <lb/>Also I sent to Camp to contrive my boys <note n="GC">George</note> &amp; <note target="n4">Carter</note> home to <lb/><corr resp="editor">[me n]</corr>ext week being desirous to have the Comfort of their <abbr expan="Company">Compa:</abbr><lb/>for some days before the end of this long Vacation </p>
 
 <p>Now I send two letters for England upon busi<lb/>ness that <sic corr="has">hath</sic> happened since Adam Graves departure hope they 
 
 <pb n="2"/><lb/><lb/>
-will come time Enough to go in some of the London Ships</p>
+will come time Enough to go in <del>the</del> some of the London Ships</p>
 
-<p>My Sons <note n="RC2">Robin</note> &amp; <note n="CC1">Charles</note> took their dep<lb/>artures yesterday the latter full of resolve for carrying <lb/>on the <note target="n5">Frying Pan</note> business <add place="supralinear">Pray god continue his health to him</add> I Expect my slo<corr resp="editor">[op wi]</corr>th <lb/>their Provision and my Gang of Sawyers for the cl<corr resp="editor">[ear]</corr>in<corr resp="editor">[g]</corr> <lb/>the road will be there before him</p>
+<p>My Sons <note n="RC2">Robin</note> &amp; <note n="CC1">Charles</note> took their dep:<lb/>artures yesterday the latter full of resolve for carrying <lb/>on the <note target="n5">Frying Pan</note> business <add place="supralinear">Pray god continue his health to him</add> I Expect my slo<corr resp="editor">[op wi]</corr>th <lb/>their Provision and my Gang of Sawyers for the cl<corr resp="editor">[ear]</corr>in<corr resp="editor">[g]</corr> <lb/>the road will be there before him</p>
 
-<p>This Family salutes you as they ought <lb/>My daughter <note n="MCB">Mary</note> <sic corr="has">hath</sic> been very ill for several days <add place="supralinear">but is now pretty well</add> I <lb/>heartily pray for the continuance of All <abbr expan="your">yr</abbr> healths &amp; a happy <lb/>delivery to my dear <note n="JCP">Daughter</note> &amp; Am</p>
+<p>This Family salutes you as they ought <lb/>My daughter <note n="MCB">Mary</note> <sic corr="has">hath</sic> been very ill for several days <add place="supralinear">but is now pretty well</add> I <lb/>heartily pray for the Continuance of All <abbr expan="your">yr</abbr> healths &amp; <note target="n6">a happy <lb/>delivery</note> to my dear <note n="JCP">Daughter</note> &amp; Am</p>
 
-<closer><seg type="postscript"><lb/><lb/></seg></closer>
+
 
 
 </div1>
@@ -145,16 +145,19 @@ will come time Enough to go in some of the London Ships</p>
 
 <note>The county and colony have been added for clarity to the heading on this draft. </note>
 
-<note id="n1">[1] Captain James Bradby commanded the <hi rend="italics">Micajah and Philip. </hi>(<cit><bibl>Survey report 6801 summarizing Adm. 68/195, ff. 74v, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n1">[1] The<hi rend="italics"> Micajah &amp; Philip</hi> was a large vessel of some 400 tons carrying a crew of 27. The captain's name varies from record to record as James Bradley or James Bradby. Thomas Jones wrote to his wife, then in England, concerning this ship in 1728, "The Micajah &amp; Philip that comes to James River is as good as the best Ships that Comes hither, but Bradby the master seems to be a little conceited and prodigal." (<cit><bibl>Adm. 68/194-196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia</bibl></cit>; and <cit><bibl><title>Virginia Magazine of History and Biography.</title> 26[1918]: 172, abstracting the Jones Papers at the Library of Congress .</bibl></cit>)</note>
 
-<note id="n2">[2] Captain Peter Wills commanded the  <hi rend="italics">Booth</hi> in 1723-1724, and the <hi rend="italics">Amity,</hi> a vessel of 500 tons and 21 men,  in 1727-1729. He is mentioned in Carter's diary for June 1723.  (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194, and Survey Report 6801 summarizing Adm. 68/195,Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n2">[2] Captain Peter Wills commanded the  <hi rend="italics">Booth</hi> in 1723-1724, a ship belonging to merchant Thomas Colmore of London (see Carter's <xref to="/users/berkeley/public/C24a29a.xml">letter</xref> to Colmore of January 20 and February 15, 1724), and the <hi rend="italics">Amity,</hi> a vessel of 500 tons and 21 men,  in 1727-1729. He is mentioned in Carter's diary in 1723. (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194, and Survey Report 6801 summarizing Adm. 68/195, Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
-<note id="n3">[3] William Camp (Kemp) was described by Carter as "the General Overseer of Mr Burwell's Affairs" and he wrote that Camp earned a salary "&pound;50 . . . for the year 1731." Carter and his son-in-law, Mann Page, were the trustees of Nathaniel Burwell's children after Burwell's death in 1721. Camp was a resident of Gloucester County where most of the Burwell estates lay, and he must also have supervised "Rippon Hall" in nearby York County. (Carter to George Braxton, 1729 November 20, and Carter to William Dawkins,1732  July 11. <cit><bibl><title>Virginia Tax Records.</title> [Baltimore: Genealogical Publishing Company, Inc., 1983.] p. 539.</bibl></cit>)</note>
+<note id="n3">[3]William Camp (Kemp) was described by Carter as "the General Overseer of Mr Burwell's Affairs" and he wrote that Camp earned a salary "&pound;50 . . . for the year 1731." Carter and his son-in-law, Mann Page, were the trustees of Nathaniel Burwell's children after Burwell's death in 1721. Camp was a resident of Gloucester County where most of the Burwell estates lay, and he must also have supervised "Rippon Hall" in nearby York County. (<cit><bibl>Carter to George Braxton, <xref to="/users/berkeley/public/C29k20a.xml">November 20, 1729</xref>,</bibl></cit> and <cit><bibl>Carter to William Dawkins, <xref to="/users/berkeley/public/C32g11a.xml">July 11, 1732,</xref></bibl></cit> and <cit><bibl><title>Virginia Tax Records.</title> [Baltimore: Genealogical Publishing Company, Inc., 1983.] p. 539.</bibl></cit>)</note>
 
 <note id="n4">[4]  Carter Burwell (1716-1756) was Robert Carter's grandson by his daughter Elizabeth (Carter) Burwell and her first husband, Nathaniel Burwell (1680-1721). Carter Burwell would live at "Carter's Grove," and would marry Lucy Grymes in 1738. (<cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 128.</bibl></cit>)</note>
 
-<note id="n5">[5]  In 1728, Carter, his sons Robert and Charles, and his son-in-law Mann Page,  organized a company to mine for copper on a tract of some 27,000 acres that Louis Morton describes as lying "near the present boundary of Fairfax and Loudoun counties." Fairfax Harrison wrote that the tract was "on the  Horsepen of Broad." Horsepen Run joins Broad Run on the northern border of Dulles airport. The company was not successful. (<cit><bibl n="B32">Morton. <title>Robert Robert Carter of Nomini Hall.</title> pp. 18-19;</bibl></cit> and <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> p. 342. </bibl></cit>)</note>
+<note id="n5">[5]  In 1728, Carter, his sons Robert and Charles, and his son-in-law Mann Page,  organized a company they named Frying Pan to mine for copper on a tract of some 27,000 acres that Louis Morton describes as lying "near the present boundary of Fairfax and Loudoun counties." Fairfax Harrison wrote that the tract was "on the  Horsepen of Broad." Today, there is a Frying Pan Park just east of the border of the Dulles Airport reservation, and there are other things with the name in the area. The company was not successful. (<cit><bibl n="B32">Morton. <title>Robert Robert Carter of Nomini Hall.</title> pp. 18-19;</bibl></cit> and <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> p. 342. </bibl></cit>)</note>
 
+<note id="n6">[6] In Florence Carlton's <cit><bibl n="B3"><title>A Genealogy. . .  of Robert Carter. . . .</title> </bibl></cit> she notes on page 252 that Judith (Carter) Page's last child, a daughter who died in infancy, was in 1728.  Yet in this letter drafted June 2, 1729,, Robert Carter writes of his hope for a "happy delivery" for Judith, indicating that either the year 1728 is wrong, or Judith had another pregnancy.</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised March 9, 2015,  to  strengthen the footnotes and the modern language version text.</hi></note>
 
 
 
