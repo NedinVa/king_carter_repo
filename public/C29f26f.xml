@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,8 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
-<date value="1729-06-26">June 26th. 1729</date><lb/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1729-06-26">June 26th. 1729</date><lb/>
 To Mrs. Jane Hyde<lb/>
 </dateline>
 <salute>Madam</salute>
@@ -116,7 +115,7 @@ To Mrs. Jane Hyde<lb/>
 
 
 
-<p>I receiv'd <abbr expan="your">yr</abbr> Obliging lines with my<lb/>
+<p>I <abbr expan="received">receiv'd</abbr> <abbr expan="your">yr</abbr> Obliging lines with my<lb/>
 daughters <sic corr="clothes">cloths</sic> I <sic corr="believe">beleive</sic> <abbr expan="your">yr</abbr> Care was Extraordinary<lb/>
 And the Genteelness and richness of the Silk <sic corr="shows">shews</sic><lb/>
 they were no bad pennyworth things are not so dear<lb/>
@@ -137,9 +136,6 @@ owing <abbr expan="your">yr</abbr> Assistance in the buying and Packing them<lb/
 Genteelness and <sic corr="cheapness">cheepness</sic> I always desire may be made<lb/>
 the rule in my childrens Equipment</p>
 
-<closer></closer>
-
-
 </div1>
 
 </body>
@@ -155,8 +151,9 @@ the rule in my childrens Equipment</p>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to persons abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] Mrs. Hyde may have been a daughter-in-law of London merchant John Hyde with whom Carter dealt regularly.</note>
+<note id="n1">[1] Mrs. Hyde may have been a daughter-in-law of London merchant <note n="JH2">John Hyde</note> with whom Carter dealt regularly.</note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised April 2, 2015,  to  strengthen the footnotes and the modern language version text.</hi></note>
 
 
 

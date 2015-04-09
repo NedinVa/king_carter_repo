@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,8 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1729-06-27">June the 27th. 1729</date><lb/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add>&nbsp;&nbsp;&nbsp;&nbsp;</name><date value="1729-06-27">June the 27th. 1729</date><lb/>
 Mr. John Falconar<lb/>
 </dateline>
 <salute>Sir&mdash;</salute>
@@ -115,20 +114,26 @@ Mr. John Falconar<lb/>
 </opener>
 
 <p>Yesterday I sent away my Invoice by <note target="n2"><abbr expan="Captain">Capt.</abbr> Wills</note><lb/>
-the bills of Lading for my <abbr expan="Tobacco">Tobbo.</abbr> and <note n="NB">Mr. Burwells</note> comes in the <abbr expan="several">sevl.</abbr> Ships<lb/>
-I omitted sending for Some German <sic corr="Spa">Spaw</sic> water I now desire you to<lb/>
-Send me in the same Quantity you did the last year. I have desired <note target="n3">Mr.<lb/>
+the <note target="n3">bills of Ladin</note>g for my <abbr expan="Tobacco">Tobbo.</abbr> and <note n="NB">Mr. Burwells</note> comes in the <abbr expan="Several">Sevl.</abbr> Ships<lb/>
+I omitted Sending for some German <sic corr="Spa">Spaw</sic> water I now desire you to<lb/>
+Send me in the sSame Quantity you did the last year. I have desired <note target="n4">Mr.<lb/>
 Pratt</note> to put you in mind of it.</p>
 
-	<p>Herein is a bill of Exchange for &pound;5 drawn by Ben<lb/>
-Berryman on your self which desire Credit for or to be protested</p>
+<p>Herein is a <note target="n5">bill of Exchange</note> for &pound;5 drawn by <note target="n6">Ben<lb/>Berryman</note> on your self which desire Credit for or to be protested</p>
 
-	<p>I <sic corr="believe">beleive</sic> hereafter I shall desire my good friend Mr. Pratt<lb/>
+<p>I <sic corr="believe">beleive</sic> hereafter I shall desire my good friend Mr. Pratt<lb/>
 to lay out a little money for me if I do believe I Shall direct him to call up-<lb/>
 on you for it I am
 </p>
 
-<closer>Sir<lb/>Yor. <sic corr="Esteemed">Esteemd</sic> Friend &amp; humble Servt.</closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. <sic corr="Esteemed">Esteemd</sic> Friend &amp; humble Servt.
+
+<seg type="postscript">
+per <note target="n7">Baily</note>
+</seg>
+</closer>
 
 
 </div1>
@@ -146,14 +151,21 @@ on you for it I am
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
 
-<note id="n1">[1] John Falconar (d. <hi rend="italics">ca.</hi> 1729) was a London merchant with whom Carter dealt. In 1728, Falconar and Henry Darnell formed an association of 29 London tobacco merchants to deal with the French tobacco purchasing agent as a group in order to keep the price as high as possible. The association lasted only lasted a year or two before dissolving because some of its members were dealing directly with the French agent and selling below the agreed-upon price. (See Carter to William Dawkins, and Carter to Falconar's executors, both 1730 April 16, for Falconar's death date. <cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> Newport News, VA: Mariners' Museum, 1953. p. 129</bibl></cit>)</note>
+<note id="n1">[1] John Falconar (d. <hi rend="italics">ca.</hi> 1729) was a London merchant with whom Carter dealt. In 1728, Falconar and Henry Darnell formed an association of 29 London tobacco merchants to deal with the French tobacco purchasing agent as a group in order to keep the price as high as possible. The association lasted only lasted a year or two before dissolving because some of its members were dealing directly with the French agent and selling below the agreed-upon price. (See <xref to="http://carter.lib.virginia.edu/html/C27g24d.html">Carter's letter to Falconar </xref> of July 24 and August 22, 1727, for details about the payment of &pound;200 to him. See <xref to="http://carter.lib.virginia.edu/html/C30d16b.html">Carter to William Dawkins,</xref> for Falconar's death date. <cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> Newport News, VA: Mariners' Museum, 1953. p. 129</bibl></cit>)</note>
 
-<note id="n2">[2] Captain Peter Wills commanded the  <hi rend="italics">Booth</hi> in 1723-1724, and the <hi rend="italics">Amity,</hi> a vessel of 500 tons and 21 men,  in 1727-1729. He is mentioned in Carter's diary for June 1723.  (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194, and Survey Report 6801 summarizing Adm. 68/195,Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n2">[2] Captain Peter Wills commanded the  <hi rend="italics">Booth</hi> in 1723-1724, a ship belonging to merchant Thomas Colmore of London (see Carter's <xref to="/users/berkeley/public/C24a29a.xml">letter</xref> to Colmore of January 20 and February 15, 1724), and the <hi rend="italics">Amity,</hi> a vessel of 500 tons and 21 men,  in 1727-1729. He is mentioned in Carter's diary in 1723. (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194, and Survey Report 6801 summarizing Adm. 68/195, Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
-<note id="n3">[3] John Pratt was a London merchant and an old friend of Carter's who usually referred to him as "Daddy."</note>
+<note id="n3"> []3 A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
+<note id="n4">[4] John Pratt was a London merchant and an old friend of Carter's who usually referred to him as "Daddy."</note>
 
+<note id="n5"> [5] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (See <cit><bibl><xref to="http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm">"Bill of Exchange"</xref> in the online Dictionary of Financial Scam Terms: the Truth vs. the Scam.</bibl></cit>)</note>
 
+<note id="n6"> [6] Benjamin Berryman (ca. 1680-1729) was the son of John and Jane Berryman and lived in Westmoreland County where he was justice and sheriff. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 3[1705-1721]:398, 425; </bibl></cit> and "<xref to="http://www.sharpwriters.com/genealogy/berryman.html">The Berrymans</xref> And Related Baldridge, Newton, And Allerton Lines." 4/9/2015)</note>
+
+<note id="n7">[7]  The <hi rend="italics">Bailey</hi> was a London ship owned by William Dawkins and commanded at various times by Adam Graves (1725-1730) and by Thomas Dove (1731-1732). She was a vessel of some 250 tons and carried 15-17 crew members. (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, 156v, and other data in Adm. 68/194 and /196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> A letter of Carter's to Dawkins <xref to="http://carter.lib.virginia.edu/html/C32e12b.html">May 12, 1732,</xref> refers to "your ship Bailey." as does a letter of August 10, 1733, from Carter's executors to Dawkins. [<cit><bibl>Lloyd T. Smith, Jr., <hi rend="italics">ed.</hi> <title>The Executors' Letters of Robert Carter of Corotoman, 1732-1738. </title> (Irvington, VA: Foundation for Historic Christ  Church, 2010) p. 76].</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised April 9, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 </div1>

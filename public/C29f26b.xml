@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -88,7 +88,7 @@
 <head>
 <bibl>
 <abbr>AL</abbr>
-<extent> p.</extent>
+<extent>1 p.</extent>
 <date value="1729-06-26"></date>
 <idno rend="suppress">C29f26b.xml</idno>
 <title>Letter from Robert Carter to Robert Burridge, June 26, 1729</title>
@@ -106,7 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;
 <date value="1729-06-26">June 26. 1729</date><lb/>
 Mr. Robert Burridge<lb/>
 </dateline>
@@ -124,18 +124,20 @@ as by Any Person And when Ever I have an Opportunity<lb/>
 My design is to give you the trouble of some more of<lb/>
 My business</p>
 
-	<p><note target="n2"><abbr expan="Captain">Capt</abbr> Reid</note> in <note target="n3">Mr. Gundrys</note> employ will<lb/>
+<p><note target="n2"><abbr expan="Captain">Capt</abbr> Reid</note> in <note target="n3">Mr. Gundrys</note> employ will<lb/>
 let no Freight but to his Owner if you can Prevail <abbr expan="with">wth</abbr><lb/>
 him to take any to you next year I will god willing provide<lb/>
 it for you or in Any Other ship that will deliver it at yr<lb/>
 Port <del>[illegible]</del> <add place="supralinear">or</add> Exon</p>
 
-	<p>I forsee I shall have <abbr expan="Tobacco">Tobo</abbr> left this <abbr expan="year">yr.</abbr><lb/>
+<p>I forsee I shall have <abbr expan="Tobacco">Tobo</abbr> left this <abbr expan="year">yr.</abbr><lb/>
 if any Vessel Offers I design to send it to you I am<lb/>
 </p>
 
-<closer>Sir<lb/>
-<abbr expan="your">yr</abbr> very humble Servt.</closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="your">yr</abbr> very humble Servt.
+</closer>
 
 
 </div1>
@@ -153,12 +155,13 @@ if any Vessel Offers I design to send it to you I am<lb/>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] It is not clear what Carter means by this word which appears twice in this letter. It can be used as an abbreviation for Exeter which is not far from Lyme Regis where Burridge lived. </note>
+<note id="n1">[1]  Carter, whose Latin was good, here uses the Latin abbreviation "Exon" for "Exoniensis," " the Latin name for the city of Exeter in Devon, England."  Exeter is about twenty-five miles west of Lyme Regis where Burridge lived. ("Exoniensis . . .  is the Latin adjectival form of Exonia, the Latin name for the city of Exeter in Devon, England." <xref to="http://en.wikipedia.org/wiki/Exoniensis">Wikipediaa</xref>.)</note>
 
-<note id="n2">[2] This may be Will Read, captain of an unnamed ship that Carter referred to in a letter to John Burridge 1727 July 28.</note>
+<note id="n2">[2] This may be Will Read, captain of an unnamed ship belonging to Nathaniel Gundry that Carter referred to in a letter to John Burridge <xref to="http://carter.lib.virginia.edu/html/C29f26a.html">June 26, 1729</xref>.</note>
 
 <note id="n3">[3] Nathaniel Gundry was a merchant in Lyme Regis, Dorset, and mayor of that town several times. His son was a member of Parliament and later a judge. (Notes made by Francis L. Berkeley, Jr., from  <cit><bibl>George Robert. <title>History and Antiquities of the Borough of Lyme Regis &amp; Charnmouth.</title> [London, 1834]. pp. 97, 383-4.</bibl></cit>; and        <cit><bibl n="B6">Sedgwick. <title>The History of Parliament . . . Commons.</title> pp. 91-92.</bibl></cit>)</note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised March 27, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 

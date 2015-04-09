@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -88,7 +88,7 @@
 <head>
 <bibl>
 <abbr>AL</abbr>
-<extent> p.</extent>
+<extent>1 p.</extent>
 <date value="1729-06-25"></date>
 <idno rend="suppress">C29f25e.xml</idno>
 <title>Letter from Robert Carter to Alderman [Micajah] Perry, June 25, 1729</title>
@@ -106,8 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1729-06-25">June the 25th.1729</date><lb/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1729-06-25">June the 25th.1729</date><lb/>
 Alderman Perry&mdash;<lb/>
 </dateline>
 
@@ -116,28 +115,34 @@ Alderman Perry&mdash;<lb/>
 
 
 <p>This is a line by the <note target="n1">Spotswood</note> <abbr expan="Captain">Capt.</abbr> Bradby who is now at<lb/>
-my house and Encloses 2 bills of Lading one for 18 hogsheads of my own Crop<lb/>
+my house and Encloses 2 <note target="n2">bills of Lading</note> one for 18 hogsheads of my own Crop<lb/>
 <abbr expan="Tobacco">Tobbo:</abbr> the other for 16 hogsheads belonging to <note n="NB">Mr. Burwells</note> Estate. I have alre<lb/>
 ady sent away an Invoice for the Supply of <sic corr="those">them</sic> familys and have<lb/>
-already advised <add place="supralinear">you</add> of the bills of Exchange drawn by <note n="MP1">Colonel Page</note> and my Self upon<lb/>
+already advised <add place="supralinear">you</add> of the <note target="n3">bills of Exchange</note> drawn by <note n="MP1">Colonel Page</note> and my Self upon<lb/>
 the Accot. of the Childrens Estates. and upon <note n="ECB"><abbr expan="Elizabeth">Eliza.</abbr> Burwells</note> Accot. This day<lb/>
 I have drawn upon <corr resp="editor">[you]</corr> for &pound;11"14"- to <abbr expan="Captain">Capt.</abbr> Bradby on my own Accot.<lb/>
 and for &pound;1"13"- to him on Accot. of the Estate.</p>
 
-<p>herein are Some Small bills of Exchange to wit. <note target="n2"><abbr expan="Captain">Capt.</abbr><lb/>
+<p>herein are Some Small bills of Exchange to wit. <note target="n4"><abbr expan="Captain">Capt.</abbr><lb/>
 Keeling</note> on yourself for &pound;2"10"- <abbr expan="Charles">Chas:</abbr> <sic corr="Grymes">Grimes</sic> on <abbr expan="Ditto">Do:</abbr> for &pound;8"11"-<lb/>
-I have 2 upon yourself Emanuel Jones on Mr. James Yeats for<lb/>
-&pound;6"12"- <abbr expan="William">Wm.</abbr> Falis on Joshua Gee for &pound;10"-"- <abbr expan="Captain">Capt.</abbr> Smith on Berry<lb/>
-&amp; Company for &pound;19"4"- Thos: Dyer on G. Randal of Carrie for &pound;3"15"-<lb/>
-John Fitzhugh on Lyonel Lyde Bristol for &pound;11"1"8 <abbr expan="Thomas">Thos:</abbr> Barber on<lb/>
-Lyonel Lyde for &pound;5"2"- Peter Tourin on Edward Greenings <sic corr="Bidde">Biddie</sic><lb/>
-ford for &pound;13"5"- Amounting to &pound;80"00"8 which desire <abbr expan="your">yor.</abbr> managemt.<lb/>
+I have 2 upon yourself <note target="n5">Emanuel Jones</note> on Mr. James Yeats for<lb/>
+&pound;6"12"- <abbr expan="William">Wm.</abbr> Galis on Joshua Gee for &pound;10"-"- <abbr expan="Captain">Capt.</abbr> Smith on Berry<lb/>
+&amp; Company for &pound;19"4"- <abbr expan="Thomas">Thos:</abbr> Dyer on G. Randal of Carrie for &pound;3"15"-<lb/>
+<note target="n6">John Fitzhugh</note> on <note target="n7">Lyonel Lyde</note> <name type="city">Bristol</name> for &pound;11"1"8 <abbr expan="Thomas">Thos:</abbr> Barber on<lb/>
+Lyonel Lyde for &pound;5"2"- Peter Tourin on Edward Greenings <name type="city"><sic corr="Bidde">Biddie</sic><lb/>
+ford</name> for &pound;13"5"- Amounting to &pound;80"00"8 which desire <abbr expan="your">yor.</abbr> managemt.<lb/>
 of. Shall Conclude here</p>
 
 
-<closer><abbr expan="Your">Yor.</abbr> most humble Servt.<seg type="postscript"><lb/><lb/>Also a Small bill of Richd. Chichesters<lb/>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="Your">Yor.</abbr> most humble Servt.
+
+<seg type="postscript"><lb/><lb/>
+Also a Small bill of <note target="n8"><abbr expan="Richard">Richd.</abbr> Chichesters</note><lb/>
 on yor. self for &pound;2"06"7<lb/><lb/>
-per <abbr expan="Captain">Capt.</abbr> Bradby</seg></closer>
+per <abbr expan="Captain">Capt.</abbr> Bradby
+</seg>
+</closer>
 
 
 </div1>
@@ -155,10 +160,25 @@ per <abbr expan="Captain">Capt.</abbr> Bradby</seg></closer>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] This London ship was commanded by James Bradby, 1727-1732.  (<cit><bibl>Adm 68/195, 70r ff., found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n1">[1] The <hi rend="italics">Spotswood</hi> was a  London ship commanded by James Bradby,  1727-1732, and was owned by Micajah Perry.  (<cit><bibl>Adm 68/195, 70r ff., found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. See <xref to="http://carter.lib.virginia.edu/html/C30d16c.html">Carter to Micajah Perry</xref> April 16. 1730.</bibl></cit>)</note>
 
-<note id="n2">[2] Captain William Keiling commanded the <hi rend="italics">Betty.
+<note id="2n"> [2] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
+
+<note id="n3"> [3] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (See <cit><bibl><xref to="http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm">"Bill of Exchange"</xref> in the online Dictionary of Financial Scam Terms: the Truth vs. the Scam.</bibl></cit>)</note>
+
+<note id="n4">[4] Captain William Keiling commanded the <hi rend="italics">Betty.
 </hi> (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194, Virginia Colonial Records Project, Albert and Shirley  Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+
+ <note id="n5">[5] Emanual Jones lived in Gloucester County.  (<cit><bibl>Beverley Fleet. <title>Virginia Colonial Abstracts</title>.  [Baltimore: Genealogical Publishing Co., reprint, 2000, 2006. online at Google Books,] p. 14 abstracting Essex County Wills and Deeds, 1711-1714, includes "Emanuel Jones of the Parish of Petsworth in the County of Gloucester Colony of Virginia Clerk. . . . " as a party to a deed of patition in December 1712</bibl></cit>; and <cit><bibl>Polly Cary Mason. <title>Records of Colonial Gloucester County Virginia:  A Collection of Abstracts. . . .</title> [Baltimore: Genealogical Publishing Co., reprint, 2009,  online at Google Books] p. 105</bibl></cit> includes similar records for Jones.)</note>
+
+<note id="n6">[6] John Fitzhugh (d. 1733) of Stafford County, a younger son of William Fitzhugh of "Bedford." He was a burgess from Stafford in 1727. (<cit><bibl>"The Fitzhugh Family." <title>Virginia Magazine of History and Biography.</title> 7[1899-1900]: 317-19.</bibl></cit>)</note>
+
+ <note id="n7">[7] "Lionel Lyde . . .  was from Bristol and traded with Virginia in both slaves and tobacco.  He was also involved in the transport of felons to Maryland and Virginia.  Some of the time he was a partner with Isaac Hobhouse in ship voyages.  He had an interest in a glasshouse.  He served as Sheriff, Mayor, and Alderman of the City of Bristol."  (<cit><bibl>John Blankenbaker. "<xref to="http://archiver.rootsweb.ancestry.com/th/read/GERMANNA_COLONIES/2004-09/1095041335">Germanna Colonies</xref> L Archives."  Online at rootsweb. </bibl></cit> See also:  <cit><bibl>Marie B. Rowlands. <title>Masters and Men: In the West Midland Metalware Trades Before the Industrial Revolution. </title> [Manchester University Press, 1975 ], p.76;</bibl></cit> Walter E. Minchinton, <hi rend="italics">ed.</hi> <title>The Trade of Bristol in the Eighteenth Century,</title> [Bristol Record Society, 1957.] 20:101; and John Latimer <title>The Annals of Bristol in the Eighteenth Century.</title> [the author, 1893. <xref to="http://texts.wishful-thinking.org.uk/Latimer1800/Annals1771.html">Transcript online</xref>.)</note>
+
+<note id="n8">[8] Richard Chichester (1657-1734) came to Virginia in 1702. He married Anne Fox Chinn, and settled in Lancaster County. <cit>"Virginia Gleanings in England," <title>Virginia Magazine of History and Biography</title>, 21 (1913):249-253.</cit></note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised March 27, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 

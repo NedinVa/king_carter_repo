@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -88,7 +88,7 @@
 <head>
 <bibl>
 <abbr>AL</abbr>
-<extent>1+ p.</extent>
+<extent>1 p.</extent>
 <date value="1729-06-25"></date>
 <idno rend="suppress">C29f25b.xml</idno>
 <title>Letter from Robert Carter to James Bradley, June  25, 1729</title>
@@ -106,8 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1729-06-25">June the 25th. 1729</date><lb/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1729-06-25">June the 25th. 1729</date><lb/>
 Mr. James Bradly<lb/>
 </dateline>
 <salute>Sir&mdash;</salute>
@@ -116,14 +115,16 @@ Mr. James Bradly<lb/>
 
 
 
-<p>This is Just a line to Cover a bill of Lading for 10 hogsheads<lb/>
-of <abbr expan="Tobacco">Tobbo.</abbr> <sic corr="Consigned">Consignd</sic> you in the <note target="n2"><name type="ship">Forward</name></note> <abbr expan="Captain">Capt.</abbr> Loney. It was made at my home<lb/>
+<p>This is Just a line to Cover a <note target="n2">bill of Lading</note> for 10 hogsheads<lb/>
+of <abbr expan="Tobacco">Tobbo.</abbr> <sic corr="Consigned">Consignd</sic> you in the <note target="n3"><name type="ship">Forward</name></note> <abbr expan="Captain">Capt.</abbr> Loney. It was made at my home<lb/>
 Plantations and I hope will prove good, I shall only wish it safe to you<lb/>
 and Conclude</p>
 
-<closer>Sir&mdash;<lb/>
-<abbr expan="Your">Yor</abbr>. most humble Servt.
-<seg type="postscript"><lb/><lb/>per Trice</seg></closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir&mdash;<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="Your">Yor</abbr>. most humble Servt.
+<seg type="postscript"><lb/><lb/>per Trice</seg>
+</closer>
 
 
 </div1>
@@ -141,14 +142,13 @@ and Conclude</p>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] James Bradley was a London merchant with whom Carter dealt from at least 1723 until his death. As noted in his letter to Bradley of 1727 May 17, Bradley owned the <hi rend="italics">Welcome,</hi> but little information about Bradley has been located.</note>
+<note id="n1">[1] James Bradley was a London merchant with whom Carter dealt from at least 1723 until his death. As noted in his letter to Bradley of <xref to="/users/berkeley/public/C27e17a.html">May 17, 1727,</xref> Bradley owned the <hi rend="italics">Welcome,</hi> but little information about Bradley has been located. (There is a listing of the firm of Bradly &amp; Griffin, Merchants, Fenchurch-street, opposite the Mitre Tavern, on page 13 of <cit><bibl><title><xref to="freepages.history.rootsweb.com/~frpayments/KD1740/AB.htm">Kent's Directory </xref>For the Year 1740 Containing An Alphabetical List of the Names and Places of Abode of the Directors of Companies, Persons in Publick Business, Merchants, and other Eminent Traders in the Cities of London and Westminster, and the Borough of Southwark.</title>  [London: Printed and Sold by Henry Kent in Finch-Lane, near the Royal Exchange: and by the Booksellers and Pamphlets Shops of London and Westminster, 1740]. p. 39. Online, examined 8/12/2005 and 6/14/2012. </bibl></cit>)</note>
 
-<note id="n2">[2] The <hi rend="italics">Forward</hi> was a London ship of 150-200 tons  commanded in 1728-29 by William Loney, and in 1731 by George Buckridge. (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194 and Survey Report 6801 summarizing Adm 68/195, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit> )</note>
+<note id="n2"> 2[] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
+<note id="n3">[3] The <hi rend="italics">Forward</hi> was a London ship of 150-200 tons  commanded in 1728-29 by William Loney, and in 1731 by George Buckridge. (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194 and Survey Report 6801 summarizing Adm 68/195, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit> )</note>
 
-
-
-
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised March 25, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 </div1>
 </back>

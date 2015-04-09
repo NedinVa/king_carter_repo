@@ -40,7 +40,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -108,8 +108,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
-<date value="1729-06-26">June the 26th. 1729</date><lb/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1729-06-26">June the 26th. 1729</date><lb/>
 
 </dateline>
 
@@ -118,46 +117,46 @@
 
 <p>A List of Several Copies of Papers Sent to <corr resp="editor">[ . . . ]</corr> <lb/>And to <corr resp="editor">[ . . . ]</corr>  Relating to the Boundaries of the Northern Neck, etc.<lb/><lb/>
 <list>
-  <item>1st.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The petition of <note target="n1">Lady<add place="supralinear"> Culpeper</add></note> &amp; the rest of the <abbr expan="Proprietors">Pprs.</abbr> to the King in Council<lb/>
-		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the 15th of <abbr expan="December">Decr.</abbr> 1692 Complaining <abbr expan="against">agst.</abbr> the <abbr expan="Governor">Govr.</abbr> and Council of <abbr expan="Virginia">Virga.</abbr> for<lb/>
-		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Obstructing the Execution of their Grant and the order thereupon</item><lb/><lb/>
+  <item>1st.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The petition of <note target="n2">Lady<add place="supralinear"> Culpeper</add></note> &amp; the rest of the <abbr expan="Proprietors">Pprs.</abbr> to the King in Council<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the 15th of <abbr expan="December">Decr.</abbr> 1692 Complaining <abbr expan="against">agst.</abbr> the <abbr expan="Governor">Govr.</abbr> and Council of <abbr expan="Virginia">Virga.</abbr> for<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Obstructing the Execution of their Grant and the order thereupon</item><lb/><lb/>
 
 <item>2d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir John Somers <sic corr="Attorney">Atturney</sic> <abbr expan="General's">Genls.</abbr> report Concerning the Northern<lb/>
-				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Neck Grant the 26th . of <abbr expan="January">Jany.</abbr> 1692/3 and the order of the King in Council<lb/>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;there upon the 26th of <abbr expan="October">Octob.</abbr> 1693&mdash;</item><lb/><lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Neck Grant the 26th. of <abbr expan="January">Jany.</abbr> 1692/3 and the order of the King in Council<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;thereupon the 26th of <abbr expan="October">Octob.</abbr> 1693&mdash;</item><lb/><lb/>
 
- <item>3d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The proceedings of the <abbr expan="Governor">Govr.</abbr> in Council the 2d. of May 1706 relating to<lb/>
-				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the great fork of Rappahannock river the order of Council thereupon &amp; the report<lb/>
-					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of the persons appointed to be the viewers&mdash;&amp;ca.</item><lb/><lb/>
+ <item>3d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The <note target="n3">proceedings</note> of the <abbr expan="Governor">Govr.</abbr> in Council the 2d. of May 1706 relating to<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the great fork of Rappahannock river the order of Council thereupon &amp; the report<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of the persons appointed to be the viewers&mdash;&amp;ca.</item><lb/><lb/>
 
 <item>4th.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Part of Letter from <note n="WR">Robertson</note> to Carter <abbr expan="September">Sepr.</abbr> 6th. 1722&mdash;</item><lb/><lb/>
 
-  <item>5th.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<note target="n2">Savage</note> Sworn <abbr expan="Surveyor">Survr.</abbr> of Stafford his Certificate and Plat relate=<lb/>
-					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ing to the branches of the <note target="n3">little fork</note> of the North run of Rappahannock&mdash;</item><lb/><lb/>
+  <item>5th.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<note target="n4">Savage</note> Sworn <abbr expan="Surveyor">Survr.</abbr> of Stafford his Certificate and Plat <sic corr="relat=">relate=</sic><lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ing to the branches of the <note target="n5">little fork</note> of the North run of Rappahannock&mdash;</item><lb/><lb/>
 
-<item>6th.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sic corr="Attorney">Atturney</sic> and Solicitor <abbr expan="General">Genl.</abbr> Opinions about fines &amp; <sic corr="forfeitures">forfietures</sic> &amp;ca.<lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the 12th. of August 1727&mdash;</item><lb/><lb/>
+<item>6th.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sic corr="Attorney">Atturney</sic> and Solicitor <abbr expan="General">Genl.</abbr> Opinions about fines &amp; <sic corr="forfeitures">forfietures</sic> &amp;ca.<lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the 12th. of August 1727&mdash;</item><lb/><lb/>
 
-  <item>7th.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Carters Letter to <note n="JH">Holloway</note> the 24th of May 1729</item><lb/><lb/>
+  <item>7th.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<xref to="http://carter.lib.virginia.edu/html/C29e24a.html">Carters Letter</xref> to <note n="JH">Holloway</note> the 24th of May 1729</item><lb/><lb/>
 
-<item>8th.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Carters Letter to <abbr expan="Ditto">Do:</abbr> _ _ the 24th of May 1729</item><lb/><lb/>
+<item>8th.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Carters Letter to <abbr expan="Ditto">Do:</abbr> _ _ the 24th of May 1729 <add resp="editor"> [<hi rend="italics">sic</hi>]</add></item><lb/><lb/>
 
   <item>9th.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<note target="n4"><abbr expan="Thomas">Thos:</abbr> Owsleys</note> Certificate relating to the <abbr expan="branches">bras:</abbr> of the little fork of Rappahannock <add place="supralinear">{May 29th. 1719}</add></item><lb/><lb/>
 
  <item>10th.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Holloway's Letters to Carter the 3d. of June 1729</item><lb/><lb/>
 
-  <item>11th.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Carters petition to <note n="WG"><abbr expan="Governor">Govr.</abbr> Gooch</note> in behalf of the <abbr expan="Proprietors">Proprs.</abbr> against the Passing<lb/> 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of any more <sic corr="Patents">Pattents</sic> in the little fork&mdash;</item><lb/><lb/>
+  <item>11th.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Carters petition to <note n="WG"><abbr expan="Governor">Govr.</abbr> Gooch</note> in behalf of the <abbr expan="Proprietors">Proprs.</abbr> against the Passing<lb/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of any more <sic corr="Patents">Pattents</sic> in the little fork&mdash;</item><lb/><lb/>
 
-  <item>12th.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Part of a Letter from Carter to Holloway June 2d. 1729&mdash;</item><lb/><lb/>
+  <item>12th.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Part of a Letter from <xref to="http://carter.lib.virginia.edu/html/C29f02b.html">Carter to Holloway</xref> June 2d. 1729&mdash;</item><lb/><lb/>
 
 <item>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Turn Ov<corr resp="editor">[er]</corr></item>
 
 <pb n="2"/><lb/><lb/>
-  <item>13th.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The order of Council June the 11th. 1729</item><lb/><lb/>
+  <item>13th.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The <note target="n5">order of Counci</note>l June the 11th. 1729</item><lb/><lb/>
 
-  <item>14th.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The order of Council June the 12th. 1729</item><lb/><lb/>
+  <item>14th.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The <note target="n6">order of Council</note> June the 12th. 1729</item><lb/><lb/>
 
   <item>15th.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Terms of <note n="PL">Colonel Ludwells</note> Grant respecting Mines and <sic corr="Ore">Oar</sic> &amp;.<lb/>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;runs <abbr expan="through">thro</abbr> all the grants made in his Time</item><lb/><lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;runs <abbr expan="through">thro</abbr> all the grants made in his Time</item><lb/><lb/>
   <item>16th.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Holloways Letter to Carter June the 13th. 1729&mdash;</item><lb/><lb/>
 
   <item>17th.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Carters Observations upon the order of Council June the 20th 1729.</item>
@@ -165,8 +164,8 @@
 </list>
   </p>
 
-<closer><seg type="postscript">per <note target="n5">Bailey</note>
-<lb/>Copy per <note target="n6">Spotswood</note></seg></closer>
+<closer><seg type="postscript">per <note target="n7">Bailey</note>
+<lb/>Copy per <note target="n8">Spotswood</note></seg></closer>
 
 
 </div1>
@@ -184,18 +183,27 @@
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
 
-<note id="n1">[1] Catherine Culpeper, widow of the fifth Lord Fairfax (d. 1710); from her father, the 2nd Lord Culpeper, she had inherited about 1689 his five-sixths interest in the Northern Neck Proprietary in Virginia. Lord Fairfax consulted Micajah Perry about the affairs of the Propietary, and Perry had recommended Robert Carter to be the Virginia agent in 1702. He held the post until 1710 when Lady Fairfax transferred the agency to Edmund Jenings with Thomas Lee as the deputy agent. When she died in 1719, she bequeathed her Virginia property to her son Tom, but she made Wiliam Cage and Edward Filmer, trustees of the proprietary. Filmer soon died, and Cage, a kinsman of the 6th Lord Fairfax, became the sole trustee. From his grandmother, Margaret Lady Culpeper, the 6th Lord Fairfax inherited the other one-sixth of the Proprietary. Cage consulted Perry, and Robert Carter was again made agent in 1721, holding the post until his death ten years later.</note>
+<note id="n1">[1]  It seems likely that this list and the accompanying papers were sent to <xref to=" http://carter.lib.virginia.edu/html/C29e24a.html">John Holloway</xref> and to <xref to="http://carter.lib.virginia.edu/html/C29f02a.html">John Randolph</xref> as letters to each of them in the spring of 1729 discussed their work as Carter's attornies on the case. The letters to Carter and other items  referred to in the list are not extant.</note>
 
-<note id="n2">[2]  John Savage was a surveyor, later (1734) to be employed by Lord Fairfax in his  attempt to establish the boundaries of the proprietary. (<bibl n="B4">Harrison. <title>Landmarks. . . .</title> p. 619.</bibl>)</note>
+<note id="n2">[2] Catherine Culpeper (d. 1719) was the widow of the fifth Lord Fairfax (d. 1710). From her father, the 2nd Lord Culpeper, she had inherited about 1689 his five-sixths interest in the Northern Neck Proprietary in Virginia. Lord Fairfax had consulted Micajah Perry about the affairs of the Proprietary, and Perry had recommended Robert Carter to be the Virginia agent in 1702. He held the post until 1710 when Lady Fairfax transferred the agency to Edmund Jenings with Thomas Lee as the deputy agent. When she died in 1719, she bequeathed her Virginia property to her son Tom, but she made Wiliam Cage and Edward Filmer, trustees of the proprietary. Filmer soon died, and Cage, a kinsman of the 6th Lord Fairfax, became the sole trustee. From his grandmother, Margaret Lady Culpeper, the 6th Lord Fairfax inherited the other one-sixth of the Proprietary. Cage consulted Perry, and Robert Carter was again made agent in 1721, holding the post until his death ten years later. (For sources, see those listed at the end of the <xref to="/users/berkeley/#Northern Neck"> discussion of the Proprietary</xref> on the home page.)</note>
 
-<note id="n3">[3] The Fry-Jefferson map shows the Little Fork as a tributary of the Hedgman (now the Rappahannock) River. It lies in what is probably Culpeper County today, not far from the Blue Ridge. </note>
+<note id="n3">[3] <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>,  3[1705- 1721]:85-86. </bibl></cit> </note>
+
+<note id="n4">[4]  John Savage was a surveyor, later (1734) to be employed by Lord Fairfax while attempting to establish the boundaries of the proprietary. He had been appointed surveyor for King George County the year after that county was formed in 1720, and was referred to then as "gentleman." He was surveyor of Stafford County when he particpated in the Fairfax survey.  (<cit><bibl><title><xref to="http://books.google.com/books?id=55I38FXWyPgC&pg=RA2-PA473&lpg=RA2-PA473&dq=%22John+Savage%22+surveyor+Virginia&source=bl&ots=MkmI2kK9-T&sig=3AynIvgowKj-6KoKVYcua8AJpWM&hl=en&ei=mUVyTojVEafx0gHI2c2PCg&sa=X&oi=book_result&ct=result&resnum=10&ved=0CF8Q6AEwCQ#v=onepage&q=%22John%20Savage%22%20surveyor%20Virginia&f=false">Genealogies of Virginia Families </xref>from Tyler's Quarterly Historical and Genealogical Magazine.</title>  [Genealogical Publishing Co, 1981] Vol. I [of 4]:473;</bibl></cit> <cit><bibl n="B8">Brown. <title>Virginia Baron. . . .</title> pp. 83, 86, 88, 92;</bibl></cit> and <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> p. 619.</bibl></cit>)</note>
+
+<note id="n5">[5] The Fry-Jefferson map shows the Little Fork as a tributary of the Hedgman (now the Rappahannock) River. It lies in what is probably Culpeper County today, not far from the Blue Ridge. </note>
 
 <note id="n4">[4] Thomas Owsley (ca. 1690-1750) was a large landholder in Stafford County, and had taken many trips into the back country. (<cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title>pp. 53, 83, 110. 609.</bibl></cit>)</note>
 
-<note id="n5">[5] The <hi rend="italics">Bailey</hi> was a London ship owned by William Dawkins and commanded at various times by Adam Graves (1725-1730) and by Thomas Dove (1731-1732). She was a vessel of some 250 tons and carried 15-17 crew members. (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, 156v, and other data in Adm. 68/194 and /196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> A letter of Carter's executors to Dawkins 1738 May 10 refers to "your ship Bailey.")</note>
+<note id="n5">[5] <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:205. </bibl></cit>  </note>
 
-<note id="n6">[6] This London ship was commanded by James Bradby, 1727-1732.  (<cit><bibl>Adm 68/195, 70r ff., found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n6">[6] <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:206. </bibl></cit>  </note>
 
+<note id="n7">75] The <hi rend="italics">Bailey</hi> was a London ship owned by William Dawkins and commanded at various times by Adam Graves (1725-1730) and by Thomas Dove (1731-1732). She was a vessel of some 250 tons and carried 15-17 crew members. (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, 156v, and other data in Adm. 68/194 and /196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> A letter of Carter's to Dawkins <xref to="http://carter.lib.virginia.edu/html/C32e12b.html">May 12, 1732,</xref> refers to "your ship Bailey." as does a letter of August 10, 1733, from Carter's executors to Dawkins. [<cit><bibl>Lloyd T. Smith, Jr., <hi rend="italics">ed.</hi> <title>The Executors' Letters of Robert Carter of Corotoman, 1732-1738. </title> (Irvington, VA: Foundation for Historic Christ  Church, 2010) p. 76].</bibl></cit>)</note>
+
+<note id="n8">[8] The <hi rend="italics"> Micajah &amp; Philip</hi> was a large vessel of some 400 tons carrying a crew of 27. The captain's name varies from record to record as James Bradley or James Bradby. Thomas Jones wrote to his wife, then in England, concerning this ship in 1728, "The Micajah &amp; Philip that comes to James River is as good as the best Ships that Comes hither, but Bradby the master seems to be a little conceited and prodigal." (<cit><bibl>Adm. 68/194-196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia</bibl></cit>; and <cit><bibl><title>Virginia Magazine of History and Biography.</title> 26[1918]: 172, abstracting the Jones Papers at the Library of Congress .</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised April 6, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 </div1>

@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -88,7 +88,7 @@
 <head>
 <bibl>
 <abbr>AL</abbr>
-<extent> p.</extent>
+<extent>2 p.</extent>
 <date value="1729-06-26"></date>
 <idno rend="suppress">C29f26g.xml</idno>
 <title>Letter from Robert Carter to Landon Jones, June 26, 1729</title>
@@ -106,8 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
-<date value="1729-06-26">June 26th. 1729</date><lb/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1729-06-26">June 26th. 1729</date><lb/>
 Mr. Landon Jones<lb/>
 </dateline>
 <salute>Dear Sir</salute>
@@ -119,19 +118,19 @@ Mr. Landon Jones<lb/>
 <p>Your letter of the 30th of <abbr expan="October">Octr</abbr> last I <abbr expan="received">receiv'd</abbr> Your:<lb/>
 relations here I thank god are in health and give you their Ser:<lb/>
 vices and wish all agreeable Circumstances both to yourself &amp;<lb/>
-family You are very much in the right respecting your <sic corr="mother's">mothers</sic><lb/>
+family You are very much in the right respecting your mothers<lb/>
 Affairs they were very little at first and if they dwindle but little<lb/>
 they will come to nothing I think I have Already told you she<lb/>
-was more in debt <sic corr="than">then</sic> what her Estate was Valued to how the Arbi:<lb/>
-trators will <sic corr="determine">determin</sic> the reference is as much a Secret now as<lb/>
+was more in debt than what her Estate was Valued to how the Arbi:<lb/>
+trators will <sic corr="determine">determin</sic> the <sic corr="reference">refference</sic> is as much a Secret now as<lb/>
 it was when the rule was first Entered into I am sure it is to me &amp;<lb/>
-I beleive to <note target="n2">Mr Edwards</note> <sic corr="Also">Alsoe</sic> The two Top Lawyers <add place="supralinear"><note n="JH">Mr.<sic corr="Holloway">Holoway</sic></note> &amp; <note n="JR">Mr Randolph</note></add> we have<lb/>
+I <sic corr="believe">beleive</sic> to <note target="n2">Mr Edwards</note> <sic corr="Also">Alsoe</sic> The two Top Lawyers <add place="supralinear"><note n="JH">Mr.<sic corr="Holloway">Holoway</sic></note> &amp; <note n="JR">Mr Randolph</note></add> we have<lb/>
 are the Absolute judges of the Controversy and when they think<lb/>
-fit to make their Award which is to be the Judgement of the<lb/>
+fit to make their Award which is to be the <sic corr="Judgment">Judgement</sic> of the<lb/>
 Court I shall then be Able to Acquaint you what the issue is <lb/>
 and not before</p>
 
-	<p>Mr Dunbar your friend was at my house<lb/>
+<p>Mr Dunbar your friend was at my house<lb/>
 he is set down up our River about 40 or 50 miles above me<lb/>
 and does not <sic corr="lie">lye</sic> in the way of Any business of mine nor have<lb/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	I heard<lb/>
@@ -140,11 +139,13 @@ and does not <sic corr="lie">lye</sic> in the way of Any business of mine nor ha
 a word from him since his first Coming in I shall always be<lb/>
 ready to serve any Person under your recommendation as <sic corr="far">farr</sic> as<lb/>
 my Power and interest will Extend but this Person I suppose<lb/>
-<sic corr="has">hath</sic> met with better business then I am able to help him to I am
+<sic corr="has">hath</sic> met with better business <sic corr="than">then</sic> I am able to help him to I am
  </p>
 
-<closer>Sir<lb/>
-your most affectionate humble Servt.</closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;your most affectionate humble Servt.
+</closer>
 
 
 </div1>
@@ -165,11 +166,9 @@ your most affectionate humble Servt.</closer>
 
 <note id="n1">[1] Landon Jones was the son of Carter's sister-in-law, <note n="MJS">Mary (Landon) Jones Swan.</note> <hi rend="italics">See </hi> <bibl n="A18">"The Landon Family." Virginia Magazine. . . .</bibl> for details of the family and the English estate to which Jones's mother may have had a claim that he was pursuing in that country.</note>
 
-<note id="n2">[2] "Thos. Edwards, a little petty Fogging Lawyer the Clark of our County that hath as much Mettle and more cunning for Contention then his predecessor had" Carter wrote to Landon Jones, July 22, 1723. His opinion of Edwards later changed for there are more appreciative mentions of him in Carter's diary. Edwards was clerk of the Lancaster County court from 1720-1746. (<cit><bibl><title>Within the Court House at Lancaster.</title> Lively, VA: Lively Printing Services, Lively, VA: Lively Printing Services, [1976]. p. 15.</bibl></cit>)</note>
+<note id="n2">[2] "Thos. Edwards, a little petty Fogging Lawyer the Clark of our County that hath as much Mettle and more cunning for Contention then his predecessor had" Carter wrote to Landon Jones, <xref to="/users/berkeley/public/C23g22b.xml">July 22, 1723.</xref> His opinion of Edwards later changed for there are more appreciative mentions of him in Carter's diary. Edwards was clerk of the Lancaster County court from 1720-1746. (<cit><bibl><title>Within the Court House at Lancaster.</title> Lively, VA: Lively Printing Services, Lively, VA: Lively Printing Services, [1976]. p. 15.</bibl></cit>; and "Thomas Edwards, Gentleman, Clerk of the Court" in <cit><bibl n="B43">Brown and Sorrells. <title>People in Profile.</title> pp. 94-103.</bibl></cit>)</note>
 
-
-
-
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised April 3, 2015,  to  strengthen the footnotes and the modern language version text.</hi></note>
 
 </div1>
 </back>

@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,8 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
-<date value="1728-06-26">June 26. 1729</date><lb/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1728-06-26">June 26. 1729</date><lb/>
 Mr Robert Cary<lb/>
 </dateline>
 <salute>Sir</salute>
@@ -130,10 +129,10 @@ haps <sic corr="please">pleas</sic> me so well in the sale of my 20 hhds  in you
 s in your hands <add resp="editor"> [<hi rend="italics">sic</hi>]</add> that I may <del>think</del> be Encouraged to continue<lb/>
 a further Correspondence with you</p>
 
-	<p>I shall now desire you will Allow me to tell you<lb/>
+<p>I shall now desire you will Allow me to tell you<lb/>
 an Unagreeable story of your <note target="n1"><abbr expan="Captain">Capt</abbr> Hopkins</note> he promised<lb/>
 to Allow me 3/ <add place="supralinear">sterling</add> per hhd for Fetching my Tobo home And ma:<lb/>
-king it convenient all at my house at our landing <add place="supralinear">An Allowance I always have from any master that has my <abbr expan="tobacco">tobo</abbr> under this conveniecy</add> this I did<lb/>
+king it convenient all at my house at our landing <add place="supralinear">An Allowance I always have from every master that has my <abbr expan="tobacco">tobo</abbr> under this <lb/>conveniecy</add> this I did<lb/>
 and <abbr expan="helped">help'd</abbr> the <abbr expan="Tobacco">Tobo</abbr>
  down to his Sloop side so that they had it<lb/>
 in in less than 24 hours had he gone away Accidently with<add place="supralinear">out</add><lb/>
@@ -143,10 +142,12 @@ paying the money I should not mention it but he Actually
 <pb n="2"/><lb/><lb/>
 <abbr expan="refused">refus'd</abbr> it to the Person I Employed to take it denying any su<corr resp="editor">[ch]</corr><lb/>
 Promise to me which I can freely give my Oath to the Truth of<lb/>
-I am Sir
+
 </p>
 
-<closer><abbr expan="your">yr</abbr> most <add place="supralinear"><abbr expan="Obedient">Obdt</abbr></add> humble Servt</closer>
+<closer>
+I am Sir&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="your">yr</abbr> most <add place="supralinear"><abbr expan="Obedient">Obdt</abbr></add> humble Servt
+</closer>
 
 
 </div1>
@@ -164,8 +165,9 @@ I am Sir
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] Captain James Hopkins commanded the <hi rend="italics">Mary</hi> in 1727-1728. He was then working for London merchant Robert Cary. He is mentioned in Carter's diary. (<cit><bibl>Adm. 68/194, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n1">[1] Captain James Hopkins commanded the <hi rend="italics">Mary,</hi>  a London ship of 130 tons owned by merchant Robert Cary, in 1727-1728 and perhaps later. He is mentioned in Carter's diary. (<cit><bibl>Adm. 68/194, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised April 2, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 

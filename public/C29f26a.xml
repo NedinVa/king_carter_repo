@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -94,7 +94,7 @@
 <title>Letter from Robert Carter to John Burridge, June 26, 1729</title>
 </bibl>
 </head>
-<p>Robert Carter writes to John Burridge, June 26, 1729, [abstract goes here]</p>
+<p>Robert Carter writes to London merchant John Burridge, June 26, 1729, re bills of exchange, a bad debt, and the dismal state of the tobacco trade.</p>
 </div1>                 
 </front>
 
@@ -106,8 +106,8 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
-<date value="1729-06-26">Hune 26. 1729</date><lb/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;
+<date value="1729-06-26">June 26. 1729</date><lb/>
 John Burridge Esqr<lb/>
 </dateline>
 <salute>Sir</salute>
@@ -117,28 +117,30 @@ John Burridge Esqr<lb/>
 
 
 <p>The last letter I had from you bears date<lb/>
-the 21st of <abbr expan="December">Decr.</abbr> in It you tell me of the payment of my bill for<lb/>
+the 21st of <abbr expan="December">Decr.</abbr> in It you tell me of the payment of my <note target="n1">bill</note> for<lb/>
 &pound;16"-. to <note n="CS1">Mr Stagg</note> I must now <sic corr="advise">advize</sic> you I have drawn<lb/>
 another bill on you for the same sum to the same person<lb/>
 which I desire you to Answer at time</p>
 
-<p>I am Sorry I am to loose so much of Hop:<lb/>
-kins debt as for Hellers if the man is honest and will<lb/>
+<p>I am Sorry I am to loose so much of <note target="n2">Hop:<lb/>
+kins</note> debt as for Hellers if the man is honest and will<lb/>
 pay it by degrees I shall be willing to wait his Ability</p>
 
 <p>These are dismal time for us Poor plan:<lb/>
 ters that we should not be Able to maintain Our family<lb/>
 by our labour the making <abbr expan="Tobacco">Tobo</abbr> is our Only trade and<lb/>
-we have no other way to <sic corr="Employ">Imploy</sic> our People the Market is<lb/>
-as low as any in England <abbr expan="Captain">Capt</abbr> <del>Gundry</del> Reed in <note target="n1">Gundrys</note><lb/>
+we have no other way to <sic corr="Employ">Imploy</sic> our People <abbr expan="your">yr</abbr> Market is<lb/>
+as low as any in England <abbr expan="Captain">Capt</abbr> <del>Gundry</del> Reed in <note target="n3">Gundrys</note><lb/>
 Ship will take no <abbr expan="Tobacco">Tobo</abbr> to any body but his Owner I design<lb/>
 when I have an Opportunity to keep up our <sic corr="Ancient">Antient</sic> Corres:<lb/>
 pondence by Shipping some more <abbr expan="Tobacco">Tobo</abbr> to you</p>
 
 <p>I heartily wish you a Comfortable old age<lb/>
-and Am Sincerely </p>
+and Am Sincerely Sir </p>
 
-<closer>Sir <abbr expan="your">yr</abbr> most humble Servt.</closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="your">yr</abbr> most humble Servt.
+</closer>
 
 
 </div1>
@@ -156,8 +158,13 @@ and Am Sincerely </p>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] Nathaniel Gundry was a merchant in Lyme Regis, Dorset, and mayor of that town several times. His son was a member of Parliament and later a judge. (Notes made by Francis L. Berkeley, Jr., from  <cit><bibl>George Robert. <title>History and Antiquities of the Borough of Lyme Regis &amp; Charnmouth.</title> [London, 1834]. pp. 97, 383-4.</bibl></cit>; and <cit><bibl n="B6">Sedgwick. <title>The History of Parliament . . . Commons.</title> pp. 91-92.</bibl></cit>)</note>
+<note id="n1"> [1] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (See <cit><bibl><xref to="http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm">"Bill of Exchange"</xref> in the online Dictionary of Financial Scam Terms: the Truth vs. the Scam.</bibl></cit>)</note>
 
+<note id="n2">[2] There is not enough information in this letter to be certain who Hopkins was, but Captain James Hopkins is a possibility. Carter frequently sent tobacco on his ship, and often lent money to ship captains. Hopkins commanded the <hi rend="italics">Mary</hi> in 1727-1728. He was then working for London merchant Robert Cary. He is mentioned in Carter's diary. (<cit><bibl>Adm. 68/194, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n3">[3] Nathaniel Gundry was a merchant in Lyme Regis, Dorset, and mayor of that town several times. His son was a member of Parliament and later a judge. (Notes made by Francis L. Berkeley, Jr., from  <cit><bibl>George Robert. <title>History and Antiquities of the Borough of Lyme Regis &amp; Charnmouth.</title> [London, 1834]. pp. 97, 383-4.</bibl></cit>; and <cit><bibl n="B6">Sedgwick. <title>The History of Parliament . . . Commons.</title> pp. 91-92.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised March 27, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 
