@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -94,7 +94,7 @@
 <title>Letter from Robert Carter to Edward Tucker, June 27, 1729</title>
 </bibl>
 </head>
-<p>Robert Carter writes to Weymouth merchant Edward Tucker, June 27, 1729, about the poor tobacco sales in that port that Tucker has reported to him, the damage to goods Tucker has sent him, places  orders for Dorset and Southam ales to replace that he has lost in the fine that destroyed his house, and the caterpillers that have destroyed much of the fruit crops.</p>
+<p>Robert Carter writes to Weymouth merchant Edward Tucker, June 27, 1729, about the poor tobacco sales in that port that Tucker has reported to him, the damage to goods Tucker has sent him, places  orders for Dorset and 6 ales to replace that he has lost in the fine that destroyed his house, and the caterpillers that have destroyed much of the fruit crops.</p>
 </div1>                 
 </front>
 
@@ -106,8 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1729-06-27">June the 27th. 1729</date><lb/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1729-06-27">June the 27th. 1729</date><lb/>
 Edward Tucker, Esqr.<lb/>
 </dateline>
 <salute>Sir&mdash;</salute>
@@ -118,16 +117,15 @@ Edward Tucker, Esqr.<lb/>
 write to you Via London.</p>
 
 <p><abbr expan="Your">Yor.</abbr> last Letters bears date the 14th. of <abbr expan="October">Octor.</abbr> and the 9th. of <abbr expan="December">Decr.</abbr><lb/>
-it is a miserable <sic corr="story">storey</sic> you tell of <abbr expan="Tobacco">Tobbo:</abbr>
- that it is so bad you had no Encourage<lb/>
+it is a miserable <sic corr="story">storey</sic> you tell of <abbr expan="Tobacco">Tobbo:</abbr>  that it is so bad you had no Encourage<lb/>
 ment to Continue in it. <sic corr="We">Wee</sic> must live in hopes of its mending. <note target="n1"><abbr expan="Captain">Capt.</abbr> Wilson</note> is an<lb/>
 unfortunate man. I am always a Considerable <sic corr="Sufferer">Suferer</sic> by his ship, but I <lb/>
-hope not so bad as you are in doubt of. The Malt and the Beer you sent by the<lb/>
+hope not so bad as you are in doubt of. The <note target="n2">Malt</note> and the Beer you sent by the<lb/>
 <name type="ship">Harrison</name> I <abbr expan="received">rec'd</abbr> but I cannot Say Safe, The hampers were so abused that wt.<lb/>
 with Theivery and what with Breakage I lost one third of it. This I <sic corr="suffer">sufer</sic><lb/>
 every way.</p>
 
-<p>By <note target="n2">my loss by fire</note> of which no doubt you will hear I was<lb/>
+<p>By <note target="n3">my loss by fire</note> of which no doubt you will hear I was<lb/>
 <sic corr="rendered">rendred</sic> very poor in Liquor. the Cheese and the <add place="supralinear">sloops</add><sic corr="Sails">Sailes</sic> I Expect you will send me<lb/>
 in Early the next fall And I desire you to send me in also four hogsheads  of the best<lb/>
 Dorset Ale well and Carefully <sic corr="packed">packt</sic> up into Bottles <add place="supralinear">that I may be able to pay my Debts</add> I hope I shall have<lb/>
@@ -139,22 +137,22 @@ between burning and <sic corr="shipping">shiping</sic> of it these are <sic corr
 to us that have no other trade to maintain our <sic corr="families">familys</sic> by, I must desire<lb/>
 you to send me also a hogshead of your best Malt.</p>
 
-<p>herein I send you Colonel Hacks Exchange on <abbr expan="your">yor.</abbr>self for &pound;3"&mdash;<lb/>
+<p>herein I send you <note target="n4">Colonel Hacks</note> <note target="n5">Exchange</note> on <abbr expan="your">yor.</abbr>self for &pound;3"&mdash;<lb/>
 which you will please to Credit my Accot. with or Protest.</p>
 
-<p><sic corr="We">Wee</sic> have had a <sic corr="dismal">dismall</sic> <abbr expan="Judgement">Judgemt.</abbr> upon our fruit trees these<lb/>
+<p><sic corr="We">Wee</sic> have had a <sic corr="dismal">dismall</sic> <abbr expan="Judgment">Judgemt.</abbr> upon our fruit trees these<lb/>
 two Years together by <sic corr="Caterpillers">Caterpillars</sic> however the last year <sic corr="we">wee</sic> made a great deel of<lb/>
-<sic corr="Cider">Cyder</sic> that was Extraordinary good and if I had not loss <add resp="editor"> [<hi rend="italics">sic</hi>]</add> <del>in</del> my bottles in the <del>Cellar</del>	<lb/>
-fire I could have <sic corr="Stocked">Stockd</sic> myself Plentifully for 2 <abbr expan="Years">Yrs.</abbr> but now it is all <sic corr="Pricked">Prickt</sic> &amp;<lb/>
+<sic corr="Cider">Cyder</sic> that was Extraordinary good and if I had not loss <add resp="editor"> [<hi rend="italics">sic</hi>]</add> <del>in</del> my bottles in the <del>Cellar</del><lb/>
+fire I could have <sic corr="Stocked">Stockd</sic> my Self Plentifully for 2 <abbr expan="Years">Yrs.</abbr> but now it is all <sic corr="Pricked">Prickt</sic> &amp;<lb/>
 <sic corr="Spoiled">Spoild</sic> and <sic corr="we">wee</sic> have the least fruit upon the Trees that ever I saw so that I must<lb/>
 desire you if You can meet with any that is right good to send me a hogshead<lb/>
-of <note target="n3">Southam</note> well and Carefully bottled <sic corr="off,">of,</sic> and Safely <abbr expan="packed">pack'd</abbr>  I am
+of <note target="n6">Southam</note> well and Carefully bottled <sic corr="off,">of,</sic> and Safely <abbr expan="packed">pack'd</abbr>  I am</p>
 
-</p>
-
-<closer>Sir<lb/>
-<abbr expan="Your">Yor.</abbr> most humble Servt.-
-<seg type="postscript"><lb/><lb/>per <note target="n4"><sic corr="Bailey">Baily</sic></note></seg></closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="Your">Yor.</abbr> most humble Servt.-
+<seg type="postscript"><lb/><lb/>
+per <note target="n7"><sic corr="Bailey">Baily</sic></note></seg></closer>
 
 
 </div1>
@@ -172,13 +170,21 @@ of <note target="n3">Southam</note> well and Carefully bottled <sic corr="off,">
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
 
-<note id="n1">[1] A Captain Wilson is mentioned in Carter's letter to Edward Tucker of 1721 May 27 as having arrived after "15 weeks passage." and in his 1723 diary.</note>
+<note id="n1">[1] A Captain Wilson is mentioned in Carter's letter to Edward Tucker of <xref to="http://carter.lib.virginia.edu/html/C21e27g.html">May 27, 1721</xref>, as having arrived after "15 weeks passage." and in his 1723 diary.</note>
 
-<note id="n2">[2] Carter had built a fine house at Corotoman in the mid-1720s, but it burned in January 1729.  See the <hi rend="italics">Maryland Gazette</hi> for 1728/29 February 4-11 for information about Carter's loss. </note>
+<note id="n2">[2] Malt is "barley or other grain prepared for brewing, distilling, or vinegar-making, esp. by steeping, germinating, and kiln-drying."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
-<note id="n3">[3] Southam is a type of English ale.</note>
+<note id="n3">[3] Robert Carter's home, "Corotoman," was located on the northeastern bank of the Rapphannock River in Lancaster County close to the present-day community of Weems.  A stream called Corrotoman [<hi rend="italics">sic</hi>] River ran inland west of the house. Carter built a fine house there in the mid 1720s, but it burned in January 1729. See the <xref to="http://www.christchurch1735.org/history/corotoman.html">"Corotoman" page</xref> of the web site of Historic Christ Church Foundation for more information about the house and excavation of its ruins.  ( See the <hi rend="italics">Maryland Gazette</hi> for February 4-11, 1728/29 for comment on Carter's loss. The Maryland Archives has placed its copies of the  <hi rend="italics">Maryland Gazette</hi> online. Unfortunately, page four of the issue of February 4-11, 1728/29 is missing, and that must be where the notice of the fire at Corotoman appeared; the text is quoted in secondary sources as reading: "The fine large house of Colonel Carter on the Rappahannock was also burnt lately. The particulars of his loss we can't give you, but we are inform'd it is very great." [<hi rend="italics">Garden Club of Virginia Journal</hi>, May-June 1983, p.8.])</note>
 
-<note id="n4">[4] The <hi rend="italics">Bailey</hi> was a London ship owned by William Dawkins and commanded at various times by Adam Graves (1725-1730) and by Thomas Dove (1731-1732). She was a vessel of some 250 tons and carried 15-17 crew members. (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, 156v, and other data in Adm. 68/194 and /196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> A letter of Carter's executors to Dawkins 1738 May 10 refers to "your ship Bailey.")</note>
+<note id="n4">[4]  Peter Hack (ca. 1690-1729) was sheriff of Northumberland County in 1716 and 1717. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>,  3[1705- 1721] : 425, 448. </bibl></cit>  Other information about Hack may be found in<cit><bibl> "Tithables of Lancaster County, 1654," <title>Virginia Magazine of History and Biography</title>, 5(1897):249-260</bibl></cit> an online Google book; and <cit><bibl><xref to="http://www.wikitree.com/wiki/Hack-218">"Peter Hack."</xref></bibl></cit>) </note>
+
+<note id="n5"> [5] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (See <cit><bibl><xref to="http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm">"Bill of Exchange"</xref> in the online Dictionary of Financial Scam Terms: the Truth vs. the Scam.</bibl></cit>)</note>
+
+<note id="n6">[6]  Southam is a type of English cyder. See <xref to="http://carter.lib.virginia.edu/html/C28e25h.html">Carter's letter</xref> to Weymouth merchant Edward Tucker June 28 &amp; July 25, 1728. (William, Ellis. <title>The Compleat Cyderman: Or, the Present Practice of Raising Plantations of the Best Cyder Apple and Perry Pear-trees, with the Improvement of Their Excellent Juices. ... By Experienc'd Hands,</title> [R. Baldwin, 1754], p. 79. <xref to="http://books.google.com/books?id=euFbAAAAQAAJ&pg=PA79&lpg=PA79&dq=%22Southam+cyder%22&source=bl&ots=BVyJIJ7a1u&sig=jy9pK9kVCY24HdpdM5vLVWwTq1I&hl=en&sa=X&ei=LK9TVJLlA9aoyASC9YCYAg&ved=0CB4Q6AEwAA#v=onepage&q=%22Southam%20cyder%22&f=false">Google books</xref>.</note>
+
+<note id="n7">[7]  The <hi rend="italics">Bailey</hi> was a London ship owned by William Dawkins and commanded at various times by Adam Graves (1725-1730) and by Thomas Dove (1731-1732). She was a vessel of some 250 tons and carried 15-17 crew members. (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, 156v, and other data in Adm. 68/194 and /196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> A letter of Carter's to Dawkins <xref to="http://carter.lib.virginia.edu/html/C32e12b.html">May 12, 1732,</xref> refers to "your ship Bailey." as does a letter of August 10, 1733, from Carter's executors to Dawkins. [<cit><bibl>Lloyd T. Smith, Jr., <hi rend="italics">ed.</hi> <title>The Executors' Letters of Robert Carter of Corotoman, 1732-1738. </title> (Irvington, VA: Foundation for Historic Christ  Church, 2010) p. 76].</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised April 17, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 

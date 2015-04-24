@@ -11,6 +11,7 @@
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
 <!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+
 <TEI.2 id="C29f30b">
 
 
@@ -39,7 +40,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -94,7 +95,7 @@
 <title>Letter from Robert Carter to Major George Eskridge, June 30, 1729</title>
 </bibl>
 </head>
-<p>Robert Carter writes to his friend and agent in Westmoreland County, Major George Eskridge, June 30, 1729, about his pressing need for cash and urges Eskridge to press the collection of quit rents.</p>
+<p>Robert Carter writes to his friend and agent in Westmoreland County, Major George Eskridge, June 30, 1729, about his need for cash and urges Eskridge to press the collection of quit rents.</p>
 </div1>                 
 </front>
 
@@ -106,8 +107,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Corotom<add resp="editor">[an, Lancaster County, Virginia]</add></name><lb/>
-<date value="1729-06-30">June 30. 1729</date><lb/>
+<name type="place">Corotom<add resp="editor">[an, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1729-06-30">June 30. 1729</date><lb/>
 Majr. George Eskridge<lb/>
 </dateline>
 <salute>Sir&mdash;</salute>
@@ -118,14 +118,14 @@ Majr. George Eskridge<lb/>
 
 <p>when you were here I know you intended to<lb/>
 be at our July Court &amp; I hope you will but <sic corr="lest">least</sic> you should fail<lb/>
-I can't for bear to put you in mind how poor I am how few bills of<lb/>
-Exchange I have <abbr expan="received">receiv'd</abbr> this year and how low my stock of Cash is so tht.<lb/>
+I can't for bear to put you in mind how poor I am how few <note target="n1">bills of<lb/>
+Exchange</note> I have <abbr expan="received">receiv'd</abbr> this year and how low my stock of Cash is so tht.<lb/>
 I am hardly Able to Pay my debts which I Expect Every day will be<lb/>
 Called for and how little money I <abbr expan="received">receiv'd</abbr> for my <note target="n1">Quit rents</note> this year<lb/>
 not a third of what has been paid me for several years Past</p>
 
 <p>Upon Consideration of these my Uncommon ne:<lb/>
-cessitys I press you strongly to get me all the money you Can I hope<lb/>
+<sic corr="cessities">cessitys</sic> I press you strongly to get me all the money you Can I hope<lb/>
 you have begun prosecutions for my fines against those you have<lb/>
 any reason to suspect will not pay without</p>
 
@@ -142,13 +142,15 @@ who now shuffle with him and tell him they must Pay <abbr expan="Tobacco">Tobo</
 last I order him to sue for the money Upon their <note target="n3">Assumpsits</note><lb/>
 thinking my self not Obliged to take <abbr expan="Tobacco">Tobo:</abbr> so late in the year<lb/>
 for their last years rents and I dare say you will be of the same<lb/>
-of Opinion</p>
+of <add resp="editor"> [<hi rend="italics">sic</hi>]</add> Opinion</p>
 
-<p><note n="WR1"><abbr expan="Colonel">Colo.</abbr> Robinson</note> for All his fine promises to you hath<lb/>
+<p><note n="WR1"><abbr expan="Colonel">Colo.</abbr> Robinson</note> for All his fine promises to you <sic corr="has">hath</sic><lb/>
 never yet paid his rents to Mr Carter I am
 </p>
 
-<closer>Your Affectionate Humble Servt.</closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your Affectionate Humble Servt.
+</closer>
 
 
 </div1>
@@ -166,14 +168,16 @@ never yet paid his rents to Mr Carter I am
 
 <note>The county and colony have been added for clarity to the heading on this draft.</note>
 
-<note id="n1">[1] Quit rent was the term used for the payment due from the holder of land to the "lord of the manor," in this case, to the proprietors of the Northern Neck. Carter as the proprietor's agent, collected these payments. No services were required of the landholder as had been true in mediaeval times.</note>
+<note id="n1"> [1] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (See <cit><bibl><xref to="http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm">"Bill of Exchange"</xref> in the online Dictionary of Financial Scam Terms: the Truth vs. the Scam.</bibl></cit>)</note>
+
+<note id="n1">[1] Quit rent was the term used for "a (usually small) rent paid by a freeholder . . .  in lieu of services which might otherwise be required; a nominal rent paid (esp. in former British colonial territories to the Crown) as an acknowledgement of tenure," in this case, to the proprietors of the Northern Neck. Carter as the proprietor's agent, collected these payments. (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
 <note id="n2">[2] William Downman was a justice of Richmond County from 1718, sheriff  in 1722 and 1723, and a tobacco inspector in 1731 and 1732. (<cit><bibl n="B31">Ryland. <title>Richmond County Virginia. . . . </title> p. 504.</bibl></cit> and <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]: 12, 34, 238, 286.</bibl></cit>)</note>
 
-<note id="n3">[3] An assumpsit is "an agreement or promise made orally or in writing not under seal; a contract." (<cit><bibl>"Answers.com." http://www.answers.com/assumpsits&amp;r=67. 7/21/2005</bibl></cit>)</note> 
+<note id="n3">[3]  An assumpsit is "a promise or contract, oral or in writing not sealed, founded upon a consideration" or "a action to recover damages for breach or non-performance of such contract."  (<cit> <bibl> (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</bibl></cit>)</note>
 
-
-
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised April 22, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
+ 
 
 </div1>
 </back>

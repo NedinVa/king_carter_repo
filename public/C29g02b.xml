@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -94,7 +94,7 @@
 <title>Letter from Robert Carter to Micajah Perry, July 2, 1729</title>
 </bibl>
 </head>
-<p>Robert Carter writes to London merchant Micajah Perry, July 2, 1729, to report bills of exchange and ordering wine from Madeira because he has lost his stock in the fire of his home.</p>
+<p>Robert Carter writes to London merchant Micajah Perry, July 2, 1729, to report bills of exchange and ordering wine from Madeira because he has lost his stock in his home fire.</p>
 </div1>                 
 </front>
 
@@ -106,16 +106,15 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
-<date value="1729-07-02">July. 2. 1729</date><lb/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1729-07-02">July. 2. 1729</date><lb/>
 Alderman Perry<lb/>
 </dateline>
 <salute>Sir</salute>
 
 </opener>
 
-<p>Since my last Two bills of Exchange are <lb/>
-come to my hands <note n="GT">George <sic corr="Tuberville">Tubervile</sic></note> on James Buchanan <lb/>
+<p>Since my last Two <note target="n1">bills of Exchange</note> are <lb/>
+come to my hands <note n="GT">George <sic corr="Tuberville">Tubervile</sic></note> on <note target="n2">James Buchanan</note> <lb/>
 &pound;65"6"8 William Cowherd on Thomas Frank &amp; <abbr expan="Company">Compa</abbr> of <lb/>
 Bristol &pound;32"13"6 these bills I desire Credit for the firsts <lb/>
 now sent I need not Put you in mind where bills are not Paid to send me Protests</p>
@@ -123,23 +122,24 @@ now sent I need not Put you in mind where bills are not Paid to send me Protests
 <p>The Poorness of our Vital comodity make<corr resp="editor">[s]</corr> <lb/>
 it a very difficult time for men to pay their Debts I am increa<lb/>
 sing my Credit in your books as fast as I Can what my <abbr expan="Tobacco">Tobo</abbr> will <lb/>
-do this year sent to you I must wait for with Patience till the Even<corr resp="editor">[t]</corr> <lb/>
-The terrible disaster I Underwent by <note target="n1">Fire</note> of which you will hear <lb/>
+do this year sent to you I must wait for with Patience <sic corr="until">till</sic> the Even<corr resp="editor">[t]</corr> <lb/>
+The terrible disaster I Underwent by <note target="n3">Fire</note> of which you will hear <lb/>
 Among many Other great destructions <abbr expan="consumed">consum'd</abbr> All my Stock of 
 
 <pb n="2"/><lb/><lb/>
 Old wines Of which I had pretty good Store I forgot to desire <lb/>
-your Order to the Gentlemen of <sic corr="Madeira">Madera</sic> for two Pipes of their <lb/>
+your Order to the <note target="n4">Gentlemen of <sic corr="Madeira">Madera</sic></note> for <note target="n5">two Pipes</note> of their <lb/>
 best wines therefore now request you not to Omit it It's likely one <lb/>
-of <abbr expan="your">yr</abbr> own ships will Call there I would not have it Come by <note target="n2">Wood<lb/>
+of <abbr expan="your">yr</abbr> own ships will Call there I would not have it Come by <note target="n6">Wood<lb/>
 ward</note> for I Expect some by him from Another order I am <lb/>
 </p>
 
-<closer>Sir Your most humble Servt.
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir&nbsp;&nbsp;&nbsp;&nbsp; Your most humble Servt.
 
 <seg type="postscript"><lb/><lb/>Since the Above another <lb/>
 bill is come to my hand of &pound;18"5"3 <lb/>
-Drawn by <abbr expan="Thomas">Thos:</abbr> Chilton on <abbr expan="Edward">Ed:</abbr> Randolph <lb/>
+Drawn by <abbr expan="Thomas">Thos:</abbr> Chilton on <note target="n7"><abbr expan="Edward">Ed:</abbr> Randolph</note> <lb/>
 which I also send you</seg></closer>
 
 
@@ -158,9 +158,22 @@ which I also send you</seg></closer>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
 
-<note id="n1">[1] Carter had built a fine house at Corotoman in the mid 1720s, but it burned in January 1729.  See the <hi rend="italics">Maryland Gazette</hi> for 1728/29 February 4-11 for information about Carter's loss.</note>
+<note id="n1"> [1] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (See <cit><bibl><xref to="http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm">"Bill of Exchange"</xref> in the online Dictionary of Financial Scam Terms: the Truth vs. the Scam.</bibl></cit>)</note>
 
-<note id="n2">[2] Thomas Woodward commanded the <hi rend="italics">Providence,</hi> a ship owned by Captain John Hyde &amp; Company, during a number of voyages to the colony, 1723-1729. (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194 and Survey Report 6801 summarizing Adm 68/195, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia,</bibl></cit> and Carter's letter to the firm, 1723 September 17.)</note>
+<note id="n2">[2] Merchant James Buchanan (d. 1742) had run his business from Biddeford and Topsham, Devonshire, but he later moved it to London. (<cit><bibl> <title>The Directory Containing an Alphabetical List of the Names &amp; Places of Abode of the Directors of Companies, Persons in Publick Business, Merchants and other Eminent traders in the Cities of london and Westminster and Bororugh of Southwark.</title> London: Printed and sold by Henry Kent in Finch-Lane Near the Royal Exchange . . . , 1736. p. 110;</bibl></cit> and <cit><bibl> <title>A Compleat Guide to All Persons who have any Trade or Concern with the City of London and Ports adjacent. . . .</title> London: Printed for J. Osborn, at the Golden Ball in Pater-noster-row, MDXXXL</bibl></cit>)</note>
+
+<note id="n3">[3] Robert Carter's home, "Corotoman," was located on the northeastern bank of the Rapphannock River in Lancaster County close to the present-day community of Weems.  A stream called Corrotoman [<hi rend="italics">sic</hi>] River ran inland west of the house. Carter built a fine house there in the mid 1720s, but it burned in January 1729. See the <xref to="http://www.christchurch1735.org/history/corotoman.html">"Corotoman" page</xref> of the web site of Historic Christ Church Foundation for more information about the house and excavation of its ruins.  ( See the <hi rend="italics">Maryland Gazette</hi> for February 4-11, 1728/29 for comment on Carter's loss. The Maryland Archives has placed its copies of the  <hi rend="italics">Maryland Gazette</hi> online. Unfortunately, page four of the issue of February 4-11, 1728/29 is missing, and that must be where the notice of the fire at Corotoman appeared; the text is quoted in secondary sources as reading: "The fine large house of Colonel Carter on the Rappahannock was also burnt lately. The particulars of his loss we can't give you, but we are inform'd it is very great." [<hi rend="italics">Garden Club of Virginia Journal</hi>, May-June 1983, p.8.])</note>
+
+<note id="n4">[4] This firm had been established in Madeira by Joseph Hayward in 1715. It became Hayward &amp; Rider (1721-1723),  Hayward Miles &amp; Rider (1725-1730), and other partnerships later. (<cit><bibl>David Hancock, "'An Undiscovered Ocean of Commerce Laid Open': India, Wine and Emerging Atlantic Economy, 1703-1813" in H. V. Bowen, Margarette Lincoln, Nigel Rigby, <hi rend="italics">eds. </hi><title>The Worlds of the East India Company.</title> [Boydell &amp; Brewer, 2002]. p. 156.</bibl></cit>)</note>
+
+<note id="n5">[5] A pipe is "a large container of definite capacity for storing solids or liquids, such as meat, fish, or oil. Now: spec. a large cask for storing wine or cider." Wikipedia, citing a book by Ronald E. Zupco, states that a pipe was half a tun which was "a large vat or vessel, most often holding 252 wine gallons," meaning a pipe was roughly 126 gallons of wine.  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press</bibl></cit> and  <cit><bibl>Ronald E. Zupko. <title>A Dictionary of Weights and Measures for the British Isles: The Middle Ages to the Twentieth Century</title>.<title> [Memoirs of the American Philosophical Society</title>, 1985, 168.]</bibl></cit>) </note>
+
+<note id="n6">[6] Thomas Woodward commanded the <hi rend="italics">Providence,</hi> a ship owned by Captain John Hyde &amp; Company, during a number of voyages to the colony, 1723-1729. (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194 and Survey Report 6801 summarizing Adm 68/195, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia,</bibl></cit> and Carter's letter to the firm, <xref to="/users/berkeley/public/C23i17a.xml">September 17, 1723.</xref>.)</note>
+
+<note id="n7">[7]  "Edward Randolph (October 1690 -<hi rend="italics">post</hi> 1756), sometimes referred to as Edward Randolph of Bremo, was a ship captain, a London tobacco merchant, and the seventh and youngest son of William Randolph and Mary Isham."  He was cited in York County records in 1740: "Edward Randolph of London, mercht, now residing in Virginia, devisee under the will of Graves Pack. . . ."  He was bankrupt by 1732 and Benjamin Harrison IV was among those who sued him. (<cit><bibl><xref to="http://en.wikipedia.org/wiki/Edward_Randolph">"Edward Randolph</xref>" in a carefully-footnoted Wikipedia article</bibl></cit>; and<cit><bibl> "Charges Against Spotswood," <title>Virginia Magazine of History and Biography</title> 4[Apr., 1897]:357.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised April 23, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
+
 
 </div1>
 </back>

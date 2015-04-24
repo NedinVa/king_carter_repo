@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -81,7 +81,7 @@
 
 </teiHeader>
 
-<text id="C299f30aT">
+<text id="C29f30aT">
 
 <front>
 <div1 type="summary" n="1">
@@ -90,7 +90,7 @@
 <abbr>AL</abbr>
 <extent>3 p.</extent>
 <date value="1729-06-30"></date>
-<idno rend="suppress">C299f30a.xml</idno>
+<idno rend="suppress">C29f30a.xml</idno>
 <title>Letter from Robert Carter to Doctor [Joseph] Belfield, June 30, 1729</title>
 </bibl>
 </head>
@@ -106,26 +106,25 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Corotom<add resp="editor">[an, Lancaster County, Virginia]</add></name><lb/>
-<date value="1729-06-30">June 30. 1729</date><lb/>
-To Doctor Belfield<lb/>
+<name type="place">Corotom<add resp="editor">[an, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1729-06-30">June 30. 1729</date><lb/>
+Doctor Belfield<lb/>
 </dateline>
 
 </opener>
 
 
 
-<p>I <abbr expan="received">receiv'd</abbr> yours of the 16th <sic corr="Current">Currant</sic> and with my<lb/>
-answer shall follow it in Order I did not tax you with any ill man<lb/>
+<p>I <abbr expan="received">receiv'd</abbr> yours of the 16th <sic corr="Current">Currant</sic> and with <corr resp="editor">[my]</corr><lb/>
+answer shall follow it in Order I did not tax you with any ill ma<corr resp="editor">[n]</corr><lb/>
 ners to my self but your letter to my son which I had I think<lb/>
-has none good in it your Stuffing my Peoples with <sic corr="poisonous">poysonous</sic><lb/>
+has none good in it your Stuffing my People with <sic corr="poisonous">poysonou<corr resp="editor">[s]</corr></sic><lb/>
 <sic corr="drugs">druggs</sic> that you got here in the Country and giving them un<lb/>
 warrantable Potions that cost you Nothing but your own<lb/>
-invention without any Authority from your Physick books<lb/>
+invention without any Authority from your <sic corr="Physic">Physick</sic> books<lb/>
 which you Pretend to be very well versed in I am ready to
 
 <pb n="2"/><lb/><lb/>
-prove to your face not only by the Evidence of <note n="RM">Mr Meeks</note> and his<lb/>
+prove <del>to your face</del> not only by the Evidence of <note n="RM">Mr Meeks</note> and his<lb/>
 wife but Other ways <sic corr="Also">Alsoe</sic> You load Meeks with a great many<lb/>
 envious detracting epithets which I know he is not Guilty of<lb/>
 And as for your neglect to come to my sick people when sent<lb/>
@@ -138,14 +137,14 @@ Proper after such usage to give you a discharge from my bus<lb/>
 iness which at other times I am wrongly <abbr expan="informed">inform'd</abbr> if you have<lb/>
 not spoke of with Contempt as for the Ostentation of your<lb/>
 Character I shall not meddle with leaving it to your own breast to<lb/>
-<sic corr="please">pleas</sic> your self as much with the thoughts of it as you<del>r own ap</del> <add place="supralinear">think fit</add><lb/>
-<del>illegible will give you</del> And shall only <add place="supralinear">wish</add> for your own sake it <del>were</del> <add place="supralinear">runs</add><lb/>
+<sic corr="please">pleas</sic> your self as much with the thoughts of it as you<del> own up</del> <add place="supralinear">think fit</add><lb/>
+<del>illegible</del> <del>will give you And</del> shall only <add place="supralinear">wish</add> for your own sake it <del>were</del> <add place="supralinear">runs</add><lb/>
 <del>more Current Com</del> <add place="supralinear">more smoothly</add> Among those that know you</p>
 
 <p>you have been very kind in helping me to the<lb/>
 first letter I sent you upon coming into my business which<lb/>
 makes out in what manner you were to take care of my fami:<lb/>
-lys I am sure you will not pretend that you have <sic corr="complied">complyd</sic><lb/>
+<sic corr="lies">lys</sic> I am sure you will not pretend that you have <sic corr="complied">complyd</sic><lb/>
 with the terms of this letter I <sic corr="believe">beleive</sic> you have not visited my<lb/>
 <note n="CP">Coles Point</note> Plantation above two or three times if so Often<lb/>
 since you have been in my business and it will <sic corr="lie">lye</sic> upon<lb/>
@@ -159,14 +158,17 @@ of the messages you have had <add place="supralinear">and several of my slaves h
 your money Punctually Several times advanced money <add place="supralinear">to <abbr expan="you">yo</abbr></add> to pay <abbr expan="your">yr.</abbr><lb/>
 debts I have now your <add place="supralinear">obligation</add> for &pound;25 sterling dated some years <sic corr="ago">agoe</sic><lb/>
 let you have Considerable quantities of corn almost yearly that<lb/>
-never <corr resp="editor">[were]</corr> Charged to your <abbr expan="Accoont">Accot</abbr> these and other kindnesses should<lb/>
+never <corr resp="editor">[were]</corr> Charged to your <abbr expan="Account">Accot</abbr> these and other kindnesses should<lb/>
 be <abbr expan="returned">return'd</abbr> with gratitude from a generous mind and not An:<lb/>
 swered with a dark <sic corr="innuendo ">inuendo </sic>of my Usage to you When you come<lb/>
 to give me a visit You will do well to prepare yourself <abbr expan="with">wth</abbr><lb/>
 a great deal of good humour which will be the only way to<lb/>
 make you a welcome guest to your
 </p>
-<closer>Humble Servt.</closer>
+
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Humble Servt.
+</closer>
 
 
 </div1>
@@ -184,7 +186,7 @@ make you a welcome guest to your
 
 <note>The county and colony have been added for clarity to the heading on this draft.</note>
 
-
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised April , 2015,  to  strengthen the modern language version text.</hi></note>
 
 
 </div1>

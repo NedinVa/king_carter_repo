@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,7 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;
 <date value="1729-07-08">July. 8th [1729]</date><lb/>
 Mr John Stark<lb/>
 </dateline>
@@ -115,24 +115,24 @@ Mr John Stark<lb/>
 </opener>
 
 <p>This comes by <note target="n2"><abbr expan="Captain">Capt</abbr> Bowman</note> in the <lb/>
-<name type="ship">Lucia</name> with a bill of Lading for 32 hogsheads <add place="supralinear">of <abbr expan="Tobacco">Tobo</abbr></add> on her <lb/>
+<name type="ship">Lucia</name> with a <note target="n3">bill of Lading</note> for 32 hogsheads <add place="supralinear">of <abbr expan="Tobacco">Tobo</abbr></add> on her <lb/>
 By her I <abbr expan="received">receiv'd</abbr> your long letter with your several <abbr expan="Accounts">Accots</abbr> of <lb/>
 Sales and Invoice with the goods <sic corr="Ordered">Orderd</sic> You take up a <lb/>
 great deal of room to demonstrate to me the regularity of <lb/>
 your Accots. and how fair you are in giving me all the Advan:<lb/>
 tages of my money in your hands that I have a right to <lb/>
 but I must profess to you I have so great a cloud upon my <lb/>
-Understanding that I can by no means <add place="supralinear">discover</add> the forces of your reas<lb/>
+Understanding that I can by no means <add place="supralinear">discover</add> the force of your reas<lb/>
 oning the Facts I think are plainly of my side And they carry <lb/>
 a full demonstration with them first you Charge me with all <lb/>
-the duty and then you discharge <add place="supralinear">it All</add> on the Credit side and After <lb/>
-All sell my Tobacco for Export without allowing me one farthing <lb/>
+the <note target="n4">duty</note> and then you discharge <add place="supralinear">it All</add> on the Credit side and After <lb/>
+All sell my <note target="n5">Tobacco for Export</note> without allowing me one farthing <lb/>
 of the discounts given to the ready payer and yet raising <abbr expan="your">yr: </abbr>
 
 <pb n="2"/><lb/><lb/>
 Commission upon the Amount of the Credit side which <lb/>
 is <abbr expan="bulked">bulk'd</abbr> up to a large sum by the <sic corr="duties">dutys</sic> making your com:<lb/>
-mission twice as much as it would be if you were to <sic corr="raise">rais</sic> it <lb/>
+mission <del>be</del> twice as much as it would be if you were to <sic corr="raise">rais</sic> it <lb/>
 only upon your Export sales And this way I am a great suff<lb/>
 erer and never saw this way <sic corr="practiced">practised</sic> <sic corr="until">till</sic> of late years you <lb/>
 <sic corr="Justify">Justifye</sic> your self under the method of Other <abbr expan="Merchants">Merchts</abbr> I must <lb/>
@@ -140,7 +140,7 @@ confess you are not the Only Person that makes this the method <lb/>
 of your Accots. but whether it be right in any of you to <sic corr="raise">rais</sic> <lb/>
 your Commision upon the whole duty when you bond it and none <lb/>
 of the money is Ever out of your hands <add place="supralinear">is the question I want Satisfaction in</add> this is a practice <lb/>
-that <sic corr="has">hath</sic> been <sic corr="fallen">falln</sic> upon but of late <sic corr="years">yeares</sic> my <abbr expan="Accounts">Accots</abbr> for<lb/>
+that <sic corr="has">hath</sic> been <sic corr="fallen">falln</sic> upon but of late <sic corr="years">yeares</sic> my <abbr expan="Accounts">Accots</abbr> for:<lb/>
 merly where my Tobacco was Sold to Export were never troubled <lb/>
 with the <sic corr="duties">dutys</sic> Either of the Debtor or Credit side</p>
 
@@ -152,20 +152,22 @@ Considerably the lowest thus I shall wait for your Answer to <lb/>
 these Plain facts</p>
 
 <p>Herein I send you an Invoice of some goods which <lb/>
-request you will send me next year as <abbr expan="Per">Pr</abbr> Directions I have <sic corr="desireed">desired</sic> <lb/>
+request you <add place="supralinear">will</add> send me next year as <abbr expan="Per">Pr</abbr> Directions I have <sic corr="desireed">desired</sic> <lb/>
 <abbr expan="Captain">Capt</abbr> Bowman to bring me in some bottles and have <sic corr="directed">directd</sic> <lb/>
 him to receive the money from you to Pay for them I request <sic corr="you">yo</sic> <lb/>
 will let him have it Accordingly</p>
 
-<p>Herein send <sic corr="you">yo</sic> two bills of <abbr expan="Exchange">Excha:</abbr> drawn on <abbr expan="your">yr</abbr>self <lb/>
+<p>Herein send <sic corr="you">yo</sic> two <note target="n6">bills of <abbr expan="Exchange">Excha:</abbr></note> drawn on <abbr expan="your">yr</abbr>self <lb/>
 <note n="RC2">Robert Carter <abbr expan="junior">jnr</abbr></note> for &pound;22"0"0 <note n="NS">Nicholas Smith</note> for &pound;7"4 <lb/>
 
 <pb n="3"/><lb/><lb/>
 which desire yo will give my <abbr expan="Account">Accot</abbr> Credit for I am 
 </p>
 
-<closer>Sir <lb/>
-Your very humble Servt:</closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your very humble Servt:
+</closer>
 
 
 </div1>
@@ -183,10 +185,19 @@ Your very humble Servt:</closer>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
 
-<note id="n1">[1] John Stark was a merchant, probably the one to whom Carter referred when he wrote to Micajah Perry on 1723 July 4 that he had drawn an order on "Mr. Stark of Glasgow." On that same day, he wrote to a John Stark, referring to Captain Bowman.</note>
+<note id="n1">[1] John Stark was a  prominent Glasgow merchant in the sugar trade. He served as as baillie and provost (mayor) from 1725-1727. (<cit><bibl>John M'ure. <title>The History of Glasgow.</title> [Glasgow: D. Macvean and J. Wyllie &amp; Co., 1830] pp. 227-228</bibl></cit> as seen on Google books; and <cit><bibl>"Provosts of Glasgow" at <xref to="http://www.glasgow.gov.uk/en/AboutGlasgow/LordProvostsmessage/Provosts+of+Glasgow.htm">"Welcome to Glasgow"</xref>.</bibl></cit>)</note>
 
 <note id="n2">[2] Captain Samuel Bowman commanded the <hi rend="italics">Lucia.</hi> Carter mentioned this vessel in his diary in June 1724, and again on 1726 March 4 when he wrote that she "came in had 20 Weeks Passage."</note>
 
+<note id="n3"> [3] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
+
+<note id="n4">[4]  Clearing of goods imported into Britain involved paying the impost,  the duty imposed by Britain on imported tobacco, and obtaining the cocket (for which a fee was charged), a document bearing a cocket or seal issued by the "King's Customs House" that the impost had been paid. (See the definitions of each word in  <cit><bibl><title>Oxford English Dictionary Online.</title></bibl></cit>)</note>
+
+<note id="n5">[5] Because English law allowed an English purchaser of imported tobacco to apply for rebates of the impost, or duty, if the tobacco was exported from the country, Carter expected a discount on the charges on his tobacco sold to English merchants for export. </note>
+
+<note id="n6"> [6] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (See <cit><bibl><xref to="http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm">"Bill of Exchange"</xref> in the online Dictionary of Financial Scam Terms: the Truth vs. the Scam.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised April 24, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 </div1>

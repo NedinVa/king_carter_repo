@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,8 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Corotom<add resp="editor">[an, Lancaster County, Virginia]</add></name><lb/>
-<date value="1729-06-30">June 30. 1729</date><lb/>
+<name type="place">Corotom<add resp="editor">[an, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1729-06-30">June 30. 1729</date><lb/>
 Richard Meeks<lb/>
 </dateline>
 
@@ -115,7 +114,7 @@ Richard Meeks<lb/>
 
 
 
-<p>My Sloop <sic corr="sailed">saild</sic> yesterday morning I gave<lb/>
+<p>My Sloop <sic corr="sailed">saild</sic> yesterday Morning I gave<lb/>
 <del>her</del> <add place="supralinear"><note target="n1">Dick <sic corr="Haynes">Haines</sic></note></add> the best orders I could for all Baxters <abbr expan="Tobacco">Tobo.</abbr> for the hogshead<lb/>
 of <note n="WB"><abbr expan="Colonel">Colo.</abbr> Balls</note> which I sent you the <sic corr="note">noat</sic> for For another hogshead<lb/>
 that Baxter promised to have ready for me for 6 hogsheads of the <lb/>
@@ -123,14 +122,14 @@ that Baxter promised to have ready for me for 6 hogsheads of the <lb/>
 the <corr resp="editor">[tobacco mark]</corr> for a hogshead Minor Promised me for All the <abbr expan="Tobacco">Tobo</abbr><lb/>
 you have for me both in the Upper and lower Parts of the Coun<lb/>
 ty and also for a hogshead I have at Mr <sic corr="Hewletts">Huletts</sic> in Northumber:<lb/>
-land that rolls to Cone Besides these my Orders I have <abbr expan="Ordered">Order'd</abbr> him<lb/>
-to you to give him the Clearest Orders Possible you Can to prevent<lb/>
+land that rolls to <note target="n2">Cone</note> Besides these my Orders I have <abbr expan="Ordered">Order'd</abbr> him<lb/>
+to you to give him the Clearest Orders <sic corr="Possibly">Possible</sic> you Can to prevent<lb/>
 his blunders and that he may leave none of my <abbr expan="Tobacco">Tobo</abbr> behind</p>
 
 <pb n="2"/><lb/><lb/>
 <p><del>I have further</del></p>
 
-<p>If he gets all these <abbr expan="Tobacco">Tobo</abbr> he will not be above<lb/>
+<p>If he gets all these <abbr expan="Tobaccoes">Tobo</abbr> he will not be above<lb/>
 half loaded I have <sic corr="Ordered">Orderd</sic> him if you Can find <del>him</del> <add place="supralinear">it</add> 1/2 a <abbr expan="dozen">dozn</abbr><lb/>
 or half a Score hogsheads of Corn that will be <sic corr="tolerable">tollerable</sic> <add place="supralinear">convenient</add> for his <abbr expan="taking">takg.</abbr><lb/>
 in that he brings it with him</p>
@@ -152,18 +151,19 @@ ble <sic corr="medicines">medicins</sic> that come out <corr resp="editor">[of]<
 corn fields laid by</p>
 
 <p><abbr expan="You">Yo.</abbr> know a great Part of my dependence for hogs<lb/>
-flesh is Upon my Plantations Under your care and brave <lb/>
-places they are for raising of hogs in Plenty I must put<lb/>
+flesh is Upon my Plantations Under your care and<note target="n3"> brave <lb/>
+places</note> they are for raising of hogs in Plenty I must put<lb/>
 you in mind that you take Effectual care that large num:<lb/>
 bers of <sic corr="Pigs">Piggs</sic> be raised at Every Quarter that the breeding<lb/>
 sows are well fed and kept in good heart for the doing of <lb/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;which there                                                      
 
 <pb n="3"/><lb/><lb/>
-wants not Plenty of Corn I am.
-</p>
+wants not Plenty of Corn I am.</p>
 
-<closer>Your Friend</closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your Friend
+</closer>
 
 
 </div1>
@@ -181,9 +181,13 @@ wants not Plenty of Corn I am.
 
 <note> The county and colony have been added for clarity to the heading on this draft.</note>
 
-<note id="n1">[1] Richard Haynes was master of one of Carter's sloops.</note> 
+<note id="n1">[1] Richard Haynes was master of one of Carter's sloops. (See Carter to Richard Meeks, <xref to="/users/berkeley/public/C29f30c.xml">June 30, 1729</xref>.)</note> 
 
+<note id="n2">[2] Cone (usually spelled "Coan" today) is in Northumberland County "on the east bank of the Coan River across the river from Bundick," north-northwest of Heathsville. (<cit><bibl n="B29">Miller. <title>Place-Names . . . . </title>p. 31.</bibl></cit>)</note>
 
+<note id="n3">[3] Carter uses "brave" in the sense of "finely-dressed" meaning "splendid, showy, grand, fine, handsome."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised April 22, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 </div1>
