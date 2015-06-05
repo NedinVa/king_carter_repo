@@ -11,7 +11,7 @@
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
 <!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
-<TEI.2 id="C29">
+<TEI.2 id="C29h27b">
 
 
 <teiHeader type="aacr2">
@@ -41,7 +41,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -108,8 +108,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
-<date value="1729-08-27"></date><lb/>
+<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1729-08-27"></date><lb/>
 
 </dateline>
 
@@ -126,12 +125,12 @@ or <abbr expan="Tobacco">Tobo.</abbr> Either</p>
 <p>I Expect god willing to be up in your parts if I have a <sic corr="tolerable">tollerable</sic> Share <lb/>
 of health about the Middle of Next Month &amp; I have <sic corr="written">writt</sic> to <note n="RJ">Mr. Jones</note> &amp; <note target="n1">Mr. <lb/>
 Warner</note> too to <sic corr="arrange">bespeak</sic> for me a <sic corr="Couple">Cupple</sic> of good able Horses for my Occasions <lb/>
-while I am there, for what I know you may be better able to Supply me then <lb/>
+while I am there, for what I know you may be better able to Supply me <sic corr="than">then</sic> <lb/>
 Either of them Large good <sic corr="trotting">trothing</sic> Horses tht. have Courage Enough &amp; Yet Not <lb/>
-Skittish, Such as I <sic corr="rode">rid</sic> of yours last year will please me as well as pacers. <lb/>
-I Reckon I may get other Horses to <note target="n2">Tim <sic corr="Dargans,">Dargons,</sic></note> &amp; there I may take yours both <lb/>
-to the <note target="n3">Frying pan</note> &amp; to the Landing for if I am able to bear it I propose to <lb/>
-See all them places &amp; <note target="n4">Sandy run</note> tract too</p>
+Skittish, Such as I <sic corr="rode">rid</sic> of yours last year will please me as well as <note target="n2">pacers</note>. <lb/>
+I Reckon I may get other Horses to <note target="n3">Tim <sic corr="Dargans,">Dargons,</sic></note> &amp; there I may take yours both <lb/>
+to the <note target="n4">Frying pan</note> &amp; to the Landing for if I am able to bear it I propose to <lb/>
+See all them places &amp; <note target="n5">Sandy run</note> tract too</p>
 
 <p>My <note n="CC1">Son Charles</note> tells me you would be willing to move your <lb/>
 H<corr resp="editor">[ouseho]</corr>ld goods &amp; family if you Could be certain of the Continuance of our <lb/>
@@ -142,45 +141,51 @@ H<corr resp="editor">[ouseho]</corr>ld goods &amp; family if you Could be certai
 for Severa<corr resp="editor">[ll]</corr> years if <abbr expan="you">yu.</abbr> will take Care to please us with your diligence &amp; Industry <lb/>
 for if the <sic corr="Ores">Oars</sic> Should fail us &amp; we Should meet with so much discouragement <lb/>
 to throw up that design we Shall have gone into So Large a Charge &amp; have Land <lb/>
-so Convenient fit for improvemt to plant Gangs upon, That <abbr expan="you">yu.</abbr> Need not fear <lb/>
+so Convenient fit for <sic corr="improvement">improvemt.</sic> to plant Gangs upon, That <abbr expan="you">yu.</abbr> Need not fear <lb/>
 but we Shall lay a foundation to give you A very good <sic corr="employment">imploy</sic> for many Years <lb/>
 I need say no more of this Matter at present when we Meet this may be talked <lb/>
 at l<corr resp="editor">[ar]</corr>ge I am </p>
 
-<closer>Your friend to Serve you--<seg type="postscript"><lb/><lb/><corr resp="editor">[I ha]</corr>ve Clothed all my people <lb/>
-<corr resp="editor">[. . .]</corr> whole year their thick Cloths &amp; wt. you <corr resp="editor">[. . .]</corr> necessary I would have you <corr resp="editor">[. . .]</corr><lb/>
-<corr resp="editor">[. . .]</corr>om them <sic corr="until">till</sic> the Cold <sic corr="weather">wether</sic> Makes it Convenient to let them have the<corr resp="editor">[m ...]</corr> <lb/>
-<corr resp="editor">[. . .]</corr> they have them Now Some of thm. would dest<corr resp="editor">[r]</corr>oy them by<corr resp="editor">[. . .]</corr> <lb/><lb/>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your friend to Serve you--
+
+<seg type="postscript"><lb/><lb/><corr resp="editor">[I ha]</corr>ve Clothed all my people <lb/>
+<corr resp="editor">[for the]</corr> whole year their thick Cloths &amp; wt. you <corr resp="editor">[. . .]</corr> necessary I would have you <corr resp="editor">k[
+eep]</corr><lb/>
+<corr resp="editor">[f]</corr>om them <sic corr="until">till</sic> the Cold <sic corr="weather">wether</sic> Makes it Convenient to let them have the<corr resp="editor">[m ...]</corr> <lb/>
+<corr resp="editor">[if]</corr> they have them Now Some of thm. would dest<corr resp="editor">[r]</corr>oy them by<corr resp="editor">[. . .]</corr> <lb/><lb/>
 
 <corr resp="editor">[. . .]</corr> the Negro Woman is a fine Young wench <corr resp="editor">[. . .]</corr> <lb/>
-<corr resp="editor">[. . .]</corr> good Homony Cook &amp; to wash the people's <corr resp="editor">[clothes . . .]</corr> <lb/>
+<corr resp="editor">[. . .]</corr> good <note target="n5"><sic corr="Hominy">Homony</sic></note> Cook &amp; to wash the people's <corr resp="editor">[clothes . . .]</corr> <lb/>
 <corr resp="editor">[. . .]</corr> as I hope before this in a f<corr resp="editor">[ew ...]</corr><lb/>
 <corr resp="editor">[. . .]</corr>
 
 <pb n="2"/><lb/><lb/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<corr resp="editor">	[I]</corr> have promised my Son to be down here very Soon after him, we are <lb/>
+<p><corr resp="editor">	[I]</corr> have promised my Son to be down here very Soon after him, we are <lb/>
 <corr resp="editor">[in expec]</corr>tation of his <sic corr="Coming">Comeing</sic> this Week if he can do what he proposes it's <lb/>
-<corr resp="editor">[certain]</corr> we Shall <sic corr="employ">imploy</sic> him for raising the <sic corr="Ore">Oar</sic> &amp; Manageing tht. <lb/>
+<corr resp="editor">[certain]</corr> we Shall <sic corr="employ">imploy</sic> him for raising the <sic corr="Ore">Oar</sic> &amp; <sic corr="Managing">Manageing</sic> tht. <lb/>
 <corr resp="editor">[affair if]</corr> you hear he is not Come Away when the Sloop gets up &amp; you have <lb/>
 <sic corr="Opportunity">Oppurtunity</sic> let him know our Expectation if we can agree with him <lb/>
 We Shall be in a fair way of Quickly knowing wt. is to be Expected <lb/>
-from the Mine<lb/><lb/>
+from the Mine</p>
 
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I believe the best way will be to work <note n="MP1"><abbr expan="Colonel">Coll.</abbr> Pages</note> Negros &amp; my <lb/>
-<note n="RC2">Son Robins</note> at Frying pan with these people <sic corr="having">haveing</sic> only tht. <lb/>
+<p>I believe the best way will be to work <note n="MP1"><abbr expan="Colonel">Coll.</abbr> Pages</note> <sic corr="Negroes">Negros</sic> &amp; my <lb/>
+<note n="RC2">Son Robins</note> at Frying pan with these people <sic corr="leaving">leaveing</sic> only tht. <lb/>
 Overseer or some Indifferent hand to look after that Plantation <lb/>
 <sic corr="until">untill</sic> time for getting Fodder Comes &amp; then Carry a good Gang &amp; get it <lb/>
 in &amp; Stack it at Once &amp; so also in gathering the Corn but these things <lb/>
-I shall leave to your discretion--<lb/><lb/>
+I shall leave to your discretion--</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<add resp="hand">All the <sic corr="ore">oar</sic> that is brought down to the landing <lb/>
-while the Sloop is at Occaquan she must bring away <corr resp="editor">[. . .]</corr> <lb/>
+<p><add resp="hand">All the <sic corr="ore">oar</sic> that is brought down to the landing <lb/>
+while the Sloop is at <note target="n6">Occaquan</note> she must bring away <corr resp="editor">[. . .]</corr> <lb/>
 Cannot <sic corr="buy">by</sic> 6 horses if you buy 2 or three you will want <corr resp="editor">[fewer]</corr> <lb/>
 of mine and the fewer you have the better you must send <corr resp="editor">[Ha]</corr>rry <lb/>
 Cain away forthwith to his business letting him only <corr resp="editor">[. . .]</corr> re<lb/>
 turn with these People that may be Accompa<corr resp="editor">[nying] </corr><lb/>
 the Oxen</add>
-</seg></closer>
+</p>
+</seg>
+</closer>
 
 
 </div1>
@@ -202,13 +207,19 @@ the Oxen</add>
 
 <note id="n1">[1] John Warner was the surveyor of King George County in 1727; he laid off the town of Falmouth in 1728. Later he worked for Lord Fairfax, and prepared an important map of his holdings. (<cit><bibl n="B4">Harrison,  <title>Landmarks of Old Prince William</title>, 626-628.</bibl></cit>)</note>
 
-<note id="n2">[2] "In 1724, Robert Carter took out patents for, among others: the Licking Run tract of 10,227 acres which lay along and east of Licking Run above Germantown and across Owl and Turkey Runs, to what was then supposed to be the western boundary of the vast Brent Town Tract. Here Carter seated the Lodge Quarter mentioned in his will."  Timothy Dargan was its overseer in 1732. (<cit><bibl>Carl F. Cannon, Jr., "Robert ("King") Carter of "Corotoman." Unpublished doctoral dissertation, Duke University, 1956, p. 274;</bibl></cit> and <cit><bibl n="A26">Carter Papers: An Inventory. . . ."</bibl></cit>)</note>
+<note id="n2">[2] A pacer is "a horse whose customary gait is the pace [A distinctive lateral gait, in which the fore and hind legs on one side move in unison, alternating with those on the other.] ; a horse bred or trained to this gait."   (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>3</note>
 
-<note id="n3">[3]  In 1728, Carter, his sons Robert and Charles, and his son-in-law Mann Page,  organized a company to mine for copper on a tract of some 27,000 acres that Louis Morton describes as lying "near the present boundary of Fairfax and Loudoun counties." Fairfax Harrison wrote that the tract was "on the  Horsepen of Broad." Horsepen Run joins Broad Run on the northern border of Dulles airport. The company was not successful. (<cit><bibl n="B32">Morton. <title>Robert Robert Carter of Nomini Hall.</title> pp. 18-19;</bibl></cit> and <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> p. 342. </bibl></cit>)</note>
+<note id="n3">[3] "In 1724, Robert Carter took out patents for, among others: the Licking Run tract of 10,227 acres which lay along and east of Licking Run above Germantown and across Owl and Turkey Runs, to what was then supposed to be the western boundary of the vast <note n="BT">Brent Town Tract</note>. Here Carter seated the Lodge Quarter mentioned in his will."  Timothy Dargan was its overseer in 1733 according to the <xref to=" http://carter.lib.virginia.edu/html/C33inven.html">inventory of Carter's estate</xref>. (<cit><bibl>Carl F. Cannon, Jr., "Robert ("King") Carter of "Corotoman." Unpublished doctoral dissertation, Duke University, 1956, p. 274;</bibl></cit> and <cit><bibl n="A26">Carter Papers: An Inventory. . . ."</bibl></cit>)</note>
 
-<note id="n4">[4] It is not clear to what property Carter refers because there is no tract with this name in his will.</note>
+<note id="n3">[3]  In 1728, Carter, his sons Robert and Charles, and his son-in-law Mann Page,  organized a company to mine for copper on a tract of some 27,000 acres that Louis Morton describes as lying "near the present boundary of Fairfax and Loudoun counties." Fairfax Harrison wrote that the tract was "on the  Horsepen of Broad." Horsepen Run joins Broad Run on the northern border of Dulles airport. The company was not successful. (<cit><bibl n="B32">Morton. <title>Robert Robert Carter of Nomini Hall.</title> pp. 18-19;</bibl></cit>  <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> p. 342; </bibl></cit> and <cit><bibl>Alexandria Drafting Company. <title>Regional Northern Virginia.</title> [Alexandria, VA: Alexandria Drafting Company, 2002.]  pp. 12, 16-17, 151.</bibl></cit>)</note>
 
+<note id="n4">[4] It is not clear to what property Carter refers because there is no tract with this name in his will. There is a Sandy Run in today's Prince William County.  It runs from the north in Fountainhead Regional Park, and drains into the Occoquan Reservoir.  (<cit><bibl>Alexandria Drafting Company. <title>Regional Northern Virginia.</title> [Alexandria, VA: Alexandria Drafting Company, 2002.], p.92. </bibl></cit> )</note>
 
+<note id="n5">[5] Hominy is "maize or Indian corn hulled and ground more or less coarsely and prepared for food by being boiled with water or milk."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
+
+<note id="n6">[6] The Occaquan River is a major tributary of  the Potomac River that lay in Stafford County in Carter's day. Much of the river today is known as the Bull Run, and forms the boundary between Fairfax and Prince William counties, and to the west, between Loudoun and Prince William  counties.  (<cit><bibl>Alexandria Drafting Company. <title>Regional Northern Virginia.</title> [Alexandria, VA: Alexandria Drafting Company, 2002.] </bibl></cit>  Coverage of Fairfax, Fauquier, Loudoun, and Prince William counties.)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised June 3, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 </div1>

@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,8 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
-<date value="1729-08-26">Augst. 26.1729</date><lb/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1729-08-26">Augst. 26.1729</date><lb/>
 Messrs. Haswell &amp; Brooks<lb/>
 </dateline>
 <salute>Gent</salute>
@@ -133,12 +132,14 @@ preceeding years all these things raise our Crests to Expect better <lb/>
 markets for the Tobo now gone home than we have met with for some <lb/>
 years past</p>
 
-<p>In my former letter I have already write the <sic corr="needful">needfull</sic> I shall <lb/>
+<p>In my former letter I have already <sic corr="written">writ</sic> the <sic corr="needful">needfull</sic> I shall <lb/>
 Conclude at <abbr expan="present">prest.</abbr> 
 </p>
 
-<closer>Gent. <lb/>
-Your most Humble Servt:</closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gent. <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your most Humble Servt:
+</closer>
 
 
 </div1>
@@ -156,11 +157,11 @@ Your most Humble Servt:</closer>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] Haswell and Brooks was a London firm listed in 1740 directories of that city. Samuel Haswell was a London Assurance director in Suffolk Lane. There are several men of the name "Brooks" in the directories including a Christopher Brooks, a ship broker, also located in Suffolk Lane. (<cit><bibl><title>A Compleat Guide to All Persons who have any Trade or Concern with the City of London and Ports adjacent. . . .</title> London: Printed for J. Osborn, at the Golden Ball in Pater-noster-row, MDXXXL</bibl></cit>; and  <cit><bibl><title>Kent's Directory For the Year 1740 Containing An Alphabetical List of the Names and Places of Abode of the Directors of Companies, Persons in Publick Business, Merchants, and other Eminent Traders in the Cities of London and Westminster, and the Borough of Southwark.</title>  London: Printed and Sold by Henry Kent in Finch-Lane, near the Royal Exchange: and by the Booksellers and Pamphlets Shops of London and Westminster, 1740. http://freepages.history.rootsweb.com/~frpayments/KD1740/AB.htm. 8/12/2005. p. 39.</bibl></cit>)</note>
+<note id="n1">[1] Haswell and Brooks was a London firm listed in 1740 directories of that city. Samuel Haswell was a London Assurance director in Suffolk Lane. John Brooks' obituary appeared in the <title>Pennsylvania Gazette,</title> May 8, 1740, where his partnership with Haswell was noted and that he had been "formerly Commander of the George, in the Virginia Trade." ( <cit><bibl> <title>A Compleat Guide to All Persons who have any Trade or Concern with the City of London and Ports adjacent. . . .</title> London: Printed for J. Osborn, at the Golden Ball in Pater-noster-row, MDXXXL</bibl></cit>; and online abstract list of entries from <cit><bibl><title><xref to="http://freepages.history.rootsweb.ancestry.com/~frpayments/KD1740/HIJK.htm">Kent's Directory</xref> For the Year 1740 Containing An Alphabetical List of the Names and Places of Abode of the Directors of Companies, Persons in Publick Business, Merchants, and other Eminent Traders in the Cities of London and Westminster, and the Borough of Southwark.</title>  London: Printed and Sold by Henry Kent in Finch-Lane, near the Royal Exchange: and by the Booksellers and Pamphlets Shops of London and Westminster, 1740. p. 39.</bibl></cit> Brooks' obituary courtesy of Todd A. Farmerie, 1/21/2013.)</note>
 
-<note id="n2">[2] Parliament had passed an act forbidding the importation of stemmed tobacco in 1722. John Randolph was sent to England in 1729 as agent for Virginia to try to have the act overturned; his mission would be successful.<corr resp="editor"></corr> (<cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> [Newport News, VA: Mariners' Museum, 1953.] p. 116.</bibl></cit>)</note>
+<note id="n2">[2] Parliament had passed an act forbidding the importation of stemmed tobacco in 1722. John Randolph was sent to England in 1728 as agent for Virginia to try to have the act overturned; his mission was successful, and he was home in the colony by <xref to="http://carter.lib.virginia.edu/html/C29f02a.html">June 2, 1729</xref>, when Carter wrote to welcome him home. (<cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> [Newport News, VA: Mariners' Museum, 1953], 116.</bibl></cit>)</note>
 
-
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised May 20, 2015,  to  strengthen the footnotes and the modern language version text.</hi></note>
 
 
 </div1>

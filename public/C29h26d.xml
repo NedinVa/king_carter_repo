@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,8 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
-<date value="1729-08-26">Augst. 26. 1729</date><lb/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1729-08-26">Augst. 26. 1729</date><lb/>
 Mr John Falconar<lb/>
 </dateline>
 <salute>Sir.</salute>
@@ -120,13 +119,13 @@ Mr John Falconar<lb/>
 have you will have from many hands the news of the great destruction <lb/>
 upon our Crops this year by the Continued rains to pretend to guess how <lb/>
 much we Shall make less <sic corr="than">then</sic> we did the last Year will be nonsence <lb/>
-but very much Short to be sure it will be which with the <note target="n2">Liberty of Stemm<lb/>
+but very much short to be sure it will be which with the <note target="n2">Liberty of Stemm<lb/>
 ing</note> gives us reviving hopes that we shall meet with much better markets <lb/>
 for the <abbr expan="tobacco">tobo</abbr> already gone than <sic corr="has">hath</sic> fallen to our Share These late years</p>
 
 <p>My Good <note target="n3">Daddy Pratt</note> I have requested to buy <lb/>
 me some Particular things which I now desire you to let him have the <lb/>
-money for when he Calls for it I reckons they will amount to between thirty <lb/>
+money for when he Calls for it I reckon they will amount to between thirty <lb/>
 and five and thirty pounds</p>
 
 <p>I heard of <note target="n4"><abbr expan="Captain">Capt</abbr> Willis's</note> being safe about 30 <lb/>
@@ -135,16 +134,22 @@ you I am
 
 </p>
 
-<closer>Sir <lb/>
-Your friend &amp; <abbr expan="Humble">Hmble.</abbr> Servt:
-<seg type="postscript"><lb/><lb/>A postscript to Mr Falconars letter <abbr expan="August">Augst</abbr> 26. 1729<lb/><lb/>
-	My <note n="RC2">Son Robert</note> being <abbr expan="removed">remov'd</abbr> with his family from me into Poto<lb/>
-<sic corr="mac">mack</sic> river <note n="WG">Our <abbr expan="Governor">Govr</abbr></note> <sic corr="has">hath</sic> been so kind to give his Naval <abbr expan="Officer's">Offrs:</abbr> <lb/>
-place to My <note n="CC1">Son Charles</note> he must give new Security to the <abbr expan="Commissioners">Commissrs:</abbr> <lb/>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your friend &amp; <abbr expan="Humble">Hmble.</abbr> Servt:
+
+<seg type="postscript"><lb/><lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A postscript to Mr Falconars letter <abbr expan="August">Augst</abbr> 26. 1729<lb/><lb/>
+<p>My <note n="RC2">Son Robert</note> being <abbr expan="removed">remov'd</abbr> with his family from me into Poto<lb/>
+<sic corr="mac">mack</sic> river <note n="WG">Our <abbr expan="Governor">Govr</abbr></note> <sic corr="has">hath</sic> been so kind to give his <note target="n5">Naval <abbr expan="Officer's">Offrs:</abbr> <lb/>
+place</note> to My <note n="CC1">Son Charles</note> he must give new Security to the <abbr expan="Commissioners">Commissrs:</abbr> <lb/>
 of the Customs I <sic corr="desired">desird</sic> you to be one for My Son Robert you answ.<lb/>
-erd me you willingly should but that there was no Occasion <lb/>
+ered me you willingly should but that there was no Occasion <lb/>
 for you You will oblige me now to Offer yourself to <note n="WD">Mr Daw<lb/>
-kins</note> to be <sic corr="joined">joyned</sic> with Him I will be your Counter security</seg></closer>
+kins</note> to be <sic corr="joined">joyned</sic> with Him I will be your Counter security</p>
+
+</seg>
+</closer>
 
 
 </div1>
@@ -162,14 +167,17 @@ kins</note> to be <sic corr="joined">joyned</sic> with Him I will be your Counte
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] John Falconar (d. <hi rend="italics">ca.</hi> 1729) was a London merchant with whom Carter dealt. In 1728, Falconar and Henry Darnell formed an association of 29 London tobacco merchants to deal with the French tobacco purchasing agent as a group in order to keep the price as high as possible. The association lasted only lasted a year or two before dissolving because some of its members were dealing directly with the French agent and selling below the agreed-upon price. (See Carter to William Dawkins, and Carter to Falconar's executors, both 1730 April 16, for Falconar's death date. <cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> Newport News, VA: Mariners' Museum, 1953. p. 129</bibl></cit></note>
+<note id="n1">[1] John Falconar (d. <hi rend="italics">ca.</hi> 1729) was a London merchant with whom Carter dealt. In 1728, Falconar and Henry Darnell formed an association of 29 London tobacco merchants to deal with the French tobacco purchasing agent as a group in order to keep the price as high as possible. The association lasted only lasted a year or two before dissolving because some of its members were dealing directly with the French agent and selling below the agreed-upon price. (See <xref to="http://carter.lib.virginia.edu/html/C27g24d.html">Carter's letter to Falconar </xref> of July 24 and August 22, 1727, for details about the payment of &pound;200 to him. See <xref to="http://carter.lib.virginia.edu/html/C30d16b.html">Carter to William Dawkins,</xref> for Falconar's death date. <cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> Newport News, VA: Mariners' Museum, 1953. p. 129</bibl></cit>)</note>
 
-<note id="n2">[2] Parliament had passed an act forbidding the importation of stemmed tobacco in 1722. John Randolph was sent to England in 1729 as agent for Virginia to try to have the act overturned; his mission would be successful.<corr resp="editor"></corr> (<cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> [Newport News, VA: Mariners' Museum, 1953.] p. 116.</bibl></cit>)</note>
+<note id="n2">[2] Parliament had passed an act forbidding the importation of stemmed tobacco in 1722. John Randolph was sent to England in 1728 as agent for Virginia to try to have the act overturned; his mission was successful, and he was home in the colony by <xref to="http://carter.lib.virginia.edu/html/C29f02a.html">June 2, 1729</xref>, when Carter wrote to welcome him home. (<cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> [Newport News, VA: Mariners' Museum, 1953], 116.</bibl></cit>)</note>
 
 <note id="n3">[3] John Pratt was a London merchant and an old friend of Carter's who usually referred to him as "Daddy."</note>
 
-<note id="n4">[4] Captain Peter Wills commanded the  <hi rend="italics">Booth</hi> in 1723-1724, and the <hi rend="italics">Amity,</hi> a vessel of 500 tons and 21 men,  in 1727-1729. He is mentioned in Carter's diary for June 1723.  (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194, and Survey Report 6801 summarizing Adm. 68/195,Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n4">[4] Captain Peter Wills commanded the  <hi rend="italics">Booth</hi> in 1723-1724, a ship belonging to merchant Thomas Colmore of London (see Carter's <xref to="/users/berkeley/public/C24a29a.xml">letter</xref> to Colmore of January 20 and February 15, 1724), and the <hi rend="italics">Amity,</hi> a vessel of 500 tons and 21 men,  in 1727-1729. He is mentioned in Carter's diary in 1723. (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194, and Survey Report 6801 summarizing Adm. 68/195, Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
+<note id="n5">[5] The naval officer was an official in the colony that reported to the Commissioners of Customs, a body that had first been established in 1663; the group was reorganized several times, especially after 1688. The board was "intrusted with collection of customs both in England and the colonies." The board helped write many of the instructions for colonial governors in collaboration with the Privy Council. "Their direct connection with the colonies was through the governors, who were instructed to correspond with the commissioners, and to send them, every three months, lists of clearances, and also reports of illegal trading. The governor's agent in matters of trade was the naval officer whom he was empowered to appoint, but who was required by the 7th and 8th William III to give security to the commissioners of customs." (<cit><bibl>Louise Phillips Kellogg. <title>The American Colonial Charter. A Study of English Administration in Relation Thereto, Especialy after 1688.</title>  [Annual Report, American Historical Association. Vol. 1, Govt. Print. Off., 1904], p. 226.</bibl></cit> For a recent study, see <cit><bibl>Alvin Rabushka. <title>Taxation in Colonial America</title> [Princeton, NJ: Princeton University Press, 2008.]</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised May 19, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 </div1>

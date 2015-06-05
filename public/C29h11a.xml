@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,22 +106,23 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
-<date value="1729-08-11">Augst 11th. 1729</date><lb/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1729-08-11">Augst 11th. 1729</date><lb/>
 Mr. Richd. Oswald &amp; Compa<lb/>
 </dateline>
 <salute>Gent</salute>
 
 </opener>
 
-<p>This Serves only to enclose a bill of lading<lb/>
+<p>This Serves only to enclose a <note target="n2">bill of lading</note><lb/>
 for 12 hogsheads  of <abbr expan="Tobacco">Tobo</abbr> on board the Martha <abbr expan="Captain">Capt</abbr> Dunlop<lb/> 
 belonging to the <note n="JC1">Secretary</note> to whom You Are to <abbr expan="Account">Accot</abbr> for them<lb/> 
 I am 
 </p>
 
-<closer>Gent&mdash;<lb/>
-your most Humble <abbr expan="Servant">Servt:</abbr></closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gent&mdash;<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;your most Humble <abbr expan="Servant">Servt:</abbr>
+</closer>
 
 
 </div1>
@@ -139,10 +140,11 @@ your most Humble <abbr expan="Servant">Servt:</abbr></closer>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
 
-<note id="n1">[1] Richard Oswald (1687-1766) was a prominent Glasgow merchant who was "involved in West Indies and Madeira trade as well as tobacco importation." In partnership with his brother Alexander, the firm owned three ships (the <hi rend="italics">Martha,</hi> the <hi rend="italics">Amity,</hi> and the <hi rend="italics">Speedwell</hi>) of the 41 sailing from Glasgow in 1735. (<cit><bibl>Devine, T.M. <title>The Tobacco Lords: A Study of the Tobacco Merchants of Glasgow and their Trading Activites c. 1740-90.</title> Edinburgh: John Donald Publishers Ltd. p. 183;</bibl></cit> and "The Old Country Houses of the Old Glasgow Gentry: LXXXVII: Scotstoun." http://gdl.cdlr.strath.ac.uk/smihou/smihou087.htm. 8/2/2005.)</note>
+<note id="n1">[1] Richard Oswald (1687-1766) was a prominent Glasgow merchant who was "involved in West Indies and Madeira trade as well as tobacco importation." In partnership with his brother Alexander, the firm owned three ships (the <hi rend="italics"><name type="ship">Martha,</name></hi> the <hi rend="italics"><name type="ship">Amity,</name></hi> and the <hi rend="italics"><name type="ship">Speedwell</name></hi>) of the 41 sailing from Glasgow in 1735. (<cit><bibl>Devine, T.M. <title>The Tobacco Lords: A Study of the Tobacco Merchants of Glasgow and their Trading Activites c. 1740-90.</title> [Edinburgh: John Donald Publishers Ltd]. p. 183;</bibl></cit> and "<xref to="http://gdl.cdlr.strath.ac.uk/smihou/smihou087.htm">The Old Country Houses</xref> of the Old Glasgow Gentry: LXXXVII: Scotstoun." )</note>
 
+ <note id="n2"> [2] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
-
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised April 28, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 </div1>
 </back>
