@@ -184,7 +184,7 @@ hogsheads I would have you send me 4 <sic corr="Beaves">Beeves</sic> by All mean
 from  the <note target="n6"><sic corr="Ford,">Foard,</sic></note> the <sic corr="Pied">Pide</sic> Ox at the Falls I think may be one I think <lb/>
 Oxfords Beeves must be <sic corr="killed">killd</sic> there and Carted down the other Beef I <lb/>
 would have a Very good one you may take him from what <abbr expan="Quarter">Qr.</abbr> you think <lb/>
-best, <note target="n7">John Hust</note> I have <sic corr="Written">Writ</sic> to by <note target="n8">James Carter</note> about doing <del>your</del> <add place="supralinear">the</add> <sic corr="Jobs">Jobbs</sic> <lb/>
+best, <note target="n7">John Hust</note> I have <sic corr="Written">Writ</sic> to by <note n="JC2">James Carter</note> about doing <del>your</del> <add place="supralinear">the</add> <sic corr="Jobs">Jobbs</sic> <lb/>
 <add place="supralinear">at <abbr expan="your">yr</abbr> Quarter</add> making these 2 Carts and about the Buildings at the falls&mdash;I <lb/>
 have sent a great many Caps and the names of the people that are to <lb/>
 <add place="supralinear">have them </add> I have sent you 20 yards of <note target="n9"><sic corr="Osnaburg">Oxnabuggs</sic></note> as you desire My New hands are all <lb/>
@@ -255,12 +255,14 @@ hitherto</seg></closer>
 
 <note>The county and colony have been added for clarity to the  heading on the draft.</note>
 
-<note id="n1">[1] William Threalkill is mentioned in the inventory of Carter's estate as the overseer at Poplar Quarter, Stafford County. (<cit><bibl n="A26">Carter Papers: An Inventory. . . ."</bibl></cit>.)</note>
+<note>This letter was published in <cit><bibl n="A8">Berkeley. "Robert Carter as Agricultural Administrator: . . .", 291-295.</bibl></cit>  
+</note>
 
-<note id="n2">[2]Jimmy Peters was an overseer who would be at Hinson's Quarter in
-Stafford County in 1732. (<cit><bibl n="A26">Carter Papers: An Inventory. . . ."</bibl></cit>.)</note>
+<note id="n1">[1] William Threalkill is mentioned in the <xref to="/users/berkeley/public/C33inven.xml">1733 inventory</xref>  of Carter's estate as the overseer at Poplar Quarter, Stafford County. (<cit><bibl n="A26">Carter Papers: An Inventory. . . ."</bibl></cit>.)</note>
 
-<note id="n3">[3] "In 1724, Robert Carter took out patents for, among others: the Licking Run tract of 10,227 acres which lay along and east of Licking Run above Germantown and across Owl and Turkey Runs, to what was then supposed to be the western boundary of the vast Brent Town Tract. Here Carter seated the Lodge Quarter mentioned in his will."  Timothy Dargan was its overseer in 1732. (<cit><bibl>Carl F. Cannon, Jr., "Robert ("King") Carter of "Corotoman." Unpublished doctoral dissertation, Duke University, 1956, p. 274;</bibl></cit> and <cit><bibl n="A26">Carter Papers: An Inventory. . . ."</bibl></cit>)</note>
+<note id="n2">[2] Jimmy Peters was an overseer who would be at Hinson's Quarter in Stafford County in <xref to="/users/berkeley/public/C33inven.xml">the1733 inventory.</xref> (<cit><bibl n="A26">Carter Papers: An Inventory. . . ."</bibl></cit>.)</note>
+
+<note id="n3">[3] "In 1724, Robert Carter took out patents for, among others: the Licking Run tract of 10,227 acres which lay along and east of Licking Run above Germantown and across Owl and Turkey Runs, to what was then supposed to be the western boundary of the vast Brent Town Tract. Here Carter seated the Lodge Quarter mentioned in his will."   Timothy Dargan was its overseer in the <xref to="/users/berkeley/public/C33inven.xml">1733 inventory.</xref>  (<cit><bibl>Carl F. Cannon, Jr., "Robert ("King") Carter of "Corotoman." Unpublished doctoral dissertation, Duke University, 1956, p. 274;</bibl></cit> and <cit><bibl n="A26">Carter Papers: An Inventory. . . ."</bibl></cit>)</note>
 
 <note id="n4">[4] Roger Oxford was the overseer at Norman's Ford.</note>
 
@@ -268,15 +270,15 @@ Stafford County in 1732. (<cit><bibl n="A26">Carter Papers: An Inventory. . . ."
 
 <note id="n6">[6]  Norman's Ford was an important Rappahannock River (earlier Hedgeman's River) crossing on the old Iroquois trail, later called the Carolina Road. Fairfax Harrison states that it received its name because Isaac Norman patented the land in June 1726, but Carter refered to it by this name four years earlier. It is located where U.S. 29 and U.S. 15 cross the Rappahannock between Culpeper and Fauquier counties. (<cit><bibl n="B4">"The Old Roads and the Ordinaries," in Harrison, <title>Landmarks of Old Prince William,</title> pp. 441-517, esp. fn. 37 on p. 500.</bibl></cit>)</note>
 
-<note id="n7">[7] John Hust (or Hurst) was the overseer of "Hamstead Quarter," Stafford County, in the 1732 inventory, supervising  sixteen slaves with the assistance of one horse. Hust apparently was a carpenter because Carter mentions his doing carpentry work in various letters. (<cit><bibl n="A26">Carter Papers: An Inventory. . . ."</bibl></cit>)</note>
+<note id="n7">[7] John Hust (or Hurst) was the overseer of "Hamstead Quarter," Stafford County, in the <xref to="/users/berkeley/public/C33inven.xml">1733 inventory,</xref>  supervising  sixteen slaves with the assistance of one horse. Hust apparently was a carpenter because Carter mentions his doing carpentry work in various letters. (<cit><bibl n="A26">Carter Papers: An Inventory. . . ."</bibl></cit>)</note>
 
-<note id="n8">[8] James Carter (1684-1743), of Stafford County, was the younger brother of Carter's dear friend and associate, Captain Thomas Carter of Lancaster County, and was one of Carter's chief managers. (<cit><bibl>Joseph Lyon Miller, "Captain Thomas Carter and His Descendants," <title>William and Mary Quarterly.</title> 1st ser., 17(1908-09): 275-285.</bibl></cit>)</note>
+<note id="n8">[8]</note>
 
-<note id="n9">[9] Osnaburg is a coarse fabric named for the region of Germany in which it was first produced. It was commonly used for sacking and bagging.</note>
+<note id="n9">[9] Osnaburg is a coarse fabric named for the region of Germany in which it was first produced. It was commonly used for sacking and bagging. (<cit><bibl>18th Century Trade Terms (Fabrics), "<xref to="http://www.18cnewenglandlife.org/18cnel/ofsilk.htm">Of Silk, Terms Of Silk</xref>, Cotton, Linen and Wool,"[Compiled from] <title>The Beekman Mercantile Paper</title> 1746 - 1799. 5/ 4/2007; 6/18/2015</bibl></cit>)</note>
 
-<note id="n10">[10] Seasoning was the term colonial Virginians used to refer to the sicknesses that affected new immigrants, black and white, to the colony, until they developed immunities.</note>
+<note id="n10">[10]  Seasoning is "the process by which a person becomes hardened or inured to a strange climate, acclimatization," and was the term colonial Virginians used to refer to the sicknesses that affected new immigrants, black and white, to the colony, until they developed immunities.  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
-<note id="n11">[11] Mast is the qantities of nuts that fall from trees in the fall providing rich food for hogs.</note>
+<note id="n11">[11] Mast is "the fruit of beech, oak, chestnut, and other woodland trees, esp. when fallen and used as food for pigs, etc."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
 
 </div1>

@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -117,21 +117,18 @@ Mr Wm. Dawkins<lb/>
 
 
 <p>This is only a line of Advice to let you know<lb/> 
-<note n="MP2"><abbr expan="Colonel">Colo</abbr> Page</note> and I have this day drawn upon you for the sum <lb/>
+<note n="MP2"><abbr expan="Colonel">Colo</abbr> Page</note> and I have this day <note target="n1">drawn upon</note> you for the sum <lb/>
 of fifty one pounds two shillings &amp; Eleven pence payable to Doctor<lb/> 
 <note n="ECB">George Nicholas</note> being money due to him from <note n="NB">Mr Burwells</note><lb/> 
 Estate and to be paid upon the Accot of the Estate I am 
 </p>
 
-<closer>Sir <lb/>
-<abbr expan="your">yor:</abbr> very Humble Servt.</closer>
-
-
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="your">yor:</abbr> very Humble Servt.</closer>
 </div1>
 
 </body>
-
-
 
 <back>
 
@@ -142,8 +139,9 @@ Estate and to be paid upon the Accot of the Estate I am
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
+<note id="n1"> [1] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (See <cit><bibl><xref to="http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm">"Bill of Exchange"</xref> in the online Dictionary of Financial Scam Terms: the Truth vs. the Scam.</bibl></cit>)</note>
 
-
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised June 11, 2015,  to add a footnote.</hi></note>
 
 </div1>
 </back>

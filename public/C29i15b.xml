@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -117,30 +117,35 @@ John Randolph Esqr<lb/>
 <p>I received your favour by the <note n="JC">Secretary </note> &amp; am <lb/>
 Sorry any Thing should fall out to deprive me of the Satisfaction <lb/>
 I should have taken in your Company however seeing your Affairs <lb/>
-would not Allow it I am <sic corr="pleased">pleasd</sic> that you take my Case so much <lb/>
+would not Allow of it I am <sic corr="pleased">pleasd</sic> that you take my Case so much <lb/>
 to heart to <sic corr="promise">promis</sic> that you will give it a deliberate Consideration <lb/>
 In my Observations I think I was short in some things which I <lb/>
 <sic corr="believe">beleive</sic> upon your Perusal of the papers you will hardly <lb/>
 Slip over one is that in the Depositions of <abbr expan="Thomas">Thos.</abbr> Carr and others <lb/>
 that Were jury men when the line was made from the Cedar <add place="supralinear">in the law suit between <note target="n1">Allerton</note></add> and <lb/>
 <add place="supralinear">Newton  <del>as</del></add> were so hardly brought to agree to that Verdict do <del>without deposition</del><lb/>
-declare that <add place="supralinear">there was</add> no old lines <sic corr="shown">shewed</sic> to them nor any old markd tree <add place="supralinear">by Allerton</add> and <lb/>
+declare that <add place="supralinear">there was</add> no old lines <sic corr="shown">shewed</sic> to them nor any old <sic corr="marked">markd</sic> tree <add place="supralinear">by Allerton</add> and <lb/>
 that nothing Else <sic corr="Induced">Enduced</sic> them to agree to that Verdict at last but the <lb/>
 Surveys assuring them that Allerton by that Survey would have less <lb/>
 land than his <sic corr="patent">pattent</sic> gave him and this if I remember right <lb/>
 they all say</p>
 
 <p>you are <abbr expan="pleased">pleas'd</abbr> to desire my Custom for what Cash <lb/>
-I shall have Occasion to take up for bills of <abbr expan="Exchange">Excha.</abbr> at the Allowance <lb/>
+I shall have Occasion to take up for <note target="n2">bills of <abbr expan="Exchange">Excha.</abbr></note> at the Allowance <lb/>
 of 20 per <abbr expan="Cent">Ct</abbr> upon this <abbr expan="Encouragement">Encouragemt</abbr> I will have one two or Three <lb/>
 hundred pounds of you and I shall be willing to take the more if you <lb/>
 make no scruple to take some of the bills in <name type="city">Glasgow</name> I am 
 </p>
 
-<closer>Sir <lb/>
-<abbr expan="your">yr</abbr> most <abbr expan="oobedient">obt.</abbr> Humble Servant.
-<seg type="postscript"><lb/><lb/>If I should have Occasion to draw upon you before I see <corr resp="editor">[you]</corr> I hope <lb/>
-you will answer my <sic corr="note">noat</sic></seg></closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="your">yr</abbr> most <abbr expan="oobedient">obt.</abbr> Humble Servant.
+
+<seg type="postscript"><lb/><lb/>
+If I should have Occasion to draw upon you before I see <corr resp="editor">[you]</corr> I hope <lb/>
+you will answer my <sic corr="note">noat</sic>
+</seg>
+</closer>
 
 
 </div1>
@@ -158,8 +163,11 @@ you will answer my <sic corr="note">noat</sic></seg></closer>
 
 <note>The county and colony have been added for clarity to the  heading on the draft.</note>
 
-<note id="n1">[1] Willoughby Allerton (1664-1724) was a prominent citizen of Westmoreland County where he was burgess, sheriff, and militia officer.  (Allerton Genealogical Data at http://homepages.rootsweb.com/~edburton/fam03055.htm, 4/16/04; and <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 3[1705-1721]: 92,146,381,420. </bibl></cit>)</note>
+<note id="n1">[1] Willoughby Allerton (1664-1724) was a prominent citizen of Westmoreland County where he was burgess, sheriff, and militia officer.  (<cit><bibl><xref to="http://homepages.rootsweb.com/~edburton/fam03055.htm">Allerton Genealogical Data</xref> </bibl></cit> and <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 3[1705-1721]: 92,146,381,420. </bibl></cit>)</note>
 
+<note id="n2"> [2] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (See <cit><bibl><xref to="http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm">"Bill of Exchange"</xref> in the online Dictionary of Financial Scam Terms: the Truth vs. the Scam.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised June 16, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 </div1>

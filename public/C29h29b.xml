@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -117,17 +117,17 @@ Mr John Pemberton<lb/>
 
 
 <p><abbr expan="Captain">Capt</abbr> Ireland of your Port from James riv<lb/>
-er Came <sic corr="here">hither</sic> seeking freight I made a Possitive <abbr expan="agreement">agreemt.</abbr> with <lb/>
+er Came <sic corr="here">hither</sic> seeking freight I made a <sic corr="Positive">Possitive</sic> <abbr expan="agreement">agreemt.</abbr> with <lb/>
 him for Forty hogsheads he pretends he could not meet with a Sloop big eno:<lb/>
 ugh so I have got but 25 in him the rest of my <abbr expan="Tobacco">Tobo</abbr> is left <lb/>
-Herein comes a bill of Lading for 20 hogsheads of my own Concern You <lb/>
+Herein comes a <note target="n1">bill of Lading</note> for 20 hogsheads of my own Concern You <lb/>
 will have the accot from all parts of the Abundance of rains <lb/>
 that we have had this Summer all along many of the lowlands <lb/>
 quite drowned all great Sufferers the high lands Tobacco will be <lb/>
 very thin and light we reckon in General the Crops this year <lb/>
 will be very much Short of the last Which gives us hope Even the <abbr expan="tobacco">tobo</abbr> <lb/>
 <sic corr="already">allready</sic> gone will meet with a Much better market than the last did <lb/>
-the Liberty of Stemming for which we have now an <note target="n1">Act of <abbr expan="parliament">parliamt</abbr></note> 
+the Liberty of Stemming for which we have now an <note target="n2">Act of <abbr expan="parliament">parliamt</abbr></note> 
 
 <pb n="2"/><lb/><lb/>
 we are in Expectation will Contribute a great deal to <sic corr="lessening">lessning</sic> the <lb/>
@@ -138,8 +138,8 @@ Come by it will be very Acceptable for the Supply of my <sic corr="families">fam
 before this Winter sets in too hard I am 
 </p>
 
-<closer>Sir <lb/>
-your most humble Servt.</closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir  your most humble Servt.</closer>
 
 
 </div1>
@@ -157,10 +157,11 @@ your most humble Servt.</closer>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] Parliament had passed an act forbidding the importation of stemmed tobacco in 1722. John Randolph was sent to England in 1729 as agent for Virginia to try to have the act overturned; his mission was successful.<corr resp="editor"></corr> (<cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> [Newport News, VA: Mariners' Museum, 1953.] p. 116.</bibl></cit>)</note>
+ <note id="n1"> [1] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
+<note id="n2">[2] Parliament had passed an act forbidding the importation of stemmed tobacco in 1722. John Randolph was sent to England in 1728 as agent for Virginia to try to have the act overturned; his mission was successful, and he was home in the colony by <xref to="http://carter.lib.virginia.edu/html/C29f02a.html">June 2, 1729</xref>, when Carter wrote to welcome him home. (<cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> [Newport News, VA: Mariners' Museum, 1953], 116.</bibl></cit>)</note>
 
-
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised June 9, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 </div1>

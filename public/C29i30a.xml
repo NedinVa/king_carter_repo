@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -114,25 +114,29 @@
 </opener>
 
 <p>I am not fond of giving you any Unnecess<lb/>
-ary trouble however I have the honour <corr resp="editor">[to]</corr> be your <lb/>
+ary trouble however <del>as</del> I have the honour <corr resp="editor">[to]</corr> be your <lb/>
 County <abbr expan="Lieutenant">Lieut.</abbr> I cannot but think it my duty at least to put<lb/> 
 you in mind that as you are <del>Commander of the</del> <add place="supralinear"><abbr expan="Colonel">Colo</abbr> or <abbr expan="Lieutenant Colonel">Lieut Colo</abbr></add><lb/>
-<del>Militia in your County</del> <add place="supralinear">there </add>'Tis incumbent Upon you to have <lb/>
+<del>Militia in your County</del> <add place="supralinear"><del>residing</del> there </add><sic corr="Itis ">'Tis</sic> incumbent Upon you to have <lb/>
 a general Muster as the Law <del>in that Case</del> requires leaving <lb/>
-the time and place to your option I am 
-Sir 
-your most humble Servt.
- </p>
+the time and place to your option I am  </p>
 
-<closer>Sir<lb/> 
-your most humble Servt.
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir<lb/> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;your most humble Servt.
+
 <seg type="postscript"><lb/><lb/>
-<note n="RL">Lee</note> <note target="n1">Tayloe</note><lb/>
-<note target="n2">Mason</note>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<add place="supralinear">}<abbr expan="Colonels">Colos</abbr></add><lb/>
-<corr resp="editor">[...]</corr> Smith<lb/>
-		<corr resp="editor">[...]	</corr>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<add place="supralinear">}<abbr expan="Lieutenant Colonels">Lieut Colos</abbr></add>
 
-</seg></closer>
+<note n="RL">Lee</note> <note target="n1">Tayloe</note>    }<lb/>
+<note target="n2">Mason</note>}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<add place="supralinear">}  <abbr expan="Colonels">Colos</abbr></add><lb/>
+<lb/>
+<corr resp="editor">[ . . . ]</corr> Smith}<lb/>
+<corr resp="editor">[ . . . ]	</corr>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<add place="supralinear">}<abbr expan="Lieutenant Colonels">Lieut Colos</abbr></add><lb/>
+<corr resp="editor">[ . . . ]	</corr>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}
+
+
+</seg>
+</closer>
 
 
 </div1>
@@ -146,14 +150,16 @@ your most humble Servt.
 <div1 type="back matter">
 <head>NOTES</head>
 
-<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. This draft appears on the foot of a letter book page that bears above a letter dated 1729 August 27, and since this draft was to be the basis for several letters to be written during the month of September, presumably as the clerk had time, it has been given dated at the end of the month.</note>
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. This draft appears on the foot of a letter book page that bears above a letter dated August 27, 1729, and because this draft was to be the basis for several letters to be written during the month of September, as the clerk had time, it has been given a date at the end of the month.</note>
 
 <note> The county and colony have been added for clarity to the  heading on the draft.</note>
-
 
 <note id="n1">[1] John Tayloe (1687-1747) of Mt. Airy, Richmond County, who served as justice, burgess, colonel of militia, and as a member of the Council after 1732. (<cit><bibl n="B31">Ryland. <title>Richmond County Virginia. . . . </title> pp. 115-16.</bibl></cit>)</note>
 
 <note id="n2">[2] George Mason III (c. 1690-1735), justice, sheriff, burgess, and county lieutenant of Stafford County, father of the constitutional theorist. (<cit><bibl n="B24">Copeland and MacMaster, <title>The Five George Masons.</title> pp. 50-86</bibl></cit>; and <cit><bibl>George Harrison Sanford King, <title>The Register of Overwharton Parish Stafford County Virginia 1723-1758 And Sundry Historical and Genealogical Notes</title>. [Fredericksburg, VA: privately printed, 1961.]</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised June18, 2015.</hi></note>
+
 
 
 </div1>
