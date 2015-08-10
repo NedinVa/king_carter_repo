@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -129,21 +129,21 @@ ers. I must for the future desire what I have to be <sic corr="packed">packt</si
 safer way</p>
 
 <p>This comes by <note target="n1"><abbr expan="John">Jno</abbr> Russel</note> brings you a <lb/>
-bill of Lading for 10 <abbr expan="hogsheads">hhds</abbr> of <abbr expan="Tobacco">Tobo.</abbr>
+<note target="n2">bill of Lading</note> for 10 <abbr expan="hogsheads">hhds</abbr> of <abbr expan="Tobacco">Tobo.</abbr>
  made at two of my <lb/>
 plantations it is all to one <abbr expan="hogsheads">hhd</abbr>
  that 20 odd hands made <lb/>
 there are some <abbr expan="hogsheads">hhds</abbr> of it that are <sic corr="Stripped">Strip</sic> to promiscuously <lb/>
-into <note target="n2"><sic corr="Lugs.">Luggs.</sic></note> I chose it as the better way to Avoid Shipping the <lb/>
+into <note target="n3"><sic corr="Lugs.">Luggs.</sic></note> I chose it as the better way to Avoid Shipping the <lb/>
 <del>Crop</del> trash and I think I can demonstrate that it is provide<corr resp="editor">[d]</corr>  <lb/>
-people are <sic corr="Careful">Carefull</sic> when we had the liberty of stemming <lb/>
+people are <sic corr="Careful">Carefull</sic> when we had the <note target="n4">liberty of stemming</note> <lb/>
 before We used to manage our under <abbr expan="tobacco">tobo</abbr>
  this Way and I never <lb/>
 <sic corr="failed">faild</sic> to have less than a 1/2 and 3/4 more for it a pound than <lb/>
 for the best leaf</p>
 
-<p>herein I send you a bill of <abbr expan="exchange">Exch:</abbr> drawn by <lb/>
-<note target="n4">John Sharpley</note> on <abbr expan="your">yr</abbr> Self for &pound;5"1"3. which <sic corr="please">pleas</sic> to Accep<lb/>
+<p>herein I send you a<note target="n5"> bill of <abbr expan="exchange">Exch:</abbr></note> drawn by <lb/>
+<note target="n6">John Sharpley</note> on <abbr expan="your">yr</abbr> Self for &pound;5"1"3. which <sic corr="please">pleas</sic> to Accep<lb/>
 t or protest Pray remember my Accot Currt by Your Next <sic corr="although">altho</sic> by <lb/>
 a little reflection I may know how to Value my Self in <abbr expan="your">yr</abbr> books <lb/>
 I have <abbr expan="your">yr</abbr> favour in answer to mine from the freshes of our 
@@ -151,9 +151,9 @@ I have <abbr expan="your">yr</abbr> favour in answer to mine from the freshes of
 
 
 <pb n="2"/><lb/><lb/>
-<note target="n3">River</note> you give me no hopes of Sending me a Mason if you <lb/>
-could send me in good digger that hath been a Worker in the Copper <lb/>
-mines and knows how to follow a Vein under Ground it <lb/>
+<note target="n7">River</note> you give me no hopes of Sending me a Mason if you <lb/>
+could send me in good digger that <sic corr="has">hath</sic> been a Worker in the <note target="n8">Copper <lb/>
+mines</note> and knows how to follow a Vein under Ground it <lb/>
 will be of a great Service to us by the many signs we have met with &amp; <lb/>
 the <sic corr="Trials">Tryals</sic> we have made we have Certainly found a <abbr expan="piece">ps</abbr> of ground <lb/>
 That has Copper <del>mines</del> in it We have been at a Great deal of Charge <lb/>
@@ -165,13 +165,16 @@ Sons and my Self compose this Company you will go <lb/>
 near to have a <sic corr="joint">joynt</sic> letter from us upon this Affair I am 
 </p>
 
-<closer>Sir<lb/> 
-Yor most Humble Servant
-<seg type="postscript"><lb/><lb/><sic corr="Enclosed">Enclosd</sic> is likewise a bill of Exchange drawn by <abbr expan="Captain">Capt</abbr> <lb/>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir<lb/> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor most Humble Servant<lb/><lb/>
+<seg type="postscript">
+<sic corr="Enclosed">Enclosd</sic> is likewise a bill of Exchange drawn by <abbr expan="Captain">Capt</abbr> <lb/>
 John Russel on <abbr expan="your">yr</abbr> self for &pound;4"19<lb/>
 4 letter<lb/>
 Russel
-</seg></closer>
+</seg>
+</closer>
 
 
 </div1>
@@ -189,13 +192,23 @@ Russel
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. That address as well as the  county and colony have been added for clarity.</note>
 
-<note id="n1">[1] John Russell commanded the <hi rend="italics">Portland,</hi> a vessel owned by Weymouth merchant Edward Tucker. (<cit><bibl>Survey Report 9729 detailing the Weymouth Port Books, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n1">[1] John Russell commanded the <hi rend="italics">Portland,</hi> a vessel owned by Weymouth merchant Edward Tucker as is noted in a letter from <xref to="http://carter.lib.virginia.edu/html/C27f28g.html">Carter to Tucker,</xref> June 28 and July 25, 1727. (<cit><bibl>Survey Report 9729 detailing the Weymouth Port Books, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
-<note id="n2">[2]  "The lowest grade [of tobacco] was known as lugs as early as 1686. . . ." (<cit><bibl>Philip A. Bruce. <title>Economic History of Virginia in the Seventeenth Century: An Inquiry into the Material Condition of the People, Based on Original and Contemporaneous Records.</title> [New York: MacMillan and Co., 1896]. p. 422 online at "Classics of American Colonial History." http://www.dinsdoc.com/bruce-1-1.htm</bibl></cit>) </note>
+ <note id="n2"> [2] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
-<note id="n3">[3] The Rappahannock</note>
+<note id="n2">[2]   "The lowest grade [of tobacco] was known as lugs as early as 1686. . . ." (<cit><bibl>Philip A. Bruce. <title>Economic History of Virginia in the Seventeenth Century: An Inquiry into the Material Condition of the People, Based on Original and Contemporaneous Records.</title> [New York: MacMillan and Co., 1896], I:442 online at <xref to="Ext14">"Classics of American Colonial History."</xref> http://www.dinsdoc.com/bruce-1-7.htm</bibl></cit>) </note>
 
-<note id="n4">[4] John Shapley was made a justice in Northumberland County in 1725. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>,  4[1721-1739]: 82.</bibl></cit>)</note>
+ <note id="n4">[4] Parliament had passed an act forbidding the importation of stemmed tobacco in 1722. John Randolph was sent to England in 1728 as agent for Virginia to try to have the act overturned; his mission was successful, and he was home in the colony by <xref to="http://carter.lib.virginia.edu/html/C29f02a.html">June 2, 1729</xref>, when Carter wrote to welcome him home. (<cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> [Newport News, VA: Mariners' Museum, 1953], 116.</bibl></cit>)</note>
+
+<note id="n5"> [5] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (See <cit><bibl><xref to="http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm">"Bill of Exchange"</xref> in the online Dictionary of Financial Scam Terms: the Truth vs. the Scam.</bibl></cit>)</note>
+
+<note id="n6">[6] John Shapley was made a justice in Northumberland County in 1725. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>,  4[1721-1739]: 82.</bibl></cit>)</note>
+
+<note id="n7">[7] The Rappahannock</note>
+
+ <note id="n8">[8]  In 1728, Carter, his sons Robert and Charles, and his son-in-law Mann Page,  organized a company they named Frying Pan to mine for copper on a tract of some 27,000 acres that Louis Morton describes as lying "near the present boundary of Fairfax and Loudoun counties." Fairfax Harrison wrote that the tract was "on the  Horsepen of Broad." Today, there is a Frying Pan Park just east of the border of the Dulles Airport reservation, and there are other things with the name in the area. The company was not successful. (<cit><bibl n="B32">Morton. <title>Robert Robert Carter of Nomini Hall.</title> pp. 18-19;</bibl></cit> and <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> p. 342. </bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised August 6, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 </div1>
 </back>

@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -94,7 +94,7 @@
 <title>Letter from Robert Carter to William Camp, November 20, 1729</title>
 </bibl>
 </head>
-<p>Robert Carter writes to William Camp, the manager of the Burwell estate's and his own properties in the Gloucester and York counties area, November 20, 1729, to examine land at Arnold's Ferry that he is to purchase from Major Robinson and that is to  be divided between Mrs. Robinson and her sister.</p>
+<p>Robert Carter writes to William Camp, the manager of the Burwell estates and his own properties in the Gloucester and York counties area, November 20, 1729, to request that he examine land at Arnold's Ferry that Carter is to purchase from Major Robinson and that is to  be divided between Mrs. Robinson and her sister. Camp is to advise Colonel Braxton, Carter's agent in the matter.</p>
 </div1>                 
 </front>
 
@@ -119,7 +119,7 @@ Wm Camp&mdash;<lb/>
 <p>This Day I <abbr expan="received">recd</abbr> a letter from <note target="n2"><abbr expan="Major">Majr.</abbr> Kemp</note> fixing the time for <lb/>
 Dividing the Land at <note target="n3">Arnolds ferry</note> between the two Sisters <note target="n4">Mrs. Wormeley</note> <lb/>
 &amp; Mrs. Robinson Mr. Kemp is to Act in behalf of Mrs. Wormeley <note target="n5">Mr Robin<corr resp="editor">[son]</corr></note> <lb/>
-hath promised to be there &amp; to take as much care of his wifes interest in the <lb/>
+<sic corr="has">hath</sic> promised to be there &amp; to take as much care of his wifes interest in the <lb/>
 Division as if he was to keep the Land. a <abbr expan="Surveyor">Surveyr.</abbr> is to run Round the bound<corr resp="editor">[s]</corr> <lb/>
 of it &amp; then to run a Dividing line the choice after the Division is to be deter<lb/>
 -mined by lot I have <sic corr="written">writ</sic> to <note target="n6"><abbr expan="Colonel">Col</abbr> Braxton</note> to appear as my friend in this <lb/>
@@ -129,16 +129,16 @@ You may be able fully to advise <abbr expan="Colonel">Col.</abbr> Braxton you kn
 River Landing an equal share of the best of the Land an equal Share of the <lb/>
 Timber &amp; an equal share of the uncleared Grounds with an equal Share of <lb/>
 The buildings, the pasture grounds the Marshes &amp; the other valuable convenien<lb/>
--ces The patent is for a thousand Acres <abbr expan="Major">Majr.</abbr> Robinson undertakes it shall <lb/>
+-ces The <note target="n7">patent</note> is for a thousand Acres <abbr expan="Major">Majr.</abbr> Robinson undertakes it shall <lb/>
 hold out tht. at least he reckons there is a hundred or two hundred Acres more <lb/>
 its highly Necessary the dividing line tht. is made Should be well &amp; plainly <lb/>
 Marked but tht. I suppose everybody will be for</p>
 
 <p>I doubt not you will use your utmost diligence &amp; dexterity <lb/>
-in this affair in which you will much oblige 
-</p>
+in this affair in which you will much oblige</p>
 
-<closer>Your friend</closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your friend</closer>
 
 
 </div1>
@@ -156,17 +156,23 @@ in this affair in which you will much oblige
 
 <note>The county and colony have been added for clarity to the heading on this draft.</note>
 
-<note id="n1">[1] William Camp (Kemp) was described by Carter as "the General Overseer of Mr Burwell's Affairs" and he wrote that Camp earned a salary "&pound;50 . . . for the year 1731." Carter and his son-in-law, Mann Page, were the trustees of Nathaniel Burwell's children after Burwell's death in 1721. Camp was a resident of Gloucester County where most of the Burwell estates lay, and he must also have supervised "Rippon Hall" in nearby York County. (Carter to George Braxton, 1729 November 20, and Carter to William Dawkins,1732  July 11. <cit><bibl><title>Virginia Tax Records.</title> [Baltimore: Genealogical Publishing Company, Inc., 1983.] p. 539.</bibl></cit>)</note>
+<note>See <xref to="http://carter.lib.virginia.edu/html/C29k20a.html">Carter's letter</xref> to George Braxton of the same date on thiss matter.</note>
+
+<note id="n1">[1] William Camp (Kemp) was described by Carter as "the General Overseer of Mr Burwell's Affairs" and he wrote that Camp earned a salary "&pound;50 . . . for the year 1731." Carter and his son-in-law, Mann Page, were the trustees of Nathaniel Burwell's children after Burwell's death in 1721. Camp was a resident of Gloucester County where most of the Burwell estates lay, and he must also have supervised "Rippon Hall" in nearby York County. (<cit><bibl>Carter to George Braxton, <xref to="/users/berkeley/public/C29k20a.xml">November 20, 1729</xref>,</bibl></cit> and <cit><bibl>Carter to William Dawkins, <xref to="/users/berkeley/public/C32g11a.xml">July 11, 1732,</xref></bibl></cit> and <cit><bibl><title>Virginia Tax Records.</title> [Baltimore: Genealogical Publishing Company, Inc., 1983.] p. 539.</bibl></cit>) </note>
 
 <note id="n2">[2] Matthew Kemp was a successful merchant in Middlesex County where he was also a justice, militia officer, and sheriff. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]: lv, 12, 107, 200, 205. </bibl></cit> See also numerous references in <cit><bibl n="B39">Rutman and Rutman, <title>A Place in Time: Middlesex. . . . </title></bibl></cit>)</note>
 
-<note id="n3">[3] On the Fry-Jefferson map, Arnold's Ferry crosses the Mattaponi River between King William and King and Queen counties.</note>
+<note id="n3">[3] On the Fry-Jefferson map, Arnold's Ferry crosses the Mattaponi River between King William and King and Queen counties. It is a few miles up the Mattaponi from Newington, Braxton's home.</note>
 
-<note id="n4">[4] This may be Elizabeth Wormeley, widow of John Wormeley (1689-1727) whose maiden name is unknown.</note>
+<note id="n4">[4] This may be Elizabeth (Tayloe) Wormeley, widow of John Wormeley (1689-1727).</note>
 
 <note id="n5">[5] A Benjamin Robinson was sheriff of Essex County in 17724 and 1725. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]: 66, 86, 117. </bibl></cit>)</note>
 
 <note id="n6">[6] George Braxton I (c.1677-1746) of Newington, King and Queen County, successful merchant, justice, militia officer, and burgess. (<cit><bibl n="B42">Kneebone <hi rend="italics"> et al.</hi>  <title> Dictionary of Virginia Biography.</title> 2: 204-5.</bibl></cit>)</note>
+
+<note id="n7">[7]  In North American law, a patent is "a territory, district, or piece of land conferred by letters patent" which were "originally: an open letter or document. . .  issued by a monarch or government to record a contract, authorize or command an action, or confer a privilege, right, office, title, or property."   (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised July 14, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 </div1>

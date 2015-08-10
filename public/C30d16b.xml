@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -107,7 +107,7 @@
 <dateline>
 <pb n="1"/>
 <name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
-<date value="1730-04-16">April 16.. 1730</date><lb/>
+<date value="1730-04-16">April 16. 1730</date><lb/>
 Mr: William Dawkins<lb/>
 </dateline>
 <salute>Sir</salute>
@@ -124,7 +124,7 @@ them round they are the best has fallen to my <sic corr="Lot">Lott</sic> for tha
 <p>	I have <abbr expan="received">receiv'd</abbr> my goods in good condition the <note target="n1"><name type="ship">Bailey</name></note><lb/>
 <abbr expan="arrived">arriv'd</abbr> this day three Weeks all that I shall be able to load upon her this year<lb/>
 will be between 50 and 70 <abbr expan="hogsheads">hhds</abbr> how he will come off himself does not yet<lb/>
-Know We have little outport trade yet the Scotch talk of a great many<lb/>
+Know We have little <note target="n2">outport trade</note> yet the Scotch talk of a great many<lb/>
 fewer ships to come from thence than Usual this probably will very<lb/>
 much help the Londoners the masters are driving about after freight 
 
@@ -133,19 +133,19 @@ all the Country over if there be any regard to report<corr resp="editor">[s]</co
 of Virginia and Maryland you may depend upon a Very short crop<lb/>
 I cannot reckon there will be so much by at least 10,000 <abbr expan="hogsheads">hhds</abbr> as went<lb/>
 out <add place="supralinear">from Virginia</add> Last year for my own part I have Concerns in all our rivers &amp;<lb/>
-<sic corr="pretty">pritty</sic> large ones at the Falls of this I am sure I shall fall short of<lb/>
+<sic corr="pretty">pritty</sic> large ones at the Falls of this <add resp="editor">[river]</add>3I am sure I shall fall short of<lb/>
 500 <add place="supralinear"><abbr expan="weight">wt</abbr></add> of <abbr expan="tobacco">tobo</abbr> per share considerably less than I made in the <note target="n2"><sic corr="last">gust</sic></note> year</p>
 
 <p>In yours of the 24th of <abbr expan="January">Janry</abbr> by the <name type="ship">Haswell,</name> you tell me you<lb/>
-had sold some of my <abbr expan="tobacco">tobo</abbr> at 8 1/2 my letters by that ship advise me<lb/>
+had sold some of my <abbr expan="tobacco">tobo</abbr> at 8 1/2 <abbr expan="pence">d</abbr> my letters by that ship advise me<lb/>
 that the market was rising I am in hopes you will be able to advance<lb/>
 the price for what of my tobacco remains unsold you are not<lb/>
 <sic corr="unsensible">unsencible</sic> of the Vast Expence we live at Small crops poor <sic corr="pric=">priz=</sic><lb/>
-es great <sic corr="Salaries">Salarys</sic> and great <sic corr="mortailities">mortailitys</sic> and less for the maintainan<add place="supralinear">ce </add><lb/>
+es great <sic corr="Salaries">Salarys</sic> and great <sic corr="mortalities">mort4litys</sic> and less for the maintainan<add place="supralinear">ce </add><lb/>
 of my <sic corr="Families">Familys</sic> I cannot Subsist with I can too truely say I grow poorer<lb/>
 and poorer Every Year I live</p>
 
-<p>The death of <note target="n3">Mr Falconar</note> fills me full of doubts what is to be=<lb/>
+<p>The death of <note target="n4">Mr Falconar</note> fills me full of doubts what is to be=<lb/>
 come of my Affairs in his hands his Son here tells me himself and 2<lb/>
 very Substantial honest men in <name type="city">London</name> are his fathers Executors<lb/>
 and promises me all imaginable justice Pressing me Strongly to con <lb/>
@@ -153,23 +153,23 @@ tinue my business to him he seems to be an ingenious man for his years<lb/>
 but old heads are not to be found upon young Shoulders I cannot think it<lb/>
 prudent to continue my Correspondence with that house <sic corr="until">till</sic> I see what<lb/>
 Course the young man will steer and I cannot think of any friend I<lb/>
-have in London so proper to intrust this Affair to as yourself &amp;<lb/>
+have in London so proper to <sic corr="entrust">intrust</sic> this Affair to as yourself &amp;<lb/>
 hope you will serve me in it both strenuously and with diligence<lb/>
-Accordingly I send you inclosed a letter to Mr Falconars Executors<lb/>
+Accordingly I send you <sic corr="enclosed">inclosed</sic> a letter to Mr Falconars Executors<lb/>
 Whereby to demand of them an Accot of my Concerns and to receive<lb/>
 of them the money that is due to me from Mr Falconar upon his<lb/>
 accot <sic corr="Current">Currant</sic> and also the produce of certain quantities <add place="supralinear">of <abbr expan="tobacco">tobo</abbr></add> that were 
 
 <pb n="3"/><lb/><lb/>
-<add place="supralinear">just sold &amp;</add> to sell at the writing of his last letter he hath sent me two Accounts<lb/>
+<add place="supralinear">just sold &amp;</add> to sell at the writing of his last letter he <sic corr="has">hath</sic> sent me two Accounts<lb/>
 <abbr expan="Currents">Curtts</abbr> of late the first of them Bears date June 10th.. 1728. In this<lb/>
-account his ballance in my favour is &pound;1121"9"8 herein he gives<lb/>
-me Credit for 13 hogsheads by <note target="n4">James Hopkins</note> 20 hogsheads  by <note target="n5">George Buckr=<lb/>
+account his <sic corr="balance">ballance</sic> in my favour is &pound;1121"9"8 herein he gives<lb/>
+me Credit for 13 hogsheads by <note target="n5">James Hopkins</note> 20 hogsheads  by <note target="n6">George Buckr=<lb/>
 idge</note> and 17 hogsheads by <note n="CS">Thomas Dove</note> this <abbr expan="tobacco">tobo</abbr> was sold the 16th<lb/>
 of April 1728. He sends me another account Currt date June<lb/>
-14th 1729 the ballance due to me in that Accot is &pound;1099"12"1<lb/>
-In that accot he gives me Credit for 8 <abbr expan="hogsheads">hhds</abbr> by <note target="n6">James Bradby</note> for<lb/>
-20 by <note target="n7">Peter Wills</note> and for 10 hogsheads by Ditto</p>
+14th 1729 the <sic corr="balance">ballance</sic> due to me in that Accot is &pound;1099"12"1<lb/>
+In that accot he gives me Credit for 8 <abbr expan="hogsheads">hhds</abbr> by <note target="n7">James Bradby</note> for<lb/>
+20 by <note target="n8">Peter Wills</note> and for 10 hogsheads by Ditto</p>
 
 <p>In his letter of the 29th of September 1729 is this follow <lb/>
 in<corr resp="editor">[g]</corr> clause "The 11th of April 1728 I sold 29 <abbr expan="hogsheads">hhds</abbr> of tobacco to Alderm<lb/>
@@ -285,25 +285,27 @@ Street
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] The <hi rend="italics">Bailey</hi> was a London ship owned by William Dawkins and commanded at various times by Adam Graves (1725-1730) and by Thomas Dove (1731-1732). She was a vessel of some 250 tons and carried 15-17 crew members. (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, 156v, and other data in Adm. 68/194 and /196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> A letter of Carter's executors to Dawkins 1738 May 10 refers to "your ship Bailey.")</note>
+<note id="n1">[1] The <hi rend="italics">Bailey</hi> was a London ship owned by William Dawkins and commanded at various times by Adam Graves (1725-1730) and by Thomas Dove 1730-1732. She was a vessel of some 250 tons and carried 15-17 crew members. (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, 156v, and other data in Adm. 68/194 and /196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> A letter of Carter's to Dawkins <xref to="http://carter.lib.virginia.edu/html/C32e12b.html">May 12, 1732,</xref> refers to "your ship Bailey." as does a letter of August 10, 1733, from Carter's executors to Dawkins. [<cit><bibl>Lloyd T. Smith, Jr., <hi rend="italics">ed.</hi> <title>The Executors' Letters of Robert Carter of Corotoman, 1732-1738. </title> (Irvington, VA: Foundation for Historic Christ  Church, 2010) p. 76].</bibl></cit>)</note>
 
-<note id="n2">[2] While the clerk clearly wrote down "gust," either his or Carter's attention must have been straying. In the context of the letter, "last" was what was intended. No use of "gust" for "last" appears in the <hi rend="italics">Oxford English Dictionary.</hi></note>
+<note id="n2">[2] Out port means "a port outside a particular place; any port other than the main port of a country, etc.; spec[ically]. a British port other than London."   (<cit><bibl><title>Oxford English Dictionary Online </title></bibl></cit>)</note>
 
-<note id="n3">[3] John Falconar (d. <hi rend="italics">ca.</hi> 1729) was a London merchant with whom Carter dealt. In 1728, Falconar and Henry Darnell formed an association of 29 London tobacco merchants to deal with the French tobacco purchasing agent as a group in order to keep the price as high as possible. The association lasted only lasted a year or two before dissolving because some of its members were dealing directly with the French agent and selling below the agreed-upon price. (See Carter to William Dawkins, and Carter to Falconar's executors, both 1730 April 16, for Falconar's death date. <cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> Newport News, VA: Mariners' Museum, 1953. p. 129</bibl></cit>)</note>
+<note id="n3">[3] While the clerk clearly wrote down "gust," either his or Carter's attention must have been straying. In the context of the letter, "last" was what was intended. No use of "gust" for "last" appears in the <hi rend="italics">Oxford English Dictionary.</hi></note>
 
-<note id="n4">[4] Captain James Hopkins commanded the <hi rend="italics">Mary</hi> in 1727-1728. He was then working for London merchant Robert Cary. He is mentioned in Carter's diary. (<cit><bibl>Adm. 68/194, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n4">[4] John Falconar (1677-1729) was a London merchant with whom Carter dealt. He apparently was in  New Jersey and Maryland, 1699-1705. In 1728, Falconar and Henry Darnell formed an association of 29 London tobacco merchants to deal with the French tobacco purchasing agent as a group in order to keep the price as high as possible. The association lasted only lasted a year or two before dissolving because some of its members were dealing directly with the French agent and selling below the agreed-upon price. (See <xref to="http://carter.lib.virginia.edu/html/C27g24d.html">Carter's letter to Falconar </xref> of July 24 and August 22, 1727, for details about the payment of &pound;200 to him. See <xref to="http://carter.lib.virginia.edu/html/C30d16b.html">Carter to William Dawkins,</xref> for Falconar's death date.  <cit><bibl>"<xref to="http://archiver.rootsweb.ancestry.com/th/read/GEN-MEDIEVAL/2010-11/1289784273">GEN-MEDIEVAL</xref>-L Archives" on Rootsweb, 8/10/2015</bibl></cit>; and  <cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> Newport News, VA: Mariners' Museum, 1953. p. 129</bibl></cit>)</note>
 
-<note id="n5">[5] The <hi rend="italics">Marlborough</hi> was a vessel of 100 tons and 14 men, commanded by George Buckeridge (Buckbridge). In a letter to London merchant John Falconar 1727 July 24, Carter refers to this vessel as "yor. Marlborrough." (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n5">[5] Captain James Hopkins commanded the <hi rend="italics">Mary</hi> in 1727-1728. He was then working for London merchant Robert Cary. He is mentioned in Carter's diary. (<cit><bibl>Adm. 68/194, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
-<note id="n6">[6] Captain James Bradby commanded the <hi rend="italics">Micajah and Philip. </hi>(<cit><bibl>Survey report 6801 summarizing Adm. 68/195, ff. 74v, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n6">[6] The <hi rend="italics">Marlborough</hi> was a vessel of 100 tons and 14 men, commanded by George Buckeridge (Buckbridge). In a letter to London merchant John Falconar<xref to="http://carter.lib.virginia.edu/html/C27g24d.html"> July 24,  1727,</xref> Carter refers to this vessel as "yor. Marlborrough." (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
-<note id="n7">[7] Captain Peter Wills commanded the  <hi rend="italics">Booth</hi> in 1723-1724, and the <hi rend="italics">Amity,</hi> a vessel of 500 tons and 21 men,  in 1727-1729. He is mentioned in Carter's diary for June 1723.  (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194, and Survey Report 6801 summarizing Adm. 68/195,Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n7">[7] The <hi rend="italics"> Micajah &amp; Philip</hi> was a large vessel of some 400 tons carrying a crew of 27. The captain's name varies from record to record as James Bradley or James Bradby. Thomas Jones wrote to his wife, then in England, concerning this ship in 1728, "The Micajah &amp; Philip that comes to James River is as good as the best Ships that Comes hither, but Bradby the master seems to be a little conceited and prodigal." (<cit><bibl>Adm. 68/194-196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia</bibl></cit>; and <cit><bibl><title>Virginia Magazine of History and Biography.</title> 26[1918]: 172, abstracting the Jones Papers at the Library of Congress .</bibl></cit>)</note>
+
+<note id="n8">[8] Captain Peter Wills commanded the  <hi rend="italics">Booth</hi> in 1723-1724, a ship belonging to merchant Thomas Colmore of London (see Carter's <xref to="/users/berkeley/public/C24a29a.xml">letter</xref> to Colmore of January 20 and February 15, 1724), and the <hi rend="italics">Amity,</hi> a vessel of 500 tons and 21 men,  in 1727-1729. He is mentioned in Carter's diary in 1723. (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194, and Survey Report 6801 summarizing Adm. 68/195, Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
 <note id="n8">[8]  "The lowest grade [of tobacco] was known as lugs as early as 1686. . . ." (Philip A. Bruce. <title>Economic History of Virginia in the Seventeenth Century: An Inquiry into the Material Condition of the People, Based on Original and Contemporaneous Records.</title> [New York: MacMillan and Co., 1896]. p. 422 online at "Classics of American Colonial History." http://www.dinsdoc.com/bruce-1-1.htm) </note>
   
-<note id="n9">[9] Carter and Thomas Wise had "traded with each other in tobacco and bills of exchange between 1707 and 1717," but Wise "neglected his duty in returning those bills that were protested." Carter sued Wise in England to recover his money, and he won &pound;180. (<cit><bibl>Survey Report 10147 describing C24/1398 part 1, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia;</bibl></cit> and letter of 1723 August 19, Carter to Micajah Perry</note>
+<note id="n9">[9] Carter and Thomas Wise had "traded with each other in tobacco and bills of exchange between 1707 and 1717," but Wise "neglected his duty in returning those bills that were protested." Carter sued Wise in England to recover his money, and he won &pound;180. (<cit><bibl>Survey Report 10147 describing C24/1398 part 1, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia;</bibl></cit> and letter of <xref to="http://carter.lib.virginia.edu/html/C23h19a.html">August 19,1723</xref>,  Carter to Micajah Perry.)</note>
 
-<note id="n10">[10] Captain Loxom commanded  a vessel named the <hi rend="italics"> Loyalty</hi>in 1729-1730. (Survey Report 9727, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. See Carter's letters to John Pemberton 1730 April 15 and 1731 August 4.)</note>
+<note id="n10">[10] Captain Loxom commanded  a vessel named the <hi rend="italics"> Loyalty</hi>in 1729-1730. (Survey Report 9727, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. See Carter's letters to John Pemberton <xref to="/users/berkeley/public/C30d15c.xml">April 15,1730</xref> and <xref to="/users/berkeley/public/C31h04a.xml"> August 4, 1731</xref>.)</note>
 
 <note id="n11">[11] The <hi rend="italics">Rebecca </hi> was probably a London Ship; she was of 300 tons, had a crew of 11, and was commanded by Samuel Malbon in 1731. (<cit><bibl>Adm. 65/195, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 

@@ -11,7 +11,7 @@
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
 <!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
-<TEI.2 id="C300415a">
+<TEI.2 id="C30d15a">
 
 
 <teiHeader type="aacr2">
@@ -34,12 +34,12 @@
 <publicationStmt>
      <publisher>University of Virginia Library.</publisher>
      <pubPlace>Charlottesville, Va.</pubPlace>
-     <idno type="ETC">C300415a.xml</idno>
+     <idno type="ETC">C30d15a.xml</idno>
      <availability>
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -81,7 +81,7 @@
 
 </teiHeader>
 
-<text id="C300415aT">
+<text id="C3d415aT">
 
 <front>
 <div1 type="summary" n="1">
@@ -90,7 +90,7 @@
 <abbr>AL</abbr>
 <extent> p.</extent>
 <date value="1730-04-15"></date>
-<idno rend="suppress">C300415a.xml</idno>
+<idno rend="suppress">C30d15a.xml</idno>
 <title>Letter from Robert Carter to John Pemberton and Company, April 15, 1730</title>
 </bibl>
 </head>
@@ -108,8 +108,8 @@
 <pb n="1"/>
 <name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
 <date value="1730-04-15">April 15. 1730</date><lb/>
-Mr. John Pemberton &amp; Compa<lb/>
-Freightr: of the Ship Rose
+Mr. John Pemberton &amp; Compa}<lb/>
+Freightr: of the Ship Rose}
 </dateline>
 
 
@@ -122,27 +122,30 @@ per <note target="n1"><abbr expan="Captain">Capt</abbr> Loxam</note> owning the 
 and the payment of the money I had <abbr expan="ordered">order'd</abbr> you in the hands <lb/>
 of Mr Pemberton for the three protested bills. also you acquain<lb/>
 t me with the receipt of the two <abbr expan="hogsheads">hhds</abbr> sent in Ireland which <lb/>
-were upon the Accot of your goods left with me by <abbr expan="Captain">Capt</abbr> <lb/>
-Christian and made up Six <abbr expan="hogsheads">hhds</abbr> on that Accot <del>Marked</del> <add place="supralinear">N<corr resp="editor">[umber]</corr>s  per</add> letters <lb/>
+were upon the Accot of your goods left with me by<note target="n2"> <abbr expan="Captain">Capt</abbr> <lb/> Christian</note> and made up Six <abbr expan="hogsheads">hhds</abbr> on that Accot <del>Marked</del> <add place="supralinear">N<corr resp="editor">[umber]</corr>s  per</add> letters <lb/>
 the rest of them goods I have lately sold <add place="supralinear">at a lump</add> to Mr <note target="n2">Thomas Edwards </note><lb/>
 they amount to between 5 &amp; 6000 pounds of <abbr expan="tobacco">tobo</abbr> he is to pay me this <lb/>
-year I hope to get it of him to ship in <note target="n3">Breakhill</note> for you</p>
+year I hope to get it of him to ship in <note target="n4">Breakhill</note> for you</p>
 
 <pb n="2"/><lb/><lb/>
-	<p>In mine of the 20th of June I acquainted Mr Pemberton <lb/>
-the ballance of your negroe Concern was two thousand and eig<lb/>
-hty one pounds of tobacco herein I send you a bill of Lading for <lb/>
+<p>In mine of the <xref to="http://carter.lib.virginia.edu/html/C29d11e.html"> 20th of June</xref> I acquainted Mr Pemberton <lb/>
+the <sic corr="balance">ballance</sic> of your negroe Concern was two thousand and eig<lb/>
+hty one pounds of tobacco herein I send you a <note target="n5">bill of Lading</note> for <lb/>
 2 hogsheads weighing neat with the Allowance of Cask 1973. In the <name type="ship">Loyalty</name> <lb/>
 <abbr expan="Captain">Capt</abbr> Loxum which Ballances that Concern to <del>109</del> a parcel of <lb/>
-109 pounds <abbr expan="Tobacco">Tobo</abbr> there is due to the Receivers for a <sic corr="ppretty">pritty</sic> deal of the <lb/>
+109 pounds <abbr expan="Tobacco">Tobo</abbr> there is due to the <note target="n6">Receivers</note> for a <sic corr="pretty">pritty</sic> deal of the <lb/>
 <abbr expan="tobacco">tobo</abbr> of your Concern which I shall send you in my next One <lb/>
-of the Receivers being dead I cannot send you The Accot at Present<lb/> 
-I am 
-</p>
+of the Receivers being dead I cannot send you The Accot at Present<lb/>
+1st letter<lb/></p> 
 
-<closer>Gentlemen Your most humble Servant
-<seg type="postscript"><lb/><lb/>1st letter<lb/>
-per Loxum</seg></closer>
+
+<closer>
+I am 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gentlemen Your most humble Servant
+<seg type="postscript"><lb/><lb/>
+
+per Loxum</seg>
+</closer>
 
 
 </div1>
@@ -160,18 +163,21 @@ per Loxum</seg></closer>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note>Carter had acted beginning in the fall of 1727 as local agent for the sale of slaves from the ship <hi rend="italics">Rose</hi> owned by Pemberton and some of the merchant's partners. Concluding the financial details of the sale extended over serveral years. See Carter's letter to Pemberton of 1727 September 16 which notes the beginning of the arrangement. Details are mentioned in numerous letters to Pemberton thereafter.</note>
+<note>Carter had acted beginning in the fall of 1727 as local agent for the sale of slaves from the ship <hi rend="italics">Rose</hi> owned by Pemberton and some of the merchant's partners. Concluding the financial details of the sale extended over serveral years. See <xref to="http://carter.lib.virginia.edu/html/C27i16a.html">Carter's letter</xref> to Pemberton of September 16, 1727, which notes the beginning of the arrangement. Details are mentioned in numerous letters to Pemberton thereafter.</note>
 
-<note id="n1">[1] Several vessels named <hi rend="italics">The Loyalty</hi> sailed to Virginia. Captain Loxom commanded  a vessel of this name in 1729-1730 as did James Tarleton in 1731. (Survey Report 9727, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. See Carter's letter to John Pemberton1731 August 4.)</note>
+<note id="n1">[1] Several vessels named <hi rend="italics">The Loyalty</hi> sailed to Virginia. One commanded by Francis Wallis cleared from Poole for Virginia in 1726. Captain Loxom commanded  a vessel of this name in 1729-1730 as did James Tarleton in 1731. (Survey Report 9727, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. See Carter's letters to John Pemberton <xref to="/users/berkeley/public/C30d15c.xml">April 15,1730</xref> and <xref to="/users/berkeley/public/C31h04a.xml">1731 August 4</xref>.)</note>
 
-<note id="n2">[2] "Thos. Edwards, a little petty Fogging Lawyer the Clark of our
-County that hath as much Mettle and more cunning for Contention then his predecessor had" Carter wrote
-to Landon Jones, July 22, 1723. His opinion of Edwards later changed for there are more appreciative mentions of him in Carter's diary. Edwards was clerk of the Lancaster County court from 1720-1746. (<cit><bibl><title>Within the Court House at Lancaster.</title> Lively, VA: Lively Printing Services, Lively, VA: Lively Printing Services, [1976]. p. 15.</bibl></cit>; and "Thomas Edwards, Gentleman, Clerk of the Court." <cit><bibl n="B8">Brown. <title>Virginia Baron. . . .</title> pp. 94-103.</bibl></cit>)</note>
+<note id="n2">[2] James Christian was captain of the <hi rend="italics">Rose.</hi> (See <xref to="http://carter.lib.virginia.edu/html/C30d15a.html">Carter to Pemberton,</xref> April 15, 1730.)  </note>
 
-<note id="n3">[3] There  were several vessels with the name <hi rend="italics">Rappahannock.</hi> Carter's letters mention a Captain Hugh Brackhill in 1728-1729, and Captain Loxum in 1733. (<cit><bibl>Adm. 68/194, ff.30, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n3">[3] "Thos. Edwards, a little petty Fogging Lawyer the Clark of our County that hath as much Mettle and more cunning for Contention then his predecessor had" Carter wrote to Landon Jones, <xref to="/users/berkeley/public/C23g22b.xml">July 22, 1723.</xref> His opinion of Edwards later changed for there are more appreciative mentions of him in Carter's diary. Edwards was clerk of the Lancaster County court from 1720-1746. (<cit><bibl><title>Within the Court House at Lancaster.</title> Lively, VA: Lively Printing Services, Lively, VA: Lively Printing Services, [1976]. p. 15.</bibl></cit>; and "Thomas Edwards, Gentleman, Clerk of the Court" in <cit><bibl n="B43">Brown and Sorrells. <title>People in Profile.</title> pp. 94-103.</bibl></cit>)</note>
 
+<note id="n4">[4] There  were several vessels with the name <hi rend="italics">Rappahannock</hi>.  Carter's letters mention a Captain Hugh Brackhill in 1728-1729, and Captain Loxum in 1732. (<cit><bibl>Adm. 68/194, ff.30, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
+<note id="n5"> [5] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
+<note id="n6">[6]  The recever was an officer appointed to serve under the authority of the Receiver-General of the colony to collect "the export duty of two shillings per hogshead on tobacco, the one penny per pound on tobacco exported from Virginia . . . ." <cit><bibl>(Percy Scott Flippin. <title>The Financial Administration of the Colony of Virginia</title> [Johns Hopkins Press, 1915.] 41-42.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised July 21, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 </div1>
 </back>

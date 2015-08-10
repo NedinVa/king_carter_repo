@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -88,7 +88,7 @@
 <head>
 <bibl>
 <abbr>AL</abbr>
-<extent> p.</extent>
+<extent>1 p.</extent>
 <date value="1730-04-15"></date>
 <idno rend="suppress">C30d15b.xml</idno>
 <title>Letter from Robert Carter to John Pemberton and Company, April 15, 1730</title>
@@ -108,36 +108,39 @@
 <pb n="1"/>
 <name type="place">Rappaha[n]nock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
 <date value="1730-04-15">Apl 15. 1730</date><lb/>
-John Pemberton &amp; Company<lb/>
-owners of the John &amp; Betty
+John Pemberton &amp; Company}<lb/>
+owners of the John &amp; Betty}
 </dateline>
 <salute>Gent</salute>
 
 </opener>
 
-
-
 <p>I <abbr expan="received">receiv'd</abbr> your letter by <note target="n1"><abbr expan="Captain">Capt</abbr> Loxum</note> of the 15th<lb/>
  of December owning the receipt of one hogshead by the <note target="n2"><name type="ship">Rappahanno<corr resp="editor">[ck]</corr></name></note> <lb/>
 and three <abbr expan="hogsheads">hhds</abbr> by the <name type="ship">Maxwell</name></p>
 
-<p>In mine of the 20th of June I told you the <lb/>
-Ballance due to that Concern was two thousand Eight hundred &amp; <lb/>
+<p>In mine of the <xref to="http://carter.lib.virginia.edu/html/C29d11e.html"> 20th of June</xref> I told you the <lb/>
+<sic corr="Balance">Ballance</sic> due to that Concern was two thousand Eight hundred &amp; <lb/>
 Seventy Six pounds of Tobo the three <abbr expan="hogsheads">hhds</abbr> by Ireland weighd <abbr expan="net">nt</abbr> <lb/>
 with the Allowance for Cask two thousand eight hundred forty <lb/>
-Six to answer this a Ballance of 30 pounds <abbr expan="Tobacco">Tobo</abbr>
+Six to answer this a <sic corr="Balance">Ballance</sic> of 30 pounds <abbr expan="Tobacco">Tobo</abbr>
  there is some money due <lb/>
-for receiving some of this <abbr expan="tobacco">tobo</abbr>
+<note target="n3">for receiving</note> some of this <abbr expan="tobacco">tobo</abbr>
  which I have not the Accot of yet</p>
-<p>I am sorry for poor <note target="n3">Dentons </note>death and the un<lb/>
+
+<p>I am sorry for poor <note target="n4">Dentons </note>death and the un<lb/>
 happy loss of your Ship I am 
 </p>
 
-<closer>Gent<lb/> 
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="Gentlemen">Gent</abbr><lb/> 
 Yor humble Servant.<seg type="postscript"><lb/><lb/>
-2d letter<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2d letter<lb/>
 Loxum
-</seg></closer>
+
+
+</seg>
+</closer>
 
 
 </div1>
@@ -157,10 +160,13 @@ Loxum
 
 <note id="n1">[1] Captain Loxom commanded  a vessel named the <hi rend="italics"> Loyalty</hi>in 1729-1730. (Survey Report 9727, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. See also Carter's letter to John Pemberton 1731 August 4.)</note>
 
-<note id="n2">[2] There  were several vessels with the name <hi rend="italics">Rappahannock</hi>.  One was based in Liverpool and was commanded by a Captain Francis Etheridge in 1725; she was a 90 ton ship with 13 men. Another of which Charles Whate was captain was of 60 tons with 11 men in 1726 and 1727. Carter's letters mention a Captain Hugh Brackhill in 1728-1729, and Captain Loxum in 1733. (<cit><bibl>Adm. 68/194, ff.30, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n2">[2] There  were several vessels with the name <hi rend="italics">Rappahannock</hi>.  Carter's letters mention a Captain Hugh Brackhill in 1728-1729, and Captain Loxum in 1733. (<cit><bibl>Adm. 68/194, ff.30, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
-<note id="n3">[3] The <hi rend="italics">John &amp; Betty</hi> was a Liverpool ship owned by merchant John Pemberton; she often carryied slaves into the colony. In 1726 the captain was John Gale, and in the next year, she was commanded by a Captain William Denton. The ship would be lost in 1729. (<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> p. 18, n. 23</bibl></cit>; Carter to Pemberton, 1730 April 15; and Carter to William Dawkins, June 28, July 26, and August 22, 1727, for Denton's first name.)</note>
+<note id="n3">[3]  The recever was an officer appointed to serve under the authority of the Receiver-General of the colony to collect "the export duty of two shillings per hogshead on tobacco, the one penny per pound on tobacco exported from Virginia . . . ." <cit><bibl>(Percy Scott Flippin. <title>The Financial Administration of the Colony of Virginia</title> [Johns Hopkins Press, 1915.] 41-42.</bibl></cit>)</note>
 
+<note id="n4">[4] The <hi rend="italics">John &amp; Betty</hi> was a Liverpool ship owned by merchant John Pemberton; she often carried slaves into the colony. In 1726 the captain was John Gale, and in the next year, she was commanded by a Captain William Denton. The ship would be lost in 1729. (<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> p. 18, n. 23</bibl></cit>; <cit><bibl><xref to="http://carter.lib.virginia.edu/html/C27l19b.html">Carter to Pemberton</xref>, December 18, 1727;</bibl></cit>  <cit><bibl><xref to="http://carter.lib.virginia.edu/html/C30d15c.html">Carter to Pemberton,</xref> April 15, 1730;</bibl></cit> and <cit><bibl><xref to="http://carter.lib.virginia.edu/html/C27f28c.html">Carter to William Dawkins,</xref> June 28, July 26, and August 22, 1727, for Denton's first name.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised August 3, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 </div1>
