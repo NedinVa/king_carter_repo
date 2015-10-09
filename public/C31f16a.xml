@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2006</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -117,31 +117,31 @@ Alderman Perry &amp; Compa.<lb/>
 
 
 <p>We have already been large to you upon the Affairs<lb/> 
-of <note target="n1"><abbr expan="Colonel">Colol.</abbr> Page</note> the <note n="JC1">Secretary</note> hath appointed to be <del>at my house</del> <add place="supralinear">Rappa</add><lb/>
+of <note target="n1"><abbr expan="Colonel">Colol.</abbr> Page</note> the <note n="JC1">Secretary</note> <sic corr="has">hath</sic> appointed to be <del>at my house</del> <corr resp="editor">[at]</corr> <add place="supralinear">Rappa<corr resp="editor">[hannock]</corr></add><lb/>
  the beginning of next month when we intend to Add what will<lb/>
-Appear necessary in about the further <del>Prosecution</del> <add place="supralinear">manageme<corr resp="editor">[n]</corr>t</add> of that Affair</p>
+Appear necessary <del>in</del> <add place="supralinear">about</add> the further <del>Prosecution</del> <add place="supralinear">manageme<corr resp="editor">[n]</corr>t</add> of that Affair</p>
 
 <p>The chief occasion of this is to inform you that there<lb/>
 are no stockin<corr resp="editor">[g]</corr>s nor bedding come in this year for all them<lb/>
-<sic corr="families">familys</sic> in this Exigency we earnestly desire you will take the<lb/>
+<sic corr="families">familys</sic> in this <note target="n2">Exigency</note> we earnestly desire you will take the<lb/>
 Earliest Opportunity <add place="supralinear"><del>possible</del> that offers</add> of Sending into Us upon Accot of that <lb/>
-Estate 25 <abbr expan="dozen">dozo.</abbr> of the best Irish Stockin<corr resp="editor">[g]</corr>s two thirds of them for<lb/>
-men the other third for women &amp; large Also 30 <abbr expan="Servants">Servts</abbr> <sic corr="Rugs">Rugg</sic> &amp; 30<lb/>
+Estate 25 <abbr expan="dozen">dozo.</abbr> of the best Irish Stocking<corr resp="editor">[s]</corr> two thirds of them for<lb/>
+men the other third for women &amp; large Also 30 <abbr expan="Servants">Servts</abbr> <sic corr="Rugs">Rugg<corr resp="editor">[s]</corr></sic> &amp; 30<lb/>
 <abbr expan="pair">pr.</abbr> Blankets which will be but a narrow Supply for their Occasions<lb/>
-We are Gent:  
-</p>
+We are Gent:</p>
 
-<closer><abbr expan="your">yr.</abbr> most Humble Servts<seg type="postscript"><lb/><lb/>Robert Carter<lb/>
-John Carter <lb/><lb/>
-Via <abbr expan="James">Jas.</abbr> Rives
-</seg></closer>
-
-
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="your">yr.</abbr> most Humble Servts
+<lb/><lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Robert Carter<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;John Carter <lb/><lb/>
+<seg type="postscript">
+Via <abbr expan="James">Jas.</abbr> River
+</seg>
+</closer>
 </div1>
 
 </body>
-
-
 
 <back>
 
@@ -152,7 +152,12 @@ Via <abbr expan="James">Jas.</abbr> Rives
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] Mann Page, Carter's son-in-law (husband of his daughter Judith) had died on 1731 January 24 at Rosewell,"Gloucester County, and Carter and his son John write as Page's executors.</note>
+<note id="n1">[1] Mann Page, Carter's son-in-law (husband of his daughter Judith) had died on January 24, 1731, at "Rosewell,"Gloucester County, and Carter and his son John write as Page's executors.</note>
+
+<note id="n2">[2] Exigency means "urgent want; pressing necessity"  accodring to the <title>Oxford English Dictionary Online</title>.</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised September 28, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
+
 
 
 </div1>

@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -116,13 +116,13 @@ To be added to Mr. Pembertons first Letter by Loxum<lb/>
 
 
 
-<p>Your favours by the <name type="ship">Mayflower</name> with my goods came <lb/>
+<p>Your favours by the <note target="n1"><name type="ship">Mayflower</name></note> with my goods came <lb/>
 to me in Safety and very Welcome they were Upon the same reasons <lb/>
 I gave you in the Above letter for sending my tobacco to you I adventure <lb/>
-now again to trespass upon <abbr expan="your">yr:</abbr> prohibitory orders <del>and</del> enclosing a bill <lb/>
-of Loading for 20 hogsheads more in the Mayflower 16 of them are <sic corr="stemmed">stemmd</sic> <lb/>
-my own Crops the other 4 leaf from abroad that may go at a masts <lb/>
-sale if you think fit if Mr. <note target="n1">Foster Cunliff</note> must have the dispose of them <lb/>
+now again to trespass upon <abbr expan="your">yr:</abbr> prohibitory orders <del>and</del> enclosing a <note target="n2">bill <lb/>
+of Loading </note>for 20 hogsheads more in the Mayflower 16 of them are <note target="n3"><sic corr="stemmed">stemmd</sic></note> <lb/>
+my own Crops the other 4 leaf from abroad that may go at a <note target="n4">masts <lb/>
+sale</note> if you think fit if Mr. <note target="51">Foster Cunliff</note> must have the dispose of them <lb/>
 herein is a proper letter for him That I may be early enough with my <lb/>
 invoice this Year for the goods to come away by the first ship bound <lb/>
 hither I now inclose an invoice to be sent in to me either by <abbr expan="your">yr:</abbr> <lb/>
@@ -131,8 +131,9 @@ be at the trouble to send them me I must desire it may be <abbr expan="delivered
 I continue to wish you a Comfortable Old Age &amp; Am 
 </p>
 
-<closer>Sir<lb/>
-<abbr expan="Your">Yr.</abbr> Old friend &amp;humble Servant</closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="Your">Yr.</abbr> Old friend &amp;humble Servant</closer>
 
 
 </div1>
@@ -150,8 +151,17 @@ I continue to wish you a Comfortable Old Age &amp; Am
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. "Rappahannock," the county, and colony have been added for clarity to this unheaded draft postscript.</note>
 
-<note id="n1">[1] Foster Cunliffe (d. 1767) was a merchant and prominent citizen of Liverpool who worked to expand manufacturing and the capacity of the harbor; he served a number of terms as mayor.  He and Richard Gildart undertook "a major reorginization of business with Maryland and Virginia . . . beginning in the early 1720's [they] sent numerous factors to the region." They established stores in which retail goods were sold, purchased the produce of the region, had it ready for loading when ships arrived, and also moved into the sale of slaves. (<cit><bibl>James A. Picton, <hi rend="italics">ed.</hi> <title>Liverpool Municipal Archives and Records. . . .</title> [Liverpool, 1907.] pp. 27, 31, 79, 90, 96, etc.</bibl></cit> and <cit><bibl>Paul G. Clemens. "The Rise of Liverpool, 1665-1750." <title>Economic History Review.</title> 24[May 1976]:211-225.</bibl></cit></note>
+ <note id="n1">[1] Carter first mentions this vessel in a letter to Foster Cunliff of <xref to="http://carter.lib.virginia.edu/html/C31f24a.html">June 24 1731</xref>, noting that a Captain Fowler commanded her. Other mentions in letters to Cunliff and John Pemberton, both Liverpool merchants, indicate that city probably was the vessel's home port.</note>
 
+<note id="n2"> [2] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
+
+ <note id="n3">[3] Parliament had passed an act forbidding the importation of stemmed tobacco in 1722. John Randolph was sent to England in 1728 as agent for Virginia to try to have the act overturned; his mission was successful, and he was home in the colony by <xref to="http://carter.lib.virginia.edu/html/C29f02a.html">June 2, 1729</xref>, when Carter wrote to welcome him home. (<cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> [Newport News, VA: Mariners' Museum, 1953], 116.</bibl></cit>)</note>
+
+<note id="n4">[4]  To sell at the mast means a sale on board a ship where the  "ship's mainmast [w]as the usual place of assembly for a court hearing, public sale, etc., on board ship. . . . " (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>). </note>
+
+<note id="n5">[5] Foster Cunliffe (d. 1767) was a merchant and prominent citizen of Liverpool who worked to expand manufacturing and the capacity of the harbor; he served a number of terms as mayor.  He and Richard Gildart undertook "a major reorginization of business with Maryland and Virginia . . . beginning in the early 1720's [they] sent numerous factors to the region." They established stores in which retail goods were sold, purchased the produce of the region, had it ready for loading when ships arrived, and also moved into the sale of slaves. (<cit><bibl>James A. Picton, <hi rend="italics">ed.</hi> <title>Liverpool Municipal Archives and Records. . . .</title> [Liverpool, 1907.] pp. 27, 31, 79, 90, 96, etc.</bibl></cit> and <cit><bibl>Paul G. Clemens. "The Rise of Liverpool, 1665-1750." <title>Economic History Review.</title> 24[May 1976]:211-225.</bibl></cit></note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised October 6, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 </div1>
