@@ -18,7 +18,7 @@
              
 <fileDesc>
 <titleStmt>
-     <title type="245">Letter from Robert Carter to Alderman [Micajah] Perry, June 28, 1731</title>
+     <title type="245">Letter from Robert Carter to Alderman [Micajah] Perry, June 29, 1731</title>
    <title type="gmd">[electronic resource]</title>
      <author>Carter, Robert</author>
    <respStmt>
@@ -39,16 +39,16 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2006</date>
+     <date>2006, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
      <biblFull>
      <titleStmt>
-     <title>Letter from Robert Carter to Alderman [Micajah] Perry, June 28, 1731</title>
+     <title>Letter from Robert Carter to Alderman [Micajah] Perry, June 29, 1731</title>
      <author>Robert Carter</author>
 </titleStmt>
-    <extent>2 p.</extent>
+    <extent>1 p.</extent>
 <publicationStmt>
      <date></date>
    <idno type="callNo">Source copy consulted: Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
@@ -91,10 +91,10 @@
 <extent>1 p.</extent>
 <date value="1731-06-29"></date>
 <idno rend="suppress">C31f29b.xml</idno>
-<title>Letter from Robert Carter to Alderman [Micajah] Perry, June 28, 1731</title>
+<title>Letter from Robert Carter to Alderman [Micajah] Perry, June 29, 1731</title>
 </bibl>
 </head>
-<p>Robert Carter writes on behalf of himself and his son John, as executors of the estate of Mann Page, to London merchant and city alderman [Micajah] Perry, June 28, 1731, to notify him of two bills of exchange on Page's estate drawn to John Randolph, and of shipment of tobacco from the estate on board the <hi rend="italics">Burwell.</hi></p>
+<p>Robert Carter writes on behalf of himself and his son John, as executors of the estate of Mann Page, to London merchant and city alderman [Micajah] Perry, June 29, 1731, to notify him of two bills of exchange on Page's estate drawn to John Randolph, and of shipment of tobacco from the estate on board the <hi rend="italics">Burwell.</hi></p>
 </div1>                 
 </front>
 
@@ -102,7 +102,7 @@
 
 <body>
 <div1 type="letter" n="1">
-<head>Letter from Robert Carter to Alderman <note n="MP2">[Micajah] Perry,</note> June 28, 1731</head>
+<head>Letter from Robert Carter to Alderman <note n="MP2">[Micajah] Perry,</note> June 29, 1731</head>
 <opener>
 <dateline>
 <pb n="1"/>
@@ -118,19 +118,20 @@ Alderman Perry<lb/>
 
 <p>We have already been very large &amp; particular to you<lb/>
 about <note n="MP1">Colonel Page's</note> Affairs &amp; of the methods We had agreed upon about <lb/>
-the Discharge of his Debts. This is to advise you of two Drafts now <lb/>
+the Discharge of his Debts. This is to advise you of two <note target="n1">Drafts</note> now <lb/>
 made upon You payable to <note n="JR">Mr Randolph</note> one for one hundred pounds <lb/>
 the other for fifty three pounds and Six pence being for Cash taken <lb/>
 up of him for Discharge of some further debts due from Colonel &mdash; <lb/>
 Page's Estate &amp; We desire you to pay them at Time &amp; to place <abbr expan="them">thm</abbr> to the <lb/>
-Accot of that Estate. <note target="n1">Captain Cant,</note> by whom this is designed, <sic corr="has">hath</sic> <lb/>
+Accot of that Estate. <note target="n2">Captain Cant,</note> by whom this is designed, <sic corr="has">hath</sic> <lb/>
 forty <abbr expan="hogsheads">hhds</abbr> of Colonel Page's <abbr expan="Tobacco">Tobo.</abbr>
- You will receive Bills of Lading for it <lb/>
+ You will receive <note target="n3">Bills of Lading</note> for it <lb/>
 by the Ship. These Bills of Exchange I have signed, &amp; they are to be &mdash; <lb/>
-sent to the Secretary for his Hand also. We are Sir
+sent to <note n="JC1">the Secretary</note> for his Hand also. We are Sir
 </p>
 
-<closer><abbr expan="Your">Yr</abbr> most humble Servants</closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="Your">Yr</abbr> most humble Servants</closer>
 
 
 </div1>
@@ -148,7 +149,13 @@ sent to the Secretary for his Hand also. We are Sir
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1]  Captain Constantine Cant commanded the <hi rend="italics">Buwell</hi> which may have been owned by William Dawkins and Micajah Perry as Carter reported her December 1723 arrival to each of them. (<cit><bibl>Adm. 68/194-195, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n1"> [1] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (See <cit><bibl><xref to="http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm">"Bill of Exchange"</xref> in the online Dictionary of Financial Scam Terms: the Truth vs. the Scam.</bibl></cit>)</note>
+
+<note id="n2">[2]  Captain Constantine Cant commanded the <hi rend="italics">Buwell</hi> which may have been owned by William Dawkins and Micajah Perry as Carter reported her December 1723 arrival to each of them. (<cit><bibl>Adm. 68/194-195, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n3"> [3] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was revised October 13, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 

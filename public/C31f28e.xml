@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2006</date>
+     <date>2006, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -117,37 +117,41 @@ To John Randolph Esqr<lb/>
 
 
 <p>According to your Desire I now send you three Sets of <lb/>
-bills of <abbr expan="Exchange,">Excha,</abbr> <del>[illegible] For</del> <add place="supralinear">on</add> my own Accot for &pound;56.7.6 on <note n="JP">Mr Pemberton</note> <lb/>
-of <sic corr="Liverpool,">Leverpool,</sic> the other two sets for one hundred &amp; fifty three pounds <lb/>
+<note target="n1">bills of <abbr expan="Exchange,">Excha,</abbr></note> <del>[illegible] For</del> <add place="supralinear">on</add> my own Accot for &pound;56.7.6 on <note n="JP">Mr Pemberton</note> <lb/>
+of <name type="city"><sic corr="Liverpool,">Leverpool,</sic></name> the other two sets for one hundred &amp; fifty three pounds <lb/>
 &amp; Sixpence on Accot of <note n="MP1"><abbr expan="Colonel">Colo</abbr> Page's</note> Estate on <note n="MP2">Mr Perry;</note> to these Sets the <lb/>
 <note n="JC1">Secretary's</note> Hand must be had &amp; I absolutely depend upon your <lb/>
-Word for it. Mine being an Outport Bill may perhaps not be <lb/>
+Word for it. Mine being an <note target="n2">Outport</note> Bill may perhaps not be <lb/>
 so very agreeable. If it will be the least Detriment or Disappoint=<lb/>
-ment to you, return thm by my Son &amp; I will send you London Bills <lb/>
-in the Room of them. I had some Apprehensions these Bills upon <lb/>
-<abbr expan="your">yr</abbr> accot of Colonel Page were to be delayed <del>[illegible]</del> <add place="supralinear">till the</add> going out of some of the <lb/>
+ment to you, return them by my Son &amp; I will send you London Bills <lb/>
+<note target="n3">in the Room</note> of them. I had some Apprehensions these Bills upon <lb/>
+<abbr expan="your">yr</abbr> accot of Colonel Page were to be delayed <del>[illegible]</del> <add place="supralinear"><sic corr="until">till</sic> the</add> going out of some of the <lb/>
 <sic corr="Later">Latter</sic> Ships; how Mr Secretary will relish giving <abbr expan="them">thm</abbr> so soon I can't say <lb/>
 you know what a ticklish affair this is, but I can't think a little time <lb/>
 will make any Difference with our Creditor, <abbr expan="although">altho'</abbr> in our Advices we <lb/>
-told him our Bills would not come upon him till the <sic corr="later">latter</sic> Ships<lb/>
+told him our Bills would not come upon him <sic corr="until">till</sic> the <sic corr="later">latter</sic> Ships<lb/>
 	I believe in two or three months I may have Occasion for a&mdash; <lb/>
 <sic corr="pretty">pritty</sic> large Sum of Cash <add place="supralinear">it may be a hundred pounds or more;</add> how your Stock may hold out you will please to <lb/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;advise 
 
 <pb n="2"/><lb/><lb/>
-advise me I shall look out to no other; I have several in my View tht <lb/>
-will willingly embrace my Custom, but I shall not look further <lb/>
+advise me I shall look out to no other; I have several in my View that <lb/>
+will willingly embrace <note target="n4">my Custom</note>, but I shall not look further <lb/>
 if you will supply me. I am in no doubt you have taken proper Care <lb/>
 in the Security of my Purchase. I heartily wish <add place="supralinear">you</add> the <abbr expan="Enjoyment">Enjoymt</abbr> of your <sic corr="Entire">Intire</sic> <lb/>
 Health &amp; am 
 </p>
 
-<closer><abbr expan="Sir">Sr</abbr> <lb/>
-Your most humble Servant
-<seg type="postscript"><lb/><lb/>I send a <abbr expan="Letter">Lr</abbr> of advice with <lb/>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="Sir">Sr</abbr> <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your most humble Servant
+
+<seg type="postscript"><lb/><lb/>
+I send a <abbr expan="Letter">Lr</abbr> of advice with <lb/>
 my Bills on Pemberton If you <lb/>
-return thm please to send that back to me also.
-</seg></closer>
+return them please to send that back to me also.
+</seg>
+</closer>
 
 
 </div1>
@@ -165,7 +169,15 @@ return thm please to send that back to me also.
 
 <note>The county and colony have been added for clarity to the heading on this draft.  </note>
 
+<note id="n1"> [1] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (See <cit><bibl><xref to="http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm">"Bill of Exchange"</xref> in the online Dictionary of Financial Scam Terms: the Truth vs. the Scam.</bibl></cit>)</note>
 
+<note id="n2">[2] Out port means "a port outside a particular place; any port other than the main port of a country, etc.; spec[ically]. a British port other than London."   (<cit><bibl><title>Oxford English Dictionary Online </title></bibl></cit>)</note>
+
+<note id="n3">[4] Carter uses the phrase "in the room of" in the sense "in the place of, in lieu of. . . . ."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)  </note>
+
+<note id="n4">[4] Cutstom means "business patronage" as Carter uses it here.  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>) </note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was revised October12 , 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 </div1>
