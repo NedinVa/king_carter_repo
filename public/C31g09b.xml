@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2006</date>
+     <date>2006, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -116,8 +116,8 @@ Mr. Richard Oswald &amp; Com<lb/>
 
 
 
-<p>I have receiv'd the favour of two letters <lb/>
-from you with the Accot of sales of my 4 <abbr expan="hogsheads">hhds</abbr> <abbr expan="tobacco">tobo</abbr> Per the <name type="ship">Martha</name> <lb/>
+<p>I have <abbr expan="received">receiv'd</abbr> the favour of two letters <lb/>
+from you with the Accot of sales of my 4 <abbr expan="hogsheads">hhds</abbr> <abbr expan="tobacco">tobo</abbr> Per the <note target="n2"><name type="ship">Martha</name></note> <lb/>
 In yours of the 28 of <abbr expan="December">Decr:</abbr> you give me a particular character <lb/>
 of them saying they were good <sic corr="among">amongst</sic> the best of any you had <lb/>
 in the year</p>
@@ -126,17 +126,18 @@ in the year</p>
 yielded and tell me rather than not have of a better sort you are <lb/>
 willing to have none from <abbr expan="your">yr</abbr> friends I am at a loss how to reconcile  <lb/>
 these two letters According to <abbr expan="your">yr.</abbr> Directions I now Value myself <lb/>
-upon you for fifteen pounds by a bill of Exchange payable to <lb/>
+upon you for fifteen pounds by a <note target="n3">bill of Exchange</note> payable to <lb/>
 <abbr expan="Colonel">Colo</abbr> <note n="MCB">George Braxton</note> which I desire <abbr expan="you">yo</abbr> to Answer on my Accot quick <lb/>
 Sales I must own as a very good ingredient in your management <lb/>
 and because <abbr expan="your">yr</abbr> Sales are not below other mens I shall not Complain I am <lb/>
-now preparing some <abbr expan="tobacco">tobo</abbr> for the <note target="n2"><name type="ship">Martha</name></note> <note target="n3">Mr Cheaps</note> Sloop is to call here <lb/>
+now preparing some <abbr expan="tobacco">tobo</abbr> for the Martha <note target="n4">Mr Cheaps</note> Sloop is to call here <lb/>
 for it in a short time I intend to be further trouble some to you b<corr resp="editor">[efore]</corr> <lb/>
 our Shipping are all gone I am
 </p>
 
-<closer>Sir<lb/>
-<abbr expan="your">yr</abbr> most humble Servt
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="your">yr</abbr> most humble Servt
 </closer>
 
 
@@ -151,16 +152,19 @@ our Shipping are all gone I am
 <div1 type="back matter">
 <head>NOTES</head>
 
-<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia. Thsi draft haz been water-stained in the middle and some of the text is extremely faint.</note>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] Richard Oswald (1687-1766) was a prominent Glasgow merchant who was "involved in West Indies and Madeira trade as well as tobacco importation." In partnership with his brother Alexander, the firm owned three ships (the <hi rend="italics">Martha,</hi> the <hi rend="italics">Amity,</hi> and the <hi rend="italics">Speedwell</hi>) of the 41 sailing from Glasgow in 1735. (<cit><bibl>Devine, T.M. <title>The Tobacco Lords: A Study of the Tobacco Merchants of Glasgow and their Trading Activites c. 1740-90.</title> Edinburgh: John Donald Publishers Ltd. p. 183;</bibl></cit> and "The Old Country Houses of the Old Glasgow Gentry: LXXXVII: Scotstoun." http://gdl.cdlr.strath.ac.uk/smihou/smihou087.htm. 8/2/2005.)</note>
+<note id="n1">[1] Richard Oswald (1687-1766) was a prominent Glasgow merchant who was "involved in West Indies and Madeira trade as well as tobacco importation." In partnership with his brother Alexander, the firm owned three ships (the <hi rend="italics">Martha,</hi> the <hi rend="italics">Amity,</hi> and the <hi rend="italics">Speedwell</hi>) of the 41 sailing from Glasgow in 1735. (<cit><bibl>Devine, T.M. <title>The Tobacco Lords: A Study of the Tobacco Merchants of Glasgow and their Trading Activites c. 1740-90.</title>[ Edinburgh: John Donald Publishers Ltd.] p. 183;</bibl></cit> and "The <xref to="http://gdl.cdlr.strath.ac.uk/smihou/smihou087.htm">Old Country Houses</xref> of the Old Glasgow Gentry: LXXXVII: Scotstoun." . 8/2/2005, 10/23/2015.)</note>
 
 <note id="n2">[2] The <hi rend="italics">Martha</hi>  was commanded by a Captain Dunlop and owned by Richard Oswald &amp; Company; see Carter to Richard Oswald &amp; Company 1729 August 11, and Carter to Oswald, 1731 July 27.</note>
 
+<note id="n3"> [3] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (See <cit><bibl><xref to="http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm">"Bill of Exchange"</xref> in the online Dictionary of Financial Scam Terms: the Truth vs. the Scam.</bibl></cit>)</note>
+
 <note id="n3">[3] This may have been Patrick Cheap, a merchant from Urbanna in Middlesex County. (Rutman and Rutman, A Place in Time: Middlesex. . . . p. 247.) </note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was revised October 23, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 </div1>
