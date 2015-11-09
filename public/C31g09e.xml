@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2006</date>
+     <date>2006, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -126,9 +126,9 @@ I have had from your Port I will not Complain the times are <sic corr="so">soo</
 <pb n="2"/><lb/><lb/>
 Commodity to <sic corr="raise">rais</sic></p>
 
-<p>I have there fore this day <abbr expan="valued">valu'd</abbr> myself upon you <lb/>
-by a bill of Exchange payable to Colonel <note n="MCB">George Braxton</note> for the <sic corr="balance">ballance</sic> that <lb/>
-you are <abbr expan="pleased">pleas'd</abbr> to say is between us vizt twenty three pounds Six Shillings <lb/>
+<p>I have there fore <add resp="editor"> [<hi rend="italics">sic</hi>]</add> this day <abbr expan="valued">valu'd</abbr> myself upon you <lb/>
+by a <note target="n2">bill of Exchange</note> payable to Colonel <note n="MCB">George Braxton</note> for the <sic corr="balance">ballance</sic> that <lb/>
+you are <abbr expan="pleased">pleas'd</abbr> to say is between us <note target="n3">vizt</note> twenty three pounds Six Shillings <lb/>
 &amp; a penny which I desire you to answer upon my Account</p>
 
 <p>I shall go near to give you the trouble of another line <lb/>
@@ -138,9 +138,11 @@ tance between us I am
 
 </p>
 
-<closer>Sir<lb/>
-your humble Servt
-<seg type="postscript"><lb/><lb/>Copy, Per <note target="n2">Dove</note></seg></closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;your humble Servt
+<seg type="postscript"><lb/><lb/>
+Copy, Per <note target="n4">Dove</note></seg></closer>
 
 
 </div1>
@@ -156,11 +158,18 @@ your humble Servt
 
 <note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
 
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity. The first page of this draft has considered considerable water damage making much of it very difficult to read .</note>
 
-<note id="n1">[1] Ramsay's name is too common for him to have been identified.</note>
+<note id="n1">[1] Ramsay's name is too common for him to have been identified although he certzainly a Scot, probably of Edinburgh.</note>
 
-<note id="n2">[2] The <hi rend="italics">Bailey</hi> was a London ship owned by William Dawkins and commanded at various times by Adam Graves (1725-1730) and by Thomas Dove (1731-1732). She was a vessel of some 250 tons and carried 15-17 crew members. (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, 156v, and other data in Adm. 68/194 and /196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> A letter of Carter's executors to Dawkins 1738 May 10 refers to "your ship Bailey.")</note>
+<note id="n2"> [2] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (See <cit><bibl><xref to="http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm">"Bill of Exchange"</xref> in the online Dictionary of Financial Scam Terms: the Truth vs. the Scam.</bibl></cit>)</note>
+
+<note id="n3">[3] Vizt. is the abbreviation for the Latin word "videlicet";  it means "that is to say; namely; to wit: used to introduce an amplification, or more precise or explicit explanation, of a previous statement or word." (<cit><bibl><title>Oxford English Dictionary</title> online.</bibl></cit>)</note>
+
+<note id="n4">[4] The <hi rend="italics">Bailey</hi> was a London ship owned by William Dawkins and commanded at various times by Adam Graves (1725-1730) and by Thomas Dove (1731-1732). She was a vessel of some 250 tons and carried 15-17 crew members. (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, 156v, and other data in Adm. 68/194 and /196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> A letter of Carter's executors to Dawkins 1738 May 10 refers to "your ship Bailey.")</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was revised November 3, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
+
 
 </div1>
 </back>

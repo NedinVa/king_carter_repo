@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2006</date>
+     <date>2006, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -116,18 +116,21 @@ Mr. John Pemberton<lb/>
 
 
 
-<p>I writ to you liberally by <note target="n1"><abbr expan="Captain">Capt</abbr> Fowler</note> and since I <lb/>
-<abbr expan="advised">advis'd</abbr> you of a <sic corr="draft">draught</sic> I had made on you to <note n="JR">John Randolph</note> for <lb/>
+<p>I <sic corr="writ">wrote</sic> to you liberally by <note target="n1"><abbr expan="Captain">Capt</abbr> Fowler</note> and since I <lb/>
+<abbr expan="advised">advis'd</abbr> you of a <note target="n2"><sic corr="draft">draught</sic></note> I had made on you to <note n="JR">John Randolph</note> for <lb/>
 fifty Six pounds Seven Shillings &amp; Sixpence The Occasion of this is to <lb/>
 advise you I have this day drawn on you for thirty Seven pounds <lb/>
 thirteen shillings &amp; Eleven pence payable to <abbr expan="Colonel">Colo</abbr> <note n="MCB">George Braxton </note><lb/>
 which I desire <abbr expan="you">yo</abbr> to answer and place to my Accot who Am&mdash;</p>
 
-<closer>Yr. Humble Servant
-<seg type="postscript"><lb/><lb/>
-<note target="n2"><abbr expan="Captain">Capt</abbr> Tarleton</note> <abbr expan="arrived">arriv'd</abbr> ten<lb/>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yr. Humble Servant
+<seg type="postscript">
+<lb/><lb/>
+<note target="n3"><abbr expan="Captain">Capt</abbr> Tarleton</note> <abbr expan="arrived">arriv'd</abbr> ten<lb/>
 days <sic corr="ago">agoe</sic> by him I <abbr expan="received">receiv'd</abbr><lb/>
-<abbr expan="your">yr</abbr> <sic corr="copies">copys</sic></seg>
+<abbr expan="your">yr</abbr> <sic corr="copies">copys</sic>
+</seg>
 </closer>
 
 
@@ -146,9 +149,15 @@ days <sic corr="ago">agoe</sic> by him I <abbr expan="received">receiv'd</abbr><
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] The <hi rend="italics">Content</hi> was a Liverpool ship owned by John Pemberton and commanded by various masters including captains Stephenson (1721and later) , Fowler (1723), and Morton (1727). (<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> pp. 92, 93, 102</bibl></cit>; and Carter to Pemberton, 1721 February 14, and 1727 June 28. )</note>
+<note id="n1">[1] The <hi rend="italics">Content</hi> was a Liverpool ship owned by John Pemberton and commanded by various masters including captains Stephenson (1721) , Fowler (1723), and Morton (1727). (<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> pp. 92, 93, 102</bibl></cit>; and Carter to Pemberton, <xref to="http://carter.lib.virginia.edu/html/C21b14d.html">February 14, 1721,</xref> and <xref to="http://carter.lib.virginia.edu/html/C27f28e.html">June 28, 1727.</xref> )</note>
 
-<note id="n2">[2] This may have been James Tarleton who in 1731 cammanded the <hi rend="italics">The Loyalty</hi>. Several vessels with this name sailed to Virginia. One commanded by Francis Wallis cleared from Poole for Virginia in 1726. Captain Loxom commanded  a vessel of this name in 1729-1730.. (Survey Report 9727, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. See Carter's letters to John Pemberton 1730 April 15 and 1731 August 4.)</note>
+<note id="n2"> [2] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (See <cit><bibl><xref to="http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm">"Bill of Exchange"</xref> in the online Dictionary of Financial Scam Terms: the Truth vs. the Scam.</bibl></cit>)</note>
+
+<note id="n3">[3] This may have been James Tarleton who in 1731 cammanded the <hi rend="italics">The Loyalty</hi>. Several vessels with this name sailed to Virginia.  Captain Loxom commanded  a vessel of this name in 1729-1730.. (Survey Report 9727, Virginia
+Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. See Carter's letters to John Pemberton <xref to="/users/berkeley/public/C30d15c.xml">April 15,1730</xref> and <xref to="/users/berkeley/public/C31h04a.xml">1731 August 4</xref>.)</note>
+
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was revised November 2, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 </div1>
 </back>
