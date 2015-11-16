@@ -11,7 +11,7 @@
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
 <!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
-<TEI.2 id="C31g13b">
+<TEI.2 id="C31g13a">
 
 
 <teiHeader type="aacr2">
@@ -34,12 +34,12 @@
 <publicationStmt>
      <publisher>University of Virginia Library.</publisher>
      <pubPlace>Charlottesville, Va.</pubPlace>
-     <idno type="ETC">C31g13b.xml</idno>
+     <idno type="ETC">C31g13a.xml</idno>
      <availability>
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2006</date>
+     <date>2006, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -48,7 +48,7 @@
      <title>Letter from Robert Carter to Benjamin Grayson, July 13, 1731</title>
      <author>Robert Carter</author>
 </titleStmt>
-    <extent> p.</extent>
+    <extent>3 p.</extent>
 <publicationStmt>
      <date></date>
    <idno type="callNo">Source copy consulted: Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
@@ -81,7 +81,7 @@
 
 </teiHeader>
 
-<text id="C31g13bT">
+<text id="C31g13aT">
 
 <front>
 <div1 type="summary" n="1">
@@ -90,11 +90,11 @@
 <abbr>AL</abbr>
 <extent>3 p.</extent>
 <date value="1731-07-13"></date>
-<idno rend="suppress">C31g13b.xml</idno>
+<idno rend="suppress">C31g13a.xml</idno>
 <title>Letter from Robert Carter to Benjamin Grayson, July 13, 1731</title>
 </bibl>
 </head>
-<p>Robert Carter writes a second letter to Benjamin Grayson of Prince William County, July 13, 1731, to give him further instructions about his supervision of work at the Frying Pan mine and its workers who have left the mine and have been seen on the roads. He sets out specific instructions for pursuing them with "hue and cry" both in Virginia and Maryland, and sends copies (not present) of their indentures and other documents. He orders Grayson to take some into court if necessary.</p>
+<p>Robert Carter writes to Benjamin Grayson of Prince William County, July 13, 1731, to give him  instructions about his supervision of work at the Frying Pan mine and its workers who have left the mine and have been seen on the roads. He sets out specific instructions for pursuing them with "hue and cry" both in Virginia and Maryland, and sends copies (not present) of their indentures and other documents. He orders Grayson to take some into court if necessary.</p>
 </div1>                 
 </front>
 
@@ -119,19 +119,19 @@ Mr Benja Grayson,<lb/>
 many <abbr expan="Lletters">Lrs</abbr> from you, Nicholas, &amp; another signed by Honey, Haweis,<lb/>
 Brunton &amp; Cardel. They contain a great deal of unagreeable News, but <lb/>
 none so bad as that you cannot meet with any Good Ore, Giving us but poor <lb/>
-Hopes for all our Charge &amp; Trouble in our Enterprize; however we must push <lb/>
+Hopes for all our Charge &amp; Trouble in <note target="n2">our Enterprize</note>; however we must push <lb/>
 on still. Certainly all the shows we have had must prognosticate a large <lb/>
 Vein of Good Ore somewhere, if we can but be so fortunate to find it.</p>
 
-<p>Manuel tells me below <note target="n2">Occoquon Ferry</note> he heard of four men <lb/>
+<p>Manuel tells me below <note target="n3">Occoquon Ferry</note> he heard of four men <lb/>
 was seen upon the Main Road <sic corr="traveling">travelling</sic> downwards. I hear nothing of <lb/>
 them more. I take these to have been the Miners. He <sic corr="says">sayes</sic> They took away <lb/>
 some Shirts &amp; their best Summer <sic corr="Clothes,">Cloaths,</sic> leaving their thicker <sic corr="Clothes,">Cloaths</sic> behind <lb/>
 them. I can hardly think they are run away. If they stand but their Ground <lb/>
 I believe we shall find Law enough to bring them to better manners. &mdash;<lb/>
-you have been wanting in not forthwith pursuing them with <note target="n3">Hue &amp; Cries</note> <lb/>
+you have been wanting in not forthwith pursuing them with <note target="n4">Hue &amp; Cries</note> <lb/>
 I have now sent you the Counterparts of Nicholas, Whifford, Honey &amp; Cardel <lb/>
-their Articles signed by the <note target="n4">Company,</note> which you are to deliver to <del>[illegible]</del> <lb/>
+their Articles signed by the <note target="n2">Company,</note> which you are to deliver to <del>[illegible]</del> <lb/>
 as many of them as are at Home. You had best take Copies of them that <lb/>
 you may know at all times, when you have Occasion, what they <lb/>
 are obliged to do. Nicholas it seems thinks he is not obliged to work; <lb/>
@@ -142,24 +142,24 @@ they have had. They have plenty of Milk now, &amp; if they had nothing &mdash;<l
 else to live upon, Good milk &amp; <note target="n5"><sic corr="Hominy">Homony</sic></note> &amp; milk &amp; mush might very <lb/>
 well content them in these Summer months. How many hundred families <lb/>
 in Virginia, better men than ever these Fellows will be &amp; work a great deal<lb/>
-	harder
+&mdash;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;harder
 
 <pb n="2"/><lb/><lb/>
 harder, have no Meat at this time of year? &amp;, if they had been&mdash;<lb/>
-Good Husbands, their Provision they have had would have served <sic corr="them">thm</sic> <lb/>
+<note target="n6">Good Husbands</note>, their Provision they have had would have served <sic corr="them">thm</sic> <lb/>
 a great deal longer. As for their Unreasonable <sic corr="Holidays,">Holidayes,</sic> wch <lb/>
-they pleasd Custom for, I will never believe anyThing of it: some of <lb/>
-them told me themselves, They generally work by the <note target="n6">Great;</note> &amp; when <lb/>
+they plead Custom for, I will never believe anyThing of it: some of <lb/>
+them told me themselves, They generally work by the <note target="n7">Great;</note> &amp; when <lb/>
 they work by the Year, if they are absent but a Day, they are <sic corr="immediately">imediately</sic>  <lb/>
 <lb/>
 cut off in their wages; And, if they are not diligent &amp; mind their <lb/>
 Business, they lose their <sic corr="Employment">Imploys.</sic></p>
 
-<p>Haweis and Brunton are our servants by Common Indent= <lb/>
-tres. They have each of them four years to serve from their arrival <lb/>
+<p>Haweis and Brunton are our servants by <note target="n8">Common Indent= <lb/>
+tres</note>. They have each of them four years to serve from their arrival <lb/>
 into Virginia. I send you Copies of their Indentures <abbr expan="that">tht</abbr> you may know <lb/>
-how to treat them. You will see upon the Backside of these Indenture <lb/>
-what money we advanced to them in London, which the Time they <lb/>
+how to treat them. You will see upon the Backside of these Indentures <lb/>
+what money we advanced to them in <name type="city">London</name>, which the Time they <lb/>
 have been with us has not reimbursed yet; so that there is nothing <lb/>
 due to these two. I have had a Good Character of Honey. If he returns <lb/>
 &amp; is orderly, I would have him used kindly. I <note target="n7">admire</note> he should herd <lb/>
@@ -227,19 +227,24 @@ safely laid up. This Letter is long enough. I am
 
 <note id="n1">[1] Benjamin Grayson was, according to Fairfax Harrison, "one of the earliest of the Scots merchants to be established on Quantico, where Dumfries was to arise." He was appointed a justice of Prince William County in November 1731. (<cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> pp. 156</bibl></cit>and <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]: 256.</bibl></cit>)</note>
 
-<note id="n2">[2] Occoquan ferry was located on the river of the same name, a tgributary of the Potomac in Fairfax County in Carter's time. The ferry was owned later by George Mason.</note>
+<note id="2">[2]  In 1728, Carter, his sons Robert and Charles, and his son-in-law Mann Page,  organized a company to mine for copper on a tract of some 27,000 acres that Louis Morton describes as lying "near the present boundary of Fairfax and Loudoun counties." Fairfax Harrison wrote that the tract was "on the  Horsepen of Broad." Today, there is a Frying Pan Park just east of the border of the Dulles Airport reservation, and there are other things with the name in the area. The company was not successful. (<cit><bibl n="B32">Morton. <title>Robert Robert Carter of Nomini Hall.</title> pp. 18-19;</bibl></cit> and <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> p. 342. </bibl></cit>)</note>
 
-<note id="n3">[3] Raising a "hue and cry" was an ancient British custom meaning to raise the alrarm to pursue a criminal</note>
+<note id="n3">[3] Occoquan ferry was located on the Occaquan River, a major tributary of  the Potomac River, that lay in Stafford County in Carter's day.The ferry was owned later by George Mason.</note>
 
-<note id="n4">[4]  In 1728, Carter, his sons Robert and Charles, and his son-in-law Mann Page,  organized a company to mine for copper on a tract of some 27,000 acres that Louis Morton describes as lying "near the present boundary of Fairfax and Loudoun counties." Fairfax Harrison wrote that the tract was "on the  Horsepen of Broad." Today, there is a Frying Pan Park just east of the border of the Dulles Airport reservation, and there are other things with the name in the area. The company was not successful. (<cit><bibl n="B32">Morton. <title>Robert Robert Carter of Nomini Hall.</title> pp. 18-19;</bibl></cit> and <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> p. 342. </bibl></cit>)</note>
+<note id="n4">[4] "Outcry calling for the pursuit of a felon, raised by the party aggrieved, by a constable, etc." and " A proclamation for the capture of a criminal or the finding of stolen goods."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
-<note id="n5">[5] Hominy is made from corn by drying and treating it to remove the husk and germ. The remainder can be cooked.</note>
+<note id="n5">[5] Hominy is "maize or Indian corn hulled and ground more or less coarsely and prepared for food by being boiled with water or milk."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
-<note id="n6">[6] Carter uses the word "admire" in a sense that is no longer current. The <hi rend="italics">Oxford English Dictionary </hi> defines what he means as "to feel or express surprise, or astonishment; to wonder, to marvel, to be surprised."</note>
+<note id="n6">[6] Carter uses "good Husbands" in the sense of "to administer as a good householder or steward; to manage with thrift and prudence; to use, spend, or apply economically; to make the most of; to economize; also, to save, lay by a store of."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
 <note id="n7">[7] <hi rend="italics">Webster's Dictionary</hi> defines this use of "great" as by the whole or gross, as in a "a contract to build a ship by the great."</note>
 
-<note id="n8">[8] John Mercer (1704-1768) emigrated from Ireland where he had been trained as an attorney. "He settled at Marlboroughtown [in then Stafford County] in 1726 as a practicing attorney and at once allowed a facile pen to get him into trouble with the government." He eventually lost his license to practice law, and turned to the land speculation that he had begun as soon as he reached Virginia. "He married first on June 10, 1725 Catherine Mason (June 21, 1707-June 15, 1750) only child of Colonel George Mason (16??-1716) and his second wife Elizabeth Waugh, daughter of the Reverend Mr. John Waugh."(<cit><bibl n="B4">Harrison. <title>Landmarks of Old Prince William</title> p. 315;</bibl></cit>  <cit><bibl n="B24">Copeland and MacMaster. <title>The Five George Masons.</title></bibl></cit>; and "John Mercer."  http://www.rootsweb.com/~vastaffo/johnmercer.htm  11/4/03)</note>
+<note id="n8">[8] An indenture is a contract between two or more parties. It is so named because copies of such a contract in early times were often written at the top and the bottom of a sheet which was then cut apart in a jagged or indented manner. The copies could then be fitted together to prove autheiticity.   "The contract by which an apprentice is bound to the master . . . by which a person binds himself to service in the colonies, etc."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
+
+<note id="n6">[6] Carter uses the word "admire" in a sense that is no longer current. The <hi rend="italics">Oxford English Dictionary </hi> defines what he means as "to feel or express surprise, or astonishment; to wonder, to marvel, to be surprised."</note>
+
+
+<note id="n8">[8] John Mercer (1704-1768) emigrated from Ireland where he had been trained as an attorney. "He settled at Marlboroughtown [in then Stafford County] in 1726 as a practicing attorney and at once allowed a facile pen to get him into trouble with the government." He eventually lost his license to practice law, and turned to the land speculation that he had begun as soon as he reached Virginia. "He married first on June 10, 1725 Catherine Mason (June 21, 1707-June 15, 1750) only child of Colonel George Mason (16??-1716) and his second wife Elizabeth Waugh, daughter of the Reverend Mr. John Waugh."(<cit><bibl n="B4">Harrison. <title>Landmarks of Old Prince William</title> p. 315;</bibl></cit>  <cit><bibl n="B24">Copeland and MacMaster. <title>The Five George Masons.</title></bibl></cit>;  and <xref to="http://www.rootsweb.ancestry.com/~vastaffo/johnmercer.htm">"John Mercer."</xref>)</note>
 
 </div1>
 </back>
