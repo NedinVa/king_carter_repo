@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2006</date>
+     <date>2006, 2016</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -117,7 +117,7 @@ Mr: Wm: Dawkins<lb/>
 
 
 <p>We are now upon <abbr expan="your">yr:</abbr> <abbr expan="Account">Acct:</abbr> <abbr expan="against">agt:</abbr> <note target="n1">Isaac Lees</note> Estate &amp; <abbr expan="your">yr:</abbr> <lb/>
-<abbr expan="Account">Acct:</abbr> Currt: <abbr expan="with">wth:</abbr> <abbr expan="your">yr:</abbr> letters Relating to <note target="n2">Hancock Lees</note> <del>[illegible]</del> <abbr expan="Orphans">Orphs:,</abbr> the <lb/>
+<abbr expan="Account">Acct:</abbr> Currt: <abbr expan="with">wth:</abbr> <abbr expan="your">yr:</abbr> letters Relating to <note target="n2">Hancock Lees</note> <del>Estate</del> <abbr expan="Orphans">Orphs:,</abbr> the <lb/>
 State of <abbr expan="which">wch:</abbr> affair stands thus after <note n="RC2"><abbr expan="Robert">Rob:</abbr> Carters</note> Debts paid <lb/>
 you owe to that Estate 8&pound;:11<abbr expan=" Shillings">S</abbr>
 :2<abbr expan=" pence">d</abbr> this <abbr expan="Balance">Balla:</abbr> we <abbr expan="ordered">order'd</abbr> you to <lb/>
@@ -125,10 +125,10 @@ carry to Isaac Lees <abbr expan="Account">Acct:</abbr> We Sent you last year 6 <
 Straight laid Tobacco the produce of this also we <abbr expan="ordered">order'd</abbr> to be carried <lb/>
 to <del>[illegible]</del> <add place="supralinear">that</add> <abbr expan="Account">Acct:</abbr> You give <abbr expan="Credit">Crt:</abbr> <del>[illegible]</del> for payments made <del>[illegible]</del> <add place="supralinear">upon</add> our <lb/>
 orders amounting to 25:10:10 We now send you 1 hogshead more <lb/>
-of <abbr expan="Stemmed">Stem'd</abbr> Tobacco in the <note target="n3"><name type="ship">Bailey</name></note> &amp; a bill of <abbr expan="exchange">Exch:</abbr> of <abbr expan="John">Jno:</abbr> Lees for <lb/>
+of <abbr expan="Stemmed">Stem'd</abbr> Tobacco in the <note target="n3"><name type="ship">Bailey</name></note> &amp; a <note target="n4">bill of <abbr expan="exchange">Exch:</abbr> </note>of <abbr expan="John">Jno:</abbr> Lees for <lb/>
 6:1:0 Isaac Lees Debt is 94:0:6 when all these matters are <lb/>
 adjusted if the Tobacco Sells but tolerably <add place="supralinear">suitably to other mens Sales of Such <abbr expan="tobacco">Tob:</abbr></add>We cant but reckon <lb/>
-<abbr expan="your">yr:</abbr> Debt will be near <sic corr="accommodated,">accomodated,</sic> &amp; Dos not Deserve the <lb/>
+<abbr expan="your">yr:</abbr> Debt will be near <sic corr="accommodated,">accomodated,</sic> &amp; <sic corr="Does">Dos</sic> not Deserve the <lb/>
 hard expression you use (that it will be long a Discharging <lb/>
 at this rate) If you will hasten the <abbr expan="Account">Acct:</abbr> of Sales, those <lb/>
 <abbr expan="concerned">concern'd</abbr> promise to pay off what may remain due to you <lb/>
@@ -137,15 +137,18 @@ at this rate) If you will hasten the <abbr expan="Account">Acct:</abbr> of Sales
 
 <p>As to <abbr expan="your">yr:</abbr> <del>[illegible]</del> <add place="supralinear">other</add> Debts we have done you all the Service in <lb/>
 our power there is not above 3 or 4 <del>[illegible]</del> but what their Debts <lb/>
-have been demanded by Some of us excepting Such that we <lb/>
+have been Demanded by Some of us excepting Such that we <lb/>
 never have nor can hear of. We have <abbr expan="Enclosed">Inclos'd</abbr> Sent you a Copy <lb/>
 of <abbr expan="your">yr:</abbr> list with our Observations <del>on those</del> what we can do <lb/>
 towards <del>[illegible]</del> recovering <del>of those</del> <add place="supralinear">of all that we have any hopes of</add> you may depend on; You <lb/>
-have herein a bill of lading &amp; a first bill of Exchange <lb/>
-for the Tobacco &amp; mony already mentioned We are <abbr expan="Sir">Sr.</abbr> 
-</p>
+have herein a <note target="n5">bill of lading</note> &amp; a first bill of Exchange <lb/>
+for the Tobacco &amp; <sic corr="money">mony</sic> already mentioned We are</p>
 
-<closer>Yr. most humble <abbr expan="Servants">Servts.</abbr></closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="Sir">Sr.</abbr> <lb/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="Your">Yr.</abbr> most humble <abbr expan="Servants">Servts.</abbr>
+</closer>
 
 
 </div1>
@@ -163,11 +166,18 @@ for the Tobacco &amp; mony already mentioned We are <abbr expan="Sir">Sr.</abbr>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] Isaac Lee (1700-1727) was a son of Hancock Lee and his second wife, Sarah Allerton. Isaac was a resident of Westmoreland County but died in England.  (Descendants of John Lee , http://homepages.rootsweb.com/~kenzie/GenLEE.htm, 5/11/04)</note>
+<note id="n1">[1] Isaac Lee (1700-1727) was a son of Hancock Lee and his second wife, Sarah Allerton. Isaac was a resident of Westmoreland County but died in England.  (<xref to="http://homepages.rootsweb.ancestry.com/~kenzie/GenLEE.htm">Descendants of John Lee</xref>.)</note>
 
 <note id="n2">[2] Hancock Lee (1653-1709) was an intimate friend of Robert Carter who was named in Lee's will as "a good friend," and appointed one of the trustees of his children.  (<cit><bibl n="B11">Lee. <title>Lee Chronicle . . .</title> pp. 33-35.</bibl></cit>)</note>
 
-<note id="n3">[3] The <hi rend="italics">Bailey</hi> was a London ship owned by William Dawkins and commanded at various times by Adam Graves (1725-1730) and by Thomas Dove (1731-1732). She was a vessel of some 250 tons and carried 15-17 crew members. (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, 156v, and other data in Adm. 68/194 and /196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> A letter of Carter's executors to Dawkins 1738 May 10 refers to "your ship Bailey.")</note>
+<note id="n3">[3]  The <hi rend="italics">Bailey</hi> was a London ship owned by William Dawkins and commanded at various times by Adam Graves (1725-1730) and by Thomas Dove 1730-1732. She was a vessel of some 250 tons and carried 15-17 crew members. (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, 156v, and other data in Adm. 68/194 and /196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> A letter of Carter's to Dawkins <xref to="http://carter.lib.virginia.edu/html/C32e12b.html">May 12, 1732,</xref> refers to "your ship Bailey." as does a letter of August 10, 1733, from Carter's executors to Dawkins. [<cit><bibl>Lloyd T. Smith, Jr., <hi rend="italics">ed.</hi> <title>The Executors' Letters of Robert Carter of Corotoman, 1732-1738. </title> (Irvington, VA: Foundation for Historic Christ  Church, 2010) p. 76].</bibl></cit>)</note>
+
+<note id="n4"> [4] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (See <cit><bibl><xref to="http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm">"Bill of Exchange"</xref> in the online Dictionary of Financial Scam Terms: the Truth vs. the Scam.</bibl></cit>)</note>
+
+ <note id="n5"> [5] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was revised February 18, 2016,  to add footnotes and strengthen the modern language version text.</hi></note>
+
 
 </div1>
 </back>
