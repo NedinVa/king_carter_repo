@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2006</date>
+     <date>2006, 2016</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -137,34 +137,37 @@ from other <abbr expan="Merchants">Merchts</abbr> where the long dutys were not 
 to myself one of them is <sic corr="marked">markt</sic> <corr resp="editor">[tobacco mark]</corr> these 29 <abbr expan="you'll">you'l</abbr> Please to Accot to <lb/>
 me for. If any credit <del>be</del> <add place="supralinear">is</add> to be given to report Our tobacco in These <lb/>
 parts this year is much better than the James River tobacco this tobacco of mine <lb/>
-<sic corr="has">hath</sic> been all brought home and <abbr expan="prized">priz'd</abbr> at my own house and you must <lb/>
+<sic corr="has">hath</sic> been all brought home and <note target="n3"><abbr expan="prized">priz'd</abbr></note> at my own house and you must <lb/>
 allow me to tell you is both good and well handled. You made a quick sale <lb/>
 for me last year and I desire you to do the same</p>
 
 <p>A small Parcel of goods I would have <abbr expan="you">yo</abbr> to send me and <lb/>
-are as follows 12 <abbr expan="dozen">dozo.</abbr> Large <sic corr="Plaid">Plad</sic> hose 5 <abbr expan="dozen">dozo.</abbr> Of Hair <sic corr="Coverlets">Coverlits</sic> 30 <note target="n3">Ells</note> of of <abbr expan="your">yr.</abbr> <lb/>
-Fine <note target="n4">holland</note> and 30 Ells Coarser <abbr expan="ditto.">do.</abbr> As much fine <note target="n5">damask</note> as will <add place="supralinear">make 2</add> table <lb/>
-Cloths &amp; 2 <abbr expan="dozen">dozo</abbr> Napkins As much Coarse <note target="n6"><sic corr="Huckabuck">Huccaback</sic></note> as will make <lb/>
+are as follows 12 <abbr expan="dozen">dozo.</abbr> Large <sic corr="Plaid">Plad</sic> hose 5 <abbr expan="dozen">dozo.</abbr> Of Hair <sic corr="Coverlets">Coverlits</sic> 30 <note target="n4">Ells</note> of of <abbr expan="your">yr.</abbr> <lb/>
+Fine <note target="n5">holland</note> and 30 Ells Coarser <abbr expan="ditto.">do.</abbr> As much fine <note target="n6">damask</note> as will <add place="supralinear">make 2</add> table <lb/>
+Cloths &amp; 2 <abbr expan="dozen">dozo</abbr> Napkins As much Coarse <note target="n7"><sic corr="Huckabuck">Huccaback</sic></note> as will make <lb/>
 three table cloths and 4 <abbr expan="dozen">dozo</abbr> Napkins these goods I shall not pretend <lb/>
 to direct any Particular ship to bring them if you take Care to order them to be <lb/>
-landed at my house I shall not Care into what river they come to come in at I am<lb/>
-<abbr expan="Gentlemen">Gentl.</abbr><lb/>
-Your most Humble Servant<lb/>
+landed at my house I shall not Care into what river they come to come in at I am</p>
 
-</p>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="Gentlemen">Gentl.</abbr><lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your most Humble Servant<lb/>
 
-<closer><seg type="postscript">{Sent by the Secretary}<lb/>
-{to James River}<lb/>
-copy Per <note target="n7">Bowman</note><lb/>
-My son will take care to remit <abbr expan="you">yo.</abbr> The bills of lading for my tobacco
+
+
+<seg type="postscript">{Sent by the Secretary}<lb/>
+{to James River}<lb/><lb/>
+copy Per <note target="n8">Bowman</note><lb/><lb/><lb/>
+
+My son will take care to remit you  <note target="n9">bills of lading</note> for my tobacco.
 </seg>
 
-<seg type="postscript"><lb/><lb/>Gentlemen.	Augst. 7. 1731 <lb/>
-	The above is a Copy  I have little to add to it only to desire <lb/>
+<seg type="postscript"><lb/><lb/>Gentlemen.	<abbr expan="August">Augst.</abbr> 7. 1731 <lb/>
+<p>The above is a Copy  I have little to add to it only to desire <lb/>
 if my tobacco sells <sic corr="tolerably">tollerably</sic> You will send me a <sic corr="gross">groce</sic> of choice strong <lb/>
-Claret which Mr. Cheap tells me you have always the opportunity of doing <lb/>
-having large dealings in Wine. I am <lb/><lb/>
-Gentlemen as above
+<note target="n10">Claret</note> which Mr. Cheap tells me you have always the opportunity of doing <lb/>
+having large dealings in Wine. I am </p><lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gentlemen as above
 </seg>
 </closer>
 
@@ -184,21 +187,27 @@ Gentlemen as above
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] Richard Oswald (1687-1766) was a prominent Glasgow merchant who was "involved in West Indies and Madeira trade as well as tobacco importation." In partnership with his brother Alexander, the firm owned three ships (the <hi rend="italics">Martha,</hi> the <hi rend="italics">Amity,</hi> and the <hi rend="italics">Speedwell</hi>) of the 41 sailing from Glasgow in 1735. (<cit><bibl>Devine, T.M. <title>The Tobacco Lords: A Study of the Tobacco Merchants of Glasgow and their Trading Activites c. 1740-90.</title> Edinburgh: John Donald Publishers Ltd. p. 183;</bibl></cit> and "The Old Country Houses of the Old Glasgow Gentry: LXXXVII: Scotstoun." http://gdl.cdlr.strath.ac.uk/smihou/smihou087.htm. 8/2/2005.)</note>
+<note id="n1">[1] Richard Oswald (1687-1766) was a prominent Glasgow merchant who was "involved in West Indies and Madeira trade as well as tobacco importation." In partnership with his brother Alexander, the firm owned three ships (the <hi rend="italics">Martha,</hi> the <hi rend="italics">Amity,</hi> and the <hi rend="italics">Speedwell</hi>) of the 41 sailing from Glasgow in 1735. (<cit><bibl>Devine, T.M. <title>The Tobacco Lords: A Study of the Tobacco Merchants of Glasgow and their Trading Activites c. 1740-90.</title> Edinburgh: John Donald Publishers Ltd. p. 183;</bibl></cit> and  "The <xref to="http://gdl.cdlr.strath.ac.uk/smihou/smihou087.htm">Old Country Houses</xref> of the Old Glasgow Gentry: LXXXVII: Scotstoun." . 8/2/2005, 10/23/2015.)</note>
 
 <note id="n2">[2] This may have been Patrick Cheap, a merchant from Urbanna in Middlesex County. (<cit><bibl n="B39">Rutman and Rutman, <title>A Place in Time: Middlesex. . . . </title>  p. 247.</bibl></cit>) </note>
 
-<note id="n3">[3] The "ell" was an ancient meansure of cloth that had come, by Carter's time, to measure about 45 inches.</note>
+<note id="n3">[3] To prize is "to compress (cured tobacco) in a hogshead or box." There is a good description of the process on pages 100-101 in Middleton's  <title>Tobacco Coast.</title> (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press;</bibl></cit> and <cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> [Newport News, VA: Mariners' Museum, 1953].</bibl></cit>)</note>
 
-<note id="n4">[4] Holland is "a closely woven white linen used especially for shirts and bed linen." (<cit><bibl>"Of Silk, Cotton, Linen and Wool."  18c New England Life: Clothing &amp; Accoutrements. http://www.18cnewenglandlife.org/18cNEL/ofsilk.htm. 1/8/04</bibl></cit>)</note>
+<note id="n4">[4] Ell is a measure defined in the <title>Oxford English Dictionary</title> as "a measure of length varying in different countries. The English ell = 45 in[ches]."</note>
 
-<note id="n5">[5] Damask is a fabric that can be made of various types of thread so woven that there is a pattern in the resulting material. Linen is usually the fabric for table cloths. </note>
+<note id="n5">[5] Holland is a "fine linen cloth first inported from Holland; after the 18th century the name was applied to any fine linen." (<cit><bibl> <xref to="http://www.18cnewenglandlife.org/18cnel/glossary.htm">"Glossary of Textile Terms."</xref> </bibl></cit> citing <cit><bibl><title>An Elegant Art: Fashion &amp; Fantasy In The Eighteenth Century: Los Angeles County Museum Of Art Collection Of Costumes And Textiles</title>.  (Los Angeles: Los Angeles County Museum of Art; New York: H.N. Abrams, c1983).</bibl></cit>) </note>
 
-<note id="n6">[6] Huckabuck is "a stout linen fabric with the weft threads thrown up to form a rough 
-surface; used especially for towels." (<cit><bibl>"Of Silk, Cotton, Linen and Wool."  18c New England Life: Clothing &amp; Accoutrements. http://www.18cnewenglandlife.org/18cNEL/ofsilk.htm. 1/8/04</bibl></cit>) </note>
+<note id="n6">[6] Damask is a  "silk, wool, or linen reversible fabric richly figured with designs; ground and pattern distinguished by contrasting luster.   (<cit><bibl> <xref to="http://www.18cnewenglandlife.org/18cnel/glossary.htm">"Glossary of Textile Terms."</xref> </bibl></cit> citing <cit><bibl><title>An Elegant Art: Fashion &amp; Fantasy In The Eighteenth Century: Los Angeles County Museum Of Art Collection Of Costumes And Textiles</title>.  (Los Angeles: Los Angeles County Museum of Art; New York: H.N. Abrams, c1983).</bibl></cit>)</note>
 
-<note id="n7">[7] Captain Samuel Bowman commanded the <hi rend="italics">Lucia.</hi> Carter mentioned this vessel in his diary in June 1724, and again on 1726 March 4 when he wrote that she "came in had 20 Weeks Passage."</note>
+<note id="n7">[7] Huckabuck is "a stout linen fabric with the weft threads thrown up to form a rough surface; used especially for towels." (<cit><bibl>"Of Silk, Cotton, Linen and Wool."  Boston Newsletter.  <xref to="http://www.oocities.org/heartland/woods/3501/the.htm">18th Century Trade Terms</xref> from <title>The Beekman Mercantile Paper</title> 1746 - 1799</bibl></cit>) </note>
 
+<note id="n8">[8] Captain Samuel Bowman commanded the <hi rend="italics">Lucia.</hi> Carter mentioned this vessel in his diary in June 1724, and again on 1726 March 4 when he wrote that she "came in had 20 Weeks Passage."</note>
+
+<note id="n9"> [9] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
+
+<note id="n10">10[] Claret is "a name" that was  "originally given . . .  to wines of yellowish or light red colour, as distinguished alike from 'red wine' and 'white wine'; the contrast with the former ceased about 1600, and it was apparently then used for red wines generally, in which sense it is still. . . . " (<cit><bibl><title>Oxford English Dictionary Online</title></bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was revised February 16, 2016,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 </div1>
 </back>

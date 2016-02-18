@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2006</date>
+     <date>2006 2016</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -122,25 +122,26 @@ are <abbr expan="contained">contain'd</abbr> in three lines at the bottom of my 
 
 <p>I cannot but be a little <abbr expan="concerned">concern'd</abbr> no futher intelligence <lb/>
 is given to me of the business I have in <abbr expan="your">yr</abbr> hands Accots are yet to be <lb/>
-<abbr expan="rendered">render'd</abbr> me for the following <abbr expan="tobaccos">tobos</abbr> vizt forty hogsheads of my own <lb/>
-crops in the <name type="ship">Providence</name> <abbr expan="per">pr.</abbr> <note target="n2">Woodward</note> in 1729 ten hogsheads <abbr expan="per">pr.</abbr> <corr resp="editor">[the]</corr> <note target="n3">  Bailey</note>
+<abbr expan="rendered">render'd</abbr> me for the following <abbr expan="tobaccos">tobos</abbr> <note target="n2">vizt</note> forty hogsheads of my own <lb/>
+crops in the <name type="ship">Providence</name> <abbr expan="per">pr.</abbr> <note target="n3">Woodward</note> in 1729 ten hogsheads <abbr expan="per">pr.</abbr> <corr resp="editor">[the]</corr> <note target="n3">  Bailey</note>
 
 <pb n="2"/><lb/><lb/>
 the same year belonging to <note n="NB">Mr. Burwells Estate</note> twenty hogsheads  <lb/>
 <abbr expan="stemmed">stemm'd</abbr> <abbr expan="tobacco">tobo</abbr> my own Crop Per the Providence in 1730. and 7 hogsheads <abbr expan="ditto">do</abbr> in <lb/>
 the Bailey <abbr expan="stemmed">stemm'd</abbr> <sic corr="also">alsoe</sic> none of these tobaccos are made any mention of <lb/>
 although the Ships tha<corr resp="editor">[t]</corr> Carried them have visited us again &amp; Again <lb/>
-Last year I sent Bills of Exchange upon <abbr expan="Yourselves">Yr.selfs</abbr> for &pound;29.18.10 drawn <lb/>
+Last year I sent <note target="n5">Bills of Exchange</note> upon <abbr expan="Yourselves">Yr.selfs</abbr> for &pound;29.18.10 drawn <lb/>
 by <sic corr="Churchill">Churchil</sic> Jones and for &pound;10" by Dennis McCarty I presume by <abbr expan="your">yr.</abbr> <lb/>
 Silence these bills I am credited with perhaps your letters may have <lb/>
-Miscarry'd <add place="supralinear">which</add> hath <abbr expan="occasioned">occasion'd</abbr> this disapointment to me</p>
+Miscarry'd <add place="supralinear">which</add> <sic corr="has">hath</sic> <abbr expan="occasioned">occasion'd</abbr> this disapointment to me</p>
 
 <p>Herein I send you an Invoice for some things for two of <lb/>
 my children desiring the directions therein may be <abbr expan="observed">observ'd</abbr> I am-<lb/>
 </p>
 
-<closer>Gentlemen<lb/>
-<abbr expan="Your">Yr.</abbr> Most humble Servant.</closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gentlemen<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="Your">Yr.</abbr> Most humble Servant.</closer>
 
 
 </div1>
@@ -160,9 +161,16 @@ my children desiring the directions therein may be <abbr expan="observed">observ
 
 <note id="n1">[1] The <hi rend="italics">Rebecca </hi> was probably a London ship; she was of 300 tons, had a crew of 11, and was commanded by Samuel Malbon in 1731. (<cit><bibl>Adm. 65/195, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
-<note id="n2">[2] Thomas Woodward commanded the <hi rend="italics">Providence,</hi> a ship owned by Captain John Hyde &amp; Company, during a number of voyages to the colony, 1723-1729. (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194 and Survey Report 6801 summarizing Adm 68/195, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia,</bibl></cit> and Carter's letter to the firm, 1723 September 17.)</note>
+<note id="n2">[2] Vizt. is the abbreviation for the Latin word "videlicet";  it means "that is to say; namely; to wit: used to introduce an amplification, or more precise or explicit explanation, of a previous statement or word." (<cit><bibl><title>Oxford English Dictionary</title> online.</bibl></cit>)</note>
 
-<note id="n3">[3] The <hi rend="italics">Bailey</hi> was a London ship owned by William Dawkins and commanded at various times by Adam Graves (1725-1730) and by Thomas Dove (1731-1732). She was a vessel of some 250 tons and carried 15-17 crew members. (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, 156v, and other data in Adm. 68/194 and /196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> A letter of Carter's executors to Dawkins 1738 May 10 refers to "your ship Bailey.")</note>
+<note id="n3">[3] Thomas Woodward commanded the <hi rend="italics">Providence,</hi> a ship owned by Captain John Hyde &amp; Company, during a number of voyages to the colony, 1723-1729. (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194 and Survey Report 6801 summarizing Adm 68/195, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia,</bibl></cit> and  Carter's letter to the firm,  <xref to="/users/berkeley/public/C23i17a.xml">September 17, 1723.</xref>)</note>
+
+<note id="n4">[4] The <hi rend="italics">Bailey</hi> was a London ship owned by William Dawkins and commanded at various times by Adam Graves (1725-1730) and by Thomas Dove 1730-1732. She was a vessel of some 250 tons and carried 15-17 crew members. (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, 156v, and other data in Adm. 68/194 and /196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> A letter of Carter's to Dawkins <xref to="http://carter.lib.virginia.edu/html/C32e12b.html">May 12, 1732,</xref> refers to "your ship Bailey." as does a letter of August 10, 1733, from Carter's executors to Dawkins. [<cit><bibl>Lloyd T. Smith, Jr., <hi rend="italics">ed.</hi> <title>The Executors' Letters of Robert Carter of Corotoman, 1732-1738. </title> (Irvington, VA: Foundation for Historic Christ  Church, 2010) p. 76].</bibl></cit>)</note>
+
+<note id="n5"> [5] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (See <cit><bibl><xref to="http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm">"Bill of Exchange"</xref> in the online Dictionary of Financial Scam Terms: the Truth vs. the Scam.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was revised February 12, 2016,  to add footnotes and strengthen the modern language version text.</hi></note>
+
 </div1>
 </back>
 

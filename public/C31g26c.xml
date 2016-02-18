@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2006</date>
+     <date>2006 2016</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -94,7 +94,7 @@
 <title>Letter from Robert Carter to William Dawkins and Company, July 26, 1731</title>
 </bibl>
 </head>
-<p>Robert Carter writes to London merchants William Dawkins and Company, July 26, 1731, to report shipments of tobacco on board the <hi rend="italics">Burwell</hi> and the <hi rend="italics">Spotswood,</hi> and to cover an invoice (not present) of goods for te Burwell children. He also reports some bills of exchange. In a postscript of the same date he informs them of another bill of exchange.</p>
+<p>Robert Carter writes to London merchants William Dawkins and Company, July 26, 1731, to report shipments of tobacco on board the <hi rend="italics">Burwell</hi> and the <hi rend="italics">Spotswood,</hi> and to cover an invoice (not present) of goods for the Burwell children. He also reports some bills of exchange. In a postscript of the same date he informs them of another bill of exchange.</p>
 </div1>                 
 </front>
 
@@ -117,36 +117,37 @@ Mr. William Dawkins &amp; Company<lb/>
 
 
 <p>By the <note target="n1"><name type="ship">Burwell</name></note> and <note target="n2"><name type="ship">Spotswood</name></note> I sent the <lb/>
-bills of Lading of the tobaccos I <sic corr="shipped">shipt</sic> in them both my own and<lb/>
+<note target="n3">bills of Lading</note> of the tobaccoes I <sic corr="shipped">shipt</sic> in them both my own and<lb/>
 belonging to <note n="MP1">Mr. Burwells Estate</note></p>
 
 <p>Herein I send an invoice for some goods for <lb/>
-the Supply of Mr. Burwells children You have <abbr expan="pleased">pleas'd</abbr> their moth <lb/>
+the Supply of Mr. Burwells children You have <abbr expan="pleased">pleas'd</abbr> their moth= <lb/>
 er hitherto and so I hope you will do still they are to <corr resp="editor">[be]</corr> sent in to me <lb/>
 in a York Ship</p>
 
-<p>I have drawn pon <abbr expan="you">yo</abbr> <del>for the following bills upon</del> <lb/>
-the account of that estate <add place="supralinear">a bill of <abbr expan="Exchange">Ex:</abbr></add> which I desire you to pay and place accor <lb/>
-dingly Vizt<lb/>
+<p>I have drawn upon <abbr expan="you">yo</abbr> <del>for the following bills upon</del> <lb/>
+the account of that estate <add place="supralinear">a <note target="n4">bill of <abbr expan="Exchange">Ex:</abbr></note></add> which I desire you to pay and place accor <lb/>
+dingly <note target="n5">Vizt</note><lb/>
 	<del>To Mr</del> John Randolph <del>for</del> &pound;17"0.0 <lb/>
 	<del>To</del> Henry Hacker &mdash;&mdash;&mdash; <del>10</del>'13.9 <lb/>
-	To Mr. <note n="CS1"><abbr expan="Charles">Chs</abbr> Stagg</note> &mdash;&mdash;12"0.'
+	To Mr. <note n="CS1"><abbr expan="Charles">Chs</abbr> Stagg</note> &mdash;&mdash;12"0.'</p>
 
+<closer>
+<seg type="postscript">By Barnes &amp; <note target="n6">Dove</note></seg>
+<lb/><lb/>
 
-</p>
-
-<closer><seg type="postscript">By Barnes &amp; <note target="n3">Dove</note></seg><lb/><lb/>
-
-<seg type="postscript">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Added to Mr Dawkins letter, July 26. 1731 <abbr expan="ditto">do.</abbr> Day <lb/><lb/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Here is also another small bill drawn by Charles Broadwater on <lb/>
+<seg type="postscript"><p>Added to Mr Dawkins letter, July 26. 1731 <abbr expan="ditto">do.</abbr> Day </p>
+<p>Here is also another small bill drawn by Charles Broadwater on <lb/>
 <note n="JH2"><abbr expan="Captain">Capt</abbr> Hyde</note> &amp; Company for &pound;3.8. These bills I disire <abbr expan="your">yr</abbr> management <lb/>
-of<lb/>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I had <abbr expan="prepared">prepar'd</abbr> my letters and invoice for Barnes <lb/>
+of</p><lb/>
+<p>I had <abbr expan="prepared">prepar'd</abbr> my letters and invoice for Barnes <lb/>
 for near three weeks <sic corr="ago">agoe</sic> expecting him daily down but some <lb/>
 appointments have kept them thus long, and Dove by his ex <lb/>
-traordinary diligence is now just at his heels I am<lb/>
-Gentlemen<lb/>
-Your most humble <abbr expan="Servant">Servt.</abbr><lb/><lb/>
+traordinary diligence is now just at his heels I am</p>
+<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gentlemen<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your most humble <abbr expan="Servant">Servt.</abbr><lb/><lb/>
+
 <abbr expan="Per">Pr</abbr> Barnes<lb/>
 Copy <abbr expan="per">pr</abbr> Dove
 
@@ -172,9 +173,19 @@ Copy <abbr expan="per">pr</abbr> Dove
 
 <note id="n1">[1] This vessel was commanded by Captain Constantine Cant and may have been owned by William Dawkins and Micajah Perry as Carter reported her December 1723 arrival to each of them. (<cit><bibl>Adm. 68/194-195, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
-<note id="n2">[2] The <hi rend="italics">Spotswood</hi> was a  London ship commanded by James Bradby,  1727-1732, and was owned by Micajah Perry.  (<cit><bibl>Adm 68/195, 70r ff., found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. See Carter to Micajah Perry 1730 April 16.</bibl></cit>)</note>
+<note id="n2">[2] The <hi rend="italics">Spotswood</hi> was a  London ship commanded by James Bradby,  1727-1732, and was owned by Micajah Perry.  (<cit><bibl>Adm 68/195, 70r ff., found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. See <xref to="http://carter.lib.virginia.edu/html/C30d16c.html">Carter to Micajah Perry</xref> April 16. 1730.</bibl></cit>)</note>
 
-<note id="n3">[3] The <hi rend="italics">Bailey</hi> was a London ship owned by William Dawkins and commanded at various times by Adam Graves (1725-1730) and by Thomas Dove (1731-1732). She was a vessel of some 250 tons and carried 15-17 crew members. (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, 156v, and other data in Adm. 68/194 and /196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> A letter of Carter's executors to Dawkins 1738 May 10 refers to "your ship Bailey.")</note>
+ <note id="n3"> [3] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
+
+<note id="n4"> [4] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (See <cit><bibl><xref to="http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm">"Bill of Exchange"</xref> in the online Dictionary of Financial Scam Terms: the Truth vs. the Scam.</bibl></cit>)</note>
+
+<note id="n5">[5] Vizt. is the abbreviation for the Latin word "videlicet";  it means "that is to say; namely; to wit: used to introduce an amplification, or more precise or explicit explanation, of a previous statement or word." (<cit><bibl><title>Oxford English Dictionary</title> online.</bibl></cit>)</note>
+
+<note id="n6">[6] The <hi rend="italics">Bailey</hi> was a London ship owned by William Dawkins and commanded at various times by Adam Graves (1725-1730) and by Thomas Dove 1730-1732. She was a vessel of some 250 tons and carried 15-17 crew members. (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, 156v, and other data in Adm. 68/194 and /196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> A letter of Carter's to Dawkins <xref to="http://carter.lib.virginia.edu/html/C32e12b.html">May 12, 1732,</xref> refers to "your ship Bailey." as does a letter of August 10, 1733, from Carter's executors to Dawkins. [<cit><bibl>Lloyd T. Smith, Jr., <hi rend="italics">ed.</hi> <title>The Executors' Letters of Robert Carter of Corotoman, 1732-1738. </title> (Irvington, VA: Foundation for Historic Christ  Church, 2010) p. 76].</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was revised February12 , 2016,  to add footnotes and strengthen the modern language version text.</hi></note>
+
+
 </div1>
 </back>
 

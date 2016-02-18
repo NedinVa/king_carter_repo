@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2006</date>
+     <date>2006, 2016</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -94,7 +94,7 @@
 <title>Letter from Robert Carter to John King, July 19, 1731</title>
 </bibl>
 </head>
-<p>Robert Carter writes to Bristol merchant John King, July 19, 1731, to complain about Captain Sweet of the <hi rend="italics">Chester</hi> who did not guarantee the discount Carter is used to, and trusting that King will correct the matter. He sends an invoice for bar iron.</p>
+<p>Robert Carter writes to Bristol merchant John King, July 19, 1731, to complain about Captain Sweet of the <hi rend="italics">Chester</hi> who did not guarantee the discount Carter is used to, and trusting that King will correct the matter. He sends an invoice (not present)  for bar iron.</p>
 </div1>                 
 </front>
 
@@ -122,18 +122,22 @@ you of 20 <abbr expan="hogsheads">hhds.</abbr> of <abbr expan="stemmed">stemm'd<
 he promised to allow me two shillings six Pence Per <abbr expan="hogsheads">hhd.</abbr> <lb/>
 Sterling, I <abbr expan="answered">answer'd</abbr> him that I never had less <abbr expan="allowed">allow'd</abbr> me than <lb/>
 three Shillings but he <abbr expan="passed">pass'd</abbr> by my house when none of us were at <lb/>
-home and instead of paying me this money left my bills of Ladin<lb/>
-g writing in them that so much as the <note target="n1">impost</note> was not Paid <lb/>
+home and instead of paying me this money left my <note target="n1">bills of Ladin<lb/>
+g</note> writing in them that so much as the <note target="n2">impost</note> was not Paid <lb/>
 I hope you will take care to right me in this matter</p>
 
 <p>Herein I send a small invoice which I desire you <lb/>
 to send me in According to my <del>desire</del> directions I am
 </p>
 
-<closer>Sir<lb/>
-Your very humble Servt.
-<seg type="postscript"><lb/><lb/>600 <abbr expan="weight">wt</abbr> Iron Broad flat <sic corr="Bars">Barrs</sic><lb/>
-for weeding hoes</seg></closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your very humble Servt.
+
+<seg type="postscript"><lb/><lb/>
+600 <abbr expan="weight">wt</abbr> Iron Broad flat <sic corr="Bars">Barrs</sic><lb/>
+for weeding hoes</seg>
+</closer>
 
 
 </div1>
@@ -151,7 +155,12 @@ for weeding hoes</seg></closer>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1]  The impost was the duty imposed by Britain on imported tobacco, and the cocket (for which a fee was charged) was the certified document issued that the impost had been paid.</note>
+<note id="n1"> [1] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
+
+<note id="n2">[2]  The impost was the duty imposed by Britain on imported tobacco, and the cocket, for which a fee was charged, was the document bearing a cocket or seal issued by the "King's Customs House" that the impost had been paid. (See the definitions of each word in  <cit><bibl><title>Oxford English Dictionary Online.</title></bibl></cit>)</note>
+
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was revised January 18, 2016,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 </div1>
