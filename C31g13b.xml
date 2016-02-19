@@ -1,0 +1,206 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C31g13a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Benjamin Grayson, July 13, 1731</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 11 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C31g13a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2006, 2016</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Benjamin Grayson, July 13, 1731</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1731-07-13</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C31g13aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1731-07-13"></date>
+<idno rend="suppress">C31g13a.xml</idno>
+<title>Letter from Robert Carter to Benjamin Grayson, July 13, 1731</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Benjamin Grayson of Prince William County, July 13, 1731, to give him instructions about his supervision of work at the Frying Pan mine and its workers whom Carter believes to be lazy and rogues. Apparently Grayson is selling sugar and rum for Carter as well.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note target="n1">Benjamin Grayson,</note> July 13, 1731</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Corotomon, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1731-07-13">13 July 1731</date><lb/>
+Mr Benja Grayson,<lb/>
+</dateline>
+
+
+</opener>
+
+
+
+<p>I have already <sic corr="written">writ</sic> you a Long <abbr expan="Letter">Lr</abbr> in relation to the <note target="n2">miners</note> &amp; given<lb/>
+you full Instructions how to proceed with them. I now come to your Jour=<lb/>
+nal, which I must needs have you continue; but I would have you a little<lb/>
+more particular, <abbr expan="that">tht</abbr> is, to make an Accot of the <sic corr="Holidays">Holidayes</sic> &amp; Absent <sic corr="Days">Dayes</sic> &mdash;<lb/>
+&amp; pieces of <sic corr="Days">Dayes</sic> of every Miner; for I shall think it but reasonable <abbr expan="that">tht</abbr> they<lb/>
+should discount out of their wages all their <sic corr="misspent">mispent</sic> Time. We pay <sic corr="them">thm</sic><lb/>
+for <sic corr="Holidays">Holidayes</sic> &amp; <sic corr="Saturdays">Saturdayes</sic> &amp; Saturdays in the Afternoon as well as <add place="supralinear">for</add> other <lb/>
+working <sic corr="Days">Dayes.</sic> If you make <add place="supralinear">out</add> ths accot monthly, it will be easy upon a slight <lb/>
+view to cast up how many <sic corr="misspent">mispent</sic> <sic corr="Days">Dayes</sic> each Man is to accot for as for <lb/>
+Hawes &amp; Brunton, I look upon them in another Manner our Servants&mdash;<lb/>
+as I have said enough to you of them already. I herewith send you a Copy <lb/>
+of a letter signed by Brunton, Honey, Whitford &amp; Haweis, <abbr expan="that">tht</abbr> you may see <abbr expan="what">wht </abbr><lb/>
+Rogues they are; &amp; what Fools Whitford &amp; Honey are to let the other two <lb/>
+shelter themselves under the Character <abbr expan="that">tht</abbr> they brought with <abbr expan="them">thm</abbr> from <lb/>
+<note n="FT">Falmouth.</note> Howeis &amp; Brunton were fellows hired in <name type="city">London</name>. Idle&mdash; <lb/>
+Villains <abbr expan="that">tht</abbr> were in want of Bread.</p>
+
+<p>I have <sic corr="overhauled">overhawled</sic> your several accots &amp; find nineteen pounds <lb/>
+&amp; a <abbr expan="Quarter">Qr.</abbr> of <abbr expan="Sugar,">Sugr,</abbr> thirty gallons of Rum disposed of. If I remember right I <lb/>
+ordered the sugar not to be sold for less than ten pence. The Rum, considering <lb/>
+the great Loss, is not dear. I sent you forty <abbr expan="Gallons">Galls</abbr> &amp; you have sold but thirty <lb/>
+but certainly, if it came safe to you, you might have drawn it off with less <lb/>
+Loss. By your Accot you have the greater part of the sugar by you still &mdash; <lb/>
+I shall go nearby the <sic corr="Schooner">Scooner</sic> to adventure another Cask of rum to you&mdash; <lb/>
+to try if you can make a better hand another time. <sic corr="I think ">Methinks</sic> you give <lb/>
+a very Strange Accot of the Expence of the Carpenter's <add place="supralinear">time</add> I can think of nothing <lb/>
+more, that they have done since the Barn, but getting the Barrel Stuff &mdash; <lb/>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Some
+
+<pb n="2"/><lb/><lb/>
+some stuff for Timbering the <note target="n3">Holes</note> &amp; a little sawing, for a great many <lb/>
+months together, &amp; now you tell me they have three weeks sawing still <lb/>
+Pray let me have them forthwith to Building for my son. If there would <lb/>
+want a <abbr expan="Tobacco">Tobo</abbr> house at <note target="n4">Cub Run</note> for the Crop, you had best set them to do <abbr expan="that">tht</abbr>&mdash; <lb/>
+first. You should continue to set <abbr expan="that">tht</abbr> house, where there is a large <abbr expan="Quantity">Qty</abbr> of good <lb/>
+Land round; however contriving <abbr expan="that">tht</abbr> it may stand so near to the <abbr expan="Quarter">Qr</abbr> to be of <lb/>
+usefulness to it. I believe there wants a negro <abbr expan="Quarter">Qr</abbr> <add place="supralinear">there</add> as much as anything <lb/>
+Certainly, if they are no better employed than they have been, we must ex= <lb/>
+pect nothing at all from their Work. Neale is a very Idle Rogue; you <lb/>
+should give him a Great deal of Drubbing, &amp; make him stand in fear of <lb/>
+you. The negroes surely must spent a great deal of their Time in <lb/>
+making Pails &amp; <note target="n5"><sic corr="Piggins">Piggons</sic></note> &amp; Churns for Merchandizing <note target="n6">Manuel</note> tells <lb/>
+me the smith does a great many Jobs for the neighbours. I hope he does &mdash; <lb/>
+not work for nothing. He can never be employed at third of his Time <lb/>
+in the work of the mine. I shall endeavour to supply you by the <sic corr="schooner">scooner</sic> &amp; <lb/>
+am your Friend&mdash;&mdash;
+</p>
+
+
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.  There is a 19th-century transcript of the letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia.</note>
+
+<note>The county and colony have been added for clarity to the heading on this draft. </note>
+
+<note id="n1">[1] Benjamin Grayson was, according to Fairfax Harrison, "one of the earliest of the Scots merchants to be established on Quantico, where Dumfries was to arise." He was appointed a justice of Prince William County in November 1731. (<cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> pp. 156</bibl></cit>and <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]: 256.</bibl></cit>)</note>
+
+<note id="n2">[2]  In 1728, Carter, his sons Robert and Charles, and his son-in-law Mann Page,  organized a company to mine for copper on a tract of some 27,000 acres that Louis Morton describes as lying "near the present boundary of Fairfax and Loudoun counties." Fairfax Harrison wrote that the tract was "on the  Horsepen of Broad." Today, there is a Frying Pan Park just east of the border of the Dulles Airport reservation, and there are other things with the name in the area. The company was not successful. From this letter it is apparent that Carter had hired Grayson to supervise the work being done at the mine. (<cit><bibl n="B32">Morton. <title>Robert Robert Carter of Nomini Hall.</title> pp. 18-19;</bibl></cit> and <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> p. 342. </bibl></cit>)</note>
+
+<note id="n3">[3] mines</note>
+
+<note id="n4">[4] Cub Run lies in today's Loudoun and Fairfax counties, rising in the southern portion of the Dulles Airport reservation, and running more or less south, emptying into Bull Run. It was the original boundary between the two counties. (<cit><bibl>Alexandria Drafting Company. <title>Regional Northern Virginia.</title> [Alexandria, VA: Alexandria Drafting Company, 2002], pp. 16, 23, 30,151;</bibl></cit> and <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> Map of Old Prince William" before p. 351.</bibl></cit>)</note>
+
+<note id="n5">[5] A piggin is "a (small) pail or similar vessel, esp. a wooden one with one stave longer than the rest serving as a handle. . . ."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
+
+<note id="n6">[6] William Manuel, one of Carter's servants.</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was revised January12 , 2016,  to add footnotes and strengthen the modern language version text.</hi></note>
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C31g09f">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to John Stark, July 9 and August 7, 1731</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 11 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C31g09f.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2006, 2015</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to John Stark, July 9 and August 7, 1731</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>3 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1731-07-09</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C31g09fT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>3 p.</extent>
+<date value="1731-07-09"></date>
+<idno rend="suppress">C31g09f.xml</idno>
+<title>Letter from Robert Carter to John Stark, July 9 and August 7, 1731</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Glasgow merchant John Stark, July 9 and August 7, 1731, to inform him of a bill of exchange. In a longer postscript dated August 7, 1731, Carter complains bitterly about Stark's poor sales and management of his affairs, and informs the merchant that he has explained his complaints to Captain Bowman of the <hi rend="italics">Lucia</hi> from whom Stark is to get the details. Nevertheless, Carter is shipping more tobacco on the <hi rend="italics">Lucia</hi> and encloses a bill of lading (not present).</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note target="n1">John Stark,</note> July 9 and August 7, 1731</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1731-07-09">July 9. 1731&mdash;&mdash;</date><lb/>
+Mr. John Stark<lb/>
+</dateline>
+<salute>Sir</salute>
+
+</opener>
+
+
+
+<p>I have recveiv'd <abbr expan="your">yr.</abbr> Letters goods &amp; Accots of sales<lb/>
+which <sic corr="I'll">I'l</sic> answer in a particular manner by <note target="n2"><abbr expan="Captain">Capt</abbr> Bowman</note>&mdash;</p>
+
+<p>The only business of this is to advise you that I<lb/>
+have this day <note target="n3">drawn upon you</note> three hundred Pounds payable to <abbr expan="Colonel">Colo</abbr><lb/>
+<note n="MCB">George Braxton</note> which bill I desire <abbr expan="you">yo.</abbr> Punctually to Answer at time<lb/>
+and place to Accot of</p>
+
+<closer>
+
+<seg type="postscript">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="Your">Yr.</abbr> Humble Servant
+<seg type="postscript"><lb/><lb/>Copy Per Bowman<lb/><lb/></seg>
+
+<pb n="2"/><lb/><lb/>
+		Added to Mr. Starks letter of the 9th. of July 1731.<lb/>
+								August. 7, 1731 &mdash; <lb/><lb/>
+Sir<lb/>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have abundance of complaints against <abbr expan="your">yr.</abbr> Management<lb/>
+of my Affairs I had once intended to have given <abbr expan="you">yo</abbr> a particular<lb/>
+Accot of all my Objections against <abbr expan="your">yr.</abbr> Proceedings but they are so<lb/>
+many that they would have <abbr expan="swelled">swell'd</abbr> my letter to a great Bulk therefore<lb/>
+I have thought it a more proper Way to discourse <abbr expan="Captain">capt</abbr> Bowman<lb/>
+of my several particular grievances And to refer <abbr expan="you">yo</abbr> to him for a <lb/>
+detail of them how far <abbr expan="you">yo</abbr> will think fit to redress me I must<lb/>
+Submit to <abbr expan="your">yr.</abbr> Consideration You have <abbr expan="rendered">render'd</abbr> me the measnest sales &amp; <lb/>
+the most dilatory of any person in <abbr expan="your">yr.</abbr> Port and I would not Ship a hogshead <lb/>
+of <abbr expan="tobacco">tobo</abbr> upon the <name type="ship">Lucia</name> <sic corr=" until"> till</sic> I brought <abbr expan="Captain">Capt</abbr> Bowman into a <sic corr="Promise">Promiss</sic> <lb/>
+to allow me the liberty of Shipping what I shall put on board of <lb/>
+him to whom I <abbr expan="pleased">pleas'd</abbr> intending indeed Wholly to discontinue any far= <lb/>
+ther business with you however upon further thoughts not being <lb/>
+Willing to break all at once with You I have Consigned <abbr expan="you">yo</abbr> 17 hogsheads <lb/>
+of <abbr expan="tobacco">tobo</abbr> for which you have here a <note target="n4">bill of Lading</note> and <abbr expan="you">yo</abbr> have <lb/>
+another for 4 hogsheads more which comes to <abbr expan="you">yo</abbr> upon <note n="JC1">my Son</note> the Secretary's 
+
+<pb n="3"/><lb/><lb/>
+Account and <abbr expan="you">yo</abbr> are to Accot to him for them which is all the troubles <lb/>
+I shall give <abbr expan="you">yo</abbr> at Present from<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<lb/>
+<closer>
+Your humble Servt&mdash;&mdash;<lb/><lb/>
+I am indebted to <abbr expan="Captain">Capt</abbr> Bowman twelve shillings sterling<lb/>
+which I desire you to debit my Accot with</closer>
+</seg>
+</closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">1[] John Stark was a  prominent Glasgow merchant in the sugar trade. He served as as baillie and provost (mayor) from 1725-1727. (<cit><bibl>John M'ure. <title>The History of Glasgow.</title> [Glasgow: D. Macvean and J. Wyllie &amp; Co., 1830] pp. 227-228</bibl></cit> as seen on Google books; and <cit><bibl>"Provosts of Glasgow" at <xref to="http://www.glasgow.gov.uk/en/AboutGlasgow/LordProvostsmessage/Provosts+of+Glasgow.htm">"Welcome to Glasgow"</xref>.</bibl></cit>)</note>
+
+<note id="n2">[2] Captain Samuel Bowman commanded the <hi rend="italics">Lucia.</hi> Carter mentioned this vessel in his diary in June 1724, and again on March 4, 1726, when he wrote that she "came in had 20 Weeks Passage."</note>
+
+<note id="n3"> [3] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (See <cit><bibl><xref to="http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm">"Bill of Exchange"</xref> in the online Dictionary of Financial Scam Terms: the Truth vs. the Scam.</bibl></cit>)</note>
+
+<note id="n4"> [4] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was revised November 5, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

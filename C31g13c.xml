@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C31g13c">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to William Howeis &amp; Robert Brunton, July 13, 1731</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 8 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C31g13c.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2006</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to William Howeis &amp; Robert Brunton, July 13, 1731</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>2 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1731-07-13</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C31g13cT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1731-07-13"></date>
+<idno rend="suppress">C31g13c.xml</idno>
+<title>Letter from Robert Carter to William Howeis &amp; Robert Brunton, July 13, 1731</title>
+</bibl>
+</head>
+<p>Robert Carter writes to William Howeis &amp; Robert Brunton, July 13, 1731, to remind them of their positions as indentured servants, informing them both that Benjamin Grayson is to be their master and that they are to have less meat and "drubbings" to correct their "villanous" behavior. </p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note target="n1">William Howeis &amp; Robert Brunton,</note> July 13, 1731</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Corotomon, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<date value="1731-07-13">13 July 1731</date><lb/>
+Wm Howeis &amp; <lb/>
+Robert Brunton
+</dateline>
+
+</opener>
+
+
+
+<p>I have understood you have both behaved your selves in<lb/>
+a very <sic corr="Vilanous">Villanous</sic> &amp; base Manner; not like such Servants as you are &mdash;<lb/>
+by your <note target="n2">Indentures</note>, tht is Diggers in the Mines. I have therefore thought it <lb/>
+proper to send to <note target="n3">Mr Grayson</note> Copies of your Indentures, that he may know <lb/>
+<sic corr="that">tht</sic> you are our Servants for four years from the Time of your Arrival into the<lb/>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sic corr="Country">Countrey</sic>
+
+<pb n="2"/><lb/><lb/>
+<sic corr="Country;">Countrey;</sic> &amp; that, if you do not know how to behave your Selves as Servants, &mdash;<lb/>
+that he should make you do it by Correction suitable to your <note target="n4">Deserts</note>. And to<lb/>
+that End I do hereby let you know that I do appoint him your Master in <lb/>
+the Absence of Me or of my sons, giving him the same Power over <sic corr="you">yo</sic>  we have<lb/>
+you pretend to <sic corr="Holidays">Holidayes</sic> &amp; what not; but I forbid it you &amp; order him to<lb/>
+make you work <sic corr="daily,">dayly,</sic> as the Rest of my servants <sic corr="that">tht</sic> are there do day by day,<lb/>
+keeping no more <sic corr="Holidays">Holidayes</sic> on <add place="supralinear">non</add> <sic corr="Saturdays">Saturdayes</sic> in the afternoon than they do &mdash; <lb/>
+It seems one of you (Haweis) is a very <sic corr="profane">prophane</sic> Rogue, curses his<lb/>
+Meat &amp; us that are his Masters. I order Mr Grayson not to let you have so <lb/>
+much Meat as you have had. And, seeing you have abused the Kindness you <lb/>
+have met with, to treat you in a worse manner than you have been, &amp; <lb/>
+give you sound <note target="n5">Drubbings</note> suitable to your Merits. You shall know you <lb/>
+have Masters <sic corr="that">tht</sic> will not be fooled by You, but will use the proper way, <lb/>
+with you to bring you to better Manners.</p>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia. There is a 19th-century transcript of the letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia.</note>
+
+<note>The county and colony have been added for clarity to the heading on this draft.</note>
+
+<note id="n1">[1] As is clear from this letter, and the two of this date to Benjamin Grayson, Howeis and Brunton were indentured servants Carter had hired through his agents in London to come to Virginia to work in the Frying Pan Copper mines that Carter and his sons were developing.</note>
+
+<note id="n2">[2] An indenture is a contract between two or more parties. It is so named because copies of such a contract in early times were often written at the top and the bottom of a sheet which was then cut apart in a jagged or indented manner. The copies could then be fitted together to prove autheiticity.   "The contract by which an apprentice is bound to the master . . . by which a person binds himself to service in the colonies, etc."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
+
+<note id="n3">[3] Benjamin Grayson was, according to Fairfax Harrison, "one of the earliest of the Scots merchants to be established on Quantico, where Dumfries was to arise." He was appointed a justice of Prince William County in November 1731. (<cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> pp. 156</bibl></cit>and <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]: 256.</bibl></cit>)</note>
+
+<note id="n4">[4] Carter mens by "deserts" "deserving; the becoming worthy of recompense, i.e. of reward or punishment, according to the good or ill of character or conduct. . . . "  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
+
+<note id="n5">[5] A drubbing is a "beating, a thrashing."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>) </note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was revised January 12, 2016,  to add footnotes and strengthen the modern language version text.</hi></note>
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

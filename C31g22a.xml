@@ -1,0 +1,281 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C31g22a">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter, John Carter, Robert Carter, Jr., and Charles Carter to Edward Athawes, July 22, 1731</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 18  kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C31g22a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://carter.lib.virginia.edu/</p>
+         </availability>
+     <date>2006, 2016</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter, John Carter, Robert Carter, Jr., and Charles Carter to Edward Athawes, July 22, 1731</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>4 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1731-07-22</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C31g22aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>4 p.</extent>
+<date value="1731-07-22"></date>
+<idno rend="suppress">C31g22a.xml</idno>
+<title>Letter from Robert Carter, John Carter, Robert Carter, Jr., and Charles Carter to Edward Athawes, July 22, 1731</title>
+</bibl>
+</head>
+<p>Robert Carter, John Carter, Robert Carter, Jr., and Charles Carter as partners in the Frying Pan Copper Mining Company write to London merchant Edward Athawes, July 22, 1731, to describe at length the problems they  have had with the miners sent to them by Athawes and a "Mr. James," and to enquire abou the customary holidays these miners have claimed. They also report the discovery of a substantial vein of ore, and send samples and an invoice (not present) for more supplies for carrying on the work.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter, <note n="JC1">John Carter,</note> <note n="RC2">Robert Carter, Jr.,</note> and <note n="CC1">Charles Carter</note> to <note n="EA">Edward Athawes,</note> July 22, 1731</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<date value="1731-07-22">July 22d 1731</date><lb/>
+Mr. Edward Athawes<lb/>
+</dateline>
+<salute>Sir</salute>
+
+</opener>
+
+
+
+<p>One of us in the behalf of the <note target="n1">Frying Pan <lb/>
+Company</note> <sic corr="has">hath</sic> already given you the entertainment of seve&mdash; <lb/>
+ral letters which we have had the perusal of and are <lb/>
+<corr resp="editor">[agr]</corr>eeable to our sentiments In a clause of a letter to <note n="WD">Mr Daw&mdash;<lb/>
+<corr resp="editor">[kins]</corr></note> of the sixth Instant we acquainted you of the poor pros&mdash;<lb/>
+<corr resp="editor">[pects]</corr> we were then under and of the base behavior of
+
+<pb n="2"/><lb/><lb/>
+our Miners since that time four of them <note target="n2">vizt:</note> <sic corr="Honey">Hony</sic> Haweis <lb/>
+Bunton and another of a Saturday night Got drunk fell aboard <lb/>
+several of our servants and our Ovcrseer as he told us hardly Escaped <lb/>
+with whole bones cursing and daming us and all our concerns <lb/>
+and on the day following left their business pretending they would <lb/>
+come to their Masters to complain of the usage they met with the chief <lb/>
+fault they found was against their provision although the rest of <lb/>
+their fellows own to us they have not <abbr expan="wanted">want'd</abbr> <add place="supralinear">plenty of very good</add> salt meat one day from <lb/>
+their being there &amp; that several venison <add place="supralinear">had been</add> <abbr expan="killed">kill'd</abbr> for them and had <lb/>
+plenty of sweet milk from the Cow morning and Evening They<lb/>
+plead it as the custom of Miners that every <note target="n3">red letter day</note> are <sic corr="holidays">holydays</sic> <lb/>
+to them and that Saturdays in the afternoon are their own and that <lb/>
+this custom they will not give up upon this pretence they have <lb/>
+made so many <sic corr="holidays">holydays</sic> which we never heard of before that the work <lb/>
+they have done <sic corr="has">hath</sic> been very little a great deal less than we did <lb/>
+with fewer <abbr expan="unskilled">unskill'd</abbr> people before they came to us in the contracts <lb/>
+<del>from</del> <add place="supralinear">with</add> the <add place="supralinear">three</add> <note target="n4">Falmouth men</note> there is no mention of this <sic corr="custom">custome</sic> of <lb/>
+keeping <sic corr="holidays">holydays</sic> indeed they are <sic corr="styled">stil'd</sic> <note target="n5">Tinners</note> and Miners and <lb/>
+<sic corr="It is">'T'is</sic> to be <abbr expan="owned">own'd</abbr> they came away with a very good character from <lb/>
+<note target="n6">Mr James</note> particularly Nicholas and how far they may be under the <lb/>
+influence of this custom if there be such a one we shall not <lb/>
+Say but <sic corr="it is">tis</sic> very plain Howeis and Brunton are our servants <lb/>
+by common <note target="n7">Indentures</note> they are <sic corr="styled">stil'd</sic> only as diggers in Mines <lb/>
+they were taken up as <note target="n8">Strollers</note> about London and as we think <lb/>
+want of bread and common <sic corr="Necessaries">Necessarys</sic> were the Great persuasives <lb/>
+to them to come aboard Haweis whom you express so good <add place="supralinear">an</add> opini <lb/>
+on of and indeed who <abbr expan="deceived">deceiv'd</abbr> us as much <sic corr="until">till</sic> we came to try <lb/>
+him proves the greatest rogue in the Pack and as our Overseer informs <lb/>
+us makes the rest a great deal more <corr resp="editor">[. . . ]</corr> than they would be <lb/>
+and he think would be of advantage for us to discharge him <lb/>
+from our business and some of the Bristol Miners affirm <lb/>
+that to their knowledge this Howeis <sic corr="has">hath</sic> been several years <corr resp="editor">[aboard]</corr> <lb/>
+of a Man of War <sic corr="has">hath</sic> been in Maryland served <corr resp="editor">[there] </corr>
+
+<pb n="3"/><lb/><lb/>
+an indented time <note target="n9">at the Hoe</note> of four years and all this since he has been <lb/>
+in a Mine and his fellow Miners Say he is a very indifferent fellow <lb/>
+in their business We are this <sic corr="particular">perticular</sic> in troubling you with <lb/>
+this Story that <del>both</del> Mr James to whom we desire you will com&mdash; <lb/>
+municate it as well as <abbr expan="yourself">yrself</abbr> may have a right account of the <lb/>
+behaviour of these fellows for it seems in their cups they have <lb/>
+not only <abbr expan="cursed">curs'd</abbr> us but <abbr expan="threatened">threatn'd</abbr> to write both to you and Mr James <lb/>
+and to <sic corr="sue">sew</sic> Mr James's bond We write nothing here but what we <lb/>
+have in a letter from Nicholas himself</p>
+
+<p>You may depend upon it as for the three Fal&mdash; <lb/>
+mouth Miners if their behaviour proves but tolerable they shall <lb/>
+not want a <sic corr="plentiful">plentifull</sic> maintenance both of provision and <lb/>
+other <sic corr="necessaries">necessarys</sic> to content them if anything that is reason&mdash; <lb/>
+able will do it but for Haweis and Brunton as they are our <lb/>
+Servants upon another foot we dare say you will not blame <lb/>
+us if we take proper measure to bring them to better Manners</p>
+ 
+<p>The four Fellow <abbr expan="named">nam'd</abbr> above <abbr expan="traveled">travell'd</abbr> about <lb/>
+five <add place="supralinear">&amp;</add> twenty <del>of thirty</del> Mile and there took up at a tippling house and <lb/>
+<sic corr="stayed">staid</sic> drinking two or three days together on the Wednesday they <lb/>
+<abbr expan="returned">return'd</abbr> to the works and on the Thursday <add place="supralinear">in</add> A shaft that had been <lb/>
+left <sic corr="off">of</sic> for some time they fell upon a very rich vein of <lb/>
+Ore and when our intelligence came away by a letter from <lb/>
+our overseer <add place="supralinear"><sic corr="dated">datd</sic> the 14th</add> they had <abbr expan="raised">rais'd</abbr> about fifteen hundred weight of this <lb/>
+Ore that the Vein was about a foot broad and six foot high and we <lb/>
+have since had a random story but brought with a great deal <lb/>
+of appearance of truth that the vein continued and was rather <lb/>
+larger than less thus our drooping hopes stand <abbr expan="revived">reviv'd</abbr> at pre&mdash; <lb/>
+sent We shall go near to be able to send you a further Account <lb/>
+<corr resp="editor">[how t]</corr>his vein stands by us We send you some samples that <lb/>
+<corr resp="editor">[our ov]</corr>erseer sent  down to us with <corr resp="editor">[. . .]</corr> his letter which at first 
+
+<pb n="4"/><lb/><lb/>
+sight the most unskillfull person in these Matters will say is very <lb/>
+rich not inferiour to the best of Skilers Ore we have seen</p>
+ 
+<p>This Fresh <sic corr="encouragement">incouragement</sic> raises such a new life in us<lb/>
+that we resolve to push on with our utmost vigour and in order <lb/>
+thereto we hereiin send a further invoice for a supply of such <lb/>
+things as we think will be absolutely necessary for the well carrying <lb/>
+on of our undertaking and as you have been very zealous in the Cause <lb/>
+hitherto we doubt not you will continue your usual efforts in <lb/>
+this Service we are not for having any more persons upon wages <lb/>
+sent to us we hope three or four honest <sic corr="skillful">skillfull</sic> fellows with <lb/>
+the assistance of our slaves <del>we may</del> <add place="supralinear">will</add> carry on our design to good <lb/>
+purpose if we have the good fortune to find a <sic corr="plentiful">plentifull</sic> stock of <lb/>
+<sic corr="encouraging">incouraging</sic> Ore this Invoice of goods we would have <sic corr="carried">carryd</sic> <lb/>
+in thirds to our respective <abbr expan="Accounts">Accts:</abbr> according to our former direc <lb/>
+tions to you and send us into Rappahanock York or Potomack <lb/>
+under this mark <corr resp="editor">[mark]</corr> consigning them to us who are
+</p>
+
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="Sir">Sr</abbr><lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="Your">Yr</abbr> Most Humble servants<lb/><lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Robert Carter<lb/>
+as <abbr expan="Executor">Exr.</abbr> To Colonel Page &nbsp;&nbsp;&nbsp;&nbsp;John Carter<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Robert Carter <abbr expan="junior">junr</abbr><lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="Charles">Chs.</abbr> Carter
+
+
+<seg type="postscript"><lb/><lb/>
+We would Earnestly desire you<lb/>
+to give us a full Accot of what the<lb/>
+customs of these miners are in relation<lb/>
+to <sic corr="Holidays">Hollidays</sic> &amp; saturdays in the Afternoon and<lb/>
+in what manner their general ways of Working <lb/>
+are whether by the day the month the Year or <note target="n10">by <lb/>
+the <sic corr="great">grate</sic></note> <add place="supralinear">or are paid according to the quantity of ore they raise</add> or how far the opinion is these Miners <lb/>
+under their Present Contracts have a right to insist <lb/>
+upon these customs<lb/>
+
+</seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.There is a 19th-century transcript of the letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia. There is water damage to some leaves of the letter book making reading the text difficult.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1]  In 1728, Carter, his sons Robert and Charles, and his son-in-law Mann Page,  organized a company to mine for copper on a tract of some 27,000 acres that Louis Morton describes as lying "near the present boundary of Fairfax and Loudoun counties." Fairfax Harrison wrote that the tract was "on the  Horsepen of Broad." Today, there is a Frying Pan Park just east of the border of the Dulles Airport reservation, and there are other things with the name in the area. The company was not successful. (<cit><bibl n="B32">Morton. <title>Robert Robert Carter of Nomini Hall.</title> pp. 18-19;</bibl></cit> and <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> p. 342. </bibl></cit>)</note>
+
+<note id="n2">[2] Vizt. is the abbreviation for the Latin word "videlicet";  it means "that is to say; namely; to wit: used to introduce an amplification, or more precise or explicit explanation, of a previous statement or word." (<cit><bibl><title>Oxford English Dictionary</title> online.</bibl></cit>)</note>
+
+<note id="n2">[2] Carter refers to the ancient custom of  "(a) (originally) a saint's day or other Christian festival conventionally indicated in the calendar by red letters;  (b). . .  any significant, memorable, or happy day. . . ."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
+
+<note id="n4">[4] Carter refers to miners recruited from Falmouth, Cornwall, England. There have been tin mines in Cornwall abd Devon since prehistoric times.  (Wikipedia's entries on this subject appear reliable.)</note>
+
+<note id="n5">[5] According to the <title>Oxford English Dictionary Online</title> a tinner is "one who gets or digs tin ore; a tin-miner."  </note>
+
+<note id="n6">[6] Mr. James has not been identified.</note>
+
+<note id="n7">[7] An indenture is a contract between two or more parties. It is so named because copies of such a contract in early times were often written at the top and the bottom of a sheet which was then cut apart in a jagged or indented manner. The copies could then be fitted together to prove autheiticity.   "The contract by which an apprentice is bound to the master . . . by which a person binds himself to service in the colonies, etc."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
+
+<note id="n8">[8] A stroller is "a vagabond, vagrant; an itinerant beggar or pedlar."   (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
+
+<note id="n9">[9] Carter probably means by "at the Hoe" that he served his indenture as an agricultural worker.</note>
+
+<note id="n10">[10] In this context, "by the great" means "as a whole, all together," meaning by the entire job.  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was revised January 22, 2016,  to add footnotes and strengthen the modern language version text.</hi></note>
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>
