@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2006</date>
+     <date>2006, 2016</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -48,7 +48,7 @@
      <title>2 Letters from Robert Carter to Captain John Hyde &amp; Company, July 11, 1732</title>
      <author>Robert Carter</author>
 </titleStmt>
-    <extent>2 p.</extent>
+    <extent>3 p.</extent>
 <publicationStmt>
      <date></date>
    <idno type="callNo">Source copy consulted: Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
@@ -88,7 +88,7 @@
 <head>
 <bibl>
 <abbr>AL</abbr>
-<extent>2 p.</extent>
+<extent>3 p.</extent>
 <date value="1732-07-11"></date>
 <idno rend="suppress">C32g11b.xml</idno>
 <title>2 Letters from Robert Carter to Captain John Hyde &amp; Company, July 11, 1732</title>
@@ -118,35 +118,37 @@ Merchants of London<lb/>
 
 
 <p>Not having met with the satisfaction I expected <lb/>
-by receiving from you an Accot <sic corr="Current">Currant</sic> <add place="supralinear">by some of our later ships</add> I have thought it fit to state <lb/>
+by receiving from you an <abbr expan="Account">Accot</abbr> <sic corr="Current">Currant</sic> <add place="supralinear">by some of our later ships</add> I have thought it fit to state <lb/>
 one to you in the best manner I can <del>which is here inclosed</del> The <sic corr="balance">ballance</sic> <lb/>
 I bring you in my debt is four hundred eighty one pounds fourteen <lb/>
 Shillings &amp; four pence which I desire you to pay into the hands of <lb/>
 <note n="MP2">Micajah Perry</note> <abbr expan="Esquire">Esqr.</abbr> &amp; Company for my account and <del>his</del> <add place="supralinear">their</add> receipt <lb/>
-shall be your discharge from
-</p>
+shall be your discharge from</p>
+
 <closer> 
-Gentlemen <lb/>
-Your most humble Servant<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gentlemen <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your most humble Servant<lb/><lb/>
+To <abbr expan="Captain">Capt.</abbr> John Hyde &amp; <abbr expan="Company">Comp.</abbr><lb/> 
+Merchants of London
 
 <seg type="postscript"><lb/><lb/>
 
 <abbr expan="Captain">Capt.</abbr> John Hyde &amp; <abbr expan="Company">Comp.</abbr> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rappahannock July 11. 1732  <lb/><lb/>
 Gentlemen<lb/>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I had promised myself that by some of our <lb/>
+<p>I had promised myself that by some of our <lb/>
 later ships you would have taken the Opportunity to send me my <lb/>
-Accot Currt but seeing you have taken no notice of me I have thought 
+<abbr expan="Account Current">Accot Currt</abbr> but seeing you have taken no notice of me I have thought 
 
 <pb n="2"/><lb/><lb/>
 it fit to state one to you in the best manner I can and I cannot think <lb/>
-but I am very near the truth a Copy of which I here inclose to you I <lb/>
+but I am very near the truth a Copy of which I here <sic corr="enclose">inclose</sic> to you I <lb/>
 make the <sic corr="balance">ballance</sic> due to me from You the sum of four hundred eighty <lb/>
 one pounds fourteen shillings &amp; four pence this account I have sent to <lb/>
 Alderman Perry &amp; Company with an order upon you to receive this <lb/>
 <sic corr="balance">ballance</sic> for my account to whom I desire you to pay it as per the <lb/>
-order of <lb/><lb/>
-Gentlemen <lb/>
-Your most humble Servant<lb/><lb/>
+order of </p><lb/><lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gentlemen <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your most humble Servant<lb/><lb/>
 via <name type="city"><sic corr="Liverpool">Leverpoole</sic></name> <note target="n1">Loxum</note> 
 
 </seg>
@@ -168,8 +170,9 @@ via <name type="city"><sic corr="Liverpool">Leverpoole</sic></name> <note target
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] Captain Loxom commanded  a vessel named the <hi rend="italics"> Loyalty</hi>in 1729-1730. (Survey Report 9727, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. See Carter's letters to John Pemberton 1730 April 15 and 1731 August 4.)</note>
+<note id="n1">[1] Several vessels named <hi rend="italics">The Loyalty</hi> sailed to Virginia. One commanded by Francis Wallis cleared from Poole for Virginia in 1726. Captain Edward Loxam commanded  a vessel of this name in 1729-1732 as did James Tarleton in 1732. (Survey Report 09727 extracting "Public Record Office Class E 190/915/9.  Exchequor King's Remembrancer Port Books. Poole. Collector 1726/7," Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. See Carter's letters to John Pemberton <xref to="/users/berkeley/public/C30d15c.xml">April 15,1730</xref> and <xref to="/users/berkeley/public/C31h04a.xml"> August 4, 1731</xref>.)</note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was revised June 23, 2016,  to  strengthen the footnotes and the modern language version text.</hi></note>
 
 
 </div1>

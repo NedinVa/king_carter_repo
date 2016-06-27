@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2006</date>
+     <date>2006, 2016</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -117,8 +117,8 @@ Alderman Perry &amp; Com<lb/>
 
 
 <p>This is intended to <sic corr="enclose">inclose</sic> to you a bill of Lading <lb/>
-for ten hogsheads of <note n="MP1"><abbr expan="Colonel">Colo</abbr> Pages</note> tobacco on board the <note target="n1"><name type="ship">Bailey</name></note> and to send you <lb/>
-a bill of Exchange for &pound;9 drawn by <abbr expan="Peter">Petr.</abbr> Whiting on <note n="RC">Mr. Cary</note> &amp; <abbr expan="Company">Com:</abbr> <lb/>
+for ten hogsheads of <note n="MP1"><abbr expan="Colonel">Colo</abbr> Pages</note> tobacco on board the <note target="n2"><name type="ship">Bailey</name></note> and to send you <lb/>
+a <note target="n3">bill of Exchange</note> for &pound;9 drawn by <abbr expan="Peter">Petr.</abbr> Whiting on <note n="RC">Mr. Cary</note> &amp; <abbr expan="Company">Com:</abbr> <lb/>
 This is to be <abbr expan="Carryied">Carry'd</abbr> to the Credit of <note n="ECB">Elizabeth Burwells</note> Accot</p>
 
 <p>I <sic corr="believe">beleive</sic> I have formerly <abbr expan="Advised">Advis'd</abbr> you that the <lb/>
@@ -130,13 +130,13 @@ order it to  this Was a Voluntary Purchase of mine being under no&mdash; <lb/>
 manner of Obligation to any such thing upon my daughers <sic corr="Marriage">Marryage</sic> <lb/>
 there is a <sic corr="balance">ballance</sic> due from <abbr expan="you">yo</abbr> to this Estate but You have put it <lb/>
 Under a Wrong <del>Name</del> <add place="supralinear"><del>title</del></add> Accounting for it in the name of <lb/>
-My grandson <note target="n2">Carter Burwell</note> who hath no manner of <add place="supralinear">equitable</add> Right <lb/>
+My grandson <note target="n4">Carter Burwell</note> who <sic corr="has">hath</sic> no manner of <add place="supralinear">equitable</add> Right <lb/>
 to the Profits during the life of his mother I desire you <lb/>
 will set this matter to rights holding <abbr expan="your">yr.</abbr> accounts with no other <lb/>
 destinction only calling it the <abbr expan="Merchants">Merchts</abbr> Hundred estate and acc&mdash; <lb/>
 ounting for it to me</p>
 
-<closer><seg type="postscript"><lb/><lb/></seg></closer>
+
 
 
 </div1>
@@ -154,9 +154,16 @@ ounting for it to me</p>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] The <hi rend="italics">Bailey</hi> was a London ship owned by William Dawkins and commanded at various times by Adam Graves (1725-1730) and by Thomas Dove (1731-1732). She was a vessel of some 250 tons and carried 15-17 crew members. (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, 156v, and other data in Adm. 68/194 and /196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> A letter of Carter's executors to Dawkins 1738 May 10 refers to "your ship Bailey.")</note>
+<note id="n1"> [1] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
-<note id="n2">[2]  Carter Burwell (1716-1756) was Robert Carter's grandson by his daughter Elizabeth (Carter) Burwell and her first husband, Nathaniel Burwell (1680-1721). Carter Burwell would live at "Carter's Grove," and would marry Lucy Grymes in 1738. (<cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 128.</bibl></cit>)</note>
+<note id="n2">[2] The <hi rend="italics">Bailey</hi> was a London ship owned by William Dawkins and commanded at various times by Adam Graves (1725-1730) and by Thomas Dove 1730-1732. She was a vessel of some 250 tons and carried 15-17 crew members. (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, 156v, and other data in Adm. 68/194 and /196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> A letter of Carter's to Dawkins <xref to="http://carter.lib.virginia.edu/html/C32e12b.html">May 12, 1732,</xref> refers to "your ship Bailey." as does a letter of August 10, 1733, from Carter's executors to Dawkins. [<cit><bibl>Lloyd T. Smith, Jr., <hi rend="italics">ed.</hi> <title>The Executors' Letters of Robert Carter of Corotoman, 1732-1738. </title> (Irvington, VA: Foundation for Historic Christ  Church, 2010) p. 76].</bibl></cit>)</note>
+
+<note id="n3"> [3] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (See <cit><bibl><xref to="http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm">"Bill of Exchange"</xref> in the online Dictionary of Financial Scam Terms: the Truth vs. the Scam.</bibl></cit>)</note>
+
+<note id="n4">[4]  Carter Burwell (1716-1756) was Robert Carter's grandson by his daughter Elizabeth (Carter) Burwell and her first husband, Nathaniel Burwell (1680-1721). Carter Burwell would live at "Carter's Grove," and would marry Lucy Grymes in 1738. (<cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 128.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was revised February 23, 2016,  to add footnotes and strengthen the modern language version text.</hi></note>
+
 
 </div1>
 </back>

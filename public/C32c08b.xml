@@ -94,7 +94,7 @@
 <title>Letter from Robert Carter to Edward Tucker, March 8, 1732</title>
 </bibl>
 </head>
-<p>Robert Carter writes to Weymouth merchant Edward Tucker, March 8, 1732, to notify  him of tobacco that he is shipping tobacco on the merchant's ship, the <hi rend="italics">Proncess Amelia,</hi> and that two tobacco inspection warehouses have been burned in his area.</p>
+<p>Robert Carter writes to Weymouth merchant Edward Tucker, March 8, 1732, to notify him of tobacco that he is shipping tobacco on the merchant's ship, the <hi rend="italics">Proncess Amelia,</hi> and that two tobacco inspection warehouses have been burned in his area.</p>
 </div1>                 
 </front>
 
@@ -117,22 +117,25 @@ Mr. Edward Tucker<lb/>
 
 
 <p>This is only a hasty line to acquaint you by a <lb/>
-<name type="city"><sic corr=">iverpool">Leverpoole</sic></name> Ship that <abbr expan="through">thro'</abbr> Gods mercy I am yet among the Land <lb/>
-of the living Your <note target="n1"><abbr expan="Captain">Capt.</abbr> Russel</note> I saw yesterday and some of my <lb/>
-tobo <abbr expan="passed">pass'd</abbr> the Inspection eight hogsheads were put on board being the <lb/>
+<name type="city"><sic corr=">Liverpool">Leverpoole</sic></name> Ship that <abbr expan="through">thro'</abbr> Gods mercy I am yet among the Land <lb/>
+of the living Your <note target="n1"><abbr expan="Captain">Capt.</abbr> <sic corr="Russell">Russel</sic></note> I saw yesterday and some of my <lb/>
+<abbr expan="tobacco">tobo</abbr> <abbr expan="passed">pass'd</abbr> the Inspection eight hogsheads were put on board being the <lb/>
 first the ship had in 28 more were ready for passing I purpose <lb/>
 to make them up about 60 hogsheads of my own &amp; Colonel Pages <sic corr="stripped">stript</sic> tobacco</p>
 
-<p>Our tobacco law meets with strange opposition <lb/>
+<p>Our <note target="n2">tobacco law</note> meets with strange opposition <lb/>
 Some villains have already <sic corr="burned">burnt</sic> down two of the Inspecting <lb/>
 houses one in Lancaster the other in Northumberland what may <lb/>
-be the issue of these Villainies I must not pretend to say <abbr expan="Captain">Capt</abbr> Russel <lb/>
-writes to you himself  I shall add no more but that I remain 
-.</p>
+be the issue of these Villainies I must not pretend to say <abbr expan="Captain">Capt</abbr> <sic corr="Russell">Russel</sic> <lb/>
+writes to you himself  I shall add no more but that I remain </p>
 
-<closer>Sir <lb/>
-Your most humble Servant
-<seg type="postscript"><lb/><lb/>via <sic corr="Liverpool">Leverpool</sic></seg></closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your most humble Servant
+<seg type="postscript"><lb/><lb/>
+via <sic corr="Liverpool">Leverpool</sic>
+</seg>
+</closer>
 
 
 </div1>
@@ -150,8 +153,11 @@ Your most humble Servant
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] Samuel Russell commanded the <hi rend="italics">Princess Amelia,</hi> a ship owned by Edward Tucker. (<cit><bibl>Survey reports 9711 and 9729, found in the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n1">[1] Samuel Russell commanded the <hi rend="italics">Princess Amelia,</hi> a ship owned by Edward Tucker. A Board of Customs, Port of Weymouth, report of 1736-38, shows that the ship was built "in the Rappahannock River in Virginia and that it was registered in Williamsburg in June 1720." In 1725, Giles Lawrence commanded the ship and carried staves and pitch as well as tobacco from Virginia. (<cit><bibl>Survey report 14500</bibl></cit> ; and <cit><bibl>Survey Report 9723 summarizing Exchexquer King's Remembrancer port books for Weymouth,  found in the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
+<note id="n2">[2] The tobacco inspection act of  1730 was introduced and steered through the legislature by Lieutenant Governor Sir William Gooch. " The "bill called for the inspection and bonding at public warehouses of all tobacco shipped abroad; for the destruction of all unacceptable tobacco; for standardization of the size of hogsheads . . . ; for maintenance of detailed records to prevent smuggling; and for the circulation of warehouse receipts as legal tender in lieu of tobacco itself. . . ." Gooch also managed to obtain approval of the act in England. It went into effect August 1, 1731. (<cit><bibl n="B27">Billings. <hi rend="italics">et al. </hi> <title>Colonial Virginia: A History. </title></bibl></cit> pp. 236-39.)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was revised April11 , 2016,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 </div1>

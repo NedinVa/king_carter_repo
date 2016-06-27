@@ -29,7 +29,7 @@
    </respStmt>
 </titleStmt>
 
-<extent>ca.  kilobytes </extent>
+<extent>ca. 9  kilobytes </extent>
 
 <publicationStmt>
      <publisher>University of Virginia Library.</publisher>
@@ -106,7 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<name type="place"><abbr expan="Rappahannock">Rappa:</abbr> <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
 <date value="1731-08-04">Augst. 4. 1731</date><lb/>
 Mr. John Pemberton<lb/>
 </dateline>
@@ -116,13 +116,13 @@ Mr. John Pemberton<lb/>
 
 
 
-<p>My last bore date the 9th of July and <abbr expan="advised">advis'd</abbr> you of<lb/>
-two bills of Exchange I had drawn upon you one for fifty six<lb/>
+<p>My last bore date the <xref to="http://carter.lib.virginia.edu/html/C31g09c.html">9th of July</xref> and <abbr expan="advised">advis'd</abbr> you of<lb/>
+two <note target="n2">bills of Exchange</note> I had drawn upon you one for fifty six<lb/>
 Pounds Seven Shillings &amp; Six pence payable to <note n="JR">John Randolph</note> <abbr expan="Esquire">Esqr.</abbr><lb/>
 the other for thirty seven Pounds thirteen &amp; Eleven Pence payable<lb/>
 to <abbr expan="Colonel">Colo</abbr> <note n="MCB">George Braxton,</note></p>
 
-<p>I have now on board the <name type="ship">Loyalty</name> <abbr expan="Captain">Capt</abbr> James<lb/>
+<p>I have now on board the <note target="n3"><name type="ship">Loyalty</name></note> <abbr expan="Captain">Capt</abbr> James<lb/>
 Tarleton 30 hogsheads of <abbr expan="tobacco">tobo</abbr> more As I have already <abbr expan="trespassed">trespass'd</abbr> upon your<lb/>
 Orders in sending the rest of my <abbr expan="tobacco">tobo</abbr> to you so I adventure to con=<lb/>
 tinue it to the End of this Years business in consigning it to you<lb/>
@@ -133,18 +133,23 @@ to determine, I shall not give You further trouble only to renew my<lb/>
 Wishes for <abbr expan="your">yr.</abbr> <sic corr="Welfare">Welfair</sic> and remain, 
 </p>
 
-<closer>Sir,<lb/>
-Your most Humble Servt. 
-<seg type="postscript"><lb/><lb/>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir,<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your most Humble Servt. 
+
+</closer>
+
+
 <pb n="2"/><lb/><lb/>
 Mr. Foster Cunliff&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rappahannock, <abbr expan="August">Augst.</abbr> 4. 1731 <lb/>
 Sir		<lb/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have alredy told you of my attachement to Mr. Pem <lb/>
+<p>I have alredy told you of my attachement to Mr. Pem <lb/>
 berton and that upon the Accot of our long Acquaintance I had<lb/>
 <abbr expan="adventured">adventur'd</abbr> to break <abbr expan="through">thro'</abbr> his orders in Consigning my <abbr expan="tobacco">tobo</abbr> to him in<lb/>
 the first Place &amp; in case of his Absolute refusal to be <abbr expan="Concerned">Concern'd</abbr> with it<lb/>
-Upon his recommendation to Commit it to <abbr expan="your">yr.</abbr> disposal<lb/><lb/>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have now 30 hogsheads more in the Loyalty, <abbr expan="Captain">Capt</abbr> James <lb/>
+Upon his recommendation to Commit it to <abbr expan="your">yr.</abbr> disposal
+</p>
+<p>I have now 30 hogsheads more in the Loyalty, <abbr expan="Captain">Capt</abbr> James <lb/>
 Tarleton, which I consign upon the Same terms if it Falls upon You 
 
 <pb n="3"/><lb/><lb/>
@@ -156,15 +161,9 @@ of meeting with the same fair dealings from you as I have <abbr expan="through">
 long Series of Years had the Experience of from my old friend Mr.<lb/>
 Pemberton so I <del>shall be encourag'd</del> propose to make you my Cores <lb/>
 pondent for my concerns in your Parts <abbr expan="through">thro</abbr> the rest of my days <lb/>
-which by the Course of Nature <add place="supralinear">&amp; under a crazy constituion</add> cannot be many I am, <lb/><lb/>
-Sir&mdash;<lb/>
-Your most Humble Servant.
-
-
-</seg>
-
-
-</closer>
+which by the Course of Nature <add place="supralinear">&amp; under a crazy constituion</add> cannot be many I am, </p>
+<lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir&mdash;<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your most Humble Servant.
 
 
 </div1>
@@ -184,6 +183,11 @@ Your most Humble Servant.
 
 <note id="n1">[1] Foster Cunliffe (d. 1767) was a merchant and prominent citizen of Liverpool who worked to expand manufacturing and the capacity of the harbor; he served a number of terms as mayor.  He and Richard Gildart undertook "a major reorginization of business with Maryland and Virginia . . . beginning in the early 1720's [they] sent numerous factors to the region." They established stores in which retail goods were sold, purchased the produce of the region, had it ready for loading when ships arrived, and also moved into the sale of slaves. (<cit><bibl>James A. Picton, <hi rend="italics">ed.</hi> <title>Liverpool Municipal Archives and Records. . . .</title> [Liverpool, 1907.] pp. 27, 31, 79, 90, 96, etc.</bibl></cit> and <cit><bibl>Paul G. Clemens. "The Rise of Liverpool, 1665-1750." <title>Economic History Review.</title> 24[May 1976]:211-225.</bibl></cit></note>
 
+<note id="n2"> [2] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (See <cit><bibl><xref to="http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm">"Bill of Exchange"</xref> in the online Dictionary of Financial Scam Terms: the Truth vs. the Scam.</bibl></cit>)</note>
+
+<note id="n3">[3] Several vessels named <hi rend="italics">The Loyalty</hi> sailed to Virginia. One commanded by Francis Wallis cleared from Poole for Virginia in 1726. Captain Loxom commanded  a vessel of this name in 1729-1730 as did James Tarleton in 1731. (Survey Report 9727, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. See Carter's letters to John Pemberton <xref to="/users/berkeley/public/C30d15c.xml">April 15,1730</xref> and <xref to="/users/berkeley/public/C31h04a.xml"> August 4, 1731</xref>.)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was revised February 23, 2016,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 </div1>

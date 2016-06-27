@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2006</date>
+     <date>2006, 2016</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -102,7 +102,7 @@
 
 <body>
 <div1 type="letter" n="1">
-<head>Letter from Robert Carter to John King, June 9, 1732</head>
+<head>Letter from Robert Carter to <note n="JK">John King</note>, June 9, 1732</head>
 <opener>
 <dateline>
 <pb n="1"/>
@@ -116,7 +116,7 @@ John King Esqr.<lb/>
 
 
 
-<p><abbr expan="Captain">Capt.</abbr> Sweet <sic corr="has">hath</sic> been arrived for some time as he went <lb/>
+<p><note target="n1"><abbr expan="Captain">Capt.</abbr> Sweet</note> <sic corr="has">hath</sic> been arrived for some time as he went <lb/>
 Sent his boat on shore to me with your Letter and invoice, <abbr expan="promised">promis'd</abbr> <lb/>
 to let me have the Goods, but I see none of them yet, the price you tell <lb/>
 me you had Sold 3 hogsheads of my tobacco for is a wretched one, it was good <lb/>
@@ -128,7 +128,9 @@ leave off the Trade, I am sure we <abbr expan="can not">can't</abbr> get <sic co
 by it. I am 
 </p>
 
-<closer>Your most humble Servant</closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your most humble Servant
+</closer>
 
 
 </div1>
@@ -146,8 +148,9 @@ by it. I am
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
+<note id="n1">[1] Henry Sweet was captain of the <hi rend="italics">Chester</hi>, a ship thst traded to Barbados and Virginia. (<cit><bibl>Survey Report 04590 summarizing Public Record Office Class: T 38/264."Treasury, Departmental Accounts - Barbadoes, Journal of 4 1/2% Duties, 1730." "The following ships and cargoes were bound for Virginia." Henry Sweet is shown as master of the <hi rend="italics">Chester</hi>, and the cargo was 1980 gallons of molasses;</bibl></cit>; and <cit><bibl>Survey Report 07233 summarizing Hampshire Record Office Class Wyndham 1725-1753. "Invoices and Sundry Accounts of Henry Wyndham, June 1725 - September 1753." Included are records of several voyages of the <hi rend="italics">Chester</hi> to Viginia, 1728-1730. Hampshire County, England, includes the ports of Southampton and Portsmouth.</bibl></cit>)</note>
 
-
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was revised May 20, 2016,  to add a footnote and strengthen the modern language version text.</hi></note>
 
 </div1>
 </back>

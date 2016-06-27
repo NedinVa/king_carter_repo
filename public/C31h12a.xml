@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2006</date>
+     <date>2006 2016</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -122,7 +122,7 @@ Mr. Lewis Burwell<lb/>
 from all the rest of the Epistles I have had from you I <sic corr="looked">lookt</sic> upon<lb/>
 it as the <del>[illegible]</del> effects of anothers invention and not the product<lb/>
 of your own brain and therefore Shall not run into the particulars<lb/>
-of such a Conceited <abbr expan="piece">ps</abbr> of Stuff, it tells me you are under close <sic corr="applica">applyca</sic><lb/>
+of such a Conceited <abbr expan="piece">ps</abbr> of Stuff, it tells me you are under close <sic corr="applica=">applyca=</sic><lb/>
 tion after the <sic corr="Search">Serch</sic> of knowledge I pray god send amongst your<lb/>
 great gettings you promise yourself where you are that you may get<lb/>
 Wisdom and such that will be your guide in a Virginia Life<lb/>
@@ -134,7 +134,7 @@ prognosticate but I think I may fairly suppose you will come<lb/>
 into your own country very indifferently <abbr expan="equipped">equ'pt</abbr> with talents<lb/>
 proper to govern your affairs here.</p>
 
-<p>You have broke <abbr expan="through">thro'</abbr> my orders and<abbr expan="it is"> 'tis </abbr>in vain for<lb/>
+<p>You have broke<corr resp="editor">[n]</corr> <abbr expan="through">thro'</abbr> my orders and<abbr expan="it is"> 'tis </abbr>in vain for<lb/>
 me to lay any more upon you <note n="MP2">Mr. Perry</note> tells me that you intend in the<lb/>
 next Shipping you talk of staying two years where you are which<lb/>
 will reduce to A low Ebb the money that you will have to Claim out<lb/>
@@ -152,7 +152,9 @@ Landon</note> &amp; <note n="MCB">Aunt Mary</note> send their loves to you.  I a
 
 </p>
 
-<closer><seg type="postscript"><lb/><lb/></seg></closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="Your">Yr.</abbr> Loving Grand father<lb/>
+</closer>
 
 
 </div1>
@@ -178,6 +180,7 @@ Landon</note> &amp; <note n="MCB">Aunt Mary</note> send their loves to you.  I a
 
 <note id="n4">[4] Landon Carter (1710-1778) was Carter's seventh child by his second wife, Elizabeth (Landon) Willis. Landon would live at "Sabine Hall," Richmond County, and marry three times, leaving many descendants, some of whom own "Sabine Hall" today. As an adult, he would keep a very interesting and useful diary. A reproduction of a portrait of him may be found on the website of the <xref doc="http://www.christchurch1735.org/history/robert_carter.html">Foundation of Historic Christ Church.</xref> (<cit><bibl n="B30">Greene. <title>The Diary of Colonel Landon Carter. . . .</title></bibl></cit>)</note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was revised February 23, 2016,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 </div1>

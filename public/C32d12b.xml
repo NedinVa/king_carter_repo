@@ -29,7 +29,7 @@
    </respStmt>
 </titleStmt>
 
-<extent>ca.  kilobytes </extent>
+<extent>ca. 8  kilobytes </extent>
 
 <publicationStmt>
      <publisher>University of Virginia Library.</publisher>
@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2006</date>
+     <date>2006, 2016</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -133,13 +133,18 @@ nother Opportunity</p>
 on board the <name type="ship"><sic corr="Rebecca">Rebeccah</sic></name> 46 hogsheads of my tobacco they cost me a full  <lb/>
 month to get them managed under <note target="n3">this new Law</note> when otherwise  <lb/>
 I could have very Well done it in a fortnight Malbons boatswain  <lb/>
-tells me the Ship hath now 130 hogsheads on board I have not time to <lb/>
+tells me the Ship <sic corr="has">hath</sic> now 130 hogsheads on board I have not time to <lb/>
 add but to Conclude
 </p>
 
-<closer><abbr expan="Sir">Sr.</abbr>  <lb/>
-Your most humble Servant.
-<seg type="postscript"><lb/><lb/>Via <name type="city"><sic corr="Liverpool">Leverpool</sic></name></seg></closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="Sir">Sr.</abbr>  <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your most humble Servant.
+
+<seg type="postscript"><lb/><lb/>
+Via <name type="city"><sic corr="Liverpool">Leverpool</sic></name>
+</seg>
+</closer>
 
 
 </div1>
@@ -157,11 +162,14 @@ Your most humble Servant.
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] This vessel was commanded by Captain Constantine Cant and may have been owned by William Dawkins and Micajah Perry as Carter reported her December 1723 arrival to each of them. (<cit><bibl>Adm. 68/194-195, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n1">[1] The <hi rend="italics">Burwell</hi> was commanded by Captain Constantine Cant and may have been  owned by William Dawkins and Micajah Perry as Carter reported her December 1723 arrival to each of them. (<cit><bibl>Survey Report 06445 sumarizing "Adm. 68/196," "Greenwich Hospital: General Accounts. the Names of Ships and The Accounts Paid for Sixpences at the Port of London;" Survey Report 05336 summarizing "Admiralty-Miscellanea, Register of Passes, 1731-1733," etc., found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
-<note id="n2">[2] The <hi rend="italics">Rebecca </hi> was probably a London ship; she was of 300 tons, had a crew of 11, and was commanded by Samuel Malbon in 1731-32. (<cit><bibl>Adm. 65/195, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n2">[2] The <hi rend="italics">Rebecca </hi> was probably a London ship; she was of 300 tons, had a crew of 11, and was commanded by Samuel Malbon in 1731-32. (<cit><bibl>Survey Report 06445 sumarizing "Adm. 68/196," "Greenwich Hospital: General Accounts. the Names of Ships and The Accounts Paid for Sixpences at the Port of London;"Adm. 65/195, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
 <note id="n3">[3] The tobacco inspection act of  1730 was introduced and steered through the legislature by Lieutenant Governor Sir William Gooch. " The "bill called for the inspection and bonding at public warehouses of all tobacco shipped abroad; for the destruction of all unacceptable tobacco; for standardization of the size of hogsheads . . . ; for maintenance of detailed records to prevent smuggling; and for the circulation of warehouse receipts as legal tender in lieu of tobacco iteself. . . ." Gooch also managed to obtain approval of the act in England. It went into effect 1731 August 1.(<cit><bibl n="B27">Billings. <hi rend="italics">et al. </hi> <title>Colonial Virginia: A History. </title></bibl></cit> pp. 236-39.)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was revised April11 , 2016,  to add footnotes and strengthen the modern language version text.</hi></note>
+
 
 
 </div1>

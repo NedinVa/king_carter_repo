@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2006</date>
+     <date>2006, 2016</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -118,13 +118,13 @@ Mr. Edward Athawes<lb/>
 
 <p>his accompanys a <name type="city"><sic corr="Liverpool">Leverpool</sic></name> Ship and is the<lb/>
 first Opportunity has offered from this place this Season <note target="n1"><abbr expan="Captain">Capt</abbr>Malbon</note><lb/>
-Met with a long passage from <sic corr="Maderia">Maderas</sic> <abbr expan="Arrived">Arriv'd</abbr> here but ten days agoe<lb/>
+Met with a long passage from <sic corr="Maderia">Maderas</sic> <abbr expan="Arrived">Arriv'd</abbr> here but ten days <sic corr="ago">agoe</sic><lb/>
 your goods to the <note target="n2">Frying Pan Company</note> are not yet brought on <sic corr="shore">shoar</sic> I have<lb/>
 many letters from you to the Company none of them afford us much comfo=<lb/>
 =rt and what is the worst of all our hopes of Success are quite blown up we<lb/>
 have been able to meet with no vein of Ore worth raising since last summer<lb/>
-and begin to be very near the  erms of dispair however we still keep pushi=<lb/>
-=ing <add resp="editor"> [<hi rend="italics">sic</hi>]</add> on and must continue making further <sic corr="searches">serches</sic> till our<lb/>
+and begin to be very near the  erms of <sic corr="despair">dispair</sic> however we still keep pushi=<lb/>
+=ing <add resp="editor"> [<hi rend="italics">sic</hi>]</add> <del>[illegible]</del> on and must continue making further <sic corr="searches">serches</sic> <sic corr="until">till</sic> our<lb/>
 miners times expire</p>
 
 <p>The <note target="n3">Bristol mens</note> Undertaking <sic corr="has">hath</sic> been much<lb/>
@@ -137,7 +137,7 @@ shall slip of Communicating it to you</p>
 to complain you think you have not been treated with so much Candour<lb/>
 as you ought to have expected in this Affair I must assure you you have<lb/>
 no foundation for this Charge <note n="MP2">Aldderman Perry</note> <sic corr="has">hath</sic> a great deal of<lb/>
-intimacy with <note n="TF">my Lord</note> and wee took him to be the most proper person<lb/>
+intimacy with <note n="TF">my Lord</note> and <sic corr="we">wee</sic> took him to be the most proper person<lb/>
 to treat with him about a <sic corr="lease">leas</sic> for our mine in Case it Succeeded and <add place="supralinear">he</add> <sic corr="has">hath</sic><lb/>
 been the only person <add place="supralinear">that</add> <sic corr="has">hath</sic> negotiated my affairs with his Lordship and<lb/>
 I must own <sic corr="has">hath</sic> always been very Zealous in doing me all friendly servi <lb/>
@@ -148,13 +148,15 @@ wanting in expressing how much You had exerted Your self in serving<lb/>
 us in this adventure</p>
 
 <p>We sent you 16 barrels of rich ore as we thought<lb/>
-in Your <sic corr="brig">brigg</sic> <note target="n4"><abbr expan="Captain">Capt.</abbr> Becher</note> our bill of Loading bears date the 13th of <abbr expan="September">Sepr.</abbr><lb/>
+in Your <sic corr="brig">brigg</sic> <note target="n4"><abbr expan="Captain">Capt.</abbr> Becher</note> our <note target="n5">bill of Loading</note> bears date the 13th of <abbr expan="September">Sepr.</abbr><lb/>
 we have no accot Yet of his Arrival We also sent you 11 Barrels<lb/>
-by <abbr expan="Captain">Cap.</abbr> Reid in the <note target="n5"><name type="ship">Thistle</name></note> that bill of Loading dated <abbr expan="November">Novembr</abbr> 14. <lb/>
+by <abbr expan="Captain">Cap.</abbr> Reid in the <note target="n6"><name type="ship">Thistle</name></note> that bill of Loading dated <abbr expan="November">Novembr</abbr> 14. <lb/>
 of this we have no reason to expect an Accot yet I am for self &amp; <abbr expan="Company">Compa</abbr><lb/>
 </p>
 
-<closer>Sir  <abbr expan="Your">Yr</abbr> most humble Servt.&mdash;</closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="Your">Yr</abbr> most humble Servt.&mdash;
+</closer>
 
 
 </div1>
@@ -176,11 +178,15 @@ of this we have no reason to expect an Accot yet I am for self &amp; <abbr expan
 
 <note id="n2">[2]  In 1728, Carter, his sons Robert and Charles, and his son-in-law Mann Page,  organized a company to mine for copper on a tract of some 27,000 acres that Louis Morton describes as lying "near the present boundary of Fairfax and Loudoun counties." Fairfax Harrison wrote that the tract was "on the  Horsepen of Broad." Today, there is a Frying Pan Park just east of the border of the Dulles Airport reservation, and there are other things with the name in the area. The company was not successful. (<cit><bibl n="B32">Morton. <title>Robert Robert Carter of Nomini Hall.</title> pp. 18-19;</bibl></cit> and <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> p. 342. </bibl></cit>)</note>
 
-<note id="n3">[3] Lord Fairfax had given a lease to miners from Bristol to dig on his land. See Carter's letter to Fairfax, 1730 July 16. </note>
+<note id="n3">[3] Lord Fairfax had given a lease to miners from Bristol to dig on his land. See Carter's <xref to="http://carter.lib.virginia.edu/html/C30e21a.html">letter to Fairfax</xref>, July 16, 1730. </note>
 
 <note id="n4">[4] The clerk probably misunderstood Carter and wrote "Beecher" when "Belcher" was correct. There are several references in letters to Athawes the previous year to Captain Belcher of Athawes' brig <hi rend="italics">Mary.</hi></note>
 
-<note id="n5">[5] The <hi rend="italics">Thistle</hi> was a London ship commanded by a Captain Reid and owned by merchant James Buchanan. (See <cit><bibl>Carter to Edward Athawes, 1731 September 10, and Carter to James Buchanan, 1731 November 19.</bibl></cit>)</note>
+<note id="n5"> [5] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
+
+<note id="n6">[6] The <hi rend="italics">Thistle</hi> was a London ship commanded by a Captain Reid and owned by merchant James Buchanan. (See <cit><bibl><xref to="http://carter.lib.virginia.edu/html/C31i10a.html">Carter to Edward Athawes</xref>, 1731 September 10, 1731, and <xref to="http://carter.lib.virginia.edu/html/C31k19a.html">Carter to James Buchanan</xref>,  November 19, 1731.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was revised March 31, 2016,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 </div1>

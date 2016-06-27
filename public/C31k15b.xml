@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2006</date>
+     <date>2006, 2016</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -116,17 +116,17 @@ Mr. William Dawkins<lb/>
 
 
 
-<p>The above is a copy of mine by the <name type="ship">Mary Brigga=<lb/>
+<p>The above is a <xref to="http://carter.lib.virginia.edu/html/C31i10a.html">copy of mine</xref> by the <name type="ship">Mary Brigga=<lb/>
 ntine</name> Captain Belcher</p>
 
-<p>Herein I send you a bill of Lading for 20 <abbr expan="hogsheads">hhds.</abbr> of<lb/>
-<abbr expan="tobacco">tobo.</abbr> They were <abbr expan="paid">p'd</abbr> me for <note target="n1">Quitrents</note> brought home &amp; <abbr expan="prized">priz'd</abbr> at my own<lb/>
+<p>Herein I send you a <note target="n1">bill of Lading</note> for 20 <abbr expan="hogsheads">hhds.</abbr> of<lb/>
+<abbr expan="tobacco">tobo.</abbr> They were <abbr expan="paid">p'd</abbr> me for <note target="n2">Quitrents</note> brought home &amp; <note target="n3"><abbr expan="prized">priz'd</abbr></note> at my own<lb/>
 house I think they are good of the sort you may <sic corr="please">pleas</sic> to take your<lb/>
-own way in the sale of it either at the mast for Export or inland&mdash;</p>
+own way in the sale of it either <note target="n4">at the mast</note> for Export or inland&mdash;</p>
 
-<p>We are now under a great puzzle with our <note target="n2"><abbr expan="tobacco">tobo</abbr> law</note><lb/>
-the weights &amp; Scales are not Come in <note target="n3">Mr. Buchanan</note> hath sent some<lb/>
-<abbr expan="scattered">scatter'd</abbr> letters signifying that <note target="n4">it was <sic corr="passed">passt</sic></note> Warehouses are built &amp;<lb/>
+<p>We are now under a great puzzle with our <note target="n5"><abbr expan="tobacco">tobo</abbr> law</note><lb/>
+the weights &amp; Scales are not Come in <note target="n6">Mr. Buchanan</note> <sic corr="has">hath</sic> sent some<lb/>
+<abbr expan="scattered">scatter'd</abbr> letters signifying that <note target="n7">it was <sic corr="passed">passt</sic></note> Warehouses are built &amp;<lb/>
 building in most parts and so are the inspectors Appointed except in<lb/>
 Some of the Upper parts of Our Rivers which we reckon will soon be<lb/>
 <abbr expan="Supplyied">Supply'd</abbr> also&mdash; this good Effect the law <sic corr="has">hath</sic> already had that all<lb/>
@@ -136,13 +136,14 @@ we <abbr expan="used">us'd</abbr> to get good money for I almost think there wil
 to ship this Year it may be not so much by a great deal as was the last<lb/>
 Notwithstanding the great noises of a mighty Crop but I would not have<lb/>
 you take much notice of what I say the best guesses we can make<lb/>
-are very much at random however I beleive you may reckon safely<lb/>
-that the tobacco which will be <sic corr="shipped">shipt </sic>will in general be the neatest &amp; best hand<lb/>
+are very much at random however I <sic corr="believe">beleive</sic> you may reckon safely<lb/>
+that the <abbr expan="tobacco">tobo</abbr> which will be <sic corr="shipped">shipt </sic>will in general be the neatest &amp; best hand<lb/>
 led that ever you saw I am 
 </p>
 
-<closer>Sir <lb/>
-<abbr expan="Your">Yr.</abbr> most humble Servant</closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="Your">Yr.</abbr> most humble Servant</closer>
 
 
 </div1>
@@ -160,13 +161,22 @@ led that ever you saw I am
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] Quit rent was the term used for the payment due from the holder of land to the "lord of the manor," in this case, to the proprietors of the Northern Neck. Carter as the proprietor's agent, collected these payments. No services were required of the landholder as had been true in mediaeval times.</note>
+<note id="n1"> [1] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
-<note id="n2">[2] The tobacco inspection act of  1730 was introduced and steered through the legislature by Lieutenant Governor Sir William Gooch. " The "bill called for the inspection and bonding at public warehouses of all tobacco shipped abroad; for the destruction of all unacceptable tobacco; for standardization of the size of hogsheads . . . ; for maintenance of detailed records to prevent smuggling; and for the circulation of warehouse receipts as legal tender in lieu of tobacco iteself. . . ." Gooch also managed to obtain approval of the act in England. It went into effect 1731 August 1.(<cit><bibl n="B27">Billings. <hi rend="italics">et al. </hi> <title>Colonial Virginia: A History. </title></bibl></cit> pp. 236-39.)</note>
+<note id="n2">[2] Quit rent was the term used for "a (usually small) rent paid by a freeholder . . .  in lieu of services which might otherwise be required; a nominal rent paid (esp. in former British colonial territories to the Crown) as an acknowledgement of tenure," in this case, to the proprietors of the Northern Neck. Carter as the proprietor's agent, collected these payments. (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
-<note id="n3">[3] Merchant James Buchanan (d. 1742) had run his business from Bideford and Topsham, Devonshire, but he later moved it to London. (<cit><bibl> <title>The Directory Containing an Alphabetical List of the Names &amp; Places of Abode of the Directors of Companies, Persons in Publick Business, Merchants and other Eminent traders in the Cities of london and Westminster and Bororugh of Southwark.</title> London: Printed and sold by Henry Kent in Finch-Lane Near the Royal Exchange . . . , 1736. p. 110;</bibl></cit> and <cit><bibl> <title>A Compleat Guide to All Persons who have any Trade or Concern with the City of London and Ports adjacent. . . .</title> London: Printed for J. Osborn, at the Golden Ball in Pater-noster-row, MDXXXL</bibl></cit>)</note>
+<note id="n3">[3] To prize is "to compress (cured tobacco) in a hogshead or box." There is a good description of the process on pages 100-101 in Middleton's  <title>Tobacco Coast.</title> (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press;</bibl></cit> and <cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> [Newport News, VA: Mariners' Museum, 1953].</bibl></cit>)</note>
 
-<note id="n4">[4] Carter means that the tobacco inspection law had been approved in England.</note>
+<note id="n4">[4]  To sell at the mast means a sale on board a ship where the  "ship's mainmast [w]as the usual place of assembly for a court hearing, public sale, etc., on board ship. . . . " (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>). </note>
+
+<note id="n5">[5] The tobacco inspection act of  1730 was introduced and steered through the legislature by Lieutenant Governor Sir William Gooch. " The "bill called for the inspection and bonding at public warehouses of all tobacco shipped abroad; for the destruction of all unacceptable tobacco; for standardization of the size of hogsheads . . . ; for maintenance of detailed records to prevent smuggling; and for the circulation of warehouse receipts as legal tender in lieu of tobacco iteself. . . ." Gooch also managed to obtain approval of the act in England. It went into effect 1731 August 1.(<cit><bibl n="B27">Billings. <hi rend="italics">et al. </hi> <title>Colonial Virginia: A History. </title></bibl></cit> pp. 236-39.)</note>
+
+<note id="n6">[6] Merchant James Buchanan (d. 1742) had run his business from Bideford and Topsham, Devonshire, but he later moved it to London. (<cit><bibl> <title>The Directory Containing an Alphabetical List of the Names &amp; Places of Abode of the Directors of Companies, Persons in Publick Business, Merchants and other Eminent traders in the Cities of london and Westminster and Bororugh of Southwark.</title> London: Printed and sold by Henry Kent in Finch-Lane Near the Royal Exchange . . . , 1736. p. 110;</bibl></cit> and <cit><bibl> <title>A Compleat Guide to All Persons who have any Trade or Concern with the City of London and Ports adjacent. . . .</title> London: Printed for J. Osborn, at the Golden Ball in Pater-noster-row, MDXXXL</bibl></cit>)</note>
+
+<note id="n7">[7] Carter means that the tobacco inspection law had been approved in England.</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was revised March 24, 2016,  to add footnotes and strengthen the modern language version text.</hi></note>
+
 
 </div1>
 </back>

@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2006</date>
+     <date>2006, 2016</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -94,7 +94,7 @@
 <title>Letter from Robert Carter to John Pemberton, April 12, 1732</title>
 </bibl>
 </head>
-<p>Robert Carter writes to Liverpool mercvhant John Pemberton, April 12, 1732, to report the arrival of Captain Loxom in the <hi rend="italics"> Loyalty,</hi> and his pleasure that Captain Fowler, who arrived two weeks earlier, has told him that Pemberton will continue to handle Carter's tobacco as long as they "both remain on the Stage of the World." He also reports shipments of tobacco.</p>
+<p>Robert Carter writes to Liverpool merchant John Pemberton, April 12, 1732, to report the arrival of Captain Loxom in the <hi rend="italics"> Loyalty,</hi> and his pleasure that Captain Fowler, who arrived two weeks earlier, has told him that Pemberton will continue to handle Carter's tobacco as long as they "both remain on the Stage of the World." He also reports shipments of tobacco.</p>
 </div1>                 
 </front>
 
@@ -111,25 +111,24 @@
 Mr. John Pemberton<lb/>
 </dateline>
 
-
 </opener>
 
-
-
-<p>I have just now <abbr expan="received">receiv'd</abbr> yours by <note target="n1"><abbr expan="Captain">Capn:</abbr> Loxum</note> he <sic corr="has">hath</sic>  <lb/> 
+<p>I have just now <abbr expan="received">receiv'd</abbr> yours by <note target="n1"><abbr expan="Captain">Capn:</abbr> <sic corr="Loxam">Loxum</sic></note> he <sic corr="has">hath</sic>  <lb/> 
 had 14 weeks passage Fowler <sic corr="has">hath</sic> been in <del>this</del> <add place="supralinear">near a</add> Fortnight he gave <lb/> 
 me the pleasing Satisfaction to tell me that he heard you <sic corr="publically">publickly</sic> <lb/> 
 say you would transact business for me while we both <sic corr="remained">remaind</sic> on <lb/> 
 the Stage of this world</p>
 
-<p>I sent you 50 hogsheads of <sic corr="stemmed">stemm'd</sic> <abbr expan="tobacco">tobo</abbr> in the <name type="ship">True Blue</name> <abbr expan="captain">cap</abbr> <add place="supralinear">B.</add><lb/> 
+<p>I sent you 50 hogsheads of <sic corr="stemmed">stemm'd</sic> <abbr expan="tobacco">tobo</abbr> in the <note target="n2"><name type="ship">True Blue</name></note> <abbr expan="captain">cap</abbr> <add place="supralinear">B.</add><lb/> 
 Berry who I hope by this time is near with you I purpose some more <lb/> 
 to you by these Ships which shall be all the trouble I shall give <abbr expan="you">yo.</abbr> at <lb/> 
 this time from 
 </p>
 
-<closer><abbr expan="Sir">Sr.</abbr> <lb/> 
-Yr most humble Servant</closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="Sir">Sr.</abbr> <lb/> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="Your">Yr</abbr> most humble Servant
+</closer>
 
 
 </div1>
@@ -147,8 +146,11 @@ Yr most humble Servant</closer>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] Captain Loxom commanded  a vessel named the <hi rend="italics"> Loyalty</hi>in 1729-1730. (Survey Report 9727, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. See Carter's letters to John Pemberton 1730 April 15 and 1731 August 4.)</note>
+<note id="n1">[1] Captain Edward Loxam commanded  a vessel named the <hi rend="italics"> Loyalty</hi>in 1729-1731. James Tarleton commanded a vessel of that name  in 1731. (Survey Report 04587 summarizing "Treasury, Departmental Accounts-Barbadoes, Journal of 4 1/2% Duties, 1729," Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. See also Carter's letters to John Pemberton <xref to="http://carter.lib.virginia.edu/html/C30d15c.html">April 15, 1730</xref>, and <xref to="http://carter.lib.virginia.edu/html/C31h04a.html">August 4, 1731</xref>.)</note>
 
+<note id="n2">[2]The <hi rend="italics">True Blue</hi> was commanded by Captain Berry in 1732; she may have been owned by Liverpool merchant John Pemberton. (Survey Report 05336 summarizing "Admiralty - Miscellanea, Register of Passes, 1731-1732 found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. See <xref to="http://carter.lib.virginia.edu/html/C32b28c.html">Carter to John Pemberton</xref>, March 1 , 1732, and <xref to="http://carter.lib.virginia.edu/html/C32d12a.html">Carter to Pemberton</xref>, April 12, 1732.)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was revised April 11, 2016,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 </div1>

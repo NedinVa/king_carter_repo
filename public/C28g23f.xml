@@ -13,7 +13,6 @@
 <!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; 
 
 <!NOTATION html SYSTEM "HTML">
-<!ENTITY Ext6 SYSTEM "http://www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm" NDATA html>
 
 ]>
 <TEI.2 id="C28g23f">
@@ -157,11 +156,11 @@ Mr. Edward Tucker<lb/>
 
 <note id="n4">[4] Malt is "barley or other grain prepared for brewing, distilling, or vinegar-making, esp. by steeping, germinating, and kiln-drying."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
-<note id="n5">[5]   Southam is a type of English cyder.  Willia, Ellis. <cit><bibl><title>The Compleat Cyderman: Or, the Present Practice of Raising Plantations of the Best Cyder Apple and Perry Pear-trees, with the Improvement of Their Excellent Juices. ... By Experienc'd Hands</title>, [R. Baldwin, 1754], pp. vi, 53, 78-79. Google books <xref to="http://books.google.com/books?id=euFbAAAAQAAJ&q=Southam#v=snippet&q=Southam&f=false">Google books</xref>.</bibl></cit>.)</note>
+<note id="n5">[5]   Southam is a type of English cyder.  William Ellis. <cit><bibl><title>The Compleat Cyderman: Or, the Present Practice of Raising Plantations of the Best Cyder Apple and Perry Pear-trees, with the Improvement of Their Excellent Juices. ... By Experienc'd Hands</title>, [R. Baldwin, 1754], pp. vi, 53, 78-79. Google books <xref to="http://books.google.com/books?id=euFbAAAAQAAJ&q=Southam#v=snippet&q=Southam&f=false">Google books</xref>.</bibl></cit>.)</note>
 
-<note id="n6"> [6] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (<cit><bibl><xref to="Ext6">"Dictionary of  Financial Scam Terms,"</xref> 8/22/2005</bibl></cit>)</note>
+<note id="n6"> [6] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange.  (See <cit><bibl><xref to="http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm">"Bill of Exchange"</xref> in the online Dictionary of Financial Scam Terms: the Truth vs. the Scam.</bibl></cit>)</note>
 
-<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised December 2, 2014,  to add footnotes and strengthen the modern language version text.</hi></note>
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised December 2, 2014, and again February 23, 2016,,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 

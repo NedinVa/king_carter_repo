@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2006</date>
+     <date>2006, 2016</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -116,8 +116,8 @@ Alderman Perry <lb/>
 
 
 
-<p>This covers a bill of lading for 4 hogsheads of my crop <lb/>
-<sic corr="Stemmed">Stemm'd</sic> tobo on board the Mary <abbr expan="Captain">Capt</abbr> Waff I expect they will rise <lb/>
+<p>This covers a <note target="n1">bill of lading</note> for 4 hogsheads of my crop <lb/>
+<sic corr="Stemmed">Stemm'd</sic> <abbr expan="tobacco">tobo</abbr> on board the Mary <abbr expan="Captain">Capt</abbr> Waff I expect they will rise <lb/>
 Well and clean <sic corr="Striptped">Stript </sic>free from those faults you <abbr expan="complained">complain'd</abbr> of <lb/>
 last year and that all the rest of that sort that I have sent you <lb/>
 will Escape any harsh character from you</p>
@@ -126,14 +126,15 @@ will Escape any harsh character from you</p>
 thing from my <note n="TF">Lord Fairfax</note> I had not foundation to ground a <lb/>
 letter to him upon however I have thought it may be for his ser= <lb/>
 vice to <sic corr="enclose">inclose</sic> to you some <sic corr="copies">copys</sic> of the proceedings of this govern<lb/>
-ment in granting away the mountainous lands in the Upper part <lb/>
+ment in <note target="n2">granting away</note> the mountainous lands in the Upper part <lb/>
 of the Northern neck You will <sic corr="please">pleas</sic> to let his Lordship have them whe= <lb/>
 ther he will think them worth his Notice I must submit to his own thou= <lb/>
 ghts I am 
 </p>
 
-<closer>Sir <lb/>
-Your most humble Servant</closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your most humble Servant</closer>
 
 
 </div1>
@@ -151,8 +152,11 @@ Your most humble Servant</closer>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
+<note id="n1"> [1] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
+<note id="n2">[2] In the minutes of the Council meeting of June 10, 1731, there are granted large tracts of lands that may be the ones Carter refers to.  (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:245 f. </bibl></cit> )</note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was revised February 23, 2016,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 </div1>
 </back>

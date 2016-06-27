@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2006</date>
+     <date>2006, 2016</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -130,8 +130,8 @@ being one of the first excepting a Couple of <sic corr="Liverpool">Leverpoole</s
 that went out of York that was not <sic corr="fully Loaded">full Loaden</sic> indeed a Small Ship of <lb/>
 <note n="MP2">Mr. Perrys</note> <sic corr="sails">sales</sic> with yours there are very few Ships more near ready most of <lb/>
 our trade have but just <abbr expan="arrived">arriv'd</abbr> abundance of Ships we have we Suppose <lb/>
-from the expectation of a great Crop I am just got home from the General <lb/>
-Court there the great <sic corr="cry">crye</sic> <add place="supralinear">was</add> of a Short crop <abbr expan="through">thro'</abbr> most parts of the Country &amp; <lb/>
+from the expectation of a great Crop I am just got home from the <note target="n3">General <lb/>
+Court</note> there the great <sic corr="cry">crye</sic> <add place="supralinear">was</add> of a Short crop <abbr expan="through">thro'</abbr> most parts of the Country &amp; <lb/>
 that many of <del>our</del> <add place="supralinear"><abbr expan="your">yr</abbr></add> Ships could never find <abbr expan="tobacco">tobo</abbr> for near their Loads <lb/>
 <abbr expan="tobacco">tobo</abbr> in the Country is considerably Started lately I was forced to buy some <lb/>
 to discharge some country Dues <add place="supralinear">to the Southward</add> and could not get it under 12/6 <lb/>
@@ -140,9 +140,9 @@ what fate we that are freighters shall meet with at <abbr expan="your">yr.</abbr
 to time to tell us the Event your <abbr expan="Captain">Capn:</abbr>  will give you a more particular account <lb/>
 how matters go here</p>
 
-<p>Herein comes a bill of Lading for my <sic corr="Tobacco">Tobaccoe</sic> the weights <lb/>
-of it and the <note target="n3">tare</note> of the Cask you will have under the Naval <note target="n4"><abbr expan="Officers">Offrs.</abbr> hands</note> <lb/>
-here is also a bill of Exchange of <abbr expan="Captain">Capn</abbr>.  Russels upon <abbr expan="yourself">yrself</abbr> for &pound;21"10 which <lb/>
+<p>Herein comes a <note target="n4">bill of Lading</note> for my <sic corr="Tobacco">Tobaccoe</sic> the weights <lb/>
+of it and the <note target="n5">tare</note> of the Cask you will have under the Naval <note target="n6"><abbr expan="Officers">Offrs.</abbr> hands</note> <lb/>
+here is also a <note target="n7">bill of Exchange</note> of <abbr expan="Captain">Capn</abbr>.  Russels upon <abbr expan="yourself">yrself</abbr> for &pound;21"10 which <lb/>
 I desire Credit for And I am to advise you that on the 6th Inst I drew a bill <lb/>
 of exchange upon you for &pound; one hundred pounds payable to <note n="JR">John Randolph</note> <abbr expan="Esquire">Esqr.</abbr> 
 
@@ -155,31 +155,35 @@ Portland but it must be your mistake I had only the sales of the 10 hogsheads <l
 sent you in 1730. It seems you did not remember you had <sic corr="disposed">disposd</sic> of any <lb/>
 more of my 20 hogsheads than one of the 12 you told me before were un= <lb/>
 sold I reckon then being the winter season might make Selling <lb/>
-difficult <sic corr="and">'</sic>  rest in hopes the Spring market might help you off with <lb/>
-The rest and that this will arrive to a Clear town</p>
+difficult <add resp="editor"> [<hi rend="italics">sic</hi>]</add>and 'rest in hopes the Spring market might help you off with <lb/>
+The rest and that this will arrive to a Clear town <add resp="editor"> [<hi rend="italics">sic</hi>]</add></p>
 
-<p>Your Dorchester beer <abbr expan="proved">prov'd</abbr> very good but we must act <lb/>
+<p>Your <note target="n8">Dorchester beer</note> <abbr expan="proved">prov'd</abbr> very good but we must act <lb/>
 our Coat according to our cloth I would have another hogshead from you the <lb/>
-next year <abbr expan="although">tho</abbr>' I drink little of it myself for the Entertainment of my friends <lb/>
+next year <abbr expan="although">tho'</abbr> I drink little of it myself for the Entertainment of my friends <lb/>
 but it must be upon this condition if you can be able to bring out my <abbr expan="tobacco">tobo</abbr> <lb/>
 at near &pound; ten pounds <abbr expan="Per">Pr.</abbr> hogshead</p>
 
 <p>I have now sent you the greatest parcel I think of <lb/>
 <abbr expan="stemmed">stemm'd</abbr> tobacco that ever I did in one year I hope I shall have no Cause <lb/>
 to repent it I did it in a great measure to help your <abbr expan="Captain">Cap.</abbr> in his dispa= <lb/>
-tch and I daresay he will own he would have been much more <note target="n5"><sic corr="plunged">plungd</sic></note><lb/>
+tch and I daresay he will own he would have been much more <note target="n9"><sic corr="plunged">plungd</sic></note><lb/>
 than he has been, had he wanted my large assistance</p>
 
-<p>It <sic corr="has">hath</sic> pleasd God in his good providence to lay his <lb/>
+<p>It <sic corr="has">hath</sic> <sic corr="pleased">pleasd</sic> God in his good providence to lay his <lb/>
 heavy hand upon me in bereaving me of my dear <note n="RC2">Son Robert </note>who took <lb/>
 his leave of this world by a Sudden death on the 6th. instant I am going up <lb/>
 to his habitation to be present at his funeral obsequies I am 
 I</p>
 
 <closer>Sr: <lb/>
-Yr. mournful most humble Servt.
-<seg type="postscript"><lb/><lb/> hear nothing yet of your <lb/>
-Ship to <sic corr="Potomac">Potomack</sic></seg></closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="Your">Yr.</abbr> mournful most humble <abbr expan="Servant">Servt.</abbr>
+
+<seg type="postscript"><lb/><lb/>
+ hear nothing yet of your <lb/>
+Ship to <sic corr="Potomac">Potomack</sic>
+</seg>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</closer>
 
 
 </div1>
@@ -197,15 +201,28 @@ Ship to <sic corr="Potomac">Potomack</sic></seg></closer>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] John Russell commanded the <hi rend="italics">Portland,</hi> a vessel owned by Weymouth merchant Edward Tucker. (<cit><bibl>Survey Report 9729 detailing the Weymouth Port Books, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n1">[1] John Russell commanded the <hi rend="italics">Portland,</hi> a British-built  vessel owned by Weymouth merchant Edward Tucker. (<cit><bibl>Survey Report 09729 detailing the Weymouth Port Books</bibl></cit>; and <cit><bibl>Survey Report 09731 detailing Exchequor King's Remembrancer Port Books. Weymouth, Customer, 1730, found in theVirginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
 <note id="n2">[2] The tobacco inspection act of  1730 was introduced and steered through the legislature by Lieutenant Governor Sir William Gooch. " The "bill called for the inspection and bonding at public warehouses of all tobacco shipped abroad; for the destruction of all unacceptable tobacco; for standardization of the size of hogsheads . . . ; for maintenance of detailed records to prevent smuggling; and for the circulation of warehouse receipts as legal tender in lieu of tobacco iteself. . . ." Gooch also managed to obtain approval of the act in England. It went into effect 1731 August 1.(<cit><bibl n="B27">Billings. <hi rend="italics">et al. </hi> <title>Colonial Virginia: A History. </title></bibl></cit> pp. 236-39.)</note>
 
-<note id="n3">[3] The tare is the weight of the container which is deducted from the gross weight to obtain the net weight of the product held in the cotainer.</note>
+<note id="n3">[3] "The governor's Council, also known as the Council of State or simply the Council, consisted of about a dozen of colonial Virginia's wealthiest and most prominent men. Beginning in the 1630s the Crown appointed Council members. . . . Crown appointments were lifetime appointments. From 1625, when Virginia became a royal colony, until the outbreak of the American Revolution (1775-1783), the Council members advised the royal governor or his deputy, the lieutenant governor, on all executive matters. The Council and the governor together constituted the highest court in the colony, known initially as the Quarter Court and later as the General Court. The Council members also served as members of the General Assembly; from the first meeting of the assembly in 1619 until 1643 the governor, Council members, and burgesses all met in unicameral session. After 1643 the Council members met separately as the upper House of the General Assembly."  (<cit><bibl><xref to="http://www.encyclopediavirginia.org/Governor_s_Council_The">"The Governor's Council"</xref> in <title>Encyclopedia Virginia</title></bibl></cit>.)</note>
 
-<note id="n4">[4] By the Navigation Act of 1663 colonial governors were empowered to appoint an officer to carry out provisions of the Act, which officer "is there commonly known by the name of the naval officer." "Naval officers in British colonies in North America and the West Indies prepared shipping lists and forwarded them through the colonial governor to the Board of Trade or to the Treasury in England. The Navigation Act of 1696 established the naval officer's responsibility, to obtain detailed information regarding every ship entering and clearing in the colonial ports. The lists contain chronological entries of ships and their cargo. Information includes the date of entry or clearance, the type and name of the ship, its home port or colony, the details of the vessel's construction and registration, the name of the master and owner, the last port entered and the immediate destination, and the tonnage of the vessel "(1. <cit><bibl>"The Navigation Acts."  http://uweb.txstate.edu/teachamhistory/yeari/documents/009navigation.htm. July 26, 2006;</bibl></cit> and 2. <cit><bibl>"British Records Relating to America in Microform Collections" http://mulibraries.missouri.edu/specialcollections/britishrecmf.php?page=3.  July 26, 2006</bibl></cit>). </note>
+<note id="n4"> [4] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
-<note id="n5">[5] Carter probably means that the ship's captain would have been thrown into even more trouble than he had been in getting cargo.</note>
+<note id="n5">[5] The tare weight is the weight of the container "that is deducted from the gross weight to obtain the net weight" of the product held in the container. (<cit><bibl><title>The American Heritage Dictionary of the English Language,</title> 4th ed.,  Houghton Mifflin Company, 2000. Updated in 2009. Quoted online by <xref to="http://www.thefreedictionary.com/tare">The Free Dictionary,</xref> 9/13/2011.</bibl></cit>)</note>
+
+<note id="n6">[6]  By the Navigation Act of 1663 colonial governors were empowered to appoint an officer to carry out provisions of the Act, which officer "is there commonly known by the name of the naval officer." "Naval officers in British colonies in North America and the West Indies prepared shipping lists and forwarded them through the colonial governor to the Board of Trade or to the Treasury in England. The Navigation Act of 1696 established the naval officer's responsibility, to obtain detailed information regarding every ship entering and clearing in the colonial ports. The lists contain chronological entries of ships and their cargo. Information includes the date of entry or clearance, the type and name of the ship, its home port or colony, the details of the vessel's construction and registration, the name of the master and owner, the last port entered and the immediate destination, and the tonnage of the vessel "
+(1. <cit><bibl>"The <xref to="http://www.digitalhistory.uh.edu/disp_textbook.cfm?smtID=3&psid=4102">Navigation Acts</xref>."  July 26, 2006;</bibl></cit> and 2. <cit><bibl>"British Records Relating to America in Microform Collections"  July 26, 2006</bibl></cit>. [This source is no longer available on the web, but is a good summary and is retained for that reason.] See <xref to="http://www.digitalhistory.uh.edu/disp_textbook.cfm?smtID=3&psid=4102">"Navigation Acts"</xref> in "Digital History" for abstracts of the several acts.) </note>
+
+
+<note id="n7"> [7] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (See <cit><bibl><xref to="http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm">"Bill of Exchange"</xref> in the online Dictionary of Financial Scam Terms: the Truth vs. the Scam.</bibl></cit>)</note>
+
+<note id="n8">[8] "After Burton and London, Dorchester was also known for the quality of its ales. This honor seemed to have been due to the water. <title>The Complete Country Housewife</title> published in 1760 asserts, 'One of the best esteemed beers in England is that brewed in and near Dorchester. The excellence of this beer is in great measure owing to the quantity of chalk, with which that country abounds; which being impregnated with the water, produces that agreeable softness, for which this beer is so much admired.' . . . 'The author of <title>Every Man his Own Brewer</title> claimed it was not only the water but also the malt that made Dorchester beer unique. It is said to be brewed from barlies well germinated but not to the domination of pale malt and its peculiar taste proceeds from the starchiness of malt and quantities of salt and flour mixed with the wort. (<cit><bibl>Frank Clark. "A <xref to="http://research.history.org/DigitalLibrary/view/index.cfm?doc=ResearchReports%5CRR0364.xml&highlight=">Most Wholesome Liquor</xref>: A Study of Beer and Brewing in 18th-Century England and Her Colonies." [Williamsburg, Virginia: Colonial Williamsburg Foundation Library Research Report Series-364. 2000.]</bibl></cit>)</note>
+
+<note id="n9">[9] Carter probably means that the ship's captain would have been thrown into even more trouble than he had been in getting cargo.</note>
+
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was revised May , 2016,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 </div1>

@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2006</date>
+     <date>2006, 2016</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -116,41 +116,46 @@ Mr. William Dawkins<lb/>
 
 
 
-<p>Herein I send You a bill of Lading for two <lb/>
+<p>Herein I send You a <note target="n1">bill of Lading</note> for two <lb/>
 hogsheads of tobacco in the <name type="ship">Mary Brigantine</name> <abbr expan="Captain">Capt</abbr> Belcher One of them is<lb/>
-<sic corr="stemmed">stemmd</sic> the Other leaf which <note target="n1"><abbr expan="Captain">Capt</abbr> Dove</note> left out neither of them<lb/>
+<sic corr="stemmed">stemmd</sic> the Other leaf which <note target="n2"><abbr expan="Captain">Capt</abbr> Dove</note> left out neither of them<lb/>
 Crop</p>
 
 <p>I am indebted to my <note n="LCF">Youngest daughter</note> a<lb/>
-gold Watch She is married to <note target="n2"><abbr expan="Colonel">Colo</abbr> Fitzhugh</note> I desire it may be<lb/>
+gold Watch She is married to <note target="n3"><abbr expan="Colonel">Colo</abbr> Fitzhugh</note> I desire it may be<lb/>
 a good one with a Strong gold chain and a hook to it for a Woman<lb/>
 I request <note n="EA">Mr. Athawes</note> would be particularly careful in buying it<lb/>
 himself having a tryal of it for some time</p>
 
-<p>Herein I send you a Small bill of exchange<lb/>
+<p>Herein I send you a Small <note target="n4">bill of exchange</note><lb/>
 for &pound;6 drawn by Thomas Booth on Mr. Berry which I desire you<lb/>
 will negotiate And that <abbr expan="You">Yo</abbr> will not for get <add resp="editor"> [<hi rend="italics">sic</hi>]</add> to send me a box of piping<lb/>
 <abbr expan="tobacco">tobo</abbr></p>
 
 <p>I am frequently troubled with Windy <sic corr="colic">cholick</sic><lb/>
-pains and I have found <note target="n3">Daffys Elixir</note> to be the best <sic corr="medicin e">medicin</sic> I could
+pains and I have found <note target="n5">Daffys Elixir</note> to be the best <sic corr="medicine">medicin</sic> I could
 
 <pb n="2"/><lb/><lb/>
 take for my relief I desire you will send me a quart of it in&mdash;<lb/>
 Small Bottles Pray take care that it be the right it is generally<lb/>
-<abbr expan="Esteemed">Esteem'd</abbr> that the <sic corr="medicines">medicins</sic> that come from the Apothecarys<lb/>
-hall prove the best and are the truest made up I heartily wish<lb/>
+<abbr expan="Esteemed">Esteem'd</abbr> that the <sic corr="medicines">medicins</sic> that come from the <note target="n6"><sic corr="Apothecarries">Apothecarys</sic><lb/>
+hall</note> prove the best and are the truest made up I heartily wish<lb/>
 <abbr expan="Your">Yr.</abbr> health and am Sir
 
 </p>
 
-<closer><abbr expan="Your">Yr.</abbr> Most humble Servant&mdash;<seg type="postscript"><lb/><lb/>
-I am also <abbr expan="advised">advis'd</abbr> that <note target="n4">Dr. Batemans drops</note> are a <sic corr="Sovereign">Soverign</sic> remedy<lb/>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="Your">Yr.</abbr> Most humble Servant&mdash;<seg type="postscript"><lb/><lb/>
+
+
+I am also <abbr expan="advised">advis'd</abbr> that <note target="n7"><xref to="http://www.centerforinquiry.net/blogs/entry/dr._batemans_pectoral_drops/">Dr. Batemans drops</xref></note> are a <sic corr="Sovereign">Soverign</sic> remedy<lb/>
 in my distemper&mdash;I desire you will <sic corr="please">pleas</sic> to send me a Pound in Small<lb/>
-Bottles also a <abbr expan="dozen">dozo</abbr> Bottles of <note target="n4">Stoutons drops,</note> herein come<corr resp="editor">[s]</corr> a bill of<lb/>
+Bottles also a <abbr expan="dozen">dozo</abbr> Bottles of <note target="n7"><xref to="http://www.gutenberg.org/files/30162/30162-h/30162-h.htm"><sic corr="Stoughtons">Stoutons</sic></xref> drops,</note> herein come<corr resp="editor">[s]</corr> a bill of<lb/>
 Exchange drawn by <abbr expan="Captain">Capt</abbr> Belcher on Mr. Athawes for &pound;10.8.2<lb/>
 which I desire may be Carried to my Credit<lb/><lb/>
-per Belcher</seg></closer>
+per Belcher
+</seg>
+</closer>
 
 
 </div1>
@@ -168,13 +173,23 @@ per Belcher</seg></closer>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] The <hi rend="italics">Bailey</hi> was a London ship owned by William Dawkins and commanded at various times by Adam Graves (1725-1730) and by Thomas Dove (1731-1732). She was a vessel of some 250 tons and carried 15-17 crew members. (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, 156v, and other data in Adm. 68/194 and /196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> A letter of Carter's executors to Dawkins 1738 May 10 refers to "your ship Bailey.")</note>
+<note id="n1"> [1] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
-<note id="n2">[2]  Henry Fitzhugh (1706-1742) of "Eagle's Nest," Stafford County, was educated at Oxford, and married Lucy Carter (1715-1763), Robert Carter's fourteenth child, in 1730. They had  four children; after Fitzhugh's death, she married Nathaniel Harrison (1713-1791).  He was a burgess and militia officer. (<cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 451 </bibl></cit>;  <cit><bibl>Robert A. Rutland, <title>The Papers of George Mason, 1725-1792.</title> [Chapel Hill: University of North Carolina Press, 1970]. I:lii</bibl></cit>; and extensive generalogical notes, "Fitzhugh Family," in volumes 7 and 8 of <title>Virginia Magazine of History and Biography.</title>)</note>
+<note id="n2">[2]  The <hi rend="italics">Bailey</hi> was a London ship owned by William Dawkins and commanded at various times by Adam Graves (1725-1730) and by Thomas Dove 1730-1732. She was a vessel of some 250 tons and carried 15-17 crew members. (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, 156v, and other data in Adm. 68/194 and /196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> A letter of Carter's to Dawkins <xref to="http://carter.lib.virginia.edu/html/C32e12b.html">May 12, 1732,</xref> refers to "your ship Bailey." as does a letter of August 10, 1733, from Carter's executors to Dawkins. [<cit><bibl>Lloyd T. Smith, Jr., <hi rend="italics">ed.</hi> <title>The Executors' Letters of Robert Carter of Corotoman, 1732-1738. </title> (Irvington, VA: Foundation for Historic Christ  Church, 2010) p. 76].</bibl></cit>)</note>
 
-<note id="n3">[3]  "Daffy's elixir, the first "patent medicine" to be advertised in an American newspaper (in 1708) "was promoted as a general pick-me-up and universal treatment suitable for all illnesses." It had been invented by Thomas Daffy (d. 1680), a clergyman. (<cit><bibl>James Harvey Young, PhD. <title>The Medical Messiahs: A Social History of Health Quackery in Twentieth-Century America.</title> Chapter 2:   "The Lawless Centuries." http://www.quackwatch.org/13Hx/MM/02.html. 5/16/2006</bibl></cit>; and  <cit><bibl>"Reverend Thomas Daffy Vicar of Redmile 1666 - 1680," Redmile Archive. http://www.redmilearchive.freeuk.com/daffy.html. 5/16/2006</bibl></cit>)</note>
+<note id="n3">[3]  Henry Fitzhugh (1706-1742) of "Eagle's Nest," Stafford County, was educated at Oxford, and married Lucy Carter (1715-1763), Robert Carter's fourteenth child, in 1730. They had  four children; after Fitzhugh's death, she married Nathaniel Harrison (1713-1791).  He was a burgess and militia officer. (<cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 451 </bibl></cit>;  <cit><bibl>Robert A. Rutland, <title>The Papers of George Mason, 1725-1792.</title> [Chapel Hill: University of North Carolina Press, 1970]. I:lii</bibl></cit>; and extensive generalogical notes, "Fitzhugh Family," in volumes 7 and 8 of <title>Virginia Magazine of History and Biography.</title>)</note>
 
-<note id="n4">[4] Bateman's pectoral drops and Stoutons drops were also patent medicines popular in the colonies.</note>
+<note id="n4"> [4] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (See <cit><bibl><xref to="http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm">"Bill of Exchange"</xref> in the online Dictionary of Financial Scam Terms: the Truth vs. the Scam.</bibl></cit>)</note>
+
+<note id="n5">[5]  "Daffy's elixir, the first "patent medicine" to be advertised in an American newspaper (in 1708) "was promoted as a general pick-me-up and universal treatment suitable for all illnesses." It had been invented by Thomas Daffy (d. 1680), a clergyman. (<cit><bibl>James Harvey Young, PhD. <title>The <xref to="http://www.quackwatch.com/13Hx/MM/02.html">Medical Messiahs:</xref> A Social History of Health Quackery in Twentieth-Century America.</title> Chapter 2:   "The Lawless Centuries."</bibl></cit>; and  <cit><bibl>"<xref to="www.redmilearchive.freeuk.com/daffy.html">Reverend Thomas Daffy</xref> Vicar of Redmile 1666 - 1680," Redmile Archive.</bibl></cit>)</note>
+
+<note target="n6">The <xref to="http://www.apothecaries.org/hall-hire">Apothocarries' Hall</xref>, established in 1617 in London, included a retail phaarmacy.</note>
+
+<note id="n7">[7] Bateman's pectoral drops and Stoutons drops were also patent medicines popular in the colonies. (<cit><bibl>George B. Griffenhagen and James Harvey Young. <title> <xref to="http://www.gutenberg.org/files/30162/30162-h/30162-h.htm">Old English Patent Medicines</xref> in America.</title> [Washington, D.C.: Smithsonian Institution, 1959. Paper 10 in the series "Contributions from The Museum of History and Technology." Available online through Projct Gutenberg.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was revised March 4, 2016,  to add footnotes and strengthen the modern language version text.</hi></note>
+
+
 
 </div1>
 </back>

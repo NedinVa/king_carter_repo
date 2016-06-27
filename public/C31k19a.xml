@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2006</date>
+     <date>2006, 2016</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -102,7 +102,7 @@
 
 <body>
 <div1 type="letter" n="1">
-<head>Letter from Robert Carter to James Buchanan, November 19, 1731</head>
+<head>Letter from Robert Carter to <note target="n1">James Buchanan</note>, November 19, 1731</head>
 <opener>
 <dateline>
 <pb n="1"/>
@@ -116,18 +116,19 @@ Mr. James Buchanan&mdash;<lb/>
 
 
 
-<p>I receiv'd a letter from you in <abbr expan="your">yr</abbr> ship the <name type="ship">Thistle</name><lb/>
+<p>I receiv'd a letter from you in <abbr expan="your">yr</abbr> ship <note target="n2">the <name type="ship">Thistle</name></note><lb/>
 <abbr expan="Captain">Capt</abbr> Reid and I have contributed <sic corr="pretty">pritty</sic> largely towards the loading<lb/>
 of her and the small acquaintance I had with you in Potom=<lb/>
-<sic corr="ac">ack</sic> and the good Character you wear in those parts hath encour=<lb/>
+<sic corr="ac">ack</sic> and the good Character you wear in those parts <sic corr="has">hath</sic> encour=<lb/>
 <abbr expan="aged">ag'd</abbr> me to Consign you <add resp="editor">[omission in text]</add> <abbr expan="hogsheads">hhds.</abbr> of my <abbr expan="tobacco">tobo</abbr>&mdash; Which I desire you<lb/>
 will make the most of you Can for my advantage An Early sale<lb/>
 and an entire Accot to let me know what I am to have for it will be<lb/>
 the most Satisfactory way you can take to Oblige me Who am 
 </p>
 
-<closer>Sir <lb/>
-<abbr expan="Your">Yr.</abbr> very humble Servant
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="Your">Yr.</abbr> very humble Servant
 </closer>
 
 
@@ -146,8 +147,11 @@ the most Satisfactory way you can take to Oblige me Who am
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
+<note id="n1">[1] Merchant James Buchanan (d. 1742) had run his business from Biddeford and Topsham, Devonshire, but he later moved it to London. (<cit><bibl> <title>The Directory Containing an Alphabetical List of the Names &amp; Places of Abode of the Directors of Companies, Persons in Publick Business, Merchants and other Eminent traders in the Cities of london and Westminster and Bororugh of Southwark.</title> London: Printed and sold by Henry Kent in Finch-Lane Near the Royal Exchange . . . , 1736. p. 110;</bibl></cit> and <cit><bibl> <title>A Compleat Guide to All Persons who have any Trade or Concern with the City of London and Ports adjacent. . . .</title> London: Printed for J. Osborn, at the Golden Ball in Pater-noster-row, MDXXXL</bibl></cit>)</note>
 
+<note id="n2">[2] The <hi rend="italics">Thistle</hi> was a London ship commanded by a Captain Reid and owned by merchant James Buchanan. (See <cit><bibl><xref to="http://carter.lib.virginia.edu/html/C31i10a.html">Carter to Edward Athawes</xref>, 1731 September 10, 1731, and <xref to="http://carter.lib.virginia.edu/html/C31k19a.html">Carter to James Buchanan</xref>,  November 19, 1731.</bibl></cit>)</note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was revised March 25, 2016,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 </div1>
 </back>

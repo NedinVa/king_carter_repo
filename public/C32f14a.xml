@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+
+ ]>
+<TEI.2 id="C32f14a">
+
+
+<teiHeader type="aacr2">
+
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Robert Carter's General Assembly bill re the estate of Mann Page, June 14-23, 1732</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia
+Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 7 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C32f14a.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL:
+http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2016</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Robert Carter's General Assembly bill re the estate of Mann Page, June 14-23, 1732</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: McIlwaine, H. R., <hi rend="italics">ed</hi>. <title>Journals of the House of Burgesses of Virginia 1727-1734 1736-1740.</title> Richmond, Va. : [Library Board, Virginia State Library], 1910.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic
+Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text
+Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject
+Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1732-06-14</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term
+type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C32f14aT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1732-06-14"></date>
+<idno rend="suppress">C32f14a.xml</idno>
+<title>Robert Carter's General Assembly bill re the estate of Mann Page, June 14-23, 1732</title>
+</bibl>
+</head>
+<p>These are the minutes of the Virginia House of Burgesses consideration of a bill brought by Robert Carter concerning his handling of the estate of Mann Page.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Robert Carter's General Assembly bill re the estate of Mann Page, June 14-23, 1732</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Williamsburg, Virginia</name><lb/>
+<date value="1732-06-14">June 14-23, 1732</date><lb/>
+<lb/>
+</dateline>
+
+
+</opener>
+
+<hi rend="italics">Wednesday, June 14, 1732</hi>:   
+
+<p>A Bill, to enable Robert Carter, Efq; One of the<lb/> Executors of the laft Will and Teftament of Mann Page,<lb/> Efq; deceased, to pay the Debts of the faid Mann Page; <lb/>and to entitle him to receive Interest for the Money he<lb/> hath advanced or shall advance for that Purpose; and to<lb/> charge the Estate of the aid Mann Page with the<lb/> Repaiment of the Principal and Interest; was read a<lb/> fecond Time.</p>
+
+<p>Ordered, That the Bill be committed to a<lb/> Committee; and that they do examine the Allegations<lb/> thereof; and report the Matter, as it shall appear to them,<lb/> to the House: And it is referr'd to Mr Eskridge, Mr<lb/> Meriwether, Mr Blair, Mr Conway, Mr Attorney, Mr<lb/> Tayloe, Mr Lee, Mr Robinson, and Mr Francis Willis.</p><lb/>
+
+<hi rend="italics">Friday, June 16, 1732:</hi>   
+
+<p>Mr Eskridge reported, That the Persons appointed,<lb/>had (according to Order) examined the Allegations of<lb/> the Bill to enable Robert Carter, Esq; one of the<lb/> Executors of the last Will and Testament of Mann Page,<lb/> Esq; deceased, to pay the Debts of the said Mann Page;<lb/> and to entitle him to receive Interest for the Money he<lb/> hath advanced, or shall advance for that Purpose; and to<lb/> charge the Estate of the said Mann Page, with the<lb/> Repaiment of the Principal and Interest: And that they<lb/> were of Opinion, it was reasonable to pass the Bill.</p>
+
+<p>Ordered, That the Bill be ingrossed.</p><lb/>
+
+<hi rend="italics">Tuesday, June 20, 1732:</hi>  
+<p>A Bill, intituled, An Ad to enable Robert Carter,<lb/> Esq; one of the Executors of the last Will and Testament<lb/> of Mann Page, Esq; deceased, to pay the Debts of the<lb/> said Mann Page; and to entitle him to receive Interest for<lb/> the Money he hath advanced or shall advance for that<lb/> Purpose; and to charge the Estate of the said Mann Page,<lb/> with the Repaiment of the Principal and Interest; was read the third Time.<lb/></p>
+<p>Resolved, That the Bill do pass.</p>
+
+<p>Ordered, That Mr Eskridge do carry the Bill to the<lb/> Council; and desire their Concurrence.</p><lb/>
+
+<hi rend="italics">Friday, June 23, 1732: </hi> <p>A Mesfage from the Council:</p>
+
+<p>That they have agreed to the Bill, intituled, An Act<lb/> to enable Robert Carter, Esq; One of the Executors of<lb/> the last Will and Testament of Mann Page, Esq;<lb/> deceased, to pay the Debts of the said Mann Page: and<lb/> to entitle him to receive Interest for the Money he hath<lb/> advanced, or shall advance for that Purpose: and to<lb/> charge the Estate of the said Mann Page, with the<lb/> Repaiment of the Principal and Interest.</p>
+
+</div1>
+
+</body>
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> McIlwaine, H. R., <hi rend="italics">ed</hi>. <title>Journals of the House of Burgesses of Virginia 1727-1734 1736-1740.</title> Richmond, Va. : [Library Board, Virginia State Library], 1910.
+</note>
+
+<hi rend="italics"><lb/><lb/>This text was created for addition to the project June 14, 2016.</hi>
+
+</div1>
+</back>
+
+
+</text>
+
+</TEI.2>
+

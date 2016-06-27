@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2006</date>
+     <date>2006, 2016</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -117,13 +117,13 @@ Mr. William Dawk.ins<lb/>
 
 
 <p>We find by Several of Our Father's letters <add place="supralinear">a year or two ago</add> that He inten <lb/>
-ded to make use of your assi<corr resp="editor">[s]</corr>tance  in payng part of the Purchase <lb/>
+ded to make use of yYour Assi<corr resp="editor">[s]</corr>tance  in payng part of the Purchase <lb/>
 Money for <note n="LL">Mr. Lloyd's Estate,</note> that his cash in Mr. <note n="MP2">Alderman Per- <lb/>
 ry's</note> Hands might not be too much drained. How He might alter his <lb/>
 Design afterwards, We <abbr expan="cannot">can't</abbr> say, but We find the Purchase was com <lb/>
 <sic corr="pleted">pleated</sic> without any <sic corr="drafts">Draughts</sic> on You. By this Means great dis <lb/>
 putes have arisen <hi rend="underline">between Our Father and the Alderman</hi> upon <lb/>
-Account of the Discounts not being allowed <hi rend="underline">on his Tobaccos</hi>, and <hi rend="underline">He</hi> <add place="supralinear">the Alderman</add> <lb/>
+Account of the Discounts not being allowed <hi rend="underline">on his <sic corr="Tobaccoes">Tobaccos</sic></hi>, and <hi rend="underline">He</hi> <add place="supralinear">the Alderman</add> <lb/>
 has before now seen how unkindly it was <del>its</del> taken <del>that</del> by our Father <lb/>
 that He could not have the usual Advantages after <add place="supralinear">so large a sum of </add>his Money <lb/>
 had <sic corr="lain">layn</sic> idle three or four Years, subject indeed to a payment in <lb/>
@@ -132,33 +132,35 @@ In Some of His Letters He tells the Alderman, He hoped to make him <lb/>
 such Remittances as would retreive his Credit in his Books and in <lb/>
 some measure make up the Prodigious Breach, which this large <lb/>
 Purchase had made. How this could have been effected, We cannot <lb/>
-at present <del>tell</del> pretend to guess, unless by Bills drawn on You or <lb/>
+at present <del>tell</del> pretend to guess, unless by <note target="n1">Bills</note> drawn on You or <lb/>
 Mr. <note n="JP">John Pemberton</note> of <name type="city">Liverpool</name>. But we find such a large <lb/>
 Quantity of Tobacco <add place="supralinear">now</add> sent to this Gentleman, a very great part of <lb/>
 which is Stemmed and consequently for home Consumption, that <lb/>
 We can't imagine He could design to draw anything considerable <lb/>
-on <del>this Gent</del> him, when there would not sdufficient remain to clear <lb/>
-the Duties. The Conclusion must then be that He intended to have or- <lb/>
+on <del>this Gent</del> him, when there would not sufficient remain to clear <lb/>
+the <note target="n2">Duties.</note> The Conclusion must then be that He intended to have or- <lb/>
 <abbr expan="dered">der'd</abbr> some of the Money in Your Possession to be paid to the Alderman <lb/>
 who will not otherwise have Money of Our Father's Estate to clear all <lb/>
-the Duties of Tobacco's consigned to him this present Year <add place="supralinear">for we do not think proper to touch the Bank Stock</add> not to <lb/>
+the Duties of <sic corr="Tobaccoes">Tobacco's</sic> consigned to him this present Year <add place="supralinear">for we do not think proper to touch the Bank Stock</add> not to <lb/>
 mention any thing of a large Sum He is to pay to <note n="TF">Lord Fairfax.</note>
 
 <pb n="2"/><lb/><lb/>
 Every Person has a Right to use his Own in the Manner He <lb/>
 thinks most for his Advantage, but we have been thus part- <lb/>
 tcular, that We might take off all Imputation of Unkindness <lb/>
-or Jealousie, which with truth We assure You is very far from <lb/>
-Our thoughts. <del>The</del> We have now sent an Order on you to pay to <lb/>
-pay <add resp="editor"> [<hi rend="italics">sic</hi>]</add> to Micajah Perry <abbr expan="Esquire">Esqr.</abbr> and Company the Sum of One <lb/>
+or <sic corr="Jealousy">Jealousie</sic>, which with truth We assure You is very far from <lb/>
+Our thoughts. <del>The</del> We have now <xref to="http://carter.lib.virginia.edu/html/C32h30b.html">sent an Order</xref> on you to pay<hi rend="underline"> to <lb/>
+pay</hi> <add resp="editor"> [<hi rend="italics">sic</hi>]</add> to Micajah Perry <abbr expan="Esquire">Esqr.</abbr> and Company the Sum of One <lb/>
 Thousand Pounds Sterling, which We verily believe Our Father <lb/>
 would have done, if He had lived <sic corr="until">'till</sic> this time, and We per <lb/>
 suade Ourselves You will not blame Us in Your own Thoughts <lb/>
 for desiring to make the Most of Our Tobacco. 
 </p>
 
-<closer>We are, Sir, <lb/>
-Your Most humble Servants 
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We are, Sir, <lb/>
+Your Most humble Servants<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;J[ohn Carter] C[harles Carter] 
 </closer>
 
 
@@ -177,8 +179,13 @@ Your Most humble Servants
 
 <note>The county and colony have been added to the heading for clarity.</note>
 
+<note>There is another draft of this letter in the Carter-Plummer letter book, acquired by the Tracy W. McGregor Library of the University of Virginia Library in 1955, and now held in the Albert and Shirley Small Special Collections Library, University of Virginia. This letter book was edited by <cit><bibl>Lloyd T. Smith, Jr., as  <title>The Executors' Letters of Robert Carter of Corotoman, 1732-1738</title>. [Irvington, VA: Foundation for Historic Christ  Church, 2010].</bibl></cit>  The second draft appears on pages 74-75.</note>
 
+<note id="n1"> [1] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (See <cit><bibl><xref to="http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm">"Bill of Exchange"</xref> in the online Dictionary of Financial Scam Terms: the Truth vs. the Scam.</bibl></cit>)</note>
 
+<note id="n2">[2]  The impost was the duty imposed by Britain on imported tobacco, and the cocket, for which a fee was charged, was the document bearing a cocket or seal issued by the "King's Customs House" that the impost had been paid. (See the definitions of each word in  <cit><bibl><title>Oxford English Dictionary Online.</title></bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was revised June 25, 2016,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 </div1>
 </back>

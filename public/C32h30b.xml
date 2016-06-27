@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2006</date>
+     <date>2006, 2016</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -118,15 +118,17 @@ and Company Merchants in London.
 
 
 <p>At Sight of this Our first Order, Our Second Order of the <lb/>
-same Tenor and <del>[illegible]</del> Date not being complied with, pay to <note n="MP2">Micajah <lb/>
+same Tenor and <del>not being</del> Date not being complied with, pay to <note n="MP2">Micajah <lb/>
 Perry</note> <abbr expan="Esquire">Esqr.</abbr> and Mr. <note target="n1">Philip Perry</note> Merchants in London or their Or- <lb/>
 der the Sum of of One thousand Pounds Sterling, and charge it to the <lb/>
 Account of the Estate of Robert Carter <abbr expan="Esquire">Esqr</abbr> Deceased by the Desire <lb/>
 of us his Executors. 
 </p>
 
-<closer>Your humble Servants.<lb/>
-John Carter </closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your humble Servants.<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;John Carter 
+</closer>
 
 
 </div1>
@@ -144,8 +146,13 @@ John Carter </closer>
 
 <note>The county and colony have been added to the letter's heading for clarity.</note>
 
+<note>There is another draft of this letter in the Carter-Plummer letter book, acquired by the Tracy W. McGregor Library of the University of Virginia Library in 1955, and now held in the Albert and Shirley Small Special Collections Library, University of Virginia. This letter book was edited by <cit><bibl>Lloyd T. Smith, Jr., as  <title>The Executors' Letters of Robert Carter of Corotoman, 1732-1738</title>. [Irvington, VA: Foundation for Historic Christ  Church, 2010].</bibl></cit>  The second draft appears on page 76.</note>
+
+<note>See the <xref to="http://carter.lib.virginia.edu/html/C32h30a.html">covering letter </xref>to this order.</note>
+
 <note id="n1">[1] Philip Perry (1703-1762) was partner with his brother Micajah III in the family business after the death of their father Richard in 1720 and grandfather Micajah in October 1721. (<cit><bibl n="B22">Price. <title>Perry of London. . . . </title> pp. 24-27.</bibl></cit>)</note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was revised June 25, 2016,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 </div1>
 </back>

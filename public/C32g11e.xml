@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2006</date>
+     <date>2006, 2016</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -94,7 +94,7 @@
 <title>Letter from Robert Carter to Alderman [Micajah] Perry, July 11, 1732</title>
 </bibl>
 </head>
-<p>Robert Carter writes to London merchant Alderman [Micajah] Perry, July 11, 1732, to detail the money owed to him by Captain John Hyde &amp; Company that he wishes to have Hyde pay to Perry on Carter's account because Carter is ending  his business with Hyde. An account is included as part of the letter.</p>
+<p>Robert Carter writes to London merchant Alderman [Micajah] Perry, July 11, 1732, to detail the money owed to him by Captain John Hyde &amp; Company that he wishes to have Hyde pay to Perry on Carter's account because Carter is ending  his business with Hyde. An account is included as part of the letter. He mentions copies of several letters pertinent to the affair that are enclosed, but not present.</p>
 </div1>                 
 </front>
 
@@ -128,12 +128,12 @@ gentlemen, of the same tenor for fear of a miscarriage of the first </p>
 close of our Correspondence the <sic corr="balance">ballance</sic> due to me- I cast up at <add place="supralinear">about</add> four=
 
 <pb n="2"/><lb/><lb/>
-hundred eighty two <add place="supralinear"><abbr expan="pounds">pds</abbr></add> from his last account <sic corr="Current">Currant </sic>and his sales of <abbr expan="tobacco">tobo</abbr> since <lb/>
+hundred eighty two <add place="supralinear"><abbr expan="pounds">pds</abbr></add> from his last <abbr expan="account">accot</abbr> <sic corr="Current">Currant </sic>and his sales of <abbr expan="tobacco">tobo</abbr> since <lb/>
 Herein I send you an order upon him to demand and Receive this money <lb/>
-by and write to him Accordingly to make payment into your hands but <lb/>
+by and <xref to="http://carter.lib.virginia.edu/html/C32g11b.html">write to him</xref> Accordingly to make payment into your hands but <lb/>
 I am to <sic corr="inform">informe</sic> you of some difficulty that I expect <abbr expan="Captain">Capt.</abbr> Hyde will <lb/>
 make in the payment of this money. He tells me <add place="supralinear">in a letter of the 10th of <abbr expan="November">Novr.</abbr> last</add> he sold some tobaccos <lb/>
-to Alderman Levet in the years 1725, 1726, &amp; 1727 and that among this <lb/>
+to <note target="n1">Alderman Levet</note> in the years 1725, 1726, &amp; 1727 and that among this <lb/>
 tobacco I had in the first Parcel three hogsheads and 4 hogsheads <add place="supralinear">&amp;</add> in the Second par= <lb/>
 cel 12 hogsheads and makes my proportion hitherto <abbr expan="unreceived">unreceiv'd</abbr> &pound;126"6"3 which <lb/>
 I suppose he may have some design of Stopping from me The first no= <lb/>
@@ -146,7 +146,7 @@ me another account <abbr expan="Current">Currt</abbr> which is the last in none 
 <abbr expan="Currents">Currts</abbr> does he make the Least mention to me of this affair they are <lb/>
 all without any Salve In that of the 9th of April 1730 he makes the ballan=<add place="supralinear">ce</add> <lb/>
 due to me Two hundred eighty eight pounds four <add place="supralinear"><abbr expan="Shillings">Shill</abbr></add> &amp; five pence his sales of<lb/>
- Sixty hogsheads since raises the <sic corr="balance">ballance</sic> with some bills of Exchange to <lb/>
+ Sixty hogsheads since raises the <sic corr="balance">ballance</sic> with some <note target="n2">bills of Exchange</note> to <lb/>
 what I have made it deducting two parcels of goods since Sent me but that it <lb/>
 may appear more plainly to you I send you an Account Stated perhaps <lb/>
 there may be some small Errors which I cannot at Present Account for <lb/>
@@ -165,7 +165,9 @@ clude Sir
 
 </p>
 
-<closer>Your most humble Servant 
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your most humble Servant 
+
 <seg type="postscript"><lb/><lb/>
 <note target="n3">**</note>
 <table>
@@ -173,11 +175,11 @@ clude Sir
 
 <row><cell>To the <sic corr="balance">ballance</sic> of his account Curt}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>By goods received from them per the}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
 
-<row><cell> dated April 9"1730&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</cell><cell>&pound;288"4"5 </cell><cell> <note target="n1">Rebecca</note> in 1730&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</cell><cell>&pound;  98" 4"6 </cell></row>
+<row><cell> dated April 9"1730&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</cell><cell>&pound;288"4"5 </cell><cell> <note target="n4">Rebecca</note> in 1730&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</cell><cell>&pound;  98" 4"6 </cell></row>
 
 <row><cell>To his account of sales of 40 <abbr expan="hogsheads">hhds</abbr> per}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>By <abbr expan="ditto">do.</abbr> <abbr expan="Received">Reced</abbr> in <abbr expan="ditto">do </abbr>ship 1731</cell><cell>44" 1"8 </cell></row> 
 
-<row><cell><note target="n2">Woodward</note> in 1729. July 7th 1730 }</cell>           <cell>185"7"3</cell> <cell>By my Exchange to Woodward                     </cell><cell>5" 1"- </cell></row>
+<row><cell><note target="n5">Woodward</note> in 1729. July 7th 1730 }</cell>           <cell>185"7"3</cell> <cell>By my Exchange to Woodward                     </cell><cell>5" 1"- </cell></row>
 
 <row><cell>To his account of sales of 20 hogsheads per <abbr expan="ditto">do.</abbr>}</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>By Ballance due to me</cell><cell><hi rend="underline">&pound;481"14"4 </hi></cell></row>
 
@@ -191,19 +193,21 @@ clude Sir
 
 <row><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell><hi rend="underline">&pound;629" 1"6 </hi></cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</cell></row>
 </table>
-<note target="n4">##</note>
+
 <sic corr="Balance">Ballance</sic> in my favour four hundred eighty one pounds fourteen <add place="supralinear"><abbr expan=" Shillings">S</abbr> &amp;</add> four pence<lb/>
 this 11 day of July 1732.<lb/><lb/>
+
+<note target="n6">##</note>
 
 <pb n="4"/><lb/><lb/>
 That I may bring this matter to as Speedy an issue as <lb/>
 I can I shall <sic corr="empower">impower</sic> <note n="JR">John Randolph</note> Esquire. <add place="supralinear">who is no<corr resp="editor">[w]</corr> going home</add> <del>to prosecute</del> the Countrys <lb/>
 agent to prosecute this affair with his outmost Vigour if <abbr expan="Captain">Capt.</abbr> Hyde <lb/>
 will be so Obstinate to lay me under he necessity of going to law with <lb/>
-him for my right I also inclose to you Copys of Several letters &amp; Copys <lb/>
-of <abbr expan="Captain">Capt.</abbr> Hydes accounts Currt from year to year for your full information in this affair<lb/><lb/>
+him for my right I also inclose to you Copys of Several letters &amp; <sic corr="Copies">Copys</sic> <lb/>
+of <abbr expan="Captain">Capt.</abbr> Hydes accounts <abbr expan="Current">Currt</abbr> from year to year for your full information in this affair<lb/><lb/>
 
-via <name type="city"><sic corr="Liverpool">Leverpoole</sic></name> <note target="n4">Loxum</note>
+via <name type="city"><sic corr="Liverpool">Leverpoole</sic></name> <note target="n7">Loxum</note>
 
 
 
@@ -225,16 +229,23 @@ via <name type="city"><sic corr="Liverpool">Leverpoole</sic></name> <note target
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] The <hi rend="italics">Rebecca </hi> was probably a London ship; she was of 300 tons, had a crew of 11, and was commanded by Samuel Malbon in 1731-32. (<cit><bibl>Adm. 65/195, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+ <note id="n1">[1] Richard Levett (d. 1740), mercer, represented Aldersgate on the London council from 1722. A mercer according to the<title>Oxford English Dictionary Online</title> is a tradesman "who deals in textile fabrics, esp. silks, velvets, and other fine materials; spec. a member of the Worshipful Company of Mercers, a livery company of the City of London." Levett apparently had other facets to his business besides textiles.  (<xref to="http://www.british-history.ac.uk/no-series/london-aldermen/hen3-1912/pp119-140">"British History Online,"</xref> 9/3/2015.)</note>
 
-<note id="n2">[2] Thomas Woodward commanded the <hi rend="italics">Providence,</hi> a ship owned by Captain John Hyde &amp; Company, during a number of voyages to the colony, 1723-1729. (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194 and Survey Report 6801 summarizing Adm 68/195, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia,</bibl></cit> and Carter's letter to the firm, 1723 September 17.)</note>
+<note id="n2"> [2] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (See <cit><bibl><xref to="http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm">"Bill of Exchange"</xref> in the online Dictionary of Financial Scam Terms: the Truth vs. the Scam.</bibl></cit>)</note>
 
-<note id="n3">[3]** At this point the paper was turned sideways to accommodate the broad nature of the account.
- </note>
+<note id="n3">[3]** At this point the sheet was turned sideways to accommodate the broad nature of the account.</note>
 
-<note id="n4">[4] ## Here the paper was returned to the vertical</note>
+<note id="n4">[4] The <hi rend="italics">Rebecca </hi> was probably a London ship; she was of 300 tons, had a crew of 11, and was commanded by Samuel Malbon in 1730-32. (<cit><bibl>Survey Report 06445 sumarizing "Adm. 68/196," "Greenwich Hospital: General Accounts. the Names of Ships and The Accounts Paid for Sixpences at the Port of London" found in theVirginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
-<note id="n5">[5] Captain Loxom commanded  a vessel named the <hi rend="italics"> Loyalty</hi>in 1729-1730. (Survey Report 9727, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. See Carter's letters to John Pemberton 1730 April 15 and 1731 August 4.)</note>
+<note id="n5">[5] Thomas Woodward commanded the <hi rend="italics">Providence,</hi> a ship owned by Captain John Hyde &amp; Company, during a number of voyages to the colony, 1723-1729. (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194 and Survey Report 6801 summarizing Adm 68/195, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia,</bibl></cit> and Carter's letter to the firm,  <xref to="/users/berkeley/public/C23i17a.xml">September 17, 1723.</xref>)</note>
+
+
+<note id="n6">[6] ## Here the sheet was returned to the vertical</note>
+
+<note id="n7">[7] Several vessels named <hi rend="italics">The Loyalty</hi> sailed to Virginia. One commanded by Francis Wallis cleared from Poole for Virginia in 1726. Captain Edward Loxam commanded  a vessel of this name in 1729-1732 as did James Tarleton in 1732. (Survey Report 09727 extracting "Public Record Office Class E 190/915/9.  Exchequor King's Remembrancer Port Books. Poole. Collector 1726/7," Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. See Carter's letters to John Pemberton <xref to="/users/berkeley/public/C30d15c.xml">April 15,1730</xref> and <xref to="/users/berkeley/public/C31h04a.xml"> August 4, 1731</xref>.)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was revised June 24, 2016,  to add footnotes and strengthen the modern language version text.</hi></note>
+
 
 
 </div1>

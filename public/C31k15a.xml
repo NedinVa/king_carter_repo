@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2006</date>
+     <date>2006, 2016</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -116,17 +116,17 @@ Mr. Edward Athawes<lb/>
 
 
 
-<p>My last to you was by Your <sic corr="Brig">Brigg</sic> <abbr expan="Captain">Capt</abbr> Belcher<lb/>
+<p><xref to="http://carter.lib.virginia.edu/html/C31i10a.html">My last</xref> to you was by Your <sic corr="Brig">Brigg</sic> <abbr expan="Captain">Capt</abbr> Belcher<lb/>
 by whom I sent you 16 Barrels of <note target="n1">Copper ore</note> which we had a great<lb/>
 deal of reason to <sic corr="believe">beleive</sic> would prove very Valuable I then told you our<lb/>
 vein was quite gone out All Our attempts since have been to no purpose<lb/>
 and our Expectations now are at an absolute Stand we drive<lb/>
-deeper into the Earth and carry our drifts to all points of the Compass<lb/>
+deeper into the Earth and carry our <note target="n2">drifts</note> to all points of the Compass<lb/>
 without the appearance of the least Vein of Ore and our miners<lb/>
 are at an <sic corr="entire">intire</sic> Loss how to proceed thus the great hopes taken up on<lb/>
 our little success are altogether <sic corr="Vanished">Vanisht</sic> and what to do next is the<lb/>
 puzzle I have already said a great deal to you of the Villany of<lb/>
-these miners their idleness and their unruelyness. In some Conversa&mdash;<lb/>
+these miners their idleness and their <sic corr="unrueyiness">unruelyness</sic>. In some Conversa&mdash;<lb/>
 tion I have been in I have been <abbr expan="advised">advis'd</abbr> that the best men to be <abbr expan="employed">imploy'd</abbr><lb/>
 in such an Affair are from <sic corr="Sweden">Sweedland</sic> who <abbr expan="it is">'tis</abbr> said have the greatest<lb/>
 experience in Copper works of any people in the World and that the<lb/>
@@ -141,7 +141,7 @@ know you will do every thing in your power to serve us in this design</p>
 
 <p>One year of our Miners time from our Contracts with them is alre<lb/>
 ady run out and the discouragements they meet with it is very<lb/>
-much to be <abbr expan="feared">fear'd</abbr> will pall their endeavours and make them continue<lb/>
+much to be <abbr expan="feared">fear'd</abbr> will <note target="n3">pall</note> their endeavours and make them continue<lb/>
 all the ways they can to idle away their time and get their wages of us 
 
 <pb n="2"/><lb/><lb/>
@@ -158,16 +158,18 @@ for the Southward &amp; indeed for all Points of the Compass but we<lb/>
 continue resolute hitherto in sinking deeper into the earth in those<lb/>
 Shafts where the veins of the rich Ore were met with the Water<lb/>
 Annoys us Very much which the miners do not at all like this<lb/>
-winter wether. I hear the Bristol Works are at the same stand &amp;<lb/>
+winter <sic corr="weather">wether</sic>. I hear the Bristol Works are at the same stand &amp;<lb/>
 Under the same discouragements <add place="supralinear">as we</add> are thus You have this affair<lb/>
 in the best light I can set it</p>
 
-<p>	Now by the <note target="n2">Thistle</note> I send you 11 Barrels of Ore which<lb/>
+<p>	Now by the <note target="n4">Thistle</note> I send you 11 Barrels of Ore which<lb/>
 by our Assays we hope will prove valuable enough to encourage the<lb/>
 Shipping of it I am for self &amp; Company 
 </p>
 
-<closer><abbr expan="Your">Yr. </abbr>most humble Servant</closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="Your">Yr. </abbr>most humble Servant
+</closer>
 
 
 </div1>
@@ -187,9 +189,13 @@ Shipping of it I am for self &amp; Company
 
 <note id="n1">[1]  In 1728, Carter, his sons Robert and Charles, and his son-in-law Mann Page,  organized a company to mine for copper on a tract of some 27,000 acres that Louis Morton describes as lying "near the present boundary of Fairfax and Loudoun counties." Fairfax Harrison wrote that the tract was "on the  Horsepen of Broad." Today, there is a Frying Pan Park just east of the border of the Dulles Airport reservation, and there are other things with the name in the area. The company was not successful. (<cit><bibl n="B32">Morton. <title>Robert Robert Carter of Nomini Hall.</title> pp. 18-19;</bibl></cit> and <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> p. 342. </bibl></cit>)</note>
 
+<note id="n2">[2] In mining a drift is  "a passage 'driven' or excavated horizontally, for working, exploration, ventilation, or draining; esp. one driven in the direction of a mineral vein." (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
-<note id="n2">[2] The <hi rend="italics">Thistle</hi> was a London ship commanded by a Captain Reid and owned by merchant James Buchanan. (See <cit><bibl>Carter to Edward Athawes, 1731 September 10, and Carter to James Buchanan, 1731 November 19.</bibl></cit>)</note>
+<note id="n3">[3] By "pall,"  Carter means "to enfeeble or weaken; to daunt, dismay, deprive of strength; to impair or diminish."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
+<note id="n4">[4] The <hi rend="italics">Thistle</hi> was a London ship commanded by a Captain Reid and owned by merchant James Buchanan. (See <cit><bibl><xref to="http://carter.lib.virginia.edu/html/C31i10a.html">Carter to Edward Athawes</xref>, 1731 September 10, 1731, and <xref to="http://carter.lib.virginia.edu/html/C31k19a.html">Carter to James Buchanan</xref>,  November 19, 1731.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was revised March 24, 2016,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 </div1>
 </back>

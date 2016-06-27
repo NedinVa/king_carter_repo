@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2006</date>
+     <date>2006, 2016</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -118,31 +118,32 @@ Alderman Perry<lb/>
 
 <p><note target="n1"><abbr expan="Captain">Capt.</abbr> Malbon</note> <sic corr="has">hath</sic> been <sic corr="sailed">saild</sic> this <note target="n2">fortnight</note> he took <lb/>
 his leave of my house when I was performing my last duty at <lb/>
-the <note target="n3">Obsequies</note> of my dear <note n="RC2">Son Robert</note> there remains an Accot to <lb/>
-be settled between us I am indebted to him 4 &pound; Currt money for the <lb/>
-freight of two pipes of Wine you were <abbr expan="pleased">pleas'd</abbr> to charge me in my <lb/>
-account Current for two pipes of wine brought Me by the <note target="n4"><name type="ship">Burwell</name></note> at <lb/>
+the <note target="n3">Obsequies</note> of my dear <note n="RC2">Son Robert</note> there remains an <abbr expan="Account">Accot</abbr> to <lb/>
+be settled between us I am indebted to him 4 &pound; <abbr expan="Current">Currt</abbr> money for the <lb/>
+freight of two <note target="n4">pipes of Wine</note> you were <abbr expan="pleased">pleas'd</abbr> to charge me in my <lb/>
+account Current for two pipes of wine brought Me by the <note target="n5"><name type="ship">Burwell</name></note> at <lb/>
 the rate of 40<abbr expan=" Shillings">S</abbr> Sterling per pipe this is an error you will please <lb/>
 Order to be <abbr expan="rectified">rectify'd</abbr> the difference of Exchange is 20 percent and if <lb/>
 you carry the freight of these two pipes by the <name type="ship">Rebeccah</name> to my Accot <lb/>
 I expect to be <abbr expan="allowed">allow'd</abbr> this discount</p>
 
-<p>I am now in so full stock of wine that I shall not want <lb/>
+<p>I am now in so full <corr resp="editor">[a]</corr> stock of wine that I shall not want <lb/>
 any <sic corr="supply">supplye</sic> these two years I desire to have no more wine ordered <lb/>
 to me until I give fresh orders for it. Bills of lading for the <abbr expan="tobacco">tobo</abbr> in <lb/>
 the <name type="ship"><sic corr="Rebecca">Rebeccah</sic></name> were sent away in the Ship and some letters I had prepa= <lb/>
 red went away with her <note target="n5"><abbr expan="Captain">Capt.</abbr> <sic corr="Brooks">Brooke</sic></note> Surprizes me and will hardly <lb/>
 allow me time for this short letter</p>
 
-<p>We are now in assembly I send you the <note n="WG">Governour's</note> <lb/>
-Speach &amp; the Council &amp; Burgesse's addresses in Answer you will <lb/>
-see what great hopes the Country entertains from the <note target="n6"><abbr expan="tobacco">tobo</abbr> Law</note> pray <lb/>
+<p>We are now in assembly I send you the<note target="n6"> <note n="WG">Governour's</note> <lb/>
+<sic corr="Speech">Speach</sic></note> &amp; the Council &amp; Burgesse's addresses in Answer you will <lb/>
+see what great hopes the Country entertains from the <note target="n7"><abbr expan="tobacco">tobo</abbr> Law</note> pray <lb/>
 God grant we find the good effects of it by Experience for we are brought <lb/>
 to our last prayers I am 
 </p>
 
-<closer>Sir <lb/>
-Your most humble Servt
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your most humble Servt
 </closer>
 
 
@@ -161,18 +162,23 @@ Your most humble Servt
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] The <hi rend="italics">Rebecca </hi> was probably a London ship; she was of 300 tons, had a crew of 11, and was commanded by Samuel Malbon in 1731-32. (<cit><bibl>Adm. 65/195, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n1">[1] The <hi rend="italics">Rebecca </hi> was probably a London ship; she was of 300 tons, had a crew of 11, and was commanded by Samuel Malbon in 1731-32. (<cit><bibl>Survey Report 06445 sumarizing "Adm. 68/196," "Greenwich Hospital: General Accounts. the Names of Ships and The Accounts Paid for Sixpences at the Port of London."</bibl></cit>)</note>
 
 <note id="n2">[2] A fortnight is two weeks or 14 days.</note>
 
 <note id="n3">[3] funeral</note>
 
-<note id="n4">[4] This vessel was commanded by Captain Constantine Cant and may have been owned by William Dawkins and Micajah Perry as Carter reported her December 1723 arrival to each of them. (<cit><bibl>Adm. 68/194-195, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n4">[4] A pipe is "a large container of definite capacity for storing solids or liquids, such as meat, fish, or oil. Now: spec. a large cask for storing wine or cider." Wikipedia, citing a book by Ronald E. Zupco, states that a pipe was half a tun which was "a large vat or vessel, most often holding 252 wine gallons," meaning a pipe was roughly 126 gallons of wine.  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press</bibl></cit> and  <cit><bibl>Ronald E. Zupko. <title>A Dictionary of Weights and Measures for the British Isles: The Middle Ages to the Twentieth Century</title>.<title> [Memoirs of the American Philosophical Society</title>, 1985, 168.]</bibl></cit>) </note>
 
-<note id="n5">[5] Christopher Brooks commanded the <name type="ship"><hi rend="italics">Cambridge,</hi></name> a vessel of 100 tons and 11 men owned by London merchants Haswell and Brooks in 1729. (<cit><bibl>Survey Report 6801 summarizing Adm. 68/195, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n4">[4] This vessel was commanded by Captain Constantine Cant and may have been owned by William Dawkins and Micajah Perry as Carter reported her December 1723 arrival to each of them. (<cit><bibl>Survey Report 06445 sumarizing "Adm. 68/196," "Greenwich Hospital: General Accounts. the Names of Ships and The Accounts Paid for Sixpences at the Port of London;" Survey Report 05336 summarizing "Admiralty-Miscellanea, Register of Passes, 1731-1733," etc., found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
-<note id="n6">[6] The tobacco inspection act of  1730 was introduced and steered through the legislature by Lieutenant Governor Sir William Gooch. " The "bill called for the inspection and bonding at public warehouses of all tobacco shipped abroad; for the destruction of all unacceptable tobacco; for standardization of the size of hogsheads . . . ; for maintenance of detailed records to prevent smuggling; and for the circulation of warehouse receipts as legal tender in lieu of tobacco iteself. . . ." Gooch also managed to obtain approval of the act in England. It went into effect 1731 August 1.(<cit><bibl n="B27">Billings. <hi rend="italics">et al. </hi> <title>Colonial Virginia: A History. </title></bibl></cit> pp. 236-39.)</note>
+<note id="n5">[5] The <hi rend="italics">Cambridge</hi> made voyages to Virginia from London in 1727 and 1729. In the first she was commanded by Peter Moore, and in the latter by Christopher Brooks. She was a vessel of 70-100 tons with about 11 men. She may have been oowned by Haswell &amp; Brooks.(<cit><bibl>Survey Reports 6800 and 6801 for Adm. 68/194-195, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
+<note id="n6">[6] The record of the governor's speech and the replies may be found at McIlwaine, H. R., <hi rend="italics">ed</hi>.  <title>Journal of the House of Burgesses, 1727-1734 1736-1740.</title> [Richmond: Library Board, 1910]. pp. 119 ff.</note>
+
+<note id="n7">[7] The tobacco inspection act of  1730 was introduced and steered through the legislature by Lieutenant Governor Sir William Gooch. " The "bill called for the inspection and bonding at public warehouses of all tobacco shipped abroad; for the destruction of all unacceptable tobacco; for standardization of the size of hogsheads . . . ; for maintenance of detailed records to prevent smuggling; and for the circulation of warehouse receipts as legal tender in lieu of tobacco iteself. . . ." Gooch also managed to obtain approval of the act in England. It went into effect August 1, 1731. (<cit><bibl n="B27">Billings. <hi rend="italics">et al. </hi> <title>Colonial Virginia: A History. </title></bibl></cit> pp. 236-39.)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was revised May 20, 2016,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 </div1>
