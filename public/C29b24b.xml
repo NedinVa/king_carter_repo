@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -108,22 +108,29 @@
 <pb n="1"/>
 <name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
 <date value="1729-02-24">Febry: 24th. 1728/9</date><lb/>
-Colo: Nicholas Smith<lb/>
+<abbr expan="Colonel">Colo:</abbr> Nicholas Smith<lb/>
 </dateline>
 
 </opener>
 
 
 
-<p>I receiv'd yours of the Twelfth not <sic corr="until">till</sic> Saturday <lb/>last <note target="n1"><abbr expan="major">maj:</abbr> Thornton</note> is Certainly mistaken to think that the <lb/>practice has been to send the Commissions Blank to the Command<lb/>ing <abbr expan="Officers">Offrs</abbr> residing in the County to be <sic corr="filled">filld</sic> up by them at their <lb/>pleasure and to be distributed at a general muster at least I am <lb/>sure I never was Acquainted with such a practice the <abbr expan="Governors">Govrs:</abbr> I <lb/>have been Acquainted with have never entrusted me with the blank <lb/>commissions before this <del>and</del> <add place="supralinear">but</add> have Always had them <sic corr="filled">filld</sic> up them<lb/>selves upon the return of my Lists however being well assured o<corr resp="editor">[f]</corr> <lb/><abbr expan="your">yr.</abbr> Sincerity I now send them to you not doubting you will pitch i<corr resp="editor">[n]</corr> <lb/>the best and fittest men for <abbr expan="Captains">Capts:</abbr> that your County will afford it <corr resp="editor">[is]</corr> <lb/>highly necessary there be a <abbr expan="Captain">Capt</abbr> Appointed somewhere about the ma<corr resp="editor">[. . .]</corr> <lb/>for the Upper Company Russel now lives in <abbr expan="Stafford">Staffd:</abbr> and who to <lb/>recommend as a fit person in those parts for his place I am to<corr resp="editor">[o]</corr> <lb/>much a Stranger to <del>do</del> offer at</p>
+<p>I receiv'd yours of the Twelfth not <sic corr="until">till</sic> Saturday <lb/>last <note target="n1"><abbr expan="major">maj:</abbr> Thornton</note> is Certainly mistaken to think that the <lb/>practice has been to send the Commissions Blank to the Command:<lb/>ing <abbr expan="Officers">Offrs</abbr> residing in the County to be <sic corr="filled">filld</sic> up by them at their <lb/>pleasure and to be distributed at a general muster at least I am <lb/>sure I never was Acquainted with such a practice the <abbr expan="Governors">Govrs:</abbr> I <lb/>have been Acquainted with have never entrusted me with the blank <lb/>commissions before this <del>and</del> <add place="supralinear">but</add> have Always had them <sic corr="filled">filld</sic> up them<lb/>selves upon the return of my Lists however being well assured o<corr resp="editor">[f]</corr> <lb/><abbr expan="your">yr.</abbr> Sincerity I now send them to you not doubting you will pitch i<corr resp="editor">[n]</corr> <lb/>the best and fittest men for <abbr expan="Captains">Capts:</abbr> that your County will afford it <corr resp="editor">[is]</corr> <lb/>highly necessary there be a <abbr expan="Captain">Capt</abbr> Appointed somewhere about the ma<corr resp="editor">[. . .]</corr> <lb/>for the Upper Company Russel now lives in <abbr expan="Stafford">Staffd:</abbr> and who to <lb/>recommend as a fit person in those parts for his place I am to<corr resp="editor">[o]</corr> <lb/>much a Stranger to <del>do</del> offer at</p>
 
 <p><note n="WS"><abbr expan="Captain">Capt</abbr> Strother</note> is as fit a person in my Opinion a<corr resp="editor">[s]</corr> <lb/>any that lives near him and I should not be for leaving him <lb/>out but if he absolutely refuses to Serve I dont know how tht 
 
 <pb n="2"/><lb/><lb/>
 is to be <sic corr="helped">helpd</sic> <del>I am</del> </p>
 
-<closer>Sir <lb/><abbr expan="Your">Yr</abbr> most humble Servt.
-<seg type="postscript"><lb/><lb/>were I master of a vein to <lb/>match your wit a<corr resp="editor">[s]</corr> well as your Lady is &amp;ca: you might expect some th<corr resp="editor">[i]</corr><lb/>ng of that nature from me but you  know my Talent is too flat f<corr resp="editor">[or]</corr> <lb/>such Excursions I thank you kindly for the tenderness you express of <lb/>my <note target="n2">late Suffering</note> &amp; am</seg></closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="Your">Yr</abbr> most humble Servt.
+
+<seg type="postscript"><lb/><lb/>
+
+were I master of a vein to <lb/>match your wit a<corr resp="editor">[s]</corr> well as your Lady is &amp;ca: you might expect some th<corr resp="editor">[i]</corr><lb/>ng of that nature from me but you  know my Talent is too flat f<corr resp="editor">[or]</corr> <lb/>such Excursions I thank you kindly for the tenderness you express of <lb/>my <note target="n2">late Suffering</note> &amp; am</seg>
+
+</closer>
 
 
 </div1>
@@ -143,8 +150,9 @@ is to be <sic corr="helped">helpd</sic> <del>I am</del> </p>
 
 <note id="n1">[1] Major William Thornton (d. 1742/43) of King George County. (<cit><bibl><title>King George County Virginia Will Book A-1 1721-1752 And Miscellaneous Notes.</title> [Fredericksburg, VA: Privately Printed, 1978], p. 277.</bibl></cit>)</note>
 
-<note id="n2">[2] Carter had built a fine house at Corotoman in the mid 1720s, but it burned at the end of January 1729.  See the <hi rend="italics">Maryland Gazette</hi> for 1728/29 February 4-11 for information about Carter's loss.</note>
+<note id="n2">[2] Carter built a fine house  in the mid 1720s, but it burned in January 1729. See the <xref to="http://www.christchurch1735.org/history/corotoman.html">"Corotoman" page</xref> of the web site of Historic Christ Church Foundation for more information about the house and excavation of its ruins. (See the <hi rend="italics">Maryland Gazette</hi> for February 4-11, 1728/29 for comment on Carter's loss. The Maryland Archives has placed its copies of the  <hi rend="italics">Maryland Gazette</hi> online. Unfortunately, page four of the issue of February 4-11, 1728/29 is missing, and that must be where the notice of the fire at Corotoman appeared; the text is quoted in secondary sources as reading: "The fine large house of Colonel Carter on the Rappahannock was also burnt lately. The particulars of his loss we can't give you, but we are inform'd it is very great." [<cit><bibl><hi rend="italics">Garden Club of Virginia Journal</hi>, May-June 1983, p.8.</bibl></cit>])</note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised February 9 , 2015,  to  strengthen the footnotes and the modern language version text.</hi></note>
 
 
 

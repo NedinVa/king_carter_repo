@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,8 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
-<date value="1729-01-21">Janry. the 21st. 1728/9</date><lb/>
+<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1729-01-21">Janry. the 21st. 1728/9</date><lb/>
 </dateline>
 <salute>Sir&mdash;</salute>
 
@@ -115,9 +114,12 @@
 
 
 
-<p><abbr expan="Your">Yor.</abbr> Letter by my Son <note n="RC2">Robert</note> I <sic corr="designed">designd</sic> an anwer <lb/><sic corr="to">too</sic> tomorrow when he <sic corr="designs">designes</sic> his Journy to <note n="NH2">Nomini</note> I Sent <sic corr="you">yu.</sic> word <lb/>by <note n="GE"><abbr expan="Major">Majr.</abbr> Eskridge</note> if you have Seen him that I had Sent repeated orders <lb/>both to Ines and <note target="n1">Mr. Burwells Overseer</note> that Should not meddle with <lb/>any thing on the other Side of the line that was run by <note target="n2">Warner</note> for you <lb/>neither Timber nor any thing Else and I must <sic corr="believe">beleive</sic> that you have <lb/>bin under a misinformation My Son <note n="CC1"><abbr expan="Charles">Chs:</abbr></note> tells me he was by when <lb/>I gave my verbal orders to the Overseer and he told you as much when <lb/>you know me better you will not think I give promises with design to <lb/>deceive any Person and if that <sic corr="piece">peice</sic> of Land be fairly <abbr expan="yours">yors.</abbr> I have no <lb/>design to Contest it nor on the other hand I am to give up the right of <note n="NB">Mr. <lb/>Burwells</note> heir to what properly belongs to him it is very apparent the <lb/><sic corr="Patent">Pattent</sic> you claim under is the Eldest and will be first <sic corr="Served">Servd</sic> in its lands <lb/>but whether you have run the right line according to <abbr expan="your">yor.</abbr> <sic corr="Patent">Pattent</sic> I am <lb/>an Absolute Stranger <sic corr="to">too</sic> however if you are not <sic corr="disturbed">disturbd</sic> within <lb/>the line you have made I See no reason you have to be <sic corr="uneasy">uneasie</sic> nor to <lb/>be so forward to take up <sic corr="designs">designes</sic> of Law which when you have lived <lb/>as long as I have <sic corr="you'll">you'l</sic> love as little as I do If you had given me the <lb/>favour of <sic corr="your">yor.</sic> Company I Should have found you a passage over the <lb/>river for <sic corr="your">yor.</sic><sic corr=" horses"> hors's</sic> I am </p>
+<p><abbr expan="Your">Yor.</abbr> Letter by my Son <note n="RC2">Robert</note> I <sic corr="designed">designd</sic> an anwer <lb/><sic corr="to">too</sic> tomorrow when he <sic corr="designs">designes</sic> his Journy to <note n="NH2">Nomini</note> I Sent <sic corr="you">yu.</sic> word <lb/>by <note n="GE"><abbr expan="Major">Majr.</abbr> Eskridge</note> if you have Seen him that I had Sent repeated orders <lb/>both to Ines and <note target="n1">Mr. Burwells Overseer</note> that <corr resp="editor">]they]</corr> Should not meddle with <lb/>any thing on the other Side of the line that was run by <note target="n2">Warner</note> for you <lb/>neither Timber nor any thing Else and I must <sic corr="believe">beleive</sic> that you have <lb/>bin under a misinformation My Son <note n="CC1"><abbr expan="Charles">Chs:</abbr></note> tells me he was by when <lb/>I gave my verbal orders to the Overseer and he told you as much when <lb/>you know me better you will not think I give promises with design to <lb/>deceive any Person and if that <sic corr="piece">peice</sic> of Land be fairly <abbr expan="yours">yors.</abbr> I have no <lb/>design to Contest it nor on the other hand I am to give up the right of <note n="NB">Mr. <lb/>Burwells</note> heir to what properly belongs to him it is very apparent the <lb/><sic corr="Patent">Pattent</sic> you claim under is the Eldest and will be first <sic corr="Served">Servd</sic> in its lands <lb/>but whether you have run the right line according to <abbr expan="your">yor.</abbr> <sic corr="Patent">Pattent</sic> I am <lb/>an Absolute Stranger <sic corr="to">too</sic> however if you are not <sic corr="disturbed">disturbd</sic> within <lb/>the line you have made I See no reason you have to be <sic corr="uneasy">uneasie</sic> nor to <lb/>be so forward to take up <sic corr="designs">designes</sic> of Law which when you have lived <lb/>as long as I have <sic corr="you'll">you'l</sic> love as little as I do If you had given me the <lb/>favour of <sic corr="your">yor.</sic> Company I Should have found you a passage over the <lb/>river for <sic corr="your">yor.</sic><sic corr=" horses"> hors's</sic> I am </p>
 
-<closer>Sir<lb/>Yor. most humble Servt:</closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. most humble Servt:
+</closer>
 
 
 </div1>
@@ -135,10 +137,11 @@
 
 <note>The name of Carter's home, "Corotoman," the county, and colony have been added for clarity to this unheaded draft.</note>
 
-<note id="n1">[1] William Camp (Kemp) was described by Carter as "the General Overseer of Mr Burwell's Affairs" but as  Camp was a resident of Gloucester County where most of the Burwell estates lay, the overseer Carter refers to here must have been the local one for  the specific Burwell property. (Carter to George Braxton, 1729 November 20, and Carter to William Dawkins,1732  July 11. <cit><bibl><title>Virginia Tax Records.</title> [Baltimore: Genealogical Publishing Company, Inc., 1983.] p. 539.</bibl></cit>)</note> 
+<note id="n1">[1] William Camp (Kemp) was described by Carter as "the General Overseer of Mr Burwell's Affairs" but as  Camp was a resident of Gloucester County where most of the Burwell estates lay, the overseer Carter refers to here must have been the local one for  the specific Burwell property. (<cit><bibl>Carter to George Braxton, <xref to="/users/berkeley/public/C29k20a.xml">November 20, 1729</xref>,</bibl></cit> and <cit><bibl>Carter to William Dawkins, <xref to="/users/berkeley/public/C32g11a.xml">July 11, 1732.</xref> (<title>Virginia Tax Records.</title> [Baltimore: Genealogical Publishing Company, Inc., 1983.] p. 539.</bibl></cit>)</note> 
 
 <note id="n2">[2] John Warner was the surveyor of King George County in 1727; he laid off the town of Falmouth in 1728. Later he worked for Lord Fairfax, and prepared an important map of his holdings. (<cit><bibl n="B4">Harrison,  <title>Landmarks of Old Prince William</title>, 626-628.</bibl></cit>)</note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised January 27, 2015,  to  strengthen the footnotes and the modern language version text.</hi></note>
 
 
 

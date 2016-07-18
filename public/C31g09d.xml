@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2006</date>
+     <date>200, 20156</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -117,15 +117,15 @@ Alderman Perry &amp; Compa<lb/>
 
 
 <p>Your Master Bradby of the <note target="n1">Spotswood</note> is now at my <lb/>
-house giving me Bills of Lading, one for twenty hogsheads of my own <lb/>
-<abbr expan="Tobacco">Tobo.</abbr> This is to <sic corr="enclose">inclose</sic> <corr resp="editor">[them]</corr>, they are of my own Crops all stemmed &amp; &mdash;<lb/>
+house giving me <note target="n2">Bills of Lading</note>, one for twenty hogsheads of my own <lb/>
+<abbr expan="Tobacco">Tobo.</abbr> This is to <sic corr="enclose">inclose</sic> <corr resp="editor">[them]</corr>, they are of my own Crops all <note target="n3">stemmed</note> &amp; &mdash;<lb/>
 streight laid. I am in hopes they will rise well &amp; clean I think I <lb/>
 may say our last Crop was generally good; there are nineteen <lb/>
 hogsheads more made up in <note n="NB">Mr Burwell's</note> plantations; Part of them<lb/>
 will come upon Accot of that Estate &amp; Part under my own <sic corr="Risk">Risque</sic> <lb/>
 being the Allotment which fell to <note n="ECB">Doctor Nicholas.</note> I am not <lb/>
 under so much Certainty with Respect to the numbers of them to &mdash;<lb/>
-take the Bills of Lading now. <note target="n2">William Camp</note> our General<lb/>
+take the Bills of Lading now. <note target="n4">William Camp</note> our General<lb/>
 Overseer of that Concern, <sic corr="has">hath </sic>Orders to take them &amp; to <sic corr="enclose">inclose</sic> one<lb/>
 of each parcel to you. I reckon there should be nineteen hogsheads,<lb/>
 ten of them my own Doctor Nicholas's Part. The Captain <sic corr="says">sayes</sic> <lb/>
@@ -136,16 +136,19 @@ to the price will keep pace with the finest Crops in York River <lb/>
 as they have hitherto done</p>
 
 <p><note n="MP1">Colonel Page's</note> Tobacco in this ship I am also under <lb/>
-no Certainty about. Care will be taken tht a bill of lading shall <lb/>
-be sent to for them I shall give you no further trouble at <lb/>
-present I expect the Secretary here every hour we will endeavoar<lb/>
+no Certainty about. Care will be taken <abbr expan="that">tht</abbr> a bill of lading shall <lb/>
+be sent to you for them I shall give you no further trouble at <lb/>
+present I expect the <note n="JC1">Secretary</note> here every hour we will endeavoar<lb/>
 <corr resp="editor">[damage to text]</corr> ship will bring to you our joint proceedings I am
 </p>
 
-<closer>Your most humble sevt
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your most humble sevt
 <seg type="postscript"><lb/><lb/><corr resp="editor">[damage to text]</corr> your new <corr resp="editor">[. . .]</corr><lb/>
 <corr resp="editor">[damage to text]</corr><corr resp="editor">[. . .]</corr> pay for
-</seg></closer>
+
+</seg>
+</closer>
 
 
 </div1>
@@ -159,13 +162,20 @@ present I expect the Secretary here every hour we will endeavoar<lb/>
 <div1 type="back matter">
 <head>NOTES</head>
 
-<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1731 July 9-1732 July 13 , Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia. There has been water damage to the lower half of the sheet affecting the end of the first paragraph and much of the second.</note>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] The <hi rend="italics">Spotswood</hi> was a  London ship commanded by James Bradby,  1727-1732, and was owned by Micajah Perry.  (<cit><bibl>Adm 68/195, 70r ff., found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. See Carter to Micajah Perry 1730 April 16.</bibl></cit>)</note>
+<note id="n1">[1] The <hi rend="italics">Spotswood</hi> was a  London ship commanded by James Bradby,  1727-1732, and was owned by Micajah Perry.  (<cit><bibl>Adm 68/195, 70r ff., found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. See <xref to="http://carter.lib.virginia.edu/html/C30d16c.html">Carter to Micajah Perry</xref> April 16. 1730.</bibl></cit>)</note>
 
-<note id="n2">[2] William Camp (Kemp) was described by Carter as "the General Overseer of Mr Burwell's Affairs" and he wrote that Camp earned a salary "&pound;50 . . . for the year 1731." Carter and his son-in-law, Mann Page, were the trustees of Nathaniel Burwell's children after Burwell's death in 1721. Camp was a resident of Gloucester County where most of the Burwell estates lay, and he must also have supervised "Rippon Hall" in nearby York County. (Carter to George Braxton, 1729 November 20, and Carter to William Dawkins,1732  July 11. <cit><bibl><title>Virginia Tax Records.</title> [Baltimore: Genealogical Publishing Company, Inc., 1983.] p. 539.</bibl></cit>)</note>
+<note id="n2"> [2] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
+
+<note id="n3">[3] Parliament had passed an act forbidding the importation of stemmed tobacco in 1722. John Randolph was sent to England in 1728 as agent for Virginia to try to have the act overturned; his mission was successful, and he was home in the colony by <xref to="http://carter.lib.virginia.edu/html/C29f02a.html">June 2, 1729</xref>, when Carter wrote to welcome him home. (<cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> [Newport News, VA: Mariners' Museum, 1953], 116.</bibl></cit>)</note>
+
+<note id="n4">[4] William Camp (Kemp) was described by Carter as "the General Overseer of Mr Burwell's Affairs" and he wrote that Camp earned a salary "&pound;50 . . . for the year 1731." Carter and his son-in-law, Mann Page, were the trustees of Nathaniel Burwell's children after Burwell's death in 1721. Camp was a resident of Gloucester County where most of the Burwell estates lay, and he must also have supervised "Rippon Hall" in nearby York County. (<cit><bibl>Carter to George Braxton, <xref to="/users/berkeley/public/C29k20a.xml">November 20, 1729</xref>,</bibl></cit> and <cit><bibl>Carter to William Dawkins, <xref to="/users/berkeley/public/C32g11a.xml">July 11, 1732,</xref></bibl></cit> and <cit><bibl><title>Virginia Tax Records.</title> [Baltimore: Genealogical Publishing Company, Inc., 1983.] p. 539.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was revised October 23 , 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
+
 
 </div1>
 </back>

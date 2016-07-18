@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -116,12 +116,12 @@ Alderman Perry<lb/>
 
 <p>I have already <abbr expan="advised">advis'd</abbr> you of the receipt of <abbr expan="your">yr</abbr> last <lb/>
 accot Currt. and also of the Accot Currt of <note n="NB">Mr Burwells Estate</note> by <abbr expan="what">wht </abbr><lb/>
-accident I know not these two accots are so Mislaid that I cannot Af<lb/>
+accident I know not these two accots are so Mislaid that I cannot Af:<lb/>
 ter the strictest search find them by any means I Earnestly desire <lb/>
 you will send me <sic corr="Copies">Copys</sic> of them</p>
 
 <p>My <sic corr="servant">servt</sic> <note target="n1">John Harvey</note> whom you sent me from <lb/>
-the Hospital is lately free he is a fellow of no good principles <lb/>
+the Hospital is <note target="n2">lately free</note> he is a fellow of no good principles <lb/>
 I am not without Suspicion That these Accots may be fallen into <lb/>
 some bad hands that may Endeavour to make an ill use of them <lb/>
 have therefore thought it necesary to <sic corr="signify">signifye</sic> this much to <abbr expan="you">yo.</abbr> <lb/>
@@ -129,13 +129,17 @@ that you may be upon <abbr expan="your">yr</abbr> Guard you may be sure I neithe
 shall draw any money out of <abbr expan="your">yr</abbr> hands in haste I am 
 </p>
 
-<closer>Sir &amp;ca
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir &amp;ca
 <seg type="postscript"><lb/><lb/>
-<pb n="2"/><lb/><lb/>
-I <sic corr="desire">disire</sic> you will send 2 pounds of the best <note target="n2">India Rhubarb</note> and 6 pounds of <note target="n3">Je<lb/>
-suits Bark</note> and if you make a present to me of a box of <abbr expan="Tobacco">Tobo</abbr> <lb/>
-for my own Smoking it will be Accptable</seg></closer>
 
+<pb n="2"/><lb/><lb/>
+
+I <sic corr="desire">disire</sic> you will send 2 pounds of the best <note target="n3">India Rhubarb</note> and 6 pounds of <note target="n4">Je<lb/>
+suits Bark</note> and if you make a present to me of a box of <abbr expan="Tobacco">Tobo</abbr> <lb/>
+for my own Smoking it will be Accptable
+
+</seg></closer>
 
 </div1>
 
@@ -154,11 +158,13 @@ for my own Smoking it will be Accptable</seg></closer>
 
 <note id="n1">[1]  Carter had a clerk named John Harvey, and there are notes on some of his letters, "Harvey to copy." A John Harvey witnessed his will, and some of its codicils, which is logical if Harvey had written it out for Carter.</note>
 
-<note id="n3">[3] Jesuit's bark "is the most celebrated specific remedy for all forms of malaria. It is obtained from several species of the genus cinchona . . . that have been discovered at different times and are indigenous in the Western Andes of South America. Formerly the bark itself, prepared in different forms, was used as a drug. . . " (<cit><bibl>"Jesuit's Bark," in <title>The Catholic Encyclopedia </title>online at  http://www.newadvent.org/cathen/08372b.htm. 8/29/2005.</bibl></cit>)</note>
+<note id="n2">[2] Carter means that Harvey had served out the time of his indenture, and was  free of its obligations.</note>
 
-<note id="n2">[2]  "The root of several species of Rheum, used much as a cathartic medicine," and also in cooking.  (<cit><bibl><title>On-line Medical Dictionary. </title>Published at the Dept. of Medical Oncology, University of Newcastle upon Tyne. http://cancerweb.ncl.ac.uk/cgi-bin/omd?rhubarb.</bibl></cit>)
-</note>
+<note id="n3">[3] Rhubarb is "any of several plants belonging to the genus Rheum, of the buckwheat family, as R. officinale, having a medicinal rhizome . . . the rhizome of any medicinal species of this plant, forming a combined cathartic and astringent."  "In England rhubarb became known, at first in a purely medicinal context, in the sixteenth century. . . ." "When taken internally in small doses, rhubarb acts as an astringent tonic to the digestive system, when taken larger doses rhubarb acts as a very mild laxative. The root can be taken internally for the treatment of chronic constipation, diarrhea, liver and gall bladder complaints, hemorrhoids, menstrual problems and skin eruptions due to an accumulation of toxins. . . . Used externally, rhubarb root can be used in the treatment of burns."  (<cit><bibl><xref to="http://dictionary.reference.com/browse/rhubarb">"Dictionary.com"</xref> 7/11/2015</bibl></cit>; <cit><bibl>Sir Ghillean Prance, Mark Nesbitt., <hi rend="italics">eds</hi>. <title>The Cultural History of Plants.</title>[Routledge, 2012] p. 126</bibl></cit>; and <cit><bibl> <xref to="http://www.rhubarbinfo.com/">"The Rhubarb Compendium."</xref>  7/10/2015.</bibl></cit>)</note>
 
+<note id="n4">[4] Jesuit's bark is "the bark of various species of the Cinchona tree, from which quinine is procured, formerly ground into powder and taken as a febrifuge [fever reducing agent]"; and  "is the most celebrated specific remedy for all forms of malaria. It is obtained from several species of the genus cinchona . . . that have been discovered at different times and are indigenous in the Western Andes of South America. Formerly the bark itself, prepared in different forms, was used as a drug. . . " (<cit><bibl><title>Oxford English Dictionary</title></bibl></cit>; and <cit><bibl>"<xref to="http://www.newadvent.org/cathen/08372b.htm">Jesuit's Bark</xref>," in "New Advent," an online site incorporating data from the <title>The Catholic Encyclopedia</title> and other sources.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised July 11, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 </div1>
 </back>

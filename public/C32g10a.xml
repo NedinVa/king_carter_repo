@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2006</date>
+     <date>2006, 2016</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -120,8 +120,8 @@ Alderman Perry<lb/>
 which I have in some measure already answered you are <abbr expan="pleased">pleas'd</abbr> to take <lb/>
 into your view some <sic corr="public">publick</sic> affairs and among the rest to excuse your <lb/>
 Self from any further Concern in that Severe act of Parliament which you <lb/>
-were so kind to send me wearing the title, for the better Recovery of Debts in the <lb/>
-British plantations than what relates to proving Merchants accounts if it 
+were so kind to send me wearing the title,<xref to="http://www.landofthebrave.info/debt-recovery-act.htm"> for the better Recovery of Debts in the <lb/>
+British plantations</xref> than what relates to proving Merchants accounts if it 
 
 <pb n="2"/><lb/><lb/>
 had stopt there it would not have <abbr expan="alarmed">alarm'd</abbr> us in the manner it has done but <lb/>
@@ -152,13 +152,16 @@ man mad what our Madness will produce I can hardly promise myself <lb/>
 
 <p>As for the news from the Shipping there is no doubt but the <lb/>
 masters let <sic corr="fly">flye</sic> their batteries to their owners I shall Conclude this Epistle <lb/>
-with Sincere wishes for <abbr expan="your">yr.</abbr> health and happyness being really 
+with Sincere wishes for <abbr expan="your">yr.</abbr> health and <sic corr="happiness">happyness</sic> being really 
 </p>
 
-<closer><abbr expan="Sir">Sr:</abbr> <lb/>
-Your most Humble Servant
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="Sir">Sr:</abbr> <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your most Humble Servant
 <seg type="postscript"><lb/><lb/>
-via <name type="city"><sic corr="Liverpool">Leverpoole</sic></name> <note target="n5">Loxum</note> </seg></closer>
+
+via <name type="city"><sic corr="Liverpool">Leverpoole</sic></name> <note target="n5">Loxum</note> </seg>
+</closer>
 
 
 </div1>
@@ -176,7 +179,7 @@ via <name type="city"><sic corr="Liverpool">Leverpoole</sic></name> <note target
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] This vessel was commanded by Captain Constantine Cant and may have been owned by William Dawkins and Micajah Perry as Carter reported her December 1723 arrival to each of them. (<cit><bibl>Adm. 68/194-195, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n1">[1] The <hi rend="italics">Burwell</hi> was commanded by Captain Constantine Cant and may have been  owned by William Dawkins and Micajah Perry as Carter reported her December 1723 arrival to each of them. (<cit><bibl>Survey Report 06445 sumarizing "Adm. 68/196," "Greenwich Hospital: General Accounts. the Names of Ships and The Accounts Paid for Sixpences at the Port of London;" Survey Report 05336 summarizing "Admiralty-Miscellanea, Register of Passes, 1731-1733," etc., found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
 <note id="n2">[2] Carter may refer to an excise tax which the colonists favored because of a variety of problems with the taxes on their tobacco, and particularly because of the act of parliament to which Carter refers earlier in his letter. Collecting debts owed by colonists to merchants in Great Britain was difficult for the merchants because of restrictive laws about proof of debts in Britain, and because there were two sets of books 3,000 miles apart, that carried the details of each transaction. In 1732 British merchants got through the act of parliament that made it much easier for them to collect these debts "merely on their own oaths" and which allowed them "to attach both real estate and slaves to secure them."  (<cit><bibl n="B27">Billings. <hi rend="italics">et al. </hi> <title>Colonial Virginia: A History. </title> pp. 242-43.</bibl></cit>)</note>
 
@@ -184,8 +187,9 @@ via <name type="city"><sic corr="Liverpool">Leverpoole</sic></name> <note target
 
 <note id="n4">[4] Carter's remark was prophetic for he had less than a month to live.</note>
 
-<note id="n5">[5] Captain Loxom commanded  a vessel named the <hi rend="italics"> Loyalty</hi>in 1729-1730. (Survey Report 9727, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. See Carter's letters to John Pemberton 1730 April 15 and 1731 August 4.)</note>
+<note id="n5">[5] Several vessels named <hi rend="italics">The Loyalty</hi> sailed to Virginia. One commanded by Francis Wallis cleared from Poole for Virginia in 1726. Captain Edward Loxam commanded  a vessel of this name in 1729-1732 as did James Tarleton in 1732. (Survey Report 09727, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. See Carter's letters to John Pemberton <xref to="/users/berkeley/public/C30d15c.xml">April 15,1730</xref> and <xref to="/users/berkeley/public/C31h04a.xml"> August 4, 1731</xref>.)</note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was revised June 20, 2016,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 

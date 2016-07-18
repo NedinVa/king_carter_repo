@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2006</date>
+     <date>2006, 2016</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -116,7 +116,7 @@ Alderman Perry<lb/>
 
 
 
-<p>I have already been very particular <lb/>
+<p>I have already been <del>troublesome</del>  very particular <lb/>
 upon every Subject only have omitted saying anything of <note target="n1">Lewis<lb/>
 Burwell</note> since the 15th. of April since which I have <abbr expan="received">receiv'd</abbr> a letter<lb/>
 from him dated the 25. of January from <note target="n2"><sic corr="Caius">Cains</sic> <sic corr="College">Colledge</sic></note> he is the<lb/>
@@ -127,14 +127,16 @@ it is in Vain for me to lay any new injunctions upon him.  the only<lb/>
 restrictions that I can impose must arise from your treatment of him<lb/>
 by a bridging <add resp="editor"> [<hi rend="italics">sic</hi>]</add> his Expences I can only repeat what I have already said to <abbr expan="you">yu</abbr><lb/>
 in relation to him to Which I desire you will <sic corr="please">pleas</sic> to be <abbr expan="referred.">referr'd.</abbr> I<lb/>
-write to him by this conveniency  but it is with Expectations that he<lb/>
+<xref to="http://carter.lib.virginia.edu/html/C31h12a.html">write to him</xref> by this conveniency  but it is with Expectations that he<lb/>
 will take as little notice of what I say now as he did before if he runs<lb/>
 into any destructive courses the Effects of them will turn upon himself<lb/>
 I have done the duty of a Parent by him.  I shall mix nothing else here<lb/>
 with but am Sir 
 </p>
 
-<closer><abbr expan="Your">Yr.</abbr> most humble Servant </closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="Your">Yr.</abbr> most humble Servant 
+</closer>
 
 
 </div1>
@@ -155,6 +157,9 @@ with but am Sir
 <note id="n1">[1] Lewis Burwell (1711 or 1712-1756), Carter's grandson by Elizabeth Carter Burwell and her first husband, Nathaniel Burwell (1680-1721); Carter was his guardian. He was educated at Eton and Cambridge, and inherited considerable property, living at "Fairfield," Gloucester County. He would be president of the Council in 1750-1751. (<cit><bibl n="B42">Kneebone <hi rend="italics">et al.</hi>,  <title>Dictionary of Virginia Biography.</title>  2:434-5.</bibl></cit> and <cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 114.</bibl></cit>)</note>
 
 <note id="n2">[2] Burwell was attending Gonville and Caius College, one of the oldest of the several that make up the University of Cambridge. (John and J.A. Venn. <title>Alumni Cantabrigienses from the Earliest Times to 1900.</title> [Cambridge: Cambridge University Press, 1922-54]. 10 volumes, cited in an email to the editor from Jaqueline Cox, archivist, University of Cambridge, 5/10/06.)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was reviewed February 23, 2016.</hi></note>
+
 
 </div1>
 </back>

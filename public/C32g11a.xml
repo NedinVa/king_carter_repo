@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2006</date>
+     <date>2006, 2016</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -123,25 +123,25 @@ and more particularly what relates to <note n="NB">mr. Burwells</note> affairs I
 of you he <sic corr="has">hath</sic> no Estate in your hands that I know of he may lavish <lb/>
 away his estate when he gets it into his possession I am very glad you <lb/>
 were so Cautious to <sic corr="deny">denye</sic> him and I pray you to hold your resolution <lb/>
-not to let him have a farthing out of your hands I am sole guardian to <lb/>
+not to let him have <note target="n2">a farthing</note> out of your hands I am sole guardian to <lb/>
 all his fathers Children, and almost think when the <abbr expan="account">acco't</abbr> is made up &amp; <lb/>
 a division made he will find there will be Little Coming to him besides <lb/>
 what he <sic corr="has">hath</sic> expended in England In the three first Articles of <note n="MP2">Mr <lb/>
-Perrys</note> Accot Currt from the 27th of March 1731. to the 17th of June Mr. <lb/>
-Perry has paid upon his <sic corr="draffs">draffts</sic> &pound;170. I suppose Mr. Perry has <sic corr="refused">refusd</sic> <lb/>
+Perrys</note> <abbr expan="Account Current">Accot Currt</abbr> from the 27th of March 1731. to the 17th of June Mr. <lb/>
+Perry has paid upon his <sic corr="drafts">draffts</sic> &pound;170. I suppose Mr. Perry has <sic corr="refused">refusd</sic> <lb/>
 him more and that has sent him to you but let him lay none of his fing= <lb/>
 <sic corr="ers">ures</sic> upon any money in your hands and I have your promise you will <lb/>
 punctially follow my instructions in this affair</p>
 
 <p>In your next Paragraph I think you are wrong <lb/>
 in reducing the <sic corr="balance">ballance</sic> of that Estate to &pound;350 the &pound;250 you have <abbr expan="paid">p'd</abbr> <lb/>
-Mr. Perry you must <sic corr="debit">debet</sic> my Accot it belongs to that Estate</p>
+Mr. Perry you must <sic corr="debit">debet</sic> my <abbr expan="Account">Accot</abbr> it belongs to that Estate</p>
 
 <p><abbr expan="It is">'Tis</abbr> miserable to think what Circumstances our trade <lb/>
 is in but we are in hopes the worst is over with us at Least for the Present <lb/>
-Your masters no doubt give you a full accot of their Conditions <note target="n2">Dove</note> <lb/>
+Your masters no doubt give you a full accot of their Conditions <note target="n3">Dove</note> <lb/>
 tells me he has <sic corr="written">writ</sic> by this Ship to you I have already <sic corr="shipped">shipt</sic> on him <lb/>
-<note target="n3">fourscore</note> and odd hogsheads and I gave him notes yesterday for some tobacco I 
+<note target="n4">fourscore</note> and odd hogsheads and I gave him notes yesterday for some tobacco I 
 
 <pb n="2"/><lb/><lb/>
 have at the Inspecting houses to help him what I Can but where is our enco= <lb/>
@@ -149,7 +149,7 @@ uragement sending this tobacco for <name type="city">London</name> is in a manne
 the Capitol when your turn is <abbr expan="served">serv'd</abbr> you regard us no further</p>
 
 <p>I have already <abbr expan="advised">advis'd</abbr> you of &pound;l50 I have drawn <lb/>
-on you to <note target="n4"><abbr expan="Colonel">Colo</abbr> Fitzhugh,</note> and I have lately drawn <corr resp="editor">[on]</corr> you to <note target="n5">William= <lb/>
+on you to <note target="n5"><abbr expan="Colonel">Colo</abbr> Fitzhugh,</note> and I have lately <note target="n6">drawn</note> <corr resp="editor">[on]</corr> you to <note target="n7">William= <lb/>
 Camp</note> for &pound;50 being his Salary for his Care over Mr. Burwells Estate <lb/>
 for the year 1731 he <sic corr="has">hath</sic> promised me not to send away the bills <del>but</del> <add place="supralinear">'till</add> by some <lb/>
 Later ship I hope you will always be able to make your sales Equal of <lb/>
@@ -158,9 +158,12 @@ others and the mind I am in you shall not want some Share of both <lb/>
 While I have the ruling of the <sic corr="Roost">Rost</sic> I heartily wish your health &amp; am 
 </p>
 
-<closer>Very Sincerely <abbr expan="Sir">Sr.</abbr> <lb/>
-Your very humble Servant.
-<seg type="postscript"><lb/><lb/>Via <name type="city"><sic corr="Liverpool">Leverpoole</sic></name> <note target="n6">Loxum</note> 
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Very Sincerely <abbr expan="Sir">Sr.</abbr> <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your very humble Servant.
+<seg type="postscript"><lb/><lb/>
+
+Via <name type="city"><sic corr="Liverpool">Leverpoole</sic></name> <note target="n8">Loxum</note> 
 </seg></closer>
 
 
@@ -181,16 +184,22 @@ Your very humble Servant.
 
 <note id="n1">[1] Carter refers to Lewis Burwell (1711 or 1712-1756), his grandson by Elizabeth Carter Burwell and her first husband, Nathaniel Burwell (1680-1721); Carter was his guardian. He was educated at Eton and  was at Cambridge when Carter wrote. He would inherit considerable property (contrary to Carter's gloomy assertions to Dawkins) and live at "Fairfield," Gloucester County. He would be president of the Council in 1750-1751. (<cit><bibl n="B42">Kneebone <hi rend="italics">et al.</hi>,  <title>Dictionary of Virginia Biography.</title>  2:434-5.</bibl></cit> and <cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 114.</bibl></cit>)</note>
 
-<note id="n2">[2] The <hi rend="italics">Bailey</hi> was a London ship owned by William Dawkins and commanded at various times by Adam Graves (1725-1730) and by Thomas Dove (1731-1732). She was a vessel of some 250 tons and carried 15-17 crew members. (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, 156v, and other data in Adm. 68/194 and /196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> A letter of Carter's to Dawkins 1732 May 12 refers to "your ship Bailey." as does a letter of 1738 May 10 from Carter's executors to Dawkins 1738 May 10.)</note>
+<note id="n2">[2] A farthing is "the quarter of a penny; the coin representing this value," i.e. "a very small piece of anything."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note><lb/>
 
-<note id="n3">[3] A score is twenty, so fourscore is eighty.</note>
+<note id="n3">[3]  The <hi rend="italics">Bailey</hi> was a London ship owned by William Dawkins and commanded at various times by Adam Graves (1725-1730) and by Thomas Dove 1730-1732. She was a vessel of some 250 tons and carried 15-17 crew members. (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, 156v, and other data in Adm. 68/194 and /196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> A letter of Carter's to Dawkins <xref to="http://carter.lib.virginia.edu/html/C32e12b.html">May 12, 1732,</xref> refers to "your ship Bailey." as does a letter of August 10, 1733, from Carter's executors to Dawkins. [<cit><bibl>Lloyd T. Smith, Jr., <hi rend="italics">ed.</hi> <title>The Executors' Letters of Robert Carter of Corotoman, 1732-1738. </title> (Irvington, VA: Foundation for Historic Christ  Church, 2010) p. 76].</bibl></cit>)</note>
 
-<note id="n4">[4]  Henry Fitzhugh (1706-1742) of "Eagle's Nest," Stafford County, was educated at Oxford, and married Lucy Carter (1715-1763), Robert Carter's fourteenth child, in 1730. They had  four children; after Fitzhugh's death, she married Nathaniel Harrison (1713-1791).  He was a burgess and militia officer. (<cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 451 </bibl></cit>;  <cit><bibl>Robert A. Rutland, <title>The Papers of George Mason, 1725-1792.</title> [Chapel Hill: University of North Carolina Press, 1970]. I:lii</bibl></cit>; and extensive generalogical notes, "Fitzhugh Family," in volumes 7 and 8 of <title>Virginia Magazine of History and Biography.</title>)</note>
+<note id="n4">[4] A score is twenty, so fourscore is eighty.</note>
 
-<note id="n5">[5] William Camp (Kemp) was described by Carter as "the General Overseer of Mr Burwell's Affairs" and he wrote that Camp earned a salary "&pound;50 . . . for the year 1731." Carter and his son-in-law, Mann Page, were the trustees of Nathaniel Burwell's children after Burwell's death in 1721. Camp was a resident of Gloucester County where most of the Burwell estates lay, and he must also have supervised "Rippon Hall" in nearby York County. (Carter to George Braxton, 1729 November 20, and Carter to William Dawkins,1732  July 11. <cit><bibl><title>Virginia Tax Records.</title> [Baltimore: Genealogical Publishing Company, Inc., 1983.] p. 539.</bibl></cit>)</note>
+<note id="n5">[5]  Henry Fitzhugh (1706-1742) of "Eagle's Nest," Stafford County, was educated at Oxford, and married Lucy Carter (1715-1763), Robert Carter's fourteenth child, in 1730. They had  four children; after Fitzhugh's death, she married Nathaniel Harrison (1713-1791).  He was a burgess and militia officer. (<cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 451 </bibl></cit>;  <cit><bibl>Robert A. Rutland, <title>The Papers of George Mason, 1725-1792.</title> [Chapel Hill: University of North Carolina Press, 1970]. I:lii</bibl></cit>; and extensive generalogical notes, "Fitzhugh Family," in volumes 7 and 8 of <title>Virginia Magazine of History and Biography.</title>)</note>
 
-<note id="n6">[6] Captain Loxom commanded  a vessel named the <hi rend="italics"> Loyalty</hi>in 1729-1730. (Survey Report 9727, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. See Carter's letters to John Pemberton 1730 April 15 and 1731 August 4.)</note>
+<note id="n6"> [6] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (See <cit><bibl><xref to="http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm">"Bill of Exchange"</xref> in the online Dictionary of Financial Scam Terms: the Truth vs. the Scam.</bibl></cit>)</note>
 
+<note id="n7">[7] William Camp (Kemp) was described by Carter as "the General Overseer of Mr Burwell's Affairs" and he wrote that Camp earned a salary "&pound;50 . . . for the year 1731." Carter and his son-in-law, Mann Page, were the trustees of Nathaniel Burwell's children after Burwell's death in 1721. Camp was a resident of Gloucester County where most of the Burwell estates lay, and he must also have supervised "Rippon Hall" in nearby York County. (<cit><bibl>Carter to George Braxton, <xref to="/users/berkeley/public/C29k20a.xml">November 20, 1729</xref>,</bibl></cit> and <cit><bibl>Carter to William Dawkins, <xref to="/users/berkeley/public/C32g11a.xml">July 11, 1732,</xref></bibl></cit> and <cit><bibl><title>Virginia Tax Records.</title> [Baltimore: Genealogical Publishing Company, Inc., 1983.] p. 539.</bibl></cit>)</note>
+
+<note id="n8">[8] Several vessels named <hi rend="italics">The Loyalty</hi> sailed to Virginia. One commanded by Francis Wallis cleared from Poole for Virginia in 1726. Captain Edward Loxam commanded  a vessel of this name in 1729-1732 as did James Tarleton in 1732. (Survey Report 09727 extracting "Public Record Office Class E 190/915/9.
+ Exchequor King's Remembrancer Port Books. Poole. Collector 1726/7," Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. See Carter's letters to John Pemberton <xref to="/users/berkeley/public/C30d15c.xml">April 15,1730</xref> and <xref to="/users/berkeley/public/C31h04a.xml"> August 4, 1731</xref>.)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was revised June 20, 2016,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 </div1>

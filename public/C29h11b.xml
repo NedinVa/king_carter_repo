@@ -11,7 +11,7 @@
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
 <!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
-<TEI.2 id="C29h11c">
+<TEI.2 id="C29h11b">
 
 
 <teiHeader type="aacr2">
@@ -81,7 +81,7 @@
 
 </teiHeader>
 
-<text id="C29h11cT">
+<text id="C29h11bT">
 
 <front>
 <div1 type="summary" n="1">
@@ -90,7 +90,7 @@
 <abbr>AL</abbr>
 <extent>2 p.</extent>
 <date value="1729-08-11"></date>
-<idno rend="suppress">C29h11c.xml</idno>
+<idno rend="suppress">C29h11b.xml</idno>
 <title>Letter from Robert Carter to John Stark, August 11, 1729</title>
 </bibl>
 </head>
@@ -106,8 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
-<date value="1729-08-11">Augst. 11th. 1729</date><lb/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1729-08-11">Augst. 11th. 1729</date><lb/>
 Mr. John Stark<lb/>
 </dateline>
 <salute>Sir.</salute>
@@ -115,14 +114,14 @@ Mr. John Stark<lb/>
 </opener>
 
 <p>My last went by <note target="n2"><abbr expan="Captain">Capt.</abbr> Stevenson</note> and<lb/>
-brought you a bill of Lading for 8 hogsheads of Tobacco<lb/>
+brought you a <note target="n3">bill of Lading</note> for 8 hogsheads of Tobacco<lb/>
 We have had <sic corr="prodigous">prodigeous</sic> rains for two months together that<lb/>
 <sic corr="have">hath</sic> very much destroyed our Crops the low lands Everywhere<lb/>
-are drowned and the high lands the tobacco <sic corr="washed">washd</sic> so thin and<lb/>
+are drowned and the high lands the Tobacco <sic corr="washed">washd</sic> so thin and<lb/>
 <sic corr="Carried">Carryed</sic> So hastily to the house<corr resp="editor">[s]</corr> that our Crops must be very<lb/>
-Short we have intelligence from most parts of the Coun<lb/>
+short we have intelligence from most parts of the Coun-<lb/>
 try the rains have been general and we hear Maryland is<lb/>
-in the same Condition some Compute we shall not make ab<lb/>
+in the same Condition some Compute we shall not make ab-<lb/>
 ove half the Tobacco we did last year I cannot think we<lb/>
 shall reach to two thirds I hope this will have a good Effect 
 
@@ -132,11 +131,11 @@ dilatory in your Sales for some years past I <sic corr="believe">beleive</sic> i
 be prudence not to be in too much <sic corr="haste">hast</sic> in selling this year<lb/>
 I have sent you four hogsheads  of Tobacco out of James River<lb/>
 belonging to <note n="NB">Mr. Burwells Estate</note> by <abbr expan="Captain">Capt</abbr> Roger which <abbr expan="you">yo.</abbr><lb/>
-are to Accot for Accordingly Herein I send you a bill of<lb/>
-<abbr expan="Exchange">Excha:</abbr> of my <note n="RC2">Son Robert</note> for &pound;5"0"0 which I desire<lb/>
+are to Accot for Accordingly Herein I send you a <note target="n4">bill of<lb/>
+<abbr expan="Exchange">Excha:</abbr></note> of my <note n="RC2">Son Robert</note> for &pound;5"0"0 which I desire<lb/>
 Credit for</p>
 
-<p>I sent an Invoice for some goods to you by <note target="n3"><abbr expan="Captain">Capt.</abbr><lb/>
+<p>I sent an Invoice for some goods to you by <note target="n5"><abbr expan="Captain">Capt.</abbr><lb/>
 Bowman</note> besides which I now desire you to send me twelve<lb/>
 <abbr expan="dozen">doz</abbr> of your largest <sic corr="plaid">pladd</sic> <sic corr="Stockings">Stockins</sic> Such as you Sent me<lb/>
 last year they answer very well as Also three <abbr expan="dozen">doz</abbr> of <abbr expan="your">yr:</abbr><lb/>
@@ -145,12 +144,14 @@ them from <name type="city">Aberdeen</name> am in hopes your market now will<lb/
 in some measure make up for the poor Accot. That you sent me last I am 
 </p>
 
-<closer>Sir<lb/> 
-<abbr expan="your">yr</abbr> very humble Servt:
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir<lb/> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="your">yr</abbr> very humble Servt:
+
 <seg type="postscript"><lb/><lb/>I send <abbr expan="you">yo</abbr> herein <abbr expan="another">ano:</abbr> bill Mat Zuel on Miller Sterling &amp; Company for<lb/>
-<corr resp="editor">[. . .]</corr> And I draw upon <abbr expan="you">yo</abbr> payable to Mr <unclear>[illegible][ . . . ]</unclear> for &pound;6<lb/>
+<corr resp="editor">[. . .]</corr> And I draw upon <abbr expan="you">yo</abbr> payable to Mr <corr resp="editor">[ . . . ]</corr> for &pound;6<lb/>
 which I desire you to answer at time I desire you to send me<lb/>
-6 pints of <abbr expan="your">yr</abbr> best toasted snuff</seg></closer>
+6 pints of <abbr expan="your">yr</abbr> best <note target="n6">toasted snuff</note></seg></closer>
 
 
 </div1>
@@ -168,14 +169,19 @@ which I desire you to answer at time I desire you to send me<lb/>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
 
-<note id="n1">[1] John Stark was a merchant, probably the one to whom Carter referred when he wrote to Micajah Perry on 1723 July 4 that he had drawn an order on "Mr. Stark of Glasgow." On that same day, he wrote to a John Stark, referring to Captain Bowman.</note>
+<note id="n1">[1] John Stark was a  prominent Glasgow merchant in the sugar trade. He served as as baillie and provost (mayor) from 1725-1727. (<cit><bibl>John M'ure. <title>The History of Glasgow.</title> [Glasgow: D. Macvean and J. Wyllie &amp; Co., 1830] pp. 227-228</bibl></cit> as seen on Google books; and <cit><bibl>"Provosts of Glasgow" at <xref to="http://www.glasgow.gov.uk/en/AboutGlasgow/LordProvostsmessage/Provosts+of+Glasgow.htm">"Welcome to Glasgow"</xref>.</bibl></cit>)</note>
 
-<note id="n2">[2] The <hi rend="italics">Content</hi> was a Liverpool ship owned by John Pemberton and commanded by various masters including captains Stephenson (1721and later) , Fowler (1723), and Morton (1727). (<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> pp. 92, 93, 102</bibl></cit>; and Carter to Pemberton, 1721 February 14, and 1727 June 28. )</note>
+<note id="n2">[2]  The <hi rend="italics">Caledon,</hi> commanded by  John Stevenson in 1729, was owned in part by merchant John Zuil. In what British city Zuil lived is not clear, but it may have been Liverpool because city directories of 1767-1773 list a John Zuil as a merchant, first in Cable Street, and later, in King Street. This probably would have been a son of the man Carter knew, given the shorter lives at this period.  (See <xref to="http://carter.lib.virginia.edu/html/C29g22b.html">Carter to Zuil,</xref> July 22, 1729;<cit><bibl>"Yuil Family Website," and <xref to="http://www.yulefamily.com/newsletters/yule24.htm">Yule Family Newsletter</xref>, #24 (Fall 1998).</bibl></cit>)</note>
 
-<note id="n3">[3] Captain Samuel Bowman commanded the <hi rend="italics">Lucia.</hi> Carter mentioned this vessel in his diary in June 1724, and again on 1726 March 4 when he wrote that she "came in had 20 Weeks Passage."</note>
+ <note id="n3"> [3] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
- 
+<note id="n4"> [4] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (See <cit><bibl><xref to="http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm">"Bill of Exchange"</xref> in the online Dictionary of Financial Scam Terms: the Truth vs. the Scam.</bibl></cit>)</note>
 
+<note id="n5">[5] Captain Samuel Bowman commanded the <hi rend="italics">Lucia.</hi> Carter mentioned this vessel in his diary in June 1724, and again on 1726 March 4 when he wrote that she "came in had 20 Weeks Passage."</note>
+
+ <note id="n6">[6] Snuff is "a preparation of powdered tobacco for inhaling through the nostrils."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>) </note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised May 15, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 </div1>
 </back>

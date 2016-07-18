@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -88,7 +88,7 @@
 <head>
 <bibl>
 <abbr>AL</abbr>
-<extent> p.</extent>
+<extent>1 p.</extent>
 <date value="1728-05-25"></date>
 <idno rend="suppress">C28e25a.xml</idno>
 <title>Letter from Robert Carter to James Bradley, May 25, 1728</title>
@@ -106,21 +106,19 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place"><add resp="editor">[Rappahannock, Lancaster County, Virginia]</add></name><lb/>
-<date value="1728-05-25">May the 25th: 1728</date><lb/>
+<name type="place"><add resp="editor">[Rappahannock, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1728-05-25">May the 25th: 1728</date><lb/>
 Mr. James Bradley<lb/>
 </dateline>
 <salute>Sr</salute>
 
 </opener>
 
-<p>This is to own the receipt of Several Lettrs <lb/>from you this year I do not at present remember to have <lb/><sic corr="written">writ</sic> you any answer nor shall I say much now <note target="n2"><abbr expan="Captain">Capt</abbr> Trice </note><lb/>hath been with me and hath Some of my <abbr expan="Tobacco">Tobbo</abbr> on Board <lb/>whether he <del>[illegible]</del> <add place="supralinear">will</add> want any more of whether I shall have <lb/>any more for him I dont yet know</p>
+<p>This is to own the receipt of Several Lettrs <lb/>from you this year I do not at present remember to have <lb/><sic corr="written">writ</sic> you any answer nor shall I say much now <note target="n2"><abbr expan="Captain">Capt</abbr> Trice </note><lb/><sic corr="has">hath</sic> been with me and <sic corr="has">hath</sic> Some of my <abbr expan="Tobacco">Tobbo</abbr> on Board <lb/>whether he <del>[illegible]</del> <add place="supralinear">will</add> want any more or whether I shall have <lb/>any more for him I dont yet know</p>
 
-<p>We are in the great design of getting a repeal <lb/>of the clause in the <note target="n3">Act of <abbr expan="Parliament">Parliamt:</abbr></note> prohibiting the <sic corr="Stemming">Steming</sic> <lb/>of <abbr expan="Tobacco">Tobbo</abbr> <del>repealed</del> The Council &amp; Burgesses have addressed <lb/>his <abbr expan="Majesty">Majty</abbr> and made Application to the <abbr expan="parliament">parliamt:</abbr> about it <lb/>Mr. <note n="JR">John Randolph</note> one of our Eminentest Lawyers <lb/>is coming <note target="n4">home</note> as the <sic corr="Country's">Countreys</sic> Agent to <sic corr="Solicit">Solicite</sic> the <lb/>Affair our <del>Great</del>  hopes are that all the <abbr expan="Merchants">Merchts:</abbr> both the <lb/>London <del>[illegible]</del> &amp; outports &amp; the North <sic corr="Britains">Brittains</sic> will be Strongly <lb/>our friends in <sic corr="joining">joyning</sic> their Interst in getting this <lb/>grievous restraint taken <sic corr="off">of</sic> to the <sic corr="relief">releif</sic> of the Trade in <lb/>General <del>as to well as to</del> &amp; the poor makers of <abbr expan="Tobacco">Tobbo</abbr>
- <add place="supralinear">in particular</add> the <lb/>many reasons we have to Urge to prove it will be no <lb/>Detriment to the Crown as well as the great benefit <lb/>that will Accrue to the <abbr expan="Merchant">Mercht</abbr> and <del>to</del> the planter our Agent <lb/>is fully Instructed in, and will much better Illustrate <del>[illegible]</del><lb/><sic corr="than">then</sic> I can; I shall only wish you will be one of those <del>if</del> <lb/>that will show your self forward in heartily promoting <lb/>this good design I am </p>
+<p>We are in the great design of getting a repeal <lb/>of the clause in the <note target="n3">Act of <abbr expan="Parliament">Parliamt:</abbr></note> prohibiting the <sic corr="Stemming">Steming</sic> <lb/>of <abbr expan="Tobacco">Tobbo</abbr> <del>repealed</del> The Council &amp; Burgesses have addressed <lb/><note target="n4">his <abbr expan="Majesty">Majty</abbr></note> and made Application to the <abbr expan="parliament">parliamt:</abbr> about it <lb/>Mr. <note n="JR">John Randolph</note> one of our Eminentest Lawyers <lb/>is coming <note target="n5">home</note> as the <sic corr="Country's">Countreys</sic> Agent to <sic corr="Solicit">Solicite</sic> the <lb/>Affair our <del>Great</del>  hopes are that all the <abbr expan="Merchants">Merchts:</abbr> both the <lb/>London <del>[illegible]</del> &amp; Out ports &amp; the <note target="n6">North <sic corr="Britains">Brittains</sic></note> will be Strongly <lb/>our friends in <sic corr="joining">joyning</sic> their Interst in getting this <lb/>grievous restraint taken <sic corr="off">of</sic> to the <sic corr="relief">releif</sic> of the Trade in <lb/>General <del>as to well as to</del> &amp; the poor makers of <abbr expan="Tobacco">Tobbo</abbr>  <add place="supralinear">in particular</add> the <lb/>many reasons we have to Urge to prove it will be no <lb/>Detriment to the Crown as well as the great benefit <lb/>that will Accrue to the <abbr expan="Merchant">Mercht</abbr> and <del>to</del> the planter our Agent <lb/>is fully Instructed in, and will much better Illustrate <del>[illegible]</del><lb/><sic corr="than">then</sic> I can; I shall only wish you will be one of those <del>if</del> <lb/>that will show your self forward in heartily promoting <lb/>this good design I am </p>
 
-<closer>Sir <lb/>Your most humble Servt
-<seg type="postscript"><lb/><lb/>per <note target="n5">Clack</note>
+<closer>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your most humble Servt
+<seg type="postscript"><lb/><lb/>per <note target="n7">Clack</note>
 <lb/>Trice</seg></closer>
 
 
@@ -139,17 +137,22 @@ Mr. James Bradley<lb/>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. His location, the county and colony have been added for clarity to this unheaded draft.</note>
 
-<note id="n1">[1] James Bradley was a London merchant with whom Carter dealt from at least 1723 until his death. As noted in his letter to Bradley of 1727 May 17, Bradley owned the <hi rend="italics">Welcome,</hi> but little information about Bradley has been located.</note>
+<note id="n1">[1]  James Bradley was a London merchant with whom Carter dealt from at least 1723 until his death. As noted in his letter to Bradley of <xref to="/users/berkeley/public/C27e17a.html">May 17, 1727,</xref> Bradley owned the <hi rend="italics">Welcome,</hi> but little information about Bradley has been located. (There is a listing of the firm of Bradly &amp; Griffin, Merchants, Fenchurch-street, opposite the Mitre Tavern, on page 13 of <cit><bibl><title><xref to="freepages.history.rootsweb.com/~frpayments/KD1740/AB.htm">Kent's Directory </xref>For the Year 1740 Containing An Alphabetical List of the Names and Places of Abode of the Directors of Companies, Persons in Publick Business, Merchants, and other Eminent Traders in the Cities of London and Westminster, and the Borough of Southwark.</title>  [London: Printed and Sold by Henry Kent in Finch-Lane, near the Royal Exchange: and by the Booksellers and Pamphlets Shops of London and Westminster, 1740]. p. 39. Online, examined 8/12/2005 and 6/14/2012. </bibl></cit>)</note>
 
-<note id="n2">[2] The 140 ton <hi rend="italics">Welcome</hi> was owned by London merchant James Bradley to whom Carter would write about her on 1727 May 17.  John Trice (Frice) was her captain, 1723-1728. (<cit><bibl>Survey Report 6801 summarizing Adm 68/195, 154r, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n2">[2] The 140 ton <hi rend="italics">Welcome</hi> was owned by London merchant James Bradley to whom Carter would write about her on <xref to="http://carter.lib.virginia.edu/html/C27e17a.html">May 17, 1727</xref>. John Trice (Frice) was her captain, 1723-1727. (<cit><bibl>Adm 68/195, 154r, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
 <note id="n3">[3] Parliament had passed the act forbidding the importation of stemmed tobacco in 1722. Randolph would not leave for England until 1729; his mission would be successful.<corr resp="editor"></corr> (<cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> [Newport News, VA: Mariners' Museum, 1953.] p. 116.</bibl></cit>)</note>
 
-<note id="n4">[4] England</note>
+<note id="n4">[4] King George II (1683-1760) reigned from 1727 until 1760. ("The Royal English Monarchy." <cit><bibl>http://scotlandroyalty.org/kings.html.</bibl></cit> 11/20/03)</note>
 
-<note id="n5">[5] No information has been located on Captain Clack who is mentioned in several of Carter's letters of this period.</note>
+<note id="n5">[5] England</note>
+
+<note id="n6">[6] Scots</note>
+
+<note id="n7">[7] No information has been located on Captain Clack who is mentioned in several of Carter's letters of this period.</note>
 
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised October 16, 2014,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 

@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2006</date>
+     <date>2006, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -118,19 +118,22 @@ Edward Tucker Esqr<lb/>
 
 <p>I have some time since <sic corr="advised">advisd</sic> you of a <sic corr="Note">Noat</sic> I had <lb/>
 drawn upon <abbr expan="you">yo</abbr> payable to <note n="MP2">Alderman Perry</note> for two hundred <lb/>
-pounds and <abbr expan="you">yo.</abbr> have also already been acquainted with my consig<corr resp="editor">[[n]]</corr>: <lb/>
-ment of 20 hogsheads <abbr expan="stemmed">stemm'd</abbr> <abbr expan="tobacco">tobo</abbr> to <abbr expan="you">yo</abbr> in <abbr expan="your">yr</abbr> Ship the <note target="n1"><name type="ship">Portland</name></note></p>
+pounds and <abbr expan="you">yo.</abbr> have also already been acquainted with my consig<corr resp="editor">[n]</corr>: <lb/>
+ment of 20 hogsheads <note target="n1"><abbr expan="stemmed">stemm'd</abbr> <abbr expan="tobacco">tobo</abbr></note> to <abbr expan="you">yo</abbr> in <abbr expan="your">yr</abbr> Ship the <note target="n2"><name type="ship">Portland</name></note></p>
 
 <p>The trouble of this is to Advise you that I have <lb/>
-this day drawn upon you a bill of Exchange for one hundred <lb/>
+this day drawn upon you a <note target="n3">bill of Exchange</note> for one hundred <lb/>
 pounds payable to <abbr expan="Colonel">Colo</abbr> <note n="MCB">George Braxton</note> that I desire you to answer <lb/>
 at time &amp; place to my Accot who am
 </p>
 
-<closer>Sir<lb/>
-Your most humble Servt
-<seg type="postscript"><lb/><lb/>Copy Per <note target="n2">Dove</note>
-</seg></closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your most humble Servt
+<seg type="postscript"><lb/><lb/>
+Copy Per <note target="n4">Dove</note>
+</seg>
+</closer>
 
 
 </div1>
@@ -148,9 +151,16 @@ Your most humble Servt
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] John Russell commanded the <hi rend="italics">Portland,</hi> a vessel owned by Weymouth merchant Edward Tucker. (<cit><bibl>Survey Report 9729 detailing the Weymouth Port Books, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n1">[1] Parliament had passed an act forbidding the importation of stemmed tobacco in 1722. John Randolph was sent to England in 1728 as agent for Virginia to try to have the act overturned; his mission was successful, and he was home in the colony by <xref to="http://carter.lib.virginia.edu/html/C29f02a.html">June 2, 1729</xref>, when Carter wrote to welcome him home. (<cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> [Newport News, VA: Mariners' Museum, 1953], 116.</bibl></cit>)</note>
 
-<note id="n2">[2] The <hi rend="italics">Bailey</hi> was a London ship owned by William Dawkins and commanded at various times by Adam Graves (1725-1730) and by Thomas Dove (1731-1732). She was a vessel of some 250 tons and carried 15-17 crew members. (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, 156v, and other data in Adm. 68/194 and /196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> A letter of Carter's executors to Dawkins 1738 May 10 refers to "your ship Bailey.")</note>
+<note id="n2">[2] John Russell commanded the <hi rend="italics">Portland,</hi> a vessel owned by Weymouth merchant Edward Tucker as is noted in a letter from <xref to="http://carter.lib.virginia.edu/html/C27f28g.html">Carter to Tucker,</xref> June 28 and July 25, 1727. (<cit><bibl>Survey Report 9729 detailing the Weymouth Port Books, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n3"> [3] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (See <cit><bibl><xref to="http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm">"Bill of Exchange"</xref> in the online Dictionary of Financial Scam Terms: the Truth vs. the Scam.</bibl></cit>)</note>
+
+<note id="n4">[4]  The <hi rend="italics">Bailey</hi> was a London ship owned by William Dawkins and commanded at various times by Adam Graves (1725-1730) and by Thomas Dove 1730-1732. She was a vessel of some 250 tons and carried 15-17 crew members. (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, 156v, and other data in Adm. 68/194 and /196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> A letter of Carter's to Dawkins <xref to="http://carter.lib.virginia.edu/html/C32e12b.html">May 12, 1732,</xref> refers to "your ship Bailey." as does a letter of August 10, 1733, from Carter's executors to Dawkins. [<cit><bibl>Lloyd T. Smith, Jr., <hi rend="italics">ed.</hi> <title>The Executors' Letters of Robert Carter of Corotoman, 1732-1738. </title> (Irvington, VA: Foundation for Historic Christ  Church, 2010) p. 76].</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was revised November 5, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
+
 
 </div1>
 </back>

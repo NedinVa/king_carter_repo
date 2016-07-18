@@ -29,7 +29,7 @@
    </respStmt>
 </titleStmt>
 
-<extent>ca. 13 kilobytes </extent>
+<extent>ca. 8 kilobytes </extent>
 
 <publicationStmt>
      <publisher>University of Virginia Library.</publisher>
@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -48,7 +48,7 @@
      <title>Letter from Robert Carter to John Pemberton and Company, June 1,1728</title>
      <author>Robert Carter</author>
 </titleStmt>
-    <extent>4 p.</extent>
+    <extent>2 p.</extent>
 <publicationStmt>
      <date></date>
    <idno type="callNo">Source copy consulted:  Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond.</idno>
@@ -88,7 +88,7 @@
 <head>
 <bibl>
 <abbr>AL</abbr>
-<extent>4 p.</extent>
+<extent>2 p.</extent>
 <date value="1728-06-01"></date>
 <idno rend="suppress">C28f01a.xml</idno>
 <title>Letter from Robert Carter to John Pemberton and Company, June 1,1728</title>
@@ -115,15 +115,15 @@ Ownrs. of John &amp; Betty<lb/>
 
 </opener>
 
-<p>This Accompanys <note target="n1"><abbr expan="Captain">Capt:</abbr> Denton</note> and <lb/>brings you a bill of Lading for 15 hogsheads of <abbr expan="Tobacco ">Tobbo:</abbr>
- <sic corr="marked ">markt</sic> PD <lb/>on board the <name type="ship">John and Betty</name> Also for 3 hogsheads markt J~B in <abbr expan="Ditto ">Do:</abbr> <lb/>Ship and a bill of Lading for 1 hogshead more in the <note target="n2"><name type="ship">Rappahannock</name></note> <abbr expan="Captain ">Capt.</abbr> <lb/>Brackhill, You have Accots: Sent you of this Concern as far as <lb/>it is <sic corr="gone ">gon</sic> and is <sic corr="Completed ">Compleated</sic> to Some Small Debts Excepting <del>[illegible]</del> <note target="n3"><add place="supralinear">Purcells </add></note><lb/>Debt. part of which my <abbr expan="Agreement ">Agreemt</abbr>. was to be paid next year. <lb/>The money <sic corr="balance ">ballance</sic> due to you I make to be &pound;16:10:9 for <abbr expan="Payment">Paymt.</abbr> 
+<p>This Accompanys <note target="n1"><abbr expan="Captain">Capt:</abbr> Denton</note> and <lb/>brings you a <note target="n2">bill of Lading</note> for 15 hogsheads of <abbr expan="Tobacco ">Tobbo:</abbr>
+ <sic corr="marked ">markt</sic> PD <lb/>on board the <name type="ship">John and Betty</name> Also for 3 hogsheads markt J~B in <abbr expan="Ditto ">Do:</abbr> <lb/>Ship and a bill of Lading for 1 hogshead more in the <note target="n3"><name type="ship">Rappahannock</name></note> <abbr expan="Captain ">Capt.</abbr> <lb/>Brackhill, You have Accots: Sent you of this Concern as far as <lb/>it is <sic corr="gone ">gon</sic> and is <sic corr="Completed ">Compleated</sic> to Some Small Debts Excepting <del>[illegible]</del> <note target="n4"><add place="supralinear">Purcells </add></note><lb/>Debt. part of which my <abbr expan="Agreement ">Agreemt</abbr>. was to be paid next year. <lb/>The money <sic corr="balance ">ballance</sic> due to you I make to be &pound;16:10:9 for <abbr expan="Payment">Paymt.</abbr> 
 
 <pb n="2"/><lb/><lb/>
 thereof I give directions to Mr. Pemberton, 2 <sic corr="prized ">prizd</sic> hogsheads more <lb/>a further payment of Purcells debt I intend to Ship on the <lb/><note n="CS"><name type="ship">Carter</name></note> for London no prospect offering to <del>Send it</del> <corr resp="editor">[to] </corr> Yor. own port I am </p>
 
 <closer>Gent&mdash;<lb/>Yor. very humble Servt.
 <seg type="postscript"><lb/><lb/>per Denton
-<lb/>Copy per <note target="n4">Trice</note></seg><lb/><lb/>
+<lb/>Copy per <note target="n5">Trice</note></seg><lb/><lb/>
 
 
 </closer>
@@ -144,16 +144,18 @@ thereof I give directions to Mr. Pemberton, 2 <sic corr="prized ">prizd</sic> ho
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
 
-<note id="n1">[1] The <hi rend="italics">John &amp; Betty</hi> was a Liverpool ship owned by merchant John Pemberton; she often carryied slaves into the colony. In 1726 the captain was John Gale, and in the next year, she was commanded by a Captain William Denton. The ship would be lost in 1729. (<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> p. 18, n. 23</bibl></cit>; Carter to Pemberton, April 15; 1730, and Carter to William Dawkins, June 28, July 26, and August 22, 1727, for Denton's first name.)</note>
+<note id="n1">[1] The <hi rend="italics">John &amp; Betty</hi> was a Liverpool ship owned by merchant John Pemberton; she often carried slaves into the colony. In 1726 the captain was John Gale, and in the next year, she was commanded by a Captain William Denton. The ship would be lost in 1729. (<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> p. 18, n. 23</bibl></cit>; <cit><bibl><xref to="http://carter.lib.virginia.edu/html/C27l19b.html">Carter to P3mberton</xref>, December 18, 1727;</bibl></cit>  <cit><bibl><xref to="http://carter.lib.virginia.edu/html/C30d15c.html">Carter to Pemberton,</xref> April 15, 1730;</bibl></cit> and <cit><bibl><xref to="http://carter.lib.virginia.edu/html/C27f28c.html">Carter to William Dawkins,</xref> June 28, July 26, and August 22, 1727, for Denton's first name.</bibl></cit>)</note>
 
-<note id="n2">[2] There  were several vessels with the name <hi rend="italics">Rappahannock</hi>. One was based in Liverpool and was commanded by a Captain Francis Etheridge in 1725; she was a 90 ton ship with 13 men. Another of which Charles Whate was captain was of 60 tons with 11 men in 1726 and 1727. Carter's letters mention a Captain Brackhill in 1728, and Captain Loxum in 1733. (<cit><bibl>Adm. 68/194, ff.30, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n2"> [2] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
-<note id="n3">[3] The Pursell to whom Carter refers probably was Robert Pursell from whom he acquired the Brick House property in Richmond County. Carter's 1732 inventory entry for this property mentions "things formerly belonging to Robert Purtell" (Pursell). (<cit><bibl n="B29">Miller. <title>Place-Names . . . . </title>p. 15; and </bibl></cit><cit><bibl n="A26">"Carter Papers: An Inventory. . . ."</bibl></cit>)</note>
+<note id="n3">[3] There  were several vessels with the name <hi rend="italics">Rappahannock</hi>. One was based in Liverpool and was commanded by a Captain Francis Etheridge in 1725; she was a 90 ton ship with 13 men. Another of which Charles Whate was captain was of 60 tons with 11 men in 1726 and 1727. Carter's letters mention a Captain Brackhill in 1728, and Captain Loxum in 1733. (<cit><bibl>Adm. 68/194, ff.30, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
-<note id="n4">[4] The 140 ton <hi rend="italics">Welcome</hi> was owned by London merchant James Bradley to whom Carter would write about her on 1727 May 17.  John Trice (Frice) was her captain, 1723-1728. (<cit><bibl>Survey Report 6801 summarizing Adm 68/195, 154r, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n4">[4] Tobias Purcell purchased 150 acres in Lancaster County on the Corotoman River from Martha Norris on February 5, 1689, and Robert Carter bought the tract from him in 1696. The land would be a portion of that guaranteed to Betty (Landon) Carter in the <xref to="http://carter.lib.virginia.edu/html/C01d09a.mod.html">jointure agreement</xref> signed before her marriage to Robert Carter in 1701 .(<cit><bibl>Gertrude Entz Gray.<title><xref to="http://books.google.com/books?id=Xyv91vPq_voC&lpg=PA87&ots=vm5DyFjvmJ&dq=%22David%20Miles%22%20Lancaster%20Virginia&pg=PA87#v=onepage&q&f=false">Virginia Northern Neck Land Grants,</xref> Volume 1, 1694--1742</title>. [Baltimore: Genealogical Publishing Co., 1987] p. 87. Google Books, 8/11/2011;</bibl></cit>) </note>
+
+<note id="n5">[5] The 140 ton <hi rend="italics">Welcome</hi> was owned by London merchant James Bradley to whom Carter would write about her on <xref to="http://carter.lib.virginia.edu/html/C27e17a.html">May 17, 1727</xref>. John Trice (Frice) was her captain, 1723-1727. (<cit><bibl>Adm 68/195, 154r, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note></note>
 
 
-<lb/><lb/><note><hi rend="italics">This text, originally posted in 2002, was revised August 24,  2011, to strengthen the modern language version text.</hi></note>
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised November 10, 2014,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 

@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -88,7 +88,7 @@
 <head>
 <bibl>
 <abbr>AL</abbr>
-<extent> p.</extent>
+<extent>1 p.</extent>
 <date value="1728-05-30"></date>
 <idno rend="suppress">C28e30a.xml</idno>
 <title>Letter from Robert Carter to Samuel Hallows, Esq., May 30, 1728</title>
@@ -106,8 +106,8 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1728-05-30">[date from text]</date><lb/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;
+<date value="1728-05-30">May the 30th, 1728</date><lb/>
 Samuel Hallows,<lb/>Esqr.<lb/>
 </dateline>
 <salute>Sir&mdash;</salute>
@@ -116,10 +116,11 @@ Samuel Hallows,<lb/>Esqr.<lb/>
 
 
 
-<p>You would go near to condem me of di<corr resp="editor">[s]</corr><lb/>respect if I did not return an answer to <abbr expan="yours">yors:</abbr> of the 24th: <abbr expan="November">Novr.</abbr> <lb/><note n="JR">Mr. Randolph</note> hath indeed valued your Lands at &pound;700. but <lb/>I dare Say it is a price he will never be able to procure for you <lb/>If he can I am Sure I must not be the Purchaser <del>The price</del> <add place="supralinear">what</add> <lb/>I <sic corr="offered">offerd</sic> is the utmost I will give. As for Clilton he did not <sic corr="die">dye</sic> <lb/>worth 500 Groats more <sic corr="than">then</sic> what he had in Virginia. I <lb/>have a debt owing from that Estate which I am forced to Sue <lb/>his Son for <add place="supralinear">and do not yet See when I shall get my money</add> who that other <abbr expan="Gentleman">Gent</abbr> is I can only guess. If you <lb/>find his money better then mine I am very apprehensive <lb/>you will think it proper to take it. Mr. Randolph is now <lb/>coming for England, as for his <abbr expan="Judgement">Judgemt.</abbr> of yor. Estate I shall <lb/>not find fault with but from my information <add place="supralinear">which I believe is rather better than his</add> of the Cir=<lb/>cumstances of it I cannot Set it at so high an Esteem as he <lb/><sic corr="has">hath</sic> done. Money is very hard to be raised in Virginia <lb/>at this day Our <abbr expan="Tobacco">Tobbo:</abbr> runs <del>very</del> <add place="supralinear"><sic corr="Extreme">Extream</sic></add> low and <sic corr="we">wee</sic> have no other way <lb/>to <add place="supralinear">re</add>turn any Income from our Lands but by <del>[illegible]</del> <add place="supralinear">that trade</add> <lb/>I hope if you have bin under a misinformation as to the <lb/>Value of yor. Estate you will not deem me ingracious when <lb/>I tell you I cannot come up to your <del>price</del> <sic corr="Terms">Termes</sic> I am </p>
+<p>You would go near to condem me of di<corr resp="editor">[s]</corr><lb/>respect if I did not return an answer to <abbr expan="yours">yors:</abbr> of the 24th: <abbr expan="November">Novr.</abbr> <lb/><note n="JR">Mr. Randolph</note> <sic corr="has">hath</sic> indeed valued your Lands at &pound;700. but <lb/>I dare Say it is a price he will never be able to procure for you <lb/>If he can I am Sure I must not be the Purchaser <del>The price</del> <add place="supralinear">what</add> <lb/>I <sic corr="offered">offerd</sic> is the utmost I will give. As for Clilton he did not <sic corr="die">dye</sic> <lb/>worth 500 <note target="n2">Groats</note> more <sic corr="than">then</sic> what he had in Virginia. I <lb/>have a debt owing from that Estate which I am forced to Sue <lb/>his Son for <add place="supralinear">and do not yet See when I shall get my money</add> who that other <abbr expan="Gentleman">Gent</abbr> is I can only guess. If you <lb/>find his money better then mine I am very apprehensive <lb/>you will think it proper to take it. Mr. Randolph is now <lb/>coming for England, as for his <abbr expan="Judgement">Judgemt.</abbr> of yor. Estate I shall <lb/>not find fault with but from my information <add place="supralinear">which I believe is rather better than his</add> of the Cir=<lb/>cumstances of it I cannot Set it at so high an Esteem as he <lb/><sic corr="has">hath</sic> done. Money is very hard to be raised in Virginia <lb/>at this day Our <abbr expan="Tobacco">Tobbo:</abbr> runs <del>very</del> <add place="supralinear"><sic corr="Extreme">Extream</sic></add> low and <sic corr="we">wee</sic> have no other way <lb/>to <add place="supralinear">re</add>turn any Income from our Lands but by <del>[illegible]</del> <add place="supralinear">that trade</add> <lb/>I hope if you have bin under a misinformation as to the <lb/>Value of yor. Estate you will not deem me ingracious when <lb/>I tell you I cannot come up to your <del>price</del> <sic corr="Terms">Termes</sic> I am </p>
 
-<closer>Sir&mdash;<lb/>Yor. most humble Servt:
-<seg type="postscript"><lb/><lb/>per <note target="n2">Denton</note></seg></closer>
+<closer>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir&mdash;<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. most humble Servt:
+<seg type="postscript"><lb/><lb/>per <note target="n3">Denton</note></seg></closer>
 
 
 </div1>
@@ -137,11 +138,14 @@ Samuel Hallows,<lb/>Esqr.<lb/>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to persons abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] Hallows (Hallowes) was a great nephew of John Hallowes, an early landholder in Northumberland and later, Westmoreland County, who was usually identified as of "Nomini" in Westmoreland County. Samuel Hallows lived in Ashworth, County Lancaster, England. The tract in which Carter was interested may have been that of 2400 acres acquired from Hallowes in 1733 by Thomas Lee. ("Major John Hallowes, 1615-1657" in <cit><bibl n="B38">Norris. <title>Westmoreland County, Virginia.</title> pp. 99-102.</bibl></cit>)</note>
+<note id="n1">[1] John Hallowes (Hallows) (1615-1657) had come to Maryland as an indentured servant, but later moved to Westmoreland County where he acquired extensive tracts of land. Some of that land was purchased in 1733 by Thomas Lee from Samuel Hallowes of County Lancaster, England, who "as a great newphew of Major John Hallowes," had acquired title in an important legal case decided in 1722. This land became part of Stratford. Carter may have hoped to acquire a tract from Samuel Hallowes to add to Nomini as John Hallowes had lived near that plantation of Carter's. John Randolph sailed to England in 1728 to become the colony's agent, and represented Hallowes futher in negotiations with Carter. ("Major John Hallowes. 1615-1657." <cit><bibl n="B38">Norris. <title>Westmoreland County, Virginia.</title></bibl></cit> pp. 99-103.)</note>
 
-<note id="n2">[2] The <hi rend="italics">John &amp; Betty</hi> was a Liverpool ship often carrying slaves owned by merchant John Pemberton. In 1726 the captain was John Gale, and in the next year, she was commanded by a Captain William Denton. The ship would be lost in 1729. (<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> p. 18, n. 23</bibl></cit>; Carter to Pemberton, 1730 April 15; and Carter to William Dawkins, June 28, July 26, and August 22, 1727, for Denton's first name.)</note>
+<note id="n2">[2] "The English groat coined in 1351-2 was made equal to four pence. This ratio between the groat and the penny continued to be maintained. . . .  The groat ceased to be issued for circulation in 1662" (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
+
+<note id="n3">[3] The <hi rend="italics">John &amp; Betty</hi> was a Liverpool ship owned by merchant John Pemberton; she often carried slaves into the colony. In 1726 the captain was John Gale, and in the next year, she was commanded by a Captain William Denton. The ship would be lost in 1729. (<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> p. 18, n. 23</bibl></cit>; <cit><bibl><xref to="http://carter.lib.virginia.edu/html/C27l19b.html">Carter to P3mberton</xref>, December 18, 1727;</bibl></cit>  <cit><bibl><xref to="http://carter.lib.virginia.edu/html/C30d15c.html">Carter to Pemberton,</xref> April 15, 1730;</bibl></cit> and <cit><bibl><xref to="http://carter.lib.virginia.edu/html/C27f28c.html">Carter to William Dawkins,</xref> June 28, July 26, and August 22, 1727, for Denton's first name.</bibl></cit>)</note>
 
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised November 3, 2014,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 

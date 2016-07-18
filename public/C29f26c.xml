@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,7 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;
 <date value="1729-06-26">June 26. 1729</date><lb/>
 
 </dateline>
@@ -119,32 +119,32 @@
 <p>I <abbr expan="received">receiv'd</abbr> your short letter of the 9th of <abbr expan="December">Decr:</abbr><lb/>
 how you send <sic corr="your">yor</sic> letters I do not know but those I receive<lb/>
 are not only very Short but very few in Number too I<lb/>
-I hope the University will Qualify you not only for a <lb/>
+I hope <note target="n2">the University</note> will Qualify you not only for a <lb/>
 more Correct <sic corr="style">stile</sic> but with matter for a larger Entertain-<lb/>
 ment</p>
 
 <p>I am <abbr expan="Pleased">Pleas'd</abbr> at <note n="MP2">Mr Perrys</note> Choice in Putting<lb/>
-you under the care of Dr. Gooch <note n="WG">our Governours</note> brother<lb/>
+you under the care of <note target="n3">Dr. Gooch</note> <note n="WG">our Governours</note> brother<lb/>
 supposing him to be endowed with the same noble <sic corr="Qualities">Qualitys</sic><lb/>
 that our Governour is whose temperate &amp; Gentlemen<add place="supralinear">ly</add> behav:<lb/>
-iour among us worthly render him a fit Pattern to square<lb/>
+iour among us <sic corr="worthily">worthly</sic> render him a fit Pattern <add place="supralinear">to us all</add> to square<lb/>
 our Morals by who have the honour to be frequently in his con:<lb/>
 versation</p>
 
-	<p>Mr Perry will tell you how miserable low<lb/>
+<p>Mr Perry will tell you how <sic corr="miserably">miserable</sic> low<lb/>
 the Price of <abbr expan="Tobacco">Tobo</abbr> is at this day the only Commodity<lb/>
 we have to <sic corr="raise">rais</sic> money by and will Also acquaint you <abbr expan="with">wth</abbr><lb/>
-the Strict orders he is Under to Abridge you in your Expe<lb/>
+the Strict orders he is Under to Abridge you in your Expe=<lb/>
 nces and to Allow you no more than what will be Absolutely<lb/>
 necessary to Support you in keeping the most impproving<lb/>
-Compa: in the time of <abbr expan="your">yr</abbr> being at the Colledge that you
+<abbr expan="Company">Compa:</abbr> in the time of <abbr expan="your">yr</abbr> being at the <sic corr="College">Colledge</sic> that you
 
 <pb n="2"/><lb/><lb/>
 may return from thence with the <sic corr="Qualities">Qualitys</sic> of good learning<lb/>
 as well as good breeding</p>
 
-	<p>Your mother is a very Crazy and ailing Pers<lb/>
-on. Your brothers And Sister for what I know are well<lb/>
+<p><note n="ECB">Your mother</note> is a very Crazy and ailing Pers<lb/>
+on. Your brothers And <note target="n4">Sister</note> for what I know are well<lb/>
 your Uncles &amp; Aunts that are with me I thank god<lb/>
 are so and I <add place="supralinear"><del>are</del></add> hope <add place="supralinear">are</add> all those that are Absent And send<lb/>
 you their loves &amp; respects My daily Prayers shall not<lb/>
@@ -152,7 +152,8 @@ be wanting for <abbr expan="your">yr</abbr> well doing I am
 
 </p>
 
-<closer><abbr expan="your">yr</abbr> Loving Grand Father</closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</closer>
 
 
 </div1>
@@ -168,13 +169,17 @@ be wanting for <abbr expan="your">yr</abbr> well doing I am
 
 <note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia. There is a nineteenth-century copy of this letter in the Minor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia.</note>
 
-<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to persons abroad. The county and colony have been added for clarity.</note>
 
 <note id="n1">[1] Lewis Burwell (1711 or 1712-1756), Carter's grandson by Elizabeth Carter Burwell and her first husband, Nathaniel Burwell (1680-1721) for whom Carter was guardian. He was educated at Eton and Cambridge, and inherited considerable property, living at "Fairfield," Gloucester County. He would be president of the Council in 1750-1751. (<cit><bibl n="B42">Kneebone <hi rend="italics">et al.</hi>,  <title>Dictionary of Virginia Biography.</title>  2:434-5.</bibl></cit> and <cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 114.</bibl></cit>)</note>
 
+<note id="n2">[2] Lewis was about to enter Cambridge University.</note>
 
+<note id="n3">[3] Sir Thomas Gooch, (1675-1754), distinguished cleric, bishop of Ely, fellow of Caius College (and later master), Cambridge. "In 1748 he was appointed bishop of Ely, and in 1751 he succeeded to the baronetcy of his deceased brother, Sir William Gooch, lieutenant-governor of Virginia."  (Colin Haydon, "<xref to="http://www.oxforddnb.com.proxy.its.virginia.edu/view/article/10941">Gooch, Sir Thomas</xref>, second baronet (1675-1754)." <title>Oxford Dictionary of National Biography</title>, [Oxford University Press, 2004.] accessed 27 March 2015.)</note>
 
+<note id="n4">[4]  Elizabeth Burwell (1718- ?) was Carter's grandaughter by his daughter, Elizabeth, and her first husband, Nathaniel Burwell. She married in 1738 William Nelson of Yorktown.(<cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 143.</bibl></cit>)</note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised April 2, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 </div1>
 </back>

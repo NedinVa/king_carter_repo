@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,8 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1729-06-25">June the 25th. 1729</date><lb/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1729-06-25">June the 25th. 1729</date><lb/>
 To the Right honble. the Ld. Fairfax<lb/>
 </dateline>
 <salute>My Lord&mdash;</salute>
@@ -116,14 +115,14 @@ To the Right honble. the Ld. Fairfax<lb/>
 
 
 
-<p>Upon Considering the orders of Council lately made <del>on</del><add place="supralinear">upon</add><lb/>
-my puting in Caveats in your Lordships behalf I <abbr expan="cannot">cant</abbr> but observe that there <lb/>
+<p>Upon Considering the <note target="n1">orders</note> of <note target="n2">Council</note> lately made <del>for</del><add place="supralinear">upon</add><lb/>
+my puting in <note target="n3">Caveats</note> in your Lordships behalf I <abbr expan="cannot">cant</abbr> but observe that there <lb/>
 appears to me to be a wide diference between former <abbr expan="Governors">Govrs.</abbr> Granting away the <lb/>
-Lands in the <note target="n1">little Fork</note> when there was no Caveat put in against them &amp; those <lb/>
+Lands in the <note target="n4">little Fork</note> when there was no Caveat put in against them &amp; those <lb/>
 back woods was then very little known and the <note n="WG">Present <abbr expan="Governors">Govrs.</abbr></note> <sic corr="Continuing">Continueing</sic> these Grants <lb/>
 after a Caveat is <sic corr="Entered">Enterd</sic> and Such Plain Proof <abbr expan="offered">offer'd</abbr> that these Lands are within <lb/>
 your Lordships bounds. Perhaps my reasoning may have no force in it. I have had<lb/>
-Some private hints <add place="supralinear">from my Lawyers that they thought</add> the Govr. was not very forward in going into this order <lb/>
+Some private hints <add place="supralinear">from my Lawyers that they thought</add> the <abbr expan="Governor">Govr</abbr>. was not very forward in going into this order <lb/>
 but the Opinion of the Major part of the Council <sic corr="prevailed">prevaild</sic> however it was your <lb/>
 Lordship may Conclude it to be highly necessary for your Lordship to make as <lb/>
 many friends as Possibly you can in England for I doubt the Grant will meet <lb/>
@@ -134,17 +133,20 @@ is above their reach. In the other order you will meet with a great many new <lb
 <pb n="2"/><lb/><lb/>
 
 names Such as Happy Creek. Cape Leanock. and the fork of Leanock ri<corr resp="editor">[ver]</corr><lb/>
-and the fork of Cape Leanock Run and all <sic corr="laid">layd</sic> down to lye in <sic corr="Spotsylvan">Spotsilvan</sic><corr resp="editor">[ia]</corr><lb/>
+and the fork of Cape Leanock Run and all <sic corr="laid">layd</sic> down to <sic corr="lie">lye</sic> in <sic corr="Spotsylvan">Spotsilvan</sic><corr resp="editor">[ia]</corr><lb/>
 County Contrived under these names never heard of before but in reality <lb/>
 According to all <sic corr="Information">Informations</sic> I can get they are only streams Issuing <lb/>
 out of <sic corr="Shenandoah">Chenandoa</sic> and discharge themselves <sic corr="through">thro</sic> it and if <sic corr="Spotsylvania">Spotsilvania</sic> <lb/>
-County be to be Extended to all the Lands on the upper side of <sic corr="Shenandoah">Chenandoa</sic> the <lb/>
+County be to be <add resp="editor"> [<hi rend="italics">sic</hi>]</add>  Extended to all the Lands on the upper side of <sic corr="Shenandoah">Chenandoa</sic> the <lb/>
 great stream of <sic corr="Potomac">Patowmack</sic> which I have often <sic corr="Called">Calld</sic> Cohunkoruta <lb/>
 the Indian name will be its Boundary and will surround to the Westward <lb/>
 all your Lordships Grant I have Said Enough to give your Lordship a Right <lb/>
 Idea of the nature of the place And it may be more then was necessary</p>
 
-<closer><seg type="postscript"><lb/><lb/></seg></closer>
+<closer>
+<seg type="postscript">per <note target="n5">Spotswood</note><lb/><lb/>
+</seg>
+</closer>
 
 
 </div1>
@@ -162,10 +164,18 @@ Idea of the nature of the place And it may be more then was necessary</p>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to persons abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] The Fry-Jefferson map shows the Little Fork as a tributary of the Hedgman (now the Rappahannock) River. It lies in what is probably Culpeper County today, not far from the Blue Ridge. </note>
+<note id="n1">[1] Carter refers to an action of the Council June 11, 1729, that the governor be authorized to continue making grants in the disputed areas of the proprietary until "his Majesty's pleasure be further known." (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:205. </bibl></cit>)</note>
+
+<note id="n2">[2] "The governor's Council, also known as the Council of State or simply the Council, consisted of about a dozen of colonial Virginia's wealthiest and most prominent men. Beginning in the 1630s the Crown appointed Council members. . . . Crown appointments were lifetime appointments. From 1625, when Virginia became a royal colony, until the outbreak of the American Revolution (1775-1783), the Council members advised the royal governor or his deputy, the lieutenant governor, on all executive matters. The Council and the governor together constituted the highest court in the colony, known initially as the Quarter Court and later as the General Court. The Council members also served as members of the General Assembly; from the first meeting of the assembly in 1619 until 1643 the governor, Council members, and burgesses all met in unicameral session. After 1643 the Council members met separately as the upper House of the General Assembly."  (<xref to="http://www.encyclopediavirginia.org/Governor_s_Council_The">"The Governor's Council"</xref> in <title>Encyclopedia Virginia</title>)</note>
+
+ <note id="n3">[3] A caveat is a "process in court (originally in ecclesiastical courts) to suspend proceedings; a notice given by some party to the proper officer not to take a certain step until the party giving the notice has been heard in opposition."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>) </note>
+
+<note id="n4">[4] The Fry-Jefferson map shows the Little Fork as a tributary of the Hedgman (now the Rappahannock) River. It lies in what is probably Culpeper County today, not far from the Blue Ridge. </note>
+
+<note id="n5">[5] The <hi rend="italics">Spotswood</hi> was a  London ship commanded by James Bradby,  1727-1732, and was owned by Micajah Perry.  (<cit><bibl>Adm 68/195, 70r ff., found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. See <xref to="http://carter.lib.virginia.edu/html/C30d16c.html">Carter to Micajah Perry</xref> April 16. 1730.</bibl></cit>)</note>
 
 
-
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised March 25, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 </div1>

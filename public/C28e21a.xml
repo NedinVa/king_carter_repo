@@ -10,7 +10,13 @@
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; 
+
+<!NOTATION html SYSTEM "HTML">
+<!ENTITY Ext6 SYSTEM "http://www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm" NDATA html>
+
+
+]>
 <TEI.2 id="C28e21a">
 
 
@@ -29,7 +35,7 @@
    </respStmt>
 </titleStmt>
 
-<extent>ca.  kilobytes </extent>
+<extent>ca. 7  kilobytes </extent>
 
 <publicationStmt>
      <publisher>University of Virginia Library.</publisher>
@@ -39,7 +45,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,17 +112,16 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
-<date value="1728-05-21">May the 21st: 1728</date><lb/>
+<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1728-05-21">May the 21st: 1728</date><lb/>
 Colonel Braxton<lb/>
 </dateline>
 <salute>Sir&mdash;</salute>
 
 </opener>
 
-<p>Yor. notification of the Arrival of your Negroe <lb/>Ship came last night <note n="MP1">Colonel Page </note>on Saturday writes me Colonel <note target="n1"><sic corr="Digges">Diggs</sic></note> <lb/>and <note target="n2">Mr. Nelson</note> was in daily Expectation of 400 Slaves from the <lb/>Same place the Ship had touchd at <sic corr="Barbados">Barbadoes</sic> and was to Sail <lb/>in a few days Colonel Page I know wants to buy I <sic corr="believe">beleive</sic> amongst <lb/>us we may take at least 30 From you if you will but please <lb/>us in Choice and Price I have two or three hundred Pounds <lb/>Cash that I would have you take in <abbr expan="Payment">Paymt.</abbr> at the <abbr expan="Discount">Disct.</abbr> of &pound;<lb/>15 perCt. I propose before any Sale that you bring <add place="supralinear">yor. Ship</add> up against <lb/>Colonel Page's the <abbr expan="management">managemt.</abbr> of this Affair I <sic corr="wholly">wholy</sic> leave to <lb/>Colonel Page on whom I order your Boy to wait in his way to yor. <lb/>Point. The Cash is at yor. Immediate call The bills of Exchange you <lb/>will not Expect till the return of yor. Ship I am </p>
+<p>Yor. notification of the Arrival of your <sic corr="Negro">Negroe</sic> <lb/>Ship came last night <note n="MP1">Colonel Page </note>on Saturday writes me Colonel <note target="n1"><sic corr="Digges">Diggs</sic></note> <lb/>and <note target="n2">Mr. Nelson</note> was in daily Expectation of 400 Slaves from the <lb/>Same place the Ship had touchd at <sic corr="Barbados">Barbadoes</sic> and was to Sail <lb/>in a few days Colonel Page I know wants to buy I <sic corr="believe">beleive</sic> amongst <lb/>us we may take at least 30 From you if you will but please <lb/>us in Choice and Price I have two or three hundred Pounds <lb/>Cash that I would have you take in <abbr expan="Payment">Paymt.</abbr> at the <abbr expan="Discount">Disct.</abbr> of &pound;<lb/>15 <abbr expan="percent">perCt</abbr>. I propose before any Sale that you bring <add place="supralinear">yor. Ship</add> up against <lb/>Colonel Page's the <abbr expan="management">managemt.</abbr> of this Affair I <sic corr="wholly">wholy</sic> leave to <lb/>Colonel Page on whom I order your Boy to wait in his way to yor. <lb/>Point. The Cash is at yor. Immediate call The <note target="n3">bills of Exchange</note> you <lb/>will not Expect <sic corr="until">till</sic> the return of yor. Ship I am </p>
 
-<closer>Sir&mdash;<lb/>Yor. most humble Servt.</closer>
+<closer>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir&mdash;<lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. most humble Servt.</closer>
 
 
 </div1>
@@ -137,6 +142,11 @@ Colonel Braxton<lb/>
 <note id="n1">[1] Cole Digges (1692-1744) lived at "Bellfield" in York County. He was appointed to the Council in 1719. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 3[1705-1721]: 518,</bibl></cit> and <cit><bibl>Louis B. Wright and Marion Tinling, <hi rend="italics"> eds.</hi> <title> William Byrd of Virginia:  The London Diary (1717-1721) and Other Writings.</title> [New York: Oxford University Press, 1958.] p. 459.</bibl></cit>)</note>
 
 <note id="n2">[2] Thomas Nelson (1667-1745), a resident of Yorktown, was a merchant and was sheriff of York County in 1722 and 1723. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:12,34,184;</bibl></cit> and <cit><bibl n="B30">Greene. <title>The Diary of Colonel Landon Carter. . . .</title>, p. 96.</bibl></cit>)</note>
+
+<note id="n3"> [3] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (<cit><bibl><xref to="Ext6">"Dictionary of  Financial Scam Terms,"</xref> 8/22/2005</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised October 6, 2014,  to add footnotes and strengthen the modern language version text.</hi></note>
+
 
 </div1>
 </back>

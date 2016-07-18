@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2006</date>
+     <date>2006, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -120,18 +120,20 @@ Mr. John Stark<lb/>
 which <sic corr="I'll">I'l</sic> answer in a particular manner by <note target="n2"><abbr expan="Captain">Capt</abbr> Bowman</note>&mdash;</p>
 
 <p>The only business of this is to advise you that I<lb/>
-have this day drawn upon you three hundred Pounds payable to <abbr expan="Colonel">Colo</abbr><lb/>
+have this day <note target="n3">drawn upon you</note> three hundred Pounds payable to <abbr expan="Colonel">Colo</abbr><lb/>
 <note n="MCB">George Braxton</note> which bill I desire <abbr expan="you">yo.</abbr> Punctually to Answer at time<lb/>
-and place to Accot of<lb/>
-Sir
-</p>
+and place to Accot of</p>
 
-<closer><abbr expan="Your">Yr.</abbr> Humble Servant
-<seg type="postscript"><lb/><lb/>Copy Per Bowman<lb/><lb/>
+<closer>
+
+<seg type="postscript">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="Your">Yr.</abbr> Humble Servant
+<seg type="postscript"><lb/><lb/>Copy Per Bowman<lb/><lb/></seg>
 
 <pb n="2"/><lb/><lb/>
-Added to Mr. Starks letter of the 9th. of July 1731.<lb/>
-	August. 7, 1731 &mdash; <lb/><lb/>
+		Added to Mr. Starks letter of the 9th. of July 1731.<lb/>
+								August. 7, 1731 &mdash; <lb/><lb/>
 Sir<lb/>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have abundance of complaints against <abbr expan="your">yr.</abbr> Management<lb/>
 of my Affairs I had once intended to have given <abbr expan="you">yo</abbr> a particular<lb/>
@@ -147,17 +149,19 @@ to allow me the liberty of Shipping what I shall put on board of <lb/>
 him to whom I <abbr expan="pleased">pleas'd</abbr> intending indeed Wholly to discontinue any far= <lb/>
 ther business with you however upon further thoughts not being <lb/>
 Willing to break all at once with You I have Consigned <abbr expan="you">yo</abbr> 17 hogsheads <lb/>
-of <abbr expan="tobacco">tobo</abbr> for which you have here a bill of Lading and <abbr expan="you">yo</abbr> have <lb/>
+of <abbr expan="tobacco">tobo</abbr> for which you have here a <note target="n4">bill of Lading</note> and <abbr expan="you">yo</abbr> have <lb/>
 another for 4 hogsheads more which comes to <abbr expan="you">yo</abbr> upon <note n="JC1">my Son</note> the Secretary's 
 
 <pb n="3"/><lb/><lb/>
 Account and <abbr expan="you">yo</abbr> are to Accot to him for them which is all the troubles <lb/>
-I shall give <abbr expan="you">yo</abbr> at Present from<lb/><lb/>
+I shall give <abbr expan="you">yo</abbr> at Present from<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<lb/>
+<closer>
 Your humble Servt&mdash;&mdash;<lb/><lb/>
 I am indebted to <abbr expan="Captain">Capt</abbr> Bowman twelve shillings sterling<lb/>
-which I desire you to debit my Accot with
-
-</seg></closer>
+which I desire you to debit my Accot with</closer>
+</seg>
+</closer>
 
 
 </div1>
@@ -175,10 +179,15 @@ which I desire you to debit my Accot with
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">1[] John Stark was a merchant, probably the one to whom Carter referred when he wrote to Micajah Perry on 1723 July 4 that he had drawn an order on "Mr. Stark of Glasgow." On that same day, he wrote to a John Stark, referring to Captain Bowman.</note>
+<note id="n1">1[] John Stark was a  prominent Glasgow merchant in the sugar trade. He served as as baillie and provost (mayor) from 1725-1727. (<cit><bibl>John M'ure. <title>The History of Glasgow.</title> [Glasgow: D. Macvean and J. Wyllie &amp; Co., 1830] pp. 227-228</bibl></cit> as seen on Google books; and <cit><bibl>"Provosts of Glasgow" at <xref to="http://www.glasgow.gov.uk/en/AboutGlasgow/LordProvostsmessage/Provosts+of+Glasgow.htm">"Welcome to Glasgow"</xref>.</bibl></cit>)</note>
 
-<note id="n2">[2] Captain Samuel Bowman commanded the <hi rend="italics">Lucia.</hi> Carter mentioned this vessel in his diary in June 1724, and again on 1726 March 4 when he wrote that she "came in had 20 Weeks Passage." From this letter, it appears that the <hi rend="italics">Lucia</hi> probably was owned by Stark.</note>
+<note id="n2">[2] Captain Samuel Bowman commanded the <hi rend="italics">Lucia.</hi> Carter mentioned this vessel in his diary in June 1724, and again on March 4, 1726, when he wrote that she "came in had 20 Weeks Passage."</note>
 
+<note id="n3"> [3] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (See <cit><bibl><xref to="http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm">"Bill of Exchange"</xref> in the online Dictionary of Financial Scam Terms: the Truth vs. the Scam.</bibl></cit>)</note>
+
+<note id="n4"> [4] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was revised November 5, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 </div1>

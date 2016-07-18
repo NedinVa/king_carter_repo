@@ -29,7 +29,7 @@
    </respStmt>
 </titleStmt>
 
-<extent>ca.  kilobytes </extent>
+<extent>ca. 7 kilobytes </extent>
 
 <publicationStmt>
      <publisher>University of Virginia Library.</publisher>
@@ -39,7 +39,8 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015
+</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -102,13 +103,15 @@
 
 <body>
 <div1 type="letter" n="1">
-<head>Letter from Robert Carter to Colonel <note target="n1">Thomas Lee,</note> February 24, 1729</head>
+<head>Letter from Robert Carter to Colonel <note target="n1">Thomas Lee,</note> February 24, 1729
+
+</head>
 <opener>
+
 <dateline>
 <pb n="1"/>
-<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
-<date value="1729-02-24">Febry: 24. 1728/9</date><lb/>
-Colo: Thos: Lee<lb/>
+<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1729-02-24"><abbr expan="February">Febry:</abbr> 24. 1728/9</date><lb/>
+<abbr expan="Colonel">Colo:</abbr> <abbr expan="Thomas">Thos:</abbr> Lee<lb/>
 </dateline>
 
 
@@ -121,9 +124,10 @@ Colo: Thos: Lee<lb/>
 <pb n="2"/><lb/><lb/>
 them to you</p>
 
-<p>It is of the Latest to condole <del>with you upon</del> your d<corr resp="editor">[i]</corr>sm<corr resp="editor">[al]</corr> <lb/>Calamity my own Suffering in the <note target="n2">like nature</note> I do Assur y<corr resp="editor">[ou]</corr> <lb/>makes me Sympathise the more deeply with yours <sic corr="Although">Altho</sic> everyon<corr resp="editor">[e]</corr> <lb/>that wears the Compassion of a Christian cannot but entertain the <lb/>Story with a high regret I am </p>
+<p>It is of the Latest to condole <del>with you upon</del> your d<corr resp="editor">[i]</corr>sm<corr resp="editor">[al]</corr> <lb/>Calamity my own Suffering in the <note target="n2">like nature</note> I do <sic corr="Assure">Assur</sic> y<corr resp="editor">[ou]</corr> <lb/>makes me Sympathise the more deeply with yours <sic corr="Although">Altho</sic> everyon<corr resp="editor">[e]</corr> <lb/>that wears the Compassion of a Christian cannot but entertain the <lb/>Story with a high regret I am </p>
 
-<closer>Sir<lb/><abbr expan="Your">Yr.</abbr> Most humble Servt</closer>
+<closer>
+</closer>
 
 
 </div1>
@@ -141,10 +145,13 @@ them to you</p>
 
 <note>The name of Carter's home, "Corotoman," the county, and colony have been added for clarity to this unheaded draft. </note>
 
-<note id="n1">[1] Thomas Lee (1690-1750) of Westmoreland County was the son of Richard Lee II, and nephew of Edmund Jenings; he would build "Stratford," and succeed Carter on the Council. For a good article on Thomas Lee, see  that <A HREF="http://www.stratfordhall.org/thomas.html?RESEARCH">by Jeanne A. Calhoun </A>on Stratford plantation's website  . (<cit><bibl>Burton J. Hendrick. <title>The Lees of Virginia: Biography of a Family.</title> [Boston: Little Brown, 1935]. pp. 48, 51, etc.</bibl></cit>)</note>
+<note id="n1">[1] Thomas Lee (1690-1750) of Westmoreland County was the son of Richard Lee II, and nephew of Edmund Jenings; he would build "Stratford," and succeed Carter on the Council. For a good article on Thomas Lee, see  "<xref to="http://www.stratfordhall.org/collections-research/staff-research/thomas-lee-of-stratford-1690-1750/">Thomas Lee of Stratford</xref> 1690-1750" by Jeanne A. Calhoun on Stratford plantation's website. (<cit><bibl>Burton J. Hendrick. <title>The Lees of Virginia: Biography of a Family.</title> [Boston: Little Brown, 1935]. pp. 48, 51, etc.</bibl></cit>)</note>
 
-<note id="n2">[2] Carter refers to the fire that burned Lee's house at Machodoc on 1729 January 29 as well as the loss of his own fine new house at Corotoman in late January. The <hi rend="italics">Maryland Gazette</hi>reported that "Col. Thomas Lee's fine House in Virginia was burnt, his Office, barns, and Out-houses: His Plate, Cash (to the Sum of 1000 &pound;) Papers, and every Thing intirely lost ...."  (<cit><bibl>"Thomas Lee of Stratford, 1690-1750: Founder of a Virginia Dynasty." [http://www.stratfordhall.org/thomas.html?RESEARCH. 1/17/2005.]</bibl></cit>; <cit><bibl>See the <hi rend="italics">Maryland Gazette</hi> for 1729 March 25-April 4 for the report of Lee's loss, and the issue of for 1728/29 February 4-11 for Carter's</bibl></cit>; and see also <cit><bibl>Carter's letter of 1729  May 26 to Captain John Hyde &amp; Company.</bibl></cit></note>
+<note id="n2">[2] Carter refers to the fire that burned Lee's house at Machodoc on January 29, 1729, as well as the loss of his own fine new house at Corotoman in late January. The <hi rend="italics">Maryland Gazette</hi>reported that "Col. Thomas Lee's fine House in Virginia was burnt, his Office, barns, and Out-houses: His Plate, Cash (to the Sum of 1000 &pound;) Papers, and every Thing intirely lost . . . ."  For a good article on Thomas Lee, see  that cited in footnote 1. ( See the <cit><bibl> <hi rend="italics">Maryland Gazette</hi> for March 25-April 1, 1729, for the report of Lee's loss.</bibl></cit> See the <hi rend="italics">Maryland Gazette</hi> for February 4-11, 1728/29 for comment on Carter's loss. The Maryland Archives has placed its copies of the  <hi rend="italics">Maryland Gazette</hi> online. Unfortunately, page four of the issue of February 4-11, 1728/29, is missing, and that must be where the notice of the fire at Corotoman appeared; the text is quoted in secondary sources as reading: "The fine large house of Colonel Carter on the Rappahannock was also burnt lately. The particulars of his loss we can't give you, but we are inform'd it is very great." [<cit><bibl><hi rend="italics">Garden Club of Virginia Journal</hi>, May-June 1983, p.8.</bibl></cit>]; and see also <cit><bibl><xref to="http://carter.lib.virginia.edu/html/C29e26a.html">Carter's letter</xref> of  May 26, 1729, to Captain John Hyde &amp; Company.</bibl></cit>)</note>
 
+
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised February 9, 2015,  to  strengthen the modern language version text.</hi></note>
 
 
 

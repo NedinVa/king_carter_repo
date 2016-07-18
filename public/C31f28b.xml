@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2006</date>
+     <date>2006, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -94,7 +94,7 @@
 <title>Letter from Robert Carter to William Dawkins &amp; Company, June 28, 1731</title>
 </bibl>
 </head>
-<p>Robert Carter writes to London merchants William Dawkins &amp; Company, June 28, 1731, to alert tem to a shipment of tobacco and its consignors, and to report on Captain Thomas Dove's work in obtaining cargo in the colony.</p>
+<p>Robert Carter writes to London merchants William Dawkins &amp; Company, June 28, 1731, to alert them to a shipment of tobacco and its consignors, and to report on Captain Thomas Dove's work in obtaining cargo in the colony.</p>
 </div1>                 
 </front>
 
@@ -116,8 +116,8 @@ Mr Wm Dawkins &amp; Compa<lb/>
 
 
 
-<p>This Covers Bills of Lading for the <abbr expan="Tobacco">Tobo</abbr> I consign you by the  <lb/>
-<note target="n1"><name type="ship">Burwell</name></note> Captain Cant, to wit twenty hogsheads belonging to <note n="NB">Mr Bur= <lb/>
+<p>This Covers <note target="n1">Bills of Lading</note> for the <abbr expan="Tobacco">Tobo</abbr> I consign you by the  <lb/>
+<note target="n2"><name type="ship">Burwell</name></note> Captain Cant, to wit twenty hogsheads belonging to <note n="NB">Mr Bur= <lb/>
 well's Estate,</note> twelve <abbr expan="hogsheads">hhds</abbr> of the same Tobaco being <del>Doctor N</del> of the same  <lb/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Crops&mdash; 
 
@@ -128,16 +128,17 @@ in a just Proportion <del>off</del> of the best of the Plantation under the same
 &amp; only distinguished by the Numbers you must take Care to let me have  <lb/>
 a separate Accot according to the Bills of Lading. </p>
 
-<p><note target="n2"><abbr expan="Captain">Capt.</abbr> Dove</note> was with me two days ago, he reckons he has  <lb/>
+<p><note target="n3"><abbr expan="Captain">Capt.</abbr> Dove</note> was with me two days ago, he reckons he has  <lb/>
 better than half his Load in, his Craft is all out; he <sic corr="has">hath</sic> promises  <lb/>
 for more <sic corr="Tobacco">Tobaco</sic> than will fill him, if people dont deceive him; but  <lb/>
 it will be A hard struggle upon him to get all his Load aboard before the  <lb/>
-<note target="n3"><abbr expan="Tobacco">Tobo</abbr> Law</note> takes Place I suppose he takes all Opportunities of writing to  <lb/>
+<note target="n4"><abbr expan="Tobacco">Tobo</abbr> Law</note> takes Place I suppose he takes all Opportunities of writing to  <lb/>
 you. I am 
 </p>
 
-<closer>Gentlemen  <lb/>
-Your most humble Servant&mdash;
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gentlemen  <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your most humble Servant&mdash;
 </closer>
 
 
@@ -156,11 +157,16 @@ Your most humble Servant&mdash;
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] This vessel was commanded by Captain Constantine Cant and may have been owned by William Dawkins and Micajah Perry as Carter reported her December 1723 arrival to each of them. (<cit><bibl>Adm. 68/194-195, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n1"> [1] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
-<note id="n2">[2]A vessel named the <hi rend="italics">Carter</hi> traded to Virginia for many years; she is most often referred to as the <hi rend="italics">Carter Frigatt.</hi> The captain in 1706 was Thomas Graves who is mentioned in the Lancaster County Court Orders Book for judgements against him obtained by Carter. Later, the <hi rend="italics">Carter</hi> would be commanded by Baily Kent, 1718-1721, Thomas Dove, and by Benjamin Graves. She was owned by Carter and William Dawkins in 1720. (<cit><bibl>Survey report 6800 for Adm. 68/194-5, Virginia Colonial Records Project, Albert H. Small Special Collections Library, University of Virginia</bibl></cit>; and Lancaster County Court  Orders Book 5, 1702-13, p. 187, as abstracted in <cit><bibl n="B28">Jones, <title>Orders Book Entries . . . Referring to "Robert Carter. . . . " </title></bibl></cit> )</note>
+<note id="n2">[2] This vessel was commanded by Captain Constantine Cant and may have been owned by William Dawkins and Micajah Perry as Carter reported her December 1723 arrival to each of them. (<cit><bibl>Adm. 68/194-195, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
-<note id="n3">[3] Carter refers to the tobacco inspection act of  1730 introduced and steered through the legislature by Lieutenant Governor Sir William Gooch. " The "bill called for the inspection and bonding at public warehouses of all tobacco shipped abroad; for the destruction of all unacceptable tobacco; for standardization of the size of hogsheads . . . ; for maintenance of detailed records to prevent smuggling; and for the circulation of warehouse receipts as legal tender in lieu of tobacco iteself. . . ." Gooch also managed to obtain approval of the act in England. It went into effect 1731 August 1.(<cit><bibl n="B27">Billings. <hi rend="italics">et al. </hi> <title>Colonial Virginia: A History. </title></bibl></cit> pp. 236-39.)</note>
+<note id="n3">[3]A vessel named the <hi rend="italics">Carter</hi> traded to Virginia for many years; she is most often referred to as the <hi rend="italics">Carter Frigatt.</hi> The captain in 1706 was Thomas Graves who is mentioned in the Lancaster County Court Orders Book for judgements against him obtained by Carter. Later, the <hi rend="italics">Carter</hi> would be commanded by Baily Kent, 1718-1721, Thomas Dove, and by Benjamin Graves. She was owned by Carter and William Dawkins in 1720. (<cit><bibl>Survey report 6800 for Adm. 68/194-5, Virginia Colonial Records Project, Albert H. Small Special Collections Library, University of Virginia</bibl></cit>; and Lancaster County Court  Orders Book 5, 1702-13, p. 187, as abstracted in <cit><bibl n="B28">Jones, <title>Orders Book Entries . . . Referring to "Robert Carter. . . . " </title></bibl></cit> )</note>
+
+<note id="n3">[3] Carter refers to the tobacco inspection act of  1730 introduced and steered through the legislature by Lieutenant Governor Sir William Gooch. " The "bill called for the inspection and bonding at public warehouses of all tobacco shipped abroad; for the destruction of all unacceptable tobacco; for standardization of the size of hogsheads . . . ; for maintenance of detailed records to prevent smuggling; and for the circulation of warehouse receipts as legal tender in lieu of tobacco iteself. . . ." Gooch also managed to obtain approval of the act in England. It went into effect August 1, 1731.(<cit><bibl n="B27">Billings. <hi rend="italics">et al. </hi> <title>Colonial Virginia: A History. </title></bibl></cit> pp. 236-39.)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised October 8, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
+
 
 </div1>
 </back>

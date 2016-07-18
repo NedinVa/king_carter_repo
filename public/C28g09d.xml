@@ -10,7 +10,12 @@
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+
+<!NOTATION html SYSTEM "HTML">
+<!ENTITY Ext6 SYSTEM "http://www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm" NDATA html>
+
+ ]>
 <TEI.2 id="C28g09d">
 
 
@@ -39,7 +44,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -116,14 +121,21 @@ Mr. John Gale<lb/>
 
 
 
-<p>I <abbr expan="received">rec'd</abbr> <abbr expan="yorus">yors:</abbr> of the 6th: of <abbr expan="October">Octor:</abbr> with yor: Accot. of <lb/>Sales of my 12 hogsheads per the <name type="ship">Crown</name>. which pleases me very well and <lb/>Seeing you discourage it and no <sic corr="freight">freit</sic> offering to yor. Parts this year <lb/>I Shall go <sic corr="near">neer</sic> to draw for my ballance in yor. hands in a little time <lb/>notwithstanding when ever Opportunity offers I Shall Still be <lb/>desirous of <sic corr="Continuing">Continueing</sic> a Correspondency with you. <note target="n2"><abbr expan="Captain">Capt:</abbr> Bow<lb/>man</note> now at my house gives me this Opprotunity The news <lb/>of the Country he will best tell you Our Vital Commodity is be be<lb/>come a very despicable one and yet <sic corr="we">wee</sic> have no other way to <lb/>turn our Labours for our Subsistance I wish you happy &amp; am 
+<p>I <abbr expan="received">rec'd</abbr> <abbr expan="yours">yors:</abbr> of the 6th: of <abbr expan="October">Octor:</abbr> with yor: Accot. of <lb/>Sales of my 12 hogsheads per the <name type="ship">Crown</name>. which pleases me very well and <lb/>Seeing you discourage it and no <sic corr="freight">freit</sic> offering to <note target="n2">yor. Parts</note> this year <lb/>I Shall go <sic corr="near">neer</sic> to draw for my <sic corr="balance">ballance</sic> in yor. hands in a little time <lb/>notwithstanding when ever Opportunity offers I Shall Still be <lb/>desirous of <sic corr="Continuing">Continueing</sic> a <sic corr="Correspondence">Correspondency</sic> with you. <note target="n3"><abbr expan="Captain">Capt:</abbr> Bow<lb/>man</note> now at my house gives me this Opprotunity The news <lb/>of the Country he will best tell you Our Vital Commodity is be be<lb/>come a very despicable one and yet <sic corr="we">wee</sic> have no other way to <lb/>turn our Labours for our Subsistance I wish you happy &amp; am 
 </p>
 
-<closer>Sir&mdash;<lb/>Yor: most humble Servt:<lb/><lb/>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir&mdash;<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor: most humble Servt:<lb/><lb/>
+</closer>
 
-<seg type="postscript">Bowman  <lb/></seg><lb/><lb/>
-<add place="margintop"><seg type="postscript">herein are to two <add resp="editor"> [<hi rend="italics">sic</hi>]</add> bills of <lb/>Exchange to wit <abbr expan="Alexander">Alexr.</abbr> Christie on <abbr expan="James">Jas.</abbr> Blair &amp; Company for &pound;45 <lb/>&amp; John <sic corr="Steptoe">Stepto</sic> on John Zuil for &pound;7"10 which desire your <lb/><abbr expan="management">managemt.</abbr> of&mdash;
-<lb/><lb/>Bowman <lb/>Copy Sent to York</seg></add></closer>
+<seg type="postscript">Bowman</seg>
+
+<seg type="postscript"><lb/><lb/>
+
+<add place="margintop"><seg type="postscript">herein are to two <add resp="editor"> [<hi rend="italics">sic</hi>]</add> <note target="n3">bills of <lb/>Exchange</note> to wit <abbr expan="Alexander">Alexr.</abbr> Christie on <abbr expan="James">Jas.</abbr> Blair &amp; Company for &pound;45 <lb/>&amp; John <sic corr="Steptoe">Stepto</sic> on John Zuil for &pound;7"10 which desire your <lb/><abbr expan="management">managemt.</abbr> of&mdash;
+<lb/><lb/>Bowman <lb/>Copy Sent to York</seg></add></seg>
+
 
 
 </div1>
@@ -143,12 +155,15 @@ Mr. John Gale<lb/>
 
 <note>The second post script was written in around the return address and salutation at the top of the page.</note>
 
-<note id="n1">[1] John Gale was a Glasgow merchant about whom has little been discovered. Carter would write him several times in the period 1727-1729.</note>
+<note id="n1">[1] John Gale (<hi rend="italics">ante</hi> 1671-1729) was a Whithaven merchant whom Carter would write a number of times times between1720 and 1729. "Like his brothers John was engaged in maritime trade. Operating as John Gale and Company, he was named as the owner of the vessel <hi rend="italics">Clotilda,</hi> built in England in 1726 and registered in Whitehaven in 1727 at 25 tons." The Gale family had many connections with the colonies, especially in Virginia and Maryland. <cit><bibl>(Gayle N.Mandell, <xref to="http://gale-gaylefamilies.com/john-gayle-the-elder-whitehaven-cumberland.html">"The Gale/Gayle Families,"</xref> extensive genealogical and historical notes available online.</bibl></cit>)</note>
+
+<note id="n2">[2] Gale was located in "Whitehaven [which] is a small town and port on the coast of Cumbria, England. Historically a part of Cumberland, it lies equidistant between Cumbria's two largest settlements, Carlisle and Barrow-in-Furness. . . ." (<xref to="http://en.wikipedia.org/wiki/Whitehaven">"Whitehaven"</xref> in Wikipedia.)</note>
 
 <note id="n2">[2] Captain Samuel Bowman commanded the <hi rend="italics">Lucia.</hi> Carter mentioned this vessel in his diary in June 1724, and again on 1726 March 4 when he wrote that she "came in had 20 Weeks Passage."</note>
 
+<note id="n3"> [3] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (<cit><bibl><xref to="Ext6">"Dictionary of  Financial Scam Terms,"</xref> 8/22/2005</bibl></cit>)</note>
 
-
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised November 20, 2014,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 

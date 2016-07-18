@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C28h09e">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to Andrew Ramsay, August 9, 1728</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 6 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C28h09e.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2004</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to Andrew Ramsay, August 9, 1728</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1728-08-09</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C28h09eT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1728-08-09"></date>
+<idno rend="suppress">C28h09e.xml</idno>
+<title>Letter from Robert Carter to Andrew Ramsay, August 9, 1728</title>
+</bibl>
+</head>
+<p>Robert Carter writes a hurried note to Glasgow merchant Andrew Ramsay, August 9, 1728, to report that he has received an account of the sales of 2 hogsheads of tobacco and receipt of 4 more, but believes he has sent 4 additional. He will write more politely the next time.</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note target="n1">Andrew Ramsay</note>, August 9, 1728</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;
+<date value="1728-08-09">Augst. 9th. 1728</date><lb/>
+Mr. Andrew <sic corr="Ramsay">Ramsey</sic><lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+
+
+<p>This comes by <abbr expan="Captain">Capt:</abbr> Sharp have <abbr expan="received">rec'd</abbr> your <lb/>Accot: of my 2 hogsheads and also your <abbr expan="Acknowledgement">Acknewledgemt.</abbr> of yor: receipt <lb/>of 4 more complaining of a very dull market our Commodity <lb/>was under I am not Certain but according to my present <abbr expan="thoughts">thots:</abbr> there <lb/>is 4 hogsheads more <sic corr="gone">gon</sic> to you from <sic corr="Potomac">Patowmack</sic> this Spring I have not <lb/>time now to <sic corr="Satisfy">Satisfye</sic> my Self of the Contents of your Letters or of <lb/>my own from <sic corr="Potomac">Patowmack</sic> am in hurry and Sharp in mighty <lb/><sic corr="haste">hast</sic> Therefore desire you will Excuse my abruptness at this time <lb/>In my next will <abbr expan="Endeavor">Endeavr.</abbr> to be more Considerate I am </p>
+
+<closer>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir&mdash;<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. very humble Servt.
+
+<seg type="postscript"><lb/><lb/>per Sharp</seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1"> [1] Andrew Ramsay was a Glasgow merchant, provost of that city, 1734-1736.  His son Patrick emigrted to Virginia..  <cit><bibl>(L. W. Hanson. <title>Contemporary Printed Sources for British and Irish Economic History, 1701-1750.</title> [Cambridge University Preess, 1963]. 4093</bibl></cit>; and <cit><bibl>Philip Slaughter. <title> A History of Bristol Parish, Virginia, with Genealogies. . . . </title> [Richmond: Randolph &amp; English, 1879], p. 210</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised December 12, 2014,  to add footnotes and strengthen the modern language version text.</hi></note>
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -88,7 +88,7 @@
 <head>
 <bibl>
 <abbr>AL</abbr>
-<extent> p.</extent>
+<extent>1 p.</extent>
 <date value="1728-07-22"></date>
 <idno rend="suppress">C28g22b.xml</idno>
 <title>Letter from Robert Carter to Messrs. Haswell and Brooks, July 22, 1728</title>
@@ -106,8 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
-<date value="1728-07-22">July the 22d 1728</date><lb/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1728-07-22">July the 22d 1728</date><lb/>
 Messrs. Haswell &amp; Brooks<lb/>
 </dateline>
 
@@ -117,7 +116,12 @@ Messrs. Haswell &amp; Brooks<lb/>
 <p>My last was of the Eighth Instant this <lb/>Serves to <sic corr="enclose">inclose</sic> an Invoice for a <sic corr="parcel">parcell</sic> of Goods the Buying &amp; <lb/><sic corr="Shipping">Shiping</sic> whereof I desire you will observe the directions gi-<lb/>ven By the <note n="CS"><name type="ship">Carter</name></note> will be <abbr expan="your">yr:</abbr> Next entertainment from 
 </p>
 
-<closer>Gent: <lb/>Yor: Most Humble Servant<seg type="postscript"><lb/><lb/>Sent to York
+<closer>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gent: <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor: Most Humble Servant
+
+<seg type="postscript"><lb/><lb/>
+
+Sent to York
 <lb/>Copy per Carter</seg></closer>
 
 
@@ -136,8 +140,10 @@ Messrs. Haswell &amp; Brooks<lb/>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
 
-<note id="n1">[1] Haswell and Brooks may have been a London firm for a 1740 directory of that city lists a Samuel Haswell, a London Assurance director in Suffolk Lane. There are several men of the name "Brooks" in the directory including a Christopher Brooks, a ship broker, also located in Suffolk Lane. (<cit><bibl> <title>A Compleat Guide to All Persons who have any Trade or Concern with the City of London and Ports adjacent. . . .</title> London: Printed for J. Osborn, at the Golden Ball in Pater-noster-row, MDXXXL</bibl></cit>)</note>
+<note id="n1">[1] Haswell and Brooks was a London firm listed in 1740 directories of that city. Samuel Haswell was a London Assurance director in Suffolk Lane. John Brooks' obituary appeared in the <title>Pennsylvania Gazette,</title> May 8, 1740, where his partnership with Haswell was noted and that he had been "formerly Commander of the George, in the Virginia Trade." (<cit><bibl> <title>A Compleat Guide to All Persons who have any Trade or Concern with the City of London and Ports adjacent. . . .</title> London: Printed for J. Osborn, at the Golden Ball in Pater-noster-row, MDXXXL</bibl></cit>; and  <cit><bibl><title>Kent's Directory For the Year 1740 Containing An Alphabetical List of the Names and Places of Abode of the Directors of Companies, Persons in Publick Business, Merchants, and other Eminent Traders in the Cities of London and Westminster, and the Borough of Southwark.</title>  London: Printed and Sold by Henry Kent in Finch-Lane, near the Royal Exchange: and by the Booksellers and Pamphlets Shops of London and Westminster, 1740.
+http://freepages.history.rootsweb.com/~frpayments/KD1740/AB.htm. 8/12/2005. p. 39.</bibl></cit> Brooks' obituary courtesy of Todd A. Farmerie, 1/21/2013.)</note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised November 24, 2014,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 

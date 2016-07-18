@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -117,7 +117,14 @@ William Hall<lb/>
 
 <p><note target="n2">Mr Warner </note><sic corr="has">hath</sic> now <sic corr="returned">return'd</sic> a Survey of the land you had <lb/>a <sic corr="Warrant">Warrt</sic> for upon <note target="n3">Pohick</note> Mr <note target="n4"><abbr expan="John">Jno.</abbr> Mercer:</note> of your county <sic corr="has">hath</sic> desired a <note target="n5">Caveat</note> <lb/>might be <abbr expan="entered">enter'd</abbr> against a deeds passing for this Land I have appointed some <lb/>time between this and the 15th of April next for the hearing of this Caveat <lb/>Mr: Mercer and you must agree the time of your coming down here if you <lb/>are to take notice from you</p>
 
-<closer>Your friend to serve you <seg type="postscript"><lb/><lb/>The same letter to be <sic corr="written">writ</sic> to Simon Connel</seg></closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your friend to serve you <seg type="postscript"><lb/><lb/>
+
+
+
+The same letter to be <sic corr="written">writ</sic> to <note target="n6">Simon Connel</note>
+</seg>
+</closer>
 
 
 </div1>
@@ -135,16 +142,19 @@ William Hall<lb/>
 
 <note>The county and colony have been added for clarity to the heading on this draft.</note>
 
-<note id="n1">[1] William Hall may have been a resident of Stafford County because that is where John Mercer lived at the time. See Carter's <xref doc="C29b07b">letter to Mercer</xref> this same day.</note>
+<note id="n1">[1] William Hall may have been a resident of Stafford County because that is where John Mercer lived at the time. See Carter's <xref to="http://carter.lib.virginia.edu/html/C29b07b.html">letter to Mercer</xref> this same day.</note>
 
 <note id="n2">[2] John Warner was the surveyor of King George County in 1727; he laid off the town of Falmouth in 1728. Later he worked for Lord Fairfax, and prepared an important map of his holdings. (<cit><bibl n="B4">Harrison,  <title>Landmarks of Old Prince William</title>, 626-628.</bibl></cit>)</note>
 
 <note id="n3">[3] Pohick Creek is located in today's Fairfax County and runs northwest to southeast passing just south of the town of Lorton and emptying into Gunston Cove off the Potomac River.  In Carter's time, this area was part of Stafford County. (<cit><bibl>Alexandria Drafting Company. <title>Regional Northern Virginia.</title> [Alexandria, VA: Alexandria Drafting Company, 2002.] p. 12. </bibl></cit>)</note>
 
-<note id="n4">[4] John Mercer (1704-1768) emigrated from Ireland where he had been trained as an attorney. "He settled at Marlboroughtown [in then Stafford County] in 1726 as a practicing attorney and at once allowed a facile pen to get him into trouble with the government." He eventually lost his license to practice law, and turned to the land speculation that he had begun as soon as he reached Virginia. "He married first on June 10, 1725 Catherine Mason (June 21, 1707-June 15, 1750) only child of Colonel George Mason (16??-1716) and his second wife Elizabeth Waugh, daughter of the Reverend Mr. John Waugh."(<cit><bibl n="B4">Harrison. <title>Landmarks of Old Prince William</title> p. 315;</bibl></cit>  <cit><bibl n="B24">Copeland and MacMaster. <title>The Five George Masons.</title></bibl></cit>; and "John Mercer."  http://www.rootsweb.com/~vastaffo/johnmercer.htm  11/4/03)</note>
+<note id="n4">[4] John Mercer (1704-1768) emigrated from Ireland where he had been trained as an attorney. "He settled at Marlboroughtown [in then Stafford County] in 1726 as a practicing attorney and at once allowed a facile pen to get him into trouble with the government." He eventually lost his license to practice law, and turned to the land speculation that he had begun as soon as he reached Virginia. "He married first on June 10, 1725 Catherine Mason (June 21, 1707-June 15, 1750) only child of Colonel George Mason (16??-1716) and his second wife Elizabeth Waugh, daughter of the Reverend Mr. John Waugh."(<cit><bibl n="B4">Harrison. <title>Landmarks of Old Prince William</title> p. 315;</bibl></cit>  <cit><bibl n="B24">Copeland and MacMaster. <title>The Five George Masons.</title></bibl></cit>;  and <xref to="http://www.rootsweb.ancestry.com/~vastaffo/johnmercer.htm">"John Mercer."</xref>)</note>
 
-<note id="n5">[5] A caveat is a  "formal notice filed with a court or officer to suspend a proceeding until filer is given a hearing . . .  a warning against certain acts." (<cit><bibl>"Meaning of CAVEAT." hyperdictionary. http://www.hyperdictionary.com/dictionary.</bibl></cit>)</note>
+<note id="n5">[5] A caveat is a "process in court (originally in ecclesiastical courts) to suspend proceedings; a notice given by some party to the proper officer not to take a certain step until the party giving the notice has been heard in opposition."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>) </note>
 
+<note id="n6">[6] Simon Connel was a resident of Staffords County. (See <xref to="http://archiver.rootsweb.ancestry.com/th/read/CORNWELL/2008-02/1201918176">"Cornwell-L Archives."</xref>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised January 27, 2015,  to  strengthen the footnotes and the modern language version text.</hi></note>
 
 
 

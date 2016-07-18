@@ -10,7 +10,12 @@
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; 
+
+<!NOTATION html SYSTEM "HTML">
+<!ENTITY Ext6 SYSTEM "http://www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm" NDATA html>
+
+]>
 <TEI.2 id="C28h27a">
 
 
@@ -39,7 +44,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,24 +111,29 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place"><add resp="editor">[Rappahannock, Lancaster County, Virginia]</add></name><lb/>
-<date value="1728-08-27">Augst. the. 27th. 1728</date><lb/>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Add to Mr. Dawkins Letter Augst. 6th: 1728 Bills &amp; Draft</p><lb/>
+
+<name type="place"><add resp="editor">[Rappahannock, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1728-08-27">Augst. the. 27th. 1728</date><lb/>
 </dateline>
 <salute>Sir&mdash;</salute>
 
 </opener>
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Add to Mr. Dawkins Letter Augst. 6th: 1728 Bills &amp; Draft</p>
 
-<p>Two days ago I <abbr expan="received">recd</abbr> your Letters under the Care of Colonel <lb/>Darnell via <abbr expan="Maryland">Maryld.</abbr> One to myself the other to <note n="MP1">Colonel Page</note> and I <lb/>Enclosing the Sale of 28 hogsheads belonging to <note n="NB">Mr. Burwells</note> Estate <add place="supralinear">By the <name type="ship">Baily</name></add> before the <lb/><note n="CS"><name type="ship">Carter</name></note> left us I had your Sale of the 20 hogsheads Sent you by the <note target="n1">Spotswood</note> <lb/>in both these Accots. I find you have charged 3 <abbr expan="per cent">perCt.</abbr> Commission from <lb/>what hurr<corr resp="editor">[...]</corr> proceeds I cant tell or what you mean by it I must <lb/>be so b<corr resp="editor">[old ...]</corr> to let you know I cannot Set down Contented <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;under it 
+<p>Two days ago I <abbr expan="received">recd</abbr> your Letters under the Care of Colonel <lb/>Darnell via <abbr expan="Maryland">Maryld.</abbr> One to myself the other to <note n="MP1">Colonel Page</note> and I <lb/>Enclosing the Sale of 28 hogsheads belonging to <note n="NB">Mr. Burwells</note> Estate <add place="supralinear">By the <note target="n1"><name type="ship"><sic corr="Bailey">Baily</sic></name></note></add> before the <lb/><note n="CS"><name type="ship">Carter</name></note> left us I had your Sale of the 20 hogsheads Sent you by the <note target="n2">Spotswood</note> <lb/>in both these Accots. I find you have charged 3 <abbr expan="per cent">perCt.</abbr> Commission from <lb/>what hurr<corr resp="editor">[ . . . ]</corr> proceeds I cant tell or what you mean by it I must <lb/>be so b<corr resp="editor">[old . . . ]</corr> to let you know I cannot Set down Contented <lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;under it 
 
 <pb n="2"/><lb/><lb/>
 but this you knew from me long before now therefore pray let right be <lb/>done to these Accots: that <sic corr="we">wee</sic> may not enter into any new discords</p>
 
-<p>herein Send you three first bills of Exchange <note n="RC2"><abbr expan="Robert">Robt.</abbr> Carter</note> <lb/><abbr expan="Junior">Junr.</abbr> on yourself for &pound;88. <abbr expan="Charles">Chas</abbr> Fallin on <abbr expan="Captain">Capt.</abbr> John Sharp <name type="city">White<lb/>haven</name> &pound;10"17"11 <abbr expan="Elizabeth">Eliza.</abbr> Nelmes on G. Buck of <name type="city">Biddiford</name> for &pound;3"- <lb/>which request yor. <abbr expan="management">managemt.</abbr> of, Two days after the Carter left us <sic corr="we">wee</sic> <lb/>had a violent Storm it was but Short She must ride it in the Bay <lb/>have heard nothing of her Since hope She <abbr expan="received">recd</abbr> no damage I am 
+<p>herein Send you three first <note target="n3">bills of Exchange</note> <note n="RC2"><abbr expan="Robert">Robt.</abbr> Carter</note> <lb/><abbr expan="Junior">Junr.</abbr> on yourself for &pound;88. <abbr expan="Charles">Chas</abbr> Fallin on <abbr expan="Captain">Capt.</abbr> John Sharp <name type="city">White<lb/>haven</name> &pound;10"17"11 <abbr expan="Elizabeth">Eliza.</abbr> Nelmes on G. Buck of <name type="city">Biddiford</name> for &pound;3"- <lb/>which request yor. <abbr expan="management">managemt.</abbr> of, Two days after the Carter left us <sic corr="we">wee</sic> <lb/>had a violent Storm it was but Short She must ride it in the <note target="n4">Bay</note> <lb/>have heard nothing of her Since hope She <abbr expan="received">recd</abbr> no damage I am 
 </p>
 
-<closer><seg type="postscript">Sir&mdash;<lb/>Yor. very humble Servt.<lb/><lb/>per <note target="n2"><abbr expan="Captain">Capt:</abbr> Willcox</note></seg></closer>
+<closer><seg type="postscript">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir&mdash;<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. very humble Servt.<lb/><lb/><lb/>
+
+per <note target="n5"><abbr expan="Captain">Capt:</abbr> Willcox</note></seg></closer>
 
 
 </div1>
@@ -141,10 +151,18 @@ but this you knew from me long before now therefore pray let right be <lb/>done 
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
 
-<note id="n1">[1] This London ship was commanded by James Bradby, 1727-1732.  (Adm 68/195, 70r ff., found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.)</note>
+<note id="n1">[1] The <hi rend="italics">Bailey</hi> was a London ship owned by William Dawkins and commanded at various times by Adam Graves (1725-1730) and by Thomas Dove (1731-1732). She was a vessel of some 250 tons and carried 15-17 crew members. (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, 156v, and other data in Adm. 68/194 and /196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> A letter of Carter's to Dawkins <xref to="http://carter.lib.virginia.edu/html/C32e12b.html">May 12, 1732,</xref> refers to "your ship Bailey." as does a letter of August 10, 1733, from Carter's executors to Dawkins. [<cit><bibl>Lloyd T. Smith, Jr., <hi rend="italics">ed.</hi> <title>The Executors' Letters of Robert Carter of Corotoman, 1732-1738. </title> (Irvington, VA: Foundation for Historic Christ  Church, 2010) p. 76].</bibl></cit>)</note>
 
-<note id="n2">[2] No information about Captain Willcox has been located.</note>
+ <note id="n2">[2] The <hi rend="italics">Spotswood</hi> was a  London ship commanded by James Bradby,  1727-1732, and was owned by Micajah Perry.  (<cit><bibl>Adm 68/195, 70r ff., found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. See <xref to="http://carter.lib.virginia.edu/html/C30d16c.html">Carter to Micajah Perry</xref> April 16. 1730.</bibl></cit>)</note>
 
+<note id="n3"> [3] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (<cit><bibl><xref to="Ext6">"Dictionary of  Financial Scam Terms,"</xref> 8/22/2005</bibl></cit>)</note>
+
+<note id="n4">[4] Chesaxpeake Bay </note>
+
+
+<note id="n5">[5] No information about Captain Willcox has been located.</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised December 18, 2014,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 

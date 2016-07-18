@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,7 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;
 <date value="1729-05-30">May the 30th. 1729</date><lb/>
 Messrs. Haswell &amp; Brooks,<lb/>
 </dateline>
@@ -114,10 +114,12 @@ Messrs. Haswell &amp; Brooks,<lb/>
 
 </opener>
 
-<p>My last Carried a bill of Lading for 20 hogsheads of my <lb/>Crop <abbr expan="Tobacco">Tobbo:</abbr>
- on board the <name type="ship">Cambridge</name> <abbr expan="Captain">Capt.</abbr> <note target="n2"><abbr expan="Christopher">Chrisr.</abbr> Brooks.</note> This is only to bring <lb/>You another bill of Lading for 30 hogsheads on board the <sic corr="Willis">Williss</sic> <note target="n3"><abbr expan="Captain">Capt.</abbr><abbr expan="Colonel">Collo</abbr> Cobb</note> <lb/>They are also of my own Crops I am in hopes you may so manage the <lb/>Sales of these two <sic corr="parcels">parcells</sic> by the Distance of time they go away in that <lb/>you may think it proper to allow me the full discounts <sic corr="although">altho</sic> my Cash <lb/>Should not Entirely Answer for the Customs of both these <sic corr="parcels">parcells</sic> I <del>should</del><lb/><add place="supralinear">Intend to </add>write for Some Goods when our Fleet Sails I Shall Conclude at present </p>
+<p>My last Carried a <note target="n2">bill of Lading</note> for 20 hogsheads of my <lb/>Crop <abbr expan="Tobacco">Tobbo:</abbr>  on board the <name type="ship">Cambridge</name> <abbr expan="Captain">Capt.</abbr> <note target="n3"><abbr expan="Christopher">Chrisr.</abbr> Brooks.</note> This is only to bring <lb/>You another bill of Lading for 30 hogsheads on board the<name type="ship"> <sic corr="Willis">Williss</sic></name> <note target="n4"><abbr expan="Captain">Capt.</abbr>Cobb</note> <lb/>They are also of my own Crops I am in hopes you may so manage the <lb/>Sales of these two <sic corr="parcels">parcells</sic> by the Distance of time they go away in that <lb/>you may think it proper to allow me the full discounts <sic corr="although">altho</sic> my Cash <lb/>Should not Entirely Answer for the Customs of both these <sic corr="parcels">parcells</sic> I <del>should</del><lb/><add place="supralinear">Intend to </add>write for Some Goods when our Fleet Sails I Shall Conclude at present </p>
 
-<closer><abbr expan="Gentlemen">Gent </abbr><lb/>Yor. most humble Servt:</closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="Gentlemen">Gent </abbr><lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp3Yor. most humble Servt:
+</closer>
 
 
 </div1>
@@ -135,17 +137,15 @@ Messrs. Haswell &amp; Brooks,<lb/>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
 
-<note id="n1">[1] Haswell and Brooks may have been a London firm for a 1740 directory of that city lists a Samuel Haswell, a London Assurance director in Suffolk Lane. There are several men of the name "Brooks" in the directory including a Christopher Brooks, a ship broker, also located in Suffolk Lane. (<cit><bibl> <title>A Compleat Guide to All Persons who have any Trade or Concern with the City of London and Ports adjacent. . . .</title> London: Printed for J. Osborn, at the Golden Ball in Pater-noster-row, MDXXXL</bibl></cit>)</note>
+<note id="n1">[1] Haswell and Brooks was a London firm listed in 1740 directories of that city. Samuel Haswell was a London Assurance director in Suffolk Lane. John Brooks' obituary appeared in the <title>Pennsylvania Gazette,</title> May 8, 1740, where his partnership with Haswell was noted and that he had been "formerly Commander of the George, in the Virginia Trade." ( <cit><bibl> <title>A Compleat Guide to All Persons who have any Trade or Concern with the City of London and Ports adjacent. . . .</title> London: Printed for J. Osborn, at the Golden Ball in Pater-noster-row, MDXXXL</bibl></cit>; and online abstract list of entries from <cit><bibl><title><xref to="http://freepages.history.rootsweb.ancestry.com/~frpayments/KD1740/HIJK.htm">Kent's Directory</xref> For the Year 1740 Containing An Alphabetical List of the Names and Places of Abode of the Directors of Companies, Persons in Publick Business, Merchants, and other Eminent Traders in the Cities of London and Westminster, and the Borough of Southwark.</title>  London: Printed and Sold by Henry Kent in Finch-Lane, near the Royal Exchange: and by the Booksellers and Pamphlets Shops of London and Westminster, 1740. p. 39.</bibl></cit> Brooks' obituary courtesy of Todd A. Farmerie, 1/21/2013.)</note>
 
-<note id="n2">[2] Christopher Brooks commanded the <name type="ship">Cambridge,</name> a vessel of 100 tons and 11 men owned by London merchants Haswell and Brooks in 1729. (<cit><bibl>Survey Report 6801 summarizing Adm. 68/195, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n2"> [2] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
-<note id="n3">[3] A Captain John Cobb commanded the <hi rend="italics">Willis</hi>, a ship of 300 tons with 20 men, in 1727-28. The ship was owned by merchants Haswell and Brooks which may have been a London firm.  (<cit><bibl>Survey Report 6801 on Adm. 68/194-5, ff. 4r, Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n3">[3] Christopher Brooks commanded the Cambridge, a vessel of 100 tons and 11 men owned by London merchants Haswell and Brooks in 1729. (<cit><bibl>Survey Report 6801 summarizing Adm. 68/195, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
+<note id="n4">[4] A Captain John Cobb commanded the <hi rend="italics">Willis</hi>, a ship of 300 tons with 20 men, in 1727-28. The ship was owned by merchants Haswell and Brooks, a London firm.  (<cit><bibl>Survey Report 6801 on Adm. 68/194-5, ff. 4r, Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
-
-
-
-
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised February 26, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 </div1>
 </back>

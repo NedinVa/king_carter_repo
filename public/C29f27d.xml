@@ -29,7 +29,7 @@
    </respStmt>
 </titleStmt>
 
-<extent>ca.  kilobytes </extent>
+<extent>ca. 6  kilobytes </extent>
 
 <publicationStmt>
      <publisher>University of Virginia Library.</publisher>
@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,18 +106,17 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1729-06-27">June 27th. 1729</date><lb/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1729-06-27">June 27th. 1729</date><lb/>
 Capt. John Hyde &amp; Company<lb/>
 </dateline>
 <salute>Gent&mdash;</salute>
 
 </opener>
 
-<p>I writ to you by <note target="n1"><abbr expan="Captain">Capt.</abbr>. Woodward</note> by whom sent <abbr expan="you">yu.</abbr><lb/>
-40 hhds. of <abbr expan="Tobacco">Tobbo:</abbr> then advised you of a bill of Exchange I had drawn on you<lb/>
+<p>I <sic corr="writ">wrote</sic> to you by <note target="n1"><abbr expan="Captain">Capt.</abbr>. Woodward</note> by whom sent <abbr expan="you">yu.</abbr><lb/>
+40 hhds. of <abbr expan="Tobacco">Tobbo:</abbr> then advised you of a <note target="n2">bill of Exchange</note> I had drawn on you<lb/>
 for&pound;40 <add place="supralinear">12:3</add> to him also desired your orders by him to <sic corr="Madeira ">Madera </sic>next year for<lb/>
-2 Pipes of the best wine and <sic corr="mentioned">mention</sic> some other things to which I desire <lb/>
+2 <note target="n3">Pipes</note> of the best wine and <sic corr="mentioned">mention</sic> some other things to which I desire <lb/>
 You to be <sic corr="referred">referrd</sic>.</p>
 
 <p>	Now I send you an Invoice for some things for my 3<lb/>
@@ -125,27 +124,31 @@ Younger Children in the buying and <sic corr="shipping">shiping</sic> them I des
 therein given may be followed,</p>
 
 <p>Herein I send you 2 small bills of Exchange one of <abbr expan="Charles">Chas:</abbr><lb/>
-Broadwaters for &pound;3"1"1 the other of <note target="n2"><abbr expan="Charles">Chas:</abbr> Lee's</note> for &pound;5"6"- both upon yor.<lb/>
+Broadwaters for &pound;3"1"1 the other of <note target="n4"><abbr expan="Charles">Chas:</abbr> Lee's</note> for &pound;5"6"- both upon yor.<lb/>
 selves which I desire Credit for.</p>
 
-<p>Herein comes to you a bill of Lading for 10 hhds.<lb/>
+<p>Herein comes to you a <note target="n5">bill of Lading</note> for 10 hhds.<lb/>
 belonging to the <note n="NB"><abbr expan="Nathaniel Burwell's">NBs:</abbr></note> Estate, you have the last years Crop of that Plantation<lb/>
-to Accot. for as also all the <abbr expan="Tobacco">Tobbo.</abbr> I sent you last year. Yor. sales of the<lb/>
+to Accot. for as <del>also</del> also all the <abbr expan="Tobacco">Tobbo.</abbr> I sent you last year. Yor. Sales of the<lb/>
 York river <abbr expan="Tobacco">Tobbo:</abbr> belonging to Mr. Burwells' Estate I <sic corr="believe">beleive</sic> will keep pace<lb/>
-with most of the rest of the sales of that Concern some that are <sic corr="Concerned">Concernd</sic> in it<lb/>
+with most of the rest of the sales of that Concern Some that are <sic corr="Concerned">Concernd</sic> in it<lb/>
 think otherways and yet I must own it to be my fault you have more<lb/>
 of that <abbr expan="Tobacco">Tobbo:</abbr> this Year It is <sic corr="chiefly">cheifly</sic> all <sic corr="shipped">shipt</sic> in <note n="MP2">Mr. Perrys</note> ships who<lb/>
-hath bin very <sic corr="obliging">obligeing</sic> to us. however I intend to make you amends the next<lb/>
+<sic corr="has">hath</sic> bin very <sic corr="obliging">obligeing</sic> to us. however I intend to make you amends the next<lb/>
 Crop I am
 </p>
 
-<closer>Sir<lb/>
-Yor. most humble Servt.&mdash;
-<seg type="postscript"><lb/><lb/><note n="MP1">Colonel Page</note> and myself have drawn<lb/>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. most humble Servt.&mdash;<lb/>
+<seg type="postscript">
+<lb/><lb/><note n="MP1">Colonel Page</note> and myself have drawn<lb/>
 on you for &pound;100 on the Accot. of Mr.<lb/>
-Burwells Estate Payable to Mr. <abbr expan="Emanuel">Emanul.</abbr> Jones Clerk which you are to<lb/>
+Burwells Estate Payable to Mr. <note target="n6"><abbr expan="Emanuel">Emanul.</abbr> Jones</note> Clerk which you are to<lb/>
 Charge to the Accot. of that Estate,<lb/><lb/>
-Per <note target="n3"><sic corr="Bailey">Baily</sic></note></seg></closer>
+Per <note target="n7"><sic corr="Bailey">Baily</sic></note>
+</seg>
+</closer>
 
 
 </div1>
@@ -163,12 +166,21 @@ Per <note target="n3"><sic corr="Bailey">Baily</sic></note></seg></closer>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
 
-<note id="n1">[1] Thomas Woodward commanded the <hi rend="italics">Providence,</hi> a ship owned by Captain John Hyde &amp; Company, during a number of voyages to the colony, 1723-1729. (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194 and Survey Report 6801 summarizing Adm 68/195, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia,</bibl></cit> and Carter's letter to the firm, 1723 September 17.)</note>
+<note id="n1">[1] Thomas Woodward commanded the <hi rend="italics">Providence,</hi> a ship owned by Captain John Hyde &amp; Company, during a number of voyages to the colony, 1723-1729. (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194 and Survey Report 6801 summarizing Adm 68/195, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia,</bibl></cit> and Carter's letter to the firm,  <xref to="/users/berkeley/public/C23i17a.xml">September 17, 1723.</xref>)</note>
 
-<note id="n2">[2] Charles Lee (1684-1735) of Cobb's Hall, Northumberland County. </note>
+<note id="n2"> [2] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (See <cit><bibl><xref to="http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm">"Bill of Exchange"</xref> in the online Dictionary of Financial Scam Terms: the Truth vs. the Scam.</bibl></cit>)</note>
 
-<note id="n3">[3] The <hi rend="italics">Bailey</hi> was a London ship owned by William Dawkins and commanded at various times by Adam Graves (1725-1730) and by Thomas Dove (1731-1732). She was a vessel of some 250 tons and carried 15-17 crew members. (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, 156v, and other data in Adm. 68/194 and /196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> A letter of Carter's executors to Dawkins 1738 May 10 refers to "your ship Bailey.")</note>
+<note id="n3">[3] A pipe is "a large container of definite capacity for storing solids or liquids, such as meat, fish, or oil. Now: spec. a large cask for storing wine or cider." Wikipedia, citing a book by Ronald E. Zupco, states that a pipe was half a tun which was "a large vat or vessel, most often holding 252 wine gallons," meaning a pipe was roughly 126 gallons of wine.  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press</bibl></cit> and  <cit><bibl>Ronald E. Zupko. <title>A Dictionary of Weights and Measures for the British Isles: The Middle Ages to the Twentieth Century</title>.<title> [Memoirs of the American Philosophical Society</title>, 1985, 168.]</bibl></cit>) </note>
 
+<note id="n4">[4] <xref to="http://www.thesocietyoftheleesofva.org/index.php?c=4&kat=Lee+Family+Homes">Charles Lee</xref> (1684-1741) of Cobbs Hall, Northumberland County. He was sheriff of that county in 1725 and 1726. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]: 86, 100. </bibl></cit> ) </note>
+
+<note id="n5"> [5] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
+
+<note id="n6">[6] Emanual Jones lived in Gloucester County.  (<cit><bibl>Beverley Fleet. <title>Virginia Colonial Abstracts</title>.  [Baltimore: Genealogical Publishing Co., reprint, 2000, 2006. online at Google Books,] p. 14 abstracting Essex County Wills and Deeds, 1711-1714, includes "Emanuel Jones of the Parish of Petsworth in the County of Gloucester Colony of Virginia Clerk. . . . " as a party to a deed of patition in December 1712</bibl></cit>; and <cit><bibl>Polly Cary Mason. <title>Records of Colonial Gloucester County Virginia:  A Collection of Abstracts. . . .</title> [Baltimore: Genealogical Publishing Co., reprint, 2009,  online at Google Books] p. 105</bibl></cit> includes similar records for Jones.)</note>
+
+<note id="n7">[6] The <hi rend="italics">Bailey</hi> was a London ship owned by William Dawkins and commanded at various times by Adam Graves (1725-1730) and by Thomas Dove (1731-1732). She was a vessel of some 250 tons and carried 15-17 crew members. (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, 156v, and other data in Adm. 68/194 and /196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> A letter of Carter's to Dawkins <xref to="http://carter.lib.virginia.edu/html/C32e12b.html">May 12, 1732,</xref> refers to "your ship Bailey." as does a letter of August 10, 1733, from Carter's executors to Dawkins. [<cit><bibl>Lloyd T. Smith, Jr., <hi rend="italics">ed.</hi> <title>The Executors' Letters of Robert Carter of Corotoman, 1732-1738. </title> (Irvington, VA: Foundation for Historic Christ  Church, 2010) p. 76].</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised April 10, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 </div1>

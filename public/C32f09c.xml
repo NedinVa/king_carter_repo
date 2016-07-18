@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2006</date>
+     <date>2006, 2016</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -94,7 +94,7 @@
 <title>Letter from Robert Carter to Edward Tucker, June 9, 1732</title>
 </bibl>
 </head>
-<p>Robert Carter writes to Weymouth merchant Edward Tucker, June 9, 1732, to report the arrival of a ship,  <hi rend="italics">George &amp; Mary,</hi> Tucker has chartered, and the arrangements that he and George Eskridge have made concerning her. He adds comments about the small tobacco crop that will prevent many ships obtaining large cargoes, but hopes this will send the market up.</p>
+<p>Robert Carter writes to Weymouth merchant Edward Tucker, June 9, 1732, to report the arrival of a ship,  the <hi rend="italics">George &amp; Mary,</hi> Tucker has chartered, and the arrangements that he and George Eskridge have made concerning her. He adds comments about the small tobacco crop that will prevent many ships obtaining large cargoes, but hopes this will send the market up.</p>
 </div1>                 
 </front>
 
@@ -117,8 +117,8 @@ Edward Tucker Esqr.<lb/>
 
 
 <p>It will not be unagreeable to you to be <abbr expan="advised">advis'd</abbr> of the Arri <lb/>
-val of your Chartered Snow the <name type="ship">George &amp; Mary</name> <abbr expan="Captain">Capt</abbr> Bird she came into the <note target="n1">Indian <lb/>
-Creek</note> the <note target="n2">last <abbr expan="Ultimo">Ulto.</abbr></note> I was <abbr expan="forced">forc'd</abbr> to send your Packet by Express to <sic corr="Williamsburg,">Williamsburgh,</sic> <lb/>
+val of your Chartered Snow the <note target="n1"><name type="ship">George &amp; Mary</name></note> <abbr expan="Captain">Capt</abbr> Bird she came into the <note target="n2">Indian <lb/>
+Creek</note> the <note target="n3">last <abbr expan="Ultimo">Ulto.</abbr></note> I was <abbr expan="forced">forc'd</abbr> to send your Packet by Express to <sic corr="Williamsburg,">Williamsburgh,</sic> <lb/>
 to <note n="GE">Colonel Eskridge</note> who is now upon an Assembly with the ferryages it will Cost <abbr expan="you">yo.</abbr> <lb/>
 20<abbr expan=" Shillings"> /</abbr>. we agreed <abbr expan="it would">twould</abbr> be the best way for <abbr expan="Captain">Capt.</abbr> Bird to enter his ship here and first <lb/>
 to take in the <abbr expan="tobacco">tobo</abbr> in these parts before he goes up to <sic corr="Potomac">Potomack</sic> Colonel Eskridge <lb/>
@@ -126,21 +126,23 @@ thought this the best way <abbr expan="it is">tis</abbr> computed there would be
 is cleaning his vessel and then will set to work Colonel Eskridge writes me <lb/>
 he <sic corr="has">hath</sic> 70 hogsheads ready <del>[illegible]</del> that he can have on board in a Weeks time <lb/>
 <del>It hath pleased God</del> I have already <sic corr="advised">advisd</sic> you of the death of my dear Son, <lb/>
-<note n="RC2">Robert</note> how much of the rum <add place="supralinear">&amp;a</add> <note target="n3"><sic corr="Russell">Russel</sic></note> <abbr expan="received">receiv'd</abbr> from him I know not but I be <lb/>
+<note n="RC2">Robert</note> how much of the rum <add place="supralinear">&amp;a</add> <note target="n4"><sic corr="Russell">Russel</sic></note> <abbr expan="received">receiv'd</abbr> from him I know not but I be <lb/>
 leive he had the most of it </p>
 
 <p><sic corr="Russell">Russel</sic> I <sic corr="reckoned">reckond</sic> <sic corr="Sailed">Saild</sic> the 13th of May <sic corr="carried">carryed</sic> away <lb/>
 with him 44 hogsheads of my own &amp; 15 <abbr expan="hogsheads">hhds</abbr> of <note n="MP1"><abbr expan="Colonel">Colo</abbr> Pages</note> <abbr expan="tobacco">tobo</abbr> all <abbr expan="stemmed">stemm'd</abbr> I spent my <lb/> whole shot to give him a dispatch and have now no <abbr expan="tobacco">tobo</abbr> left to put into this ship <lb/>
 what more assitance she may get from from <abbr expan="Colonel">Colo</abbr> Eskridge I know not it <abbr expan="cannot">can't</abbr> <lb/>
 be much if she wants any to fill her. The report now among us is that many of <lb/>
-our ships will not get near <sic corr="Loaded,">Loaden,</sic> and we have not many Bristolmen in yet from <lb/>
+our ships will not get near <sic corr="Loaded,">Loaden,</sic> and we have not many <name type="city">Bristolmen</name> in yet from <lb/>
 whence we entertain hopes the markets will rise I have already <sic corr="Advised">Advisd</sic> my draft <lb/>
 on you to <note n="JR">John Randolph</note> <abbr expan="Esquire">Esqr.</abbr> for one hundred pounds which I desire you to an= <lb/>
 swer at time. I heartily wish your health and Am 
 </p>
 
-<closer><abbr expan="Sir">Sr. </abbr><lb/>
-Your most humble Servant</closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="Sir">Sr. </abbr><lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your most humble Servant
+</closer>
 
 
 </div1>
@@ -158,11 +160,16 @@ Your most humble Servant</closer>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] Indian Creek lies at the eastern tip of Lancaster County at the northern side of Fleets Bay, and runs inland roughly northwest towards today's Kilmarnock. It probably was 6 or 7 miles from "Corotoman" by the roads of Carter's time.</note>
+<note target="n1"> [1] Survey Report 09732 summarizing "Public Record Office Class E 190/917/7. Exchequor King's Remembrancer Port Books. Weymouth. Customer 1733" shows that Isaac Bird was the master of the <hi rend="italics">George &amp; Mary. A snow was a two-masted vessel. </hi></note>
 
-<note id="n2">[2] Carter means the last day of the previous month.</note>
+<note id="n2">[2] Indian Creek lies at the eastern tip of Lancaster County at the northern side of Fleets Bay where it is "the boundary between" Northumberland and Lancaster counties "for most of its course." and runs inland roughly northwest towards today's Kilmarnock. It probably was 6 or 7 miles from "Corotoman" by the roads of Carter's time. (<cit><bibl n="B29">Miller. <title>Place-Names . . . . </title>p. 72.</bibl></cit>)</note>
 
-<note id="n3">[3] John Russell commanded the <hi rend="italics">Portland,</hi> a vessel owned by Weymouth merchant Edward Tucker. (<cit><bibl>Survey Report 9729 detailing the Weymouth Port Books, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n3">[3] Carter means the last day of the previous month.</note>
+
+<note id="n4">[4] John Russell commanded the <hi rend="italics">Portland,</hi> a vessel owned by Weymouth merchant Edward Tucker.  (<cit><bibl>Survey Report 09729 detailing the Weymouth Port Books</bibl></cit>; and <cit><bibl>Survey Report 09731 detailing Exchequor King's Remembrancer Port Books. Weymouth, Customer, 1730, found in theVirginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was revised May 31, 2016,  to add footnotes and strengthen the modern language version text.</hi></note>
+
 
 </div1>
 </back>

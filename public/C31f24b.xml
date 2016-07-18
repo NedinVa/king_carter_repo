@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -117,17 +117,17 @@ Col. Thomas Lee<lb/>
 
 
 <p>It is an old proverb &amp; a very good one that often <lb/>
-reckoning makes long friends. The Accot. of <note target="n2">Quitrents</note> <add resp="editor"> [<hi rend="italics">sic</hi>]</add> for the land you <lb/>
+reckoning makes long friends. The Accot. of <note target="n2">Quitrents</note> <add resp="editor"> [<hi rend="italics">sic</hi>]</add> for the Land you <lb/>
 hold being under no right settlement According to my thoughts as yet,<lb/> 
 <del>[illegible]</del>I have thought fit herein to send you an Accot If I have Committed <lb/>
-any errors you will please to make <abbr expan="your">yr. </abbr> observations. Mr. Earl hath <abbr expan="accounted">Accotd</abbr> <lb/>
+any errors <abbr expan="you">yo.</abbr> will please to make <abbr expan="your">yr. </abbr> Observations. Mr. Earl <sic corr="has">hath</sic> <abbr expan="accounted">Accotd</abbr> <lb/>
 to me for <abbr expan="your">yr. </abbr> lands in Westmoreland only He demanded of you rents <lb/>
 for King George lands, but you denied payment of them to him <lb/>
 as he tells me.</p>
 
 <pb n="2"/><lb/><lb/>
 <p>In this Account I have given credit for the three black Hogsheads <lb/>
-of tobacco James Carters Receiver took from <abbr expan="your">yr. </abbr> Overseer last year <lb/>
+of tobacco <note n="JC2">James Carters</note> <note target="n3">Receiver</note> took from <abbr expan="your">yr. </abbr> Overseer last year <lb/>
 the most <abbr expan="Abused">Abus'd</abbr> and despicable stuff that ever I saw in my life <lb/>
 but I must believe you <add place="supralinear">knew</add> nothing of this and that it <corr resp="editor">[was]</corr> wholly owing <lb/>
 to the Villany of the Overseer and the baseness of the <abbr expan="Receiver">Recr.</abbr> that would <lb/>
@@ -137,8 +137,9 @@ take such tobacco
 <p>You will please take a proper time to let me know how <lb/>
 you reckon this matter stands between us, in which you will oblige </p>
 
-<closer>Sir<lb/>
-<abbr expan="Your">Yr.</abbr> most humble Servant</closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="Your">Yr.</abbr> most humble Servant</closer>
 
 
 </div1>
@@ -156,10 +157,13 @@ you reckon this matter stands between us, in which you will oblige </p>
 
 <note>The county and colony have been added for clarity to the heading on this draft.</note>
 
-<note id="n1">[1] Thomas Lee (1690-1750) of Westmoreland County was the son of Richard Lee II, and nephew of Edmund Jenings; he would build "Stratford," and succeed Carter on the Council. For a good article on Thomas Lee, see  that <A HREF="http://www.stratfordhall.org/thomas.html?RESEARCH"> by Jeanne A. Calhoun </A>on Stratford plantation's website. (<cit><bibl>Burton J. Hendrick. <title>The Lees of Virginia: Biography of a Family.</title> [Boston: Little Brown, 1935]. pp. 48, 51, etc.</bibl></cit>)</note>
+<note id="n1">[1] Thomas Lee (1690-1750) of Westmoreland County was the son of Richard Lee II, and nephew of Edmund Jenings; he would build "Stratford," and succeed Carter on the Council. For a good article on Thomas Lee, see  "<xref to="http://www.stratfordhall.org/collections-research/staff-research/thomas-lee-of-stratford-1690-1750/">Thomas Lee of Stratford</xref> 1690-1750" by Jeanne A. Calhoun on Stratford plantation's website. (<cit><bibl>Burton J. Hendrick. <title>The Lees of Virginia: Biography of a Family.</title> [Boston: Little Brown, 1935]. pp. 48, 51, etc.</bibl></cit>)</note>
 
-<note id="n2">[2] Quit rent was the term used for the payment due from the holder of land to the "lord of the manor," in this case, to the proprietors of the Northern Neck. Carter as the proprietor's agent, collected these payments. No services were required of the landholder as had been true in mediaeval times.</note>
+<note id="n2">[2] Quit rent was the term used for "a (usually small) rent paid by a freeholder . . .  in lieu of services which might otherwise be required; a nominal rent paid (esp. in former British colonial territories to the Crown) as an acknowledgement of tenure," in this case, to the proprietors of the Northern Neck. Carter as the proprietor's agent, collected these payments. (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
+<note id="n3">[3]  The recever was an officer appointed to serve under the authority of the Receiver-General of the colony to collect "the export duty of two shillings per hogshead on tobacco, the one penny per pound on tobacco exported from Virginia . . . ." <cit><bibl>(Percy Scott Flippin. <title>The Financial Administration of the Colony of Virginia</title> [Johns Hopkins Press, 1915.] 41-42.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised October 6, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 </div1>
 </back>

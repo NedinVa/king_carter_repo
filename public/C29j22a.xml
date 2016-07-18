@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -107,7 +107,7 @@
 <dateline>
 <pb n="1"/>
 <name type="place">Corotoman, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1729-10-22">Octobr 22d. 1729</date><lb/>
+<del>September </del> <date value="1729-10-22">Octobr 22d. 1729</date><lb/>
 Mr. Robert Jones<lb/>
 </dateline>
 
@@ -115,14 +115,14 @@ Mr. Robert Jones<lb/>
 </opener>
 
 <p>By the Sloop I send you a great many things you have <lb/>
-a particular invoice of them Inclosed, the Bed clothing there are Labels <lb/>
+a particular invoice of them <sic corr="Enclosed">Inclosed</sic>, the Bed clothing there are Labels <lb/>
 upon with the Names of Every Negro they are for, the bedding for the Overseer<lb/>
 of <note n="RF1">Richland</note> and for the Overseer at the <note n="MF2">Mountain</note> are particularly <sic corr="marked">markd</sic> <lb/>
-the Frocks for the Children are all <sic corr="marked">markd</sic> Also another <sic corr="Pettiicoat">petty Coat</sic> for <lb/>
+the Frocks <unclear>[ . . . ]</unclear> for the Children are all <sic corr="marked">markd</sic> Also another<note target="n1"> <sic corr="Pettiicoat">petty Coat</sic></note> for <lb/>
 Grace my son <note n="CC1">Charles</note> is very Certain that he sent one before for her knowing <lb/>
 her to be a large Woman &amp; Cowkeeper he was particularly <sic corr="Careful">Carefull</sic> to choose <lb/>
 a <sic corr="petticoat">pettyCt</sic> for her and set her name Upon it and it was one of the <sic corr="Petticoats">PettyCts</sic> <lb/>
-that the things were <abbr expan="sewed">sow'd</abbr> up in, I hope you will be more <sic corr="Careful">Carefull</sic> in the right <lb/>
+that the things were <abbr expan="sewed">sow'd</abbr> up in, I hope you will <add place="supralinear">be</add> more <sic corr="Careful">Carefull</sic> in the right <lb/>
 delivery of these goods than you were in the <sic corr="Clothes,">Cloths,</sic> for what I <abbr expan="Observed">Observ'd</abbr> <lb/>
 you never so much as <abbr expan="Looked">Look'd</abbr> into the Packs to see whether Everything was <lb/>
 there <add place="supralinear">before</add> you sent them away so that it is in the breast of any Overseer <lb/>
@@ -136,21 +136,21 @@ people every Overseer comes down for his peoples <sic corr="Clothes">Cloths</sic
 that everything is right and this is the method that I Will have <abbr expan="Observed">Observ'd</abbr> <lb/>
 By the person that lives in your Station</p>
 
-<p>I have sent you two <abbr expan="pair">pr</abbr> of <sic corr="Wheels">Wheals</sic> with <sic corr="Axletrees">Axtrees</sic> Well <lb/>
-<abbr expan="Boxed">Box'd</abbr> and Well <sic corr="Clamped">Clampt</sic> with Clouts Washers and <sic corr="Link">Linck</sic> pins with an Iron <lb/>
-to be at the End of the tongue of Each Cart 4 Chains <sic corr="Yokes">Yeokes</sic> Well fitted <lb/>
-for two teams of oxen of six in a teem <sic corr="Complete">Compleat</sic>, so that you have nothing <lb/>
+<p>I have sent you two <abbr expan="pair">pr</abbr> of <sic corr="Wheels">Wheals</sic> with <note target="n2"><sic corr="Axletrees">Axtrees</sic></note> Well <lb/>
+<abbr expan="Boxed">Box'd</abbr> and Well <sic corr="Clamped">Clampt</sic> with <note target="n3">Clouts</note> Washers and <sic corr="Link">Linck</sic> pins with an Iron <lb/>
+to be at the End of the <note target="n4">tongue</note> of Each Cart 4 Chains <sic corr="Yokes">Yeokes</sic> Well fitted <lb/>
+for two <sic corr="teams">teems</sic> of oxen of six in a <sic corr="team">teem</sic> <sic corr="Complete">Compleat</sic>, so that you have nothing <lb/>
 to do but to make the Carpenters make two Carts, I have Also sent you <lb/>
 three Ropes for the managing the Oxen one <sic corr="team">teem</sic> I would have Broke <lb/>
-Between <note target="n1">Threalkild</note> &amp; <note target="n2">Jimmy Peters,</note> <note target="n3">Tim Dargon</note> has <abbr expan="promise">promis'</abbr><corr resp="editor">[d]</corr> 
+Between <note target="n5">Threalkild</note> &amp; <note target="n6">Jimmy Peters,</note> <note target="n7">Tim Dargon</note> has <abbr expan="promise">promis'</abbr><corr resp="editor">[d]</corr> 
 
 <pb n="2"/><lb/><lb/>
 me to Break a Yoke of Oxen for himself</p>
 
 <p>I have agreed with an Overseer for Richland And have <abbr expan="obliged">oblig'd</abbr> <lb/>
 him in his Conditions to Break me a Yoke of Oxen, he will Be up <lb/>
-before christmas and I intend to send up two <abbr expan="pair">pr</abbr> of Wheels more wth <lb/>
-Yokes &amp; Chains &amp;ca. one for <note target="n4">Oxford</note> and Mountain the Other for <lb/>
+before christmas and I intend to send up <add place="supralinear">two</add> <abbr expan="pair">pr</abbr> of Wheels more wth <lb/>
+Yokes &amp; Chains &amp;ca. one for <note target="n8">Oxford</note> and Mountain the Other for <lb/>
 Richland, the two first <sic corr="teams">teems</sic> I would hope if you were a person <lb/>
 of life &amp; resolution would be soon got ready for your use and <lb/>
 While the Other are getting ready for you you might Break more <lb/>
@@ -158,12 +158,12 @@ young Oxen that might be ready for the two Carts that I intend <lb/>
 to provide Wheels for by the next Sloop When we get these 5 <sic corr="teams">teems</sic> <lb/>
 of Oxen <sic corr="Equipped">Equipt</sic> and Well managed I think all business will go <lb/>
 on with a great deal of Ease And Wheat &amp; Corn &amp;ca. will be Easily <lb/>
-brought down <del>without</del> and removd from one plantation to ano<lb/>
-ther without The sad <sic corr="spectacle">specticle</sic> of Sore <sic corr="backed">backt</sic> horses &amp; poor Jades <lb/>
+brought down <del>without</del> and <sic corr="removed">removd</sic> from one plantation to ano<lb/>
+ther without The sad <sic corr="spectacle">specticle</sic> of Sore <sic corr="backed">backt</sic> horses &amp; poor <note target="n9">Jades</note> <lb/>
 and the people where the Plantations are large may have <lb/>
 their fencing stuff drawn into place their Firewood got to <lb/>
-their doors their Corn removed to their home houses their <lb/>
-<abbr expan="Tobacco">Tobo</abbr> Carried from their fields <sic corr="though">tho</sic> never so <sic corr="remote">remoat</sic> and abundance <lb/>
+their doors their Corn <sic corr="removed">removd</sic> to their home houses their <lb/>
+<abbr expan="Tobacco">Tobo</abbr> <sic corr="Carried">Carred</sic> from their fields <sic corr="though">tho</sic> never so <sic corr="remote">remoat</sic> and abundance <lb/>
 of other benefits not to be <abbr expan="mentioned">mention'd</abbr></p>
 
 <p>I have sent you a Cask to put the <note n="PQ1">poplar</note> <sic corr="Cider">Cyder</sic> <lb/>
@@ -172,7 +172,7 @@ with me so Extraordinary Well that I set a great Value <lb/>
 Upon it purposely for my Own drinking therefore you <lb/>
 will take Very great Care that it be not <abbr expan="abused">abus'd</abbr> I think <lb/>
 the best way will be that the Cask be <abbr expan="Carried">Carry'd</abbr> there &amp; <lb/>
-that there the <sic corr="Cider">Cyder</sic> be drawn of from the <note target="n5">Lees</note> much <lb/>
+that there the <sic corr="Cider">Cyder</sic> be drawn of from the <note target="n10">Lees</note> much <lb/>
 Better than to bring it down to the Falls with 
 
 <pb n="3"/><lb/><lb/>
@@ -180,15 +180,15 @@ the Lees in</p>
 	
 <p>You must send me all the Wheat possibly you Can get down <lb/>
 for the Sloop <note n="NB">Burwells</note> wheat may Come down I have sent 20 Empty <lb/>
-hogsheads I would have you send me 4 <sic corr="Beaves">Beeves</sic> by All means if Possible two <lb/>
-from  the <note target="n6"><sic corr="Ford,">Foard,</sic></note> the <sic corr="Pied">Pide</sic> Ox at the Falls I think may be one I think <lb/>
+hogsheads I would have you send me 4 <note target="n11"><sic corr="Beaves">Beeves</sic></note> by All means if Possible two <lb/>
+from  the <note target="n12"><sic corr="Ford,">Foard,</sic></note> the<note target="n13"> <sic corr="Pied">Pide</sic></note> Ox at the Falls I think may be one I think <lb/>
 Oxfords Beeves must be <sic corr="killed">killd</sic> there and Carted down the other Beef I <lb/>
 would have a Very good one you may take him from what <abbr expan="Quarter">Qr.</abbr> you think <lb/>
-best, <note target="n7">John Hust</note> I have <sic corr="Written">Writ</sic> to by <note target="n8">James Carter</note> about doing <del>your</del> <add place="supralinear">the</add> <sic corr="Jobs">Jobbs</sic> <lb/>
+best, <note target="n14">John Hust</note> I have <sic corr="Written">Writ</sic> to by <note n="JC2">James Carter</note> about doing <del>your</del> <add place="supralinear">the</add> <sic corr="Jobs">Jobbs</sic> <lb/>
 <add place="supralinear">at <abbr expan="your">yr</abbr> Quarter</add> making these 2 Carts and about the Buildings at the falls&mdash;I <lb/>
 have sent a great many Caps and the names of the people that are to <lb/>
-<add place="supralinear">have them </add> I have sent you 20 yards of <note target="n9"><sic corr="Osnaburg">Oxnabuggs</sic></note> as you desire My New hands are all <lb/>
-down in <note target="n10">their Seasoning</note> Except one I must wait with Patience till they <lb/>
+<add place="supralinear">have them </add> I have sent you 20 yards of <note target="n15"><sic corr="Osnaburg">Oxnabuggs</sic></note> as you desire My New hands are all <lb/>
+down in <note target="n16">their Seasoning</note> Except one I must wait with Patience till they <lb/>
 recover their strength before I can send them.</p>
 
 <p>I have a great many Observations to make of your ill <lb/>
@@ -205,20 +205,23 @@ drawing out your Salary before you have Earned it you know when we last <lb/>
 <add place="supralinear">settled</add> We were pretty Even I owe you nothing <sic corr="until">till</sic> your year is up were it to <lb/>
 stock you with negroes <sic corr="it would">twould</sic> do you good I should not Grudge <del>-t</del> it but <lb/>
 <abbr expan="you had">you'd</abbr> Best have a Care of being too free with your <sic corr="notes">noats</sic> least I refuse<lb/>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sic corr="Payment">Paymt</sic>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sic corr="Payment">Paymt</sic>
  
-<pb n="4"/><lb/><lb/>he is an honest man that pays for his Work after <sic corr="it is">tis</sic> done the <lb/>
+<pb n="4"/><lb/><lb/>
+
+he is an honest man that pays for his Work after <sic corr="it is">tis</sic> done the <lb/>
 proverb is he is a Bad paymaster Who pays not at all <lb/>
 or Who pays beforehand&mdash;I shall take me Leave of you at <del>[illegible]</del><lb/>
-Present I am 
+Present I am</p>
 
-	</p>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;your friend to Serve you<lb/>
 
-<closer>your friend to Serve you
 <seg type="postscript"><lb/><lb/>
+
 I Expect you will begin to look about <lb/>
 you for <sic corr="Hogs">Hoggs</sic> they must be put <lb/>
-up When the <note target="n11">Mast</note> is Over as soon as <lb/>
+up When the <note target="n17">Mast</note> is Over as soon as <lb/>
 the corn is in or at least got into the Corn <lb/>
 fields I shall never Endure to have such <lb/>
 <sic corr="intolerable">intollerable</sic> Accots for the <sic corr="fattening">fattning</sic> of <sic corr="hogs">hoggs</sic> <lb/>
@@ -232,11 +235,11 @@ you live some of them very near <sic corr="killed">killd</sic> with the Churn st
 <sic corr="believe">beleive</sic> I shall have hardly butter Enough from <abbr expan="your">yr</abbr> dairy to Answ:<lb/>
 er the life of one of them I hope by that time this sloop Comes away <lb/>
 you may be Able to let me know how many <sic corr="hogs">hoggs</sic> I may Expect from you <lb/>
-I Expect you will take Care that I have all the tallow of these Beeves &amp; <lb/>
+I Expect you will take Care that I have all the <note target="n18">tallow</note> of these Beeves &amp; <lb/>
 of the Cow sent to me if you let Dr Bell have half a dozen pound I <lb/>
 shall not be against it. The last thing to be done for the Sloop must <lb/>
 be the killing the <sic corr="Beaves">Beeves</sic> and I hope you will take Care to see them well <lb/>
-aboard and hung up as Usual I have always had my meat Come down well <lb/>
+aboard and <note target="n19">hung</note> up as Usual I have always had my meat Come down well <lb/>
 hitherto</seg></closer>
 
 
@@ -255,29 +258,48 @@ hitherto</seg></closer>
 
 <note>The county and colony have been added for clarity to the  heading on the draft.</note>
 
-<note id="n1">[1] William Threalkill is mentioned in the inventory of Carter's estate as the overseer at Poplar Quarter, Stafford County. (<cit><bibl n="A26">Carter Papers: An Inventory. . . ."</bibl></cit>.)</note>
+<note>This letter was published in <cit><bibl n="A8">Berkeley. "Robert Carter as Agricultural Administrator: . . .", 291-295.</bibl></cit>  
+</note>
 
-<note id="n2">[2]Jimmy Peters was an overseer who would be at Hinson's Quarter in
-Stafford County in 1732. (<cit><bibl n="A26">Carter Papers: An Inventory. . . ."</bibl></cit>.)</note>
+<note id="n1">[1] A petticoat is "a light loose undergarment (originally of calico, flannel, silk, etc.; now frequently of synthetic material) hanging from the shoulders or waist, and worn by a woman or girl under a dress or skirt for warmth, etc."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
-<note id="n3">[3] "In 1724, Robert Carter took out patents for, among others: the Licking Run tract of 10,227 acres which lay along and east of Licking Run above Germantown and across Owl and Turkey Runs, to what was then supposed to be the western boundary of the vast Brent Town Tract. Here Carter seated the Lodge Quarter mentioned in his will."  Timothy Dargan was its overseer in 1732. (<cit><bibl>Carl F. Cannon, Jr., "Robert ("King") Carter of "Corotoman." Unpublished doctoral dissertation, Duke University, 1956, p. 274;</bibl></cit> and <cit><bibl n="A26">Carter Papers: An Inventory. . . ."</bibl></cit>)</note>
+<note id="n2">[2] An axletree is the  "the fixed bar or beam of wood, etc., on the rounded ends of which the opposite wheels of a carriage revolve."   (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
-<note id="n4">[4] Roger Oxford was the overseer at Norman's Ford.</note>
+<note id="n3">[3] A clout is a "plate of iron . . .  fixed on some part of a plough, on an axle-tree, or on a shoe, to prevent wear."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
-<note id="n5">[5] The lees are the dregs or the sediment.</note>
+<note id="n4">[4] The tongue is "the pole of a wagon or other vehicle" to which the animals are attached.  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
-<note id="n6">[6]  Norman's Ford was an important Rappahannock River (earlier Hedgeman's River) crossing on the old Iroquois trail, later called the Carolina Road. Fairfax Harrison states that it received its name because Isaac Norman patented the land in June 1726, but Carter refered to it by this name four years earlier. It is located where U.S. 29 and U.S. 15 cross the Rappahannock between Culpeper and Fauquier counties. (<cit><bibl n="B4">"The Old Roads and the Ordinaries," in Harrison, <title>Landmarks of Old Prince William,</title> pp. 441-517, esp. fn. 37 on p. 500.</bibl></cit>)</note>
+<note id="n5">[5] William Threalkill is mentioned in the <xref to="/users/berkeley/public/C33inven.xml">1733 inventory</xref>  of Carter's estate as the overseer at Poplar Quarter, Stafford County. (<cit><bibl n="A26">Carter Papers: An Inventory. . . ."</bibl></cit>.)</note>
 
-<note id="n7">[7] John Hust (or Hurst) was the overseer of "Hamstead Quarter," Stafford County, in the 1732 inventory, supervising  sixteen slaves with the assistance of one horse. Hust apparently was a carpenter because Carter mentions his doing carpentry work in various letters. (<cit><bibl n="A26">Carter Papers: An Inventory. . . ."</bibl></cit>)</note>
+<note id="n6">[6] Jimmy Peters was an overseer who would be at Hinson's Quarter in Stafford County in <xref to="/users/berkeley/public/C33inven.xml">the1733 inventory.</xref> (<cit><bibl n="A26">Carter Papers: An Inventory. . . ."</bibl></cit>.)</note>
 
-<note id="n8">[8] James Carter (1684-1743), of Stafford County, was the younger brother of Carter's dear friend and associate, Captain Thomas Carter of Lancaster County, and was one of Carter's chief managers. (<cit><bibl>Joseph Lyon Miller, "Captain Thomas Carter and His Descendants," <title>William and Mary Quarterly.</title> 1st ser., 17(1908-09): 275-285.</bibl></cit>)</note>
+<note id="n7">[7] "In 1724, Robert Carter took out patents for, among others: the Licking Run tract of 10,227 acres which lay along and east of Licking Run above Germantown and across Owl and Turkey Runs, to what was then supposed to be the western boundary of the vast Brent Town Tract. Here Carter seated the Lodge Quarter mentioned in his will."   Timothy Dargan was its overseer in the <xref to="/users/berkeley/public/C33inven.xml">1733 inventory.</xref>  (<cit><bibl>Carl F. Cannon, Jr., "Robert ("King") Carter of "Corotoman." Unpublished doctoral dissertation, Duke University, 1956, p. 274;</bibl></cit> and <cit><bibl n="A26">Carter Papers: An Inventory. . . ."</bibl></cit>)</note>
 
-<note id="n9">[9] Osnaburg is a coarse fabric named for the region of Germany in which it was first produced. It was commonly used for sacking and bagging.</note>
+<note id="n8">[8] Roger Oxford was the overseer at Norman's Ford.</note>
 
-<note id="n10">[10] Seasoning was the term colonial Virginians used to refer to the sicknesses that affected new immigrants, black and white, to the colony, until they developed immunities.</note>
+<note id="n9">[9] A jade is a "contemptuous name for a horse; a horse of inferior breed, e.g. a cart- or draught-horse as opposed to a riding horse; a roadster, a hack; a sorry, ill-conditioned, wearied, or worn-out horse; a vicious, worthless, ill-tempered horse. . . . "   (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
-<note id="n11">[11] Mast is the qantities of nuts that fall from trees in the fall providing rich food for hogs.</note>
+<note id="n10">[10] The  <title>Oxford English Dictionary Online</title> states that the lees are the "sediment deposited in a vessel containing wine,"  or, as <xref to="http://www.wineweekly.com/wine-basics/wine-terms/wine-term-lees/"><hi rend="italics">Wine Weekly</hi></xref> describes them, "the lees . . .  are the dead yeast cells, grape seeds, pulp, stems, skins, and tartrates that separate from the juice during wine making and aging." The same term is used in cider making.</note>
 
+<note id="n11">[11] By "beaves" the editor assumes Carter means beef cattle carcases but the word does not appear in the <title>Oxford English Dictionary Online</title> and a Google search was not useful.</note>
+
+<note id="n12">[12]  Norman's Ford was an important Rappahannock River (earlier Hedgeman's River) crossing on the old Iroquois trail, later called the Carolina Road. Fairfax Harrison states that it received its name because Isaac Norman patented the land in June 1726, but Carter refered to it by this name four years earlier. It is located where U.S. 29 and U.S. 15 cross the Rappahannock between Culpeper and Fauquier counties. (<cit><bibl n="B4">"The Old Roads and the Ordinaries," in Harrison, <title>Landmarks of Old Prince William,</title> pp. 441-517, esp. fn. 37 on p. 500.</bibl></cit>)</note>
+
+<note id="n13">[13] Pied, accoring to the <title>Oxford English Dictionary Online</title> means "marked, dappled, speckled with (a colour or, in extended use, some other thing)."</note>
+
+<note id="n14">[14] John Hust (or Hurst) was the overseer of "Hamstead Quarter," Stafford County, in the <xref to="/users/berkeley/public/C33inven.xml">1733 inventory,</xref>  supervising  sixteen slaves with the assistance of one horse. Hust apparently was a carpenter because Carter mentions his doing carpentry work in various letters. (<cit><bibl n="A26">Carter Papers: An Inventory. . . ."</bibl></cit>)</note>
+
+<note id="n15">[15] Osnaburg is a coarse fabric named for the region of Germany in which it was first produced. It was commonly used for sacking and bagging. (<cit><bibl>18th Century Trade Terms (Fabrics), "<xref to="http://www.18cnewenglandlife.org/18cnel/ofsilk.htm">Of Silk, Terms Of Silk</xref>, Cotton, Linen and Wool,"[Compiled from] <title>The Beekman Mercantile Paper</title> 1746 - 1799. 5/ 4/2007; 6/18/2015</bibl></cit>)</note>
+
+<note id="n16">[16]  Seasoning is "the process by which a person becomes hardened or inured to a strange climate, acclimatization," and was the term colonial Virginians used to refer to the sicknesses that affected new immigrants, black and white, to the colony, until they developed immunities.  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
+
+<note id="n17">[17] Mast is "the fruit of beech, oak, chestnut, and other woodland trees, esp. when fallen and used as food for pigs, etc."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
+
+ <note id="n18">[18] Tallow is "a substance consisting of a somewhat hard animal fat (esp. that obtained from the parts about the kidneys of ruminating animals, now chiefly the sheep and ox), separated by melting and clarifying from the membranes, etc., naturally mixed with it; used for making candles and soap, dressing leather, and other purposes."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
+
+<note id="n19">[19] Carter uses the word "hung" here to mean  "meat: Suspended in the air to be cured by drying, or (in the case of game) to become 'high.'"  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised July 9, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 </div1>
 </back>

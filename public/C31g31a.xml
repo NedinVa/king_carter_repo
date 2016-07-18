@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2006</date>
+     <date>2006 2016</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -116,13 +116,13 @@ Mr. Edward Athawes<lb/>
 
 
 
-<p>On the 22d Instant the partners in the <lb/>
-<note target="n1">Frying company</note> writ to <abbr expan="you">yo.</abbr> <sic corr="joint"> joynt</sic> letter of that Affair I have only a <lb/>
+<p>On the <xref to="http://carter.lib.virginia.edu/html/C31g22a.html">22d Instant</xref> the partners in the <lb/>
+<note target="n1">Frying company</note> <sic corr="writ">wrote</sic> to <abbr expan="you">yo.</abbr> a <sic corr="joint"> joynt</sic> letter of that Affair I have only a <lb/>
 <del>Small</del> <add place="supralinear">Short</add> line to add <note target="n2">Tom Dove</note> <sic corr="has">hath</sic> a Sample of the last ore we <abbr expan="received">receiv'd</abbr> <lb/>
 I have had no fresh Accot from our general Overseer there but I have <lb/>
-<abbr expan="received">receiv'd</abbr> one from another who writes from a Court <add place="supralinear">abt 25 miles off Frying pan</add> on the 23d. Instant <lb/>
+<abbr expan="received">receiv'd</abbr> one from another who writes from a Court <add place="supralinear"><abbr expan="about">abt</abbr> 25 miles off Frying pan</add> on the 23d. Instant <lb/>
 Acquainting me that a person just come from thence told him that <lb/>
-our miners the Week before had <abbr expan="raised">rais'd</abbr> three tonns of that rich ore <lb/>
+our miners the Week before had <abbr expan="raised">rais'd</abbr> three <sic corr="tons">tonns</sic> of that rich ore <lb/>
 who told him he would give &pound;50 a <sic corr="ton">tonn</sic> for it here in the Country <lb/>
 this was one Shaw a refiner who we had in our business for a year &amp; a <lb/>
 half before the miners came in this I <sic corr="believe">beleive</sic> you will take for a 
@@ -140,16 +140,19 @@ our Work with our <sic corr="Utmost">Outmost</sic> Zeal. I thought this further 
 would not be unentertaining to you</p>
 
 <p>We have loaded on board the Bailey Sixty Seven Barrels <lb/>
-of the Ore We had by us as you have been already <abbr expan="advised">advis'd</abbr> <add place="supralinear">we reckon about 21000 weight</add> a bill of Lading <lb/>
-for it you have herein to save freight it is shot into the <note target="n4">Run</note> of the <lb/>
+of the Ore We had by us as you have been already <abbr expan="advised">advis'd</abbr> <add place="supralinear">we reckon about 21000 weight</add> a <note target="n4">bill of Lading</note> <lb/>
+for it you have herein to save freight it is shot into the <note target="n5
+">Run</note> of the <lb/>
 Ship She is not <sic corr="hindered">hindred</sic> in her Loading by it one hogshead of tobacco We do not <lb/>
 expect it is very rich but we flatter <sic corr="ourselves">ourSelves</sic> it will do Something <lb/>
-more than pay freight &amp; Charges I have already <sic corr="written">writ</sic> an answer <lb/>
-to <abbr expan="your">yr.</abbr> Paragraph relating to <abbr expan="Captain">Capt.</abbr> Dove <add place="supralinear">&amp;</add> am 
+more than pay freight &amp; Charges I have already <xref to="http://carter.lib.virginia.edu/html/C31g29a.html"><sic corr="written">writ</sic> an answer <lb/>
+</xref>to <abbr expan="your">yr.</abbr> Paragraph relating to <abbr expan="Captain">Capt.</abbr> Dove <add place="supralinear">&amp;</add> am 
  </p>
 
-<closer>Sir<lb/> 
-Your very humble Servant.</closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir<lb/> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your very humble Servant.
+</closer>
 
 
 </div1>
@@ -169,11 +172,16 @@ Your very humble Servant.</closer>
 
 <note id="n1">[1]  In 1728, Carter, his sons Robert and Charles, and his son-in-law Mann Page,  organized a company to mine for copper on a tract of some 27,000 acres that Louis Morton describes as lying "near the present boundary of Fairfax and Loudoun counties." Fairfax Harrison wrote that the tract was "on the  Horsepen of Broad." Today, there is a Frying Pan Park just east of the border of the Dulles Airport reservation, and there are other things with the name in the area. The company was not successful. (<cit><bibl n="B32">Morton. <title>Robert Robert Carter of Nomini Hall.</title> pp. 18-19;</bibl></cit> and <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> p. 342. </bibl></cit>)</note>
 
-<note id="n2">[2] The <hi rend="italics">Bailey</hi> was a London ship owned by William Dawkins and commanded at various times by Adam Graves (1725-1730) and by Thomas Dove (1731-1732). She was a vessel of some 250 tons and carried 15-17 crew members. (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, 156v, and other data in Adm. 68/194 and /196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> A letter of Carter's executors to Dawkins 1738 May 10 refers to "your ship Bailey.")</note>
+<note id="n2">[2] The <hi rend="italics">Bailey</hi> was a London ship owned by William Dawkins and commanded at various times by Adam Graves (1725-1730) and by Thomas Dove 1730-1732. She was a vessel of some 250 tons and carried 15-17 crew members. (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, 156v, and other data in Adm. 68/194 and /196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> A letter of Carter's to Dawkins <xref to="http://carter.lib.virginia.edu/html/C32e12b.html">May 12, 1732,</xref> refers to "your ship Bailey." as does a letter of August 10, 1733, from Carter's executors to Dawkins. [<cit><bibl>Lloyd T. Smith, Jr., <hi rend="italics">ed.</hi> <title>The Executors' Letters of Robert Carter of Corotoman, 1732-1738. </title> (Irvington, VA: Foundation for Historic Christ  Church, 2010) p. 76].</bibl></cit>)</note>
 
 <note id="n3">[3] According to the <hi rend="italics">Oxford English Dictionary,</hi> a "rodomontade" is "a vainglorious brag or boast; an extravagantly boastful or arrogant saying or speech."</note>
 
+<note id="n4"> [4] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
+
 <note id="n4">[4] the bilges</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was revised February 19, 2016,  to add footnotes and strengthen the modern language version text.</hi></note>
+
 
 </div1>
 </back>

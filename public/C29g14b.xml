@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,8 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
-<date value="1729-07-14">July. 14. 1729</date><lb/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1729-07-14">July. 14. 1729</date><lb/>
 Capt John Hyde<lb/>
 &amp; Company<lb/>
 </dateline>
@@ -125,7 +124,9 @@ if it <sic corr="Has">Hath</sic> been general no doubt abundance of Damage is do
 Crops You will hear more of this Hereafter I am 
 </p>
 
-<closer>Your very Humble Servt:</closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your very Humble Servt:
+</closer>
 
 
 </div1>
@@ -143,8 +144,7 @@ Crops You will hear more of this Hereafter I am
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
 
-
-
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was reviewed April 24, 2015.</hi></note>
 
 </div1>
 </back>

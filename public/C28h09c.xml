@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd'[
+<!NOTATION jpg SYSTEM "JPEG">   
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>  
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;  
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<TEI.2 id="C28h09c">
+
+
+<teiHeader type="aacr2">
+             
+<fileDesc>
+<titleStmt>
+     <title type="245">Letter from Robert Carter to John King, August 9, 1728</title>
+   <title type="gmd">[electronic resource]</title>
+     <author>Carter, Robert</author>
+   <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name id="editor">Edmund Berkeley, Jr.</name>
+     <resp>Conversion to TEI.2-conformant markup</resp>
+     <name>Edmund Berkeley, Jr. and the University of Virginia Library Electronic Text Center</name>
+   </respStmt>
+</titleStmt>
+
+<extent>ca. 7 kilobytes </extent>
+
+<publicationStmt>
+     <publisher>University of Virginia Library.</publisher>
+     <pubPlace>Charlottesville, Va.</pubPlace>
+     <idno type="ETC">C28h09c.xml</idno>
+     <availability>
+     <p>Publicly accessible</p>
+     <p n="public">URL: http://etext.lib.virginia.edu/users/berkeley/</p>
+         </availability>
+     <date>2004, 2015</date>
+</publicationStmt>
+
+<sourceDesc>
+     <biblFull>
+     <titleStmt>
+     <title>Letter from Robert Carter to John King, August 9, 1728</title>
+     <author>Robert Carter</author>
+</titleStmt>
+    <extent>1 p.</extent>
+<publicationStmt>
+     <date></date>
+   <idno type="callNo">Source copy consulted: Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</idno>
+</publicationStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+     <encodingDesc>
+     <projectDesc>
+     <p>Prepared for the University of Virginia Library Electronic Text Center.</p>
+     </projectDesc>
+<editorialDecl>
+     <p>Some keywords in the header are a local electronic Text Center scheme to aid in  establishing analytical groupings.</p>
+</editorialDecl>
+
+<classDecl>
+     <taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+</classDecl>
+</encodingDesc>
+
+<profileDesc>
+     <creation><date>1728-08-09</date></creation>
+     <langUsage><language id="eng"></language></langUsage>
+     <textClass>
+     <keywords><term>non-fiction</term><term>prose</term></keywords>
+     <keywords scheme="LCSH"><term type="Field650">LCSH</term></keywords>
+     </textClass>
+</profileDesc>
+
+</teiHeader>
+
+<text id="C28h09cT">
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>1 p.</extent>
+<date value="1728-08-09"></date>
+<idno rend="suppress">C28h09c.xml</idno>
+<title>Letter from Robert Carter to John King, August 9, 1728</title>
+</bibl>
+</head>
+<p>Robert Carter writes to Bristol merchant John King, August 9, 1728, to report the arrival of King's letter and shoes that he had ordered. He declines to send more tobacco to  Bristol as the market is so bad, and he orders "Bristol waters" to treat "a Distemper I have bin afflicted with these three or four Years ."</p>
+</div1>                 
+</front>
+
+
+
+<body>
+<div1 type="letter" n="1">
+<head>Letter from Robert Carter to <note n="JK">John King,</note> August 9, 1728</head>
+<opener>
+<dateline>
+<pb n="1"/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1728-08-09">Augst: the 9th: 1728</date><lb/>
+John King Esqr<lb/>
+</dateline>
+<salute>Sir&mdash;</salute>
+
+</opener>
+
+
+
+<p>I recd your Letter by <abbr expan="Captain">Capt.</abbr> <del>Darracott</del> <add place="supralinear">Sweett</add> <lb/>with the <sic corr="Shoes">Shoose</sic> <add place="supralinear">also by <note target="n1"><abbr expan="Captain">Capt:</abbr> Darracot</note></add> he <sic corr="has">hath</sic> <sic corr="offered">offerd</sic> me <sic corr="freight">freit</sic> if I had Occasion but <lb/>your market is so <abbr expan="cried">cry'd</abbr> out of all England over not only for its low=<lb/>ness but for its having <sic corr="Spoiled">Spolyd</sic> the markets of all England <del>over</del> besides <lb/>that I think it will be very imprudent to Send any <abbr expan="Tobacco">Tobbo:</abbr>  to you at <lb/>this time</p>
+
+<p>For a Distemper I have bin afflicted with these three <lb/>or four Years I have bin advised nothing will Contribute more to my <lb/>recovery <sic corr="than">then</sic> the use of the <note target="n2"><name type="city">Bristol</name> waters</note> and I reckon it will be much <lb/>better having it from you <sic corr="than">then</sic> round about from <name type="city">London</name> Therefore <lb/>desire you to take the first Opportunity to Send me in 2 or 3 dozen <lb/>of Flasks of it It must be carefully <sic corr="packed">packt</sic> up and the Master parti=<lb/>cularly Engaged in its Safe Stowage I also desire you to Send me in <lb/><note target="n3">20&mdash;10d: Nails</note> and 10,000&mdash;8d: which is the <sic corr="needful">needfull</sic> at present from </p>
+
+<closer>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir&mdash;<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. very humble Servt:--
+<seg type="postscript"><lb/><lb/>per the <note n="CS">Carter</note></seg></closer>
+
+
+</div1>
+
+</body>
+
+
+
+<back>
+
+<div1 type="back matter">
+<head>NOTES</head>
+
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+
+<note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
+
+<note id="n1">[1] Carter mentions a Captain Darracott in letters of 1720 and 1721 to Bristol mechant John King, and a Captain John Darracott's wife, Cecilia, died in 1737 and was buried at the home of her father, William Massie (Massey), of New Kent County. A John Darracott's will was probated in Hanover County (whose records have chiefly been lost) also in 1737. (<cit><bibl>"Personal Notices From the Virginia Gazette," <title>William and Mary Quarterly</title>, 1st. ser., 5(April 1897): 242;</bibl></cit> <cit><bibl><xref to="genforum.genealogy.com/darracott/messages/38.html">"John Darracott of Hanover Co., Va. &amp; his wives."</xref>  Darracott Family Genealogy Forum on Genealogy.com  examined 5/12/2010 and 12/11/2014;</bibl></cit>  <cit><bibl><xref to="http://lva1.hosted.exlibrisgroup.com/F/?func=file&file_name=find-b-clas08&local_base=CLAS08">Online index of Wills/Administration</xref> of the online catalog, Library of Virginia examined 5/12/2010 and 12/11/2014;</bibl></cit>  and <cit><bibl>"Massie Family," <hi rend="italics">ibid.</hi>, 1st. ser., 13(January 1905): 202-3.</bibl></cit>)</note>
+
+<note id="n2">[2] "Mineral waters of Clifton, near Bristol, with a temperature not exceeding 74 [degrees]; formerly celebrated in cases of pulmonary consumption." (<cit><bibl><xref to="http://www.bartleby.com/81/2523.html">"Bristol waters"</xref> on Bartleby.com. 12/5/2014</bibl></cit>)</note>
+
+<note id="n3">[3] It is likely that the clerk taking Carter's dictation for the draft of this letter forgot to enter the symbol for thousands for the quantity of eight-penny nails as he did enter for the ten-penny nails. One hopes this omission was caught when the fair copies of the letter were prepared for sending to Bristol!</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised December 11, 2014,  to add footnotes and strengthen the modern language version text.</hi></note>
+
+
+
+</div1>
+</back>
+
+</text>
+
+</TEI.2>

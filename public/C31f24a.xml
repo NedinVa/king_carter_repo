@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -94,7 +94,7 @@
 <title>Letter from Robert Carter to Foster Cunliffe, June 24, 1731</title>
 </bibl>
 </head>
-<p>Robert Carter writes a postscript to an earlier letter (not extant) to Liverpool merchant Foster Cunliffe, June 24, 1731, to alert him to a shipment of tobacco and to request that he purchase and ship goods if Mr. Pemberton cannot do so.</p>
+<p>Robert Carter writes a postscript to an earlier letter to Liverpool merchant Foster Cunliffe, June 24, 1731, to alert him to a shipment of tobacco and to request that he purchase and ship goods if Mr. Pemberton cannot do so.</p>
 </div1>                 
 </front>
 
@@ -119,21 +119,22 @@ To be added to Mr. Cunliffs Letter by Loxum*&mdash;&mdash;<lb/>
 <p>The above Copy will inform you of the reasons I cons<lb/> 
 <abbr expan="igned">ign'd</abbr> my <abbr expan="tobacco">tobo</abbr>
  by the <note target="n2">Rappahannock</note> to you I have now 20 hogsheads more<lb/> 
-the <name type="ship">Mayflower.</name> <abbr expan="Captain">Capt</abbr> Fowler 16 of them <sic corr="stemmed">stemmd</sic> my own Crops <lb/>
+the <note target="n3"><name type="ship">Mayflower.</name></note> <abbr expan="Captain">Capt</abbr> Fowler 16 of them <note target="n4"><sic corr="stemmed">stemmd</sic></note> my own Crops <lb/>
 the remaining 4 leaf tobacco from abroad These 4 <abbr expan="hogsheads">hhds</abbr>I hope will <lb/>
-rise good &amp; stout you may dispose of them as you <sic corr="please">pleas</sic> either at <lb/>
-the mast or by an Inland sale. By this ship I send an invoice <lb/>
-for some goods to <note target="n3">Mr. Pemberton</note> if he will not be at the trouble <lb/>
+rise good &amp; stout you may dispose of them as you <sic corr="please">pleas</sic> either <note target="n5">at <lb/>
+the mast</note> or by an Inland sale. By this ship I send an invoice <lb/>
+for some goods to <note n="JP">Mr. Pemberton</note> if he will not be at the trouble <lb/>
 of sending me: them I have <abbr expan="desired">desir'd</abbr> him to deliver the invoice to you <lb/>
 requesting <abbr expan="you">yo.</abbr> will take the Opportunity of the first ship bound into 
 
 <pb n="2"/><lb/><lb/>
-<note target="n4">our River</note> to let me have them by I shall desire you to be <sic corr="refered">referrd</sic> <lb/>
+<note target="n6">our River</note> to let me have them by I shall desire you to be <sic corr="refered">referrd</sic> <lb/>
 to the Above and conclude here 
 </p>
 
-<closer>Sir <lb/>
-yr. very humble Servant.</closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;yr. very humble Servant.</closer>
 
 
 </div1>
@@ -155,13 +156,20 @@ yr. very humble Servant.</closer>
 
 <note id="n1">[1] Foster Cunliffe (d. 1767) was a merchant and prominent citizen of Liverpool who worked to expand manufacturing and the capacity of the harbor; he served a number of terms as mayor.  He and Richard Gildart undertook "a major reorginization of business with Maryland and Virginia . . . beginning in the early 1720's [they] sent numerous factors to the region." They established stores in which retail goods were sold, purchased the produce of the region, had it ready for loading when ships arrived, and also moved into the sale of slaves. (<cit><bibl>James A. Picton, <hi rend="italics">ed.</hi> <title>Liverpool Municipal Archives and Records. . . .</title> [Liverpool, 1907.] pp. 27, 31, 79, 90, 96, etc.</bibl></cit> and <cit><bibl>Paul G. Clemens. "The Rise of Liverpool, 1665-1750." <title>Economic History Review.</title> 24[May 1976]:211-225.</bibl></cit></note>
 
-<note>* Captain Loxom commanded  a vessel named the <hi rend="italics"> Loyalty</hi>in 1729-1730. (Survey Report 9727, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. See Carter's letters to John Pemberton 1730 April 15 and 1731 August 4. The software will not permit the use of a footnote in this area of the text, and an asterisk has been resorted to by the editor.) </note>
+<note>* Captain Loxom commanded  a vessel named the <hi rend="italics"> Loyalty</hi> in 1729-1730. James Tarleton commanded a vessel of that name  in 1731.  (The software will not permit the use of a footnote in this area of the text, and an asterisk has been resorted to by the editor. Survey Report 9727, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. See Carter's letters to John Pemberton <xref to="http://carter.lib.virginia.edu/html/C30d15c.html">April 15, 1730</xref>, and <xref to="http://carter.lib.virginia.edu/html/C31h04a.html">August 4, 1731</xref>.) </note>
 
-<note id="n2">[2] There  were several vessels with the name <hi rend="italics">Rappahannock</hi>.   Carter's letters mention a Captain Hugh Brackhill in 1728-1729, and Captain Loxum in 1733. (<cit><bibl>Adm. 68/194, ff.30, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n2">[2] There  were several vessels with the name <hi rend="italics">Rappahannock</hi>.  One was based in Liverpool and was commanded by a Captain Francis Etheridge in 1725; she was a 90 ton ship with 13 men. Another of which Charles Whate was captain was of 60 tons with 11 men in 1726 and 1727. Carter's letters mention a Captain Hugh Brackhill in 1728-1729, and Captain Loxum in 1732. (<cit><bibl>Adm. 68/194, ff.30, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
-<note id="n3">[3] John Pemberton was a noted merchant of Liverpool with whom Carter did much business and to whom many of his letters are addressed.</note>
+<note id="n3">[3] Carter first mentions this vessel in this letter. Other mentions in letters to Cunliff and John Pemberton, both Liverpool merchants, indicate that city probably was the vessel's home port.</note>
 
-<note id="n4">[4] the Rappahannock</note>
+<note id="n4">[4] Parliament had passed an act forbidding the importation of stemmed tobacco in 1722. John Randolph was sent to England in 1728 as agent for Virginia to try to have the act overturned; his mission was successful, and he was home in the colony by <xref to="http://carter.lib.virginia.edu/html/C29f02a.html">June 2, 1729</xref>, when Carter wrote to welcome him home. (<cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> [Newport News, VA: Mariners' Museum, 1953], 116.</bibl></cit>)</note>
+
+<note id="n5">[6]  To sell at the mast means a sale on board a ship where the  "ship's mainmast [w]as the usual place of assembly for a court hearing, public sale, etc., on board ship. . . . " (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>). </note>
+
+<note id="n6">[6] the Rappahannock</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised October 6, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
+
 
 </div1>
 </back>

@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,8 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1729-06-24">June 24th, 1729</date><lb/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1729-06-24">June 24th, 1729</date><lb/>
 To the Rt Honble.<lb/>
 the Lord Fairfax<lb/>
 </dateline>
@@ -117,11 +116,11 @@ the Lord Fairfax<lb/>
 
 
 
-<p>I receiv'd a letter from <note n="MP2">Alderman Perry</note> of <abbr expan="December">Dec:</abbr> date acqua=<lb/>
-inting me that your Lordship hath been with him to let him know how you should<lb/>
-<sic corr="wish">wisht</sic> your rent which now <sic corr="entirely">intirely</sic> belongs to yourself <note n="WC"><abbr expan="Colonel">Colo</abbr> Cages</note> time being expired<lb/>
+<p>I <sic corr="received">receiv'd</sic> a letter from <note n="MP2">Alderman Perry</note> of <abbr expan="December">Dec:</abbr> date acqua=<lb/>
+inting me that your Lordship <sic corr="had">hath</sic> been with him to let him know how you should<lb/>
+want your rent which now <sic corr="entirely">intirely</sic> belongs to yourself <note n="WC"><abbr expan="Colonel">Colo</abbr> Cages</note> time being expired<lb/>
 In the month after and that he should accordingly pay it and he further tells me<lb/>
-your lordship wanted to know whether I should be willing to <corr resp="editor">[. . .]</corr>ing <sic corr="lease">leas</sic> after the<lb/>
+your lordship wanted to know whether I should be willing to <corr resp="editor">[. . .]</corr>ing <corr resp="editor">[the]</corr> <sic corr="lease">leas</sic> after the<lb/>
 old one was Expired In answer I Acquainted him the <sic corr="lease">leas</sic> would be out in <abbr expan="September">Sep</abbr> 1731<lb/>
 that I was grown old and infirm and that we were fallen into such wretched times<lb/>
 by the Poor Price of <abbr expan="Tobacco">Tobo</abbr> in which your Lordships rents are always Paid when that<lb/>
@@ -134,7 +133,7 @@ I suppose you have been Acquainted by this time</p>
 <p>I also told him it was some questions with me whether it would<lb/>
 be Proper for me to have a new Power from <abbr expan="your">yr</abbr> lordship only and whether it is <lb/>
 necessary I alter the <sic corr="style">stile</sic> of the grants of your lands for Hitherto I have gran<lb/>
-ted them in the names of your Lordship and <abbr expan="Colonel">Colo</abbr> Cage as devisee in trust of my<lb/>
+ted them in the names of your Lordship and <note n="WC"><abbr expan="Colonel">Colo</abbr> Cage</note> as devisee in trust of my<lb/>
 <note target="n1">lady Fairfax's</note> Will that it was my thoughts however not withstanding your<lb/>
 Lordship had the <sic corr="Entire">Intire</sic> right to the profits of the Estate yet the trust in <abbr expan="Colonel">Colo</abbr><lb/>
 Cage is still subscribing and that the Grant should go on In the same <sic corr="style">stile</sic> but in<lb/>
@@ -143,59 +142,59 @@ this I must submit to better judgements</p>
 <p>I also Acquainted Alderman Perry that upon the Crowns<lb/>
 having granted several <sic corr="Patents">Pattents</sic> for land According to the best information<lb/>
 I can get within the Plain boundaries of the Grant and Several more <sic corr="Patents">Pattents</sic><lb/>
-are daily labouring after I had Entered a Caveat against the Passing any<lb/>
+are daily labouring after I had Entered a <note target="n2">Caveat</note> against the Passing any<lb/>
 more <sic corr="Patents">Pattents</sic> within these bounds desiring Mr. Alderman to give your Lordship<lb/>
-a full Accot of this matter as I doubt not he hath already or will soon do</p>
+a full Accot of this matter as I doubt not he <sic corr="has">hath</sic> already or will soon do</p>
 
 <p>Since which we have had a hearing before the <note n="WG"><abbr expan="Governor">Govr</abbr></note> &amp;<lb/>
-Council and here with I send <abbr expan="your">yr</abbr> Lordship <sic corr="copies">copys</sic> of all the Papers relating thereto<lb/>
+<note target="n3">Council</note> and here with I send <abbr expan="your">yr</abbr> Lordship <sic corr="copies">copys</sic> of all the Papers relating thereto<lb/>
 as also <sic corr="Copies">Copys</sic> of some transactions in former Governours times relating to <abbr expan="your">yr</abbr><lb/>
 Lordships Grant</p>
 
 <p>These Papers by a serious Perusal will fully inform<lb/>
 your Lordship of the yeason <add resp="editor"> [<hi rend="italics">sic</hi>]</add> I go upon in Opposing these<lb/>
-<sic corr="Patents">Pattents</sic> this <note target="n2">little Fork</note> as it is Called where several <sic corr="Patents">Pattents</sic><lb/>
+<sic corr="Patents">Pattents</sic> this <note target="n4">little Fork</note> as it is Called where several <sic corr="Patents">Pattents</sic><lb/>
 
 <pb n="2"/><lb/><lb/>
 
-by the Crown All manner of Persons that Even I have talked with that <corr resp="editor">[have]</corr><lb/>
-any knowledge of the Places are clear in Affirming that <sic corr="lies">lyes</sic> within <abbr expan="your">yr</abbr> L<corr resp="editor">[ord]</corr><lb/>
+by the Crown All manner of Persons that Ever I have talked with that <corr resp="editor">[have]</corr><lb/>
+any knowledge of the Place are clear in Affirming that <corr resp="editor">[it]</corr> <sic corr="lies">lyes</sic> within <abbr expan="your">yr</abbr> L<corr resp="editor">[ord]</corr><lb/>
 ships Express boundary on that side and as to the boundary on the Other si<corr resp="editor">[de]</corr><lb/>
-to the Northwards the great river of <sic corr="Potomac">Potomack</sic> as you will be Informed<lb/>
+to the Northwards the great river of <sic corr="Potomac">Potomack</sic> as you will be Informed <corr resp="editor">[from]</corr><lb/>
 some of this Papers forks above the Present Inhabitants the Southern b<corr resp="editor">[ranch]</corr><lb/>
 is called <sic corr="Shenandoah">Chenandoah</sic> by the Indians and the main stream of the River <lb/>
-keeps away to the westward and wears the Indians name of Cohonkocut as t<corr resp="editor">[here]</corr><lb/>
+keeps away to the westward and wears the Indian name of Cohonkocut as t<corr resp="editor">[here]</corr><lb/>
 being no Comparison between the largeness of <sic corr="Shenandoah">Chenandoah</sic> and Cononko<corr resp="editor">[cut]</corr><lb/>
 the Maryland Grant is bounded to the Southward by Cohonkocut and there <corr resp="editor">[are]</corr><lb/>
-many inhabitants seated of Maryland Maryland side a great way beyond <sic corr="Shenand">Chenand</sic><corr resp="editor">[oah]</corr><lb/>
+many inhabitants seated of <add resp="editor"> [<hi rend="italics">sic</hi>]</add> maryland  side a great way beyond <sic corr="Shenandoah">Chenand</sic><corr resp="editor">[oah]</corr><lb/>
 Even Above branches that issue out of Cohonkocut as above <sic corr="Shenandoah">Chenandoah</sic> No<corr resp="editor">[w if]</corr><lb/>
 Cohonkocut is the Southern boundary to the Maryland grant why it should <lb/>
 be Also the Northern boundary to your Lordships grand is beyond my ca<corr resp="editor">[paci]</corr><lb/>
-ty to find an Argument for And yet our <note n="JG2"><sic corr="Receiver">Receivr</sic> General</note> declares it as hi<corr resp="editor">[s]</corr><lb/>
-Opinion that the lands above <sic corr="Shenandoah">Chenandoah</sic> are clearly the Kings and <corr resp="editor">[. . .]</corr><lb/>
+ty to find an Argument for And yet our <note n="JG2"><note target="n5"><sic corr="Receiver">Receivr</sic> General</note></note> declares it as hi<corr resp="editor">[s]</corr><lb/>
+Opinion that the lands above <sic corr="Shenandoah">Chenandoah</sic> are clearly the Kings and <corr resp="editor">[ . . . ]</corr><lb/>
 to be granted as such and that my laying Claim in your lordships behalf <corr resp="editor">[. . .]</corr><lb/>
 these lands that are clearly within the Express words of your grant is such<lb/>
 presumption that will Endanger the grant itself Nay I have been willing<lb/>
 that the <sic corr="Receiver">Receivr</sic> General should say At this Governours table after the che<corr resp="editor">[ck]</corr><lb/>
-of this Caveat that he <abbr expan="believed">beleiv'd</abbr> the Proprietors would hardly venture a lawsui<corr resp="editor">[t]</corr><lb/>
+of this Caveat that he <abbr expan="believed">beleiv'd</abbr> the <note target="n6">Proprietors</note> would hardly venture a lawsui<corr resp="editor">[t]</corr><lb/>
 with his majesty and that it was his Opinion the Crown would <sic corr="compel">compell</sic> t<corr resp="editor">[hem]</corr><lb/>
 to sell the grant and vest it in the Crown Again with such <sic corr="Elation">Eallation</sic> do<corr resp="editor">[es]</corr><lb/>
 our <sic corr="Receiver">Receivr</sic> General treat your lordships Estates which are granted under<lb/>
 the kings broad Seal and have been allowed and <sic corr="Confirmed">Confirmd</sic> by such a su<corr resp="editor">[cc]</corr><lb/>
 ession of Crowned heads</p>
 
-<p>Indeed all our Governours in the time of my Agency h<corr resp="editor">[ath]</corr><lb/>
-treated the Grant and me too with a great deal of Civility and Calm rese<corr resp="editor">[ct]</corr><lb/>
+<p>Indeed all our Governours in the time of my Agency h<corr resp="editor">[as]</corr><lb/>
+treated the Grant and me too with a great deal of Civility and Calm respe<corr resp="editor">[ct]</corr><lb/>
 Particularly our Present Governour whose business it chiefly is to take <corr resp="editor">[. . . ]</corr><lb/>
 of Asserting the kings boundary to his lands whose Calm and tempera<corr resp="editor">[te]</corr><lb/>
-<sic corr="carriage">carriadges</sic> both in this and all other matters hath been very Exemplar<corr resp="editor">[y]</corr></p>
+<sic corr="carriage">carriadges</sic> both in this and all other matters <sic corr="has">hath</sic> been very Exemplar<corr resp="editor">[y]</corr></p>
 
 <p>I must Confess if the <sic corr="Receiver">Receivr</sic> General can by the strength of<lb/>
 his interest compass bringing your Lordships grant Again into the<lb/>
-hands of the Crown he will gain a Considerable Perquisite to the <corr resp="editor">[pro]</corr><lb/>
-fits of his Place (As it will be to <note target="n3">Mr Auditor Blair's</note> the Commiss<corr resp="editor">[ary's]</corr><lb/>
+hands of the Crown he will gain a Considerable <note target="n7">Perquisite</note> to the <corr resp="editor">[pro]</corr><lb/>
+fits of his Place (As it will be to <note target="n8">Mr Auditor Blair's</note> the Commiss<corr resp="editor">[ary's]</corr><lb/>
 kinsman) If he can but keep himself fixed in that also He holds <corr resp="editor">[the]</corr><lb/>
-Place by the favour of Mr <note target="n4">Horace <sic corr="Walpole">Wallpool </sic></note>and has his commission<lb/>
+Place by the favour of Mr <note target="n9">Horace <sic corr="Walpole">Wallpool </sic></note>and has his commission<lb/>
 <corr resp="editor">[. . .]</corr> Upon this bottom I fancy he builds his hopes of <corr resp="editor">[. . .]</corr><lb/>
 <corr resp="editor">[. . .]</corr></p>
 
@@ -214,82 +213,83 @@ Lordship and have though it my duty under the trust I am not to let<lb/>
 your Lordships Estate be taken Away without any Opposition And I<lb/>
 shall <sic corr="beg">begg</sic> <abbr expan="your">yr</abbr> lordship to be very Plain in your directions to me whether<lb/>
 I shall persist in Prosecuting this Affair to settlement of your Lordships<lb/>
-<sic corr="boundaries">boundarys</sic> or if your lordship is pleased to be satisfyed in being <abbr expan="confined">confin'd</abbr><lb/>
+<sic corr="boundaries">boundarys</sic> or if your lordship is pleased to be <sic corr="satisfied">satisfyed</sic> in being <abbr expan="confined">confin'd</abbr><lb/>
 to <sic corr="Shenandoah">Chenandoah</sic> to the Westward and to <sic corr="lose">loos</sic> the little Fork to the Southward<lb/>
-as well as the great fork which the Crown hath already taken Possession of<lb/>
-<sic corr="althogh">altho</sic> I never yet could see any reason for it Be <abbr expan="pleased">pleas'd</abbr> to let me have your instru<lb/>
+as well as the great fork which the Crown <sic corr="has">hath</sic> already taken Possession of<lb/>
+<sic corr="although">altho</sic> I never yet could see any reason for it Be <abbr expan="pleased">pleas'd</abbr> to let me have your instru<lb/>
 ctions upon this whole matter to be my guide for the future</p>
 
 <p>In the late controversy I had with <note n="HD"><abbr expan="Colonel">Colo</abbr> Drysdale</note> our then <abbr expan="governor">govr</abbr><lb/>
 it <abbr expan="Appeared">Appear'd</abbr> that both your lordship and <abbr expan="Colonel">Colo</abbr> Cage <sic corr="relied">relyed</sic> Chiefly Upon Alder-<lb/>
-man Perry to Personate that Affair for you before their Lordships the <note target="n5">bo=<lb/>
-ard of Trade</note> therefore I have thought it Proper to send him <sic corr="copies">copys</sic> of All the<lb/>
+man Perry to Personate that Affair for you before their Lordships the <note target="n10">bo=<lb/>
+ard of Trade</note> therefore I have thought it Proper to send him <sic corr="Copies">Copys</sic> of All the<lb/>
 Papers that I now send to your lordship that he may be fully Apprized of this<lb/>
-Controversy relating to the boundarys and may be Prepared to make Appli-<lb/>
+Controversy relating to the <sic corr="boundaries">boundarys</sic> and may be Prepared to make Appli-<lb/>
 cation where he shall think it necessary for your lordships Service and interest<lb/>
 <sic corr="believing">beleiving</sic> your Lordship will still think it necessary to <sic corr="desire">disire</sic> his Assistance</p>
  
 <p>There is one thing more I shall take the liberty to mention to your <lb/>
 Lordship In these late years since the Backwoods have come to be seated thick <lb/>
 with inhabitants abundance of Peoples are making daily searches after mines <lb/>
-in the mountainous barren Lands <sic corr="it is">tis</sic> the Current Opinions that there are very <lb/>
+in the mountainous barren Lands <sic corr="it is">tis</sic> the Current Opinion that there are very <lb/>
 rich Ores in some of these mountains if any could be so lucky to find them out <lb/>
 There are now within your lordships grant Two Iron furnaces Erected that <lb/>
 are brought to Pretty good Perfections and there is Plenty of Iron Ore I believe <lb/>
-as good as in the world the two Furnaces belong the one to Bristol the other to <lb/>
-London There are two Places in the back woods also that have some <corr resp="editor">[veins?]</corr> <lb/>
+as good as in the world the two Furnaces belong the one to <name type="city">Bristol</name> the other to <lb/>
+<name type="city">London</name> There are two Places in the back woods also that have some <corr resp="editor">[veins?]</corr> <lb/>
 of Copper ore that are at a great distance from water <sic corr="Carriage">Carriadge</sic> and will be <lb/>
-Attended with very great charges to do any thing with them There is a Compa <lb/>
+Attended with very great charges to do any thing with them There is a Compa<add place="supralinear">[ny]</add><lb/>
 of Bristol <abbr expan="Merchants">Merchts</abbr> that have sent in men <sic corr="skilled">skilld</sic> in those Affairs to search <lb/>
-into the bowels of the Earth after this Copper Ore but some of them make hea<lb/>
-vy Complaints to me that the terms of your Lordships Grants your lands <corr resp="editor">[. . .]</corr> <lb/>
+into the bowels of the Earth after this Copper Ore but some of them make hea:<lb/>
+vy Complaints to me that the terms of your Lordships Grants your lands <corr resp="editor"> [ . . . ]</corr> <lb/>
 are too hard and discouraging having An Exception of All royal mines <lb/>
-and a full third of All lead Copper Tin Coals Iron &amp;c: I tell these go<corr resp="editor">[. . .]</corr> <lb/>
-men I follow the steps of my Predecessors they made the limit a<corr resp="editor">[. . . ]</corr> be<corr resp="editor">[fore]</corr> <lb/>
+and a full third of All lead Copper Tin Coals Iron &amp;c: I tell these go<corr resp="editor">[ . . . ]</corr> <lb/>
+men I follow the steps of my Predecessors they made the limit a<corr resp="editor">[ . . .  ]</corr> be<corr resp="editor">[fore]</corr> <lb/>
 my time I dare not make any Alteration without Particular <corr resp="editor">[. . .]</corr><lb/>
 
 <pb n="4"/><lb/><lb/>
-but to sooth them a little I told <corr resp="editor">[them]</corr> I would try the matter before your Lord<corr resp="editor">[ship]</corr><lb/>
-Upon the great <sic corr="discouragement">discouragment</sic> they say there is by the large <corr resp="editor">[. . . ]</corr>tions <lb/>
-grant And the Hazards they shall inn<add resp="editor">[omission in text]</add> as well as the great charge they <lb/>
+but to <sic corr="soothe">sooth</sic> them a little I told <corr resp="editor">[them]</corr> I would try the matter before your Lord<corr resp="editor">[ship]</corr><lb/>
+Upon the great <sic corr="discouragement">discouragment</sic> they say there is by the large <corr resp="editor">[. . . ]</corr>rvations <lb/>
+grant And the Hazards they shall un<add resp="editor">[omission in text]</add> as well as the great charge they <corr resp="editor">[will]</corr><lb/>
 be at And at last it may be miss of finding any veins of Ore that may be worth <lb/>
 while they threaten to discontinue their Searches </p>
 
-<p>I never yet Could find any directions from the Proprietors <corr resp="editor">[. . .]</corr> <lb/>
+<p>I never yet Could find any directions from the Proprietors <corr resp="editor">[of]</corr> <lb/>
 the <sic corr="terms">termes</sic> respecting the Ores the Grants should be made upon Upon <add resp="editor"> [<hi rend="italics">sic</hi>]</add> the p<corr resp="editor">[rior?]</corr> <lb/>
-Exerting of the Northern Neck Grant people were very Careless what was writ<corr resp="editor">[ten]</corr> <lb/>
-they were Underrespecting mines having in their terms very little or no Exp<corr resp="editor">[ecta]</corr> <lb/>
+Exerting of the Northern Neck Grant People were very Careless what was writ<corr resp="editor">[ten]</corr> <lb/>
+they were Underrespecting mines having in those times very little or no Exp<corr resp="editor">[ecta]</corr> <lb/>
 tion of finding What these Adventurers will do a deal of time and a g<corr resp="editor">[reat]</corr><lb/>
 deal of Charge must be spent before the Event will be seen</p>
 
 <p>I find in <note n="PL"><abbr expan="Colonel">Colo</abbr> Ludwells</note> book of grants the Exceptions to m <corr resp="editor">[ines]</corr> <lb/>
 were much more favourable to the takers up of Land <sic corr="than">then</sic> they were made <corr resp="editor">[by?]</corr><lb/>
-<note target="n6"><abbr expan="Colonel">Colo</abbr> <sic corr="Fitzhughs">Fitshughs</sic></note> &amp; <note target="n7"><abbr expan="Captain">Capt</abbr> Brent</note> who succeeded to <abbr expan="Colonel">Colo</abbr> Ludwell in the Agency th<corr resp="editor">[e]</corr><lb/>
-limitations I have followed Even since and never till of late took notice <corr resp="editor">[of]</corr><lb/>
+<note target="n11"><abbr expan="Colonel">Colo</abbr> <sic corr="Fitzhughs">Fitshughs</sic></note> &amp; <note target="n12"><abbr expan="Captain">Capt</abbr> Brent</note> who succeeded to <abbr expan="Colonel">Colo</abbr> Ludwell in the Agency th<corr resp="editor">[e]</corr><lb/>
+limitations I have followed Ever since and never <sic corr="until">till</sic> of late took notice <corr resp="editor">[of]</corr><lb/>
 the difference betwen Ludwells grants And Fitzhugh's</p>
 
-<p>Herein I send <abbr expan="your">yr</abbr> lordship the <sic corr="terms">termes</sic> of <abbr expan="Colonel">Colo</abbr> Ludwells Gran<corr resp="editor">[t]</corr><lb/>
-how this difference came to be made between these Grants Agents I can<corr resp="editor">['t]</corr><lb/>
-tell I can hardly think Fitzhugh had any new instructions from the P<corr resp="editor">[ropietors]</corr><lb/>
+<p>Herein I send <abbr expan="your">yr</abbr> lordship the terms of <abbr expan="Colonel">Colo</abbr> Ludwells Gran<corr resp="editor">[t]</corr><lb/>
+how this difference came to be made between these <del>Grants</del> Agents I can<corr resp="editor">[not]</corr><lb/>
+tell I can hardly think Fitzhugh had any new instructions from the P<corr resp="editor">[roprs]</corr><lb/>
 now whether your lordship will think fit to Encourage the taking up of y<corr resp="editor">[our]</corr><lb/>
-Barren mountainous lands which have little or no temptation in the Surf<corr resp="editor">[ace]</corr><lb/>
+Barren mountainous lands which have little or no temptation on the Surf<corr resp="editor">[ace]</corr><lb/>
 of them to give me orders to make a relaxation in respect to the benefit of fron<corr resp="editor">[tier?]</corr><lb/>
 mines and ores I shall submit to <abbr expan="your">yr</abbr> determination I cannot but think <abbr expan="Colonel">Colo</abbr><lb/>
 Ludwell who was the first that Entered on the Proprietors business set out w<corr resp="editor">[ith]</corr><lb/>
 full and plain instruction from the Proprietors and strictly Borrowed them i<corr resp="editor">[n]</corr><lb/>
 the forming his grants however this Alteration came to be made afterward</p>
 
-<p>So many various Subjects to be spoken Clearly to hath necessaril<corr resp="editor">[y]</corr><lb/>
+<p>So many various Subjects to be spoken Clearly to <sic corr="has">hath</sic> necessaril<corr resp="editor">[y]</corr><lb/>
 drawn this letter into An Uncommon length for which I hope <abbr expan="your">yr</abbr> Lordships<lb/>
 Pardon</p>
 
 
-<closer>My Lord<lb/>
-your Lordships<lb/>
-Most Obedient<lb/>
-Most Obliged &amp;<lb/>
-Most Humble Servt<lb/>
-<hi rend="italics"><hi rend="bold">ROBERT CARTER</hi></hi> 
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My Lord<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;your Lordships<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Most Obedient<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Most Obliged &amp;<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Most Humble Servt<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="italics"><hi rend="bold">ROBERT CARTER</hi></hi> 
 </closer>
 
 
@@ -304,27 +304,37 @@ Most Humble Servt<lb/>
 <div1 type="back matter">
 <head>NOTES</head>
 
-<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Source copy consulted: Add. Mss. 30306, British Library, London, from the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. This is the recipient's copy signed by Carter as is indicated by the used of bold italics. It has been bound into a book whose tight margins have obscured some words in the gutter from the camera.</note>
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Source copy consulted: Add. Mss. 30306, f.91-f.92v., British Library, London, from the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. This is the recipient's copy signed by Carter as is indicated by the used of bold italics. It has been bound into a book whose tight margins have obscured some words in the gutter from the camera.</note>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to persons abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] Catherine Culpeper, widow of the fifth Lord Fairfax (d. 1710); from her father, the 2nd Lord Culpeper, she had inherited about 1689 his five-sixths interest in the Northern Neck Proprietary in Virginia. Lord Fairfax consulted Micajah Perry about the affairs of the Propietary, and Perry had recommended Robert Carter to be the Virginia agent in 1702. He held the post until 1710 when Lady Fairfax transferred the agency to Edmund Jenings with Thomas Lee as the deputy agent. When she died in 1719, she bequeathed her Virginia property to her son Tom, but she made Wiliam Cage and Edward Filmer, trustees of the proprietary. Filmer soon died, and Cage, a kinsman of the 6th Lord Fairfax, became the sole trustee. From his grandmother, Margaret Lady Culpeper, the 6th Lord Fairfax inherited the other one-sixth of the Proprietary. Cage consulted Perry, and Robert Carter was again made agent in 1721, holding the post until his death ten years later.</note>
+<note id="n1">[1] Catherine Culpeper, widow of the fifth Lord Fairfax (d. 1710); from her father, the 2nd Lord Culpeper, she had inherited about 1689 his five-sixths interest in the Northern Neck Proprietary in Virginia. Lord Fairfax consulted Micajah Perry about the affairs of the Propietary, and Perry had recommended Robert Carter to be the Virginia agent in 1702. He held the post until 1710 when Lady Fairfax transferred the agency to Edmund Jenings with Thomas Lee as the deputy agent. When she died in 1719, she bequeathed her Virginia property to her son Tom, but she made Wiliam Cage and Edward Filmer, trustees of the proprietary. Filmer soon died, and Cage, a kinsman of the 6th Lord Fairfax, became the sole trustee. From his grandmother, Margaret Lady Culpeper, the 6th Lord Fairfax inherited the other one-sixth of the Proprietary. Cage consulted Perry, and Robert Carter was again made agent in 1721, holding the post until his death ten years later.  (For sources, see those listed at the end of the <xref to="/users/berkeley/#Northern Neck"> discussion of the Proprietary</xref> on the home page.)</note>
 
-<note id="n2">[2] The Fry-Jefferson map shows the Little Fork as a tributary of the Hedgman (now the Rappahannock) River. It lies in what is probably Culpeper County today, not far from the Blue Ridge. </note>
+<note id="n2">[2] A caveat is a "process in court (originally in ecclesiastical courts) to suspend proceedings; a notice given by some party to the proper officer not to take a certain step until the party giving the notice has been heard in opposition."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>) </note>
 
-<note id="n3">[3] John Blair (1687-1771), probably a great nephew of Commissary James Blair, was acting governor of Virginia 1758-68; deputy auditor general, 1728-32; auditor general, 1732-71; member of the House of Burgesses, 1734-41; clerk of the council, 1741-43; member of the council until 1770; and a member of Virginia Committee of Correspondence from 1763 (Bradford 1982: 164). (<cit><bibl>"John Blair [1732-1800]. Compiled by Rachel Sullivan. [rachsull@demog.berkeley.edu, 10/25/04.]" WWW.polysci.berkeley.edu/courses/coursepages/ps289/DataDiaries/JohnBlair.doc, 4/12/2005</bibl></cit>; and <cit><bibl>"Diary of John Blair."<title>William And Mary College Quarterly Historical Magazine.</title>  7[Jan1899]133-53.)</bibl></cit></note>
+<note id="n3">[3] "The governor's Council, also known as the Council of State or simply the Council, consisted of about a dozen of colonial Virginia's wealthiest and most prominent men. Beginning in the 1630s the Crown appointed Council members. . . . Crown appointments were lifetime appointments. From 1625, when Virginia became a royal colony, until the outbreak of the American Revolution (1775-1783), the Council members advised the royal governor or his deputy, the lieutenant governor, on all executive matters. The Council and the governor together constituted the highest court in the colony, known initially as the Quarter Court and later as the General Court. The Council members also served as members of the General Assembly; from the first meeting of the assembly in 1619 until 1643 the governor, Council members, and burgesses all met in unicameral session. After 1643 the Council members met separately as the upper House of the General Assembly."  (<xref to="http://www.encyclopediavirginia.org/Governor_s_Council_The">"The Governor's Council"</xref> in <title>Encyclopedia Virginia</title>)</note>
 
-<note id="n4">[4] Horace Walpole was the brother of Robert Walpole, the chief minister of England. He held the posts of "auditor general and surveyor general of the royal revenue in the colonies." (<cit><bibl n="B27">Billings. <hi rend="italics">et al. </hi> <title>Colonial Virginia: A History. </title></bibl></cit>)</note>
+<note id="n4">[4] The Fry-Jefferson map shows the Little Fork as a tributary of the Hedgman (now the Rappahannock) River. It lies in what is probably Culpeper County today, not far from the Blue Ridge. </note>
 
-<note id="n5">[5] Established in 1696 as successor to a similar body, the Lords Commissioners of Trade and Plantations was "an advisory group, subordinate to king and Privy Council, and with no executive, financial, or penalizing powers, the Board of Trade was nevertheless able . . . to exert a far reaching and often determining influence in colonial matters. . . . It prepared the royal instructions for the governors overseas. . . ." (<cit><bibl>Henry Hartwell, James Blair, and Edward Chilton. Hunter Dickinson Farish, <hi rend="italics">ed.</hi> <title>The Present State of Virginia, and the College.</title> [First published, 1940, by Colonial Williamsburg, Inc., and reprinted Charlottesville: University Press of Virginia, 1964.] pp. xvi-xvii.</bibl></cit>)</note>
+<note id="n5">[5] "The receiver-generalship was a royal appointment" and the official was required to give bond both to the lord of the treasury and to the governor. "Those who filled the office of receiver-general were practially all councillors. . . . The duties of the receiver-general included the receiving of the quit-rents, the revenue arising from the export duty of two shillings per hogshead on tobacco, the one penny per pound on tobacco exported from Virginia . . .  the port duty, which was the revenue arising from the fifteen pence per ton on all vessels arriving in the colony, and all funds of the colony not received by the treasurer. . . .  He paid out of the revenue . . .  the salaries of the officers of the colony, also those of the auditor-general of the colonies and the solicitor of Virginia affairs, both of whom lived in England. All the public expenses of the colony, except, of course, those paid out of the funds held by the treasurer, were paid out of the funds received in his office. . . .  He of course reported to the lords of the treasury all payments made on the order of the governor. The accounts of the revenues and the reports of disbursements forwarded to the lords of the treasury were certified to by the auditor and the governor, and sent by the governor."  (Percy Scott Flippin. <title>The Financial Administration of the Colony of Virginia</title> [Johns Hopkins Press, 1915.] 41-42.)</note>
 
-<note id="n6">[6] William Fitzhugh (1755-1701), lawyer, emigrated from England, married, and settled at "Eagle's Nest" in Stafford County by 1674 where he became burgess and later,  justice and militia officer. He became, with George Brent, agent for the proprietors in 1693 and held the office until his death. (<cit><bibl n="B5">Davis,  <title>William Fitzhugh. . . .</title>  pp. 3-55.</bibl></cit>)</note>
+<note id="n6">[6] See the discussion of the <xref to="http://carter.lib.virginia.edu/#Northern Neck">Northern Neck proprietary</xref> on this project's home page.</note>
 
-<note id="n7">[7] George Brent (d. 1699) of  "Woodstock," Stafford County, prominent lawyer and attorney general of the colony after 1684. He inherited from his grandfather the family's claim to a portion of the Brent Town grant. He and his friend and law partner, William Fiitzhugh, became the Virginia agents of the Northern Neck proprietary in 1693. (<cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title></bibl></cit> p. 178 ff.; and <cit><bibl n="B5">Davis,  <title>William Fitzhugh. . . .</title> pp. 41, 93.</bibl></cit>)</note>
+<note id="n7">[7]  Perquisities are "any casual profit, fee, remuneration, etc., attached to an office or position in addition to the normal salary or revenue." (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
+<note id="n8">[8] John Blair (1687-1771), born in Scotland before coming to Virginia with his father in the 1690s, was a nephew of Commissary James Blair and a merchant in Williamsburg. He was a justice of York County and held a variety of government posts including: deputy auditor general, 1728-71; member of the House of Burgesses, 1734-41; clerk of the council, 1741-43; and member of the council 1745-1770. As senior member of the Council, he was was acting governor of Virginia on a number of occasions between 1758-68. (John C. Van Horne. "John Blair ca. 1687-1771"  in <cit><bibl n="B42">Kneebone, Bearsss, <hi rend="italics">et al.</hi>, <title>Dictionary of Virginia Biography.</title> Vol. 1, pp. 543-544</bibl></cit>; and <cit><bibl>"Diary of John Blair."<title>William And Mary College Quarterly Historical Magazine.</title>  7[Jan1899]133-53.)</bibl></cit>)</note>
+
+<note id="n9">[9] Horace Walpole (1678-1757) was the younger brother of Robert Walpole, the chief minister of England. Horace held the posts of  "auditor general and surveyor general of the royal revenue in the colonies" as well as numerous diplomatic posts. (<cit><bibl n="B27">Billings. <hi rend="italics">et al. </hi> <title>Colonial Virginia: A History. </title></bibl></cit> See also the extensive article on Walpole by Philip Woodfine in the <title>Oxford Dictionary of National Biography.</title>)</note>
+
+<note id="n10">[10] Established in 1696 as successor to a similar body, the Lords Commissioners of Trade and Plantations was "an advisory group, subordinate to king and Privy Council, and with no executive, financial, or penalizing powers, the Board of Trade was nevertheless able . . . to exert a far reaching and often determining influence in colonial matters. . . . It prepared the royal instructions for the governors overseas. . . ." (<cit><bibl>Henry Hartwell, James Blair, and Edward Chilton. Hunter Dickinson Farish, <hi rend="italics">ed.</hi> <title>The Present State of Virginia, and the College.</title> [First published, 1940, by Colonial Williamsburg, Inc., and reprinted Charlottesville: University Press of Virginia, 1964.] pp. xvi-xvii.</bibl></cit>)</note>
+
+<note id="n11">[11] William Fitzhugh (1755-1701), lawyer, emigrated from England, married, and settled at "Eagle's Nest" in Stafford County by 1674 where he became burgess and later,  justice and militia officer. He became, with George Brent, agent for the proprietors in 1693 and held the office until his death. (<cit><bibl n="B5">Davis,  <title>William Fitzhugh. . . .</title>  pp. 3-55.</bibl></cit>)</note>
+
+<note id="n12">[12] George Brent (d. 1699) of  "Woodstock," Stafford County, prominent lawyer and attorney general of the colony after 1684. He inherited from his grandfather the family's claim to a portion of the Brent Town grant. He and his friend and law partner, William Fiitzhugh, became the Virginia agents of the Northern Neck proprietary in 1693. (<cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title></bibl></cit> p. 178 ff.; and <cit><bibl n="B5">Davis,  <title>William Fitzhugh. . . .</title> pp. 41, 93.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised April 3, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
  
-
 
 
 </div1>

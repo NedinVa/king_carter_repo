@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2006</date>
+     <date>2006, 2016</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -117,27 +117,28 @@ Mr. William Dawkins &amp; Com:<lb/>
 
 
 <p>This by <abbr expan="Captain">Capt</abbr> Waff in the <name type="ship">Mary</name> incloses a <lb/>
-bill of lading for 6 hogsheads of tobacco 3 of them <abbr expan="stemmed">stemm'd</abbr> of my<lb/>
+<note target="n1">bill of lading</note> for 6 hogsheads of tobacco 3 of them <abbr expan="stemmed">stemm'd</abbr> of my<lb/>
 crop one of them <abbr expan="tobacco">tobo</abbr> I <sic corr="fetched">fetcht</sic> from abroad and <abbr expan="stemmed">stemm'd</abbr> at home<lb/>
 the other two leaf tobacco from abroad I have already <sic corr="dispatched">dispatcht</sic><lb/>
 all my business to you</p>
 
 <p>At the house of a Friend of mine I had the<lb/>
-sight of some books that I would Willingly have the perusal of vizt<lb/>
-the <note target="n1">independent Whigg,</note> <note target="n2">the Spirit of the Ecclesiasticks of all<lb/>
+sight of some books that I would Willingly have the perusal of <note target="n2">vizt</note><lb/>
+the <note target="n3">independent <sic corr="Whig">Whigg</sic>,</note> <note target="n4">the Spirit of the Ecclesiasticks of all<lb/>
 Sects and Ages,</note> by Monsieur Barbeyrac 
 
 <pb n="2"/><lb/><lb/>
 translated from the French with a preface by the Author of the<lb/>
-independent Whigg. The late <note target="n3">Earl of Shaftsburys letters</note> to the late<lb/>
-Lord Molsworth concerning the love of ones country &amp;c. An historical<lb/>
-&amp; Critical Accot of the life and Writings of <note target="n4">Mr. William Chillingsworth</note><lb/>
+independent Whigg. The late <note target="n5">Earl of Shaftsburys letters</note> to the late<lb/>
+Lord Molsworth concerning the love of ones Country &amp;c. An historical<lb/>
+&amp; Critical Accot of the life and Writings of <note target="n6">Mr. William Chillingsworth</note><lb/>
 Chancellor of Sarum&mdash;.  I am far from liking the liberties these free thin.<lb/>
 kers take in their Writings however I have some inclination to read<lb/>
 them &amp; I desire you will send them to me I am 
 </p>
 
-<closer>Gentlemen<lb/> 
+<closer>
+Gentlemen<lb/> 
 Your most humble Servt
 </closer>
 
@@ -157,14 +158,19 @@ Your most humble Servt
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] <title>The Independent Whig</title> was a "a weekly political sheet" first published in January 1720 and continued for a year by Thomas Gordon and John Trenchard. This material was later gathered together with other writings and published by Gordon as a book, and it may be that book that Carter wanted. ("Significant Scots Thomas Gordon." http://www.electricscotland.com/history/other/gordon_thomas.htm. 5/12/2006.</note>
+<note id="n1"> [1] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
-<note id="n2">[2] Thomas Gordon, <hi rend="italics">ed.</hi> Jean Barbeyrac. <title>The Spirit of the Ecclesiasticks of all Sects and Ages, as to the Doctrines of Morality, and More Particularly the Spirit of the Ancient Fathers of the Church</title> London: J. Peele, 1722. (Library of Congress Online Catalog, 5/12/2006.)</note>
+<note id="n2">[2] Vizt. is the abbreviation for the Latin word "videlicet";  it means "that is to say; namely; to wit: used to introduce an amplification, or more precise or explicit explanation, of a previous statement or word." (<cit><bibl><title>Oxford English Dictionary</title> online.</bibl></cit>)</note>
 
-<note id="n3">[3] Anthony Ashley Cooper, Earl of Shaftesbury, <title>Letters from the Right Honourable the late Earl of Shaftesbury, to Robert Molesworth, Esq.</title> This book was first published in London in 1721.</note>
+<note id="n3">[3] <title>The Independent Whig</title> was a "a weekly political sheet" first published in January 1720 and continued for a year by Thomas Gordon and John Trenchard. This material was later gathered together with other writings and published by Gordon as a book, and it may be that book that Carter wanted. ("<xref to="http://www.electricscotland.com/history/other/gordon_thomas.htm">Significant Scots Thomas Gordon</xref>).</note>
 
-<note id="n4">[4] This probably is Francis Cheynell's <title>Chillingworthi Novissima; or, The Sickness, Heresy, Death and Bural of William Chillingworth</title> (1644) See <cit><bibl n="A28">Wright. "The Literary Interests of the First Carters." </bibl></cit> p. 53. </note>
+<note id="n4">[4] Thomas Gordon. <hi rend="italics">ed.</hi> Jean Barbeyrac. <title>The Spirit of the Ecclesiasticks of all Sects and Ages, as to the Doctrines of Morality, and More Particularly the Spirit of the Ancient Fathers of the Church</title> [London: J. Peele, 1722]. (Library of Congress Online Catalog, 5/12/2006.)</note>
 
+<note id="n5">[5] Anthony Ashley Cooper, Earl of Shaftesbury. <title>Letters from the Right Honourable the late Earl of Shaftesbury, to Robert Molesworth, Esq.</title> This book was first published in London in 1721.</note>
+
+<note id="n6">[6] This probably is Francis Cheynell's <title>Chillingworthi Novissima; or, The Sickness, Heresy, Death and Burial of William Chillingworth</title> (1644) See <cit><bibl n="A28">Wright. "The Literary Interests of the First Carters." </bibl></cit> p. 53. </note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was revised February 23, 2016,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 </div1>
 </back>

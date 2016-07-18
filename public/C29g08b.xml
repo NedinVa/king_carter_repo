@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -88,7 +88,7 @@
 <head>
 <bibl>
 <abbr>AL</abbr>
-<extent> p.</extent>
+<extent>1 p.</extent>
 <date value="1729-07-08"></date>
 <idno rend="suppress">C29g08b.xml</idno>
 <title>Letter from Robert Carter to Captain Richard Kelsick, July 8, 1729</title>
@@ -106,22 +106,21 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
-<date value="1729-07-08">July. 8. 1729</date><lb/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1729-07-08">July. 8. 1729</date><lb/>
 Capt Richard Kelsick<lb/>
 </dateline>
 <salute>Sir</salute>
 
 </opener>
 
-<p>My Old Correspondent in <note target="n2">your Port</note> hath for <lb/>
+<p>My Old Correspondent in <note target="n2">your Port</note> <sic corr="has">hath</sic> for <lb/>
 many years been Mr <note target="n3">John Gale</note> whose Candour and integri-<lb/>
 ty I have a very great Opinion of However in regard you have <lb/>
 no freight <abbr expan="Tobacco">Tobo</abbr> on board your ship but what is <sic corr="Consigned">Consignd</sic> <lb/>
 to <abbr expan="your">yr</abbr>Self I am contented you should have the dispose of my 6 <lb/>
-hogsheads Also for which I herewith send you a bill of lading <lb/>
+hogsheads Also for which I herewith send you a <note target="n4">bill of lading</note> <lb/>
 desiring you will bring me in 4 or 6 <sic corr="gross">groce</sic> of yr best &amp; Stron-<lb/>
-gest <abbr expan="Quart">Qt</abbr> Bottles and a <sic corr="cauldron">Chaldron</sic> of your Coals I would have <abbr expan="them">`em</abbr> <lb/>
+gest <abbr expan="Quart">Qt</abbr> Bottles and a <note target="n5"><sic corr="cauldron">Chaldron</sic></note> of your Coals I would have <abbr expan="them">'em</abbr> <lb/>
 brought in with as little Charge as Possible the coals may <lb/>
 come in loose and the bottles in Crates which is the Cheapest <lb/>
 way</p>
@@ -129,14 +128,9 @@ way</p>
 <p>I Heartily wish you a good <sic corr="Voyage">Voiage</sic> and am <lb/>
 <abbr expan="your">yr</abbr> Humble Servt.</p>
 
-<closer></closer>
-
-
 </div1>
 
 </body>
-
-
 
 <back>
 
@@ -147,12 +141,17 @@ way</p>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
 
-<note id="n1">[1] Carter noted in his diary 1727 January 19 the arrival of the <hi rend="italics">Mazareen</hi> at his house and a visit from her captain, Richard Kelsick, four days earlier. </note>
+<note id="n1">[1] Carter noted in his diary January 19,  1727, the arrival of the <hi  rend="italics">Mazareen</hi> at his house and a visit from her captain, Richard Kelsick, four days earlier.  Kelsick, with Peter How, a merchant of Whitehaven (on the Irish sea in northwest England), traded with the Fredericksburg, Virginia, area from the early 18th century.  (<cit><bibl>Paula S. Felder. "Fredericksburg and Whitehaven Connection to English Port a Forgotten Chapter in Area's Colonial History Living-history Program," <title>Fredericksburg Free-Lance Star, </title>7/2/2005.</bibl></cit>)</note>
 
-<note id="n2">[2] Glasgow</note>
+<note id="n2">[2] Whitehaven on the Irish sea in northwest England</note>
 
-<note id="n3">[3] John Gale was a Glasgow merchant about whom has little been discovered. Carter would write him several times in the period 1727-1729.</note>
+<note id="n3">[3] John Gale (<hi rend="italics">ante</hi> 1671-1729) was a Whitehaven merchant whom Carter would write a number of times times between1720 and 1729. "Like his brothers John was engaged in maritime trade. Operating as John Gale and Company, he was named as the owner of the vessel <hi rend="italics">Clotilda,</hi> built in England in 1726 and registered in Whitehaven in 1727 at 25 tons."  His will bequeathed "his half-share in the ships <hi rend="italics">Cumberland</hi> and <hi rend="italics">Somerset</hi>, his share in the <hi rend="italics">Sea Flower</hi>, and 'the whole ship <hi rend="italics">Clothilda</hi>.'"  The Gale family had many connections with the colonies, especially in Virginia and Maryland. <cit><bibl>(Gayle N.Mandell, <xref to="http://gale-gaylefamilies.com/john-gayle-the-elder-whitehaven-cumberland.html">"John Gale, "the Elder," (Ca. 1615-20-1680) of Whitehaven, Cumberland, England,"</xref> extensive genealogical and historical notes available online as part of a well-documented study on the "The Gale &amp; Gayle Families."</bibl></cit>)</note>
 
+ <note id="n4"> [4] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
+
+<note id="n5">[5] Chaldron is "an obsolete form of cauldron" and means "a dry measure of 4 quarters or 32 bushels. . . ." ( <title>Oxford English Dictionary</title> )</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised April , 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 </div1>
 </back>

@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,7 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Corotomn, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<name type="place">Corotomn, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;
 <date value="1728-11-30">Novr 30th. 1728</date><lb/>
 Colo Geo: Braxton<lb/>
 </dateline>
@@ -114,15 +114,18 @@ Colo Geo: Braxton<lb/>
 
 </opener>
 
-<p>I had the satisfaction to <sic corr="receive">receive</sic> yours of the 12th instant some <lb/>days ago Acquainting me <note target="n1">Major Todd</note> was willing and ready to take the <lb/>&pound;100 for the land as the law directs but refuses the &pound;14"10 for the houses and <lb/>as you apprehend intends to remove them you tell me he would have <sic corr="written">writ</sic> to  me but <lb/>was not able I am very <sic corr="thankful">thankfull</sic> to you for giving your self this trouble but <lb/>cannot forbear desiring you to persist in this Matter <sic corr="until">till</sic> you have sent it out <lb/>of <abbr expan="Major">Majr.</abbr> Todds power to take any Advantage of us for want of a tender <lb/>of his money I had it at <sic corr="Williamsburg">Williamsburgh</sic> for him and if you <sic corr="pleas e">pleas </sic> to pay <lb/>him the money And take his receipt I will forthwith send A Messanger <lb/>on purpose with it to you Unless your Calls this way may give me the Op<lb/><sic corr="portunity">pertunity</sic> of paying you in an Easier method I reqest you will take
+<p>I had the satisfaction to <sic corr="receive">receive</sic> yours of the 12th instant some <lb/>days ago Acquainting me <note target="n1">Major Todd</note> was willing and ready to take the <lb/>&pound;100 for the land as the law directs but refuses the &pound;14"10 for the houses and <lb/>as you apprehend intends to remove them you tell me he would have <sic corr="written">writ</sic> to  me but <lb/>was not able I am very <sic corr="thankful">thankfull</sic> to you for giving your self this trouble but <lb/>cannot forbear desiring you to persist in this Matter <sic corr="until">till</sic> you have sent it out <lb/>of <abbr expan="Major">Majr.</abbr> Todds power to take any Advantage of us for want of a tender <lb/>of his money I had it at <sic corr="Williamsburg">Williamsburgh</sic> for him and if you <sic corr="please">pleas </sic> to pay <lb/>him the money And take his receipt I will forthwith send A Messanger <lb/>on purpose with it to you Unless your Calls this way may give me the Op<lb/><sic corr="portunity">pertunity</sic> of paying you in an Easier method I reqest you will take
 
 
 <pb n="2"/><lb/><lb/>
 the first <sic corr="Opportunity">Oppertunity</sic> to favour me with a line Advising me what <lb/>is <abbr expan="Major">Majr</abbr> Todds last result if nothing else will do I will send the money <lb/>to his house</p>
 
-<p>you and I had some discourse About a seat of Land that you <lb/>reckoned would be Upon Sale in a little time in <note target="n2">Pomuncka</note> neck which <lb/>I pass Over at present if it <sic corr="lies">lyes</sic> in my power to be serviceable to you in any <lb/>thing within My compass I hope you will be free to make use of me <lb/>who am </p>
+<p>you and I had some discourse About a seat of Land that you <lb/>reckoned would be Upon Sale in a little time in <note target="n2"><sic corr="Pamunkey">Pomuncka</sic></note> neck which <lb/>I pass Over at present if it <sic corr="lies">lyes</sic> in my power to be serviceable to you in any <lb/>thing within My compass I hope you will be free to make use of me <lb/>who am </p>
 
-<closer>Sir<lb/>your most humble Servt.</closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your most humble Servt<lb/>
+.</closer>
 
 
 </div1>
@@ -142,12 +145,9 @@ the first <sic corr="Opportunity">Oppertunity</sic> to favour me with a line Adv
 
 <note id="n1">[1] This may be William Todd of King and Queen County whose name appears a number of times in the <title>Executive Journals of the Council. . . .</title>  in matters concerning land. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:19, 98, 105, 187, 195, 201, 221. </bibl></cit>  )</note>
 
-<note id="n2">[2] Pamunkey Neck was an area of land "between the Mattapony and Pamunkey Rivers, nowadays encompassing King William County, the southern part of Caroline County, and southern Spottsylvania County. It was administratively part of New Kent County until 1691 when it was part of King &amp; Queen County. When the Pamunkeys subjugated themselves to the King in 1701, it became King William County." (<cit><bibl>"Hance Hendrick"  http://home.nc.rr.com/rwbaird/hendrick/hendrickhans.html 12/02/2004</bibl></cit>)</note>
+<note id="n2">[2] Pamunkey Neck was an area of land "between the Mattapony and Pamunkey Rivers, nowadays encompassing King William County, the southern part of Caroline County, and southern Spottsylvania County. It was administratively part of New Kent County until 1691 when it was part of King &amp; Queen County. When the Pamunkeys subjugated themselves to the King in 1701, it became King William County." (<cit><bibl><xref to="http://www.genfiles.com/hendrick-files/Hance_Hendrick.pdf">1. Hance Hendrick (c1660?c1726-32.)"</xref>Examined 1/22/2015.</bibl></cit>)</note>
 
-
-
-
-
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised January 22, 2015,  to  strengthen the footnotes and the modern language version text.</hi></note>
 
 
 </div1>

@@ -12,10 +12,8 @@
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
 <!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; 
 
-<!NOTATION php SYSTEM "php">
-<!ENTITY Ext4 SYSTEM "http://www.stratfordhall.org\/learn\/lees\/thomaslee.php" NDATA php>
-
-
+<!NOTATION html SYSTEM "HTML">
+<!ENTITY Ext6 SYSTEM "http://www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm" NDATA html>
 
 ]>
 <TEI.2 id="C29c04a">
@@ -46,7 +44,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -113,9 +111,8 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Corotomn, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1729-03-04">March 4. 1728/9</date><lb/>
-Colo Lee<lb/>
+<name type="place">Corotomn, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1729-03-04">March 4. 1728/9</date><lb/>
+<abbr expan="Colonel">Colo</abbr> Lee<lb/>
 </dateline>
 <salute>Sir</salute>
 
@@ -128,14 +125,17 @@ Colo Lee<lb/>
 <pb n="2"/><lb/><lb/>
 Land <sic corr="comprised">comprized</sic> in your Deed now in the Office it is a method I can <lb/>by no means fall into the con<add place="supralinear">se</add>quence of it will be both intricate &amp; <lb/>end less Mr Thomas tells me in that survey he was <sic corr="entirely">intirely</sic> guided <lb/>by <note target="n5">Awbery</note> Who was Appointed by you to guide the work and he very <lb/>much scrupeled the taking in so large a quantity of Land <sic corr="until">untill</sic> <lb/>Awbery undertook that you should give me satisfaction about it &amp; tht <lb/>you <abbr expan="your">yr</abbr> Self had <sic corr="Shown">Shewed</sic> him several known places at large distances <lb/>that you would have him take in all these circumstances brought <lb/>together I hope you will no Longer insist</p>
 
-<p>As for the Composition I will have it weighty from tho=<lb/>se who pay me in <abbr expan="Tobaccos">Tobs</abbr>: the Crown you know takes no <abbr expan="tobacco">tobo</abbr> for the <lb/>Rights Sterling money is my due Bills of <abbr expan="Exchange">Excha</abbr> will best <sic corr="please">pleas</sic> <lb/>me however to make it no precedent to Oblige you I will take <lb/>Cash of you as you propose</p>
+<p>As for the Composition I will have it weighty from tho=<lb/>se who pay me in <abbr expan="Tobaccos">Tob:s</abbr>: the crown you know takes no <abbr expan="tobacco">tobo</abbr> for the <lb/>Rights Sterling money is my due <note target="n6">Bills of <abbr expan="Exchange">Excha</abbr></note> will best <sic corr="please">pleas</sic> <lb/>me however to make it no precedent to Oblige you I will take <lb/>Cash of you as you propose</p>
 
-<p>Mr: Thomas hath <sic corr="Shown">Shewed</sic> me his plat of the land at <lb/>the falls of your river taking in upon the three <abbr expan="warrants">warrts:</abbr> a <sic corr="greater">great<add place="supralinear">r</add></sic> <lb/>quantity than all the <abbr expan="warrants">warrts:</abbr> contain yours if for 150 Acres <lb/>if you persist in having your quantity I shall not Oppose it <lb/>but I must reserve the Eleven Acres at the upper end of the rolling <lb/><sic corr="road">rode</sic> next to <note n="GT"><abbr expan="Captain">Capt.</abbr> <sic corr="Turberville's">Turberviles</sic></note> Land to take in the red hill and the <lb/>Small Level that is below it and to include that part of the rolling <lb/>road but you would much better please us to leave all that <abbr expan="piece">ps</abbr> of <lb/>Land that <sic corr="lies">lyes</sic> between the run and your other line and <lb/>methinks a little good humour may bring you into this <sic corr="althogh">altho</sic> <abbr expan="you">yo</abbr> <lb/>fall some few acres short of your full quantity however if <corr resp="editor">[you]</corr> <lb/>will not bate an inch you have the Priority and must have it <lb/>The Point below this waste land being yours already affording <lb/>all imaginable <sic corr="Convenience">Conveniency</sic> of Levels for Building &amp;ca: <sic corr="it will">twil</sic> be <lb/>pretty harsh you will not leave my son a small part of this <lb/>waste Land to Set a house or Two upon for <note target="n6">receptall</note> to his <lb/>goods when ever he shall have Occasion to bring any there 
+<p>Mr: Thomas <sic corr="has">hath</sic> <sic corr="Shown">Shewed</sic> me his plat of the land at <lb/>the falls of <note target="n7">your river</note> taking in upon the three <abbr expan="warrants">warrts:</abbr> a <sic corr="greater">great<add place="supralinear">r</add></sic> <lb/>quantity than all the <abbr expan="warrants">warrts:</abbr> contain yours if for 150 Acres <lb/>if you persist in having your quantity I shall not Oppose it <lb/>but I must reserve the Eleven Acres at the upper end of the rolling <lb/><sic corr="road">rode</sic> next to <note n="GT"><abbr expan="Captain">Capt.</abbr> <sic corr="Turberville's">Turberviles</sic></note> Land to take in the red hill and the <lb/>Small Level that is below it and to include that part of the rolling <lb/>road but you would much better please us to leave all that <abbr expan="piece">ps</abbr> of <lb/>Land that <sic corr="lies">lyes</sic> between the run and your other line and <lb/>methinks a little good humour may bring you into this <sic corr="althogh">altho</sic> <abbr expan="you">yo</abbr> <lb/>fall some few acres short of your full quantity however if <corr resp="editor">[you]</corr> <lb/>will not <note target="n8">bate an inch</note> you have the Priority and must have it <lb/>The Point below this waste land being yours already affording <lb/>all imaginable <sic corr="Convenience">Conveniency</sic> of Levels for Building &amp;ca: <sic corr="it will">twill</sic> be <lb/>pretty harsh you will not leave my son a small part of this <lb/>waste Land to Set a house or Two upon for <note target="n9">receptall</note> to his <lb/>goods when ever he shall have Occasion to bring any there 
 
 <pb n="3"/><lb/><lb/>
 The 11 acres is Clearly without <abbr expan="your">yr.</abbr> Entry and if <abbr expan="you">yo</abbr> will not allow <lb/>a little spot more I shall say no more about it. I am </p>
 
-<closer>Sir<lb/><abbr expan="your">yr</abbr> most humble Servt:</closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="your">yr</abbr> most humble Servt:
+</closer>
 
 
 </div1>
@@ -153,18 +153,25 @@ The 11 acres is Clearly without <abbr expan="your">yr.</abbr> Entry and if <abbr
 
 <note>The county and colony have been added for clarity to the  heading on the draft.</note>
 
-<note id="n1">[1] Thomas Lee (1690-1750) of Westmoreland County was the son of Richard Lee II, and nephew of Edmund Jenings; he would build "Stratford," and succeed Carter on the Council. For a good article on Thomas Lee, see  that by Jeanne A. Calhoun on <xref to="Ext4">Stratford plantation's website</xref> at http://www.stratfordhall.org/learn/lees/thomas.php. (<cit><bibl>Burton J. Hendrick. <title>The Lees of Virginia: Biography of a Family.</title> [Boston: Little Brown, 1935]. pp. 48, 51, etc.</bibl></cit>)</note>
+<note id="n1">[1] Thomas Lee (1690-1750) of Westmoreland County was the son of Richard Lee II, and nephew of Edmund Jenings; he would build "Stratford," and succeed Carter on the Council. For a good article on Thomas Lee, see  "<xref to="http://www.stratfordhall.org/collections-research/staff-research/thomas-lee-of-stratford-1690-1750/">Thomas Lee of Stratford</xref> 1690-1750" by Jeanne A. Calhoun on Stratford plantation's website. (<cit><bibl>Burton J. Hendrick. <title>The Lees of Virginia: Biography of a Family.</title> [Boston: Little Brown, 1935]. pp. 48, 51, etc.</bibl></cit>)</note>
 
-<note id="n2">[2] Carter had written a letter to Lee <xref doc="C29b24a"> February 24, 1729.</xref>.</note>
+<note id="n2">[2] Carter had written a letter to Lee  <xref to="http://carter.lib.virginia.edu/html/C29b24a.html">February 24, 1729.</xref></note>
 
-<note id="n3">[3] Carter refers to the fire that burned Lee's house at Machodoc on January 29, 1729. The <hi rend="italics">Maryland Gazette</hi>reported that "Col. Thomas Lee's fine House in Virginia was burnt, his Office, barns, and Out-houses: His Plate, Cash (to the Sum of 1000 &pound;) Papers, and every Thing intirely lost. . . ."  (See the <cit><bibl><hi rend="italics">Maryland Gazette</hi> for March 25-April 4, 1729.</bibl></cit> for the report of Lee's loss.)</note>
+<note id="n3">[3] Carter refers to the fire that burned Lee's house on Machodoc River in Westmoreland County on January 29, 1729. The <hi rend="italics">Maryland Gazette</hi>reported that "Col. Thomas Lee's fine House in Virginia was burnt, his Office, barns, and Out-houses: His Plate, Cash (to the Sum of 1000 &pound;) Papers, and every Thing intirely lost. . . ."  (See the <cit><bibl><hi rend="italics">Maryland Gazette</hi> for March 25-April 1, 1729.</bibl></cit> for the report of Lee's loss.)</note>
 
 <note id="n4">[4] James Thomas was surveyor of Lancaster County, and after 1727, of Westmoreland County. In 1736, he would be one of the surveyors involved in the work of the commission to determine the bounds of the Northern Neck proprietary. (<cit><bibl n="B8">Brown. <title>Virginia Baron. . . .</title> pp. 83, 92. See Carter to Peter Beverley, <xref to="/users/berkeley/public/C27l14a.xml">December 14, 1727</xref>.</bibl></cit>)</note>
 
 <note id="n5">[5] Francis (Frank) Awbrey (1690?- 1741) was an active land speculator in the area that became Loudoun County, and was one of the first justices when Prince William County was organized in 1731. He was sheriff of that county in 1739. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:239, 439;</bibl></cit> and <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title>pp. 148, 150, 153-54 ff. </bibl></cit>)</note>
 
-<note id="n6">[6] While Carter's clerk wrote "receptall," the editor suspects that Carter may have dictated "receptacle."</note>
+<note id="n6"> [6] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (<cit><bibl><xref to="Ext6">"Dictionary of  Financial Scam Terms,"</xref> 8/22/2005</bibl></cit>)</note>
 
+<note id="n7">[7] the Potomac</note>
+
+<note id="n8">[8] One of the many meanings of "bate," according to the <title>Oxford English Dictionary Online,</title> is " to decrease in amount, weight, estimation." </note>
+
+<note id="n9">[9] While Carter's clerk wrote "receptall," the editor suspects that Carter may have dictated "receptacle."</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised February 10, 2015,  to  strengthen the footnotes and the modern language version text.</hi></note>
 
 
 

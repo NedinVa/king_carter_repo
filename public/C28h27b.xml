@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -88,13 +88,13 @@
 <head>
 <bibl>
 <abbr>AL</abbr>
-<extent> p.</extent>
+<extent>1 p.</extent>
 <date value="1728-08-27"></date>
 <idno rend="suppress">C28h27b.xml</idno>
 <title>Letter from Robert Carter to Edward Randolph, August 27, 1728</title>
 </bibl>
 </head>
-<p>Robert Carter writes to London merchant Edward Randolph, August 27, 1728, demanding payment of the proceeds of the sale of tobacco sent 2 or 3 years earlier by Robert Bolling to Randolph apparently in payment of a debt to Carter.</p>
+<p>Robert Carter writes to London and Virginia merchant Edward Randolph, August 27, 1728, demanding payment of the proceeds of the sale of tobacco sent 2 or 3 years earlier by Robert Bolling to Randolph apparently in payment of a debt to Carter.</p>
 </div1>                 
 </front>
 
@@ -114,11 +114,13 @@ Mr. Edwd. Randolph<lb/>
 
 </opener>
 
-<p>Colonel <note target="n2">Robert Bolling</note> of James River two <lb/>or three years ago Sent you 67 hogsheads of <abbr expan="Tobacco">Tobbo:</abbr> the Effects of which was <lb/>to be paid to my Order <del>This Spring</del> in the time of our <add place="supralinear"><del>last</del></add> Assembly held in <lb/>March last he acquainted me he had an Accot. of the Sales of this <abbr expan="Tobacco">Tobbo.</abbr> from you <lb/>amounting to about Two Hundred and thirty one pounds <lb/>&amp; telling me he had your Letter wherein you promised to be Account=<lb/>able for this money to me <del>or my order</del> I have already <sic corr="written">writ</sic> to <note n="MP2"><abbr expan="Micajah">Micajh.</abbr> <lb/>Perry</note> <abbr expan="Esquire">Esqr.</abbr> to demand and receive it of you, who gives me no Accot. <lb/>hitherto about it have therefore thought it proper to Send to him <lb/>this order upon you <sic corr="desiring">desireing</sic> you will cause the <abbr expan="Payment">Paymt.</abbr> thereof to be <lb/>made to him on his order <add place="supralinear">upon my Accot </add> and he upon <abbr expan="receipt">rect.</abbr> will give you a discharge <lb/>from </p>
+<p>Colonel <note target="n2">Robert Bolling</note> of James River two <lb/>or three years ago Sent you 67 hogsheads of <abbr expan="Tobacco">Tobbo:</abbr> the Effects of which was <lb/>to be paid to my Order <del>This Spring</del> in the time of our <add place="supralinear"><del>last</del></add> Assembly held in <lb/>March last he acquainted me he had an Accot. of the Sales of this <abbr expan="Tobacco">Tobbo.</abbr> from you <lb/>amounting to about Two Hundred and thirty one Pounds <lb/>&amp; telling me he had your Letter wherein you promised to be Account=<lb/>able for this money to me <del>or my order</del> I have already <sic corr="written">writ</sic> to <note n="MP2"><abbr expan="Micajah">Micajh.</abbr> <lb/>Perry</note> <abbr expan="Esquire">Esqr.</abbr> to demand and receive it of you, who gives me no Accot. <lb/>hitherto about it have therefore thought it proper to Send to him <lb/>this order upon you <sic corr="desiring">desireing</sic> you will cause the <abbr expan="Payment">Paymt.</abbr> thereof to be <lb/>made to him on his order <add place="supralinear">upon my Accot </add> and he upon <abbr expan="receipt">rect.</abbr> will give you a discharge <lb/>from </p>
 
-<closer><seg type="postscript">Yor. humble Servt.
-<lb/><lb/>To <lb/>Mr: <abbr expan="Edward:">Edwd:</abbr> Randolph <lb/><abbr expan="Merchant">Mercht.</abbr> in London
-<lb/>per Capt: Willcox</seg></closer>
+<closer><seg type="postscript">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. humble Servt.
+<lb/><lb/>To <lb/>Mr: <abbr expan="Edward:">Edwd:</abbr> Randolph <lb/>
+<abbr expan="Merchant">Mercht.</abbr> in <name type="city">London</name>
+<lb/>per <abbr expan="Captain">Capt:</abbr> Willcox</seg></closer>
 
 
 </div1>
@@ -136,10 +138,12 @@ Mr. Edwd. Randolph<lb/>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
 
-<note id="n1">[1] Little has been found about Randolph other than the fact that he may have come to live in Virginia as a man of that name was cited in York County records in 1740, "Edward Randolph of Loudoun, mercht, now residing in Virginia, devisee under the will of Graves Pack. . . ." (<cit><bibl><title>William and Mary Quarterly.</title> 3[Apr., 1895]269.</bibl></cit>)</note>
+<note id="n1">[1]  "Edward Randolph (October 1690 -<hi rend="italics">post</hi> 1756), sometimes referred to as Edward Randolph of Bremo, was a ship captain, a London tobacco merchant, and the seventh and youngest son of William Randolph and Mary Isham."  He was cited in York County records in 1740: "Edward Randolph of London, mercht, now residing in Virginia, devisee under the will of Graves Pack. . . ." He was bankrupt by 1732 and Benjamin Harrison IV was among those who sued him. (<cit><bibl><xref to="http://en.wikipedia.org/wiki/Edward_Randolph">"Edward Randolph</xref>" in a carefully-footnoted Wikipedia article</bibl></cit>; and<cit><bibl> "Charges Against Spotswood," <title>Virginia Magazine of History and Biography</title> 4[Apr., 1897]:357.</bibl></cit>)</note>
 
-<note id="n2">[2] Robert Bolling (1682-1749) of Prince George County. (<cit><bibl>"Bolling Family," http://homepages.rootsweb.com/~marshall/esmd19.htm, November 5, 2004.</bibl></cit>)</note>
 
+<note id="n2">[2] Robert Bolling (1682-1749) "Robert Bolling,the 2nd, was the oldest son of Robert Bolling and Anne Stith. He was born January 25, 1682 and died in 1749. He was a surveyor in Charles City county in 1714 and a Justice of the Peace, and Burgess in 1723, 1726 and 1730. He married January 27, 1706, Anne, daughter of Richard and Anne (Bowler) Cocke."  (<cit><bibl><xref to="http://www.wikitree.com/wiki/Bolling-8">"Major Robert Bolling Jr."</xref> on WikiTree, 12/18/2014</bibl></cit>; and <cit><bibl><xref to="http://homepages.rootsweb.ancestry.com/~marshall/esmd19.htm">"Bolling Family,"</xref>, 11/5/2004 and 12/18/2014.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised December 19, 2014,  to strengthen the modern language version text and footnotes.</hi></note>
 
 
 

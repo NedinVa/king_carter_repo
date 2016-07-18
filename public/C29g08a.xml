@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,8 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
-<date value="1729-07-08">July 8. 1729</date><lb/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1729-07-08">July 8. 1729</date><lb/>
 Mr John Gale<lb/>
 </dateline>
 <salute>Sir</salute>
@@ -115,8 +114,8 @@ Mr John Gale<lb/>
 </opener>
 
 <p>I had the favour of <abbr expan="yours">yrs:</abbr> by <note target="n2"><abbr expan="Captain">Capt</abbr> Kelsick</note><lb/>
-which gives me to Understand you had <sic corr="Accepted">Acepted</sic> my bills of Exch <lb/>
-ange which I drew upon you for the <sic corr="Balance">Ballance</sic> of <abbr expan="your">yr</abbr> Accot:<lb/>
+which gives me to Understand you had <sic corr="Accepted">Acepted</sic> my <note target="n3">bills of Exch <lb/>
+ange</note> which I drew upon you for the <sic corr="Balance">Ballance</sic> of <abbr expan="your">yr</abbr> Accot:<lb/>
 By the Lowness of <abbr expan="your">yr</abbr> Market you discourage me from 
 
 <pb n="2"/><lb/><lb/>
@@ -133,8 +132,10 @@ are desirous of it. Wishing you all health &amp; <sic corr="happiness">happyness
 and remaining 
 </p>
 
-<closer>Sir<lb/> 
-<abbr expan="your">yr</abbr> most Obedient humble Servt:</closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir<lb/> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="your">yr</abbr> most Obedient humble Servt:
+</closer>
 
 
 </div1>
@@ -152,12 +153,13 @@ and remaining
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
 
-<note id="n1">[1] John Gale was a Glasgow merchant about whom has little been discovered. Carter would write him several times in the period 1727-1729.</note>
+<note id="n1">[1] John Gale (<hi rend="italics">ante</hi> 1671-1729) was a Whitehaven merchant to whom Carter would write a number of times times between1720 and 1729. "Like his brothers John was engaged in maritime trade. Operating as John Gale and Company, he was named as the owner of the vessel <hi rend="italics">Clotilda,</hi> built in England in 1726 and registered in Whitehaven in 1727 at 25 tons." His will bequeathed "his half-share in the ships <hi rend="italics">Cumberland</hi> and <hi rend="italics">Somerset</hi>, his share in the <hi rend="italics">Sea Flower</hi>, and 'the whole ship <hi rend="italics">Clothilda</hi>.'"  The Gale family had many connections with the colonies, especially in Virginia and Maryland. <cit><bibl>(Gayle N.Mandell, <xref to="http://gale-gaylefamilies.com/john-gayle-the-elder-whitehaven-cumberland.html">"John Gale, "the Elder," (Ca. 1615-20-1680) of Whitehaven, Cumberland, England,"</xref> extensive genealogical and historical notes available online as part of a well-documented study on the "The Gale &amp; Gayle Families."</bibl></cit>)</note>
 
-<note id="n2">[2] Carter noted in his diary 1727 January 19 the arrival of the <hi rend="italics">Mazareen</hi> at his house and a visit from her captain, Richard Kelsick, four days earlier. </note>
+<note id="n2">[2] Carter noted in his diary January 19,  1727, the arrival of the <hi  rend="italics">Mazareen</hi> at his house and a visit from her captain, Richard Kelsick, four days earlier.  Kelsick, with Peter How, a merchant of Whitehaven (on the Irish sea in northwest England), traded with the Fredericksburg, Virginia, area from the early 18th century.  (<cit><bibl>Paula S. Felder. "Fredericksburg and Whitehaven Connection to English Port a Forgotten Chapter in Area's Colonial History Living-history Program," <title>Fredericksburg Free-Lance Star, </title>7/2/2005.</bibl></cit>)</note>
 
+<note id="n3"> [3] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (See <cit><bibl><xref to="http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm">"Bill of Exchange"</xref> in the online Dictionary of Financial Scam Terms: the Truth vs. the Scam.</bibl></cit>)</note>
 
-
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised April 24, 2015,  to add a footnote and strengthen the modern language version text.</hi></note>
 
 </div1>
 </back>

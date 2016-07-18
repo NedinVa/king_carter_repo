@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -88,7 +88,7 @@
 <head>
 <bibl>
 <abbr>AL</abbr>
-<extent> p.</extent>
+<extent>2 p.</extent>
 <date value="1728-06-29"></date>
 <idno rend="suppress">C28f29a.xml</idno>
 <title>Letter from Robert Carter to [Governor William Gooch], June 29, 1728</title>
@@ -106,19 +106,21 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1728-06-29">[date from text]</date><lb/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1728-06-29">[date from text]</date><lb/>
 </dateline>
 <salute>May it please Your Honr:</salute>
 
 </opener>
 
-<p>This Morning Arrived into <note target="n1">this River </note><lb/><abbr expan="Captain">Capt.</abbr><note target="n2"><abbr expan=" James"> Jas;</abbr> Tarleton</note> of <name type="city">Liverpool</name> from the <sic corr="Madeira">Maderas</sic> he <lb/><sic corr="has">hath</sic> Landed two pipes of wine here for your <abbr expan="Honor">Honr:</abbr><lb/> by order of <note target="n3">Mr. Rider</note> the Ship is gone up our river. he <lb/>says by his bill of Lading he is not obliged to carry them <lb/>any further, Your Lettr. I presume will inform the truth <lb/>of this which comes herewith he could not have taken <lb/>them in upon any Other Terms, I shall wait your <abbr expan="Honor's">Honrs:</abbr> <lb/>Direction about them. There is a Sloop of <note target="n4"><abbr expan="Captain">Capt.</abbr> Hopkins</note> <lb/>es that must call at my house for <abbr expan="Tobacco">Tobbo:</abbr> in her way down <lb/>I Expect her in less <sic corr="than">then</sic> a <note target="n5">fortnight</note> she comes by <lb/>the Mouth of Queens Creek and no doubt <del>but</del> I can <lb/><sic corr="persuade">perswade</sic> the Men to bring the wine up to <abbr expan="Williamsburg">Wms.Burgh</abbr> <lb/>Landing it is so <sic corr="ticklish">tickleish</sic> a Commodity I shall not 
+<p>This Morning Arrived into <note target="n1">this River </note><lb/><abbr expan="Captain">Capt.</abbr><note target="n2"><abbr expan=" James"> Jas;</abbr> Tarleton</note> of <name type="city">Liverpool</name> from the <sic corr="Madeira">Maderas</sic> he <lb/><sic corr="has">hath</sic> Landed two pipes of wine here for your <abbr expan="Honor">Honr:</abbr><lb/> by order of <note target="n3">Mr. Rider</note> the Ship is gone up our river. he <lb/>says by his ] he is not obliged to carry them <lb/>any further, Your Lettr. I presume will inform the truth <lb/>of this which comes herewith he could not have taken <lb/>them in upon any Other Terms, I shall wait your <abbr expan="Honor's">Honrs:</abbr> <lb/>Direction about them. There is a Sloop of <note target="n5"><abbr expan="Captain">Capt.</abbr> Hopkins</note> <lb/>es that must call at my house for <abbr expan="Tobacco">Tobbo:</abbr> in her way down <lb/>I Expect her in less <sic corr="than">then</sic> a <note target="n6">fortnight</note> she comes by <lb/>the Mouth of <note target="n7">Queens Creek</note> and no doubt <del>but</del> I can <lb/><sic corr="persuade">perswade</sic> the Men to bring the wine up to <abbr expan="Williamsburg">Wms.Burgh</abbr> <lb/>Landing it is so <sic corr="ticklish">tickleish</sic> a Commodity I shall not 
 
 <pb n="2"/><lb/><lb/>
 Adventure to Send it by this Conveniency unless I have <lb/>your <abbr expan="Honor's">Honrs</abbr> Express orders I am </p>
 
-<closer>Sr. <lb/>Your <abbr expan="Honor's">Honrs</abbr> most Obedt. <del>&amp; most</del>Obliged <lb/><lb/>&amp; most humble Servt</closer>
+<closer>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sr. <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your <abbr expan="Honor's">Honrs</abbr> most Obedt.<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <del>&amp; most</del>Obliged <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&amp; most humble Servt</closer>
 
 
 </div1>
@@ -140,14 +142,19 @@ Adventure to Send it by this Conveniency unless I have <lb/>your <abbr expan="Ho
 
 <note id="n1">[1] The Rappahannock</note>
 
-<note id="n2">[2] This may have been James Tarleton who commanded the <hi rend="italics">The Loyalty</hi> in 1731.  (Survey Report 9727, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. See Carter's letters to John Pemberton 1730 April 15 and 1731 August 4.)</note>
+<note id="n2">[2] This may have been James Tarleton who in 1731 cammanded the <hi rend="italics">The Loyalty</hi>. Several vessels with this name sailed to Virginia. One commanded by Francis Wallis cleared from Poole for Virginia in 1726. Captain Loxom commanded  a vessel of this name in 1729-1730.. (Survey Report 9727, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. See Carter's letters to John Pemberton <xref to="/users/berkeley/public/C30d15c.xml">April 15,1730</xref> and <xref to="/users/berkeley/public/C31h04a.xml">1731 August 4</xref>.)</note>
 
-<note id="n3">[3] Mr. Rider was probably a member of the firm of Hayward Miles &amp; Rider of Madeira from whom Carter had ordered wine on 1727 June 29.</note>
+<note id="n3">[3] Mr. Rider was probably a member of the firm of Hayward Miles &amp; Rider of Madeira from whom Carter had ordered wine on <xref to="http://carter.lib.virginia.edu/html/C27f29b.html">June 29, 1727</xref>.  This firm had been established in Madeira by Joseph Hayward in 1715. It became Hayward &amp; Rider (1721-1723),  Hayward Miles &amp; Rider (1725-1730), and other partnerships later. (<cit><bibl>David Hancock, "'An Undiscovered Ocean of Commerce Laid Open': India, Wine and Emerging Atlantic Economy, 1703-1813" in H. V. Bowen, Margarette Lincoln, Nigel Rigby, <hi rend="italics">eds. </hi><title>The Worlds of the East India Company.</title> [Boydell &amp; Brewer, 2002]. p. 156</bibl></cit>)</note>
 
-<note id="n4">[4] Captain James Hopkins commanded the <hi rend="italics">Mary</hi> in 1727-1728. He was then working for London merchant Robert Cary. He is mentioned in Carter's diary. (<cit><bibl>Adm. 68/194, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+ <note id="n4"> [4] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
-<note id="n5">[5] A fortnight is two weeks.</note>
+<note id="n5">[5] Captain James Hopkins commanded the <hi rend="italics">Mary</hi> in 1727-1728. He was then working for London merchant Robert Cary. He is mentioned in Carter's diary. (<cit><bibl>Adm. 68/194, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
+<note id="n6">[6] A fortnight is two weeks.</note>
+
+ <note id="n7">[7] "Queen's Creek is located in York County in the Virginia Peninsula area of the Hampton Roads region of southeastern Virginia in the United States. From a point of origin near the Waller Mill Reservoir in western York County it flows northeasterly across the northern half of the Peninsula as a tributary of the York River." (<cit><bibl><xref to="http://en.wikipedia.org/wiki/Queen's_Creek">"Queen's Creek"</xref> in Wikipedia.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised November 14, 2014,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 

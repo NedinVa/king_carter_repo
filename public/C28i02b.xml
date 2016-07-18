@@ -10,7 +10,12 @@
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; 
+
+<!NOTATION html SYSTEM "HTML">
+<!ENTITY Ext6 SYSTEM "http://www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm" NDATA html>
+
+]>
 <TEI.2 id="C28i02b">
 
 
@@ -39,7 +44,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,8 +111,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1728-09-02">Sepr. the. 2d. 1728</date><lb/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1728-09-02">Sepr. the. 2d. 1728</date><lb/>
 Mr. John Stark<lb/>
 </dateline>
 <salute>Sir&mdash;</salute>
@@ -116,12 +120,14 @@ Mr. John Stark<lb/>
 
 
 
-<p>Twelve <abbr expan="hogsheads">hhds:</abbr> I proposed to Send you by <note target="n2">Mr. Cheaps</note> <lb/>Ship I am disappointed of his Sloop came indeed before I was ready <lb/>after I had got my <abbr expan="Tobacco">Tobbo:</abbr> in order I Send to the Master about it Desire<lb/>ing he would take it in when he came down against my house <lb/>but now he is full my <abbr expan="Tobacco">Tobbo:</abbr> <sic corr="lies">lyes</sic> by me without present Prospect of Shipping it any where,</p>
+<p>Twelve <abbr expan="hogsheads">hhds:</abbr> I proposed to Send you by <note target="n2">Mr. Cheaps</note> <lb/>Ship I am disappointed of his Sloop came indeed before I was ready <lb/>after I had got my <abbr expan="Tobacco">Tobbo:</abbr> in order I Send to the Master about it <sic corr="Desir">Desire</sic><lb/>ing he would take it in when he came down against my house <lb/>but now he is full my <abbr expan="Tobacco">Tobbo:</abbr> <sic corr="lies">lyes</sic> by me without present Prospect of Shipping it any where,</p>
 
-<p>This comes by the Ship and is to advise you tht. <lb/>I have lately drawn on your for &pound;100 payable to Colonel <note target="n3">John <lb/>Tayloe</note> and &pound;14 to Mr. <note n="TC1">Thomas Carter</note> making this money as <lb/><sic corr="easy">easie</sic> to the Bristol men as you can you will oblige me My Invoice <lb/>I Sent you Via London and also by <note target="n4"><abbr expan="Captain">Capt:</abbr> Sharp</note> by whom writ <lb/>to you at large Shall take my Leave at present </p>
+<p>This comes by the Ship and is to advise you tht. <lb/>I have lately<note target="n3"> drawn</note> on your for &pound;100 payable to Colonel <note target="n4">John <lb/>Tayloe</note> and &pound;14 to Mr. <note n="TC1">Thomas Carter</note> making this money as <lb/><sic corr="easy">easie</sic> to the Bristol men as you can you will oblige me My Invoice <lb/>I Sent you Via London and also by <note target="n5"><abbr expan="Captain">Capt:</abbr> Sharp</note> by whom <sic corr="writ">wrote</sic> <lb/>to you at large Shall take my Leave at present </p>
 
-<closer><seg type="postscript">Sir Yor. very humble Servt.
-<lb/><lb/>P:S: I believe I Shall <lb/>Suddenly have Occasion to draw upon you for &pound;40 more, 
+<closer><seg type="postscript">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. very humble Servt.
+<lb/><lb/>
+P:S: I believe I Shall <lb/>Suddenly have Occasion to draw upon you for &pound;40 more, 
 <lb/><lb/>per <note target="n5">Dunlop
 </note><lb/>Copy per Raymond</seg>
 
@@ -143,21 +149,24 @@ Mr. John Stark<lb/>
 <div1 type="back matter">
 <head>NOTES</head>
 
-<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia.</note>
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia. The post script was written into the letter book around the return address at the top of the draft letter, but has been moved to its proper place at the foot.</note>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] John Stark was a merchant, probably the one to whom Carter referred when he wrote to Micajah Perry on 1723 July 4 that he had drawn an order on "Mr. Stark of Glasgow." On that same day, he wrote to a John Stark, referring to Captain Bowman.</note>
+<note id="n1">[1] John Stark was a  prominent Glasgow merchant in the sugar trade. He served as as baillie and provost (mayor) from 1725-1727. (<cit><bibl>John M'ure. <title>The History of Glasgow.</title> [Glasgow: D. Macvean and J. Wyllie &amp; Co., 1830] pp. 227-228</bibl></cit> as seen on Google books; and <cit><bibl>"Provosts of Glasgow" at <xref to="http://www.glasgow.gov.uk/en/AboutGlasgow/LordProvostsmessage/Provosts+of+Glasgow.htm">"Welcome to Glasgow"</xref>.</bibl></cit>)</note>
 
-<note id="n2">[2] Mr. Cheap has not been identified. He may have been a factor on a ship commanded by someone else since Carter does not refer to him as "captain."</note>
+<note id="n2">[2] Mr. Cheap has not been identified. He may have been a factor (agent) on a ship commanded by someone else since Carter does not refer to him as "captain."</note>
 
-<note id="n3">[3] John Tayloe (1687-1747) of Mt. Airy, Richmond County, who served as justice, burgess, colonel of militia, and as a member of the Council after 1732. (<cit><bibl n="B31">Ryland. <title>Richmond County Virginia. . . . </title> pp. 115-16.</bibl></cit>)</note>
+<note id="n3"> [3] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (<cit><bibl><xref to="Ext6">"Dictionary of  Financial Scam Terms,"</xref> 8/22/2005</bibl></cit>)</note>
 
-<note id="n4">[4] The <hi rend="italics">Martha</hi>  was commanded by a Captain Dunlop; see Carter to Richard Oswald &amp; Company 1729 August 11.</note>
+<note id="n4">[4] John Tayloe (1687-1747) of Mt. Airy, Richmond County, who served as justice, burgess, colonel of militia, and as a member of the Council after 1732. (<cit><bibl n="B31">Ryland. <title>Richmond County Virginia. . . . </title> pp. 115-16.</bibl></cit>)</note>
+
+<note id="n5">[5] The <hi rend="italics">Martha</hi>  was commanded by a Captain Dunlop and owned by Richard Oswald &amp; Company; see Carter to Richard Oswald &amp; Company <xref to="http://carter.lib.virginia.edu/html/C29h11a.html">August 11, 1729,</xref> and Carter to Oswald,  <xref to="http://carter.lib.virginia.edu/html/C31g27b.html">July 27,1731</xref>.</note>
 
 <note id="n5">[5] No information has been found about captains Sharp and Raymond.</note>
 
- 
+ <lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised December 22, 2014,  to add footnotes and strengthen the modern language version text.</hi></note>
+
 
 
 

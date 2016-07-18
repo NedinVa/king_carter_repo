@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,8 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
-<date value="1729-07-22">July. 22d 1729</date><lb/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1729-07-22">July. 22d 1729</date><lb/>
 Mr John Stark<lb/>
 </dateline>
 <salute>Sir</salute>
@@ -116,13 +115,15 @@ Mr John Stark<lb/>
 
 
 
-<p>I writ to you at large by <note target="n2"><abbr expan="Captain">Capt</abbr> Bowman</note><lb/> 
-this serves only to <sic corr="enclose">inclose</sic> a bill of Lading for 8 hogsheads of <lb/>
-Tobacco on board the <name type="ship">Caledon</name> <abbr expan="Captain">Capt</abbr> John Stevenson which I<lb/>
+<p>I <sic corr="writ">wrote</sic> to you at large by <note target="n2"><abbr expan="Captain">Capt</abbr> Bowman</note><lb/> 
+this serves only to <sic corr="enclose">inclose</sic> a <note target="n3">bill of Lading</note> for 8 hogsheads of <lb/>
+Tobacco on board the <note target="n4"><name type="ship">Caledon</name></note> <abbr expan="Captain">Capt</abbr> John Stevenson which I<lb/>
  wish safe to you and Am Sir 
 </p>
 
-<closer><abbr expan="your">yr</abbr> very Humble Servt:</closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="your">yr</abbr> very Humble Servt:
+</closer>
 
 
 </div1>
@@ -140,10 +141,15 @@ Tobacco on board the <name type="ship">Caledon</name> <abbr expan="Captain">Capt
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] John Stark was a merchant, probably the one to whom Carter referred when he wrote to Micajah Perry on 1723 July 4 that he had drawn an order on "Mr. Stark of Glasgow." On that same day, he wrote to a John Stark, referring to Captain Bowman.</note>
+<note id="n1">[1] John Stark was a  prominent Glasgow merchant in the sugar trade. He served as as baillie and provost (mayor) from 1725-1727. (<cit><bibl>John M'ure. <title>The History of Glasgow.</title> [Glasgow: D. Macvean and J. Wyllie &amp; Co., 1830] pp. 227-228</bibl></cit> as seen on Google books; and <cit><bibl>"Provosts of Glasgow" at <xref to="http://www.glasgow.gov.uk/en/AboutGlasgow/LordProvostsmessage/Provosts+of+Glasgow.htm">"Welcome to Glasgow"</xref>.</bibl></cit>)</note>
 
 <note id="n2">[2] Captain Samuel Bowman commanded the <hi rend="italics">Lucia.</hi> Carter mentioned this vessel in his diary in June 1724, and again on 1726 March 4 when he wrote that she "came in had 20 Weeks Passage."</note>
 
+ <note id="n3"> [3] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
+
+<note id="n4">[4] The <hi rend="italics">Caledon</hi> seems to have been owned by merchant John Zuil. In what British city Zuil lived is not clear, but it may have been Liverpool because city directories of 1767-1773 list a John Zuil as a merchant, first in Cable Street, and later, in King Street. This probably would have been a son of the man Carter knew, given the shorter lives at this period.  (<cit><bibl>"Yuil Family Website," and <xref to="http://www.yulefamily.com/newsletters/yule24.htm">Yule Family Newsletter</xref>, #24 (Fall 1998).</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised April 28, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 </div1>

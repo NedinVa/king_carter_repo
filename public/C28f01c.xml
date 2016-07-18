@@ -10,7 +10,12 @@
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+
+<!NOTATION html SYSTEM "HTML">
+<!ENTITY Ext6 SYSTEM "http://www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm" NDATA html>
+
+ ]>
 <TEI.2 id="C28f01c">
 
 
@@ -39,7 +44,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -88,7 +93,7 @@
 <head>
 <bibl>
 <abbr>AL</abbr>
-<extent> p.</extent>
+<extent>2 p.</extent>
 <date value="1728-06-01"></date>
 <idno rend="suppress">C28f01c.xml</idno>
 <title>Letter from Robert Carter to John Pemberton and Company, June 1, 1728</title>
@@ -106,8 +111,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1728-06-01">June the 1st: 1728</date><lb/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1728-06-01">June the 1st: 1728</date><lb/>
 Mr. John Pemberton &amp; Company<lb/>
 Freirs: of the Ship Rose<lb/>
 </dateline>
@@ -115,10 +119,10 @@ Freirs: of the Ship Rose<lb/>
 
 </opener>
 
-<p>	This Encloses to you a bill of lading <lb/>for 35 hogsheads of <abbr expan="Tobacco"><abbr expan="Tobacco">Tobbo:</abbr></abbr> on board the <note target="n1"><name type="ship">John and Betty</name></note> under the <lb/><corr resp="editor">[tobacco mark]</corr>'s mark, The weights whereof and of the 33 hogsheads by the <note target="n2"><name type="ship">rose </name></note><lb/>with the 30 <sic corr="Shipped">Shipt</sic> on the <note target="n3"><name type="ship">Mary</name></note> <del>[illegible]</del> <add place="supralinear">are</add> likewise herein Sent Together <lb/>with a Stated Accot. of the money Concern as far as it is <sic corr="gone">gon</sic> <lb/>I have drawn upon You to <abbr expan="Captain"><abbr expan="Captain">Capt:</abbr></abbr> Denton for the <note target="n4">Impost</note> of <lb/>these 35 hogsheads  &pound;3"11"&mdash; to be placed to the Sales of the <abbr expan="Tobacco">Tobbo:</abbr></p>
+<p>	This Encloses to you a <note target="n1">bill of lading</note> <lb/>for 35 hogsheads of <abbr expan="Tobacco"><abbr expan="Tobacco">Tobbo:</abbr></abbr> on board the <note target="n2"><name type="ship">John and Betty</name></note> under the <lb/><corr resp="editor">[tobacco mark]</corr>'s mark, The weights whereof and of the 33 hogsheads by the <note target="n3"><name type="ship">rose </name></note><lb/>with the 30 <sic corr="Shipped">Shipt</sic> on the <note target="n4"><name type="ship">Mary</name></note> <del>[illegible]</del> <add place="supralinear">are</add> likewise herein Sent Together <lb/>with a Stated Accot. of the money Concern as far as it is <sic corr="gone">gon</sic> <lb/>I have drawn upon You to <abbr expan="Captain"><abbr expan="Captain">Capt:</abbr></abbr> Denton for the <note target="n5">Impost</note> of <lb/>these 35 hogsheads  &pound;3"11"&mdash; to be placed to the Sales of the <abbr expan="Tobacco">Tobbo:</abbr></p>
 
 
-<p>On the 10th of <sic corr="April">Aprill</sic> I gave <sic corr="notes">noats</sic> to <note target="n5"><abbr expan="Captain">Capt.</abbr> <lb/>Brackhill</note> for 30 add <add resp="editor"> [<hi rend="italics">sic</hi>]</add> hogsheads of yor. <abbr expan="Tobacco">Tobbo:</abbr> lying in <sic corr="Potomac">Patowmack</sic> <lb/>upon his promises of Send<add place="supralinear">ing</add> for them <del>[illegible]</del>ing a Short time after, My <lb/>Occasions Soon <sic corr="Called">Calld</sic> me from home he meeting with <abbr expan="Tobacco">Tobbo:</abbr> <lb/>for his business a little more Convenient never Sends for yo<add place="supralinear">rs</add>: keeps <lb/>my <sic corr="note">noat</sic> <sic corr="until">till</sic> the 8th. of May and then <sic corr="returned">returnd</sic> it leting me know <lb/>he Should not Send for the <abbr expan="Tobacco">Tobbo:</abbr> <add place="supralinear">This <sic corr="Story">Storey</sic> Capt. Denton very well knows&mdash;</add><sic corr="having">haveing</sic> no prospect of <sic corr="Shipping">Shiping</sic> it <lb/>for your Port have Sent for it round in a Sloop of my own Intend<lb/>ing to Ship it in the <note n="CS"><name type="ship">Carter</name></note> for London <sic corr="believing">beleiving</sic> you will rather <lb/>have it any where <sic corr="than">then</sic> to let it <sic corr="lie">lye</sic> in the Country all the year <lb/>and having often heard Mr. Pemberton when he could not get <lb/>his <abbr expan="Tobacco">Tobbo:</abbr> to his own Port <sic corr="choose">chose</sic> to have it to London before any <lb/>other place, When it is <del>all</del> got together I reckon there will be near 
+<p>On the 10th of <sic corr="April">Aprill</sic> I gave <sic corr="notes">noats</sic> to <note target="n6"><abbr expan="Captain">Capt.</abbr> <lb/>Brackhill</note> for 30 add <add resp="editor"> [<hi rend="italics">sic</hi>]</add> hogsheads of yor. <abbr expan="Tobacco">Tobbo:</abbr> lying in <sic corr="Potomac">Patowmack</sic> <lb/>upon his promises of Send<add place="supralinear">ing</add> for them <del>[illegible]</del>ing a Short time after, My <lb/>Occasions Soon <sic corr="Called">Calld</sic> me from home he meeting with <abbr expan="Tobacco">Tobbo:</abbr> <lb/>for his business a little more Convenient never Sends for <sic corr="yours">yo<add place="supralinear">rs</add></sic>: keeps <lb/>my <sic corr="note">noat</sic> <sic corr="until">till</sic> the 8th. of May and then <sic corr="returned">returnd</sic> it <sic corr="letting">leting</sic> me know <lb/>he Should not Send for the <abbr expan="Tobacco">Tobbo:</abbr> <add place="supralinear">This <sic corr="Story">Storey</sic> Capt. Denton very well knows&mdash;</add><sic corr="having">haveing</sic> no prospect of <sic corr="Shipping">Shiping</sic> it <lb/>for your Port have Sent for it round in a Sloop of my own Intend<lb/>ing to Ship it in the <note n="CS"><name type="ship">Carter</name></note> for <name type="city">London</name> <sic corr="believing">beleiving</sic> you will rather <lb/>have it any where <sic corr="than">then</sic> to let it <sic corr="lie">lye</sic> in the Country all the year <lb/>and having often heard Mr. Pemberton when he could not get <lb/>his <abbr expan="Tobacco">Tobbo:</abbr> to his own Port <sic corr="choose">chose</sic> to have it to London before any <lb/>other place, When it is <del>all</del> got together I reckon there will be near 
 
 
 <pb n="2"/><lb/><lb/>
@@ -128,14 +132,17 @@ about 40 hogsheads , I shall take care to Consign this <abbr expan="Tobacco">Tob
 
 <p>The day of <abbr expan="payment">paymt.</abbr> for <note target="n6">Awbrys</note> <add place="supralinear">Debt</add> is already <lb/>past he lives 150 Miles from me have heard nothing <lb/>from him hope I shall be able to recurit you a part at least <lb/>if not the whole of his money by<del>t</del> some of the latest Ships</p>
 
-<p>herewith I Send you the following bills of <lb/>Exchange to wit, <note n="GE"><abbr expan="George">G.</abbr> Eskridge</note> on Mr. Pemberton for &pound;70"-"- <lb/><note target="n7">Hugh Brent</note> on <note n="ET"><abbr expan="Edward">Edwd.</abbr> Tucker</note> <abbr expan="Esquire">Esqr.</abbr> Weymouth for &pound;34"-"- <lb/><abbr expan="Robert">Robt:</abbr> Mitchell on Bryan Blundell for &pound;65"-"- &pound;169 in <lb/>in <add resp="editor"> [<hi rend="italics">sic</hi>]</add> the whole and have given directions to Mr. Pember<lb/>ton to pay you &pound;18 Dr. Edgars Debt You will take notice <lb/>that the receiving the <abbr expan="Tobacco">Tobbo:</abbr> yet <sic corr="unshipped">unshipt</sic> and the Nails for the <lb/>lining is to be charged hereafter This I think I have given <lb/>you as full an Accot. of yor. Concern as I am at present able </p>
+<p>herewith I Send you the following <note target="n7">bills of <lb/>Exchange</note> to wit, <note n="GE"><abbr expan="George">G.</abbr> Eskridge</note> on Mr. Pemberton for &pound;70"-"- <lb/><note target="n8">Hugh Brent</note> on <note n="ET"><abbr expan="Edward">Edwd.</abbr> Tucker</note> <abbr expan="Esquire">Esqr.</abbr> Weymouth for &pound;34"-"- <lb/><abbr expan="Robert">Robt:</abbr> Mitchell on <note target="n9">Bryan Blundell</note> for &pound;65"-"- &pound;169 in <lb/>in <add resp="editor"> [<hi rend="italics">sic</hi>]</add> the whole and have given directions to Mr. Pember<lb/>ton to pay you &pound;18 <note target="n10">Dr. Edgars</note> Debt You will take notice <lb/>that the receiving the <abbr expan="Tobacco">Tobbo:</abbr> yet <sic corr="unshipped">unshipt</sic> and the Nails for the <lb/>lining is to be charged hereafter This I think I have given <lb/>you as full an Accot. of yor. Concern as I am at present able </p>
 
 
 <closer>
-<seg type="postscript">Remain <lb/>Gent <lb/>Yor. very humble Servt.&mdash;<lb/><lb/>per Denton
+<seg type="postscript">I Remain <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gent <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. very humble Servt.&mdash;<lb/><lb/>
+per Denton
 <lb/>herein is the Mark <abbr expan="Numbers">Numrs.</abbr> and <lb/>weights of the 29 hogsheads went by <lb/>the Rose&mdash;
 <lb/>per Denton
-<lb/>per <del>Brackhill</del> Trice</seg>
+<lb/>per <del>Brackhill</del> <note target="n11">Trice</note></seg>
 
 
 </closer>
@@ -156,20 +163,32 @@ about 40 hogsheads , I shall take care to Consign this <abbr expan="Tobacco">Tob
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
 
-<note id="n1">[1] The <hi rend="italics">John &amp; Betty</hi> was a Liverpool ship owned by merchant John Pemberton; she often carryied slaves into the colony. In 1726 the captain was John Gale, and in the next year, she was commanded by a Captain William Denton. The ship would be lost in 1729. (<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> p. 18, n. 23</bibl></cit>; Carter to Pemberton, 1730 April 15; and Carter to William Dawkins, June 28, July 26, and August 22, 1727, for Denton's first name.)</note>
+<note id="n1"> [1] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
-<note id="n2">[2] James Christian was captain of the <hi rend="italics">Rose,</hi> a vessel owned by merchant John Pemberton of Liverpool. (See Carter to Pemberton, 1730 April 15.) </note>
+<note id="n2">[2] The <hi rend="italics">John &amp; Betty</hi> was a Liverpool ship owned by merchant John Pemberton; she often carried slaves into the colony. In 1726 the captain was John Gale, and in the next year, she was commanded by a Captain William Denton. The ship would be lost in 1729. (<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> p. 18, n. 23</bibl></cit>; <cit><bibl><xref to="http://carter.lib.virginia.edu/html/C27l19b.html">Carter to P3mberton</xref>, December 18, 1727;</bibl></cit>  <cit><bibl><xref to="http://carter.lib.virginia.edu/html/C30d15c.html">Carter to Pemberton,</xref> April 15, 1730;</bibl></cit> and <cit><bibl><xref to="http://carter.lib.virginia.edu/html/C27f28c.html">Carter to William Dawkins,</xref> June 28, July 26, and August 22, 1727, for Denton's first name.</bibl></cit>)</note>
 
-<note id="n3">[3] The <hi rend="italics">Mary</hi> was a London ship of 130 tons commanded by James Hopkins, and owned by merchant Robert Cary. (<cit><bibl>Admiralty 68/194,ff. 82r, abstracted in Survey Report 6801, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n3">[3] James Christian was captain of the <hi rend="italics">Rose,</hi> a vessel owned by merchant John Pemberton of Liverpool. (See <xref to="http://carter.lib.virginia.edu/html/C30d15a.html">Carter to Pemberton,</xref> April 15, 1730.) </note>
 
-<note id="n4">[4]  The impost was the duty imposed by Britain on imported tobacco, and the cocket (for which a fee was charged) was the certified document issued that the impost had been paid.</note>
+<note id="n4">[4] The <hi rend="italics">Mary</hi> was a London ship of 130 tons commanded by James Hopkins, and owned by merchant Robert Cary. (<cit><bibl>Admiralty 68/194,ff. 82r, abstracted in Survey Report 6801, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
-<note id="n5">[5] There  were several vessels with the name <hi rend="italics">Rappahannock</hi>.  One was based in Liverpool and was commanded by a Captain Francis Etheridge in 1725; she was a 90 ton ship with 13 men. Another of which Charles Whate was captain was of 60 tons with 11 men in 1726 and 1727. Carter's letters mention a Captain Brackhill in 1728, and Captain Loxum in 1733. (<cit><bibl>Adm. 68/194, ff.30, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n5">[5]  The impost was the duty imposed by Britain on imported tobacco, and the cocket, for which a fee was charged, was the document bearing a cocket or seal issued by the "King's Customs House" that the impost had been paid. (See the definitions of each word in  <cit><bibl><title>Oxford English Dictionary Online.</title></bibl></cit>)</note>
+
+<note id="n6">[6] There  were several vessels with the name <hi rend="italics">Rappahannock</hi>.  One was based in Liverpool and was commanded by a Captain Francis Etheridge in 1725; she was a 90 ton ship with 13 men. Another of which Charles Whate was captain was of 60 tons with 11 men in 1726 and 1727. Carter's letters mention a Captain Brackhill in 1728, and Captain Loxum in 1733. (<cit><bibl>Adm. 68/194, ff.30, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
 <note id="n6">[6] Frank Awbrey (1690?- 1741) was an active land speculator in the area that became Loudoun County, and was one of the first justices when Prince William County was organized in 1731. He was sheriff of that county in 1739. (<cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:239, 439;</bibl></cit> and <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title>pp. 148, 150, 153-54 ff. </bibl></cit>)</note>
 
-<note id="n7">[7] Hugh Brent was a resident of Christ Church parish in the 1716 survey of tithables of Lancaster County, and he would be sheriff in 1734. (<cit><bibl>"Tithables in Lancaster Co., 1716." <title>William and Mary Quarterly</title> 1st. ser., 21[July 1912]: 106-11,</bibl></cit> and <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:319. </bibl></cit>)</note>
+<note id="n7"> [7] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (<cit><bibl><xref to="Ext6">"Dictionary of  Financial Scam Terms,"</xref> 8/22/2005</bibl></cit>)</note>
 
+<note id="n8">[8] Hugh Brent was a resident of Christ Church parish in the 1716 survey of tithables of Lancaster County, and he would be sheriff in 1734. (<cit><bibl>"Tithables in Lancaster Co., 1716." <title>William and Mary Quarterly</title> 1st. ser., 21[July 1912]: 106-11,</bibl></cit> and <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]:319. </bibl></cit>)</note>
+
+ <note id="n9">[9] Bryan Blundell (c. 1674-1756) was a prominent Liverpool merchant, mayor in 1721-1722. He was later to become involved in the slave trade, and is remembered as the founder of theBlue Coat School for the Poor, having given up the sea to oversee its affairs. (<cit><bibl>Elizabeth Donnan, ed. <title>Documents Illustrative of the History of the Slave Trade to America.</title> [New York: Octagon Books, 1969.] Vol. II: The Eighteenth Century. pp. 468, 492 </bibl></cit>) </note>
+
+<note id="n10">[10] Dr. Alexander Edgar's inventory was recorded in Lancaster County February 10, 1730. (<cit><bibl>Ida J. Lee. <title>Abstracts Lancaster County,Virginia,  Wills. 1653-1800.</title> [Greenville, SC: Southern Historical Press, Inc., 2004. Reprint of the original 1959 edition.]) p. 76.</bibl></cit>)</note>
+
+<note id="n11">[11] The 140 ton <hi rend="italics">Welcome</hi> was owned by London merchant James Bradley to whom Carter would write about her on <xref to="http://carter.lib.virginia.edu/html/C27e17a.html"> May 17, 1727</xref>. John Trice (Frice) was her captain, 1723-1728. (<cit><bibl>Adm 68/195, 154r, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised November 11, 2014,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 

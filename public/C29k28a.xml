@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -88,7 +88,7 @@
 <head>
 <bibl>
 <abbr>AL</abbr>
-<extent> p.</extent>
+<extent>1 p.</extent>
 <date value="1729-11-28"></date>
 <idno rend="suppress">C29k28a.xml</idno>
 <title>Letter from Robert Carter to Captain William Strother, November 28, 1729</title>
@@ -120,7 +120,7 @@ Cap. William Strother<lb/>
 the <sic corr="Convenience">Conveniency</sic> of the Widow Cale's Land to yours was a temptation to you to <lb/>
 buy it. From what the Widow said to me, &amp; from what others told me I had <lb/>
 Intentions to send Orders to <note n="RJ">Mr Jones</note> &amp; <note target="n1">Threalkill</note> that no more Clearing <lb/>
-should be made on that side next the Widow, till I could be satisfied where <lb/>
+should be made on that side next the Widow, <sic corr="until">till</sic> I could be satisfied where <lb/>
 <note n="NB">Mr Burwells</note> proper Line should run. This order I now send to Mr <lb/>
 Jones tht the Overseer may conform to it. <abbr expan="Your">Yor</abbr> Offer seems to be reasonable. You <lb/>
 propose to let me see your papers &amp; your Title. You tell me you claim under <lb/>
@@ -138,11 +138,12 @@ cleared into the Widow's Bounds tht she <sic corr="has">hath</sic> a just Claim 
 to purchase the Ground tht we have cleared, or rather to the Bounds Savage gave <lb/>
 us. This I think is as fair an Offer as I can make, &amp; I <sic corr="beleive">beleve</sic> you will think so <lb/>
 too. The Ground already cleared I reckon is but a small piece, &amp; all taken in <lb/>
-within the Widow's Bounds  not very large. I write to Mr Jones to this purpose <lb/>
+<del>within the Widow's Bounds</del>  not very large. I write to Mr Jones to this purpose <lb/>
 &amp; am 
 </p>
 
-<closer>Your humble Servant.</closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your humble Servant.</closer>
 
 
 </div1>
@@ -160,12 +161,13 @@ within the Widow's Bounds  not very large. I write to Mr Jones to this purpose <
 
 <note> The county and colony have been added for clarity to the heading on the draft.</note>
 
-<note id="n1">[1] William Threalkill is mentioned in the inventory of Carter's estate as the overseer at Poplar Quarter, Stafford County. (<cit><bibl n="A26">Carter Papers: An Inventory. . . ."</bibl></cit>.)</note>
+<note id="n1">[1] William Threalkill is mentioned in the <xref to="/users/berkeley/public/C33inven.xml">1733 inventory</xref>  of Carter's estate as the overseer at Poplar Quarter, Stafford County. (<cit><bibl n="A26">Carter Papers: An Inventory. . . ."</bibl></cit>.)</note>
 
-<note id="n2">[2]  John Savage was a surveyor, later (1734) to be employed by Lord Fairfax in his  attempt to establish the boundaries of the proprietary. (<bibl n="B4">Harrison. <title>Landmarks. . . .</title> p. 619.</bibl>)</note>
+<note id="n2">[2]  John Savage was a surveyor, later (1734) to be employed by Lord Fairfax while attempting to establish the boundaries of the proprietary. He had been appointed surveyor for King George County the year after that county was formed in 1720, and was referred to then as "gentleman." He was surveyor of Stafford County when he particpated in the Fairfax survey. (<cit><bibl><title><xref to="http://books.google.com/books?id=55I38FXWyPgC&pg=RA2-PA473&lpg=RA2-PA473&dq=%22John+Savage%22+surveyor+Virginia&source=bl&ots=MkmI2kK9-T&sig=3AynIvgowKj-6KoKVYcua8AJpWM&hl=en&ei=mUVyTojVEafx0gHI2c2PCg&sa=X&oi=book_result&ct=result&resnum=10&ved=0CF8Q6AEwCQ#v=onepage&q=%22John%20Savage%22%20surveyor%20Virginia&f=false">Genealogies of Virginia Families </xref>from Tyler's Quarterly Historical and Genealogical Magazine.</title>  [Genealogical Publishing Co, 1981] Vol. I [of 4]:473;</bibl></cit> <cit><bibl n="B8">Brown. <title>Virginia Baron. . . .</title> pp. 83, 86, 88, 92;</bibl></cit> and <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> p. 619.</bibl></cit>)</note>
 
-<note id="n3">[3] Robert Carter's oldest daughter, Elizabeth, had 3 sons by her first husband, Nathaniel Burwell. The clerk may had made a mistake in writing "grandson's" when he should have written "grandsons'."</note>
+<note id="n3">[3] Robert Carter's oldest daughter, Elizabeth, had three sons by her first husband, Nathaniel Burwell. </note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised July 20, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 </div1>
 </back>

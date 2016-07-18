@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,23 +106,22 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1729-06-28">June 29th. 1729</date><lb/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1729-06-28">June 29th. 1729</date><lb/>
 Mr. Edward Athawes<lb/>
 </dateline>
 <salute>Sir&mdash;</salute>
 
 </opener>
 
-<p>In answer to a Letter of <abbr expan="yours">yrs.</abbr> Dated in 1727 I writ to<lb/>
-you at large the 8th. of August 1728. I do not remember I have <abbr expan="received">rec'd</abbr> any return<lb/>
-<del>from you</del> <add place="supralinear">to this</add> neither hath <note n="WD">Mr Dawkins</note> yet so much as <sic corr="mentioned">mentiond</sic> to me your<lb/>
+<p>In answer to a Letter of <abbr expan="yours">yrs.</abbr> Dated in 1727 I <sic corr="writ">wrote</sic> to<lb/>
+you at large the <xref to="http://carter.lib.virginia.edu/html/C28h08a.html">8th. of August 1728</xref>. I do not remember I have <abbr expan="received">rec'd</abbr> any return<lb/>
+<del>from you</del> <add place="supralinear">to this</add> neither <sic corr="has">hath</sic> <note n="WD">Mr Dawkins</note> yet so much as <sic corr="mentioned">mentiond</sic> to me your<lb/>
 name much less that you are his Partner. I find you are much in the Esteem<lb/>
 of my sons who from their Personal Acquaintance Say a great many good<lb/>
 things of you that you are a Person of a great deal of diligence and undergo a<lb/>
-great part of the weight of Mr. Dawkins's business. and they are desirous<lb/>
+great part of the weight of Mr. Dawkins's business. and <del>they</del> are desirous<lb/>
 now you <corr resp="editor">[have]</corr> married and Live in the City that I should enter into a Correspond<lb/>
-ence with you. Which is the gives Occasion to this</p>
+ence with you. Which <del>is the</del> gives Occasion to this</p>
 
 <p>My <abbr expan="Consignments">Consignmts.</abbr> to Mr. Dawkins are this year 78 hogsheads<lb/>
 Exceeding my business Considerably to any man in the trade, the best reco=<lb/>
@@ -132,7 +131,7 @@ Upon which the sinews of my <del>Life</del> <add place="supralinear">livelihood<
 to My Letters to Mr. Dawkins To which I shall refer you. Another very<lb/>
 Considerable Article is the well buying of our Goods both as to their Price<lb/>
 and goodness I Esteem my self a ready money <note target="n1">Chapman</note> and that the<lb/>
-<abbr expan="Merchant">Mercht.</abbr> Carrys my money in his Pockets to pay the Tradesman and I am<lb/>
+<abbr expan="Merchant">Mercht.</abbr> <sic corr="Carries">Carrys</sic> my money in his Pockets to pay the Tradesman and I am<lb/>
 no stranger <del>of</del> <add place="supralinear">to</add> the great difference <del>that</del> <add place="supralinear">which</add> the Tradesmen can afford to make<lb/>
 between him that pays his money ready down and where he trusts for a<lb/>
 Twelve month I shall not give you any further <abbr expan="Entertainenm">Entertainmt.</abbr> at Present<lb/>
@@ -140,8 +139,14 @@ only to tell you that I am
 
 </p>
 
-<closer>Sir&mdash;<lb/>Yor. very humble servt.
-<seg type="postscript"><lb/><lb/>Per <note target="n2"><sic corr="Bailey">Baily</sic></note></seg></closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir&mdash;<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. very humble servt.
+
+<seg type="postscript"><lb/><lb/>
+Per <note target="n2"><sic corr="Bailey">Baily</sic></note>
+</seg>
+</closer>
 
 
 </div1>
@@ -159,9 +164,11 @@ only to tell you that I am
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
 
-<note id="n1"> [1] A chapman is a peddlar or merchant.</note>
+<note id="n1"> [1] A chapman is "a man whose business is buying and selling; a merchant, trader, dealer."  (<cit><bibl><title>Oxford English Dictionary</title> online.</bibl></cit>)</note>
 
-<note id="n2">[2] The <hi rend="italics">Bailey</hi> was a London ship owned by William Dawkins and commanded at various times by Adam Graves (1725-1730) and by Thomas Dove (1731-1732). She was a vessel of some 250 tons and carried 15-17 crew members. (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, 156v, and other data in Adm. 68/194 and /196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> A letter of Carter's executors to Dawkins 1738 May 10 refers to "your ship Bailey.")</note>
+<note id="n2">[2] The <hi rend="italics">Bailey</hi> was a London ship owned by William Dawkins and commanded at various times by Adam Graves (1725-1730) and by Thomas Dove (1731-1732). She was a vessel of some 250 tons and carried 15-17 crew members. (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, 156v, and other data in Adm. 68/194 and /196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> A letter of Carter's to Dawkins <xref to="http://carter.lib.virginia.edu/html/C32e12b.html">May 12, 1732,</xref> refers to "your ship Bailey." as does a letter of August 10, 1733, from Carter's executors to Dawkins. [<cit><bibl>Lloyd T. Smith, Jr., <hi rend="italics">ed.</hi> <title>The Executors' Letters of Robert Carter of Corotoman, 1732-1738. </title> (Irvington, VA: Foundation for Historic Christ  Church, 2010) p. 76].</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised April 17, 2015,  to strengthen the footnotes and the modern language version text.</hi></note>
 
 
 

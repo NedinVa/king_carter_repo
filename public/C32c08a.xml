@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2006</date>
+     <date>2006, 2016</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -124,18 +124,19 @@ his leave of <note n="2">Lewis Burwell</note> who was in the Small pox that he w
 with it soon after and <sic corr="died">dyed</sic> in a few days  a sad Catastrophe to the poor<lb/>
 Young man father and son gone within the Compass of a year I shall<lb/>
 not stand to make any more melancholy reflections A person I have seen<lb/>
-tells me he had it from one Dr. Gillmore who came in Possfords ship<lb/>
+tells me he had it from one Dr. Gillmore who came in <note target="n3">Possfords</note> ship<lb/>
 and that the <abbr expan="Doctor">Dr.</abbr> told him he heard the danger was <sic corr="pretty">pritty</sic> well over with<lb/>
 Lewis Burwell</p>
 
-<p>Our tobacco law meeting with strange opposition<lb/>
+<p>Our <note target="n4">tobacco law</note> meets with strange opposition<lb/>
 three of the Inspecting houses near me <add place="supralinear">two</add><del> one</del> in this County another in Nor <lb/>
 thumberland have lately burnt to Ashes I have time to say no more<lb/>
 the ship being <abbr expan="passed">pass'd</abbr> my house but that I am<lb/>
 </p>
 
-<closer>Sir<lb/>
-<abbr expan="Your">Yr</abbr> most humble Servant</closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="Your">Yr</abbr> most humble Servant</closer>
 
 
 </div1>
@@ -153,10 +154,15 @@ the ship being <abbr expan="passed">pass'd</abbr> my house but that I am<lb/>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] Ralph Wormeley Page (1713-1732) was the son of Mann Page and his first wife, Judith (Wormeley) Page. (<cit><bibl>"Family Trees of Thomas Jefferson and Other Famous Americans," http://www.ishipress.com/pafg70.htm, July 10, 2006.</bibl></cit>)</note>
+<note id="n1">[1] Ralph Wormeley Page (1713-1732) was the son of Mann Page and his first wife, Judith (Wormeley) Page. He died suddenly from smallpox as is recorded in this letter.  (<cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 252.</bibl></cit>)</note>
 
 <note id="n2">[2] Lewis Burwell (1711 or 1712-1756), Carter's grandson by Elizabeth Carter Burwell and her first husband, Nathaniel Burwell (1680-1721); Carter was his guardian. He was educated at Eton and Cambridge, and inherited considerable property, living at "Fairfield," Gloucester County. He would be president of the Council in 1750-1751. (<cit><bibl n="B42">Kneebone <hi rend="italics">et al.</hi>,  <title>Dictionary of Virginia Biography.</title>  2:434-5.</bibl></cit> and <cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 114.</bibl></cit>)</note>
 
+ <note id="n3">[3] A Thomas Possford commanded the <hi rend="italics">Harrison</hi> in 1725 and the <hi rend="italics">Hannah</hi> from 1726 at least until 1729.  (<cit><bibl>Admiralty 68/194, and 68/195, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n4">[4] The tobacco inspection act of  1730 was introduced and steered through the legislature by Lieutenant Governor Sir William Gooch. " The "bill called for the inspection and bonding at public warehouses of all tobacco shipped abroad; for the destruction of all unacceptable tobacco; for standardization of the size of hogsheads . . . ; for maintenance of detailed records to prevent smuggling; and for the circulation of warehouse receipts as legal tender in lieu of tobacco itself. . . ." Gooch also managed to obtain approval of the act in England. It went into effect August 1, 1731. (<cit><bibl n="B27">Billings. <hi rend="italics">et al. </hi> <title>Colonial Virginia: A History. </title></bibl></cit> pp. 236-39.)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was revised April 7, 2016,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 </div1>
 </back>

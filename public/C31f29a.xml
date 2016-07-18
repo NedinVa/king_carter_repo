@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2006</date>
+     <date>2006, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -117,45 +117,49 @@ Mr Secretary Carter<lb/>
 
 
 <p><note n="JR">Mr. Randolph</note> <sic corr="has">hath</sic> sent me in his Accot., there&mdash;<lb/>
-appears due to him from <note n="MP1">Colonel Page's</note> Estate for Cash he hath ad-<lb/>
+appears due to him from <note n="MP1">Colonel Page's</note> Estate for Cash he <sic corr="has">hath</sic> ad-<lb/>
 vanced upon our Drafts for the Service of the Estate the Sum of one &mdash;<lb/>
 hundred fifty three pounds &amp; Six pence Sterling for which sum <lb/>
-	I have signed Bills of <abbr expan="Exchange">Excha</abbr> upon <note n="MP2">Mr Perry.</note> Mr Randolph promises <lb/>
+I have signed <note target="n1">Bills of <abbr expan="Exchange">Excha</abbr></note> upon <note n="MP2">Mr Perry.</note> Mr Randolph promises <lb/>
 to send <abbr expan="them">thm</abbr> to you for your Hand also. He strongly pressed me to let <lb/>
-him have these Bills to send away with <note target="n1">Cant.</note> I did not know &mdash;<lb/>
+him have these Bills to send away with <note target="n2">Cant.</note> I did not know &mdash;<lb/>
 how to deny him, not knowing the Urgency of his Occasions <abbr expan="although">altho' </abbr><lb/>
-I think we had the promises from every Body we drew to tht our Bills <lb/>
-should not go away till the <sic corr="later">latter</sic> Ships.</p>
+I think we had the promises from <sic corr="everybody">every Body</sic> we drew to <abbr expan="that">tht</abbr> our Bills <lb/>
+should not go away <abbr expan="until">till</abbr> the <sic corr="later">latter</sic> Ships.</p>
 
-	<p>Bills of Lading for Colonel Page's <abbr expan="Tobacco">Tobo</abbr>  on Board the &mdash;<lb/>
-<note target="n2">Burwell</note> I almost think you will be <corr resp="editor">[in]</corr> time enough down to take &mdash;<lb/>
-<note target="n3">Camp</note> advises me yesterday tht Cant reckons to sail in eight or ten <sic corr="days">dayes</sic> <lb/>
+<p><note target="n3">Bills of Lading</note> for Colonel Page's <abbr expan="Tobacco">Tobo</abbr>  on Board the &mdash;<lb/>
+Burwell I almost think you will be <corr resp="editor">[in]</corr> time enough down to take &mdash;<lb/>
+<note target="n4">Camp</note> advises me yesterday <abbr expan="that">tht</abbr> Cant reckons to sail in eight or ten <sic corr="days">dayes</sic> <lb/>
 I have my own Bills of Lading from him &mdash; I write to <note n="JCP">Mrs Page</note> to &mdash;<lb/>
 take Care of her Husbands if you are not early enough with her to <lb/>
 do it. <del>I am</del></p>
 
 <p>My sloop made me an Extraordinary quick Trip from Stafford &mdash;<lb/>
-<sic corr="brought">brot</sic> seventy <abbr expan="hogsheads">hhds</abbr> of Light <abbr expan="Tobacco">Tobo</abbr> home two <sic corr="days">dayes</sic> ago. I shall prize it as <lb/>
-fast as I can I shall be ready for <note target="n4">mr Cheap's</note> sloop in a fortnight or three <lb/>
+<sic corr="brought">brot</sic> seventy <abbr expan="hogsheads">hhds</abbr> of Light <abbr expan="Tobacco">Tobo</abbr> home two <sic corr="days">dayes</sic> ago. I shall <note target="n5">prize it</note> as <lb/>
+fast as I can I shall be ready for <note target="n6">mr Cheap's</note> sloop in a fortnight or three <lb/>
 Week's time. You are basely served in <abbr expan="Westmoreland">Westmd</abbr> about your fees there &mdash;&mdash;<lb/>
 <note n="GT"><abbr expan="Captain">Cap</abbr> <sic corr="Turberville">Turbervile</sic></note> is very noisy in his Endeavours to serve but I believe <lb/>
-after all my sloop tht is now there gathering up my <abbr expan="Tobacco">Tobo</abbr>
+after all my sloop <abbr expan="that">tht</abbr> is now there gathering up my <abbr expan="Tobacco">Tobo</abbr>
  will hardly &mdash;<lb/>
 bring any of yours <abbr expan="although">altho'</abbr> they have positive Orders to take in all &mdash;<lb/>
-for you tht will be ready I shall tell you the particulars hereafter I am 
+for you <abbr expan="that">tht</abbr> will be ready I shall tell you the particulars hereafter I am 
 </p>
 
-<closer><seg type="postscript"><lb/><lb/>Postscript <lb/>
-I hope Mr Cheap will allow me three shillings Sterling for the Conveniency
+<closer>
+<seg type="postscript"><lb/><lb/>Postscript <lb/>
+
+<p>I hope Mr Cheap will allow me three shillings Sterling for the Conveniency
 
 <pb n="2"/><lb/><lb/>
-of my <abbr expan="Tobacco">Tobo</abbr>
- It's what every London Master gives me on York River as well as <lb/>
+of my <abbr expan="Tobacco">Tobo</abbr> It's what every London Master gives me on York River as well as <lb/>
 this. I'm sure it costs me a great deal more to bring it together My people <lb/>
-shall dispatch his Sloop in a few hours.<lb/>
-	I would have you write a Letter of Advice of these Bills to Mr Perry, &mdash;<lb/>
-I have already done it &mdash; tell him your will do so too &mdash;&mdash;&mdash;&mdash;<lb/>
-</seg></closer>
+shall dispatch his Sloop in a few hours.</p>	
+
+<p>I would have you write a Letter of Advice of these Bills to Mr Perry, &mdash;<lb/>
+I have already done it &mdash; tell him you will do so too &mdash;&mdash;&mdash;&mdash;
+</p>
+</seg>
+</closer>
 
 
 </div1>
@@ -173,13 +177,21 @@ I have already done it &mdash; tell him your will do so too &mdash;&mdash;&mdash
 
 <note>The county and colony have been added for clarity to the heading on this draft. </note>
 
-<note id="n1">[1] Constantine Cant was the captain of the <hi rend="italics">Burwell.</hi> (<cit><bibl>Survey Report 6800 for Adm. 68/195, ff. 76v, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n1"> [1] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (See <cit><bibl><xref to="http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm">"Bill of Exchange"</xref> in the online Dictionary of Financial Scam Terms: the Truth vs. the Scam.</bibl></cit>)</note>
 
-<note id="n2">[2] This vessel was commanded by Captain Constantine Cant and may have been owned by William Dawkins and Micajah Perry as Carter reported her December 1723 arrival to each of them. (<cit><bibl>Adm. 68/194-195, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
- 
-<note id="n3">[3] William Camp (Kemp) was described by Carter as "the General Overseer of Mr Burwell's Affairs" and he wrote that Camp earned a salary "&pound;50 . . . for the year 1731." Carter and his son-in-law, Mann Page, were the trustees of Nathaniel Burwell's children after Burwell's death in 1721. Camp was a resident of Gloucester County where most of the Burwell estates lay, and he must also have supervised "Rippon Hall" in nearby York County. (Carter to George Braxton, 1729 November 20, and Carter to William Dawkins,1732  July 11. <cit><bibl><title>Virginia Tax Records.</title> [Baltimore: Genealogical Publishing Company, Inc., 1983.] p. 539.</bibl></cit>)</note>
+<note id="n2">[2] Captain Constantine Cant commanded the <hi rend="italics">Buwell</hi> which may have been owned by William Dawkins and Micajah Perry as Carter reported her December 1723 arrival to each of them. (<cit><bibl>Adm. 68/194-195, ff. 76v, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. </bibl></cit>)</note>
 
-<note id="n4">[4] This may have been Patrick Cheap, a merchant from Urbanna in Middlesex County. (<cit><bibl n="B39">Rutman and Rutman, <title>A Place in Time: Middlesex. . . . </title> p. 247.</bibl></cit>)</note>
+<note id="n3"> [3] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
+
+<note id="n4">[4] William Camp (Kemp) was described by Carter as "the General Overseer of Mr Burwell's Affairs" and he wrote that Camp earned a salary "&pound;50 . . . for the year 1731." Carter and his son-in-law, Mann Page, were the trustees of Nathaniel Burwell's children after Burwell's death in 1721. Camp was a resident of Gloucester County where most of the Burwell estates lay, and he must also have supervised "Rippon Hall" in nearby York County. (<cit><bibl>Carter to George Braxton, <xref to="/users/berkeley/public/C29k20a.xml">November 20, 1729</xref>,</bibl></cit> and <cit><bibl>Carter to William Dawkins, <xref to="/users/berkeley/public/C32g11a.xml">July 11, 1732,</xref></bibl></cit> and <cit><bibl><title>Virginia Tax Records.</title> [Baltimore: Genealogical Publishing Company, Inc., 1983.] p. 539.</bibl></cit>)</note>
+
+<note id="n5">[5] To prize is "to compress (cured tobacco) in a hogshead or box." There is a good description of the process on pages 100-101 in Middleton's  <title>Tobacco Coast.</title> (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press;</bibl></cit> and <cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> [Newport News, VA: Mariners' Museum, 1953].</bibl></cit>)</note>
+
+<note id="n6">[6] This may have been Patrick Cheap, a merchant from Urbanna in Middlesex County. (<cit><bibl n="B39">Rutman and Rutman, <title>A Place in Time: Middlesex. . . . </title> p. 247.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was revised October 13, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
+
+
 
 </div1>
 </back>

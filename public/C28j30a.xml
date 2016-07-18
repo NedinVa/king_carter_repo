@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2008</date>
+     <date>2008, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -94,7 +94,7 @@
 <title>Letter from Edward Athawes  to Charles Carter, October 30, 1728</title>
 </bibl>
 </head>
-<p>Edward Athawes  writes to Charles Carter, re a "piece of copper received from Dr. [Shaw], and the small load carried by the <hi rend="italics">Carter</hi> to London, and encloses an extract of a letter, Peter Shaw to Athawes, October 28, 1728.</p>
+<p>London mwerchant Edward Athawes  writes to Robert Carter's son Charles re a "piece of copper received from Dr. [Shaw?]," the small load carried by the <hi rend="italics">Carter</hi> to London, and encloses an extract of a letter, Peter Shaw to Athawes, October 28, 1728.</p>
 </div1>                 
 </front>
 
@@ -116,11 +116,11 @@
 
 
 
-<p>I sent a copy of this letter by the <name type="ship">"Spotswood"</name> who sailed hence a few days ago, which I enclosed to <note n="MP1"><abbr expan="Colonel ">Col.</abbr> Page</note> and desired he would forward  it to you. In that letter is the <note target="n1">piece of copper </note>received from Dr. [Shaw]. I have heard nothing from him since.</p>
+<p>I sent a copy of this letter by the <note target="n1"><name type="ship">"Spotswood"</name></note> who sailed hence a few days ago, which I enclosed to <note n="MP1"><abbr expan="Colonel ">Col.</abbr> Page</note> and desired he would forward  it to you. In that letter is the <note target="n2">piece of copper </note>received from Dr. <corr resp="editor">]Shaw]</corr>. I have heard nothing from him since.</p>
 
 <p>The <note n="CS"><name type="ship">Carter Frigate</name></note> is safe arrived, but 300 hhds short of her loading, a circumstance which will determine her owners to put an <corr resp="editor">[end to her?]</corr> going to Virginia. Upon this occasion we shall send the <add resp="editor">[omission in text]</add> for this year into <abbr expan="Rappahannock ">Rapp </abbr> River to supply the <corr resp="editor">[place of the Carter?]</corr> <sic corr="among ">amongst</sic> our friends there. </p>
 
-<p><corr resp="editor"><hi rend="italics">[Enclosed in the letter above was an extract from a letter, October 28, 1728, Peter Shaw to Athawes.]</hi></corr></p>
+<p><corr resp="editor"><hi rend="italics">[Enclosed in the letter above was an extract from a letter, October 28, 1728, <note target="n3">Peter Shaw</note> to Athawes.]</hi></corr></p>
 
 <p>I have assayed the matter you left me and find it to be copper ore, somewhat stubborn in the fire and not very rich, as affording not an eighth.</p>
 
@@ -139,10 +139,16 @@
 <div1 type="back matter">
 <head>NOTES</head>
 
-<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> The nineteenth-century transcript of this letter in theMinor-Blackford Papers, James Monroe Law Office and Museum, Fredericksburg, Virginia, did not indicate line or page breaks, and omits some material.</note>
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi>  Minor-Blackford Papers, James Monroe Museum and Memorial Library, Fredericksburg, Virginia. This text found in the Minor-Blackford papers is a nineteenth-century copy. Apparently there was in existence a letter book of Robert Carter's -- now lost -- from which an unknown copiest recorded some texts. As they are the only ones extant, the punctuation and "corrections"obviously supplied by the copiest have been retained. The copist used rows of the letter "x" to indicate material that he did not copy from the letter book. The text above was transcribed from a dictated text made by the editor in March1982 in which he did not note the irrelevant line breaks made by the 19th-century copyist in preparing his copy from the original letter book. 
+</note>
 
-<note id="n1">[1]  In 1728, Robert Carter, his sons Robert and Charles, and his son-in-law Mann Page,  organized a company to mine for copper on a tract of some 27,000 acres that Louis Morton describes as lying "near the present boundary of Fairfax and Loudoun counties." Fairfax Harrison wrote that the tract was "on the  Horsepen of Broad." Today, there is a Frying Pan Park just east of the border of the Dulles Airport reservation, and there are other things with the name in the area. The company was not successful. (<cit><bibl n="B32">Morton. <title>Robert Robert Carter of Nomini Hall.</title> pp. 18-19;</bibl></cit> and <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> p. 342. </bibl></cit>)</note>
+<note id="n1">[1] The <hi rend="italics">Spotswood</hi> was a  London ship commanded by James Bradby,  1727-1732, and was owned by Micajah Perry.  (<cit><bibl>Adm 68/195, 70r ff., found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. See <xref to="http://carter.lib.virginia.edu/html/C30d16c.html">Carter to Micajah Perry</xref> April 16. 1730.</bibl></cit>)</note>
 
+<note id="n2">[2]  In 1728, Robert Carter, his sons Robert and Charles, and his son-in-law Mann Page,  organized a company to mine for copper on a tract of some 27,000 acres that Louis Morton describes as lying "near the present boundary of Fairfax and Loudoun counties." Fairfax Harrison wrote that the tract was "on the  Horsepen of Broad." Today, there is a Frying Pan Park just east of the border of the Dulles Airport reservation, and there are other things with the name in the area. The company was not successful. (<cit><bibl n="B32">Morton. <title>Robert Robert Carter of Nomini Hall.</title> pp. 18-19;</bibl></cit> and <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> p. 342. </bibl></cit>)</note>
+
+<note id="n3">[3] This may have been Peter Shaw (1694-1763), a noted British chemist, physician, and author.  (Jan Golinski. <xref to="http://www.oxforddnb.com.proxy.its.virginia.eedu/view/article/25264"> "Shaw, Peter."</xref> <title>Oxford Dictionary of National Biography</title> online, Oxford University Press, 2004 , accessed 19 Jan 2015.)</note> 
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised January 19, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 

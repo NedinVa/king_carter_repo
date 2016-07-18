@@ -10,7 +10,9 @@
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; 
+
+]>
 <TEI.2 id="C28l14a">
 
 
@@ -39,7 +41,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,8 +108,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
-<date value="1728-12-14">Decr. the 14th: 1728</date><lb/>
+<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1728-12-14">Decr. the 14th: 1728</date><lb/>
 Colonel Thos Lee<lb/>
 </dateline>
 <salute>Sir&mdash;</salute>
@@ -116,7 +117,10 @@ Colonel Thos Lee<lb/>
 
 <p><note n="GT"><abbr expan="Captain">Capt.</abbr> Turbervile</note> being here I cannot have a better Oppor<lb/>tunity to answer a part of your last Letter I must own I was <sic corr="disatisfied">disatisfyed</sic> <lb/>with <note target="n2">Thomas</note> for his large Survey for you Exceeding so much the <lb/>Quantity of Land the warrant was for. first for that I had given him <lb/>positive Orders against Such a Practice and next that it is the very land <lb/>he had proposed to take up for one of my Descendants and I <sic corr="believe">beleive</sic> had <lb/>a <abbr expan="warrant">warrt:</abbr> in his pocket for it at the time when he made your Survey <lb/>not that I intended to Stop a Deed to you upon the Survey which has <lb/>bin drawn a Considerable time and is registerd. As to your Picking <lb/>and heaving out all the bad land I can never agree to Such a method <lb/>upon <abbr expan="payment">paymt.</abbr> of yor. Composition which if in <abbr expan="Tobacco">Tobbo:</abbr> I have made it a <lb/>rule to my Collectors not to take unless in hogsheads of 700 neat and <corr resp="editor">[...]</corr> <lb/>Convenient too, If you have a mind to pay Sterling money I am <lb/>Contented to take 10/ per hundred Acres which is the Price the rights <lb/>are Set at by the Crown upon your <abbr expan="payment">paymt.</abbr> either ways your Deed Shall <lb/>be Sent to you I am </p>
 
-<closer>Sir<lb/>Yor. most humble Servt</closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. most humble Servt
+</closer>
 
 
 </div1>
@@ -134,10 +138,12 @@ Colonel Thos Lee<lb/>
 
 <note>The name of Carter's home, "Corotoman," the county, and colony have been added for clarity to this unheaded draft.</note>
 
-<note id="n1">[1] Thomas Lee (1690-1750) of Westmoreland County was the son of Richard Lee II, and nephew of Edmund Jenings; he would build "Stratford," and succeed Carter on the Council. (<cit><bibl>Burton J. Hendrick. <title>The Lees of Virginia: Biography of a Family.</title> [Boston: Little Brown, 1935]. pp. 48, 51, etc.</bibl></cit>)</note>
+<note id="n1">[1] Thomas Lee (1690-1750) of Westmoreland County was the son of Richard Lee II, and nephew of Edmund Jenings; he would build "Stratford," and succeed Carter on the Council. For a good article on Thomas Lee, see  "<xref to="http://www.stratfordhall.org/collections-research/staff-research/thomas-lee-of-stratford-1690-1750/">Thomas Lee of Stratford</xref> 1690-1750" by Jeanne A. Calhoun on Stratford plantation's website. (<cit><bibl>Burton J. Hendrick. <title>The Lees of Virginia: Biography of a Family.</title> [Boston: Little Brown, 1935]. pp. 48, 51, etc.</bibl></cit>)</note>
 
-<note id="n2">[2] James Thomas was surveyor of Lancaster County, and after 1727, of Westmoreland County. In 1736, he would be one of the surveyors involved in the work of the commission to determine the bounds of the Northern Neck proprietary. (<cit><bibl n="B8">Brown. <title>Virginia Baron. . . .</title> pp. 83, 92. See Carter to Peter Beverley, 1727 December 14.</bibl></cit>)</note>
+
+<note id="n2">[2]  James Thomas was surveyor of Lancaster County, and after 1727, of Westmoreland County. In 1736, he would be one of the surveyors involved in the work of the commission to determine the bounds of the Northern Neck proprietary. (<cit><bibl n="B8">Brown. <title>Virginia Baron. . . .</title> pp. 83, 92. See <xref to="http://carter.lib.virginia.edu/html/C27l14a.html">Carter to Peter Beverley,</xref> December 14,  1727.</bibl></cit>)</note>
  
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised January  23 2015,  to  strengthen the footnotes and the modern language version text.</hi></note>
 
 
 

@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,7 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Corotoman, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<name type="place">Corotoman, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;
 <date value="1728-11-20">Novr. the 20th. 1728</date><lb/>
 Majr. John Fitzhugh<lb/>
 </dateline>
@@ -114,9 +114,14 @@ Majr. John Fitzhugh<lb/>
 
 </opener>
 
-<p><note target="n2">Colonel Mason</note> hath had his commission from the <note n="WG"><abbr expan="Governor">Govr.</abbr></note> <lb/>so hath your <sic corr="cousin">couzen</sic> and your Self I brought home with me blank <lb/>Commissions for all the rest of the Officers of the Militia in your county but <lb/>I do not care to <sic corr="fill">full</sic> them up without Colonel Mason and <abbr expan="your">yor.</abbr> <lb/>Advice and Assistance I now send you a Copy of the last I had from <lb/>you which I reckon now wants alterations and regulations&mdash; <lb/>whether any of your Captains are Dead I dont know Perhaps there <lb/>are Some that will refuse I desire you will consult Colonel Mason <lb/>as soon as you can and let me have a full list of the Captains <lb/><corr resp="editor">[t]</corr>hat will Serve and you approve of I would have this as soon as <lb/><corr resp="editor">[y]</corr>ou can have a meeting with Colonel Mason <sic corr="Although">Altho</sic> this winter <lb/><corr resp="editor">[S]</corr>eason <sic corr="we">wee</sic> have no reason <sic corr="we">wee</sic> <add resp="editor"> [<hi rend="italics">sic</hi>]</add> have no reason to be in great <lb/><sic corr="haste">hast</sic> As for the under Officers I think it will be most proper to let <lb/>the respective <abbr expan="Captains">Capts.</abbr> please themselves I am </p>
+<p><note target="n2">Colonel Mason</note> <sic corr="has">hath</sic> had his commission from the <note n="WG"><abbr expan="Governor">Govr.</abbr></note> <lb/>so <sic corr="has">hath</sic> your <sic corr="cousin">couzen</sic> and your Self I brought home with me blank <lb/>Commissions for all the rest of the Officers of the Militia in your county but <lb/>I do not care to <sic corr="fill">full</sic> them up without Colonel Mason<corr resp="editor">]'s]</corr> and <abbr expan="your">yor.</abbr> <lb/>Advice and Assistance I now send you a Copy of the last I had from <lb/>you which I reckon now wants alterations and regulations&mdash; <lb/>whether any of your Captains are Dead I dont know Perhaps there <lb/>are Some that will refuse I desire you will consult Colonel Mason <lb/>as soon as you can and let me have a full list of the Captains <lb/><corr resp="editor">[t]</corr>hat will Serve and you approve of I would have this as soon as <lb/><corr resp="editor">[y]</corr>ou can have a meeting with Colonel Mason <sic corr="Although">Altho</sic> this winter <lb/><corr resp="editor">[s]</corr>eason <sic corr="we">wee</sic> have no reason <sic corr="we">wee</sic>  have no reason<add resp="editor"> [<hi rend="italics">sic</hi>]</add> to be in great <lb/><sic corr="haste">hast</sic> As for the under Officers I think it will be most proper to let <lb/>the respective <abbr expan="Captains">Capts.</abbr> please themselves I am </p>
 
-<closer><seg type="postscript">Sir<lb/>Yor. most humble Servt:&mdash;</seg></closer>
+<closer>
+<seg type="postscript">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. most humble Servt:&mdash;
+</seg>
+</closer>
 
 
 </div1>
@@ -138,6 +143,7 @@ Majr. John Fitzhugh<lb/>
 
 <note id="n2">[2] George Mason III (c. 1690-1735), justice, sheriff, burgess, and county lieutenant of Stafford County, father of the constitutional theorist. (<cit><bibl n="B24">Copeland and MacMaster, <title>The Five George Masons.</title> pp. 50-86</bibl></cit>; and <cit><bibl>George Harrison Sanford King, <title>The Register of Overwharton Parish Stafford County Virginia 1723-1758 And Sundry Historical and Genealogical Notes</title>. [Fredericksburg, VA: privately printed, 1961.]</bibl></cit>)</note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised January 19, 2015,  to  strengthen the modern language version text.</hi></note>
 
 
 

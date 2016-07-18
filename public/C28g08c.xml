@@ -10,7 +10,13 @@
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; 
+
+<!NOTATION html SYSTEM "HTML">
+<!ENTITY Ext6 SYSTEM "http://www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm" NDATA html>
+
+]>
+
 <TEI.2 id="C28g08c">
 
 
@@ -39,7 +45,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -88,7 +94,7 @@
 <head>
 <bibl>
 <abbr>AL</abbr>
-<extent> p.</extent>
+<extent>1 p.</extent>
 <date value="1728-07-08"></date>
 <idno rend="suppress">C28g08c.xml</idno>
 <title>Letter from Robert Carter to Messrs. Haswell &amp; Brooks, July 8, 1728</title>
@@ -106,22 +112,26 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock,<add resp="editor"> [Lancaster County, Virginia]</add></name><lb/>
-<date value="1728-07-08">July the 8th: 1728</date><lb/>
+
+<del>Micajh: Perry Esqr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rappa July the 8th: 1728<lb/>Sir</del>&mdash;<lb/><lb/><del>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This Encloses to</del><lb/><lb/>
+
+<name type="place">Rappahannock,<add resp="editor"> [Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1728-07-08">July the 8th: 1728</date><lb/>
 Messrs:Haswell &amp; Brooks<lb/>
 </dateline>
 <salute>Gent&mdash;&mdash;</salute>
 
 </opener>
 
-<p><lb/><del>Micajh: Perry Esqr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rappa July the 8th: 1728<lb/>Sir&mdash;<lb/><lb/></del></p>
 
-<p>I have put on board the <note target="n2"><name type="ship"><sic corr="Willis">Williss</sic></name> <abbr expan="Captain">Capt:</abbr> Cobb</note> 10 hogsheads  <lb/>of <abbr expan="Tobacco">Tobbo:</abbr> a bill of Lading I Expect you will receive by the Ship. It is an <lb/>Entire Crop that I had the Sight of a good deal of and appeard to be very good <lb/>I am in hopes it will all prove so and will meet with an Encourag<lb/>ing market</p>
+<p>I have put on board the <note target="n2"><name type="ship"><sic corr="Willis">Williss</sic></name> <abbr expan="Captain">Capt:</abbr> Cobb</note> 10 hogsheads  <lb/>of <abbr expan="Tobacco">Tobbo:</abbr> a <note target="n3">bill of Lading</note> I Expect you will receive by the Ship. It is an <lb/>Entire Crop that I had the Sight of a good deal of and appeard to be very good <lb/>I am in hopes it will all prove so and will meet with an Encourag<lb/>ing market</p>
 
-<p>Herein <del>Send you</del> are two bills of Exchange drawn <lb/>on your Selves. <abbr expan="Captain">Capt:</abbr>: Cobb: for &pound;3. Wilson Cary for &pound;7"5 which I <lb/>desire Credit for and am </p>
+<p>Herein <del>Send you</del> are two <note target="n4">bills of Exchange</note> drawn <lb/>on your Selves. <abbr expan="Captain">Capt:</abbr>: Cobb: for &pound;3. Wilson Cary for &pound;7"5 which I <lb/>desire Credit for and am </p>
 
-<closer>Gent Yor. most humble Servt:<seg type="postscript"><lb/><lb/>per Cobb
-<lb/>Copy per Trice</seg></closer>
+<closer>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gent<lb/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. most humble Servt:<seg type="postscript"><lb/><lb/>
+
+per Cobb
+<lb/>Copy per <note target="n5">Trice</note></seg></closer>
 
 
 </div1>
@@ -139,10 +149,19 @@ Messrs:Haswell &amp; Brooks<lb/>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
 
-<note id="n1">[1] Haswell and Brooks may have been a London firm for a 1740 directory of that city lists a Samuel Haswell, a London Assurance director in Suffolk Lane. There are several men of the name "Brooks" in the directory including a Christopher Brooks, a ship broker, also located in Suffolk Lane. (<cit><bibl> <title>A Compleat Guide to All Persons who have any Trade or Concern with the City of London and Ports adjacent. . . .</title> London: Printed for J. Osborn, at the Golden Ball in Pater-noster-row, MDXXXL</bibl></cit>)</note>
+<note id="n1">[1] Haswell and Brooks was a London firm listed in 1740 directories of that city. Samuel Haswell was a London Assurance director in Suffolk Lane. John Brooks' obituary appeared in the <title>Pennsylvania Gazette,</title> May 8, 1740, where his partnership with Haswell was noted and that he had been "formerly Commander of the George, in the Virginia Trade." (<cit><bibl> <title>A Compleat Guide to All Persons who have any Trade or Concern with the City of London and Ports adjacent. . . .</title> London: Printed for J. Osborn, at the Golden Ball in Pater-noster-row, MDXXXL</bibl></cit>; and  <cit><bibl><title>Kent's Directory For the Year 1740 Containing An Alphabetical List of the Names and Places of Abode of the Directors of Companies, Persons in Publick Business, Merchants, and other Eminent Traders in the Cities of London and Westminster, and the Borough of Southwark.</title>  London: Printed and Sold by Henry Kent in Finch-Lane, near the Royal Exchange: and by the Booksellers and Pamphlets Shops of London and Westminster, 1740.
+http://freepages.history.rootsweb.com/~frpayments/KD1740/AB.htm. 8/12/2005. p. 39.</bibl></cit> Brooks' obituary courtesy of Todd A. Farmerie, 1/21/2013.)</note>
 
 <note id="n2">[2] A Captain John Cobb commanded the <hi rend="italics">Willis</hi>, a ship of 300 tons with 20 men, in 1727-28. The ship was owned by merchants Haswell and Brooks which may have been a London firm.  (<cit><bibl>Survey Report 6801 on Adm. 68/194-5, ff. 4r, Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
+<note id="n3"> [3] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
+
+<note id="n4"> [4] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (<cit><bibl><xref to="Ext6">"Dictionary of  Financial Scam Terms,"</xref> 8/22/2005</bibl></cit>)</note>
+
+ <note id="n5">[5] The 140 ton <hi rend="italics">Welcome</hi> was owned by London merchant James Bradley to whom Carter would write about her on <xref to="http://carter.lib.virginia.edu/html/C27e17a.html"> May 17, 1727</xref>. John Trice (Frice) was her captain, 1723-1728. (<cit><bibl>Adm 68/195, 154r, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised November 18, 2014,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 

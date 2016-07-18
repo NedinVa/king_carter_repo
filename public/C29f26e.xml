@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,7 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place"><add resp="editor">[Rappahannock, Lancaster County, Virginia]</add></name><lb/>
+<name type="place"><add resp="editor">[Rappahannock, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;
 <date value="1729-06-26">June 26. 1729</date><lb/>
 Mr Nath: Gundry<lb/>
 </dateline>
@@ -116,8 +116,8 @@ Mr Nath: Gundry<lb/>
 
 
 
-<p>I drew <add place="supralinear">a</add> bill of <abbr expan="Exchange">Excha:</abbr> upon you last<lb/>
-year to <note target="n2"><abbr expan="Colonel">Colo</abbr> Tayloe</note> for &pound;80.-.0 which I am <sic corr="satisfied">satisfyed</sic><lb/>
+<p>I drew <add place="supralinear">a</add> <note target="n2">bill of <abbr expan="Exchange">Excha:</abbr></note> upon you last<lb/>
+year to <note target="n3"><abbr expan="Colonel">Colo</abbr> Tayloe</note> for &pound;80.-.0 which I am <sic corr="satisfied">satisfyed</sic><lb/>
 are Paid And yet you give me no Advice of it nor send me<lb/>
 An Accot Currt: to make it Appear what my <sic corr="balance">ballance</sic> is
 
@@ -125,7 +125,10 @@ An Accot Currt: to make it Appear what my <sic corr="balance">ballance</sic> is
 which I request of you the next Shipping I am
 </p>
 
-<closer>Sir <abbr expan="your">yr</abbr> Humble Servt.</closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir<lb/> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="your">yr</abbr> Humble Servt.
+</closer>
 
 
 </div1>
@@ -143,10 +146,13 @@ which I request of you the next Shipping I am
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] Nathaniel Gundry was a merchant in Lyme Regis, Dorset, and mayor of that town several times. His son was a member of Parliament and later a judge. (Notes made by Francis L. Berkeley, Jr., from  <cit><bibl>George Robert. <title>History and Antiquities of the Borough of Lyme Regis &amp; Charnmouth.</title> [London, 1834]. pp. 97, 383-4.</bibl></cit>; and        <cit><bibl n="B6">Sedgwick. <title>The History of Parliament . . . Commons.</title> pp. 91-92.</bibl></cit>)</note>
+<note id="n1">[1] Nathaniel Gundry was a merchant in Lyme Regis, Dorset, and mayor of that town several times. His son was a member of Parliament and later a judge. (Notes made by Francis L. Berkeley, Jr., from  <cit><bibl>George Robert. <title><xref to="https://books.google.com/books?id=CahfAAAAcAAJ&pg=PA297&lpg=PA297&dq=%22nathaniel+Gundry%22+Lyme+Regis&source=bl&ots=Uqz7DJmk5_&sig=bpAtbObcWWxHNgMQ-lp6CVqI-vw&hl=en&sa=X&ei=j1wdVe2GNcOpNv2rgIgO&ved=0CDUQ6AEwBA#v=onepage&q=%22nathaniel%20Gundry%22%20Lyme%20Regis&f=false">History and Antiquities</xref> of the Borough of Lyme Regis &amp; Charnmouth.</title> [London, 1834]. pp. 297, <xref to="https://books.google.com/books?id=CahfAAAAcAAJ&pg=PA297&lpg=PA297&dq=%22nathaniel+Gundry%22+Lyme+Regis&source=bl&ots=Uqz7DJmk5_&sig=bpAtbObcWWxHNgMQ-lp6CVqI-vw&hl=en&sa=X&ei=j1wdVe2GNcOpNv2rgIgO&ved=0CDUQ6AEwBA#v=onepage&q=%22nathaniel%20Gundry%22%20Lyme%20Regis&f=false">383-4</xref></bibl></cit> now available on Google Books; and <cit><bibl n="B6">Sedgwick. <title>The History of Parliament . . . Commons.</title> pp. 91-92.</bibl></cit>)</note>
 
-<note id="n2">[2] John Tayloe (1687-1747) of Mt. Airy, Richmond County, who served as justice, burgess, colonel of militia, and as a member of the Council after 1732. (<cit><bibl n="B31">Ryland. <title>Richmond County Virginia. . . . </title> pp. 115-16.</bibl></cit>)</note>
+<note id="n2"> [2] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (See <cit><bibl><xref to="http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm">"Bill of Exchange"</xref> in the online Dictionary of Financial Scam Terms: the Truth vs. the Scam.</bibl></cit>)</note>
 
+<note id="n3">[3] John Tayloe (1687-1747) of Mt. Airy, Richmond County, who served as justice, burgess, colonel of militia, and as a member of the Council after 1732. (<cit><bibl n="B31">Ryland. <title>Richmond County Virginia. . . . </title> pp. 115-16.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised April 2, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 

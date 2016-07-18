@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,11 +106,10 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
-<date value="1729-04-04">Apl: 4th 1729</date><lb/>
-To the Govr:<lb/>
+<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1729-04-04">Apl: 4th 1729</date><lb/>
+To the <abbr expan="Govertnor">Govr:</abbr><lb/>
 </dateline>
-<salute>May it pleas yr: Honr:</salute>
+<salute>May it <sic corr="please">pleas</sic> <abbr expan="your">yr:</abbr> Honr:</salute>
 
 </opener>
 
@@ -120,7 +119,13 @@ To the Govr:<lb/>
 
 <p>Your Commds will be punctually obeyed </p>
 
-<closer><lb/>by <lb/>Sir <lb/><abbr expan="your">yr</abbr> <abbr expan="Honour's">Honrs.</abbr> <lb/>Most obedt <lb/>Most obliged &amp; <lb/>Most humble Servt.</closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;by <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="your">yr</abbr> <abbr expan="Honour's">Honrs.</abbr> <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Most obliged &amp; <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Most humble Servt.
+</closer>
 
 
 </div1>
@@ -138,10 +143,11 @@ To the Govr:<lb/>
 
 <note> The name of Carter's home, "Corotoman," the county, and colony have been added for clarity to this unheaded draft. </note>
 
-<note id="n1">[1] There  were several vessels with the name <hi rend="italics">Rappahannock</hi>.  One was based in Liverpool and was commanded by a Captain Francis Etheridge in 1725; she was a 90 ton ship with 13 men. Another of which Charles Whate was captain was of 60 tons with 11 men in 1726 and 1727. Carter's letters mention a Captain Hugh Brackhill in 1728-1729, and Captain Loxum in 1733. (<cit><bibl>Adm. 68/194, ff.30, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n1">[1] There  were several vessels with the name <hi rend="italics">Rappahannock</hi>.  Carter's letters mention a Captain Hugh Brackhill in 1728-1729, and Captain Loxum in 1733. (<cit><bibl>Adm. 68/194, ff.30, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
-<note id="n2">[2] Queens Creek lies in present-day Mathews County.</note>
+<note id="n2">[2] "Queen's Creek is located in York County in the Virginia Peninsula area of the Hampton Roads region of southeastern Virginia in the United States. From a point of origin near the Waller Mill Reservoir in western York County it flows northeasterly across the northern half of the Peninsula as a tributary of the York River." (<cit><bibl><xref to="http://en.wikipedia.org/wiki/Queen's_Creek">"Queen's Creek"</xref> in Wikipedia.</bibl></cit>)</note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised February10 , 2015,  to  strengthen the footnotes and the modern language version text.</hi></note>
 
 
 

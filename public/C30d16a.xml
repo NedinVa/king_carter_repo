@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -94,7 +94,7 @@
 <title>Letter from Robert Carter to Edward Athawes, April 16, 1730</title>
 </bibl>
 </head>
-<p>Robert Carter writes to London merchant Edward Athawes, April 16, 1730, to thank him for the report of sales, the prices of goods sent, and his efforts in obtaining information about the quality of the copper ore Carter sent for evaluation. He requests Athawes find a good lead miner to pursue the work.</p>
+<p>Robert Carter writes to London merchant Edward Athawes, April 16, 1730, to thank him for the report of sales, the prices of goods sent, and his efforts in obtaining information about the quality of the copper ore Carter sent for evaluation. He requests Athawes find a good head miner to pursue the work.</p>
 </div1>                 
 </front>
 
@@ -124,7 +124,7 @@ That my expences and Losses did <sic corr="pretty">pritty</sic> largely Exceed m
 and how to retrench my outgoing I do not know unless I should 
 
 <pb n="2"/><lb/><lb/>
-bereave my family of the necessary calls of humanity and<lb/>
+<note target="n2">bereave</note> my family of the necessary calls of humanity and<lb/>
 decency which I thank god I have hitherto been enabled to A:<lb/>
 void however in respect to my Sales of the <abbr expan="tobacco">tobo</abbr> I sent to <note n="WD">Mr. Daw<lb/>
 kins</note> I had reason to be better <abbr expan="pleased">pleas'd</abbr> than with most others<lb/>
@@ -135,7 +135,7 @@ any direct reply upon that Subject if he thinks it proper to <sic corr="join">jo
 you with himself I have so good an Esteem for you that I should<lb/>
 be willing to treat with you under that denomination</p>
 
-<p>I now Come to Your Letter to the <note target="n2">Frying pan <abbr expan="Company">Compa</abbr></note><lb/>
+<p>I now Come to Your Letter to the <note target="n3">Frying pan <abbr expan="Company">Compa</abbr></note><lb/>
 which was <abbr expan="delivered">deliver'd</abbr> me with the box of Ores the pains you were<lb/>
 at in giving us so particular and full a Satisfaction in your<lb/>
 <sic corr="Trials">Tryals</sic> was very pleasing to us all and we shall write a <sic corr="Joint">joynt</sic><lb/>
@@ -153,38 +153,41 @@ do unless we can be provided with men of more skill than any<lb/>
 we have yet met with All the ore that We have yet <abbr expan="raised">rais'd</abbr> which<lb/>
 we dare ship does not amount to above 50 Cask <add resp="editor"> [<hi rend="italics">sic</hi>]</add> that we reckon<lb/>
 will contain about 400 <abbr expan="weight">wt</abbr> each they are about the size of tar<lb/>
-Barrells I have <sic corr="talked">talkt</sic> with some masters of ships about<lb/>
+<sic corr="Barrels">Barrells</sic> I have <sic corr="talked">talkt</sic> with some masters of ships about<lb/>
 the Freight of them we Expect enough would be glad to 
 
 <pb n="3"/><lb/><lb/>
-take them in this Scarce year but the lowest terms any hath of<lb/>
-ferd as yet is <abbr expan="15 shillings">15/</abbr> per Cask thus this matter stands At present I<lb/>
+take them in this Scarce year but the lowest terms any <sic corr="has">hath</sic> off<lb/>
+erd as yet is <abbr expan="15 shillings">15/</abbr> per Cask thus this matter stands At present I<lb/>
 think we Can never afford to give that price</p>
 
-<p><note target="n3"><abbr expan="Captain">Capt</abbr> Dove</note> according to your direction hath been<lb/>
+<p><note target="n4"><abbr expan="Captain">Capt</abbr> Dove</note> according to your direction <sic corr="has">hath</sic> been<lb/>
 at the mine and will be able to Answer all your Questions he design<corr resp="editor">[s]</corr><lb/>
-home in <note target="n4">Malbon</note> who I reckon may get his business <sic corr="Accomplished">Accomplishd</sic><lb/>
+home in <note target="n5">Malbon</note> who I reckon may get his business <sic corr="Accomplished">Accomplishd</sic><lb/>
 by the last of next month</p>
 
 <p>The greatest kindess you Can do us in this affair<lb/>
 will be to procure a proper person <sic corr="skilled">skiled</sic> in Working these<lb/>
 mines with a set of proper labourers Whose business has been<lb/>
-to live undergound and whose trade hath been to <sic corr="raise">rais</sic> these Ores<lb/>
+to live undergound and whose trade <sic corr="has">hath</sic> been to <sic corr="raise">rais</sic> these Ores<lb/>
 without such assistance I am affeard the game will not <del>main</del> <add place="supralinear">pay</add><lb/>
 <del>tain</del> for the Candles</p>
 
-<p><abbr expan="Captain">Capt</abbr> Graves offers to take in our Barrells<lb/>
+<p><abbr expan="Captain">Capt</abbr> Graves offers to take in our <sic corr="Barrels">Barrells</sic><lb/>
 and to leave the settlement of the Freight to Mr Dawkins &amp;<lb/>
 you but that we Cannot come into what resolutions we may take<lb/>
 up at our meeting I shall not <del>at Present</del> <add place="supralinear">now</add> Conjuecture but<lb/>
-Conclude at Present 
-</p>
+Conclude at Present </p>
 
-<closer>Sir<lb/>
-your very humble Servt
-<seg type="postscript"><lb/><lb/><del>Loxom</del><lb/>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;your very humble Servt
+<seg type="postscript"><lb/><lb/>
+<del>Loxom</del><lb/>
 Copy by C. Malbon<lb/>
-<del>[illegible]</del> <del>letter</del></seg></closer>
+<del>[illegible]</del> <del>letter</del>
+</seg>
+</closer>
 
 
 </div1>
@@ -204,12 +207,15 @@ Copy by C. Malbon<lb/>
 
 <note id="n1">[1] Benjamin Graves was the son of Captain Thomas Graves (d. <hi rend="italics">ante</hi> 1720), long a captain of vessels trading to Virginia, and a special friend of Carter. Benjamin also commanded vessels in the trade, especially the <hi rend="italics">Carter.</hi>  (<cit><bibl>Adm. 68/194-196, ff. 33r, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
-<note id="n2">[2]  In 1728, Carter, his sons Robert and Charles, and his son-in-law Mann Page,  organized a company called the Frying Pan Company to mine for copper on a tract of some 27,000 acres that Louis Morton describes as lying "near the present boundary of Fairfax and Loudoun counties." Fairfax Harrison wrote that the tract was "on the  Horsepen of Broad." Horsepen Run joins Broad Run on the northern border of Dulles airport. The company was not successful. (<cit><bibl n="B32">Morton. <title>Robert Robert Carter of Nomini Hall.</title> pp. 18-19;</bibl></cit> and <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> p. 342. </bibl></cit>)</note>
+<note id="n2">[2] Carter uses the word "bereave" in an older sense of  "to deprive, rob, strip, dispossess (a person, etc., of a possession . . .)."   (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>) </note>
 
-<note id="n3">[3] The <hi rend="italics">Bailey</hi> was a London ship owned by William Dawkins and commanded at various times by Adam Graves (1725-1730) and by Thomas Dove (1731-1732). She was a vessel of some 250 tons and carried 15-17 crew members. (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, 156v, and other data in Adm. 68/194 and /196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> A letter of Carter's executors to Dawkins 1738 May 10 refers to "your ship Bailey.")</note>
+<note id="n3">[3]  In 1728, Carter, his sons Robert and Charles, and his son-in-law Mann Page,  organized a company called the Frying Pan Company to mine for copper on a tract of some 27,000 acres that Louis Morton describes as lying "near the present boundary of Fairfax and Loudoun counties." Fairfax Harrison wrote that the tract was "on the  Horsepen of Broad." Horsepen Run joins Broad Run on the northern border of Dulles airport. The company was not successful. (<cit><bibl n="B32">Morton. <title>Robert Robert Carter of Nomini Hall.</title> pp. 18-19;</bibl></cit> and <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> p. 342. </bibl></cit>)</note>
 
-<note id="n4">[4] The <hi rend="italics">Rebecca </hi> was probably a London Ship; she was of 300 tons, had a crew of 11, and was commanded by Samuel Malbon in 1731. (<cit><bibl>Adm. 65/195, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n4">[4] The <hi rend="italics">Bailey</hi> was a London ship owned by William Dawkins and commanded at various times by Adam Graves (1725-1730) and by Thomas Dove (1730-1732). She was a vessel of some 250 tons and carried 15-17 crew members. (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, 156v, and other data in Adm. 68/194 and /196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> A letter of Carter's to Dawkins <xref to="http://carter.lib.virginia.edu/html/C32e12b.html">May 12, 1732,</xref> refers to "your ship Bailey." as does a letter of August 10, 1733, from Carter's executors to Dawkins. [<cit><bibl>Lloyd T. Smith, Jr., <hi rend="italics">ed.</hi> <title>The Executors' Letters of Robert Carter of Corotoman, 1732-1738. </title> (Irvington, VA: Foundation for Historic Christ  Church, 2010) p. 76].</bibl></cit>)</note>
 
+<note id="n5">[5] The <hi rend="italics">Rebecca </hi> was probably a London Ship; she was of 300 tons, had a crew of 11, and was commanded by Samuel Malbon in 1730-1731. (<cit><bibl>Adm. 65/195, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised August 6, 2015,  to  strengthen the footnotes and the modern language version text.</hi></note>
 
 
 </div1>

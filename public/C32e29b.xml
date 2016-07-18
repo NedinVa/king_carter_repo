@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2006</date>
+     <date>2006, 2016</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -121,35 +121,37 @@ Your goods by the <note target="n2">Bailey</note> came to hand in safety your ac
 sales we must put up with as well as We can the <sic corr="prices">prizes</sic> we get are <lb/>
 so miserable we cannot live by our Labour</p>
 
-<p>The coals by Seabrooke were delivered at my house <lb/>
+<p>The coals by <note target="n3">Seabrooke</note> were delivered at my house <lb/>
 in my absence what measure is made me I cannot say they <sic corr="lie">lye</sic> loose <lb/>
 and appear to be a Small parcel.  You tell me fine <sic corr="tobacco">tobaccoe</sic> will do <lb/>
-<sic corr="pretty">pritty</sic> well I must say in answer I send you as good as I can make <lb/>
+<sic corr="pretty">pritty</sic> well I must say in answer I send you as good as I make <lb/>
 and you may be sure I take the <sic corr="utmost">outmost</sic> Care I can to make it as <lb/>
 good <add place="supralinear">as</add> possible In your Postscript of the 17th of January you advise <lb/>
 me of the sales of two hogsheads at 9<abbr expan=" pence">d</abbr>. but that you were <abbr expan="forced">forc'd</abbr> to abate <lb/>
 a half penny for bad Stemming I could almost adventure to forfeit <lb/>
 the tobacco if there could be found four pound of Stemms in both the hogsheads <lb/>
-I take the <sic corr="utmost">outmost</sic> Care to have this Evil prevented and by <note target="n3">our tobacco <lb/>
+I take the <sic corr="utmost">outmost</sic> Care to have this Evil prevented and by <note target="n4">our tobacco <lb/>
 law</note> our Overseers are under great penalties if they do not do their duty <lb/>
-in this respect; We promise our selves great matters by this Law how <lb/>
-our hopes will succede we must leave to Experience</p>
+in this respect; We promise our selves <add resp="editor"> [<hi rend="italics">sic</hi>]</add> great matters by this Law how <lb/>
+our hopes will <sic corr="succeed">succede</sic> we must leave to Experience</p>
 
-<p>This encloses a bill of Loading for twenty hogsheads <lb/>
+<p>This encloses a <note target="n5">bill of Loading</note> for twenty hogsheads <lb/>
 of <abbr expan="stemmed">stemm'd</abbr> tobacco strait laid and <sic corr="has">hath</sic> <abbr expan="passed">pass'd</abbr> the Inspection, certainly <lb/>
-I shall meet with no complaints of this <sic corr="tobacco">tobaccoe</sic> <note target="n4"><abbr expan="Captain">Capn.</abbr> <sic corr="Brook">Brooke</sic></note> is now <lb/>
+I shall meet with no complaints of this <sic corr="tobacco">tobaccoe</sic> <note target="n6"><abbr expan="Captain">Capn.</abbr> <sic corr="Broosk">Brookes</sic></note> is now <lb/>
 here to take his leave of me I hearily wish him a good <sic corr="Voyage">Voiage</sic> and <lb/>
-Safe to you he is in mighty haste and allowes me only time for <lb/>
-this letter I have <abbr expan="received">receiv'd</abbr> a Pipe of wine by <abbr expan="Captain">Capn.</abbr> Harwood of your <lb/>
+Safe to you he is in mighty haste and <sic corr="allows">allowes</sic> me only time for <lb/>
+this letter I have <abbr expan="received">receiv'd</abbr> a <note target="n7">Pipe of wine</note> by <abbr expan="Captain">Capn.</abbr> Harwood of your <lb/>
 Ordering the merchants will pay themselves by a draft on you I have <lb/>
 not seen the master yet to pay him his freight which is forty Shillings <lb/>
-Currt. money if the freight should be demanded of you there must <lb/>
+<abbr expan="Current">Currt.</abbr> money if the freight should be demanded of you there must <lb/>
 be a discount of 20 pounds per hundred which is the difference of our Exchange <lb/>
 at Present I must taken another Opportunity of sending for some goods <lb/>
 
 </p>
 
-<closer>I am &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gent </closer>
+<closer>
+I am &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="Gentlemen">Gent </abbr>
+</closer>
 
 
 </div1>
@@ -167,13 +169,21 @@ at Present I must taken another Opportunity of sending for some goods <lb/>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] Haswell and Brooks was a London firm listed in 1740 directories of that city. Samuel Haswell was a London Assurance director in Suffolk Lane. There are several men of the name "Brooks" in the directory including a Christopher Brooks, a ship broker, also located in Suffolk Lane. (<cit><bibl> <title>A Compleat Guide to All Persons who have any Trade or Concern with the City of London and Ports adjacent. . . .</title> London: Printed for J. Osborn, at the Golden Ball in Pater-noster-row, MDXXXL</bibl></cit>; and  <cit><bibl><title>Kent's Directory For the Year 1740 Containing An Alphabetical List of the Names and Places of Abode of the Directors of Companies, Persons in Publick Business, Merchants, and other Eminent Traders in the Cities of London and Westminster, and the Borough of Southwark.</title>  London: Printed and Sold by Henry Kent in Finch-Lane, near the Royal Exchange: and by the Booksellers and Pamphlets Shops of London and Westminster, 1740. http://freepages.history.rootsweb.com/~frpayments/KD1740/AB.htm. 8/12/2005. p. 39.</bibl></cit>)</note>
+<note id="n1">[1] Haswell and Brooks was a London firm listed in 1740 directories of that city. Samuel Haswell was a London Assurance director in Suffolk Lane. John Brooks' obituary appeared in the <title>Pennsylvania Gazette,</title> May 8, 1740, where his partnership with Haswell was noted and that he had been "formerly Commander of the George, in the Virginia Trade." ( (<cit><bibl> <title>A Compleat Guide to All Persons who have any Trade or Concern with the City of London and Ports adjacent. . . .</title> London: Printed for J. Osborn, at the Golden Ball in Pater-noster-row, MDXXXL</bibl></cit>; and  <cit><bibl><title><xref to="http://freepages.history.rootsweb.com/~frpayments/KD1740/AB.htm">Kent's Directory</xref> For the Year 1740 Containing An Alphabetical List of the Names and Places of Abode of the Directors of Companies, Persons in Publick Business, Merchants, and other Eminent Traders in the Cities of London and Westminster, and the Borough of Southwark.</title>  [London: Printed and Sold by Henry Kent in Finch-Lane, near the Royal Exchange: and by the Booksellers and Pamphlets Shops of London and Westminster, 1740]. 8/12/2005 and 5/9/2016. p. 39.</bibl></cit>) Brooks' obituary courtesy of Todd A. Farmerie, 1/21/2013.)</note>
 
-<note id="n2">[2] The <hi rend="italics">Bailey</hi> was a London ship owned by William Dawkins and commanded at various times by Adam Graves (1725-1730) and by Thomas Dove (1731-1732). She was a vessel of some 250 tons and carried 15-17 crew members. (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, 156v, and other data in Adm. 68/194 and /196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> A letter of Carter's to Dawkins 1732 May 12 refers to "your ship Bailey." as does a letter of 1738 May 10 from Carter's executors to Dawkins 1738 May 10.)</note>
+<note id="n2">[2] The <hi rend="italics">Bailey</hi> was a London ship owned by William Dawkins and commanded at various times by Adam Graves (1725-1730) and by Thomas Dove 1730-1732. She was a vessel of some 250 tons and carried 15-17 crew members. (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, 156v, and other data in Adm. 68/194 and /196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> A letter of Carter's to Dawkins <xref to="http://carter.lib.virginia.edu/html/C32e12b.html">May 12, 1732,</xref> refers to "your ship Bailey." as does a letter of August 10, 1733, from Carter's executors to Dawkins. [<cit><bibl>Lloyd T. Smith, Jr., <hi rend="italics">ed.</hi> <title>The Executors' Letters of Robert Carter of Corotoman, 1732-1738. </title> (Irvington, VA: Foundation for Historic Christ  Church, 2010) p. 76].</bibl></cit>)</note>
 
-<note id="n3">[3] The tobacco inspection act of  1730 was introduced and steered through the legislature by Lieutenant Governor Sir William Gooch. " The "bill called for the inspection and bonding at public warehouses of all tobacco shipped abroad; for the destruction of all unacceptable tobacco; for standardization of the size of hogsheads . . . ; for maintenance of detailed records to prevent smuggling; and for the circulation of warehouse receipts as legal tender in lieu of tobacco iteself. . . ." Gooch also managed to obtain approval of the act in England. It went into effect 1731 August 1.(<cit><bibl n="B27">Billings. <hi rend="italics">et al. </hi> <title>Colonial Virginia: A History. </title></bibl></cit> pp. 236-39.)</note>
+ <note id="n3">[3]  Charles Seabrook was a partner with Thomas Reynolds in a Yorktown business. In Seabrook's 1752 will, he bequeathed half his estate to Reynolds including his share in a sloop. (<cit><bibl>"Reynolds and Rogers." <title>William and Mary College Quarterly Historical Magazine</title>,12: 128;</bibl></cit> and <cit><bibl>Survey Report 04620 summarizing the 1743 will of George Tilly in "Principal Probated Registry Class Will-Register Books 26 BOYCOTT Probate Act Book 1743," f. 9, vo, mentions Chas. Seabrook as a witness together with the chief and second mates and the ship's carpenter.</bibl></cit>)</note>
 
-<note id="n4">[4] Christopher Brooks commanded the <name type="ship"><hi rend="italics">Cambridge,</hi></name> a vessel of 100 tons and 11 men owned by London merchants Haswell and Brooks. (<cit><bibl>Survey Report 6801 summarizing Adm. 68/195, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n4">[4] The tobacco inspection act of  1730 was introduced and steered through the legislature by Lieutenant Governor Sir William Gooch. " The "bill called for the inspection and bonding at public warehouses of all tobacco shipped abroad; for the destruction of all unacceptable tobacco; for standardization of the size of hogsheads . . . ; for maintenance of detailed records to prevent smuggling; and for the circulation of warehouse receipts as legal tender in lieu of tobacco iteself. . . ." Gooch also managed to obtain approval of the act in England. It went into effect 1731 August 1.(<cit><bibl n="B27">Billings. <hi rend="italics">et al. </hi> <title>Colonial Virginia: A History. </title></bibl></cit> pp. 236-39.)</note>
+
+<note id="n5"> [5] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
+
+<note id="n6">[6] Christopher Brooks commanded the <name type="ship"><hi rend="italics">Cambridge,</hi></name> a vessel of 100 tons and 11 men owned by London merchants Haswell and Brooks in 1729. (<cit><bibl>Survey Report 06444 summarizing "Public Record Office Class: Adm. 68/195. Greenwich Hospital: General Accounts. The names of Ships and the Amounts paid for Sixpences at the Port of London, 1728-1731."</bibl></cit>.)</note>
+
+<note id="n7">[7] A pipe is "a large container of definite capacity for storing solids or liquids, such as meat, fish, or oil. Now: spec. a large cask for storing wine or cider." Wikipedia, citing a book by Ronald E. Zupco, states that a pipe was half a tun which was "a large vat or vessel, most often holding 252 wine gallons," meaning a pipe was roughly 126 gallons of wine.  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press</bibl></cit> and  <cit><bibl>Ronald E. Zupko. <title>A Dictionary of Weights and Measures for the British Isles: The Middle Ages to the Twentieth Century</title>.<title> [Memoirs of the American Philosophical Society</title>, 1985, p. 168.]</bibl></cit>) </note> 
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was revised May 19, 2016,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 </div1>

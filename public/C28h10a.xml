@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,8 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1728-08-10">Augst. 10th: 1728</date><lb/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1728-08-10">Augst. 10th: 1728</date><lb/>
 Mr. Robt Cary<lb/>
 </dateline>
 <salute>Sir&mdash;</salute>
@@ -116,11 +115,14 @@ Mr. Robt Cary<lb/>
 
 
 
-<p>I have already <sic corr="dispatched">dispatchd</sic> my own business to <lb/>you by <note target="n1">Hopkins</note> and<note target="n2"> Trice</note> This Covers a bill of Lading for 12 hogsheads <lb/>belonging to <note n="JC1">my Son</note> the Secretary and is <sic corr="Consigned">Consignd</sic> to you in the <note n="CS"><name type="ship">Carter</name></note></p>
+<p>I have already <sic corr="dispatched">dispatchd</sic> my own business to <lb/>you by <note target="n1">Hopkins</note> and<note target="n2"> Trice</note> This Covers a <note target="n3">bill of Lading</note> for 12 hogsheads <lb/>belonging to <note n="JC1">my Son</note> the Secretary and is <sic corr="Consigned">Consignd</sic> to you in the <note n="CS"><name type="ship">Carter</name></note></p>
 
-<p>In a former Letter I writ to You to Send me as <lb/><add place="supralinear">Soon as</add> you could another <sic corr="parcel">parcell</sic> of Gardens Seeds of the Same Sorts I had from <lb/>you last year now I Send you an Invoice of the particulars wherein there <lb/>is Some difference to be your Direction I thought all the Seeds came up <lb/>very well they now tell me the Carrot Seed did not come up I am </p>
+<p>In a <xref to="http://carter.lib.virginia.edu/html/C28g08a.html">former Letter</xref> I <sic corr="wrote">writ</sic> to You to Send me as <lb/><add place="supralinear">Soon as</add> you could another <sic corr="parcel">parcell</sic> of Gardens Seeds of the Same Sorts I had from <lb/>you last year now I Send you an Invoice of the particulars wherein there <lb/>is Some difference to be your Direction I thought all the Seeds came up <lb/>very well they now tell me the Carrot Seed did not come up I am </p>
 
-<closer><seg type="postscript">Sir&mdash;<lb/>Yor. most humble Servt.
+<closer>
+<seg type="postscript">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir&mdash;<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. most humble Servt.
 <lb/><lb/>per the Carter</seg></closer>
 
 
@@ -139,10 +141,14 @@ Mr. Robt Cary<lb/>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] Captain James Hopkins commanded the <hi rend="italics">Mary</hi> in 1727-1728. He was then working for London merchant Robert Cary. He is mentioned in Carter's diary. (<cit><bibl>Adm. 68/194, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n1">[1]  The <hi rend="italics">Mary</hi> was a London ship owned by merchant Robert Cary of 130 tons commanded by James Hopkins, in 1727-1728. Hopkins  is mentioned in Carter's diary. (<cit><bibl>Admiralty 68/194,ff. 82r, abstracted in Survey Report 6801, Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
-<note id="n2">[2] The 140 ton <hi rend="italics">Welcome</hi> was owned by London merchant James Bradley to whom Carter would write about her on 1727 May 17.  John Trice (Frice) was her captain, 1723-1728. (<cit><bibl>Survey Report 6801 summarizing Adm 68/195, 154r, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n2">[2] The 140 ton <hi rend="italics">Welcome</hi> was owned by London merchant James Bradley to whom Carter would write about her on <xref  to="http://carter.lib.virginia.edu/html/C27e17a.html"> May 17, 1727</xref>. John Trice (Frice) was her captain, 1723-1728. (<cit><bibl>Adm 68/195, 154r, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
+<note id="n3"> [3] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
+
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised December 12, 2014,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 </div1>
 </back>

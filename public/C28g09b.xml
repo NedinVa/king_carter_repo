@@ -10,7 +10,12 @@
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; 
+
+<!NOTATION html SYSTEM "HTML">
+<!ENTITY Ext6 SYSTEM "http://www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm" NDATA html>
+
+]>
 <TEI.2 id="C28g09b">
 
 
@@ -39,7 +44,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,7 +111,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;
 <date value="1728-07-09">July the 9th: 1728</date><lb/>
 John Burridge Esqr.<lb/>
 </dateline>
@@ -116,9 +121,10 @@ John Burridge Esqr.<lb/>
 
 
 
-<p>I <abbr expan="received">recd</abbr> your's of the 2d: of <abbr expan="December">Decr:</abbr> with the Sales of my <lb/>10 hogsheads I am Sorry to find you talk of an Outstanding debt of &pound;9:17:6 <lb/>I hope this money wont be lost there was <abbr expan="another">anothr.</abbr> outstanding Debt <lb/>that now you make no menton of. Your Market this year is so low <lb/>that I have not Sent any <abbr expan="Tobacco">Tobbo:</abbr> to your Port, I have drawn a bill <lb/>of Exchange upon you for &pound;16 payable to Mr.<note n="CS1"><abbr expan="Charles"> Ch:</abbr> Stagg</note> which I desire <lb/>you to anwer at time and is all at present from </p>
+<p>I <abbr expan="received">recd</abbr> your's of the 2d: of <abbr expan="December">Decr:</abbr> with the Sales of my <lb/>10 hogsheads I am Sorry to find you talk of an Outstanding debt of &pound;9:17:6 <lb/>I hope this money wont be lost there was <abbr expan="another">anothr.</abbr> outstanding Debt <lb/>that now you make no menton of. Your Market this year is so low <lb/>that I have not Sent any <abbr expan="Tobacco">Tobbo:</abbr> to <note target="n1">your Port</note>, I have drawn a <note target="n2">bill <lb/>of Exchange</note> upon you for &pound;16 payable to Mr.<note n="CS1"><abbr expan="Charles"> Ch:</abbr> Stagg</note> which I desire <lb/>you to anwer at time and is all at present from </p>
 
-<closer>Sir <lb/>Yor. humble Servt:</closer>
+<closer>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. humble Servt:</closer>
 
 
 </div1>
@@ -136,6 +142,14 @@ John Burridge Esqr.<lb/>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
+<note id="n1">[1] Burridge was located in "Lyme Regis . . . a coastal town in West Dorset, England, situated 25 miles (40 km) west of Dorchester and 25 miles (40 km) east of Exeter. The town lies in Lyme Bay, on the English Channel coast at the Dorset-Devon border." (<cit><bibl><xref to="http://en.wikipedia.org/wiki/Lyme_Regis">"Lyme Regis"</xref> in Wikipedia.</bibl></cit>)</note>
+
+<note id="n2"> [2] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (<cit><bibl><xref to="Ext6">"Dictionary of  Financial Scam Terms,"</xref> 8/22/2005</bibl></cit>)</note>
+
+
+
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised November 20, 2014,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 

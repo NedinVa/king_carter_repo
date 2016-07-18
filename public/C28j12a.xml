@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -88,7 +88,7 @@
 <head>
 <bibl>
 <abbr>AL</abbr>
-<extent> p.</extent>
+<extent>2 p.</extent>
 <date value="1728-10-12"></date>
 <idno rend="suppress">C28j12a.xml</idno>
 <title>Letter from Robert Carter to William Dawkins, October 12, 1728</title>
@@ -106,8 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1728-10-12">Octobr. the 12th: 1728</date><lb/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1728-10-12">Octobr. the 12th: 1728</date><lb/>
 Mr. Wm: Dawkins<lb/>
 </dateline>
 <salute>Sir&mdash;</salute>
@@ -116,15 +115,17 @@ Mr. Wm: Dawkins<lb/>
 
 
 
-<p>The above went Via <name type="city">Bristol</name> this I hope will get <lb/>to you time Enough to Send me in the following goods to wit. Twenty <lb/><sic corr="rugs ">ruggs </sic> and Twenty <sic corr="pairs">pair</sic> of Blankets more then I have already <sic corr="written">writ</sic> <lb/>for likewise a hundred Yards of Strong <note target="n1">Barras </note>for Bedding &amp; for Clean<lb/>ing of Wheat. Twenty <note target="n2">rine</note> <sic corr="sieves">sives</sic> and Twenty <note target="n3">Riddles.</note></p>
+<p>The above went Via <name type="city">Bristol</name> this I hope will get <lb/>to you time Enough to Send me in the following goods to wit. Twenty <lb/><sic corr="Rugs ">Ruggs </sic> and Twenty <sic corr="pairs">pair</sic> of Blankets more then I have already <sic corr="written">writ</sic> <lb/>for likewise a hundred Yards of Strong <note target="n1">Barras </note>for Bedding &amp; for Clean<lb/>ing of Wheat. Twenty <note target="n2">rine</note> <sic corr="sieves">sives</sic> and Twenty <note target="n3">Riddles.</note></p>
 
 <p>I <sic corr="believe">beleive</sic> <sic corr="you'll">you'l</sic> think it for your Interest to have a Small <lb/>Ship here in <note target="n4">this river</note> Early for this Crop I Expect the <note n="CS">Carter</note> will be Sold I have <lb/>bin so indifferently used in her that I have often taken up resolutions <lb/>never to be <sic corr="Concerned">Concernd</sic> in any other however taking Tom Dove to be a very <lb/>honest fellow and being willing to be a <sic corr="Contributor">Contributer</sic> towards another ship <lb/>for him if you <add place="supralinear">will</add> build a new Ship of about 5 or 600 hogsheads and call her after 
 
 <pb n="2"/><lb/><lb/>
-my name to be a Standing Ship for this river I will hold an Eighth in her <lb/>this Ship I cant Expect can be got ready for this Crop but may very well <lb/>be made an Early Ship <abbr expan="against">agst.</abbr> the next to Continue Tom Dove in business <lb/>in the mean time if you will think it proper to Send him in a Small Ship <lb/><del>[illegible]</del> And indifferently Early I Should think he cant miss of <sic corr="getting">geting</sic> full I will <lb/>do him the best Service I can I am </p>
+my name to be a Standing Ship for this river I will hold an Eighth in her <lb/>this Ship I cant Expect can be got ready for this Crop but may very well <lb/>be made an Early Ship <abbr expan="against">agst.</abbr> the next to Continue Tom Dove in business <lb/>in the mean time if you will think it proper to Send him in a Small Ship <lb/><del>[illegible]</del> Indifferently Early I Should think he cant miss of <sic corr="getting">geting</sic> full I will <lb/>do him the best Service I can I am </p>
 
-<closer>Yor. very humble Servt:
-<seg type="postscript"><lb/><lb/>per <note target="n5">Naylor</note></seg></closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. very humble Servt:
+<seg type="postscript"><lb/><lb/>
+per <note target="n5">Naylor</note></seg></closer>
 
 
 </div1>
@@ -146,11 +147,14 @@ my name to be a Standing Ship for this river I will hold an Eighth in her <lb/>t
 
 <note id="n2">[2] Probably the clerk meant to write "fine" rather than "rine."</note>
 
-<note id="n3">[3] A riddle is a coarse sieve.</note>
+<note id="n3">[3] A riddle is "a coarse-meshed sieve, used to separate sand from gravel, ashes from cinders, etc., generally consisting of a circular rim with a base formed of strong wires crossing each other at right angles."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
 <note id="n4">[4] The Rappahannock</note>
 
-<note id="n5">[5] Carter sent letters by Captain Naylor in the fall of 1728, but apparently the ship was lost on its way to Liverpool because Carter noted to William Dawkins 1728 June 29, the ship "hath never been heard of."</note>
+<note id="n5">[5] Carter sent letters by Captain Naylor of a Liverpool ship in the fall of 1728, but apparently the ship was lost because Carter noted to William Dawkins<xref to="http://carter.lib.virginia.edu/html/C29f28b.mod.html"> June 29, 1729</xref>, the ship "hath never been heard of."</note>
+
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised January 9, 2015,  to  strengthen the modern language version text and footnotes.</hi></note>
 
 
 

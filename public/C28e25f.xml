@@ -29,7 +29,7 @@
    </respStmt>
 </titleStmt>
 
-<extent>ca.  kilobytes </extent>
+<extent>ca. 7  kilobytes </extent>
 
 <publicationStmt>
      <publisher>University of Virginia Library.</publisher>
@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -88,7 +88,7 @@
 <head>
 <bibl>
 <abbr>AL</abbr>
-<extent> p.</extent>
+<extent>1 p.</extent>
 <date value="1725-05-25"></date>
 <idno rend="suppress">C28e25f.xml</idno>
 <title>Letter from Robert Carter to Robert Jones, May 25, 1728</title>
@@ -106,19 +106,18 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name><lb/>
-<date value="1725-05-25">May the 25th.1728</date><lb/>
+<name type="place"><add resp="editor">[Corotoman, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1725-05-25">May the 25th.1728</date><lb/>
 Mr. Robt: Jones&mdash;<lb/>
 </dateline>
 <salute></salute>
 
 </opener>
 
-<p>Mr. <note target="n1">John Warner</note> hath bin with me <lb/>hath brought his Surveys for my son <note n="CC1">Charles</note> and your Self <lb/>he hath full Instructions about laying out and dividing <lb/>the Land I am about buying of <note target="n2">Mr. Mercer</note> In which you <lb/>must as Assistant to him as you can. he hath according to <lb/>your desire taken of the bounds of the <abbr expan="Several">Sevl.</abbr> Lands lying about the <lb/>branches of the <note target="n3">Horsepen run,</note> so that I beleive he will be able <lb/>to find out what wast Land is there,</p>
+<p>Mr. <note target="n1">John Warner</note> <sic corr="has">hath</sic> bin with me <lb/><sic corr="has">hath</sic> brought his Surveys for my son <note n="CC1">Charles</note> and your Self <lb/>he <sic corr="has">hath</sic> full Instructions about laying out and dividing <lb/>the Land I am about buying of <note target="n2">Mr. Mercer</note> In which you <lb/>must <corr resp="editor">]act]</corr> as Assistant to him as you can. he <sic corr="has">hath</sic> according to <lb/>your desire taken <sic corr="off">of</sic> the bounds of the <abbr expan="Several">Sevl.</abbr> Lands lying about the <lb/>branches of the <note target="n3">Horsepen run,</note> so that I beleive he will be able <lb/>to find out what wast Land is there,</p>
 
-<p>My Sloop I Expect home in a Short time <lb/>I design her next Trip up to you I beleive in about a fortnight <lb/>you may Expect her. <del>When</del><add place="supralinear">and</add> my Son Charles reckons to be up <lb/>in about 10 or 12 <del>[illegible]</del> of next month I am </p>
+<p>My Sloop I Expect home in a Short time <lb/>I design her next Trip up to you I <sic corr="believe">beleive</sic> in about a fortnight <lb/>you may Expect her. <del>When</del><add place="supralinear">and</add> my Son Charles reckons to be up <lb/>in about 10 or 12 <del>[illegible]</del> of next month I am </p>
 
-<closer>Yor. Friend.</closer>
+<closer>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="italics"><hi rend="bold">Yor. Friend</hi></hi>.</closer>
 
 
 </div1>
@@ -136,17 +135,17 @@ Mr. Robt: Jones&mdash;<lb/>
 
 <note>The name of Carter's home, "Corotoman," the county, and colony have been added for clarity to this unheaded draft. </note>
 
+<note>Carter has added the close to the clerk's draft in his hand as is indicated by the use of bold italics.</note>
+
+<note>This letter was published in <cit><bibl n="A8">Berkeley. "Robert Carter as Agricultural Administrator: . . ." p. 285.</bibl></cit></note>
+
 <note id="n1">[1] John Warner was the surveyor of King George County in 1727; he laid off the town of Falmouth in 1728. Later he worked for Lord Fairfax, and prepared an important map of his holdings. (<cit><bibl n="B4">Harrison,  <title>Landmarks of Old Prince William</title>, 626-628.</bibl></cit>)</note>
 
-<note id="n2">[2] John Mercer (1704-1768) emigrated from Ireland where he had been
-trained as an attorney. "He settled at Marlboroughtown in 1726 as a practicing attorney and at once allowed a facile pen to get him into trouble with the government." He eventually lost his license to practice law, and turned to the land speculation that he had begun as soon as he reached Virginia. "He married first on June 10, 1725 Catherine Mason (June 21, 1707-June 15, 1750) only child of Colonel George Mason (16??-1716) and his second wife Elizabeth Waugh, daughter of the Reverend Mr. John Waugh."(<cit><bibl n="B4">Harrison. <title>Landmarks of Old Prince William</title> p. 315;</bibl></cit>  <cit><bibl n="B24">Copeland and MacMaster. <title>The Five George Masons.</title></bibl></cit>; and "John Mercer."  http://www.rootsweb.com/~vastaffo/johnmercer.htm  11/4/03)</note>
+<note id="n2">[2] John Mercer (1704-1768) emigrated from Ireland where he had been trained as an attorney. "He settled at Marlboroughtown [in then Stafford County] in 1726 as a practicing attorney and at once allowed a facile pen to get him into trouble with the government." He eventually lost his license to practice law, and turned to the land speculation that he had begun as soon as he reached Virginia. "He married first on June 10, 1725 Catherine Mason (June 21, 1707-June 15, 1750) only child of Colonel George Mason (16??-1716) and his second wife Elizabeth Waugh, daughter of the Reverend Mr. John Waugh."(<cit><bibl n="B4">Harrison. <title>Landmarks of Old Prince William</title> p. 315;</bibl></cit>  <cit><bibl n="B24">Copeland and MacMaster. <title>The Five George Masons.</title></bibl></cit>; and <xref to="http://www.rootsweb.ancestry.com/~vastaffo/johnmercer.htm">"John Mercer."</xref>)</note>
 
 <note id="n3">[3] Horsepen Run is a branch of Broad Run and lies partly in today's Fairfax County, and also  in Loudoun County running along the eastern and northern sides of Dulles Airport. (<cit><bibl>Alexandria Drafting Company. <title>Regional Northern Virginia.</title> [Alexandria, VA: Alexandria Drafting Company, 2002.]  pp. 12, 16-17, 151.</bibl></cit>)</note>
 
-
-
-
-
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised October 24, 2014,  to  strengthen the modern language version text.</hi></note>
 
 
 </div1>

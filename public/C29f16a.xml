@@ -29,7 +29,7 @@
    </respStmt>
 </titleStmt>
 
-<extent>ca.  kilobytes </extent>
+<extent>ca. 5  kilobytes </extent>
 
 <publicationStmt>
      <publisher>University of Virginia Library.</publisher>
@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,7 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;
 <date value="1729-06-16">June the. 16th. 1729</date><lb/>
 Mr.Wm. Dawkins<lb/>
 </dateline>
@@ -114,13 +114,17 @@ Mr.Wm. Dawkins<lb/>
 
 </opener>
 
-<p>The only business of this shall be to Enclose a bill<lb/>
-of Lading to you for 14 hogsheads of <abbr expan="Tobacco">Tobbo:</abbr> on board the <note target="n1">Betty</note> <abbr expan="Captain">Capt.</abbr> Keeling<lb/>
+<p>The only business of this shall be to Enclose a <note target="n1">bill<lb/>
+of Lading</note> to you for 24 hogsheads of <abbr expan="Tobacco">Tobbo:</abbr> on board the <note target="n2">Betty</note> <abbr expan="Captain">Capt.</abbr> <sic corr="Keiling">Keeling</sic><lb/>
 they are all of my own Crops and I shall feed my self with hopes<lb/>
 by the late coming home of the Ships they will come to a rising market<lb/>
 I am</p>
 
-<closer>Yor. humble Servt:&mdash;<seg type="postscript"><lb/><lb/>per Keeling</seg></closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. humble Servt:&mdash;
+<seg type="postscript"><lb/><lb/>
+per <sic corr="Keiling">Keeling</sic></seg>
+</closer>
 
 
 </div1>
@@ -138,9 +142,12 @@ I am</p>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
 
-<note id="n1">[1] Captain William Keiling commanded the <hi rend="italics">Betty.
+<note id="n1"> [1] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
+
+<note id="n2">[2] Captain William Keiling commanded the <hi rend="italics">Betty.
 </hi> (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194, Virginia Colonial Records Project, Albert and Shirley  Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised March 12, 2015,  to add a footnote and strengthen the modern language version text.</hi></note>
 
 
 

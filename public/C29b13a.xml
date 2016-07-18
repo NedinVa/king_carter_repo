@@ -11,7 +11,7 @@
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
 <!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
-<TEI.2 id="C29b14a">
+<TEI.2 id="C29b13a">
 
 
 <teiHeader type="aacr2">
@@ -34,12 +34,12 @@
 <publicationStmt>
      <publisher>University of Virginia Library.</publisher>
      <pubPlace>Charlottesville, Va.</pubPlace>
-     <idno type="ETC">C29b14a.xml</idno>
+     <idno type="ETC">C29b13a.xml</idno>
      <availability>
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -81,7 +81,7 @@
 
 </teiHeader>
 
-<text id="C29b14aT">
+<text id="C29b13aT">
 
 <front>
 <div1 type="summary" n="1">
@@ -90,11 +90,11 @@
 <abbr>AL</abbr>
 <extent>2 p.</extent>
 <date value="1729-02-14"></date>
-<idno rend="suppress">C29b14a.xml</idno>
+<idno rend="suppress">C29b13a.xml</idno>
 <title>Letter from Robert Carter to John Mercer, February 13, 1729</title>
 </bibl>
 </head>
-<p>Robert Carter writes to John Mercer of Stafford County, February 13, 1729, to send him a retaining fee to be Carter's lawyer in a suit against Carter's guardian and grandson, Lewis Burwell, and for other legal matters in Mercer's area.</p>
+<p>Robert Carter writes to John Mercer of Stafford County, February 13, 1729, to send him a retaining fee to be Carter's lawyer in a suit against Carter's grandson, Lewis Burwell, for whom Carter was guardian and for other legal matters in Mercer's area.</p>
 </div1>                 
 </front>
 
@@ -106,7 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Corotoman, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
+<name type="place">Corotoman, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;
 <date value="1729-02-14">Feb: 13. 1729</date><lb/>
 Mr John Mercer<lb/>
 </dateline>
@@ -116,12 +116,15 @@ Mr John Mercer<lb/>
 
 
 
-<p><note target="n2">Mr. Warner</note> tells me you practice as a Lawyer at <lb/>the upper courts and commends the service you have done some of your cli:<lb/>ents upon <sic corr="juries">jurys</sic> of Land where he hath been the Surveyor <abbr expan="Captain">Capt</abbr> <note target="n3">Henry <lb/>Fitzhugh </note>hath bought Ejectments to the general Court against Some <lb/>of the tenants of <note target="n4">Lewis Burwell</note> my grandson whose guardian I am: <lb/>Upon his seat of land lying a little below the falls of <abbr expan="Rappahannock">Rappa.</abbr> <note target="n5">Mr. <lb/>Barradel</note> is <abbr expan="retained">retain'd</abbr> for <abbr expan="Captain">Capt</abbr> Fitzhugh and <note n="GE"><sic corr="Major">Majr</sic> Eskridge</note> is my <lb/>Lawyer however you living near the place and whose Attendance on the jury 
+<p><note target="n2">Mr. Warner</note> tells me you practice as a Lawyer at <lb/>the upper courts and commends the service you have done some of your cli:<lb/>ents upon <sic corr="juries">jurys</sic> of Land where he <sic corr="has">hath</sic> been the Surveyor <abbr expan="Captain">Capt</abbr> <note target="n3">Henry <lb/>Fitzhugh </note><sic corr="has">hath</sic> bought <note target="n4">Ejectments</note> to the <note target="n5">general Court</note> against Some <lb/>of the tenants of <note target="n6">Lewis Burwell</note> my grandson whose guardian I am: <lb/>Upon his seat of land lying a little below the falls of <abbr expan="Rappahannock">Rappa.</abbr> <note target="n7">Mr. <lb/>Barradel</note> is <abbr expan="retained">retain'd</abbr> for <abbr expan="Captain">Capt</abbr> Fitzhugh and <note n="GE"><sic corr="Major">Majr</sic> Eskridge</note> is my <lb/>Lawyer however you living near the place and whose Attendance on the jury 
 
 <pb n="2"/><lb/><lb/>
 I may depend upon makes me desirous of having your Assistance also <lb/>And Accordingly I send you by Mr. Warner a general retaining fee <lb/>desiring you will hold your Self as my Lawyer in this and all other <lb/>causes that I may be <abbr expan="concerned">concern'd</abbr> in in the upper <sic corr="Counties">Countys</sic> where you prac:<lb/>tice I am </p>
 
-<closer>Sir <lb/>Your humble Servant.</closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your humble Servant.
+</closer>
 
 
 </div1>
@@ -139,21 +142,22 @@ I may depend upon makes me desirous of having your Assistance also <lb/>And Acco
 
 <note> The county and colony have been added for clarity to the heading on this draft.</note>
 
-<note id="n1">[1] John Mercer (1704-1768) emigrated from Ireland where he had been trained as an attorney. "He settled at Marlboroughtown [in then Stafford County] in 1726 as a practicing attorney and at once allowed a facile pen to get him into trouble with the government." He eventually lost his license to practice law, and turned to the land speculation that he had begun as soon as he reached Virginia. "He married first on June 10, 1725 Catherine Mason (June 21, 1707-June 15, 1750) only child of Colonel George Mason (16??-1716) and his second wife Elizabeth Waugh, daughter of the Reverend Mr. John Waugh."(<cit><bibl n="B4">Harrison. <title>Landmarks of Old Prince William</title> p. 315;</bibl></cit>  <cit><bibl n="B24">Copeland and MacMaster. <title>The Five George Masons.</title></bibl></cit>; and "John Mercer."  http://www.rootsweb.com/~vastaffo/johnmercer.htm  11/4/03)</note>
+<note id="n1">[1] John Mercer (1704-1768) emigrated from Ireland where he had been trained as an attorney. "He settled at Marlboroughtown [in then Stafford County] in 1726 as a practicing attorney and at once allowed a facile pen to get him into trouble with the government." He eventually lost his license to practice law, and turned to the land speculation that he had begun as soon as he reached Virginia. "He married first on June 10, 1725 Catherine Mason (June 21, 1707-June 15, 1750) only child of Colonel George Mason (16??-1716) and his second wife Elizabeth Waugh, daughter of the Reverend Mr. John Waugh."(<cit><bibl n="B4">Harrison. <title>Landmarks of Old Prince William</title> p. 315;</bibl></cit>  <cit><bibl n="B24">Copeland and MacMaster. <title>The Five George Masons.</title></bibl></cit>; and <xref to="http://www.rootsweb.ancestry.com/~vastaffo/johnmercer.htm">"John Mercer."</xref>)</note>
 
 <note id="n2">[2] John Warner was the surveyor of King George County in 1727; he laid off the town of Falmouth in 1728. Later he worked for Lord Fairfax, and prepared an important map of his holdings. (<cit><bibl n="B4">Harrison,  <title>Landmarks of Old Prince William</title>, 626-628.</bibl></cit>)</note>
 
  <note id="n3">[3]  Henry Fitzhugh (1706-1742) of "Eagle's Nest," Stafford County, was educated at Oxford, and married Lucy Carter (1715-1763), Robert Carter's fourteenth child, in 1730. They had  four children; after Fitzhugh's death, she married Nathaniel Harrison (1713-1791).  He was a burgess and militia officer. (<cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 451 </bibl></cit>;  <cit><bibl>Robert A. Rutland, <title>The Papers of George Mason, 1725-1792.</title> [Chapel Hill: University of North Carolina Press, 1970]. I:lii</bibl></cit>; and extensive generalogical notes, "Fitzhugh Family," in volumes 7 and 8 of <title>Virginia Magazine of History and Biography.</title>)</note>
 
-<note id="n4">[4] Lewis Burwell (1711 or 1712-1756), Carter's grandson by Elizabeth Carter Burwell and her first husband, Nathaniel Burwell (1680-1721) for whom Carter was guardian. He was educated at Eton and Cambridge, and inherited considerable property, living at "Fairfield," Gloucester County. He would be president of the Council in 1750-1751. (<cit><bibl n="B42">Kneebone <hi rend="italics">et al.</hi>,  <title>Dictionary of Virginia Biography.</title>  2:434-5.</bibl></cit> and <cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 114.</bibl></cit>)</note>
+<note id="n4">[4] An ejectment is a legal action defined as "the act or process of ejecting a person from his holding."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
-<note id="n5">[5] Edward Barradall (Barradell, etc.)  (1704- 1743) of James City County and Williamsburg was an attorney who in 1735-1736 would be Lord Fairfax's attorney. In 1738 he would be appointed attorney general of the colony and serve until his death.  He was mayor of Williamsburg in 1736-1737. (<cit><bibl>"Mayors of Williamsburg: Colonial Period." http://www.ci.williamsburg.va.us/gen/history/govh7.htm. 1/14/2005.</bibl></cit>  <cit><bibl n="B8">Brown. <title>Virginia Baron. . . .</title> pp. 61-62, 80, 82;</bibl></cit> and <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]: 366, 369, 374, 425. </bibl></cit>)</note>
-
-
+<note id="n5">[5] "The governor's Council, also known as the Council of State or simply the Council, consisted of about a dozen of colonial Virginia's wealthiest and most prominent men. Beginning in the 1630s the Crown appointed Council members. . . . Crown appointments were lifetime appointments. From 1625, when Virginia became a royal colony, until the outbreak of the American Revolution (1775-1783), the Council members advised the royal governor or his deputy, the lieutenant governor, on all executive matters. The Council and the governor together constituted the highest court in the colony, known initially as the Quarter Court and later as the General Court. The Council members also served as members of the General Assembly; from the first meeting of the assembly in 1619 until 1643 the governor, Council members, and burgesses all met in unicameral session. After 1643 the Council members met separately as the upper House of the General Assembly."  (<xref to="http://www.encyclopediavirginia.org/Governor_s_Council_The">"The Governor's Council"</xref> in <title>Encyclopedia Virginia</title>)</note>
 
 
+<note id="n6">[6] Lewis Burwell (1711 or 1712-1756), Carter's grandson by Elizabeth Carter Burwell and her first husband, Nathaniel Burwell (1680-1721) for whom Carter was guardian. He was educated at Eton and Cambridge, and inherited considerable property, living at "Fairfield," Gloucester County. He would be president of the Council in 1750-1751. (<cit><bibl n="B42">Kneebone <hi rend="italics">et al.</hi>,  <title>Dictionary of Virginia Biography.</title>  2:434-5.</bibl></cit> and <cit><bibl n="B3">Carleton. <title>A Genealogy. . .  of Robert Carter. . . .</title> p. 114.</bibl></cit>)</note>
 
+<note id="n7">[7] Edward Barradall (Barradell, etc.)  (1704- 1743) of James City County and Williamsburg was an attorney who in 1735-1736 would be Lord Fairfax's attorney. In 1738 he would be appointed attorney general of the colony and serve until his death.  He was mayor of Williamsburg in 1736-1737. (<cit><bibl>"Mayors of Williamsburg: Colonial Period." http://www.ci.williamsburg.va.us/gen/history/govh7.htm. 1/14/2005.</bibl></cit>  <cit><bibl n="B8">Brown. <title>Virginia Baron. . . .</title> pp. 61-62, 80, 82;</bibl></cit> and <cit><bibl n="B10">McIlwaine. <title>Executive Journals of the Council. . . .</title>, 4[1721-1739]: 366, 369, 374, 425. </bibl></cit>)</note>
 
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised February 6, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 </div1>
 </back>

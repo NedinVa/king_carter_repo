@@ -10,7 +10,13 @@
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; 
+
+<!NOTATION html SYSTEM "HTML">
+<!ENTITY Ext6 SYSTEM "http://www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm" NDATA html>
+
+]>
+
 <TEI.2 id="C28g09c">
 
 
@@ -39,7 +45,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -88,13 +94,13 @@
 <head>
 <bibl>
 <abbr>AL</abbr>
-<extent> p.</extent>
+<extent>1 p.</extent>
 <date value="1728-07-09"></date>
 <idno rend="suppress">C28g09c.xml</idno>
 <title>Letter from Robert Carter to John Falconar, July 9, 1728</title>
 </bibl>
 </head>
-<p>Robert Carter writes to London merchant John Falconar, July 9, 1728, to report that he is sending bills of exchange for tobacco of his own and of the Burwell estate are being sent on the <hi rend="italics">Amity,</hi> Captain Wills, and enclosing a bill of exchange. He complains about Falconar's holding his tobacco back from the market when the merchant has written that little tobacco was available for sale.</p>
+<p>Robert Carter writes to London merchant John Falconar, July 9, 1728, to report that he is sending bills of lading for tobacco of his own and of the Burwell estate on the <hi rend="italics">Amity,</hi> Captain Wills, and enclosing a bill of exchange. He complains about Falconar's holding his tobacco back from the market when the merchant has written that little tobacco was available for sale.</p>
 </div1>                 
 </front>
 
@@ -114,11 +120,12 @@ Mr. John Falconar<lb/>
 
 </opener>
 
-<p><note target="n2"><abbr expan="Captain">Capt:</abbr>: Wills</note> is come to my house on Purpose to <lb/>give me bills of Lading I have done him all the Service I possibly <sic corr="could">cold</sic> <lb/>to wards <add resp="editor"> [<hi rend="italics">sic</hi>]</add> his Loading the bills of Lading for my <abbr expan="Tobacco">Tobbo:</abbr> are <abbr expan="herewith">herewth.</abbr> <lb/>Sent for 15 hogsheads of <note n="NB">Mr. Burwells</note> Estate's and for 30 of my own all <lb/>of my own Crops only the two last numbers I shall Say nothing <lb/>in praise of it, I have not time at present to be very Particular <lb/>you have a great deal of <abbr expan="Tobacco">Tobbo:</abbr> from me this year, I Shall be glad <lb/>to find a Suitable Encouragemt. I was not at all pleased that you <lb/>kept my <abbr expan="Tobacco">Tobbo:</abbr> for a <sic corr="Lag">Lagg</sic> Sale and yet at the Same time tell me <lb/>your market was almost Empty if you intend to Set fast in my <lb/>Esteemn you must not keep me thus in the Dark I have not time <lb/>to write an Invoice at present that must be the work of my next <lb/>I wish you health and am 
+<p><note target="n2"><abbr expan="Captain">Capt:</abbr>: Wills</note> is come to my house on Purpose to <lb/>give me <note target="n3">bills of Lading</note> I have done him all the Service I possibly <sic corr="could">cold</sic> <lb/>to wards <add resp="editor"> [<hi rend="italics">sic</hi>]</add> his Loading the bills of Lading for my <abbr expan="Tobacco">Tobbo:</abbr> are <abbr expan="herewith">herewth.</abbr> <lb/>Sent for 15 hogsheads of <note n="NB">Mr. Burwells</note> Estate's and for 30 of my own all <lb/>of my own Crops only the two last numbers I shall Say nothing <lb/>in praise of it, I have not time at present to be very Particular <lb/>you have a great deal of <abbr expan="Tobacco">Tobbo:</abbr> from me this year, I Shall be glad <lb/>to find a Suitable Encouragemt. I was not at all pleased that you <lb/>kept my <abbr expan="Tobacco">Tobbo:</abbr> for a <sic corr="Lag">Lagg</sic> Sale and yet at the Same time tell me <lb/>your market was almost Empty if you intend to Set fast in my <lb/>Esteemn you must not keep me thus in the Dark I have not time <lb/>to write an Invoice at present that must be the work of my next <lb/>I wish you health and am 
 </p>
 
-<closer>Yor. very humble Servt:
-<seg type="postscript"><lb/><lb/>herein comes <abbr expan="Captain">Capt:</abbr> Willss first <lb/>bills of Exchange for &pound;14:19 on your <lb/>Self<lb/>per Wills&mdash;</seg></closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. very humble Servt:<lb/>
+<seg type="postscript"><lb/><lb/>herein comes <abbr expan="Captain">Capt:</abbr> Willss first <lb/><note target="n4">bills of Exchange</note> for &pound;14:19 on your <lb/>Self<lb/>per Wills&mdash;</seg></closer>
 
 
 </div1>
@@ -136,10 +143,16 @@ Mr. John Falconar<lb/>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
 
-<note id="n1">[1] John Falconar was a London merchant with whom Carter dealt. In 1728, Falconar and Henry Darnell formed an association of 29 London tobacco merchants to deal with the French tobacco purchasing agent as a group in order to keep the price as high as possible. The association lasted only lasted a year or two before dissolving because some of its members were dealing directly with the French agent and selling below the agreed-upon price. (<cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> Newport News, VA: Mariners' Museum, 1953. p. 129</bibl></cit>)</note>
+<note id="n1">[1] John Falconar (d. <hi rend="italics">ca.</hi> 1729) was a London merchant with whom Carter dealt. In 1728, Falconar and Henry Darnell formed an association of 29 London tobacco merchants to deal with the French tobacco purchasing agent as a group in order to keep the price as high as possible. The association lasted only lasted a year or two before dissolving because some of its members were dealing directly with the French agent and selling below the agreed-upon price. (See <xref to="http://carter.lib.virginia.edu/html/C27g24d.html">Carter's letter to Falconar </xref> of July 24 and August 22, 1727, for details about the payment of &pound;200 to him. See <xref to="http://carter.lib.virginia.edu/html/C30d16b.html">Carter to William Dawkins,</xref> for Falconar's death date. <cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> Newport News, VA: Mariners' Museum, 1953. p. 129</bibl></cit>)</note>
 
-<note id="n2">[2] Captain Peter Wills commanded the  <hi rend="italics">Booth</hi> in 1723-1724, and the <hi rend="italics">Amity</hi> in 1727. He is mentioned in Carter's diary for June 1723.  (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194, Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia.</bibl></cit>)</note> 
+<note id="n2">[2] Captain Peter Wills commanded the  <hi rend="italics">Booth</hi> in 1723-1724, a ship belonging to merchant Thomas Colmore of London (see Carter's <xref to="/users/berkeley/public/C24a29a.xml">letter</xref> to Colmore of January 20 and February 15, 1724), and the <hi rend="italics">Amity,</hi> a vessel of 500 tons and 21 men,  in 1727-1729. He is mentioned in Carter's diary in 1723. (<cit><bibl>Survey Report 6800 summarizing Adm. 68/194, and Survey Report 6801 summarizing Adm. 68/195, Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
+ <note id="n3"> [3] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note> 
+
+<note id="n4"> [4] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (<cit><bibl><xref to="Ext6">"Dictionary of  Financial Scam Terms,"</xref> 8/22/2005</bibl></cit>)</note>
+
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised November 20, 2014,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 

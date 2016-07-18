@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2006</date>
+     <date>2006, 2016</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -94,7 +94,7 @@
 <title>Letter from Robert Carter to Thomas Lord Fairfax, June 1732</title>
 </bibl>
 </head>
-<p>Robert Carter writes to Thomas Lord Fairfax, June 1732, noting that he h as responded to a letter from Fairfax and adding information about a new attack on the proprietary in the current assembly. He attributes the attack to "Our revenue-Gentlemen" who hope to see their fees rise if the proprietary is closed.</p>
+<p>Robert Carter writes to Thomas Lord Fairfax, June 1732, noting that he has responded to a letter from Fairfax and adding information about a new attack on the proprietary in the current assembly. He attributes the attack to "Our revenue-Gentlemen" who hope to see their fees rise if the proprietary is closed.</p>
 </div1>                 
 </front>
 
@@ -123,14 +123,14 @@ by the same ship; &amp; am in hopes it contained the most suitable answer I was 
 capable of giving in Relation to your Lordships proposals under the Circum= <lb/>
 stances your affairs now stand, to which I desire your Lordship will be <lb/>
 pleased to be referred. The Burgesses now assembled are making <add place="supralinear">a</add> fresh <lb/>
-Attempt against your Lordship's Grant as you will see by the <sic corr="enclosed">inclosed</sic> Proceed <lb/>
-ings, which I think it my Duty to hand to Your Lordship by this first Oppor= <lb/>
+Attempt against your Lordship's Grant as you will see by the <note target="n2"><sic corr="enclosed">inclosed</sic> Proceed <lb/>
+ings</note>, which I think it my Duty to hand to Your Lordship by this first Oppor= <lb/>
 tunity. It is suggested that their last Petition to his Majesty was lost &amp; <lb/>
 never presented. How far from the Truth this is Your Lordship best knows; but <lb/>
 from what Your Lordship writes to me I must think much otherwise. They did <lb/>
-indeed miscarry in the Design of Laying out a Sum of Money for the Solliciting <lb/>
+indeed miscarry in the Design of Laying out a Sum of Money for the <sic corr="Soliciting">Solliciting</sic> <lb/>
 their Petition: The Council disallowed it; But whether I shall be able to gain <lb/>
-the same point now is a great Question. Our revenue-Gentlemen <del>are among</del>  <add place="supralinear">I take to be much at the Bottom</add> <lb/>
+the same point now is a great Question. Our <note target="n3">revenue-Gentlemen</note> <del>are among</del>  <add place="supralinear">I take to be much at the Bottom</add> <lb/>
 <del>[illegible]</del> in raising this <del>[illegible]</del> Opposition to your Lordship's Grant, I pres= <lb/>
 ume in Hopes of Raising the Benefit of their Places upon  <del>[illegible]</del> resuming <lb/>
 it into the Hands of the Crown. This I take in a Great Measure to be the Main <lb/>
@@ -141,14 +141,15 @@ To my very Great Loss in the Business. I <abbr expan="cannot">can't</abbr> doubt
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;will
 
 <pb n="2"/><lb/><lb/>
-will be strong enough to come off in this Second Attack as well as you did in <lb/>
+will be strong enough to come off in this Second Attack as well as You did in <lb/>
 the Former. I am, 
 </p>
 
-<closer>My Lord, <lb/>
-Your Lordship's most Obedient <lb/>
-Obliged &amp; <lb/>
-Most Humble Servant,
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My Lord, <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your Lordship's most Obedient <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;obliged &amp; <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Most Humble Servant,
 </closer>
 
 
@@ -167,7 +168,13 @@ Most Humble Servant,
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] The <hi rend="italics">Rebecca </hi> was probably a London ship; she was of 300 tons, had a crew of 11, and was commanded by Samuel Malbon in 1731-32. (<cit><bibl>Adm. 65/195, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n1">[1] The <hi rend="italics">Rebecca </hi> was probably a London ship; she was of 300 tons, had a crew of 11, and was commanded by Samuel Malbon in 1731-32. (<cit><bibl>Survey Report 06445 sumarizing "Adm. 68/196," "Greenwich Hospital: General Accounts. the Names of Ships and The Accounts Paid for Sixpences at the Port of London" found in theVirginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+
+<note id="n2">[2] The minutes of the House of Burgesses recorded the following on Friday, June 23, 1732:  "Mr Lee also reported. That the Persons appointed, had (according to Order) also waited upon the Governor, to desire Him, to cause the Seal of the Colony, to be fixed to a copy of the Petition of this House, at the last Session, to the King in Council, in Relation to the Northern-Neck Grant; and to a Duplicate thereof; and to transmit the same; and to procure one of them to be presented to His Majesty : And that he was likewise pleased to say, That the Seal should  be fixed to such Copy and Duplicate; and that tlie same should be transmitted, as was desired." The details of the petition from the previou session of the Burgesses may be found in the minutes for that session.</note>
+
+<note id="n3">[3] "The receiver-generalship was a royal appointment" and the official was required to give bond both to the lord of the treasury and to the governor. "Those who filled the office of receiver-general were practially all councillors. . . . The duties of the receiver-general included the receiving of the quit-rents, the revenue arising from the export duty of two shillings per hogshead on tobacco, the one penny per pound on tobacco exported from Virginia . . .  the port duty, which was the revenue arising from the fifteen pence per ton on all vessels arriving in the colony, and all funds of the colony not received by the treasurer. . . .  He paid out of the revenue . . .  the salaries of the officers of the colony, also those of the auditor-general of the colonies and the solicitor of Virginia affairs, both of whom lived in England. All the public expenses of the colony, except, of course, those paid out of the funds held by the treasurer, were paid out of the funds received in his office. . . .  He of course reported to the lords of the treasury all payments made on the order of the governor. The accounts of the revenues and the reports of disbursements forwarded to the lords of the treasury were certified to by the auditor and the governor, and sent by the governor."  <cit><bibl>(Percy Scott Flippin. <title>The Financial Administration of the Colony of Virginia</title> [Johns Hopkins Press, 1915.] 41-42.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was revised June 14, 2016,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 

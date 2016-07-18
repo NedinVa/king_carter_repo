@@ -11,7 +11,7 @@
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
 <!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
-<TEI.2 id="C29ii06b">
+<TEI.2 id="C29i06b">
 
 
 <teiHeader type="aacr2">
@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -81,7 +81,7 @@
 
 </teiHeader>
 
-<text id="C29ii06bT">
+<text id="C29i06bT">
 
 <front>
 <div1 type="summary" n="1">
@@ -90,7 +90,7 @@
 <abbr>AL</abbr>
 <extent> p.</extent>
 <date value="1729-09-06"></date>
-<idno rend="suppress">C29ii06b.xml</idno>
+<idno rend="suppress">C29i06b.xml</idno>
 <title>Letter from Robert Carter to John King, [September 6, 1729]</title>
 </bibl>
 </head>
@@ -116,20 +116,21 @@ John King Esqr<lb/>
 
 
 
-<p>your market is so miserable Low there is no man:<lb/>
+<p>your market is so <sic corr="miserably">miserable</sic> Low there is no man:<lb/>
 ner of <abbr expan="Encouragement">Encouragemt</abbr> to give you the trouble of any <abbr expan="Tobacco">Tobo</abbr></p>
 
 <p>I <abbr expan="received">receiv'd</abbr> your goods by <abbr expan="Captain">Capn:</abbr> Sweet in good order <lb/>
-and I now desire you by the first opporty to send me <add place="supralinear">in</add> the <del>same</del> <lb/>
-<add place="supralinear">following</add> <del>over again</del> goods Vizt 20,000 8<abbr expan=" penny">d</abbr> Nails 20,000 10<abbr expan=" penny">d</abbr> nails. five <lb/>
-hundred <abbr expan="weight">wt</abbr> of Iron for Weeding hoes. 2 <abbr expan="dozen">dozo</abbr> mens Fall Shoes <lb/>
-one <abbr expan="dozen">dozo</abbr> Womens <abbr expan="Ditto">Do:</abbr> with three <abbr expan="dozen">dozo</abbr> Bottles of <abbr expan="your">yr</abbr> Bristol <abbr expan="water">watr</abbr> <lb/>
+and I now desire you by the first opportunity to send me <add place="supralinear">in</add> the <del>same</del> <lb/>
+<add place="supralinear">following</add> <del>over again</del> goods <note target="n1">Vizt</note> 20,000 8<abbr expan=" penny">d</abbr> Nails 20,000 10<abbr expan=" penny">d</abbr> nails. five <lb/>
+hundred <abbr expan="weight">wt</abbr> of Iron for Weeding hoes. 2 <abbr expan="dozen">dozo</abbr> mens <note target="n2">Fall Shoes</note> <lb/>
+one <abbr expan="dozen">dozo</abbr> Womens <abbr expan="Ditto">Do:</abbr> with three <abbr expan="dozen">dozo</abbr> Bottles of <abbr expan="your">yr</abbr> <note target="n3">Bristol <abbr expan="water">watr</abbr> </note><lb/>
 I must add no more that I may keep within my ballance I am 
 Sir <lb/>
 your most Humble Servt:</p>
 
-<closer>Sir <lb/>
-your most Humble Servt:</closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;your most Humble Servt:</closer>
 
 
 </div1>
@@ -143,11 +144,17 @@ your most Humble Servt:</closer>
 <div1 type="back matter">
 <head>NOTES</head>
 
-<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia. This letter was written on a letterbook page bearing a letter of 1730 April 15, but that letter is in the hand of a different clerk. This letter seems to be in the hand of the clerk who wrote the two previous letters dated September 5th and 6th, 1729. Because it follows the one of the later date, and because it orders supplies normally written for in the late summer or earcly fall, it has been assigned that date.</note>
+<note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Letter book, 1728 August-1731 July, Robert Carter Papers (acc. no. 3807), Albert and Shirley Small Special Collections Library, University of Virginia. This letter was written on a letterbook page bearing a letter of April 15, 1730,  but that letter is in the hand of a different clerk. This letter seems to be in the hand of the clerk who wrote the two previous letters dated September 5th and 6th, 1729. Because it follows the one of the later date, and because it orders supplies normally written for in the late summer or earcly fall, it has been assigned that date.</note>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
+<note id="n1">[1] Vizt. is the abbreviation for the Latin word "videlicet";  it means "that is to say; namely; to wit: used to introduce an amplification, or more precise or explicit explanation, of a previous statement or word." (<cit><bibl><title>Oxford English Dictionary</title> online.</bibl></cit>)</note>
 
+<note id="n2">[2] Carter may be referring to a style of shoe or boot known as French falls. According to a variety of sources on the web including the <title>Encyclopedia Britannica Online, </title>French falls were a type of high buff leather boots with a wide top that was turned over forming a cuff around the leg. P.A. Bruce wrote in his <title>Economic History of Virginia in the Seventeenth Century</title> on <xref to="http://babel.hathitrust.org/cgi/pt?u=1&num=title&seq=492&view=image&size=100&id=uc1.32106006322363&q1=boots">page 482</xref> of Vol. II,  "The Assembly had, in 1660, adopted rules . . .  Each county was instructed to erect a tan-house and to employ tanners, carriers, and shoemakers. There was appointed for each house an overseer . . . To the persons presenting hides he was required to sell plain shoes at the rate of thirty pounds [of tobacco] a pair. French falls of the largest size were to be sold to such persons at the rate of thirty-five pounds [of tobacco] a pair, whilst those of the smallest were to be sold at twenty pounds."  A knowledgeable staff member at Colonial Williamsburg has emailed the editor "The main puzzlement is, that French Falls were made for men, women, and children, and for well over 100 years.  No one can fathom any known style or type of footwear that fits that description with certainty, at that price range, that's not slippers. The leading UK footwear historian, June Swann, has never found a definitive answer as to what they were either.  Maybe one day we'll figure it out."  ("Classics of American Colonial History," ttp://www.dinsdoc.com/bruce-1-0a.htm; 5/1/2007; p. 482; and email, Dominic Saguto to the editor, 5/22/2007)  </note>
+
+<note id="n3">[3] "Mineral waters of Clifton, near Bristol, with a temperature not exceeding 74 [degrees]; formerly celebrated in cases of pulmonary consumption." (<cit><bibl><xref to="http://www.bartleby.com/81/2523.html">"Bristol waters"</xref> on Bartleby.com. 12/5/2014</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised July 6, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 </div1>

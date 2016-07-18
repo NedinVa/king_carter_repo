@@ -10,7 +10,13 @@
 <!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;  
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; 
+
+<!NOTATION html SYSTEM "HTML">
+<!ENTITY Ext6 SYSTEM "http://www.fraudaid.com\/Dictionary-of-Financial-Scam-Terms\/bill_of_exchange.htm" NDATA html>
+
+]>
+
 <TEI.2 id="C28g13a">
 
 
@@ -41,7 +47,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -90,7 +96,7 @@
 <head>
 <bibl>
 <abbr>AL</abbr>
-<extent> p.</extent>
+<extent>1 p.</extent>
 <date value="1728-07-13"></date>
 <idno rend="suppress">C28g13a.xml</idno>
 <title>Letter from Robert Carter to William Dawkins, July 13, 1728</title>
@@ -108,24 +114,29 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
-<date value="1728-07-13">July the 13th: 1728</date><lb/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1728-07-13">July the 13th: 1728</date><lb/>
 Mr. Wm: Dawkins<lb/>
 </dateline>
 <salute>Sir&mdash;</salute>
 
 </opener>
 
-<p>In mine by <note target="n1">Trice</note> I acquainted you that <note n="MP1">Colonel <lb/>Page</note> and I had drawn upon you for &pound;100 payable to <note n="ECB"><abbr expan="Colonel">Col:</abbr> Braxton</note> <lb/>upon the Accot: of <note n="NB">Mr. Burwells Estate </note> <sic corr="We">Wee</sic> have also drawn upon <lb/>you for &pound;12 payable to <note n="CS1"><abbr expan="Charles">Ch:</abbr> Stagg</note> on the same Accot: which desire <lb/>may be answered at time, The <abbr expan="Tobacco">Tobbo:</abbr> that hath bin <sic corr="Consigned">Consignd</sic> to you <lb/>of that Concern <del>[illegible]</del> <add place="supralinear">went</add> in <note n="AG"><sic corr="Adam">Addam</sic> Graves</note> and <note n="MP1">Colonel Page</note> or Mr. <sic corr="Cary">Carry</sic> Sent you <lb/>bill of Lading for it,</p>
+<p>In mine by <note target="n1">Trice</note> I acquainted you that <note n="MP1">Colonel <lb/>Page</note> and I had <note target="n2">drawn</note> upon you for &pound;100 payable to <note n="ECB"><abbr expan="Colonel">Col:</abbr> Braxton</note> <lb/>upon the Accot: of <note n="NB">Mr. Burwells Estate </note> <sic corr="We">Wee</sic> have also drawn upon <lb/>you for &pound;12 payable to <note n="CS1"><abbr expan="Charles">Ch:</abbr> Stagg</note> on the same Accot: which desire <lb/>may be answered at time, The <abbr expan="Tobacco">Tobbo:</abbr> that <sic corr="has">hath</sic> bin <sic corr="Consigned">Consignd</sic> to you <lb/>of that Concern <del>[illegible]</del> <add place="supralinear">went</add> in <note n="AG"><sic corr="Adam">Addam</sic> Graves</note> and <note n="MP1">Colonel Page</note> or Mr. <sic corr="Cary">Carry</sic> Sent you <lb/>bill of Lading for it,</p>
 
-<p>Herein comes an Invoice for a Supply for the <lb/>Children in which you have directions how to buy and Ship them <lb/>It is so long Since wee had an Accot. Currt. from you and your Acots. <lb/>of Sales hath bin <sic corr="returned">returnd</sic> to us so Slowly that wee cannot be under <lb/>any Certainty how that Affair Stands in your books I hope we have <lb/>not overdone you I am </p>
+<p>Herein comes an Invoice for a Supply for the <lb/>Children in which you have directions how to buy and Ship them <lb/>It is so long Since <sic corr="we">wee</sic> had an Accot. Currt. from you and your Acots. <lb/>of Sales <sic corr="has">hath</sic> bin <sic corr="returned">returnd</sic> to us so Slowly that <sic corr="we">wee</sic> cannot be under <lb/>any Certainty how that Affair Stands in your books I hope we have <lb/>not overdone you I am </p>
 
-<closer>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="italics"><add resp="hand">Cpd</add></hi><lb/>Sir&mdash;<lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="italics"><add resp="hand">John</add></hi><lb/>
-Yor. very humble Servt.
-<seg type="postscript"><lb/><lb/>Sent to York&mdash;<lb/>
+<closer>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="italics"><add resp="hand">Cpd</add></hi><lb/>
 
-P:S: herein Send you a Small bill <lb/>drawn by John Froad on G. Strange <lb/>of <name type="city">Biddiford</name>
-<lb/>Sent to York</seg></closer>
+Sent to York&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir&mdash;<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="italics"><add resp="hand">John</add></hi><lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. very humble Servt.
+<seg type="postscript"><lb/><lb/>Sent to York&mdash;</seg><lb/>
+
+<seg type="postscript">
+P:S: herein Send you a Small bill <lb/>drawn by John Froad on G. Strange <lb/>
+of <name type="city"><sic corr="Biddeford">Biddiford</sic></name><lb/>
+
+</seg></closer>
 
 
 </div1>
@@ -143,10 +154,11 @@ P:S: herein Send you a Small bill <lb/>drawn by John Froad on G. Strange <lb/>of
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
 
-<note id="n1">[1] The 140 ton <hi rend="italics">Welcome</hi> was owned by London merchant James Bradley to whom Carter would write about her on 1727 May 17.  John Trice (Frice) was her captain, 1723-1728. (<cit><bibl>Survey Report 6801 summarizing Adm 68/195, 154r, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n1">[1] The 140 ton <hi rend="italics">Welcome</hi> was owned by London merchant James Bradley to whom Carter would write about her on <xref to="http://carter.lib.virginia.edu/html/C27e17a.html"> May 17, 1727</xref>. John Trice (Frice) was her captain, 1723-1728. (<cit><bibl>Adm 68/195, 154r, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
+<note id="n2"> [2] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (<cit><bibl><xref to="Ext6">"Dictionary of  Financial Scam Terms,"</xref> 8/22/2005</bibl></cit>)</note>
 
-
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised November 21, 2014,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 </div1>
 </back>

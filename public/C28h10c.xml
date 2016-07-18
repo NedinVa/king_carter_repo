@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2004</date>
+     <date>2004, 2014</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -88,7 +88,7 @@
 <head>
 <bibl>
 <abbr>AL</abbr>
-<extent> p.</extent>
+<extent>1 p.</extent>
 <date value="1728-08-10"></date>
 <idno rend="suppress">C28h10c.xml</idno>
 <title>Letter from Robert Carter to  John Hyde &amp; Company, August 10, 1728</title>
@@ -106,18 +106,18 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1728-08-10">the 10th of Augst: 1728</date><lb/>
+<name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1728-08-10">the 10th of Augst: 1728</date><lb/>
 Capt John Hyde &amp; Company<lb/>
 </dateline>
 <salute>Gent&mdash;</salute>
 
 </opener>
 
-<p>This is only to Enclose a bill of Lading for <lb/>an odd hogshead of <abbr expan="Tobacco">Tobbo.</abbr>
- brought on board the <note n="CS">Carter</note> Since I had Seald <lb/>up my Letters I am </p>
+<p>This is only to Enclose a <note target="n1">bill of Lading</note> for <lb/>an odd hogshead of <abbr expan="Tobacco">Tobbo.</abbr>  brought on board the <note n="CS">Carter</note> Since I had <sic corr="Sealed">Seald</sic><lb/>up my Letters I am </p>
 
-<closer><seg type="postscript"><abbr expan="Gentlemen">Gent</abbr><lb/>Yor. most humble Servt
+<closer><seg type="postscript">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="Gentlemen">Gent</abbr><lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yor. most humble Servt
 <lb/><lb/>per Carter</seg></closer>
 
 
@@ -136,8 +136,9 @@ Capt John Hyde &amp; Company<lb/>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity to the  heading on the draft.</note>
 
+<note id="n1"> [1] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
-
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2004, was revised December 17, 2014,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 </div1>
 </back>

@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2006</date>
+     <date>2006, 2016</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -107,7 +107,7 @@
 <dateline>
 <pb n="1"/>
 <name type="place">Rappahannock, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1731-09-10">Sepr.m10. 1731</date><lb/>
+<date value="1731-09-10">Sepr. 10. 1731</date><lb/>
 Mr. Edward Athawes<lb/>
 </dateline>
 <salute>Sir,</salute>
@@ -116,7 +116,7 @@ Mr. Edward Athawes<lb/>
 
 
 
-<p>By <note target="n1">Dove</note> I writ largely to you about <lb/>
+<p>By <note target="n1">Dove</note> I <xref to="http://carter.lib.virginia.edu/html/C31g31a.html"><sic corr="wrote">writ</sic> largely</xref> to you about <lb/>
 <note target="n2">our mine</note> Adventure we had just then cut a rich Vein <lb/>
 of Ore we <abbr expan="raised">rais'd</abbr> about four ton<corr resp="editor">[s]</corr> of it and the vein went out <lb/>
 we are endeavouring to find it again what Success we <lb/>
@@ -125,16 +125,18 @@ we have put on board the <sic corr="Brig">Brigg</sic> the <name type="ship">Mary
 We have <abbr expan="assayed">assay'd</abbr> Several of the Barrels in our Small <lb/>
 furnace which have Yielded one third Copper Whatever the <lb/>
 rest of the Ore We have sent may do We assuredly promise <lb/>
-Our Selves this must Answer Very Well we have five <lb/>
+<sic corr="Ourselves">Our Selves</sic> this must Answer Very Well we have five <lb/>
 Barrels of this ore left which We design to Put on board the <lb/>
 <note target="n3"><name type="ship">Thistle</name></note> <abbr expan="Captain">Capt</abbr> Reid who will be the latest London ship <lb/>
 from hence By her You will go near to hear further from <lb/>
-me us A bill of Lading for these 16 Barrels is <sic corr="enclosed">inclosed</sic>  I am 
+me us A <note target="n4">bill of Lading</note> for these 16 Barrels is <sic corr="enclosed">inclosed</sic>  I am 
 </p>
 
-<closer>Sir <lb/>
-<abbr expan="Your">Yr.</abbr> most humble Servt
-<seg type="postscript"><lb/><lb/>per Belcher </seg></closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<abbr expan="Your">Yr.</abbr> most humble Servt
+<seg type="postscript"><lb/><lb/>per Belcher </seg>
+</closer>
 
 
 </div1>
@@ -152,11 +154,17 @@ me us A bill of Lading for these 16 Barrels is <sic corr="enclosed">inclosed</si
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] The <hi rend="italics">Bailey</hi> was a London ship owned by William Dawkins, Athawes' partner, and commanded at various times by Adam Graves (1725-1730) and by Thomas Dove (1731-1732). She was a vessel of some 250 tons and carried 15-17 crew members. (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, 156v, and other data in Adm. 68/194 and /196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> A letter of Carter's executors to Dawkins 1738 May 10 refers to "your ship Bailey.")</note>
+<note id="n1">[1] The <hi rend="italics">Bailey</hi> was a London ship owned by William Dawkins and commanded at various times by Adam Graves (1725-1730) and by Thomas Dove 1730-1732. She was a vessel of some 250 tons and carried 15-17 crew members. (<cit><bibl>Survey report 6801 summarizing Adm. 68/195, 156v, and other data in Adm. 68/194 and /196, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small  Special Collections Library, University of Virginia;</bibl></cit> A letter of Carter's to Dawkins <xref to="http://carter.lib.virginia.edu/html/C32e12b.html">May 12, 1732,</xref> refers to "your ship Bailey." as does a letter of August 10, 1733, from Carter's executors to Dawkins. [<cit><bibl>Lloyd T. Smith, Jr., <hi rend="italics">ed.</hi> <title>The Executors' Letters of Robert Carter of Corotoman, 1732-1738. </title> (Irvington, VA: Foundation for Historic Christ  Church, 2010) p. 76].</bibl></cit>)</note>
 
 <note id="n2">[2]  In 1728, Carter, his sons Robert and Charles, and his son-in-law Mann Page,  organized a company to mine for copper on a tract of some 27,000 acres that Louis Morton describes as lying "near the present boundary of Fairfax and Loudoun counties." Fairfax Harrison wrote that the tract was "on the  Horsepen of Broad." Today, there is a Frying Pan Park just east of the border of the Dulles Airport reservation, and there are other things with the name in the area. The company was not successful. (<cit><bibl n="B32">Morton. <title>Robert Robert Carter of Nomini Hall.</title> pp. 18-19;</bibl></cit> and <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> p. 342. </bibl></cit>)</note>
 
-<note id="n3">[3] The <hi rend="italics">Thistle</hi> was a London ship commanded by a Captain Reid and owned by merchant James Buchanan. (See <cit><bibl>Carter to Edward Athawes, 1731 September 10, and Carter to James Buchanan, 1731 November 19.</bibl></cit>) </note>
+<note id="n3">[3]  The <hi rend="italics">Thistle</hi> was a London ship commanded by a Captain Reid and owned by merchant James Buchanan. (See <cit><bibl><xref to="http://carter.lib.virginia.edu/html/C31i10a.html">Carter to Edward Athawes</xref>, September 10, 1731, and <xref to="http://carter.lib.virginia.edu/html/C31k19a.html">Carter to James Buchanan</xref>, November 19. 1731.</bibl></cit>) </note>
+
+ <note id="n4"> [4] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was revised February 23, 2016,  to add footnotes and strengthen the modern language version text.</hi></note>
+
+
 
 
 </div1>

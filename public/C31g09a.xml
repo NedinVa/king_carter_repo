@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2006</date>
+     <date>2006, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -116,24 +116,26 @@ Mr William Dawkins &amp; Co<lb/>
 
 
 
-<p>The business of this is to be a Cover to <add place="supralinear">a Bill of Lading of</add> my <abbr expan="tobacco">tobo</abbr> on board <lb/>
-the <note target="n1">Spotswood</note> under two marks; the first my <note target="n2">Rippon</note> Crop <lb/>
+<p>The business of this is to be a Cover to <add place="supralinear">a <note target="n1">Bill of Lading</note> of</add> my <abbr expan="tobacco">tobo</abbr> on board <lb/>
+the <note target="n2">Spotswood</note> under two marks; the first my <note target="n3">Rippon</note> Crop <lb/>
 the Reputation of which plantation you have already had from <lb/>
 me I expect it will equal in price either <note n="NB">Mr Burwells</note> or <note n="MP1">Colonel <lb/>
 Page's</note> <del>[illegible]</del> best Crop. It lies in the Middle of them. There is &mdash;  <lb/>
-some hogsheads of Leaf; the most of it is stemmed. You must allow <lb/>
+some hogsheads of Leaf; the most of it is <note target="n4">stemmed</note>. You must allow <lb/>
 me to say from my own Eye sight of several of the hogsheads it is good <abbr expan="Tobacco">Tobo</abbr> <lb/>
 the 12 <abbr expan="hogsheads">hhds</abbr> are also my Crops &amp; all stemmed &amp; straight laid. I &mdash; <lb/>
 Make no Leaf through all my Plantations, excepting Rippom <lb/>
 One would think this would render it much more valuable than <lb/>
 those Crops where the prime of the <abbr expan="tobacco">tobo</abbr> is made into Leaf I am sure it <lb/>
 very much lessens my Quantity in the Main. I shall give you no &mdash; <lb/>
-further Trouble at present but remain <lb/>
-to be <sic corr="Copied">Copyd</sic>
-</p>
+further Trouble at present but remain </p>
 
-<closer>Gentlemen<lb/>
-Your most humble Servant<lb/><lb/></closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gentlemen<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your most humble Servant<lb/><lb/>
+
+<seg type="postscript">to be <sic corr="Copied">Copyd</sic></seg>
+</closer>
 
 
 </div1>
@@ -151,9 +153,16 @@ Your most humble Servant<lb/><lb/></closer>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[]1 The <hi rend="italics">Spotswood</hi> was a  London ship <lb/>commanded by James Bradby,  1727-1732, and was owned by Micajah Perry.  (<cit><bibl>Adm 68/195, 70r ff., found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. See Carter to Micajah Perry 1730 April 16.</bibl></cit>)</note>
+<note id="n1"> [1] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
-<note id="n2">[2] Rippon Hall had been Edmund Jening's estate in York County which he had acquired in 1687 from John and Unity West when it was named "Poplar Neck." Jenings's bad financial circumstances forced him to mortgage the property to Carter who eventually acquired title to it. (<cit><bibl>"Notes and Queries." <title>William and Mary Quarterly.</title> 2[Apr. 1894]: 270-278.</bibl></cit>)</note>
+<note id="n2">[2] The <hi rend="italics">Spotswood</hi> was a  London ship <lb/>commanded by James Bradby,  1727-1732, and was owned by Micajah Perry.  (<cit><bibl>Adm 68/195, 70r ff., found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia. See Carter to Micajah Perry 1730 April 16.</bibl></cit>)</note>
+
+<note id="n2">[2]Rippon Hall had been Edmund Jenings' estate in York County which he had acquired in 1687 from John and Unity West when it was named "Poplar Neck." Jenings's bad financial circumstances forced him to mortgage the property to Carter who eventually acquired title to it. Carter obviously felt its mill would be a good acquisition .(<cit><bibl><xref to="https://archive.org/stream/williammarycolle02tyle#page/n547/mode/2up/search/271">"Notes and Queries."</xref> <title>William and Mary Quarterly.</title> 2[Apr. 1894]: 270-278, now available through the Internet Archive.</bibl></cit>)</note>
+
+<note id="n4">[4] Parliament had passed an act forbidding the importation of stemmed tobacco in 1722. John Randolph was sent to England in 1728 as agent for Virginia to try to have the act overturned; his mission was successful, and he was home in the colony by <xref to="http://carter.lib.virginia.edu/html/C29f02a.html">June 2, 1729</xref>, when Carter wrote to welcome him home. (<cit><bibl>Arthur Pierce Middleton. <title>Tobacco Coast:  A Maritime History of the Chesapeake Bay in the Colonial Era.</title> [Newport News, VA: Mariners' Museum, 1953], 116.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2006, was revised October 20, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
+
 
 </div1>
 </back>

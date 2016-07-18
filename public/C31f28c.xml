@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2006</date>
+     <date>2006, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -116,16 +116,17 @@ Mr John Pemberton<lb/>
 
 
 
-<p><note target="n2"><abbr expan="Captain">Capt.</abbr> Fowler </note>sailed out of <note target="n1">our River</note> two dayes ago&mdash; <lb/>
+<p><note target="n1"><abbr expan="Captain">Capt.</abbr> Fowler </note>sailed out of <note target="n2">our River</note> two <sic corr="days">dayes</sic> ago&mdash; <lb/>
 by him I sent you twenty hogsheads of <sic corr="Tobacco">Tobaco</sic> &amp; an Invoice for some Goods <lb/>
-It happens now I have Occasion to draw upon <corr resp="editor">[you]</corr> for fifty six pounds&mdash;<lb/>
+It happens now I have Occasion <note target="n3">to draw</note> upon <corr resp="editor">[you]</corr> for fifty six pounds&mdash;<lb/>
 seven shillings &amp; Sixpence payable to <note n="JR">John Randolph</note> <abbr expan="Esquire">Esqr</abbr> which I <lb/>
-desire you to answer at Time, which shall be all the Trouble I shall give <lb/>
+desire you to answer at Time, <add place="supralinear">which</add> shall be all the Trouble I shall give <lb/>
  you at present from 
  </p>
 
-<closer>Sir <lb/>
- your most Humble Servant</closer>
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir <lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;your most Humble Servant</closer>
 
 
 </div1>
@@ -143,9 +144,14 @@ desire you to answer at Time, which shall be all the Trouble I shall give <lb/>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1] the Rappahannock</note>
+<note id="n1">[1] Carter first mentions the <hi rend="italics">Mayflower</hi> in a letter to Foster Cunliff of <xref to="http://carter.lib.virginia.edu/html/C31f24a.html">June 24 1731</xref>, noting that a Captain Fowler commanded her. Other mentions in letters to Cunliff and John Pemberton, both Liverpool merchants, indicate that city probably was the vessel's home port.</note>
 
-<note id="n2">[2] The <hi rend="italics">Content</hi> was a Liverpool ship owned by John Pemberton and commanded by various masters including captains Stephenson (1721and later) , Fowler (1723 and 1731), and Morton (1727). (<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> pp. 92, 93, 102</bibl></cit>; and Carter to Pemberton, 1721 February 14, and 1727 June 28. )</note>
+<note id="n2">[2] the Rappahannock</note>
+
+<note id="n3"> [3] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (See <cit><bibl><xref to="http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm">"Bill of Exchange"</xref> in the online Dictionary of Financial Scam Terms: the Truth vs. the Scam.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised October 9, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
+
 
 
 </div1>

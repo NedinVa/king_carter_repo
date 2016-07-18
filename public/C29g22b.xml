@@ -39,7 +39,7 @@
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -106,8 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name><lb/>
-<date value="1729-07-22">July 22d. 1729</date><lb/>
+<name type="place">Rappa<add resp="editor">[hannock, Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1729-07-22">July 22d. 1729</date><lb/>
 Mr John Zuil<lb/>
 </dateline>
 <salute>Sir</salute>
@@ -120,17 +119,20 @@ Mr John Zuil<lb/>
 when he was here before <sic corr="has">hath</sic> met with a very tedious dispose <lb/>
 I have <abbr expan="your">yr</abbr> letter Acquainting me how you had dispersed it but <lb/>
 what it will <sic corr="yield">yeild</sic> me I am yet a Stranger to <abbr expan="your">yr</abbr> being an owner <lb/>
-in the <name type="ship">Caledon</name> hath prevailed with me to make a further small <lb/>
-<sic corr="Trial">Tryal</sic> of <abbr expan="your">yr</abbr> management herein is a bill of Lading for 6 hogsheads <lb/>
-<abbr expan="Consigned">Consign'd</abbr> you upon my Accot &amp; <sic corr="risk">risque</sic> I wish they may answer so<lb/> 
+in the <name type="ship">Caledon</name> <sic corr="has">hath</sic> prevailed with me to make a further small <lb/>
+<sic corr="Trial">Tryal</sic> of <abbr expan="your">yr</abbr> management herein is a <note target="n3">bill of Lading</note> for 6 hogsheads <lb/>
+<abbr expan="Consigned">Consign'd</abbr> <corr resp="editor">[to]</corr> you upon my Accot &amp; <sic corr="risk">risque</sic> I wish they may answer so<lb/> 
 well to Encourage a further correspondence with you I am 
 </p>
 
-<closer>Sir<lb/>
-your very Humble Servt.
-<seg type="postscript"><lb/><lb/>I desire you to send<lb/> 
+<closer>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir<lb/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;your very Humble Servt.
+
+<seg type="postscript"><lb/><lb/>
+I desire you to send<lb/> 
 me in a Handsome Morning<lb/> 
-Gown &amp; a <abbr expan="pair">pr</abbr> of Leg boots or <note target="n3"><sic corr="spattered">spatterd</sic> asshes</note> with Large broad<lb/> 
+Gown &amp; a <abbr expan="pair">pr</abbr> of Leg boots or <note target="n4"><sic corr="spattered">spatterd</sic> asshes</note> with Large broad<lb/> 
 buckles and handsome Spurs and leathers to them<lb/></seg></closer>
 
 
@@ -149,12 +151,15 @@ buckles and handsome Spurs and leathers to them<lb/></seg></closer>
 
 <note>Robert Carter generally used a return address of "Rappahannock" for the river on which he lived rather than "Corotoman," the name of his home, on his correspondence, especially to merchants abroad. The county and colony have been added for clarity.</note>
 
-<note id="n1">[1]   John Zuil was a merchant and was probably the ship's captain that Carter mentioned in his diary 1722 August 1, "Zuil Saild Gave me a Bottle Snuff."  Carter recorded a diary note about him the following year as well: 1723 December 30 "mr Zuil &amp; man came back" [from church]. In what British city Zuil lived is not clear, but it may have been Liverpool because city directories of 1767-1773 list a John Zuil as a merchant, first in Cable Street, and later, in King Street. This probably would have been a son of the man Carter knew, given the shorter lives at this period. (<cit><bibl>"Yuil Family Newsletters," Issue #24 Fall. 1998http://www.geocities.com/yulefamily/newsletters/yule24.htm, September 30, 2004</bibl></cit>)</note>
+<note id="n1">[1]  John Zuil was a merchant and was probably the ship's captain that Carter mentioned in his diary August 1, 1722, "Zuil Saild Gave me a Bottle Snuff."  Carter recorded a diary note about him the following year as well: December 30, 1723, "mr Zuil &amp; man came back" [from church]. In what British city Zuil lived is not clear, but it may have been Liverpool because city directories of 1767-1773 list a John Zuil as a merchant, first in Cable Street, and later, in King Street. This probably would have been a son of the man Carter knew, given the shorter lives at this period. (<cit><bibl>"Yuil Family Website," and <xref to="http://www.yulefamily.com/newsletters/yule24.htm">Yule Family Newsletter</xref>, #24 (Fall 1998).</bibl></cit>)</note>
 
-<note id="n2">[2] The <hi rend="italics">Content</hi> was a Liverpool ship owned by John Pemberton and commanded by various masters including captains Stephenson (1721 and later) , Fowler (1723), and Morton (1727). (<cit><bibl n="B12">Wright. <title>Letters of Robert Carter. . . .</title> pp. 92, 93, 102</bibl></cit>; and Carter to Pemberton, 1721 February 14, and 1727 June 28. )</note>
+<note id="n2">[2] The <hi rend="italics">Caledon,</hi> commanded by  John Stevenson in 1729, was owned in part by merchant John Zuil. In what British city Zuil lived is not clear, but it may have been Liverpool because city directories of 1767-1773 list a John Zuil as a merchant, first in Cable Street, and later, in King Street. This probably would have been a son of the man Carter knew, given the shorter lives at this period.  (See <xref to="http://carter.lib.virginia.edu/html/C29g22b.html">Carter to Zuil,</xref> July 22, 1729;<cit><bibl>"Yuil Family Website," and <xref to="http://www.yulefamily.com/newsletters/yule24.htm">Yule Family Newsletter</xref>, #24 (Fall 1998).</bibl></cit>)</note>
 
-<note id="n3">[3] The clerk should have written "spatterdashes," a type of knee-high leggings worn over other garments to protect them from splashes and mud.</note>
+<note id="n3"> [3] A bill of lading is "an official detailed receipt given by the master of a merchant vessel to the person consigning the goods, by which he makes himself responsible for their safe delivery to the consignee. This document, being the legal proof of ownership of the goods, is often deposited with a creditor as security for money advanced."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
 
+<note id="n3">[3] The clerk should have written "spatterdashes," "a kind of long gaiter or legging of leather, cloth, etc., to keep the trousers or stockings from being spattered, esp. in riding."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>) </note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised April 28, 2015,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 </div1>

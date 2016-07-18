@@ -11,7 +11,7 @@
 <!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;  
 <!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;  
 <!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech; ]>
-<TEI.2 id="C29h27b">
+<TEI.2 id="C29h27c">
 
 
 <teiHeader type="aacr2">
@@ -34,12 +34,12 @@
 <publicationStmt>
      <publisher>University of Virginia Library.</publisher>
      <pubPlace>Charlottesville, Va.</pubPlace>
-     <idno type="ETC">C29h27b.xml</idno>
+     <idno type="ETC">C29h27c.xml</idno>
      <availability>
      <p>Publicly accessible</p>
      <p n="public">URL: http://carter.lib.virginia.edu/</p>
          </availability>
-     <date>2005</date>
+     <date>2005, 2015</date>
 </publicationStmt>
 
 <sourceDesc>
@@ -81,16 +81,16 @@
 
 </teiHeader>
 
-<text id="C29h27bT">
+<text id="C29h27cT">
 
 <front>
 <div1 type="summary" n="1">
 <head>
 <bibl>
 <abbr>AL</abbr>
-<extent> p.</extent>
+<extent>2 p.</extent>
 <date value="1729-08-27"></date>
-<idno rend="suppress">C29h27b.xml</idno>
+<idno rend="suppress">C29h27c.xml</idno>
 <title>Letter from Robert Carter to Colonel [Mann] Page, August 27, 1729</title>
 </bibl>
 </head>
@@ -106,8 +106,7 @@
 <opener>
 <dateline>
 <pb n="1"/>
-<name type="place">Corotoman, <add resp="editor">[Lancaster County, Virginia]</add></name><lb/>
-<date value="1729-08-27">Augt. 27. 1729</date><lb/>
+<name type="place">Corotoman, <add resp="editor">[Lancaster County, Virginia]</add></name>&nbsp;&nbsp;&nbsp;&nbsp;<date value="1729-08-27">Augt. 27. 1729</date><lb/>
 Coll. Page&mdash;<lb/>
 </dateline>
 <salute>Honble. Sir</salute>
@@ -135,7 +134,7 @@ upon this occasion there is another <corr resp="editor">[ob]</corr>jection to Br
 <note n="EA">Athawes</note> professes an Extraordinary friendship for My Son <corr resp="editor">[<note n="CC1">Charles</note> &amp;]</corr> <lb/>
 <corr resp="editor">[he]</corr> was the person the <sic corr="Ore">Oar</sic> was sent to, and had the <sic corr="Trial">Tryal</sic> made o<corr resp="editor">[f it He]</corr> <lb/>
 <corr resp="editor">[pro]</corr>mises his utmost Assistance in carrying on the design <corr resp="editor">[. . .]</corr><lb/>
-<corr resp="editor">[Ch]</corr> now writes to him, he's a person endavouring to Ing<corr resp="editor">[ratiate him]</corr><lb/>
+Ch<corr resp="editor">[arles]</corr> now writes to him, he's a person endavouring to Ing<corr resp="editor">[ratiate him]</corr><lb/>
 -self into business, perhaps it may be proper <corr resp="editor">[. . .]</corr> to <corr resp="editor">[. . .]</corr><lb/>
 him only, the reason of my writing this Lettr. was out of <corr resp="editor">[. . .]</corr> <lb/>
 Might be too late for any of the London Ships, Some Suc<corr resp="editor">[h letter is ?]</corr> <lb/>
@@ -143,12 +142,12 @@ high<corr resp="editor">[ly]</corr> Necessary to be forthwith Sent away, if it m
 we have the <abbr expan="Honor">Honr</abbr>. of your company here it will be ver<corr resp="editor">[y welcome]</corr></p>
 
 <p>We have now here near 400 <abbr expan="weight">wt.</abbr> of <sic corr="Ore">Oar</sic> if we <corr resp="editor">[arrange ?]</corr> <lb/>
-to get it to your House time enough to go by the <note target="n3"><name type="ship">Sarah</name></note> it wi[ll ...] <lb/>
+to get it to your House time enough to go by the <note target="n3"><name type="ship">Sarah</name></note> it wi[ll  . . . ] <lb/>
 w<corr resp="editor">[. . .]</corr>railes intend to <abbr expan="barrel">barrl.</abbr> it in a day or two, perhaps it w<corr resp="editor">[ill]</corr><lb/>
 <corr resp="editor">[be ready]</corr> to go in the Coach you Come up in Otherwise I believe will <corr resp="editor">[. . .]</corr><lb/>
 <corr resp="editor">[. . .]</corr> we might get it to <note target="n4">Setons,</note> but Indeed I dont know <corr resp="editor">[. . .]</corr> <lb/>
 <corr resp="editor">[. . .]</corr> we have Bristol Ships enough to Send it by, but we <corr resp="editor">[. . .]</corr><lb/>
-<corr resp="editor">[. . .]</corr>o there, we intend a Small box of it by <corr resp="editor">[Captain]</corr> Sweet, who offers <corr resp="editor">[. . .]</corr><lb/>
+<corr resp="editor">[. . .]</corr>o there, we intend a Small box of it by <corr resp="editor"><note target="n5">[Captain]</corr> Sweet</note>, who offers <corr resp="editor">[. . .]</corr><lb/>
 to Carry it, [but] of all mankind I think tht. port affords the most <corr resp="editor">[. . .]</corr> <lb/>
 Insincere men</p>
 
@@ -159,14 +158,16 @@ must have if Shaw Comes down he Seems to be a person tht. <corr resp="editor">[.
 <corr resp="editor">[. . .]</corr> will  do for us, the rest I shall leave to our <corr resp="editor">[meeting ?]</corr></p>
 
 <p><corr resp="editor">[For want]</corr> of better entertainmt I <corr resp="editor">[. . .]</corr><lb/>
-<corr resp="editor">[. . .]</corr> <note target="n5">F<corr resp="editor">[ry]</corr>ing pan</note> by a Copy of my <corr resp="editor">[. . .]</corr> <lb/>
+<corr resp="editor">[. . .]</corr> <note target="n6">F<corr resp="editor">[ry]</corr>ing pan</note> by a Copy of my <corr resp="editor">[. . .]</corr> <lb/>
 <corr resp="editor">[. . .]</corr> things have been sent thither <corr resp="editor">[. . .]</corr><lb/>
-<corr resp="editor">[... ha]</corr>ve not been backward thus <sic corr="farr">farr </sic>in pa<corr resp="editor">[. . .]</corr><lb/>
+<corr resp="editor">[. . . ha]</corr>ve not been backward thus <sic corr="far">farr </sic>in pa<corr resp="editor">[. . .]</corr><lb/>
 <corr resp="editor">[. . .]</corr>ed my <note n="MCB">Daughter Mary</note> <corr resp="editor">[. . .]</corr> Consider <corr resp="editor">[. . .]</corr> <lb/>
-<corr resp="editor">[. . .]</corr> to <note n="JCP">her Sister</note> at <note target="n6">Rosew<corr resp="editor">[ell ...]</corr></note> 
+<corr resp="editor">[. . .]</corr> to <note n="JCP">her Sister</note> at <note target="n7">Rosew<corr resp="editor">[ell . . .]</corr></note> 
 </p>
 
-<closer><hi rend="italics">We are all your humble S</hi><corr resp="editor">[ervants]</corr></closer>
+<closer>
+<hi rend="italics"><hi rend="bold">We are all your humble S<corr resp="editor">[ervants]</corr></hi></hi>
+</closer>
 
 
 </div1>
@@ -182,20 +183,23 @@ must have if Shaw Comes down he Seems to be a person tht. <corr resp="editor">[.
 
 <note><hi rend="italics"><hi rend="bold">Source copy consulted:</hi></hi> Robert Carter Letter Book, 1727 April 13-1728 July 23, Carter Family Papers, Virginia Historical Society, Richmond. Both pages of this letter have suffered considerable damage including large sections missing along their margins.</note>
 
-<note>The county and colony have been added for clarity to the  heading on the draft. Carter has added the close in his own hand as is indicated by the use of italics.</note>
+<note>The county and colony have been added for clarity to the  heading on the draft. Carter has added the close in his own hand as is indicated by the use of bold italics.</note>
 
 <note id="n1">[1] The London ship  <hi rend="italics">Williamsburgh</hi> was a large vessel of 550 tons and carried a crew of 26 men. Charles Rogers commanded her in 1727-29.  (<cit><bibl>Adm 68/195, found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
-<note id="n2">[2] James Bradley was a London merchant with whom Carter dealt from at least 1723 until his death. As noted in his letter to Bradley of 1727 May 17, Bradley owned the <hi rend="italics">Welcome,</hi> but little information about Bradley has been located. (There is a listing of the firm of Bradly &amp; Griffin, Merchants, Fenchurch-street, opposite the Mitre Tavern, on page 13 of <cit><bibl><title>Kent's Directory For the Year 1740 Containing An Alphabetical List of the Names and Places of Abode of the Directors of Companies, Persons in Publick Business, Merchants, and other Eminent Traders in the Cities of London and Westminster, and the Borough of Southwark.</title>  London: Printed and Sold by Henry Kent in Finch-Lane, near the Royal Exchange: and by the Booksellers and Pamphlets Shops of London and Westminster, 1740. http://freepages.history.rootsweb.com/~frpayments/KD1740/AB.htm. 8/12/2005. p. 39.</bibl></cit>)</note>
+<note id="n2">[2] James Bradley was a London merchant with whom Carter dealt from at least 1723 until his death. As noted in his letter to Bradley of <xref to="/users/berkeley/public/C27e17a.html">May 17, 1727,</xref> Bradley owned the <hi rend="italics">Welcome,</hi> but little information about Bradley has been located. (There is a listing of the firm of Bradly &amp; Griffin, Merchants, Fenchurch-street, opposite the Mitre Tavern, on page 13 of <cit><bibl><title><xref to="freepages.history.rootsweb.com/~frpayments/KD1740/AB.htm">Kent's Directory </xref>For the Year 1740 Containing An Alphabetical List of the Names and Places of Abode of the Directors of Companies, Persons in Publick Business, Merchants, and other Eminent Traders in the Cities of London and Westminster, and the Borough of Southwark.</title>  [London: Printed and Sold by Henry Kent in Finch-Lane, near the Royal Exchange: and by the Booksellers and Pamphlets Shops of London and Westminster, 1740]. p. 39. Online, examined 8/12/2005 and 6/14/2012. </bibl></cit>)</note>
 
-<note id="n3">[3] The Sarah was a 120 ton London vessel with a crew of 13 commanded by John Reynolds in 1728 and 1729.  (<cit><bibl>Adm 68/194 and 195,  found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
+<note id="n3">[3] The <hi rend="italics">Sarah</hi> was a 120-ton London vessel with a crew of 13 commanded by John Reynolds in 1728 and 1729.  (<cit><bibl>Adm 68/194 and 195,  found in the microfilms of the Virginia Colonial Records Project, Albert and Shirley Small Special Collections Library, University of Virginia.</bibl></cit>)</note>
 
 <note id="n4">[4] There was a ferry over the Piankatank River near Berkeley Island operated by Bailey Seaton that Carter often refers to when describing trips to Williamsburg. The Seaton property is noted on the Fry-Jefferson map as on the Piankatank in Gloucester County.</note>
 
-<note id="n5">[5]  In 1728, Carter, his sons Robert and Charles, and his son-in-law Mann Page,  organized a company to mine for copper on a tract of some 27,000 acres that Louis Morton describes as lying "near the present boundary of Fairfax and Loudoun counties." Fairfax Harrison wrote that the tract was "on the  Horsepen of Broad." Horsepen Run joins Broad Run on the northern border of Dulles airport. The company was not successful. (<cit><bibl n="B32">Morton. <title>Robert Robert Carter of Nomini Hall.</title> pp. 18-19;</bibl></cit> and <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> p. 342. </bibl></cit>)</note>
+ <note id="n5">[5] Henry Sweet was captain of the <hi rend="italics">Chester</hi>, a ship thst traded to Barbados and Virginia. (<cit><bibl>Survey Report 04590 summarizing Public Record Office Class: T 38/264."Treasury, Departmental Accounts - Barbadoes, Journal of 4 1/2% Duties, 1730." "The following ships and cargoes were bound for Virginia." Henry Sweet is shown as master of the <hi rend="italics">Chester</hi>, and the cargo was 1980 gallons of molasses;</bibl></cit>; and <cit><bibl>Survey Report 07233 summarizing Hampshire Record Office Class Wyndham 1725-1753. "Invoices and Sundry Accounts of Henry Wyndham, June 1725 - September 1753." Included are records of several voyages of the <hi rend="italics">Chester</hi> to Viginia, 1728-1730. Hampshire County, England, includes the ports of Southampton and Portsmouth.</bibl></cit>)</note>
 
-<note id="n6">[6] Rosewell in Gloucester County was the Page home.</note>
+<note id="n6">[6]  In 1728, Carter, his sons Robert and Charles, and his son-in-law Mann Page,  organized a company they named Frying Pan to mine for copper on a tract of some 27,000 acres that Louis Morton describes as lying "near the present boundary of Fairfax and Loudoun counties." Fairfax Harrison wrote that the tract was "on the  Horsepen of Broad." Today, there is a Frying Pan Park just east of the border of the Dulles Airport reservation, and there are other things with the name in the area. The company was not successful. (<cit><bibl n="B32">Morton. <title>Robert Robert Carter of Nomini Hall.</title> pp. 18-19;</bibl></cit> and <cit><bibl n="B4">Harrison. <title>Landmarks. . . .</title> p. 342. </bibl></cit>)</note>
 
+<note id="n7">[7] "The building of Rosewell was begun in 1725 by Mann Page I (1691-1730), who married in 1718 Judith Carter, the daughter of Robert "King" Carter. . . . It was Page's intention to build a home that would rival or exceed the newly completed Governor's Palace in Williamsburg in size and luxury.  . . . The primary construction materials were brick, marble and mahogany, some of which was imported from England. Architectural historians believe that the 12,000-square-foot (1,100 m2) house, double the size of the Governor's Palace, may have been designed by Mann Page himself. Larger than any home built in colonial Virginia, Rosewell probably owed its design to the London townhouses built to the stricter codes following the Great Fire of London. . . . The Rosewell Mansion was destroyed by fire in 1916. Today, a largely undisturbed historic ruin, the site has been the subject of archaeological work. . . ."  (<cit><bibl>"<xref to="http://en.wikipedia.org/wiki/Rosewell_%28plantation%29">Rosewell</xref> (plantation)"</bibl></cit> in  well-documented article on Wikipedia, 6/4/2015.)</note>
+
+<lb/><lb/><note><hi rend="italics">This text, originally posted in 2005, was revised June 4, 2015, qnd again May 30, 2016,  to add footnotes and strengthen the modern language version text.</hi></note>
 
 
 </div1>
