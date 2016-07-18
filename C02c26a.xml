@@ -1,0 +1,267 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="carter.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2  SYSTEM  'teixlite.dtd' [ 
+<!NOTATION jpg  SYSTEM  "jpeg"> 
+<!ENTITY filename  SYSTEM  "filename.jpg" NDATA jpg> 
+<!ENTITY % ISOlat1 SYSTEM  "ISOlat1.pen"> %ISOlat1; 
+<!ENTITY % ISOlat2 SYSTEM  "ISOlat2.pen"> %ISOlat2; 
+<!ENTITY % ISOnum SYSTEM  "ISOnum.pen"> %ISOnum; 
+<!ENTITY % ISOpub SYSTEM  "ISOpub.pen"> %ISOpub; 
+<!ENTITY % ISOtech SYSTEM  "ISOtech.pen"> %ISOtech; 
+]> 
+ 
+<TEI.2 id="C02c26a"> 
+<teiHeader type="aacr2"> 
+              
+<fileDesc> 
+<titleStmt> 
+     <title type="245">Letter from Edmund Jenings to the trustees of
+Ralph Wormeley's estate, March 26, 1702</title> 
+   <title type="gmd">[electronic resource]</title> 
+     <author>Jenings, Edmund</author> 
+   <respStmt> 
+     <resp>Creation of machine-readable version: </resp> 
+     <name id="editor">Edmund Berkeley, Jr.</name> 
+     <resp>Conversion to TEI.2-conformant markup</resp> 
+     <name>Edmund Berkeley, Jr., and the University of Virginia
+Library Electronic Text Center</name> 
+   </respStmt> 
+</titleStmt> 
+ 
+<extent>ca. 15 kilobytes </extent> 
+ 
+<publicationStmt> 
+     <publisher>University of Virginia Library.</publisher> 
+     <pubPlace>Charlottesville, Va.</pubPlace> 
+     <idno type="ETC"></idno> 
+     <availability> 
+     <p>Publicly accessible</p> 
+     <p n="public">URL:
+http://etext.lib.virginia.edu/modeng.browse.html</p> 
+         </availability> 
+     <date>2016</date> 
+</publicationStmt> 
+ 
+<sourceDesc> 
+     <biblFull> 
+     <titleStmt> 
+     <title>Letter from Edmund Jenings to the trustees of Ralph Wormeley's estate, March 26, 1702</title> 
+
+     <author>Jenings, Edmund</author> 
+</titleStmt>
+    <extent>2 p.</extent> 
+<publicationStmt> 
+     <date>1702-04-06</date> 
+   <idno type="callNo"> Source copy consulted: Christ Church Parish, Lancaster County,  Processioners' Returns, 1711-1783, and Wormeley Estate Papers, 1701-
+1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond, 147-149.
+</idno> 
+</publicationStmt> 
+</biblFull> 
+</sourceDesc> 
+ 
+</fileDesc> 
+     <encodingDesc> 
+     <projectDesc> 
+     <p>Prepared for the University of Virginia Library Electronic
+Text Center.</p> 
+     </projectDesc> 
+<editorialDecl> 
+     <p>Some keywords in the header are a local electronic Text
+Center scheme to aid in establishing 
+analytical groupings.</p> 
+</editorialDecl> 
+ 
+<classDecl> 
+     <taxonomy id="LCSH"> 
+     <bibl> 
+     <title>Library of Congress Subject Headings</title> 
+     </bibl> 
+     </taxonomy> 
+</classDecl> 
+</encodingDesc> 
+ 
+<profileDesc> 
+     <creation> 
+     <date>1702-03-26</date> 
+     </creation> 
+     <langUsage> 
+     <language id="eng"></language> 
+     </langUsage> 
+     <textClass> 
+     <keywords> 
+     <term>non-fiction</term> 
+   <term>prose</term> 
+     </keywords> 
+     <keywords scheme="LCSH"> 
+     <term type="Field650">LCSH</term> 
+     </keywords> 
+     </textClass> 
+</profileDesc> 
+ 
+</teiHeader> 
+ 
+<text id="C02c26aT"> 
+
+
+<front>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>AL</abbr>
+<extent>2 p.</extent>
+<date value="1702-03-26">March 26, 1702</date>
+<idno rend="suppress">C02c26a.xml</idno>
+<title>Letter from Edmund Jenings to the trustees of Ralph Wormeley's estate, March 26, 1702</title>
+</bibl>
+</head>
+<p>Edmund Jenings states his positions concerning the interpretation of the will of Ralph Wormeley,  proposes certain actions be taken, and signifies his willingness to meet the other trustees.. </p>
+</div1>                 
+</front>
+
+
+
+<body>
+
+ <div1 type="letter" n="1702-03-26"> 
+ 
+<head>Letter from Edmund Jenings to the Trustees<lb/>
+ of <note n="RW">Ralph Wormeley's </note>Estate, March 26, 1702</head> 
+ 
+<opener> 
+ 
+<dateline>
+<pb n="1"/>  
+<name type="place">[Williamsburg, Virginia]</name><lb/> 
+ 
+<date value="1702-03-26">March 26, 1702</date> 
+</dateline>
+                                             
+<salute>In Order to Divide &amp; Settle the Estate of Ralph Wormeley<lb/>late <note target="n1">Secretary of <abbr expan="Virginia">Virga.</abbr></note> pursuant to his Will I Conceive it necessary <lb/>and propose.
+</salute> 
+                   
+</opener> 
+
+<p>That <note target="n2">Madam Wormeley</note> <abbr expan="forthwith">forthwth.</abbr> make Choice of <sic corr="so">soe</sic> much of the Good<corr resp="editor">[s ap]</corr><lb/>
+-<sic corr="-praised">-prais'd</sic> as Amount<corr resp="editor">[ing]</corr> to &pound;100 to furnish Her Room &amp;c.</p>
+
+<p>That One or more be Appointed to divide the Estate According to the Appr<corr resp="editor">[aisal]</corr><lb/>
+in 5 <sic corr="Equal">Equall</sic> parts, that <abbr expan="Madam">Madm.</abbr> Wormeley may make Choice of One fifth part <corr resp="editor">[to
+]</corr><lb/>
+be <abbr expan="Delivered">Deliver'd</abbr> her <sic corr="prornising">prorniseing</sic> or <sic corr="Giving">Giveing</sic> Caution to be answerable for a pro<lb/>
+-portionable part of Debts if any, And also the Trustees to answer her <corr resp="editor">[for ]</corr>part<lb/>
+of Money in England or Debts here.</p>
+
+<p>That the <sic corr="Real">Reall</sic> Estate be Divided into 3 parts, but <sic corr="so">soe</sic> as not to Divide plan<lb/>
+-tations if to be Avoided of  <abbr expan="Madam">Madm.</abbr> Wormeley to make Choice of On<corr resp="editor">[e]</corr><lb/>
+or (if <sic corr="she">shee</sic> thinks <sic corr="fit">fitt</sic>) to have <note target="n3">her Dower</note> laid out as the Law Directs with<lb/>
+-out Charge.</p>
+&mdash;&mdash;&mdash;
+
+<p>That after the Division and  <abbr expan="Madam">Madm.</abbr>Wormeleys part <corr resp="editor">[is]</corr>taken out <unclear>t?l[ . . . ]</unclear><lb/> 
+<note target="n4"><abbr expan="Elizabeth">Eliza.</abbr> Wormeley</note> to make Choice of a Negro Man or Woman <unclear>[ . . . ]</unclear><lb/>
+of <abbr expan="which">wch.</abbr> hitherto has and is an apparent Prejudice to her <unclear>[ . . . ]</unclear><lb/>
+other Things <sic corr="bequeathed">bequeathd</sic> her be <abbr expan="Delivered">Deliver'd</abbr> &amp; paynent made <unclear> [ . . . ]</unclear><lb/>
+and Consideration for Accomedation and provision.</p>
+&mdash;&mdash;&mdash;
+
+<p>That Madam <note target="n5">Catherine Corbin</note> be paid her tegacy of 5<corr resp="editor">[0 &pound;]</corr></p>
+
+<p>That for the present <abbr expan="Management">Managemt.</abbr> &amp; Improvement of the Estate<corr resp="editor">[s]</corr><lb/>
+be Appointed and <sic corr="Empowered">Impowered</sic> to Draw <note target="n6">Bills of Exchange</note> for <corr resp="editor">[all]</corr><lb/>
+Debts, <sic corr="Legacies,">Legacys,</sic> <note target="n7"><sic corr="Quit">Quitt</sic> Rents </note>&amp; c. and sending for <sic corr="clothes">Close</sic> &amp;  <sic corr="Necessaries">Necessarys</sic> concer<corr resp="editor">[n]</corr><lb/>
+-ing the <sic corr="several">severall</sic> plantations, &amp;  to whom the Overseers and <unclear>[ . . . ]</unclear><lb/> --on may apply themselves, for what they want, of <abbr expan="which">wch.</abbr> those so <unclear>[ . . . ]</unclear><lb/>
+to keep &amp; give an Account to a full meeting of the Trustees <sic corr="annualy">annually</sic> the <abbr expan="Said">Sd</abbr>.<lb/>
+Trustees being Distant from One another  <sic corr="it is">tis</sic> almost lrnpossib<corr resp="editor">[le]</corr><lb/>
+to have frequent Meetings or on<sic corr=" Sudden"> Suddain</sic> Occasions.</p>
+
+<p>That it be Agreed to whom the <abbr expan="Tobacco">Tobo.</abbr> be <sic corr="Consigned">Consignd</sic> and a Joint <corr resp="editor">[letter be]</corr><lb/>
+<sic corr="Written">Writt</sic> to Such person or persons, <sic corr="Signifying">Signifyeing</sic> the persons Impo<corr resp="editor">[wered]</corr><lb/>
+to send for Goods Bills of <abbr expan="Exchange">Excha.</abbr> &amp;c. That Credence may be g<corr resp="editor">[iven]</corr><lb/>
+and thereby <sic corr="secured">securd</sic> in Answering &amp;  paying what <corr resp="editor">[was]</corr> <sic corr="Written">Writt</sic> for</p>
+
+<p>That the Books of Accounts, Papers, Debts &amp;c  be <sic corr="Delivered">Deliverd</sic> <corr resp="editor">[to?]</corr> <lb/>
+of the Trustees &amp;  Desired to Overlook them and take the Pai<corr resp="editor">[ns to]</corr><lb/> 
+<sic corr="put">putt</sic> them in a Method and make <abbr expan="Debits.">Debts.</abbr> and <abbr expan="Credits,">Creds,</abbr> &amp; that th<corr resp="editor">[ey be]</corr><lb/> 
+laid before the Trustees as soon as may be and also what has <corr resp="editor">[al]</corr><lb/>-ready lransacted by any person &amp; c.</p>
+
+<p>I think it absolutely Necessary this or something of the Like Nature be<lb/>
+forthwith Agreed on and Ordered by the Major part of all the <unclear>[ . . . ]</unclear><lb/>
+Trustees to <sic corr="Avoid">Avoide</sic> future Inconveniences <abbr expan="which">wch.</abbr> <corr resp="editor">[I]</corr> am Apprehensive <corr resp="editor">[will]</corr><lb/>
+attend if longer <sic corr="delayed">delayd</sic> also that if anything has <sic corr="been">bin</sic> alread<corr resp="editor">[y done]</corr><lb/>
+<abbr expan="without">wth.out</abbr> Direction or Power it be amended.</p>
+
+<pb n="2"/><lb/><lb/>
+<p>I have frequently urged to have the Estate Divided &amp;  Methods
+agreed<lb/>
+on for the Management &amp;  <abbr expan="Improvement">Improvemt.</abbr> of it, but <sic corr="met">mett</sic> <abbr expan="with">wth.</abbr> Little En=<lb/>
+-couragemt. or forwardness for a Meeting of the Trustees, <sic corr="yet">yett</sic> the great<lb/>
+Obligations to my <abbr expan="Deceased">Deceas'd</abbr> and <abbr expan="Dear">Dr.</abbr> Friend and the Esteem for his<lb/>
+<note target="n8">Remains</note> still <sic corr="Obliges">Oblidges</sic> me t,o Endeavour a Just performance of his<lb/>
+Will, he was pleased to Name &amp;  <sic corr="Entrust">Intrust</sic> me in, Therefore to Expedi<lb/>
+-te <sic corr="it">itt</sic> what in me <sic corr="Lies,">Lyes,</sic> take this Method of putting my thoughts<lb/>
+in Writing <abbr expan="which">wch.</abbr> the Trustees that <sic corr="Lies">Lyes</sic> on <abbr expan="Rappahannock ">Rappa.</abbr> <corr resp="editor">[River]</corr>  &amp;  near together may<lb/>
+if they please Consider <abbr expan="which">wch.</abbr> if they Approve of my Consent goes <abbr expan="with">wth.</abbr><lb/>
+them, and since I have not <sic corr="been">bin</sic> wanting in my Endeavours Hope<lb/>
+I am in great part blameless and shall be Ready on all Occasions<lb/>
+to give my Advice, and Execute any part thought proper and the<lb/>
+place of <note target="n9">my Abode</note> will be suitable for.</p>
+
+<p>As I have <abbr expan="mentioned">mention'd</abbr> Persons to be <abbr expan="Empowered">Impower'd</abbr> to Act <sic corr="so">soe</sic> I will in<lb/>
+the Like <sic corr="plainness">plainess</sic> <sic corr="let">lett</sic> my thoughts be known That the Estate be<lb/>
+<sic corr="so far">soe farr</sic> Divided by Mr. <note target="n10">Edwin Thacker</note> as Relates to the Negroes<lb/>
+Cattle &amp; Sheep <abbr expan="Expressed">Express'd</abbr> in the <abbr expan="Appraisment">Appraisemt.</abbr> <abbr expan="which">wch.</abbr> he has Promised<lb/>
+to <sic corr="Do">Doe</sic> that it may be in Readiness <abbr expan="against">agt.</abbr> the Trustees <sic corr="Meeting">Meets</sic> at<lb/>
+<abbr expan=" Madam"> Madm.</abbr>. Wormeleys on the Ninth Day of <sic corr="April">Aprill</sic> next, when if any<lb/>
+Thing is <sic corr="amiss">a Miss</sic> may by them or the Major, part of them be Rec=<lb/>
+-tified &amp;  <abbr expan=" Madam"> Madm.</abbr> Wormeley <sic corr="be">bee</sic> then Desired to make her Choice, <sic corr="at">att</sic><lb/>
+<abbr expan="which">wch.</abbr> meeting, if I Can <sic corr="be">bee</sic> <abbr expan="Dismissed">Dismiss'd</abbr> from the committee will God<lb/>
+Willing Attend, That <note n="RC"><abbr expan="Colonel">Collo.</abbr> Carter</note> <sic corr="be">bee</sic> Desired to Settle the Books<lb/>
+and Debts &amp; c. and that One or Two be <abbr expan="Enpowered">Inpower'd</abbr> to take Care<lb/>
+of the Plantations pass Bills &amp;  on Rappahanock, &amp; if I am<lb/>
+thought Serviceable will take Care of the affair on <sic corr="York">Yourk</sic> River.</p>
+
+E JENINGS
+
+ 
+</div1> 
+</body> 
+ 
+<back> 
+<div1 type="notes"> 
+<head>NOTES</head> 
+ <note><hi rend="italics">Source copy consulted:</hi> Christ Church Parish, Lancaster County,  Processioners' Returns, 1711-1783,and Wormeley Estate Papers, 1701-1710, 1716, Acc. 30126, Archives Research Services, Library of Virginia, Richmond, 147-149. The letter book contains a copy of <xref to="http://carter.lib.virginia.edu/html/C02d06a.html">Robert Carter's answer</xref> to Jenings's proposals, and an account "of the Profitts of the Secretary's Place Accrewing Due from the Public Clerks . . . 1700."</note>
+
+<note>For notes on the early Ralph Wormeleys, especially Ralph Wormeley II, whose will is discussed in this document, see the web site of the <xref to="http://www.vahistorical.org/collections-and-resources/virginia-history-explorer/virginias-colonial-dynasties/wormeley-family">Virginia Historical Society</xref>.</note> 
+
+<note id="n">[1] "The Secretaries business is to keep the public Records of the Country, and to take care that they be regularly and fairly made up; namely all Judgments of the General Court, as likewise all Deeds, and other Writings there proved; and further, to issue all Writs. . . . To make out and record all patents for Land. . . ." The office of the Secretary appointed all the clerks of the county court and received fees from these officials as well as from those conducting business with his office. (<cit><bibl>Louis B. Wright, <hi  rend="italics">ed.</hi> <title>The History and Present State of Virginia By Robert Beverley.</title> [Chapel Hill: University of North Carolina Press for the Institute for Early American History and Culture, 1947] pp. 245-46. p. 239; and <cit><bibl n="B41">Morton. <hi rend="italics">ed.</hi>  <title>The Present State of Virginia. . . by Hugh Jones.</title></bibl></cit> p. 187, fn. 75.</bibl></cit>) </note>
+
+<note id="n2">[2] Elizabeth (Armistead) Wormeley Churchill was Robert Carter's sister-in-law through her sister, Carter's first wife. Judith Armistead. She married first Ralph Wormeley (1650-1701), by whom she was the mother of of Ralph (ca. 1681-1714) and John (1689-1727). Her second husband was William Churchill (1649/50-1710) of  "Bushy Park," Middlesex County. Her daugher Priscilla Churchill married Robert Carter II. </note>
+
+<note id="n3"> [3]  Dower is "the portion of a deceased husband's estate which the law allows to his widow for her life."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>) </note>
+
+<note id="n4">[4] Ralph Wormeley had two daughters, Elizabeth (Wormeley) Lomax and Catherine  (Wormeley) Corbin. (<cit><bibl>Janet and Robert Wolfe. "<xref to="http://www-personal.umich.edu/~bobwolfe/gen/mn/m27824x27823.htm">Notes for John Lomax</xref> and Elizabeth Wormeley"</bibl></cit> and <cit><bibl>"The <xref to="http://www.jstor.org/stable/4244188.">Wormeley Family</xref> (Continued)." <title>The Virginia Magazine of History and Biography </title>36, no. 1 (1928): 98-101.</bibl></cit>)</note>
+
+<note id="n5">[5] Catherine (Wormeley) Corbin (d. <hi rend="italics">ante </hi>1707), daughter of Ralph Wormeley, was Gawin Corbin 's first (of three) wives. (<cit><bibl n="A7">"The Cor<sic corr="been ">bin</sic> Family of Virginia."</bibl></cit>)</note>
+
+<note id="n6"> [6] A bill of exchange is a kind of check or promissory note without interest.  It is used primarily in international trade, and is a written order by one person to pay another a specific sum on a specific date sometime in the future.  If the bill of exchange is drawn on a bank, it is called a bank draft.  If it is drawn on another party, it is called a trade draft.  Sometimes a bill of exchange will simply be called a draft, but whereas a draft is always  negotiable (transferable by endorsement), this is not necessarily true of a bill of exchange. (See <cit><bibl><xref to="http://www.fraudaid.com/Dictionary-of-Financial-Scam-Terms/bill_of_exchange.htm">"Bill of Exchange"</xref> in the online Dictionary of Financial Scam Terms: the Truth vs. the Scam.</bibl></cit>)</note>
+
+<note id="n7">[7] Quit rent was the term used for "a (usually small) rent paid by a freeholder . . .  in lieu of services which might otherwise be required; a nominal rent paid (esp. in former British colonial territories to the Crown) as an acknowledgement of tenure," in this case, to the proprietors of the Northern Neck. Carter as the proprietor's agent, collected these payments. (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
+
+<note id="n8">[8] Remains are "the remaining representative of a family or lineage."  (<cit><bibl><title>Oxford English Dictionary Online</title>. Oxford University Press.</bibl></cit>)</note>
+
+<note id="n9">[9] Ripon Hall was Edmund Jenings' estate in York County which he had acquired in 1687 from John and Unity West when it was named "Poplar Neck." Jenings's bad financial circumstances forced him to mortgage the property to Carter who eventually acquired title to it. (<cit><bibl><xref to="https://archive.org/stream/williammarycolle02tyle#page/n547/mode/2up/search/271">"Notes and Queries."</xref> <title>William and Mary Quarterly.</title> 2[Apr. 1894]: 270-278, now available through the Internet Archive.</bibl></cit> <cit><bibl> See also <xref to="http://www.encyclopediavirginia.org/media_player?mets_filename=evm00003158mets.xml">"Ripon Hall"</xref> in the online <title>Encyclopedia Virginia.</title></bibl></cit>)</note>
+
+<note id="n10">[10] Edwin Thacker (1665-1704) was a resident of Christ Church Parish, Middlesex County, Virginia, where he was a large landowner, burgess, and sheriff. As a neighbor, he would have been quite familiar with Ralph Wormeley's holdings. (<cit><bibl>Frances M. Smith.<title> Colonial Families of America</title>. [F. Allaben Genealogical Company, 1909], p. 90.</bibl></cit>)</note>
+
+<lb/><lb/><note><hi rend="italics">This text was created July 16, 2016,  with footnotes and a modern language version text.</hi></note>
+
+
+
+  
+</div1> 
+</back> 
+</text> 
+ 
+
+</TEI.2>
